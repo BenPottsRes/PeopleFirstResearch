@@ -378,3 +378,15 @@ select {
   opacity: 0.55;
   cursor: not-allowed;
 }
+.brand{
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.logo{
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  border-radius: 14px; /* optional: softens edges if logo has a box */
+}
