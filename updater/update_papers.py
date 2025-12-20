@@ -14,6 +14,7 @@ Crossref API docs:
 
 from __future__ import annotations
 
+
 import json
 import re
 import time
@@ -25,6 +26,72 @@ from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 import requests
 import yaml
 
+import re
+
+ASD_BUFFER_MAX = 3
+
+def assign_framing(title: str, abstract: str) -> str | None:
+    """
+    Assigns a framing label based purely on observable language use.
+    No inference is made about author intent, epistemology, or quality.
+    """
+
+    text = f"{title or ''} {abstract or ''}".lower()
+
+    # Identity-first language
+    identity_first_patterns = [
+        r"\bautistic person\b",
+        r"\bautistic people\b",
+        r"\bautistic adult[s]?\b",
+        r"\bautistic child(?:ren)?\b",
+        r"\bautistic individual[s]?\b",
+        r"\bautistic student[s]?\b",
+    ]
+
+    # Person-first language
+    person_first_patterns = [
+        r"\bperson with autism\b",
+        r"\bpeople with autism\b",
+        r"\badult[s]? with autism\b",
+        r"\bchild(?:ren)? with autism\b",
+        r"\bindividual[s]? with autism\b",
+        r"\bstudent[s]? with autism\b",
+    ]
+
+    # Diagnostic terminology
+    asd_patterns = [
+        r"\bautism spectrum disorder\b",
+        r"\basd\b",
+    ]
+
+    def count_matches(patterns):
+        return sum(len(re.findall(p, text)) for p in patterns)
+
+    identity_count = count_matches(identity_first_patterns)
+    person_first_count = count_matches(person_first_patterns)
+    asd_count = count_matches(asd_patterns)
+
+    # --- Rule hierarchy ---
+
+    if identity_count > 0 and person_first_count > 0:
+        return "Mixed or transitional framing"
+
+    if identity_count > 0 and person_first_count == 0:
+        if asd_count == 0:
+            return "Neurodiversity-affirming"
+        if asd_count <= ASD_BUFFER_MAX and identity_count >= asd_count + 1:
+            return "Neurodiversity-affirming"
+        return "Mixed or transitional framing"
+
+    if person_first_count > 0 and identity_count == 0:
+        if asd_count == 0:
+            return "Person-first language used"
+        return "Mixed or transitional framing"
+
+    if asd_count > 0:
+        return "Medical or diagnostic framing"
+
+    return None
 
 ROOT = Path(__file__).resolve().parents[1]
 JOURNALS_YML = ROOT / "updater" / "journals.yml"
@@ -423,6 +490,11 @@ def main() -> None:
                     "domains": ann.get("domains", []),
                     "tags": ann.get("tags", []),
                 }
+
+                paper["framing"] = assign_framing(
+                    title=paper.get("title"),
+                    abstract=paper.get("abstract"),
+                )
 
                 if abstract:
                     paper_obj["abstract"] = abstract
