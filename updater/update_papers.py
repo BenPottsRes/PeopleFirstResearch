@@ -487,6 +487,7 @@ def main() -> None:
                     "neurotype": neurotype,
                     "domains": ann.get("domains", []),
                     "tags": ann.get("tags", []),
+                }
 
                 if abstract:
                     paper_obj["abstract"] = abstract
