@@ -26,8 +26,6 @@ from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 import requests
 import yaml
 
-import re
-
 ASD_BUFFER_MAX = 3
 
 def assign_framing(title: str, abstract: str) -> str | None:
@@ -489,18 +487,18 @@ def main() -> None:
                     "neurotype": neurotype,
                     "domains": ann.get("domains", []),
                     "tags": ann.get("tags", []),
-                }
-
-                paper["framing"] = assign_framing(
-                    title=paper.get("title"),
-                    abstract=paper.get("abstract"),
-                )
 
                 if abstract:
                     paper_obj["abstract"] = abstract
-
+                
+                # NEW: language framing tag (based on observable wording in title/abstract)
+                framing = assign_framing(title=title, abstract=abstract or "")
+                if framing:
+                    paper_obj["framing"] = framing
+                
                 # Clean None fields
                 paper_obj = {k: v for k, v in paper_obj.items() if v not in (None, "", [])}
+
 
                 papers_out.append(paper_obj)
                 seen_doi.add(doi)
