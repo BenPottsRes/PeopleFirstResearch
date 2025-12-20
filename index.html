@@ -49,6 +49,7 @@
         <div>
           <h2>Latest research</h2>
           <p class="muted" id="countLine">Loading papers…</p>
+          <p class="muted" id="orderHint">Ordered by publish date (newest first).</p>
         </div>
       </div>
 
@@ -77,6 +78,28 @@
           </select>
         </div>
 
+        <!-- NEW: ordering -->
+        <div class="select-wrap">
+          <label class="label" for="sortOrder">Order by</label>
+          <select id="sortOrder">
+            <option value="date_desc" selected>Publish date (newest first)</option>
+            <option value="date_asc">Publish date (oldest first)</option>
+            <option value="title_asc">Title (A to Z)</option>
+            <option value="journal_asc">Journal (A to Z)</option>
+          </select>
+        </div>
+
+        <!-- NEW: page size -->
+        <div class="select-wrap">
+          <label class="label" for="pageSize">Papers shown</label>
+          <select id="pageSize">
+            <option value="10">10</option>
+            <option value="20" selected>20</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+          </select>
+        </div>
+
         <div class="controls-actions">
           <button class="btn btn-secondary" id="resetBtn" type="button">Reset</button>
           <button class="btn btn-ghost" id="toggleAbstracts" type="button">Show abstracts</button>
@@ -84,6 +107,13 @@
       </div>
 
       <div id="papers" class="papers" aria-live="polite"></div>
+
+      <!-- NEW: pager -->
+      <div class="pager" id="pager" aria-label="Pagination controls" style="display:none;">
+        <button class="btn btn-ghost" id="prevPage" type="button">Previous</button>
+        <span class="muted" id="pageInfo"></span>
+        <button class="btn btn-secondary" id="nextPage" type="button">Next</button>
+      </div>
     </section>
 
     <section id="about" class="section">
@@ -174,6 +204,15 @@
       return Array.isArray(p[key]) && p[key].length > 0;
     }
 
+    function parseDateForSort(p) {
+      if (p.published_date) {
+        const t = Date.parse(p.published_date);
+        if (!Number.isNaN(t)) return t;
+      }
+      if (p.year) return Date.parse(`${p.year}-01-01`);
+      return 0;
+    }
+
     fetch("papers.json", { cache: "no-store" })
       .then(r => r.json())
       .then(data => {
@@ -191,7 +230,18 @@
         const countLine = document.getElementById("countLine");
         const metaRow = document.getElementById("metaRow");
 
+        // NEW elements
+        const sortOrderEl = document.getElementById("sortOrder");
+        const pageSizeEl = document.getElementById("pageSize");
+        const orderHintEl = document.getElementById("orderHint");
+
+        const pagerEl = document.getElementById("pager");
+        const prevPageBtn = document.getElementById("prevPage");
+        const nextPageBtn = document.getElementById("nextPage");
+        const pageInfoEl = document.getElementById("pageInfo");
+
         let showAbstracts = false;
+        let currentPage = 1;
 
         // Build select options from data if present
         const neurotypes = uniq(papers.flatMap(p => (p.neurotype || [])));
@@ -212,16 +262,6 @@
           domainEl.appendChild(opt);
         });
 
-        // Sorting: newest first by published_date then year
-        const sorted = [...papers].sort((a, b) => {
-          const da = a.published_date ? Date.parse(a.published_date) : NaN;
-          const db = b.published_date ? Date.parse(b.published_date) : NaN;
-          if (!Number.isNaN(da) && !Number.isNaN(db)) return db - da;
-          if (!Number.isNaN(db)) return 1;
-          if (!Number.isNaN(da)) return -1;
-          return (b.year || 0) - (a.year || 0);
-        });
-
         // Meta line
         const metaParts = [];
         if (generatedAt) {
@@ -237,10 +277,37 @@
           metaRow.innerHTML = metaParts.map(t => `<span class="chip chip-muted">${t}</span>`).join("");
         }
 
+        const baseList = [...papers];
+
+        function updateOrderHint() {
+          const mode = sortOrderEl.value;
+          const map = {
+            date_desc: "Ordered by publish date (newest first).",
+            date_asc: "Ordered by publish date (oldest first).",
+            title_asc: "Ordered by title (A to Z).",
+            journal_asc: "Ordered by journal (A to Z)."
+          };
+          orderHintEl.textContent = map[mode] || "Ordered list.";
+        }
+
+        function applySort(list) {
+          const mode = sortOrderEl.value;
+          const sorted = [...list].sort((a, b) => {
+            if (mode === "date_desc") return parseDateForSort(b) - parseDateForSort(a);
+            if (mode === "date_asc") return parseDateForSort(a) - parseDateForSort(b);
+            if (mode === "title_asc") {
+              return (a.title || "").localeCompare((b.title || ""), "en", { sensitivity: "base" });
+            }
+            if (mode === "journal_asc") {
+              return (a.journal || "").localeCompare((b.journal || ""), "en", { sensitivity: "base" });
+            }
+            return 0;
+          });
+          return sorted;
+        }
+
         function render(list) {
           papersEl.innerHTML = "";
-
-          countLine.textContent = `Showing ${list.length} of ${papers.length} papers`;
 
           if (list.length === 0) {
             papersEl.innerHTML = `<div class="empty card"><p class="muted">No papers match your filters.</p></div>`;
@@ -303,7 +370,7 @@
           const n = neuroEl.value;
           const d = domainEl.value;
 
-          const filtered = sorted.filter(p => {
+          const filtered = baseList.filter(p => {
             const hay = normalise(
               [p.title, p.journal, safeAuthors(p.authors), (p.tags || []).join(" "), (p.domains || []).join(" ")].join(" ")
             );
@@ -315,18 +382,60 @@
             return matchQ && matchN && matchD;
           });
 
-          render(filtered);
+          const sorted = applySort(filtered);
+          updateOrderHint();
+
+          const pageSize = parseInt(pageSizeEl.value, 10) || 20;
+          const total = sorted.length;
+          const totalPages = Math.max(1, Math.ceil(total / pageSize));
+
+          if (currentPage > totalPages) currentPage = totalPages;
+          if (currentPage < 1) currentPage = 1;
+
+          const start = (currentPage - 1) * pageSize;
+          const end = start + pageSize;
+          const pageItems = sorted.slice(start, end);
+
+          render(pageItems);
+
+          countLine.textContent = `Showing ${pageItems.length} of ${total} papers (page ${currentPage} of ${totalPages})`;
+
+          if (total > pageSize) {
+            pagerEl.style.display = "flex";
+            prevPageBtn.disabled = currentPage === 1;
+            nextPageBtn.disabled = currentPage === totalPages;
+            pageInfoEl.textContent = `Page ${currentPage} of ${totalPages}`;
+          } else {
+            pagerEl.style.display = "none";
+            pageInfoEl.textContent = "";
+          }
         }
 
         // Events
-        searchEl.addEventListener("input", applyFilters);
-        neuroEl.addEventListener("change", applyFilters);
-        domainEl.addEventListener("change", applyFilters);
+        searchEl.addEventListener("input", () => { currentPage = 1; applyFilters(); });
+        neuroEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
+        domainEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
+
+        sortOrderEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
+        pageSizeEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
+
+        prevPageBtn.addEventListener("click", () => {
+          currentPage = Math.max(1, currentPage - 1);
+          applyFilters();
+        });
+
+        nextPageBtn.addEventListener("click", () => {
+          currentPage = currentPage + 1;
+          applyFilters();
+        });
 
         resetBtn.addEventListener("click", () => {
           searchEl.value = "";
           neuroEl.value = "All";
           domainEl.value = "All";
+          sortOrderEl.value = "date_desc";
+          pageSizeEl.value = "20";
+          currentPage = 1;
           applyFilters();
         });
 
