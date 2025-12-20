@@ -474,6 +474,13 @@
           document.getElementById("framingModal").hidden = true;
         }
       });
+          // Close framing modal when clicking the overlay
+      document.addEventListener("click", (e) => {
+        if (e.target && e.target.id === "framingModal") {
+          document.getElementById("framingModal").hidden = true;
+        }
+      });
+
 
   </script>
 
