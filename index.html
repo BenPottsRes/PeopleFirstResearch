@@ -328,6 +328,15 @@
 
             const chips = [];
 
+                        // NEW: framing chip (language-based)
+            if (p.framing) {
+              chips.push(`
+                <span class="chip chip-framing">
+                  ${p.framing}
+                  <button class="info-btn" type="button" aria-label="What do framing tags mean?" data-modal="framing">i</button>
+                </span>
+              `);
+            }
             if (hasArray(p, "neurotype")) {
               p.neurotype.slice(0, 3).forEach(n => chips.push(`<span class="chip">${n}</span>`));
             }
@@ -456,6 +465,34 @@
         document.getElementById("papers").innerHTML =
           "<div class='empty card'><p class='muted'>Unable to load the research list. Please check that papers.json exists and is valid JSON.</p></div>";
       });
+          // NEW: framing info modal behaviour (works on dynamically rendered chips)
+      document.addEventListener("click", (e) => {
+        if (e.target && e.target.matches(".info-btn[data-modal='framing']")) {
+          document.getElementById("framingModal").hidden = false;
+        }
+        if (e.target && (e.target.id === "closeFramingModal" || e.target.id === "framingModal")) {
+          document.getElementById("framingModal").hidden = true;
+        }
+      });
+
   </script>
+
+        <!-- NEW: framing info modal -->
+      <div id="framingModal" class="modal" hidden>
+        <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="framingTitle">
+          <h3 id="framingTitle">Framing tags</h3>
+          <p class="muted">
+            These tags are assigned automatically based on language used in titles and abstracts. They describe wording only. They do not indicate author intent, study quality, or endorsement of any particular model.
+          </p>
+          <ul class="modal-list">
+            <li><strong>Neurodiversity-affirming</strong>: Uses identity-first language such as “autistic people”.</li>
+            <li><strong>Person-first language used</strong>: Uses wording such as “people with autism”.</li>
+            <li><strong>Medical or diagnostic framing</strong>: Uses terms such as “autism spectrum disorder” or “ASD”.</li>
+            <li><strong>Mixed or transitional framing</strong>: Uses a mixture of the above language forms.</li>
+          </ul>
+          <button class="btn btn-secondary btn-small" id="closeFramingModal" type="button">Close</button>
+        </div>
+      </div>
+
 </body>
 </html>
