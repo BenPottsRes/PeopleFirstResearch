@@ -1,135 +1,414 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>People First Research</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
+:root{
+  --bg: #0b1020;
+  --surface: rgba(255,255,255,0.08);
+  --surface-2: rgba(255,255,255,0.06);
+  --card: rgba(255,255,255,0.92);
+  --text: #0f172a;
+  --muted: rgba(15,23,42,0.70);
+  --border: rgba(15,23,42,0.10);
+  --shadow: 0 12px 30px rgba(2, 6, 23, 0.10);
+  --radius: 18px;
+}
 
-<body>
+*{ box-sizing: border-box; }
 
-<header class="container">
-  <h1>People First Research</h1>
-  <p class="subtitle">Latest published research focused on autistic, ADHD and AuDHD lives</p>
+html{
+  scroll-behavior: smooth;
+}
 
-  <p><strong>This page exists to centre people.</strong></p>
+body{
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  line-height: 1.55;
+  background:
+    radial-gradient(1200px 800px at 20% 10%, rgba(129, 140, 248, 0.26), transparent 55%),
+    radial-gradient(900px 700px at 80% 20%, rgba(34, 211, 238, 0.18), transparent 60%),
+    linear-gradient(180deg, #070a14 0%, #0b1020 45%, #0a1228 100%);
+  color: rgba(255,255,255,0.92);
+}
 
-  <p class="muted">
-    Autistic, ADHD and AuDHD people are frequently the subject of research, yet much of that
-    research focuses on biology, mechanisms, or classification rather than on the everyday
-    realities of living, accessing services, communicating, learning, working, and being understood.
-    While such work has value, it does not always translate into meaningful improvements in quality
-    of life, wellbeing, or equity.
-  </p>
+a{
+  color: inherit;
+}
 
-  <p>
-    <strong>This page highlights peer-reviewed research that aims to understand and improve people’s lives.</strong>
-  </p>
+.shell{
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 28px 18px;
+}
 
-  <nav class="links">
-    <a href="#latest">View latest papers</a>
-    <span>·</span>
-    <a href="#about">Read more</a>
-  </nav>
-</header>
+.skip-link{
+  position: absolute;
+  left: -999px;
+  top: 8px;
+  background: #fff;
+  color: #000;
+  padding: 10px 12px;
+  border-radius: 10px;
+  z-index: 999;
+}
+.skip-link:focus{ left: 12px; }
 
-<main class="container">
+.hero{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
-  <!-- Latest papers -->
-  <section id="latest">
-    <h2>Latest research</h2>
+.hero-top{
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 
-    <input
-      type="text"
-      id="search"
-      placeholder="Search titles, journals, or authors"
-      aria-label="Search research papers"
-    />
+h1{
+  margin: 0;
+  font-size: 34px;
+  letter-spacing: -0.02em;
+}
 
-    <div id="papers" class="papers"></div>
-  </section>
+.subtitle{
+  margin: 6px 0 0 0;
+  color: rgba(255,255,255,0.78);
+  font-size: 16px;
+}
 
-  <!-- About -->
-  <section id="about">
-    <h2>About this page</h2>
+.hero-actions{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
 
-    <h3>What this page includes</h3>
-    <ul>
-      <li>Lived experience, quality of life, wellbeing, or participation</li>
-      <li>Access to healthcare, education, employment, housing, or support</li>
-      <li>Communication, sensory experience, and person-centred care</li>
-      <li>Service design and service improvement</li>
-      <li>Participatory and co-produced research</li>
-    </ul>
+.hero-card{
+  margin-top: 18px;
+  padding: 18px 18px;
+  background: var(--surface);
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: var(--radius);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.16);
+  backdrop-filter: blur(10px);
+}
 
-    <h3>What this page does not include</h3>
-    <ul>
-      <li>Genetic, molecular, or biochemical mechanisms</li>
-      <li>Neuroimaging or biomarker-focused studies</li>
-      <li>Animal or pre-clinical research</li>
-    </ul>
+.lead{
+  margin: 0 0 10px 0;
+  font-size: 15px;
+}
 
-    <h3>How the research is selected</h3>
-    <p class="muted">
-      This page is updated using an automated process that monitors selected journals and applies
-      transparent inclusion and exclusion criteria to prioritise person-focused research.
-    </p>
-  </section>
+.muted{
+  color: rgba(255,255,255,0.78);
+}
 
-</main>
+.meta-row{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
 
-<footer class="container footer">
-  <p>
-    This is a curated, person-focused research index. Inclusion does not imply endorsement.
-  </p>
-</footer>
+.section{
+  margin-top: 26px;
+}
 
-<script>
-fetch("papers.json")
-  .then(response => response.json())
-  .then(data => {
-    const papers = data.papers;
-    const container = document.getElementById("papers");
-    const search = document.getElementById("search");
+.section-head{
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
 
-    function render(list) {
-      container.innerHTML = "";
-      if (list.length === 0) {
-        container.innerHTML = "<p class='muted'>No papers match your search.</p>";
-        return;
-      }
+h2{
+  margin: 0;
+  font-size: 22px;
+  letter-spacing: -0.01em;
+}
 
-      list.forEach(p => {
-        const div = document.createElement("article");
-        div.className = "paper";
+h3{
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  color: var(--text);
+}
 
-        div.innerHTML = `
-          <h3><a href="${p.url}" target="_blank" rel="noopener">${p.title}</a></h3>
-          <p class="meta">${p.authors.join(", ")} · ${p.journal} · ${p.year}</p>
-        `;
+.controls{
+  margin-top: 14px;
+  padding: 14px;
+  background: var(--surface-2);
+  border: 1px solid rgba(255,255,255,0.14);
+  border-radius: var(--radius);
+  display: grid;
+  grid-template-columns: 1.4fr 0.8fr 0.8fr auto;
+  gap: 10px;
+  align-items: end;
+  position: sticky;
+  top: 10px;
+  z-index: 20;
+  backdrop-filter: blur(10px);
+}
 
-        container.appendChild(div);
-      });
-    }
+@media (max-width: 880px){
+  .controls{
+    grid-template-columns: 1fr 1fr;
+  }
+  .controls-actions{
+    grid-column: 1 / -1;
+    justify-content: flex-start;
+  }
+}
 
-    render(papers);
+.label{
+  display: block;
+  font-size: 12px;
+  margin: 0 0 6px 2px;
+  color: rgba(255,255,255,0.78);
+}
 
-    search.addEventListener("input", () => {
-      const q = search.value.toLowerCase();
-      const filtered = papers.filter(p =>
-        p.title.toLowerCase().includes(q) ||
-        p.journal.toLowerCase().includes(q) ||
-        p.authors.join(" ").toLowerCase().includes(q)
-      );
-      render(filtered);
-    });
-  })
-  .catch(() => {
-    document.getElementById("papers").innerHTML =
-      "<p class='muted'>Unable to load research list.</p>";
-  });
-</script>
+input, select{
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.92);
+  padding: 10px 12px;
+  outline: none;
+}
 
-</body>
-</html>
+input::placeholder{
+  color: rgba(255,255,255,0.65);
+}
+
+select option{
+  color: #0f172a;
+}
+
+.controls-actions{
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.btn{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 12px;
+  border-radius: 999px;
+  text-decoration: none;
+  border: 1px solid rgba(255,255,255,0.18);
+  background: rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.92);
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+  transition: transform 120ms ease, background 120ms ease, border 120ms ease;
+}
+
+.btn:hover{
+  transform: translateY(-1px);
+  background: rgba(255,255,255,0.14);
+  border-color: rgba(255,255,255,0.24);
+}
+
+.btn:active{
+  transform: translateY(0px);
+}
+
+.btn-secondary{
+  background: rgba(255,255,255,0.92);
+  color: #0b1020;
+  border-color: rgba(255,255,255,0.40);
+}
+
+.btn-secondary:hover{
+  background: rgba(255,255,255,0.96);
+}
+
+.btn-ghost{
+  background: transparent;
+}
+
+.btn-small{
+  padding: 9px 11px;
+  font-size: 12.5px;
+}
+
+.papers{
+  margin-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.paper-card{
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 14px;
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 16px;
+}
+
+@media (max-width: 720px){
+  .paper-card{
+    grid-template-columns: 1fr;
+  }
+}
+
+.paper-title{
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+}
+
+.paper-title a{
+  color: var(--text);
+  text-decoration: none;
+}
+
+.paper-title a:hover{
+  text-decoration: underline;
+}
+
+.paper-meta{
+  margin: 6px 0 10px 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.paper-side{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+  min-width: 140px;
+}
+
+@media (max-width: 720px){
+  .paper-side{
+    align-items: flex-start;
+  }
+}
+
+.doi{
+  margin: 0;
+  font-size: 12px;
+}
+
+.chips{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip{
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  border: 1px solid rgba(15,23,42,0.12);
+  background: rgba(15,23,42,0.06);
+  color: rgba(15,23,42,0.84);
+}
+
+.chip-outline{
+  background: transparent;
+}
+
+.chip-muted{
+  background: rgba(255,255,255,0.10);
+  border-color: rgba(255,255,255,0.16);
+  color: rgba(255,255,255,0.78);
+}
+
+.abstract{
+  margin-top: 10px;
+  border-top: 1px solid rgba(15,23,42,0.10);
+  padding-top: 10px;
+  color: rgba(15,23,42,0.86);
+  font-size: 13.5px;
+}
+
+.abstract p{
+  margin: 0;
+}
+
+.details{
+  border-radius: var(--radius);
+  border: 1px solid rgba(255,255,255,0.14);
+  background: var(--surface-2);
+  padding: 14px 14px;
+  backdrop-filter: blur(10px);
+}
+
+.details summary{
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  font-weight: 700;
+  padding: 6px 6px;
+}
+
+.details summary::-webkit-details-marker{ display:none; }
+
+.details-body{
+  padding: 10px 6px 2px 6px;
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+@media (max-width: 860px){
+  .grid{
+    grid-template-columns: 1fr;
+  }
+}
+
+.card{
+  background: var(--card);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 16px;
+}
+
+.card.wide{
+  grid-column: 1 / -1;
+}
+
+.card ul{
+  margin: 0;
+  padding-left: 18px;
+  color: rgba(15,23,42,0.82);
+}
+
+.card li{
+  margin: 8px 0;
+}
+
+.empty{
+  padding: 18px;
+}
+
+.back-row{
+  margin-top: 12px;
+}
+
+.footer{
+  margin-top: 26px;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255,255,255,0.14);
+}
