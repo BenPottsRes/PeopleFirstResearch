@@ -50,8 +50,8 @@ ROWS_PER_ISSN = 200
 SLEEP_SECONDS_BETWEEN_REQUESTS = 0.2
 
 # Crossref etiquette: set a descriptive UA and include a contact email if possible.
-USER_AGENT = "PeopleFirstResearch/1.0 (GitHub Pages; contact: you@example.com)"
-MAILTO = ""  # optional, example: "ben@example.com"
+USER_AGENT = "PeopleFirstResearch/1.0 (GitHub Pages; contact: bpxr00@gmail.com)"
+MAILTO = "bpxr00@gmail.com"
 
 
 # ----------------------------
