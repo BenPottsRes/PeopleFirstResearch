@@ -385,8 +385,8 @@ select {
 }
 
 .logo{
-  width: 270px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   object-fit: contain;
   border-radius: 14px; /* optional: softens edges if logo has a box */
 }
