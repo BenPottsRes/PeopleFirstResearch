@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>People First Research</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<header class="container">
+  <h1>People First Research</h1>
+  <p class="subtitle">Latest published research focused on autistic, ADHD and AuDHD lives</p>
+
+  <p><strong>This page exists to centre people.</strong></p>
+
+  <p class="muted">
+    Autistic, ADHD and AuDHD people are frequently the subject of research, yet much of that
+    research focuses on biology, mechanisms, or classification rather than on the everyday
+    realities of living, accessing services, communicating, learning, working, and being understood.
+    While such work has value, it does not always translate into meaningful improvements in quality
+    of life, wellbeing, or equity.
+  </p>
+
+  <p>
+    <strong>This page highlights peer-reviewed research that aims to understand and improve people’s lives.</strong>
+  </p>
+
+  <nav class="links">
+    <a href="#latest">View latest papers</a>
+    <span>·</span>
+    <a href="#about">Read more</a>
+  </nav>
+</header>
+
+<main class="container">
+
+  <!-- Latest papers -->
+  <section id="latest">
+    <h2>Latest research</h2>
+
+    <input
+      type="text"
+      id="search"
+      placeholder="Search titles, journals, or authors"
+      aria-label="Search research papers"
+    />
+
+    <div id="papers" class="papers"></div>
+  </section>
+
+  <!-- About -->
+  <section id="about">
+    <h2>About this page</h2>
+
+    <h3>What this page includes</h3>
+    <ul>
+      <li>Lived experience, quality of life, wellbeing, or participation</li>
+      <li>Access to healthcare, education, employment, housing, or support</li>
+      <li>Communication, sensory experience, and person-centred care</li>
+      <li>Service design and service improvement</li>
+      <li>Participatory and co-produced research</li>
+    </ul>
+
+    <h3>What this page does not include</h3>
+    <ul>
+      <li>Genetic, molecular, or biochemical mechanisms</li>
+      <li>Neuroimaging or biomarker-focused studies</li>
+      <li>Animal or pre-clinical research</li>
+    </ul>
+
+    <h3>How the research is selected</h3>
+    <p class="muted">
+      This page is updated using an automated process that monitors selected journals and applies
+      transparent inclusion and exclusion criteria to prioritise person-focused research.
+    </p>
+  </section>
+
+</main>
+
+<footer class="container footer">
+  <p>
+    This is a curated, person-focused research index. Inclusion does not imply endorsement.
+  </p>
+</footer>
+
+<script>
+fetch("papers.json")
+  .then(response => response.json())
+  .then(data => {
+    const papers = data.papers;
+    const container = document.getElementById("papers");
+    const search = document.getElementById("search");
+
+    function render(list) {
+      container.innerHTML = "";
+      if (list.length === 0) {
+        container.innerHTML = "<p class='muted'>No papers match your search.</p>";
+        return;
+      }
+
+      list.forEach(p => {
+        const div = document.createElement("article");
+        div.className = "paper";
+
+        div.innerHTML = `
+          <h3><a href="${p.url}" target="_blank" rel="noopener">${p.title}</a></h3>
+          <p class="meta">${p.authors.join(", ")} · ${p.journal} · ${p.year}</p>
+        `;
+
+        container.appendChild(div);
+      });
+    }
+
+    render(papers);
+
+    search.addEventListener("input", () => {
+      const q = search.value.toLowerCase();
+      const filtered = papers.filter(p =>
+        p.title.toLowerCase().includes(q) ||
+        p.journal.toLowerCase().includes(q) ||
+        p.authors.join(" ").toLowerCase().includes(q)
+      );
+      render(filtered);
+    });
+  })
+  .catch(() => {
+    document.getElementById("papers").innerHTML =
+      "<p class='muted'>Unable to load research list.</p>";
+  });
+</script>
+
+</body>
+</html>
