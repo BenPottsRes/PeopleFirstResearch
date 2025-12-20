@@ -197,9 +197,6 @@ h2 {
   .controls {
     grid-template-columns: 1fr 1fr;
   }
-  .controls-actions {
-    grid-column: 1 / -1;
-  }
 }
 
 .label {
@@ -220,11 +217,14 @@ select {
 }
 
 .controls-actions {
+  grid-column: 1 / -1;
   display: flex;
   gap: 10px;
   justify-content: flex-end;
   flex-wrap: wrap;
+  margin-top: 6px;
 }
+
 
 /* PAPERS */
 
