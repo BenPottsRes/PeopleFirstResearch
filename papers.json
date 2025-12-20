@@ -1,18 +1,18 @@
 {
+  "generated_at": "2025-12-20T11:45:00Z",
+  "source_summary": "Manual test data",
   "papers": [
     {
+      "id": "test-1",
       "title": "Autistic adults’ experiences of emergency healthcare",
       "authors": ["A. Author", "B. Author"],
       "journal": "Autism",
-      "year": 2025,
-      "url": "https://doi.org/10.xxxx/xxxx"
-    },
-    {
-      "title": "Person-centred approaches to ADHD care in primary health settings",
-      "authors": ["C. Author", "D. Author", "E. Author"],
-      "journal": "Journal of Attention Disorders",
-      "year": 2024,
-      "url": "https://doi.org/10.xxxx/yyyy"
+      "published_date": "2025-11-18",
+      "doi": "10.0000/example",
+      "url": "https://doi.org/10.0000/example",
+      "neurotype": ["Autism"],
+      "domains": ["Healthcare", "Emergency care"],
+      "tags": ["lived experience", "access"]
     }
   ]
 }
