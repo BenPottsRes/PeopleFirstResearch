@@ -442,4 +442,5 @@ select {
   margin: 12px 0 16px 0;
   padding-left: 18px;
 }
+.modal[hidden] { display: none !important; }
 
