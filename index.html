@@ -77,7 +77,15 @@
             <option value="All">All</option>
           </select>
         </div>
-
+        <div class="select-wrap">
+          <label class="label" for="framing">
+            Language framing
+            <button class="info-btn" type="button" aria-label="What do language framing tags mean?" data-modal="framing">i</button>
+          </label>
+          <select id="framing">
+            <option value="All">All</option>
+          </select>
+        </div>
         <div class="select-wrap">
           <label class="label" for="domain">Domain</label>
           <select id="domain">
@@ -228,6 +236,7 @@
         const searchEl = document.getElementById("search");
         const neuroEl = document.getElementById("neurotype");
         const domainEl = document.getElementById("domain");
+        const framingEl = document.getElementById("framing");
         const resetBtn = document.getElementById("resetBtn");
         const toggleAbsBtn = document.getElementById("toggleAbstracts");
         const countLine = document.getElementById("countLine");
@@ -249,6 +258,12 @@
         // Build select options from data if present
         const neurotypes = uniq(papers.flatMap(p => (p.neurotype || [])));
         const domains = uniq(papers.flatMap(p => (p.domains || [])));
+        framings.sort((a, b) => a.localeCompare(b)).forEach(f => {
+          const opt = document.createElement("option");
+          opt.value = f;
+          opt.textContent = f;
+          framingEl.appendChild(opt);
+        });
 
         // Populate selects
         neurotypes.forEach(n => {
@@ -330,8 +345,7 @@
 
                         // NEW: framing chip (language-based)
             if (p.framing) {
-              chips.push(`
-                <span class="chip chip-framing">
+              chips.push(`<span class="chip chip-framing">
                   ${p.framing}
                   <button class="info-btn" type="button" aria-label="What do framing tags mean?" data-modal="framing">i</button>
                 </span>
@@ -381,6 +395,7 @@
           const q = normalise(searchEl.value);
           const n = neuroEl.value;
           const d = domainEl.value;
+          const f = framingEl.value;
 
           const filtered = baseList.filter(p => {
             const hay = normalise(
@@ -390,8 +405,9 @@
             const matchQ = !q || hay.includes(q);
             const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
             const matchD = (d === "All") || (Array.isArray(p.domains) && p.domains.includes(d));
+            const matchF = (f === "All") || (p.framing === f);
 
-            return matchQ && matchN && matchD;
+            return matchQ && matchN && matchD && matchF;
           });
 
           const sorted = applySort(filtered);
@@ -427,6 +443,7 @@
         searchEl.addEventListener("input", () => { currentPage = 1; applyFilters(); });
         neuroEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
         domainEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
+        framingEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
 
         sortOrderEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
         pageSizeEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
@@ -445,6 +462,7 @@
           searchEl.value = "";
           neuroEl.value = "All";
           domainEl.value = "All";
+          framingEl.value = "All";
           sortOrderEl.value = "date_desc";
           pageSizeEl.value = "20";
           currentPage = 1;
