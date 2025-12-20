@@ -258,12 +258,16 @@
         // Build select options from data if present
         const neurotypes = uniq(papers.flatMap(p => (p.neurotype || [])));
         const domains = uniq(papers.flatMap(p => (p.domains || [])));
+        const framings = uniq(papers.map(p => p.framing).filter(Boolean));
+        
+        // Populate framing select
         framings.sort((a, b) => a.localeCompare(b)).forEach(f => {
           const opt = document.createElement("option");
           opt.value = f;
           opt.textContent = f;
           framingEl.appendChild(opt);
         });
+
 
         // Populate selects
         neurotypes.forEach(n => {
@@ -464,7 +468,7 @@
           domainEl.value = "All";
           framingEl.value = "All";
           sortOrderEl.value = "date_desc";
-          pageSizeEl.value = "20";
+          pageSizeEl.value = "10";
           currentPage = 1;
           applyFilters();
         });
@@ -478,7 +482,8 @@
         // Initial render
         applyFilters();
       })
-      .catch(() => {
+        .catch((err) => {
+          console.error("Failed to initialise page:", err);
         document.getElementById("countLine").textContent = "Unable to load papers.";
         document.getElementById("papers").innerHTML =
           "<div class='empty card'><p class='muted'>Unable to load the research list. Please check that papers.json exists and is valid JSON.</p></div>";
