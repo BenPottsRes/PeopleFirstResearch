@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T23:22:26Z",
+  "generated_at": "2025-12-21T06:47:08Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters",
   "schema_version": "1.0",
   "papers": [
@@ -1949,27 +1949,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -1992,6 +1971,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -2446,53 +2446,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07012-6",
-      "title": "Psychosocial Functioning Mediates Parental Depression and Sleep in Autistic Children",
-      "authors": [
-        "Melanie A. Stearns",
-        "Braden Hayse",
-        "Kevin McGovney",
-        "Neetu Nair",
-        "Micah Mazurek",
-        "Ashley F. Curtis",
-        "David Beversdorf",
-        "Kristin Sohl",
-        "Christina S. McCrae"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1007/s10803-025-07012-6",
-      "url": "https://doi.org/10.1007/s10803-025-07012-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Neurodiversity-affirming"
-    },
-    {
-      "id": "10.1007/s10803-025-07011-7",
-      "title": "Sleep Problems in Children with ASD and Mothers’ Stress: the Mediating Role of Mother’s Quality of Life and Moderator Role of Mother’s Resilience",
-      "authors": [
-        "Mourad Ali Eissa Saad"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1007/s10803-025-07011-7",
-      "url": "https://doi.org/10.1007/s10803-025-07011-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251395122",
@@ -6452,6 +6405,26 @@
       "framing": "Neurodiversity-affirming"
     },
     {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -6473,26 +6446,6 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -9273,146 +9226,6 @@
         "Healthcare"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-06998-3",
-      "title": "Audio-Visual Speech Synchrony Impacts Gaze Patterns in Autism",
-      "authors": [
-        "Qinyi Liu",
-        "Qiandong Wang",
-        "Xiaoyun Gong",
-        "Xuerong Luo",
-        "Zhaozheng Ji",
-        "Tingni Yin",
-        "Xing Su",
-        "Jialu Chen",
-        "Xue Li",
-        "Li Yi",
-        "Jing Liu"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-08-22",
-      "doi": "10.1007/s10803-025-06998-3",
-      "url": "https://doi.org/10.1007/s10803-025-06998-3",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07009-1",
-      "title": "Exploring Parental Motivations for and Consequences of Having a Subsequent Child After an Autism Diagnosis in Türkiye",
-      "authors": [
-        "Hüsna Kaan",
-        "Seda Erbilgin",
-        "Alper Alnak",
-        "Murat Coskun"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-08-22",
-      "doi": "10.1007/s10803-025-07009-1",
-      "url": "https://doi.org/10.1007/s10803-025-07009-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07024-2",
-      "title": "A Lexicon-Based Analysis of Public Knowledge Regarding the Causes and Interventions for Autism Spectrum Disorder",
-      "authors": [
-        "Demet Tavukçu",
-        "Sultan Kaya"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-08-22",
-      "doi": "10.1007/s10803-025-07024-2",
-      "url": "https://doi.org/10.1007/s10803-025-07024-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-06997-4",
-      "title": "The Effect of Different Algorithms on Prevalence of Attention Deficit Hyperactivity Disorder and Autism Spectrum Disorder in Secondary Healthcare Data in Five European Countries: A Contribution from the ConcePTION Project",
-      "authors": [
-        "Joanne Given",
-        "Olga Paoletti",
-        "Rebecca Bromley",
-        "Elisa Ballardini",
-        "Anna-Belle Beau",
-        "Claudia Bartolini",
-        "Anthony Caillet",
-        "Alex Coldea",
-        "Christine Damase-Michel",
-        "Hywel T. Evans",
-        "Sue Jordan",
-        "Maarit K. Leinonen",
-        "Marco Manfrini",
-        "Visa Martikainen",
-        "Joan K. Morris",
-        "Amanda J. Neville",
-        "Hedvig Nordeng",
-        "Aurora Puccini",
-        "Florence Coste",
-        "Maria Loane"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-08-22",
-      "doi": "10.1007/s10803-025-06997-4",
-      "url": "https://doi.org/10.1007/s10803-025-06997-4",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract To assess the effect on prevalence estimates of using different algorithms to identify children with attention deficit hyperactivity disorder (ADHD) and autism spectrum disorder (ASD) in healthcare data. Three algorithms were developed and run on administrative/research data in Finland, France (Haute Garonne), Italy (Emilia Romagna), Norway and Wales: (1) ≥ 1 ADHD or ASD diagnoses recorded in specialist settings, (2) ≥ 2 ADHD or ASD diagnoses recorded in primary care and (3) ≥ 1 prescription for medication to manage ADHD. Prevalence rates per 1000 children for each algorithm were calculated. 3,130,162 children (born 1996–2020) with 29,291,204 years of follow-up were included. ADHD prevalence per 1000 children in specialist settings ranged from 3.9 (Emilia Romagna) to 24.1 (Finland); and was 7.0 in primary care (Finland). Based on prescriptions, ADHD prevalence ranged from 0.1 (Emilia Romagna) to 9.9 (Haute Garonne). ASD prevalence in specialist settings ranged from 5.6 (Wales) to 9.7 (Finland), and in primary care from 1.0 (Finland) to 2.0 (Wales). Prevalence of ADHD and ASD was greater among children with longer follow-up. In Finland and Wales, 1.7% and 19.4% of children…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07020-6",
-      "title": "Unusual Gaze Direction Detection in Autism Spectrum Disorders",
-      "authors": [
-        "Tianqi Feng",
-        "Binbin Sun",
-        "Yulan Yang",
-        "Zhen Wei",
-        "Shuo Zhao"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-08-22",
-      "doi": "10.1007/s10803-025-07020-6",
-      "url": "https://doi.org/10.1007/s10803-025-07020-6",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2025.2548528",
-      "title": "Sensory profile of children with low-functioning autism and the effect of transcranial direct current stimulation combined with proximal senses: results from a randomized cluster trial",
-      "authors": [
-        "Mohammed Alhwaiti"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-08-22",
-      "doi": "10.1080/20473869.2025.2548528",
-      "url": "https://doi.org/10.1080/20473869.2025.2548528",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
     }
   ]
 }
