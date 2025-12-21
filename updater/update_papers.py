@@ -76,9 +76,9 @@ def assign_framing(title: str, abstract: str) -> str | None:
 
     if identity_count > 0 and person_first_count == 0:
         if asd_count == 0:
-            return "Neurodiversity-affirming"
+            return "Neurodiversity-informed"
         if asd_count <= ASD_BUFFER_MAX and identity_count >= asd_count + 1:
-            return "Neurodiversity-affirming"
+            return "Neurodiversity-informed"
         return "Mixed or transitional framing"
 
     if person_first_count > 0 and identity_count == 0:
