@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T06:51:38Z",
+  "generated_at": "2025-12-23T06:51:18Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters",
   "schema_version": "1.0",
   "papers": [
@@ -587,6 +587,47 @@
         "ADHD"
       ],
       "abstract": "Objective: Susceptibility to visual illusions is a consequence of the adaptation of the visual system, however, their perception or lack of it reflects differences in more general, global cognitive processes. Few studies have focussed on the susceptibility of individuals with attention-deficit/hyperactivity disorder (ADHD), even though visual impairment and percept differences have been thoroughly documented. Method: The present study evaluated 75 children (ages 6.09–12.99 years, 72% male) and 37 teenagers (ages 13–16.95 years, 62% male) with ADHD, and a sex-and-age matched sample of typically developing peers. They were tested with 103 pairs of illusory and control images spanning five illusion types. Results: We found increased susceptibility to the Müller-Lyer and Kanizsa Subjective Contour and decreased susceptibility to the Ebbinghaus illusion among children with ADHD when compared to typically developing controls. No differences were found for susceptibility to the Simultaneous Contrast and Moving Snake illusions. As for reaction times, we did not find differences between participants with ADHD and their control peers when judging illusions; however, in general participants g…"
+    },
+    {
+      "id": "10.1007/s10803-025-07137-8",
+      "title": "The Mediating Role of Eating Behaviors on the Relationship Between Sensory Processing and Maternal Stress: A Comparative Study of Children with ASD and Typical Development",
+      "authors": [
+        "Geun Young Jeon",
+        "Sae-Young Han"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-22",
+      "doi": "10.1007/s10803-025-07137-8",
+      "url": "https://doi.org/10.1007/s10803-025-07137-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2025.2603379",
+      "title": "Developing the skills of children with autism spectrum disorder to follow activity schedules presented via tablets: a parent-implemented intervention",
+      "authors": [
+        "Muhyiddin Unver",
+        "Yasemin Ergenekon"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2025,
+      "published_date": "2025-12-22",
+      "doi": "10.1080/20473869.2025.2603379",
+      "url": "https://doi.org/10.1080/20473869.2025.2603379",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10882-025-10044-6",
@@ -6399,26 +6440,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -6440,6 +6461,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
