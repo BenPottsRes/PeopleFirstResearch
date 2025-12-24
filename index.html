@@ -357,37 +357,8 @@
         setPressed(activeDomain || "All");
       }
       
-      // Helper: get “paper domains” in a consistent way
-      function getPaperDomains(p) {
-        return Array.isArray(p.domains) ? p.domains : [];
-      }
-      
-      // Count papers per *button domain* (using aliases)
-      const counts = {};
-      Object.keys(DOMAIN_ALIASES).forEach(k => (counts[k] = 0));
-      
-      allPapers.forEach(p => {
-        const paperDomains = getPaperDomains(p);
-      
-        Object.entries(DOMAIN_ALIASES).forEach(([buttonDomain, aliases]) => {
-          // Count if ANY alias is present in the paper’s domains
-          if (aliases.some(a => paperDomains.includes(a))) {
-            counts[buttonDomain] += 1;
-          }
         });
       });
-            
-        // Initialise button states
-        const btns = Array.from(wrap.querySelectorAll("button[data-domain]"));
-        btns.forEach(btn => {
-          const domain = btn.dataset.domain;
-          if (!domain) return;
-      
-          if (domain === "All") {
-            btn.disabled = false;
-            btn.title = "Show all domains";
-            return;
-          }
       
           const n = counts[domain] || 0;
       
@@ -628,7 +599,6 @@
         // Events
         searchEl.addEventListener("input", () => { currentPage = 1; applyFilters(); });
         neuroEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
-        domainEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
         framingEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
 
         sortOrderEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
