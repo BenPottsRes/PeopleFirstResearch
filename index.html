@@ -357,48 +357,6 @@
         setPressed(activeDomain || "All");
       }
       
-        });
-      });
-      
-          const n = counts[domain] || 0;
-      
-          // Add/refresh count suffix without duplicating
-          const baseLabel = btn.textContent.replace(/\s*\(\d+\)\s*$/, "");
-          btn.textContent = `${baseLabel} (${n})`;
-      
-          // Disable if empty, but keep visible
-          btn.disabled = n === 0;
-          btn.title = n === 0 ? "No papers currently surfaced for this domain" : `Show ${domain} papers`;
-        });
-      
-        function setPressed(activeDomain) {
-          btns.forEach(b => {
-            const pressed = b.dataset.domain === activeDomain;
-            b.setAttribute("aria-pressed", pressed ? "true" : "false");
-          });
-        }
-      
-        // Click handling
-        btns.forEach(btn => {
-          btn.addEventListener("click", () => {
-        const dom = btn.dataset.domain;
-        if (!dom) return;
-      
-        activeDomain = dom;               // THIS is the key change
-        currentPage = 1;
-        applyFilters();
-        setPressed(dom);
-      });
-            
-        // Optional: if user somehow selects an empty domain, show a note
-        if (note) {
-          note.textContent = "Domains with (0) are shown for completeness and indicate that no matching papers are currently surfaced by the updater.";
-        }
-      
-        // Sync with existing dropdown state if you keep it hidden
-        setPressed(domainEl.value === "All" ? "All" : domainEl.value);
-      }
-
         // Build select options from data if present
         const neurotypes = uniq(papers.flatMap(p => (p.neurotype || [])));
         const domains = uniq(papers.flatMap(p => (p.domains || [])));
@@ -445,6 +403,7 @@
 
         const baseList = [...papers];
         setupDomainButtons(baseList);
+        applyFilters();
         
         function updateOrderHint() {
           const mode = sortOrderEl.value;
@@ -556,11 +515,11 @@
             const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
         
             // Alias-aware domain match
-            const matchD = (d === "All") || (() => {
-              const paperDomains = Array.isArray(p.domains) ? p.domains : [];
-              const aliases = DOMAIN_ALIASES[d] || [d];
-              return aliases.some(a => paperDomains.includes(a));
-            })();
+            const matchD = (!d || d === "All") || (() => {
+            const paperDomains = Array.isArray(p.domains) ? p.domains : [];
+            const aliases = DOMAIN_ALIASES[d] || [d];
+            return aliases.some(a => paperDomains.includes(a));
+          })();
         
             const matchF = (f === "All") || (p.framing === f);
         
