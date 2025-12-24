@@ -62,31 +62,30 @@
 
    <div class="controls" role="region" aria-label="Search and filter papers">
   <!-- NEW: one-click domain focus buttons -->
-  <div class="quick-wrap">
-    <div class="label-row">
-      <span class="label">Domain focus</span>
-      <span class="muted hint">Quick filters for the most common domains</span>
-    </div>
-    <div id="domainQuick" class="quick-row" role="group" aria-label="Domain quick filters"></div>
-  </div>
+<div class="quick-wrap">
+  <span class="label">Domain focus</span>
+  <div id="domainQuick" class="quick-row" role="group" aria-label="Domain focus buttons">
+    <button type="button" class="chip-btn" data-domain="All" aria-pressed="true">All domains</button>
 
-  <div class="search-wrap">
-    <label class="label" for="search">Search</label>
-    <input
-      type="text"
-      id="search"
-      placeholder="Search titles, journals, authors, tags, and domains"
-      autocomplete="off"
-    />
+    <button type="button" class="chip-btn" data-domain="Education and learning">Education and learning</button>
+    <button type="button" class="chip-btn" data-domain="Work and employment">Work and employment</button>
+    <button type="button" class="chip-btn" data-domain="Housing and built environment">Housing and built environment</button>
+    <button type="button" class="chip-btn" data-domain="Justice and rights">Justice and rights</button>
+    <button type="button" class="chip-btn" data-domain="Technology and digital life">Technology and digital life</button>
+    <button type="button" class="chip-btn" data-domain="Social life and community">Social life and community</button>
+    <button type="button" class="chip-btn" data-domain="Policy and public services">Policy and public services</button>
+    <button type="button" class="chip-btn" data-domain="Healthcare">Healthcare</button>
   </div>
+  <div id="domainEmptyNote" class="muted" style="margin-top:6px;"></div>
+</div>
 
   <!-- Keep Domain visible (primary cross-domain navigation) -->
-  <div class="select-wrap">
-    <label class="label" for="domain">Domain</label>
-    <select id="domain">
-      <option value="All">All</option>
-    </select>
-  </div>
+<div class="select-wrap hidden" aria-hidden="true">
+  <label class="label" for="domain">Domain</label>
+  <select id="domain">
+    <option value="All">All</option>
+  </select>
+</div>
 
   <!-- NEW: advanced filters collapsed by default -->
   <details class="advanced" id="advancedFilters">
@@ -308,10 +307,13 @@
         let showAbstracts = false;
         let currentPage = 1;
 
-              function buildDomainQuickFilters(allPapers) {
+      function setupDomainButtons(allPapers) {
         const wrap = document.getElementById("domainQuick");
         if (!wrap) return;
       
+        const note = document.getElementById("domainEmptyNote");
+      
+        // Count papers per domain
         const counts = {};
         allPapers.forEach(p => {
           (p.domains || []).forEach(d => {
@@ -320,44 +322,60 @@
           });
         });
       
-        const ranked = Object.entries(counts)
-          .sort((a, b) => b[1] - a[1])
-          .map(([d]) => d);
+        // Initialise button states
+        const btns = Array.from(wrap.querySelectorAll("button[data-domain]"));
+        btns.forEach(btn => {
+          const domain = btn.dataset.domain;
+          if (!domain) return;
       
-        const top = ranked.slice(0, 8);
+          if (domain === "All") {
+            btn.disabled = false;
+            btn.title = "Show all domains";
+            return;
+          }
       
-        function makeBtn(label, value) {
-          const btn = document.createElement("button");
-          btn.type = "button";
-          btn.className = "chip-btn";
-          btn.dataset.value = value;
-          btn.setAttribute("aria-pressed", "false");
-          btn.textContent = label;
+          const n = counts[domain] || 0;
+      
+          // Add/refresh count suffix without duplicating
+          const baseLabel = btn.textContent.replace(/\s*\(\d+\)\s*$/, "");
+          btn.textContent = `${baseLabel} (${n})`;
+      
+          // Disable if empty, but keep visible
+          btn.disabled = n === 0;
+          btn.title = n === 0 ? "No papers currently surfaced for this domain" : `Show ${domain} papers`;
+        });
+      
+        function setPressed(activeDomain) {
+          btns.forEach(b => {
+            const pressed = b.dataset.domain === activeDomain;
+            b.setAttribute("aria-pressed", pressed ? "true" : "false");
+          });
+        }
+      
+        // Click handling
+        btns.forEach(btn => {
           btn.addEventListener("click", () => {
-            domainEl.value = value;
+            const dom = btn.dataset.domain;
+            if (!dom) return;
+      
+            domainEl.value = dom === "All" ? "All" : dom;
             currentPage = 1;
             applyFilters();
-            updateQuickPressedState();
+            setPressed(dom);
+      
+            if (note) {
+              note.textContent = "";
+            }
           });
-          return btn;
+        });
+      
+        // Optional: if user somehow selects an empty domain, show a note
+        if (note) {
+          note.textContent = "Domains with (0) are shown for completeness and indicate that no matching papers are currently surfaced by the updater.";
         }
       
-        function updateQuickPressedState() {
-          const active = domainEl.value || "All";
-          wrap.querySelectorAll(".chip-btn").forEach(b => {
-            b.setAttribute(
-              "aria-pressed",
-              b.dataset.value === active ? "true" : "false"
-            );
-          });
-        }
-      
-        wrap.innerHTML = "";
-        wrap.appendChild(makeBtn("All domains", "All"));
-        top.forEach(d => wrap.appendChild(makeBtn(d, d)));
-      
-        domainEl.addEventListener("change", updateQuickPressedState);
-        updateQuickPressedState();
+        // Sync with existing dropdown state if you keep it hidden
+        setPressed(domainEl.value === "All" ? "All" : domainEl.value);
       }
 
         // Build select options from data if present
@@ -405,8 +423,8 @@
         }
 
         const baseList = [...papers];
-        buildDomainQuickFilters(baseList);
-
+        setupDomainButtons(baseList);
+        
         function updateOrderHint() {
           const mode = sortOrderEl.value;
           const map = {
