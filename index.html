@@ -60,38 +60,86 @@
         </div>
       </div>
 
-      <div class="controls" role="region" aria-label="Search and filter papers">
-        <div class="search-wrap">
-          <label class="label" for="search">Search</label>
-          <input
-            type="text"
-            id="search"
-            placeholder="Search titles, journals, or authors"
-            autocomplete="off"
-          />
-        </div>
+   <div class="controls" role="region" aria-label="Search and filter papers">
+  <!-- NEW: one-click domain focus buttons -->
+  <div class="quick-wrap">
+    <div class="label-row">
+      <span class="label">Domain focus</span>
+      <span class="muted hint">Quick filters for the most common domains</span>
+    </div>
+    <div id="domainQuick" class="quick-row" role="group" aria-label="Domain quick filters"></div>
+  </div>
 
-        <div class="select-wrap">
-          <label class="label" for="neurotype">Neurotype</label>
-          <select id="neurotype">
-            <option value="All">All</option>
-          </select>
-        </div>
-        <div class="select-wrap">
-          <label class="label" for="framing">
-            Language framing
-            <button class="info-btn" type="button" aria-label="What do language framing tags mean?" data-modal="framing">i</button>
-          </label>
-          <select id="framing">
-            <option value="All">All</option>
-          </select>
-        </div>
-        <div class="select-wrap">
-          <label class="label" for="domain">Domain</label>
-          <select id="domain">
-            <option value="All">All</option>
-          </select>
-        </div>
+  <div class="search-wrap">
+    <label class="label" for="search">Search</label>
+    <input
+      type="text"
+      id="search"
+      placeholder="Search titles, journals, authors, tags, and domains"
+      autocomplete="off"
+    />
+  </div>
+
+  <!-- Keep Domain visible (primary cross-domain navigation) -->
+  <div class="select-wrap">
+    <label class="label" for="domain">Domain</label>
+    <select id="domain">
+      <option value="All">All</option>
+    </select>
+  </div>
+
+  <!-- NEW: advanced filters collapsed by default -->
+  <details class="advanced" id="advancedFilters">
+    <summary>
+      <span>Advanced filters</span>
+      <span class="muted">Neurotype, language framing, ordering, page size</span>
+    </summary>
+
+    <div class="advanced-grid">
+      <div class="select-wrap">
+        <label class="label" for="neurotype">Neurotype</label>
+        <select id="neurotype">
+          <option value="All">All</option>
+        </select>
+      </div>
+
+      <div class="select-wrap">
+        <label class="label" for="framing">
+          Language framing
+          <button class="info-btn" type="button" aria-label="What do language framing tags mean?" data-modal="framing">i</button>
+        </label>
+        <select id="framing">
+          <option value="All">All</option>
+        </select>
+      </div>
+
+      <div class="select-wrap">
+        <label class="label" for="sortOrder">Order by</label>
+        <select id="sortOrder">
+          <option value="date_desc" selected>Publish date (newest first)</option>
+          <option value="date_asc">Publish date (oldest first)</option>
+          <option value="title_asc">Title (A to Z)</option>
+          <option value="journal_asc">Journal (A to Z)</option>
+        </select>
+      </div>
+
+      <div class="select-wrap">
+        <label class="label" for="pageSize">Papers shown</label>
+        <select id="pageSize">
+          <option value="10" selected>10</option>
+          <option value="20">20</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+        </select>
+      </div>
+    </div>
+  </details>
+
+  <div class="controls-actions">
+    <button class="btn btn-secondary" id="resetBtn" type="button">Reset</button>
+    <button class="btn btn-ghost" id="toggleAbstracts" type="button">Show abstracts</button>
+  </div>
+</div>
 
         <!-- NEW: ordering -->
         <div class="select-wrap">
@@ -235,6 +283,7 @@
         const generatedAt = data.generated_at || null;
         const sourceSummary = data.source_summary || null;
 
+  
         // Elements
         const papersEl = document.getElementById("papers");
         const searchEl = document.getElementById("search");
@@ -258,6 +307,58 @@
 
         let showAbstracts = false;
         let currentPage = 1;
+
+              function buildDomainQuickFilters(allPapers) {
+        const wrap = document.getElementById("domainQuick");
+        if (!wrap) return;
+      
+        const counts = {};
+        allPapers.forEach(p => {
+          (p.domains || []).forEach(d => {
+            if (!d) return;
+            counts[d] = (counts[d] || 0) + 1;
+          });
+        });
+      
+        const ranked = Object.entries(counts)
+          .sort((a, b) => b[1] - a[1])
+          .map(([d]) => d);
+      
+        const top = ranked.slice(0, 8);
+      
+        function makeBtn(label, value) {
+          const btn = document.createElement("button");
+          btn.type = "button";
+          btn.className = "chip-btn";
+          btn.dataset.value = value;
+          btn.setAttribute("aria-pressed", "false");
+          btn.textContent = label;
+          btn.addEventListener("click", () => {
+            domainEl.value = value;
+            currentPage = 1;
+            applyFilters();
+            updateQuickPressedState();
+          });
+          return btn;
+        }
+      
+        function updateQuickPressedState() {
+          const active = domainEl.value || "All";
+          wrap.querySelectorAll(".chip-btn").forEach(b => {
+            b.setAttribute(
+              "aria-pressed",
+              b.dataset.value === active ? "true" : "false"
+            );
+          });
+        }
+      
+        wrap.innerHTML = "";
+        wrap.appendChild(makeBtn("All domains", "All"));
+        top.forEach(d => wrap.appendChild(makeBtn(d, d)));
+      
+        domainEl.addEventListener("change", updateQuickPressedState);
+        updateQuickPressedState();
+      }
 
         // Build select options from data if present
         const neurotypes = uniq(papers.flatMap(p => (p.neurotype || [])));
@@ -304,6 +405,7 @@
         }
 
         const baseList = [...papers];
+        buildDomainQuickFilters(baseList);
 
         function updateOrderHint() {
           const mode = sortOrderEl.value;
