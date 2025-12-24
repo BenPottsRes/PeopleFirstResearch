@@ -225,6 +225,16 @@ select {
   margin-top: 6px;
 }
 
+/* VISIBILITY HELPERS */
+
+.hidden {
+  display: none !important;
+}
+
+.chip-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
 
 /* QUICK DOMAIN FILTERS */
 
@@ -377,11 +387,6 @@ select {
   background: transparent;
   border: 1px solid var(--border);
   color: var(--muted);
-}
-
-.chip-btn:disabled {
-  opacity: 0.45;
-  cursor: not-allowed;
 }
 
 .abstract {
