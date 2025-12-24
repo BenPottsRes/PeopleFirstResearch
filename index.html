@@ -252,6 +252,18 @@
         const generatedAt = data.generated_at || null;
         const sourceSummary = data.source_summary || null;
 
+
+          // Domain button labels → paper domain tags
+    const DOMAIN_ALIASES = {
+      "Education and learning": ["Education"],
+      "Work and employment": ["Employment"],
+      "Housing and built environment": ["Housing", "Built environment"],
+      "Justice and rights": ["Justice", "Rights"],
+      "Technology and digital life": ["Technology", "Digital life"],
+      "Social life and community": ["Quality of life", "Social life", "Community"],
+      "Policy and public services": ["Service design", "Policy", "Public services"],
+      "Healthcare": ["Healthcare", "Mental health", "Emergency care", "Sensory environment", "Communication"]
+    };
   
         // Elements
         const papersEl = document.getElementById("papers");
@@ -512,46 +524,17 @@
           });
         }
 
- function applyFilters() {
-          const q = normalise(searchEl.value);
-          const n = neuroEl.value;
-          const d = domainEl.value;
-          const f = framingEl.value;
-
-          const filtered = baseList.filter(p => {
-            const hay = normalise(
-              [p.title, p.journal, safeAuthors(p.authors), (p.tags || []).join(" "), (p.domains || []).join(" ")].join(" ")
-            );
-
-            const matchQ = !q || hay.includes(q);
-            const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
-            const matchD = (d === "All") ||
-              (() => {
-            const paperDomains = Array.isArray(p.domains) ? p.domains : [];
-            const aliases = DOMAIN_ALIASES[d] || [d];
-            return aliases.some(a => paperDomains.includes(a));
-          })();     
-            
-            const matchF = (f === "All") || (p.framing === f);
-
-            return matchQ && matchN && matchD && matchF;
-          });
-
-          const sorted = applySort(filtered);
-          updateOrderHint();
-
-          const pageSize = parseInt(pageSizeEl.value, 10) || 20;
-          const total = sorted.length;
-          const totalPages = Math.max(1, Math.ceil(total / pageSize));
-
-          if (currentPage > totalPages) currentPage = totalPages;
-          if (currentPage < 1) currentPage = 1;
-
         
         function applyFilters() {
           const q = normalise(searchEl.value);
           const n = neuroEl.value;
-          const d = domainEl.value;
+          const matchD =
+        (d === "All") ||
+        (() => {
+          const paperDomains = Array.isArray(p.domains) ? p.domains : [];
+          const aliases = DOMAIN_ALIASES[d] || [d];
+          return aliases.some(a => paperDomains.includes(a));
+        })();
           const f = framingEl.value;
 
           const filtered = baseList.filter(p => {
