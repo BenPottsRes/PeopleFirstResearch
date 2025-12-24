@@ -528,47 +528,47 @@
         function applyFilters() {
           const q = normalise(searchEl.value);
           const n = neuroEl.value;
-          const matchD =
-        (d === "All") ||
-        (() => {
-          const paperDomains = Array.isArray(p.domains) ? p.domains : [];
-          const aliases = DOMAIN_ALIASES[d] || [d];
-          return aliases.some(a => paperDomains.includes(a));
-        })();
+          const d = domainEl.value;          // IMPORTANT: this was missing
           const f = framingEl.value;
-
+        
           const filtered = baseList.filter(p => {
             const hay = normalise(
               [p.title, p.journal, safeAuthors(p.authors), (p.tags || []).join(" "), (p.domains || []).join(" ")].join(" ")
             );
-
+        
             const matchQ = !q || hay.includes(q);
             const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
-            const matchD = (d === "All") || (Array.isArray(p.domains) && p.domains.includes(d));
+        
+            // Alias-aware domain match
+            const matchD = (d === "All") || (() => {
+              const paperDomains = Array.isArray(p.domains) ? p.domains : [];
+              const aliases = DOMAIN_ALIASES[d] || [d];
+              return aliases.some(a => paperDomains.includes(a));
+            })();
+        
             const matchF = (f === "All") || (p.framing === f);
-
-
+        
             return matchQ && matchN && matchD && matchF;
           });
-
+        
           const sorted = applySort(filtered);
           updateOrderHint();
-
+        
           const pageSize = parseInt(pageSizeEl.value, 10) || 20;
           const total = sorted.length;
           const totalPages = Math.max(1, Math.ceil(total / pageSize));
-
+        
           if (currentPage > totalPages) currentPage = totalPages;
           if (currentPage < 1) currentPage = 1;
-
+        
           const start = (currentPage - 1) * pageSize;
           const end = start + pageSize;
           const pageItems = sorted.slice(start, end);
-
+        
           render(pageItems);
-
+        
           countLine.textContent = `Showing ${pageItems.length} of ${total} papers (page ${currentPage} of ${totalPages})`;
-
+        
           if (total > pageSize) {
             pagerEl.style.display = "flex";
             prevPageBtn.disabled = currentPage === 1;
