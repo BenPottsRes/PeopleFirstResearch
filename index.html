@@ -87,7 +87,7 @@
         </div>
       
         <!-- Hidden domain select kept for JS state (not shown to users) -->
-        <div class="select-wrap hidden" aria-hidden="true">
+        <div class="select-wrap hidden" aria-hidden="true" hidden style="display:none;">
           <label class="label" for="domain">Domain</label>
           <select id="domain">
             <option value="All">All</option>
@@ -132,34 +132,6 @@
           </select>
         </div>
       
-        <div class="controls-actions">
-          <button class="btn btn-secondary" id="resetBtn" type="button">Reset</button>
-          <button class="btn btn-ghost" id="toggleAbstracts" type="button">Show abstracts</button>
-        </div>
-      </div>
-
-        <!-- NEW: ordering -->
-        <div class="select-wrap">
-          <label class="label" for="sortOrder">Order by</label>
-          <select id="sortOrder">
-            <option value="date_desc" selected>Publish date (newest first)</option>
-            <option value="date_asc">Publish date (oldest first)</option>
-            <option value="title_asc">Title (A to Z)</option>
-            <option value="journal_asc">Journal (A to Z)</option>
-          </select>
-        </div>
-
-        <!-- NEW: page size -->
-        <div class="select-wrap">
-          <label class="label" for="pageSize">Papers shown</label>
-          <select id="pageSize">
-            <option value="10" selected>10</option>
-            <option value="20">20</option>
-            <option value="50">50</option>
-            <option value="100">100</option>
-          </select>
-        </div>
-
         <div class="controls-actions">
           <button class="btn btn-secondary" id="resetBtn" type="button">Reset</button>
           <button class="btn btn-ghost" id="toggleAbstracts" type="button">Show abstracts</button>
