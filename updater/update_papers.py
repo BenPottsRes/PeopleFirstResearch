@@ -26,6 +26,15 @@ from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 import requests
 import yaml
 
+
+# Optional cross-domain search configuration
+domains_cfg = None
+domains_path = os.path.join(os.path.dirname(__file__), "domains.yml")
+
+if os.path.exists(domains_path):
+    with open(domains_path, "r") as f:
+        domains_cfg = yaml.safe_load(f).get("domains", {})
+
 ASD_BUFFER_MAX = 3
 
 def assign_framing(title: str, abstract: str) -> str | None:
