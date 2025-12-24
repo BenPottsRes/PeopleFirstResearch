@@ -64,9 +64,9 @@
       
         <!-- Domain quick buttons (hard-coded) -->
         <div class="quick-wrap">
-          <span class="label">Domain focus</span>
+          <span class="label">Research Focus</span>
           <div id="domainQuick" class="quick-row" role="group" aria-label="Domain focus buttons">
-            <button type="button" class="chip-btn" data-domain="All" aria-pressed="true">All domains</button>
+            <button type="button" class="chip-btn" data-domain="All" aria-pressed="true">All</button>
       
             <button type="button" class="chip-btn" data-domain="Education and learning">Education and learning</button>
             <button type="button" class="chip-btn" data-domain="Work and employment">Work and employment</button>
@@ -83,7 +83,7 @@
         <!-- Search -->
         <div class="search-wrap">
           <label class="label" for="search">Search</label>
-          <input id="search" type="text" placeholder="Search titles, journals, authors, tags, and domains" autocomplete="off" />
+          <input id="search" type="text" placeholder="Search titles, journals, authors, tags and focus" autocomplete="off" />
         </div>
       
         <!-- Hidden domain select kept for JS state (not shown to users) -->
@@ -350,7 +350,7 @@
         });
       
         if (note) {
-          note.textContent = "Domains with (0) are shown for completeness and indicate that no matching papers are currently surfaced by the updater.";
+          note.textContent = "Areas of focus with (0) only indicate that no matching papers in the current results.";
         }
       
         // Sync pressed state on load
