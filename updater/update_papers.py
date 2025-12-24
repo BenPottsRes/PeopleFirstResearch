@@ -14,17 +14,17 @@ Crossref API docs:
 
 from __future__ import annotations
 
-
+import os
 import json
 import re
 import time
+import requests
+import yaml
+
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
-
-import requests
-import yaml
 
 
 # Optional cross-domain search configuration
