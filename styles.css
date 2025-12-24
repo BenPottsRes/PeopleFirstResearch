@@ -379,6 +379,11 @@ select {
   color: var(--muted);
 }
 
+.chip-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
 .abstract {
   margin-top: 12px;
   padding-top: 10px;
