@@ -251,7 +251,8 @@
         const papers = Array.isArray(data.papers) ? data.papers : [];
         const generatedAt = data.generated_at || null;
         const sourceSummary = data.source_summary || null;
-
+        
+        let activeDomain = "All";
 
           // Domain button labels → paper domain tags
     const DOMAIN_ALIASES = {
@@ -360,20 +361,15 @@
         // Click handling
         btns.forEach(btn => {
           btn.addEventListener("click", () => {
-            const dom = btn.dataset.domain;
-            if (!dom) return;
+        const dom = btn.dataset.domain;
+        if (!dom) return;
       
-            domainEl.value = dom === "All" ? "All" : dom;
-            currentPage = 1;
-            applyFilters();
-            setPressed(dom);
-      
-            if (note) {
-              note.textContent = "";
-            }
-          });
-        });
-      
+        activeDomain = dom;               // THIS is the key change
+        currentPage = 1;
+        applyFilters();
+        setPressed(dom);
+      });
+            
         // Optional: if user somehow selects an empty domain, show a note
         if (note) {
           note.textContent = "Domains with (0) are shown for completeness and indicate that no matching papers are currently surfaced by the updater.";
@@ -528,7 +524,7 @@
         function applyFilters() {
           const q = normalise(searchEl.value);
           const n = neuroEl.value;
-          const d = domainEl.value;          // IMPORTANT: this was missing
+          const d = activeDomain;         // IMPORTANT: this was missing
           const f = framingEl.value;
         
           const filtered = baseList.filter(p => {
