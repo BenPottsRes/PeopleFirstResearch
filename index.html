@@ -290,23 +290,72 @@
         let showAbstracts = false;
         let currentPage = 1;
 
-      function setupDomainButtons(allPapers) {
+           function setupDomainButtons(allPapers) {
         const wrap = document.getElementById("domainQuick");
         if (!wrap) return;
       
         const note = document.getElementById("domainEmptyNote");
       
-      // Map your button labels to the domain labels currently found in papers.json
-      const DOMAIN_ALIASES = {
-        "Education and learning": ["Education"],
-        "Work and employment": ["Employment"],
-        "Housing and built environment": ["Housing", "Built environment"],
-        "Justice and rights": ["Justice", "Rights"],
-        "Technology and digital life": ["Technology", "Digital life"],
-        "Social life and community": ["Quality of life", "Social life", "Community"],
-        "Policy and public services": ["Service design", "Policy", "Public services"],
-        "Healthcare": ["Healthcare", "Mental health", "Emergency care", "Sensory environment", "Communication"]
-      };
+        // Count papers per button domain using the global DOMAIN_ALIASES
+        const counts = {};
+        Object.keys(DOMAIN_ALIASES).forEach(k => (counts[k] = 0));
+      
+        allPapers.forEach(p => {
+          const paperDomains = Array.isArray(p.domains) ? p.domains : [];
+          Object.entries(DOMAIN_ALIASES).forEach(([buttonDomain, aliases]) => {
+            if (aliases.some(a => paperDomains.includes(a))) {
+              counts[buttonDomain] += 1;
+            }
+          });
+        });
+      
+        const btns = Array.from(wrap.querySelectorAll("button[data-domain]"));
+      
+        function setPressed(active) {
+          btns.forEach(b => {
+            const pressed = b.dataset.domain === active;
+            b.setAttribute("aria-pressed", pressed ? "true" : "false");
+          });
+        }
+      
+        // Initialise buttons (labels + disabled state)
+        btns.forEach(btn => {
+          const domain = btn.dataset.domain;
+          if (!domain) return;
+      
+          if (domain === "All") {
+            btn.disabled = false;
+            btn.title = "Show all domains";
+            return;
+          }
+      
+          const n = counts[domain] || 0;
+          const baseLabel = btn.textContent.replace(/\s*\(\d+\)\s*$/, "");
+          btn.textContent = `${baseLabel} (${n})`;
+          btn.disabled = n === 0;
+          btn.title = n === 0 ? "No papers currently surfaced for this domain" : `Show ${domain} papers`;
+        });
+      
+        // Click handling
+        btns.forEach(btn => {
+          btn.addEventListener("click", () => {
+            const dom = btn.dataset.domain;
+            if (!dom) return;
+      
+            activeDomain = dom;      // uses your global state
+            currentPage = 1;
+            applyFilters();
+            setPressed(dom);
+          });
+        });
+      
+        if (note) {
+          note.textContent = "Domains with (0) are shown for completeness and indicate that no matching papers are currently surfaced by the updater.";
+        }
+      
+        // Sync pressed state on load
+        setPressed(activeDomain || "All");
+      }
       
       // Helper: get “paper domains” in a consistent way
       function getPaperDomains(p) {
@@ -598,11 +647,12 @@
         resetBtn.addEventListener("click", () => {
           searchEl.value = "";
           neuroEl.value = "All";
-          domainEl.value = "All";
           framingEl.value = "All";
           sortOrderEl.value = "date_desc";
           pageSizeEl.value = "10";
+          activeDomain = "All";
           currentPage = 1;
+          setupDomainButtons(baseList);
           applyFilters();
         });
 
