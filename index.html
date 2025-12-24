@@ -525,13 +525,12 @@
 
             const matchQ = !q || hay.includes(q);
             const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
-            const matchD =
-              (d === "All") ||
+            const matchD = (d === "All") ||
               (() => {
-                const paperDomains = Array.isArray(p.domains) ? p.domains : [];
-                const aliases = DOMAIN_ALIASES[d] || [d];
-                return aliases.some(a => paperDomains.includes(a));
-            })();     
+            const paperDomains = Array.isArray(p.domains) ? p.domains : [];
+            const aliases = DOMAIN_ALIASES[d] || [d];
+            return aliases.some(a => paperDomains.includes(a));
+          })();     
             
             const matchF = (f === "All") || (p.framing === f);
 
