@@ -283,15 +283,38 @@
       
         const note = document.getElementById("domainEmptyNote");
       
-        // Count papers per domain
-        const counts = {};
-        allPapers.forEach(p => {
-          (p.domains || []).forEach(d => {
-            if (!d) return;
-            counts[d] = (counts[d] || 0) + 1;
-          });
-        });
+      // Map your button labels to the domain labels currently found in papers.json
+      const DOMAIN_ALIASES = {
+        "Education and learning": ["Education"],
+        "Work and employment": ["Employment"],
+        "Housing and built environment": ["Housing", "Built environment"],
+        "Justice and rights": ["Justice", "Rights"],
+        "Technology and digital life": ["Technology", "Digital life"],
+        "Social life and community": ["Quality of life", "Social life", "Community"],
+        "Policy and public services": ["Service design", "Policy", "Public services"],
+        "Healthcare": ["Healthcare", "Mental health", "Emergency care", "Sensory environment", "Communication"]
+      };
       
+      // Helper: get “paper domains” in a consistent way
+      function getPaperDomains(p) {
+        return Array.isArray(p.domains) ? p.domains : [];
+      }
+      
+      // Count papers per *button domain* (using aliases)
+      const counts = {};
+      Object.keys(DOMAIN_ALIASES).forEach(k => (counts[k] = 0));
+      
+      allPapers.forEach(p => {
+        const paperDomains = getPaperDomains(p);
+      
+        Object.entries(DOMAIN_ALIASES).forEach(([buttonDomain, aliases]) => {
+          // Count if ANY alias is present in the paper’s domains
+          if (aliases.some(a => paperDomains.includes(a))) {
+            counts[buttonDomain] += 1;
+          }
+        });
+      });
+            
         // Initialise button states
         const btns = Array.from(wrap.querySelectorAll("button[data-domain]"));
         btns.forEach(btn => {
@@ -489,6 +512,43 @@
           });
         }
 
+ function applyFilters() {
+          const q = normalise(searchEl.value);
+          const n = neuroEl.value;
+          const d = domainEl.value;
+          const f = framingEl.value;
+
+          const filtered = baseList.filter(p => {
+            const hay = normalise(
+              [p.title, p.journal, safeAuthors(p.authors), (p.tags || []).join(" "), (p.domains || []).join(" ")].join(" ")
+            );
+
+            const matchQ = !q || hay.includes(q);
+            const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
+            const matchD =
+              (d === "All") ||
+              (() => {
+                const paperDomains = Array.isArray(p.domains) ? p.domains : [];
+                const aliases = DOMAIN_ALIASES[d] || [d];
+                return aliases.some(a => paperDomains.includes(a));
+            })();     
+            
+            const matchF = (f === "All") || (p.framing === f);
+
+            return matchQ && matchN && matchD && matchF;
+          });
+
+          const sorted = applySort(filtered);
+          updateOrderHint();
+
+          const pageSize = parseInt(pageSizeEl.value, 10) || 20;
+          const total = sorted.length;
+          const totalPages = Math.max(1, Math.ceil(total / pageSize));
+
+          if (currentPage > totalPages) currentPage = totalPages;
+          if (currentPage < 1) currentPage = 1;
+
+        
         function applyFilters() {
           const q = normalise(searchEl.value);
           const n = neuroEl.value;
@@ -504,6 +564,7 @@
             const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
             const matchD = (d === "All") || (Array.isArray(p.domains) && p.domains.includes(d));
             const matchF = (f === "All") || (p.framing === f);
+
 
             return matchQ && matchN && matchD && matchF;
           });
