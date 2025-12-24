@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T06:51:18Z",
-  "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters",
+  "generated_at": "2025-12-24T00:36:28Z",
+  "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
     {
@@ -587,6 +587,65 @@
         "ADHD"
       ],
       "abstract": "Objective: Susceptibility to visual illusions is a consequence of the adaptation of the visual system, however, their perception or lack of it reflects differences in more general, global cognitive processes. Few studies have focussed on the susceptibility of individuals with attention-deficit/hyperactivity disorder (ADHD), even though visual impairment and percept differences have been thoroughly documented. Method: The present study evaluated 75 children (ages 6.09–12.99 years, 72% male) and 37 teenagers (ages 13–16.95 years, 62% male) with ADHD, and a sex-and-age matched sample of typically developing peers. They were tested with 103 pairs of illusory and control images spanning five illusion types. Results: We found increased susceptibility to the Müller-Lyer and Kanizsa Subjective Contour and decreased susceptibility to the Ebbinghaus illusion among children with ADHD when compared to typically developing controls. No differences were found for susceptibility to the Simultaneous Contrast and Moving Snake illusions. As for reaction times, we did not find differences between participants with ADHD and their control peers when judging illusions; however, in general participants g…"
+    },
+    {
+      "id": "10.1080/20473869.2025.2590001",
+      "title": "Random forest and explainable AI for autism gene prioritization: a machine learning approach to developmental brain data",
+      "authors": [
+        "Shehla Rafiq",
+        "Assif Assad"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2025,
+      "published_date": "2025-12-23",
+      "doi": "10.1080/20473869.2025.2590001",
+      "url": "https://doi.org/10.1080/20473869.2025.2590001",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1080/20473869.2025.2605577",
+      "title": "Affective resistance in augmentative and alternative communication: a reflexive case study in autism",
+      "authors": [
+        "Marija Gombar",
+        "Mirjana Pejić Bach"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2025,
+      "published_date": "2025-12-23",
+      "doi": "10.1080/20473869.2025.2605577",
+      "url": "https://doi.org/10.1080/20473869.2025.2605577",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
+    },
+    {
+      "id": "10.1002/aur.70165",
+      "title": "Effects of Peer Relationships and Teacher–Student Relationships on Aggressive Behaviors in Chinese Children With Autism Spectrum Disorders Placed in Regular Classrooms and the Mediating Role of Perceived Discrimination",
+      "authors": [
+        "Shuman Wu",
+        "Jiayue Gong"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-23",
+      "doi": "10.1002/aur.70165",
+      "url": "https://doi.org/10.1002/aur.70165",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "ABSTRACT This study investigates the associations of peer relationships and teacher–student relationships with aggressive behaviors in Chinese children with autism spectrum disorder (ASD) placed in regular classrooms, with a specific focus on the mediating role of perceived discrimination. Data are collected from multiple sources, involving 189 ASD children and their teachers across 22 regular primary schools in Guangzhou, Guangdong Province, China. Following behavioral experiments, questionnaire assessments, and data analysis using partial least squares structural equation modeling (PLS‐SEM), this study reveals three key findings: (1) both peer relationships and teacher–student relationships negatively affect aggressive behaviors in children with ASD; (2) perceived discrimination positively influences such aggressive behaviors; and (3) both peer and teacher–student relationships indirectly influence aggressive behaviors through the mediation of perceived discrimination. These findings emphasize the need of enhancing on‐campus social connections to reduce perceived discrimination among ASD children, thereby mitigating aggressive behaviors, and highlight the necessity of fostering a…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-025-07137-8",
@@ -2011,27 +2070,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -2054,6 +2092,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -2797,30 +2856,6 @@
         "Quality of life"
       ],
       "abstract": "Objective: Children born preterm are at an elevated risk of developmental challenges, often exhibiting a distinct “preterm behavioral phenotype” characterized by particular attention difficulties. This review focuses on examining the phenotypical attention profile in preterm children aged 5 to 11 years, considering both clinical and neuropsychological aspects. Method: Following the PRISMA reporting guidelines, 22 peer-reviewed studies were analyzed. Result: According to behavioral-clinical aspects, preterm children appear to be at heightened risk for inattentive attention problems, including a predisposition to the predominantly inattentive presentation of ADHD. Regarding neuropsychological attention, deficits were identified in top-down controlled intensity processes as well as in certain components of selectivity and executive functioning. Conclusion: This review yields evidence that preterm children exhibit distinct and specific attention deficits during preschool and school age, characterized by a phenotypical clinical and neuropsychological attentional profile. Early identification of these issues is crucial, as it enables timely interventions to support school participation a…"
-    },
-    {
-      "id": "10.1177/10870547251365677",
-      "title": "Self-Reported ADHD Diagnosis and Illicit Drug Use and Prescription Medication Misuse Among U.S. Working-Age Adults",
-      "authors": [
-        "Andrew S. London",
-        "Kevin M. Antshel",
-        "Joshua Grove",
-        "Iliya Gutin",
-        "Shannon M. Monnat"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1177/10870547251365677",
-      "url": "https://doi.org/10.1177/10870547251365677",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life"
-      ],
-      "abstract": "Objective: To estimate differences by self-reported lifetime ADHD diagnosis status in the percentage of U.S. working-age (18- to 64-year-old) adults in 2023 who report lifetime and past-year use or misuse of 11 different categories of illicit drugs and prescription medications, overall and among those without a self-reported drug use disorder (DUD). Method: We analyze data from the 2023 National Wellbeing Survey (total sample unweighted N = 7,044; no DUD sample unweighted N = 6,484) to estimate lifetime and past-year use of seven illicit drugs (marijuana, powder cocaine, crack cocaine, methamphetamine, heroin, fentanyl, and hallucinogens) and misuse of four prescription medications (opioids, tranquilizers, sedatives, and stimulants) among working-age adults, by self-reported lifetime ADHD diagnosis status, sex, age, race/ethnicity, nativity, education, and rural-urban residence. Weighted descriptive and multivariable logistic regression model estimates are obtained for the total population and for the subpopulation without a self-reported DUD. Results: In 2023, lifetime and past-year use or misuse of all 11 categories of drugs and medications was significantly higher among working-…"
     },
     {
       "id": "10.1177/13623613251394558",
@@ -6440,6 +6475,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -6461,26 +6516,6 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -7948,6 +7983,24 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07053-x",
+      "title": "Centrality of Touch Avoidance in Social Touch Experiences in Autism",
+      "authors": [
+        "Manuel Mello",
+        "Martina Fusaro",
+        "Salvatore Maria Aglioti",
+        "Ilaria Minio-Paluello"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-09-24",
+      "doi": "10.1007/s10803-025-07053-x",
+      "url": "https://doi.org/10.1007/s10803-025-07053-x",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07036-y",
       "title": "Improving Autistic Experiences in the Workplace: Key Factors and Actionable Steps",
       "authors": [
@@ -7977,24 +8030,6 @@
       ],
       "abstract": "Abstract Autistic adults have higher rates of unemployment and underemployment than non-autistic adults with and without disabilities. While previous work has highlighted factors specific to individuals and/or job sectors that serve as barriers or facilitators to autistic employment, the question of how to modify the workplace to best support autistic people remains under-researched. The present study utilized an ecological framework to investigate what workplace factors can be modified to improve autistic experiences and how these modifications may be enacted across different levels of workplace ecosystem to promote autistic success. Autistic participants ( N = 85) across employment sectors provided quantitative ratings and written descriptions of positive and negative factors related to their workplace experiences. Quantitative and qualitative analyses were used to examine which factors and overarching principles most impact employment. Actionable strategies to modify these factors were derived from participant responses and validated by autistic collaborators and neuroinclusion experts. On average, participants rated task training as having the most positive, and mental health a…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07053-x",
-      "title": "Centrality of Touch Avoidance in Social Touch Experiences in Autism",
-      "authors": [
-        "Manuel Mello",
-        "Martina Fusaro",
-        "Salvatore Maria Aglioti",
-        "Ilaria Minio-Paluello"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-24",
-      "doi": "10.1007/s10803-025-07053-x",
-      "url": "https://doi.org/10.1007/s10803-025-07053-x",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251379187",
@@ -9102,41 +9137,6 @@
       ],
       "abstract": "Abstract Chinese parents of autistic children experience elevated stress. However, the number of resilience interventions is limited. In this study, we aimed to examine the efficacy of an 8-week resilience-focused group intervention. In this quasi-experimental study, 92 Chinese parents of autistic children assigned to the intervention condition and 51 wait-list control. We evaluated the effectiveness of resilience-focused intervention using ANOVAs. Then, a cluster analysis was performed to identify subgroups of Chinese parents to examine whether the effectiveness of the intervention differed among those clusters and the factors accounting for these variations. There was no overall significant improvement in the parents’ resilience after intervention but there were individual variations in their intervention outcomes. Four clusters were identified. Cluster 1 featured parents in with moderate levels of family quality of life, parental stress, and child behavioral problems. Clusters 2 and 4 had similarly high levels of satisfaction with their family quality of life, and relatively low parental stress. Cluster 3 represented the most troubled parents and had the lowest level of family q…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70111",
-      "title": "The National Prevalence of Neurodevelopmental Disorders and Their Associations With Health Conditions Among General Junior High School Students in China: Findings From the China Education Panel Survey",
-      "authors": [
-        "Shu‐Li Shen",
-        "Ning Pan",
-        "Jun‐Shan Lin",
-        "Ying‐Qian Chen",
-        "Li‐Zi Lin",
-        "Li Cai",
-        "Zhao‐Yan Liu",
-        "Qiang Feng",
-        "Jin Jing",
-        "Xin Wang"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-08-25",
-      "doi": "10.1002/aur.70111",
-      "url": "https://doi.org/10.1002/aur.70111",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Neurodevelopmental disorders (NDDs) remain poorly understood in adolescents, particularly in middle‐income countries like China. To assess NDDs prevalence and their associations with health conditions among Chinese general junior high school students, data from the China Education Panel Survey (CEPS, 2013–2015) were used. A total of 8324 junior high school students were included. Validated questionnaires and tests assessed NDDs (autism spectrum disorder [ASD], language disorder [LD], and attention‐deficit/hyperactivity disorder [ADHD]) and health conditions (physical health through overweight/obesity and myopia; mental health through anxiety symptoms and depression symptoms; cognitive functioning through academic performance and cognitive ability; adherence to social norms). Of 8324 participants, 299 (4.59%) had NDDs. Students with NDDs showed higher rates of anxiety symptoms and poor cognitive ability compared to those without NDDs. Specific NDD associations included anxiety symptoms with LD and ADHD, depression symptoms with ASD and ADHD, and poor cognitive ability with ASD and LD. Sex‐specific disparities were observed in the associations: the link between NDDs and depr…",
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
