@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-24T06:51:05Z",
+  "generated_at": "2025-12-25T06:49:34Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -447,34 +447,6 @@
       "abstract": "Typically developing siblings’ acceptance of a sibling with Down syndrome (DS) or autism influences the nature of sibling relations and their willingness to care for their sibling with disability in the future. Optimism is a central personality characteristic in coping with challenging life situations and the emotions toward the sibling with Down syndrome/autism are prominent in siblings’ adjustment to their complex circumstances. The current study examined how optimism and emotions toward a sibling with Down syndrome or autism influence typically developing siblings’ acceptance of their sibling with a disability. The role of demographic variables (sex of the typically developing sibling, diagnosis, and independent functioning of the sibling with disability) was also considered. Participants included 520 Jewish-Israeli siblings (189 brothers, 331 sisters, aged 18–27). Of these, 284 had siblings with Down syndrome, and 236 had siblings with autism. Siblings completed self-report questionnaires on optimism, emotions, and acceptance. Hierarchical regressions with three-way interactions revealed that optimism, sex, and the sibling’s diagnosis and independent functioning explained a sig…"
     },
     {
-      "id": "10.1177/13623613251364361",
-      "title": "Self-reported strengths and talents of autistic adults",
-      "authors": [
-        "Linnea A Lampinen",
-        "Joseph Singer",
-        "Xinyue Wang",
-        "Benjamin VanHook",
-        "Ellen Wilkinson",
-        "Vanessa H Bal"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251364361",
-      "url": "https://doi.org/10.1177/13623613251364361",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Many adults express dissatisfaction with the autism diagnostic process, and concerns have been cited regarding the lack of neurodiversity-affirming assessment methods. In part, this is due to instruments framing behaviors as symptoms causing impairment, overlooking potential benefits. Systematically measuring strengths and talents during assessment may inform diagnosis and support planning in a more neurodiversity-affirming manner. Historically, research has relied on caregiver-reported strengths; more information on self-reported strengths is needed to inform self-report instrument development and assessment practices. Participants included 127 legally independent autistic adults recruited primarily through SPARK Research Match, who completed open-ended questions regarding strengths and talents. Qualitative content analysis identified themes of strengths, and associations between strengths and gender, age, age of diagnosis, and education level were examined. Autistic and nonautistic team members collaborated on qualitative coding, data interpretation, and manuscript writing. Themes emerging from the qualitative responses included Cognitive/Executive Functioning (61%), Character St…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10870547251385758",
       "title": "Cognitive Profile of ADHD in Older Adults: A Systematic Review",
       "authors": [
@@ -589,6 +561,79 @@
       "abstract": "Objective: Susceptibility to visual illusions is a consequence of the adaptation of the visual system, however, their perception or lack of it reflects differences in more general, global cognitive processes. Few studies have focussed on the susceptibility of individuals with attention-deficit/hyperactivity disorder (ADHD), even though visual impairment and percept differences have been thoroughly documented. Method: The present study evaluated 75 children (ages 6.09–12.99 years, 72% male) and 37 teenagers (ages 13–16.95 years, 62% male) with ADHD, and a sex-and-age matched sample of typically developing peers. They were tested with 103 pairs of illusory and control images spanning five illusion types. Results: We found increased susceptibility to the Müller-Lyer and Kanizsa Subjective Contour and decreased susceptibility to the Ebbinghaus illusion among children with ADHD when compared to typically developing controls. No differences were found for susceptibility to the Simultaneous Contrast and Moving Snake illusions. As for reaction times, we did not find differences between participants with ADHD and their control peers when judging illusions; however, in general participants g…"
     },
     {
+      "id": "10.1007/s10803-025-07187-y",
+      "title": "The Impact of Exercise Interventions on Sustained Attention for Children and Adolescents With ADHD: A Systematic Review and Meta-Analysis",
+      "authors": [
+        "Mengping Zhao",
+        "Jiayue Li",
+        "Richard H. Xu",
+        "Chang Liu",
+        "Chunxiao Li",
+        "Jinxian Guo",
+        "Li Su",
+        "Xiao Liang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-24",
+      "doi": "10.1007/s10803-025-07187-y",
+      "url": "https://doi.org/10.1007/s10803-025-07187-y",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/25739581251378264",
+      "title": "Literary Masking and Unmasking: Reading Neuromixed Love Stories from an Autistic Collective Autoethnographic Literary Approach",
+      "authors": [
+        "Hanna Bertilsdotter Rosqvist",
+        "Anna Nygren"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-24",
+      "doi": "10.1177/25739581251378264",
+      "url": "https://doi.org/10.1177/25739581251378264",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "This article investigates neuromixed love stories in novels that include a named autistic character, are written by autistic authors, or have characters who have been named by paratexts as autistic. In the article, we invoke a collective autoethnographic literary approach, using our reading diaries or letters to each other as source material. From an autistic perspective we explore neurotypical heterosexual neuromixed love stories and autistic counter love stories focusing on how neurotypical and autistic characters are represented. Our main findings are two dichotomies and two happy endings. In neurotypical heterosexual neuromixed love stories, the dichotomy of a female autistic grotesque and the male neurotypical savior is central where the happy ending is curing or masking autism, upholding both heteronormativity and neuronormativity. In autistic counter love stories, the happy ending is rather framed as unmasking and founding a way of life outside of neuro- and heteronormativity for both parties. Community Brief Why is this topic important Autistic people are often told that they can’t communicate their experiences to non-autistic people. A way to counter this assumption is to…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251376162",
+      "title": "Formative Evaluation of PREPARE for Autistic Adults: An Adult Autism Training for Resident Physicians Designed with Autistic Adults and Family Members",
+      "authors": [
+        "Brittany N. Hand",
+        "Daniel Gilmore",
+        "J. Madison Hyer",
+        "Holden DeVassie",
+        "Deondray Radford",
+        "Lisa Juckett",
+        "Christopher Hanks",
+        "Susan M. Havercamp",
+        "Daniel Coury"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-24",
+      "doi": "10.1177/25739581251376162",
+      "url": "https://doi.org/10.1177/25739581251376162",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Efforts are intensifying across the United States to better prepare physicians to deliver high-quality, patient-centered care for adults with disabilities such as autism. To address this need, we partnered with autistic adults and their families to develop a training program for resident physicians called Promoting Residents’ Excellence in Patient-centered cARE (PREPARE) for Autistic Adults. Here, we describe an evaluation of the feasibility, acceptability, and appropriateness of PREPARE for Autistic Adults to inform content and format revisions before efficacy pilot testing. We recruited residents ( n = 14) at one large academic medical center in the Midwestern U.S. to participate in the 8-week virtual training, which included six pre-recorded lectures, six facilitator-led case studies, and two standardized patient encounters. Participants rated the feasibility, acceptability, and appropriateness of the training and participated in qualitative interviews to identify improvement opportunities. We analyzed quantitative data with descriptive statistics and qualitative interviews with an inductive rapid qualitative analysis. Participants’ median completion rate was 76.9% of training c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1080/20473869.2025.2590001",
       "title": "Random forest and explainable AI for autism gene prioritization: a machine learning approach to developmental brain data",
       "authors": [
@@ -625,6 +670,44 @@
       "tags": [
         "communication"
       ]
+    },
+    {
+      "id": "10.1002/aur.70155",
+      "title": "An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (\n                    <scp>ADOS</scp>\n                    ) Module 3: An Item Response Theory Analysis",
+      "authors": [
+        "Yuen Yvonne Yu",
+        "Austin Wyman",
+        "Calliana J. Faulk",
+        "Lizzy J. Fulop",
+        "Rebecca L. Greenberg",
+        "Rachel M. Benecke",
+        "Lauren K. Steinbeck",
+        "Jessica Foy",
+        "Caitlyn Kim",
+        "George O. Emory",
+        "Eric A. Storch",
+        "Casey J. Zampella",
+        "Benjamin E. Yerys",
+        "Robert T. Schultz",
+        "Julia Parish‐Morris",
+        "John D. Herrington",
+        "Caitlin C. Clements"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-23",
+      "doi": "10.1002/aur.70155",
+      "url": "https://doi.org/10.1002/aur.70155",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Given the rising prevalence of autism among racial minority children in the United States, but persistent service use disparities, this study examines potential bias in specific items from the autism diagnostic observation schedule (ADOS), a highly regarded autism evaluation. We leveraged unidimensional item response theory graded response models and a sample of 735 children to analyze the differential item functioning (DIF) of items within ADOS Module 3. Three items showed significant signs of racial bias: A1 (overall language level), A5 (offers information), and D5 (compulsions and rituals). On these items, Black/African American and Asian children were usually more likely to be rated as showing autistic behaviors than White children with similar autism levels. The impact of racial bias on the item score was small, and the impact on the overall test score was even smaller: on a scale of 0–48 points, the effect of racial bias was estimated at 0.23 total points for Black/African American children and 0.16 points for Asian children. Furthermore, none of the items showing significant bias contribute to the autism classification algorithm. This analysis suggests a small but d…"
     },
     {
       "id": "10.1002/aur.70165",
@@ -2070,6 +2153,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -2092,27 +2196,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -2713,32 +2796,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251362267",
-      "title": "Elevated autistic features in Parkinson’s disease and other motor disorders",
-      "authors": [
-        "Ipsita Dey",
-        "Swarnima Pathak",
-        "Sreerupa Chakrabarty",
-        "Matthew K. Belmonte",
-        "Supriyo Choudhury",
-        "Hrishikesh Kumar",
-        "Bhismadev Chakrabarti"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1177/13623613251362267",
-      "url": "https://doi.org/10.1177/13623613251362267",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Biological accounts have suggested an overlap between Parkinson’s disease and autism despite their being studied largely at opposite ends of the life course. Characterising this overlap can identify potentially shared aetiologies and care pathways for these conditions. However, this overlap has so far only been tested in older autistic adults who show greater Parkinson’s disease traits. The converse has not been directly assayed, that is, if adults with Parkinson’s disease have higher autistic features. This preregistered study addressed this gap in the literature by asking whether adults with Parkinson’s disease manifest elevated autistic traits. To test whether any such overlap might be unique to Parkinson’s disease, we included two control groups: (1) people without any parkinsonism but with motor disability of neurological or neurovascular origin (other motor disorders), and (2) typically ageing controls with no motor disorders. We tested N = 330 participants (equal numbers of Parkinson’s disease, other motor disorders and typically ageing controls) on their autistic traits and cognitive abilities. Clinical diagnoses were verified through a tertiary neurology clinic. Higher aut…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251392464",
       "title": "The Experience of Autistic Professionals Working in Health and Education: A Systematic Review",
       "authors": [
@@ -2856,6 +2913,175 @@
         "Quality of life"
       ],
       "abstract": "Objective: Children born preterm are at an elevated risk of developmental challenges, often exhibiting a distinct “preterm behavioral phenotype” characterized by particular attention difficulties. This review focuses on examining the phenotypical attention profile in preterm children aged 5 to 11 years, considering both clinical and neuropsychological aspects. Method: Following the PRISMA reporting guidelines, 22 peer-reviewed studies were analyzed. Result: According to behavioral-clinical aspects, preterm children appear to be at heightened risk for inattentive attention problems, including a predisposition to the predominantly inattentive presentation of ADHD. Regarding neuropsychological attention, deficits were identified in top-down controlled intensity processes as well as in certain components of selectivity and executive functioning. Conclusion: This review yields evidence that preterm children exhibit distinct and specific attention deficits during preschool and school age, characterized by a phenotypical clinical and neuropsychological attentional profile. Early identification of these issues is crucial, as it enables timely interventions to support school participation a…"
+    },
+    {
+      "id": "10.1002/aur.70141",
+      "title": "Eye Tracking as a Treatment Monitoring Tool for Autism: A Multilevel Meta‐Analysis",
+      "authors": [
+        "Christy D. Yoon",
+        "Yan Xia",
+        "Adriana Kaori Terol",
+        "Hedda Meadan",
+        "Frederick Shic"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1002/aur.70141",
+      "url": "https://doi.org/10.1002/aur.70141",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT There is a growing body of evidence suggesting a concurrent association between attentional indices measured via eye tracking and autism symptoms. This meta‐analysis examined the utility of eye tracking within longitudinal frameworks for autism interventions, including treatment monitoring and prediction of treatment response. We conducted a multivariate random‐effects meta‐analysis with a multilevel structure on 25 studies (828 autistic participants; M age = 3–28 years) to estimate: (a) changes in eye‐tracking outcomes from pre‐ to post‐treatment ( k = 179); and (b) the correlation between baseline eye‐tracking profiles and changes in developmental outcomes following treatment ( k = 39). Our analysis revealed a moderate and significant summary effect size for changes in eye‐tracking outcomes from pre‐ to post‐treatment (Hedge's g = 0.32, p = 0.010). Additionally, a moderate but non‐significant summary effect size was revealed for the correlation between baseline eye‐tracking outcomes and changes in developmental outcomes following treatment (Fisher's z = 0.20, p = 0.115), with moderation effects observed based on developmental domain and sex. These findings highlight the…"
+    },
+    {
+      "id": "10.1002/aur.70136",
+      "title": "Understanding Barriers to Assessment and Diagnosis of Autism in Adulthood: Where Are We Now and How Do We Move Forward?",
+      "authors": [
+        "Aspasia Stacey Rabba",
+        "Linnea Lampinen",
+        "Phoebe Meldrum",
+        "Patrick Dwyer",
+        "Mikle South",
+        "Lauren Taylor",
+        "Mirko Uljarevic",
+        "Vanessa H. Bal"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1002/aur.70136",
+      "url": "https://doi.org/10.1002/aur.70136",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "ABSTRACT Assessment and diagnosis of autism in adulthood is a growing area of interest for both clinical and research practice. In this commentary, we present a thematic analysis following the first International Society for Autism Research Special Interest Group (SIG) focused on assessment and diagnosis of autism in adulthood. An increasing recognition of missed or misdiagnosed autistic adults is highlighted throughout the commentary. Recommendations for reducing barriers in diagnostic processes are reviewed, including improving existing adult autism measures and developing new ones, especially self‐report/interview tools capturing what cannot be externally observed; providing more information about the process ahead of time and better post‐diagnostic support; better assessment of psychosocial and mental health histories; training to promote clinicians' understanding of adult autism; and the importance of considering culture. Professional and government bodies should support the development of neuroaffirming, client‐centered practice guidelines that actively include input and co‐design from autistic adults.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70138",
+      "title": "The Distinctive Clinical Profiles of Children With Autism Suffering From Different Subtypes of Rome\n                    <scp>IV</scp>\n                    Functional Gastrointestinal Disorders",
+      "authors": [
+        "Isaac Ho Wai Wong",
+        "Sze‐Mai Ng",
+        "Angela Man Wai Lam",
+        "Sandra Sau Man Chan",
+        "Shing‐Him Ng",
+        "Jet Leung",
+        "Keith Chun Lok Lee",
+        "Arthur Chun Chi Wong",
+        "Yuqi Wu",
+        "Francis Ka Leung Chan",
+        "Siew Chien Ng",
+        "Oscar Wing Ho Wong"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1002/aur.70138",
+      "url": "https://doi.org/10.1002/aur.70138",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Functional gastrointestinal disorders (FGIDs) are prevalent in children with autism and can interact with the neuropsychiatric symptoms bidirectionally. Moreover, FGIDs may affect feeding to jeopardize nutritional intake. Existing research often overlooks the heterogeneity of FGIDs. Understanding the clinical correlates of individual FGID subtypes may clarify the underlying gut‐brain interactions to guide management. This study compared the core autistic symptoms, co‐occurring psychopathologies, feeding behavior and dietary intake among 737 Chinese children with autism (mean age = 7.76 years; 642 males and 95 females) who either experienced no FGID or experienced one of the three subtypes of ROME‐IV FGID. FGIDs were present in 19.8% of participants and MANCOVA revealed distinct clinical profiles across FGID subtypes. Functional abdominal pain disorders (FAPD) were associated with more severe neuropsychiatric symptoms, including restricted and repetitive behavior, anxiety, sensory hyperresponsiveness, externalizing behavior, and feeding patterns of emotional under‐eating, slowness in eating, and increased satiety response. Functional defecation disorders (FDD) were characte…",
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1002/aur.70128",
+      "title": "Multilevel Resting‐State Dysfunctional Connectivity in People With Autism Spectrum Disorder: A Systematic Review and Meta‐Analysis",
+      "authors": [
+        "Xinyun Lin",
+        "Simin Deng",
+        "Xiuhong Li"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1002/aur.70128",
+      "url": "https://doi.org/10.1002/aur.70128",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Autism spectrum disorder (ASD) has been linked to dysfunctional communication among brain regions and functional networks, as reflected by abnormal resting‐state functional connectivity (rsFC). However, the consistent findings thus far have been elusive. To examine whether individuals with ASD show rsFC differently than healthy individuals at multiple seed levels, we performed a systematic analysis and meta‐analysis at all prior seeds, functional network seeds, and single seed levels. This study was registered in the PROSPERO (registration number CRD42024559418). Publications were identified in PubMed, Embase, and PsycINFO from database inception until December 20, 2023. Publications were included that provided seed‐based whole‐brain rsFC contrasts between a sample with ASD and controls at rest. Seed and peak effect coordinates and intergroup effects were extracted for analysis. Random‐effects meta‐analysis was performed using the Seed‐based d Mapping software. This study included 26 studies from 709 people with ASD and 705 controls. The frontal regions, right medial cingulate gyrus (MCG) ( g = −0.51; 95% CI, −0.69 to −0.33) of the ventral attention network (VAN), and medi…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70123",
+      "title": "Meaningful Determinants of Early Response: Predicting and Characterizing Behavioral Changes for Minimally Verbal Autistic Children",
+      "authors": [
+        "Jonathan Panganiban",
+        "Wendy Shih",
+        "Lynne Levato",
+        "Stephanie Shire",
+        "Connie Kasari"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1002/aur.70123",
+      "url": "https://doi.org/10.1002/aur.70123",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment",
+        "Healthcare",
+        "Quality of life"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Autism encompasses a wide range of developmental abilities. Notably, nearly 30% of children fail to achieve phrase speech by kindergarten, even when provided with years of early interventions or participation in rigorously conducted clinical trials. Our understanding of why these challenges persist is limited by an underrepresentation of minimally verbal (MV) children in autism research. Consequently, our understanding of benefits from early intervention is limited. There is promising evidence that minimally verbal autistic children may benefit from an adaptive approach that can address their dynamic needs. Adaptive interventions give service providers the ability to adjust strategies and approaches to match the needs of an individual. A critical component of an adaptive intervention approach is the ability to assess response to the intervention in order to make a decision on the best course of action. Previous work in identifying response to intervention has identified key predictors such as IQ, age, and expressive language ability. However, it may be helpful to examine core developmental skills as important variables driving decisions in adaptive intervention approaches.…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70106",
+      "title": "A Cross‐Sectional Study on Narrative Microstructure in Tamil‐Speaking Autistic and Non‐Autistic Children",
+      "authors": [
+        "Madhumitha Saravanaperumal",
+        "Krupa Venkatraman",
+        "Aswathy Muraleedharan"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1002/aur.70106",
+      "url": "https://doi.org/10.1002/aur.70106",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "ABSTRACT Narrative skills involve retelling or generating stories, reflecting cognitive and communication development. This use of language is decontextualized and requires a fluent interplay of various components. Autistic children often demonstrate atypical language development and restricted communication tailored to specific needs. This cross‐sectional study examines narrative microstructure in language‐level‐matched Tamil‐speaking autistic children and those without autism, aged 3–5 years. Six microstructure parameters were analyzed through story‐retelling and story‐generation tasks to assess narrative abilities. The research included 38 Tamil‐speaking children, divided based on autism diagnosis and matched for language level using standardized tests. The assessment focused on a retelling task and sequencing cards for story retelling (SR) and story generation (SG). The six microstructure variables evaluated were: total number of words (TNW), total number of utterances (TNU), mean length of utterances in words (MLU‐W), mean length of utterances in morphemes (MLU‐M), number of different words (NDW), and type‐token ratio (TTR). The results indicated that autistic children consist…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613251394558",
@@ -4107,26 +4333,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1002/aur.70141",
-      "title": "Eye Tracking as a Treatment Monitoring Tool for Autism: A Multilevel Meta‐Analysis",
-      "authors": [
-        "Christy D. Yoon",
-        "Yan Xia",
-        "Adriana Kaori Terol",
-        "Hedda Meadan",
-        "Frederick Shic"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-11-14",
-      "doi": "10.1002/aur.70141",
-      "url": "https://doi.org/10.1002/aur.70141",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT There is a growing body of evidence suggesting a concurrent association between attentional indices measured via eye tracking and autism symptoms. This meta‐analysis examined the utility of eye tracking within longitudinal frameworks for autism interventions, including treatment monitoring and prediction of treatment response. We conducted a multivariate random‐effects meta‐analysis with a multilevel structure on 25 studies (828 autistic participants; M age = 3–28 years) to estimate: (a) changes in eye‐tracking outcomes from pre‐ to post‐treatment ( k = 179); and (b) the correlation between baseline eye‐tracking profiles and changes in developmental outcomes following treatment ( k = 39). Our analysis revealed a moderate and significant summary effect size for changes in eye‐tracking outcomes from pre‐ to post‐treatment (Hedge's g = 0.32, p = 0.010). Additionally, a moderate but non‐significant summary effect size was revealed for the correlation between baseline eye‐tracking outcomes and changes in developmental outcomes following treatment (Fisher's z = 0.20, p = 0.115), with moderation effects observed based on developmental domain and sex. These findings highlight the…"
-    },
-    {
       "id": "10.1177/13623613251388627",
       "title": "The Schools Unified in Neurodiversity Collaborative: Co-designing a program to enhance educator knowledge and efficacy supporting children with neurodevelopmental disabilities",
       "authors": [
@@ -4519,38 +4725,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1002/aur.70136",
-      "title": "Understanding Barriers to Assessment and Diagnosis of Autism in Adulthood: Where Are We Now and How Do We Move Forward?",
-      "authors": [
-        "Aspasia Stacey Rabba",
-        "Linnea Lampinen",
-        "Phoebe Meldrum",
-        "Patrick Dwyer",
-        "Mikle South",
-        "Lauren Taylor",
-        "Mirko Uljarevic",
-        "Vanessa H. Bal"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-11-08",
-      "doi": "10.1002/aur.70136",
-      "url": "https://doi.org/10.1002/aur.70136",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "ABSTRACT Assessment and diagnosis of autism in adulthood is a growing area of interest for both clinical and research practice. In this commentary, we present a thematic analysis following the first International Society for Autism Research Special Interest Group (SIG) focused on assessment and diagnosis of autism in adulthood. An increasing recognition of missed or misdiagnosed autistic adults is highlighted throughout the commentary. Recommendations for reducing barriers in diagnostic processes are reviewed, including improving existing adult autism measures and developing new ones, especially self‐report/interview tools capturing what cannot be externally observed; providing more information about the process ahead of time and better post‐diagnostic support; better assessment of psychosocial and mental health histories; training to promote clinicians' understanding of adult autism; and the importance of considering culture. Professional and government bodies should support the development of neuroaffirming, client‐centered practice guidelines that actively include input and co‐design from autistic adults.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-025-07089-z",
       "title": "Delivered Right to Your Own Home: Community Perspectives on Home-Based Kits for Studying Genetic and Environmental Factors Related to Later Autism Diagnosis",
       "authors": [
@@ -4743,42 +4917,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70138",
-      "title": "The Distinctive Clinical Profiles of Children With Autism Suffering From Different Subtypes of Rome\n                    <scp>IV</scp>\n                    Functional Gastrointestinal Disorders",
-      "authors": [
-        "Isaac Ho Wai Wong",
-        "Sze‐Mai Ng",
-        "Angela Man Wai Lam",
-        "Sandra Sau Man Chan",
-        "Shing‐Him Ng",
-        "Jet Leung",
-        "Keith Chun Lok Lee",
-        "Arthur Chun Chi Wong",
-        "Yuqi Wu",
-        "Francis Ka Leung Chan",
-        "Siew Chien Ng",
-        "Oscar Wing Ho Wong"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-11-05",
-      "doi": "10.1002/aur.70138",
-      "url": "https://doi.org/10.1002/aur.70138",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Functional gastrointestinal disorders (FGIDs) are prevalent in children with autism and can interact with the neuropsychiatric symptoms bidirectionally. Moreover, FGIDs may affect feeding to jeopardize nutritional intake. Existing research often overlooks the heterogeneity of FGIDs. Understanding the clinical correlates of individual FGID subtypes may clarify the underlying gut‐brain interactions to guide management. This study compared the core autistic symptoms, co‐occurring psychopathologies, feeding behavior and dietary intake among 737 Chinese children with autism (mean age = 7.76 years; 642 males and 95 females) who either experienced no FGID or experienced one of the three subtypes of ROME‐IV FGID. FGIDs were present in 19.8% of participants and MANCOVA revealed distinct clinical profiles across FGID subtypes. Functional abdominal pain disorders (FAPD) were associated with more severe neuropsychiatric symptoms, including restricted and repetitive behavior, anxiety, sensory hyperresponsiveness, externalizing behavior, and feeding patterns of emotional under‐eating, slowness in eating, and increased satiety response. Functional defecation disorders (FDD) were characte…",
-      "framing": "Person-first language used"
     },
     {
       "id": "10.1007/s10803-025-07100-7",
@@ -6188,31 +6326,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70128",
-      "title": "Multilevel Resting‐State Dysfunctional Connectivity in People With Autism Spectrum Disorder: A Systematic Review and Meta‐Analysis",
-      "authors": [
-        "Xinyun Lin",
-        "Simin Deng",
-        "Xiuhong Li"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-10-20",
-      "doi": "10.1002/aur.70128",
-      "url": "https://doi.org/10.1002/aur.70128",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism spectrum disorder (ASD) has been linked to dysfunctional communication among brain regions and functional networks, as reflected by abnormal resting‐state functional connectivity (rsFC). However, the consistent findings thus far have been elusive. To examine whether individuals with ASD show rsFC differently than healthy individuals at multiple seed levels, we performed a systematic analysis and meta‐analysis at all prior seeds, functional network seeds, and single seed levels. This study was registered in the PROSPERO (registration number CRD42024559418). Publications were identified in PubMed, Embase, and PsycINFO from database inception until December 20, 2023. Publications were included that provided seed‐based whole‐brain rsFC contrasts between a sample with ASD and controls at rest. Seed and peak effect coordinates and intergroup effects were extracted for analysis. Random‐effects meta‐analysis was performed using the Seed‐based d Mapping software. This study included 26 studies from 709 people with ASD and 705 controls. The frontal regions, right medial cingulate gyrus (MCG) ( g = −0.51; 95% CI, −0.69 to −0.33) of the ventral attention network (VAN), and medi…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1007/s10803-025-07091-5",
       "title": "Young Adulthood Milestones and Supports Within the Context of Autism",
       "authors": [
@@ -7044,36 +7157,6 @@
       "abstract": "Objective: The rates of women of reproductive age diagnosed with ADHD have increased significantly. However, little is known about how pregnancy, childbirth, and the postpartum period influence ADHD related problems, help-seeking behaviors or the timing of ADHD diagnosis. This study aimed to investigate incident ADHD diagnoses among women from 5 years before to 5 years after childbirth. Method: The population-based cohort study utilized Danish nationwide registers to identify mothers of all childbirths between 2010 and 2018. ADHD diagnoses, defined as ICD-10 codes (F90 or F98.8) or redemption of ADHD medication prescriptions, were recorded during 1994 to 2023. Women who received an ADHD diagnosis prior to the five-year pre-birth period were excluded. We estimated calendar-year adjusted incidence of first-time maternal ADHD diagnoses using Poisson regression, and compared incidence across pre-pregnancy, pregnancy, postpartum up to 2 years, and 2 to 5 years postpartum, reporting adjusted incidence rate ratios (IRRs). Analyses included psychiatric comorbidities and non-ADHD psychotropic medication use prior to an ADHD diagnosis, for women diagnosed with ADHD postpartum. Results: The s…"
     },
     {
-      "id": "10.1002/aur.70123",
-      "title": "Meaningful Determinants of Early Response: Predicting and Characterizing Behavioral Changes for Minimally Verbal Autistic Children",
-      "authors": [
-        "Jonathan Panganiban",
-        "Wendy Shih",
-        "Lynne Levato",
-        "Stephanie Shire",
-        "Connie Kasari"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-10-09",
-      "doi": "10.1002/aur.70123",
-      "url": "https://doi.org/10.1002/aur.70123",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Employment",
-        "Healthcare",
-        "Quality of life"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism encompasses a wide range of developmental abilities. Notably, nearly 30% of children fail to achieve phrase speech by kindergarten, even when provided with years of early interventions or participation in rigorously conducted clinical trials. Our understanding of why these challenges persist is limited by an underrepresentation of minimally verbal (MV) children in autism research. Consequently, our understanding of benefits from early intervention is limited. There is promising evidence that minimally verbal autistic children may benefit from an adaptive approach that can address their dynamic needs. Adaptive interventions give service providers the ability to adjust strategies and approaches to match the needs of an individual. A critical component of an adaptive intervention approach is the ability to assess response to the intervention in order to make a decision on the best course of action. Previous work in identifying response to intervention has identified key predictors such as IQ, age, and expressive language ability. However, it may be helpful to examine core developmental skills as important variables driving decisions in adaptive intervention approaches.…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-025-07066-6",
       "title": "Association Between Screen Time Exposure and Scores on the Modified Checklist for Autism in Toddlers, Revised With Follow-Up (M-CHAT-R/F) in Children From a Multi-ethnic Population-Based Sample in Singapore",
       "authors": [
@@ -7802,22 +7885,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251378264",
-      "title": "Literary Masking and Unmasking: Reading Neuromixed Love Stories from an Autistic Collective Autoethnographic Literary Approach",
-      "authors": [
-        "Hanna Bertilsdotter Rosqvist",
-        "Anna Nygren"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-09-26",
-      "doi": "10.1177/25739581251378264",
-      "url": "https://doi.org/10.1177/25739581251378264",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581251382389",
       "title": "“Trapped in a No-Win Situation”: A Qualitative Exploration of Autistic Adults’ Experiences of Loneliness",
       "authors": [
@@ -8043,30 +8110,6 @@
       "published_date": "2025-09-24",
       "doi": "10.1177/25739581251379187",
       "url": "https://doi.org/10.1177/25739581251379187",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251376162",
-      "title": "Formative Evaluation of PREPARE for Autistic Adults: An Adult Autism Training for Resident Physicians Designed with Autistic Adults and Family Members",
-      "authors": [
-        "Brittany N. Hand",
-        "Daniel Gilmore",
-        "J. Madison Hyer",
-        "Holden DeVassie",
-        "Deondray Radford",
-        "Lisa Juckett",
-        "Christopher Hanks",
-        "Susan M. Havercamp",
-        "Daniel Coury"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-09-24",
-      "doi": "10.1177/25739581251376162",
-      "url": "https://doi.org/10.1177/25739581251376162",
       "neurotype": [
         "Autism"
       ],
@@ -9086,32 +9129,6 @@
         "Quality of life"
       ],
       "abstract": "Aim: Assess prevalence and correlates of cannabis use in adults with attention-deficit/hyperactivity disorder (ADHD) and explore its impact on comorbidities, symptoms, and side effects of prescription stimulants. Methods: An anonymous online survey (April to July 2023) was emailed to 9,274 potential adult participants with a documented ADHD diagnosis, based on ICD-10 codes in the electronic medical record, which was secondarily verified by self-report. A total of 900 participants completed the survey. The 46-item survey covered demographics, medical history, prescription stimulant use, cannabis use, and its impact on ADHD symptoms and prescribed stimulant side effects, prescription stimulant misuse, cannabis use disorder, and health-related quality of life. Results: In this large sample of adults diagnosed with ADHD, 75% reported ever using cannabis, with 41% reporting prior 30-day use. Groups of cannabis users were categorized into three groups; (1) no recent use (including never; N = 458); (2) non-daily use (&lt;30 days in past month; N = 256); and (3) daily use (≥30 days in past month; N = 112). Compared to non-daily cannabis users, daily cannabis users showed comparable rates o…"
-    },
-    {
-      "id": "10.1002/aur.70106",
-      "title": "A Cross‐Sectional Study on Narrative Microstructure in Tamil‐Speaking Autistic and Non‐Autistic Children",
-      "authors": [
-        "Madhumitha Saravanaperumal",
-        "Krupa Venkatraman",
-        "Aswathy Muraleedharan"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-08-28",
-      "doi": "10.1002/aur.70106",
-      "url": "https://doi.org/10.1002/aur.70106",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "ABSTRACT Narrative skills involve retelling or generating stories, reflecting cognitive and communication development. This use of language is decontextualized and requires a fluent interplay of various components. Autistic children often demonstrate atypical language development and restricted communication tailored to specific needs. This cross‐sectional study examines narrative microstructure in language‐level‐matched Tamil‐speaking autistic children and those without autism, aged 3–5 years. Six microstructure parameters were analyzed through story‐retelling and story‐generation tasks to assess narrative abilities. The research included 38 Tamil‐speaking children, divided based on autism diagnosis and matched for language level using standardized tests. The assessment focused on a retelling task and sequencing cards for story retelling (SR) and story generation (SG). The six microstructure variables evaluated were: total number of words (TNW), total number of utterances (TNU), mean length of utterances in words (MLU‐W), mean length of utterances in morphemes (MLU‐M), number of different words (NDW), and type‐token ratio (TTR). The results indicated that autistic children consist…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-025-07026-0",
