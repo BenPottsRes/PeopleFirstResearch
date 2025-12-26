@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T06:49:34Z",
+  "generated_at": "2025-12-26T06:49:32Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -2632,24 +2632,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07013-5",
-      "title": "Theta Activity at Sleep Onset in Children with Autism Spectrum Disorder",
-      "authors": [
-        "Pahnwat Tonya Taweesedt",
-        "Christina F. Chick",
-        "Makoto Kawai"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1007/s10803-025-07013-5",
-      "url": "https://doi.org/10.1007/s10803-025-07013-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/13623613251395122",
@@ -6588,26 +6570,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -6629,6 +6591,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -9129,31 +9111,6 @@
         "Quality of life"
       ],
       "abstract": "Aim: Assess prevalence and correlates of cannabis use in adults with attention-deficit/hyperactivity disorder (ADHD) and explore its impact on comorbidities, symptoms, and side effects of prescription stimulants. Methods: An anonymous online survey (April to July 2023) was emailed to 9,274 potential adult participants with a documented ADHD diagnosis, based on ICD-10 codes in the electronic medical record, which was secondarily verified by self-report. A total of 900 participants completed the survey. The 46-item survey covered demographics, medical history, prescription stimulant use, cannabis use, and its impact on ADHD symptoms and prescribed stimulant side effects, prescription stimulant misuse, cannabis use disorder, and health-related quality of life. Results: In this large sample of adults diagnosed with ADHD, 75% reported ever using cannabis, with 41% reporting prior 30-day use. Groups of cannabis users were categorized into three groups; (1) no recent use (including never; N = 458); (2) non-daily use (&lt;30 days in past month; N = 256); and (3) daily use (≥30 days in past month; N = 112). Compared to non-daily cannabis users, daily cannabis users showed comparable rates o…"
-    },
-    {
-      "id": "10.1007/s10803-025-07026-0",
-      "title": "Heterogeneity in the Resilience Intervention Receptiveness in Chinese Parents of Autistic Children",
-      "authors": [
-        "Ho-Wai Lam",
-        "Xueke Song",
-        "Ka-Ho Lau",
-        "Sze-Man Chan",
-        "Wing-Chee So"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-08-27",
-      "doi": "10.1007/s10803-025-07026-0",
-      "url": "https://doi.org/10.1007/s10803-025-07026-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "Abstract Chinese parents of autistic children experience elevated stress. However, the number of resilience interventions is limited. In this study, we aimed to examine the efficacy of an 8-week resilience-focused group intervention. In this quasi-experimental study, 92 Chinese parents of autistic children assigned to the intervention condition and 51 wait-list control. We evaluated the effectiveness of resilience-focused intervention using ANOVAs. Then, a cluster analysis was performed to identify subgroups of Chinese parents to examine whether the effectiveness of the intervention differed among those clusters and the factors accounting for these variations. There was no overall significant improvement in the parents’ resilience after intervention but there were individual variations in their intervention outcomes. Four clusters were identified. Cluster 1 featured parents in with moderate levels of family quality of life, parental stress, and child behavioral problems. Clusters 2 and 4 had similarly high levels of satisfaction with their family quality of life, and relatively low parental stress. Cluster 3 represented the most troubled parents and had the lowest level of family q…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
