@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T06:47:59Z",
+  "generated_at": "2025-12-29T06:53:53Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -2355,27 +2355,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -2398,6 +2377,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -7487,23 +7487,6 @@
         "lived experience"
       ],
       "abstract": "Objective: ADHD is commonly comorbid with depression and this comorbidity is associated with increased symptom severity and worse outcomes than either condition alone. Depression is highly heterogeneous and may present differently in populations with ADHD. This study aimed to explore different symptom presentations of depression and associated clinical correlates in a clinical ADHD sample. Method: We analysed data from the Study of ADHD Genes and Environment (SAGE). Parents completed semi-structured interviews about their child’s psychopathology at baseline ( M age = 10.9 years) and the Mood and Feelings Questionnaire to capture their child’s depression symptoms approximately 5 years later ( M age = 14.6 years, N = 246). Depression symptom presentations were derived by latent profile analysis. Results: Analyses found three presentations of depression symptoms: a ‘low symptoms’ class (48.5% of the sample), a ‘high symptoms’ class (15.5%) with consistently high depression symptoms, particularly for suicidality and poor self-esteem items, and an ‘irritable/poor sleep’ class (36.1%) with high scores for irritability and poor sleep and intermediate levels of other depression symptoms. A…"
-    },
-    {
-      "id": "10.1177/13623613251371485",
-      "title": "What is autism? Identity in jeopardy and the collaborative way ahead",
-      "authors": [
-        "Mishel Alexandrovsky",
-        "Margot Frayne",
-        "Meng-Chuan Lai"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-10-01",
-      "doi": "10.1177/13623613251371485",
-      "url": "https://doi.org/10.1177/13623613251371485",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1080/20473869.2025.2561160",
