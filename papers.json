@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T06:50:22Z",
+  "generated_at": "2025-12-31T06:50:52Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -379,55 +379,60 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251370814",
-      "title": "Quality employee–manager relationships are key to career success",
+      "id": "10.1108/aia-08-2025-0088",
+      "title": "Communicating autism: a qualitative analysis of daily challenges and adaptations",
       "authors": [
-        "Susan M Hayward",
-        "Sophie Hennekam",
-        "Simon M Bury"
+        "Petervir Altesing Paz"
       ],
-      "journal": "Autism",
+      "journal": "Advances in Autism",
       "year": 2026,
       "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251370814",
-      "url": "https://doi.org/10.1177/13623613251370814",
+      "doi": "10.1108/aia-08-2025-0088",
+      "url": "https://doi.org/10.1108/aia-08-2025-0088",
       "neurotype": [
         "Autism"
       ],
       "domains": [
-        "Employment"
-      ],
-      "abstract": "This study investigated the relationship between the perceived quality of employee–manager relationships and workplace outcomes, and whether these differed between autistic and non-autistic employees. We surveyed 189 employed participants ( n = 92 autistic, n = 97 non-autistic) from the United Kingdom. Participants completed measures of employee–manager relationship quality; workplace behaviours, for example, strengths use and job crafting; and outcomes, for example, career development opportunities and job satisfaction. Multiple regression analyses assessed the association between employee–manager relationship and autism diagnosis on behaviours and outcomes. One’s relationship with their manager was a significant predictor of all workplace behaviours and outcomes, explaining 22% of the variance in career development opportunities and 7%–11% for other dependent variables. Autism diagnosis was not an independent predictor of the quality of the employee–manager relationship and outcomes. Autistic participants rated the relationship with their managers as poorer than non-autistic employees. This study emphasises the importance of positive employee–manager relationships for career succ…"
-    },
-    {
-      "id": "10.1177/13623613251366863",
-      "title": "Experiences of self-harm, suicidal ideation and mental health care among autistic youth",
-      "authors": [
-        "Amanda Sabo",
-        "Jo Robinson",
-        "India Bellairs-Walsh",
-        "Linda Taimre",
-        "William Nguyen",
-        "Lisa Phillips",
-        "Michelle Lamblin",
-        "Eleanor Bailey"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251366863",
-      "url": "https://doi.org/10.1177/13623613251366863",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
+        "Communication",
+        "Quality of life"
       ],
       "tags": [
         "access",
+        "communication",
         "lived experience"
       ],
-      "abstract": "Autistic youth experience high rates of self-harm and suicidal ideation, and substantial barriers to adequate mental health care. Research suggests that mental health services may not meet the needs of autistic individuals, though autistic youth experiencing self-harm and suicidal ideation are underrepresented in this literature. The present study aimed to explore experiences of self-harm, suicidal ideation and mental health care among a sample of autistic youth recruited through two Australian government-funded youth mental health services. Online interviews with seven autistic participants aged 15–23 years were transcribed and thematically analysed using a reflexive approach. Four themes and two subthemes were generated: (1) social rejection as risk, and connection as protection; (2) overwhelming emotions can lead to self-harm and hinder help-seeking; (3) feeling (mis)understood and (in)adequately accommodated by clinicians (comprising two subthemes related to poor understanding and accommodation of autism within mental health services); and (4) safety planning can feel like a box-ticking exercise. These findings highlight the importance of social connectedness as a protective fa…",
+      "abstract": "Purpose This study aims to explore the daily challenges and adaptive communication strategies of Filipino families caring for children with autism. By focusing on family guardians’ lived experiences, it highlights barriers such as limited resources, high therapy costs, public stigma, coping mechanisms and impact to the faith to God. The research proposes the Autism Communication Support Framework (ACSF) to improve inclusion, support and policy for families affected by autism in Butuan City and throughout the Philippines. Design/methodology/approach This study used a qualitative, phenomenological approach, interviewing 60 Guardians of family members from therapy centers in Butuan City. The interviews documented their experiences, coping mechanisms and communication behaviors. Thematic analysis revealed consistent themes, while ethical protocols ensured voluntary participation, providing a comprehensive understanding of familial dynamics and autism caregiving difficulties. Findings Guardian caregiving is predominantly undertaken by middle-aged, married women from middle-income households, who encounter considerable financial and emotional stressors. Notwithstanding these challenges,…",
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1108/aia-09-2025-0090",
+      "title": "Better engagement with culturally and linguistically diverse parents of autistic children in online parent-led therapy? An interpretative phenomenological analysis",
+      "authors": [
+        "Sarah Oudet",
+        "Katie Howard",
+        "Napoleon Katsos",
+        "Stephanie Durrleman"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-01",
+      "doi": "10.1108/aia-09-2025-0090",
+      "url": "https://doi.org/10.1108/aia-09-2025-0090",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment",
+        "Healthcare",
+        "Quality of life"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to understand the lived experiences of culturally and linguistically diverse (CaLD) parents of autistic children who participated in a longitudinal self-directed (without clinical coaching) parent-led therapy (PLT) programme targeting social-communication skills, or who were unable to complete participation in the longitudinal study coached group sessions. This work explores how each participant’s specific context impacted their engagement with online PLT. Design/methodology/approach Five mothers from a range of CaLD backgrounds participated in this study from different countries. Semi-structured online interviews were conducted. Interpretative phenomenological analysis was used to analyse data, focusing on understanding each participant’s lived experience. Findings Two superordinate themes were developed: (1) cultural differences amplify barriers to online PLT; (2) linguistic adaptations of therapeutic strategies need to be contextualised for each CaLD environment. Research limitations/implications Participants had high English proficiency and academic backgrounds, which may not represent the CaLD population struggling most with PLT engagement. Further inve…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -600,6 +605,88 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581251406897",
+      "title": "When Lived Experience Becomes Clinical Expertise: Perspectives of Autistic Mental Health Therapists",
+      "authors": [
+        "Jessica Hogan",
+        "Joseph Anderson-Gutierrez",
+        "Illeanna Holmgren",
+        "Megan Anna Neff",
+        "Camille Laksman",
+        "Danielle Mills"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-30",
+      "doi": "10.1177/25739581251406897",
+      "url": "https://doi.org/10.1177/25739581251406897",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Healthcare",
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Introduction: Autistic psychotherapists hold a unique and underexplored position within the mental health field. While research on autistic clients is growing, there remains a significant gap in understanding the experiences of autistic clinicians. This study adds to the emerging literature on neurodiversity-affirming care by centering the voices of licensed autistic psychotherapists. Methods: Using a qualitative approach informed by interpretative phenomenological analysis, this study explored the professional identities, challenges, and contributions of eight licensed autistic therapists in the United States. We recruited participants through targeted outreach in online communities and took part in in-depth, semi-structured interviews. Results: Analysis revealed six superordinate themes: (1) Integration of autistic identity into therapeutic practice, (2) challenges in navigating professional environments, (3) adapting therapy for autistic clients, (4) autistic therapist well-being, (5) unique contributions of autistic therapists, and (6) advocacy and systemic change. Participants highlighted the value of authenticity in their clinical work, the therapeutic benefits of shared iden…"
+    },
+    {
+      "id": "10.1177/25739581251404409",
+      "title": "Safety, Connection, and Personal Growth: Experiences of Tabletop Role Play Game Groups Amongst Autistic Adolescents and Emerging Adults",
+      "authors": [
+        "Amy Peters",
+        "Jasmine Woods",
+        "Charissa Aditijo",
+        "Nam Lang",
+        "Raymond Nguyen",
+        "Liz Baird",
+        "Chris Webb",
+        "Belinda McLean",
+        "Megan Hatfield"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-30",
+      "doi": "10.1177/25739581251404409",
+      "url": "https://doi.org/10.1177/25739581251404409",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Introduction: Autistic people often encounter barriers to social connectedness, leading to feelings of loneliness and isolation. Tabletop role play games (TTRPG) groups have shown potential as a neurodiversity-affirming way to enhance the social connectedness of autistic adolescents and young adults. TTRPGs involve interactive collaborative storytelling through player constructed characters, often with involvement of a Game Master, and include games such as Dungeons and Dragons. Our study aimed to explore the experiences of autistic adolescents and young adults participating in socially led TTRPG groups. Method: We employed a qualitative phenomenological design. Thirteen participants (10 males, 1 female, 2 non-binary/diverse gender) with ages ranging between 14 and 29 years from Australia took part in semi-structured interviews, which we analyzed using thematic analysis. Results: We identified four key themes. Theme 1: Safe space that encouraged happiness, self-expression, and escapism; explored how TTRPGs created a safe environment that encouraged participants to unmask and express themselves through escapism and creativity. Theme 2: Learning to manage group dynamics and resolve c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251408623",
+      "title": "Five Key Concepts for Autistic Linguistic Justice: Securitization, Revitalization, Rights, Planning, and Ethics",
+      "authors": [
+        "Gerald Roche"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-30",
+      "doi": "10.1177/25739581251408623",
+      "url": "https://doi.org/10.1177/25739581251408623",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "This perspective article draws on my own lived experience as an autistic person, combined with my academic research at the intersection of languages and politics. My main aim is to suggest a new interdisciplinary approach to autistic communication that aims to accommodate our different communication styles rather than modify our communication to fit non-autistic communication norms. I call this new interdisciplinary approach ‘autistic linguistic justice’, and introduce five concepts to help initiate research and advocacy on this topic. The concepts I introduce are: the sociolinguistics of securitization, language revitalization, linguistic human rights, language policy and planning, and language ethics. Each concept is briefly introduced, and examples are given of how they can be applied to accommodating autistic communication. In the conclusion, I provide recommendations for how families, practitioners (such as teachers and doctors), autism researchers, and autistic people can use these concepts to help build autistic linguistic justice together. Given that many of the concepts I draw on have been developed by other minoritized communities, I emphasize the need for building respec…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-025-07177-0",
       "title": "Both Self-Other Distinction and Overlap Enhance Visual Perspective-Taking in Children With Autism Spectrum Conditions",
       "authors": [
@@ -744,6 +831,34 @@
         "lived experience"
       ],
       "abstract": "This mixed-methods study examines how contact with Autistar, a Korean company providing strength-based, institutional-level support to autistic designers, is associated with stigma toward autistic people. One-hundred thirty-eight non-autistic community members completed an online survey; mixed-effects and stepwise regression analyses assessed relationships between contact with Autistar and stigma. Focus group interviews with 11 participants drawn from this full survey sample who had extensive contact with Autistar were analyzed using qualitative content analysis. Quantitative analyses indicated that greater contact breadth with Autistar was linked to lower stigma. In particular, participation in exhibitions and introduction by acquaintances predicted lower stigma. Qualitative analysis revealed that sustained and informed contact, which allowed participants to notice similarities between themselves and autistic employees and the strengths of these employees, helped them view autistic people as part of their ingroup. This study linked contact theory and ingroup bias theory to explain how high-quality contact may be associated with perceiving autistic people as part of one’s ingroup.…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251407765",
+      "title": "‘It’s quite difficult to put Autistic relationships in a box’: A qualitative exploration of romantic relationships in gender and sexually diverse Autistic adults",
+      "authors": [
+        "Tina Ciric",
+        "Luka CJ White",
+        "Claire Allison-Duncan",
+        "Ellen Maloney",
+        "Karri Gillespie-Smith"
+      ],
+      "journal": "Autism",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1177/13623613251407765",
+      "url": "https://doi.org/10.1177/13623613251407765",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Autistic people enjoy friendships and sexual and romantic relationships. Many Autistic people are also part of a gender or sexual minority, yet gender and sexual minorities are often under-represented in autism research. The current study asked, ‘How do gender and sexually diverse Autistic adults experience and perceive romantic relationships?’ Sixteen gender and/or sexual minority Autistic adults took part in semi-structured interviews. Interviews were transcribed and analysed using thematic analysis. Four main themes were identified from the interview data: (1) ‘It’s Quite Difficult to Put Autistic Relationships Into a Box’, (2) Challenging Social Norms, (3) The Perks and Perils of Online Dating and (4) Understanding and Neurotype. Overall, participants described their relationships as individual, inherently valuable and shaped by unique preferences, mutual understanding and explicit communication. They also emphasized the fluidity between friendships and romantic partnerships, the importance of mutual understanding and the inherent value of rejecting prescriptive social norms in favour of individualized romantic relationship dynamics. These findings highlight relationship struct…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -1687,33 +1802,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251406897",
-      "title": "When Lived Experience Becomes Clinical Expertise: Perspectives of Autistic Mental Health Therapists",
-      "authors": [
-        "Jessica Hogan",
-        "Joseph Anderson-Gutierrez",
-        "Illeanna Holmgren",
-        "Megan Anna Neff",
-        "Camille Laksman",
-        "Danielle Mills"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-15",
-      "doi": "10.1177/25739581251406897",
-      "url": "https://doi.org/10.1177/25739581251406897",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ]
-    },
-    {
       "id": "10.1002/aur.70153",
       "title": "Feasibility Study of a Novel App‐Based Anxiety Intervention for Autistic People",
       "authors": [
@@ -2396,29 +2484,6 @@
         "sensory"
       ],
       "abstract": "Self-injurious behaviors in autistic youth vary widely in their form, intensity, and potential for physical injury. This study explored predictors of two categories of self-injurious behaviors that were delineated based on their potential for physical injury (self-injurious behavior-High Likelihood and self-injurious behavior-Low Likelihood), with a focus on the role of distress linked to a strong preference for routines (otherwise known as insistence on sameness). The sample included 1892 autistic youth (M age = 10.82, SD age = 4.14; 22% females) across the United States. Distress associated with insistence on sameness was the strongest predictor of total self-injurious behavior scores, self-injurious behavior-Low Likelihood, and self-injurious behavior-High Likelihood, after controlling for demographic factors and speech level, and remained a unique predictor after accounting for variance explained by other restricted and repetitive behaviors. Sensory hypersensitivity and sensory-seeking were strong unique predictors of all self-injurious behaviors, while hyposensitivity was a weaker predictor of self-injurious behavior total and self-injurious behavior-Low Likelihood, and a non-…"
-    },
-    {
-      "id": "10.1177/25739581251404409",
-      "title": "Safety, Connection, and Personal Growth: Experiences of Tabletop Role Play Game Groups Amongst Autistic Adolescents and Emerging Adults",
-      "authors": [
-        "Amy Peters",
-        "Jasmine Woods",
-        "Charissa Aditijo",
-        "Nam Lang",
-        "Raymond Nguyen",
-        "Liz Baird",
-        "Chris Webb",
-        "Belinda McLean",
-        "Megan Hatfield"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-08",
-      "doi": "10.1177/25739581251404409",
-      "url": "https://doi.org/10.1177/25739581251404409",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/10870547251400398",
@@ -5623,30 +5688,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251351040",
-      "title": "‘Adolescence kicked in . . . and you need help again’: A qualitative study of the experiences of parents of autistic teenagers with mental health difficulties or behaviours that challenge",
-      "authors": [
-        "Suzanne Mukherjee",
-        "Bryony Beresford"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1177/13623613251351040",
-      "url": "https://doi.org/10.1177/13623613251351040",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Relatively little is known about the experiences of parents of autistic teenagers, with the existing research on this life stage principally about transition. This study sought to address this gap. It focused specifically on parents of autistic teenagers with mental health difficulties and/or behaviours that challenge (MHD/BC). The study design was qualitative and used in-depth interviews to collect data. Thirty-three parents of 31 teenagers (15–19 years) living in the United Kingdom were purposively sampled and recruited from an existing research cohort. A thematic analysis was undertaken, adopting the framework method. Parents typically reported the emergence of new MHD/BC, or existing difficulties becoming more severe, during the teenage years. At the same time, they described feeling de-skilled and uncertain about how best to support their child. Many parents also referred to deteriorations in their own physical and emotional health. Very few had accessed beneficial professional support during this period. Findings add weight to the case for increasing support to parents of autistic teenagers, and the need to work preventatively to reduce the risks of MHD/BC emerging or increas…"
-    },
-    {
       "id": "10.1002/aur.70126",
       "title": "Maximizing the Quality and Reporting Standards of Autism Intervention Science",
       "authors": [
@@ -5711,41 +5752,6 @@
         "Autism"
       ],
       "abstract": "ABSTRACT Adolescence is a time of complex social and emotional development when friendships become of particular importance. Previous research has highlighted differences in the social experience of autistic and non‐autistic adolescents, as well as that of autistic girls and boys. However, no study has compared the social experiences of autistic and non‐autistic adolescents, including gender differences, in a population‐representative sample. Using data from the Millennium Cohort Study (MCS), Sweep 6, we investigated differences between autistic (girls n = 111, boys n = 387) and non‐autistic (girls n = 5847, boys = 5697) adolescents (mean age = 13.7 years, range = 13–15) regarding self‐reports of: (i) having close friends, (ii) time spent with friends, (iii) social support, (iv) social alienation, (v) happiness with friendships, and (vi) having a romantic partner. Autistic adolescents reported having fewer close friends and spending less time with their friends. Autistic boys felt less socially supported than non‐autistic adolescents, while autistic girls felt more socially alienated than all other groups considered in the study. After accounting for hyperactivity and emotional pro…"
-    },
-    {
-      "id": "10.1002/aur.70116",
-      "title": "Caregiver‐Mediated Early Support Program Delivered Online Versus Care‐as‐Usual for Infants at Elevated Familial Likelihood for Autism: A Parallel, Assessor Masked, Feasibility Randomized Controlled Trial in India",
-      "authors": [
-        "Shoba S. Meera",
-        "Prathyusha Vasuki",
-        "Malavi Srikar",
-        "Reny Raju",
-        "Divya Swaminathan",
-        "Shree Volme",
-        "Rachel Elizabeth Johnson",
-        "Linda R. Watson",
-        "Andrew Whitehouse",
-        "Mirko Uljarevic",
-        "Ming Wai Wan",
-        "John Vijay Sagar",
-        "Deepa Bhat Nair"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1002/aur.70116",
-      "url": "https://doi.org/10.1002/aur.70116",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT LiL' STEPS (Language development &amp; Intervention Lab's SupporTing Early social‐communication and language by Promoting caregiver Sensitive responsiveness) is a novel, manualized, caregiver‐mediated early support program developed in India and delivered online for infants at elevated familial likelihood for autism. The program has been found to be feasible and acceptable. The preliminary efficacy of the LiL' STEPS program, which remains to be evaluated, was assessed in this study using a feasibility randomized controlled trial design. The study was conducted at a tertiary care academic hospital in south India. Families with infants aged 9–15 months, each with an older sibling diagnosed with autism, were recruited. Thirty‐six families were randomized in a 2:1 ratio to either the LiL' STEPS group ( n = 24) or the care‐as‐usual group (CAU; n = 12) using fixed block randomization. While families in the former group received the LiL' STEPS early support program, those in the latter did not avail themselves of any early supports. Assessors were masked to group status. The primary outcome was caregiver sensitive responsiveness, assessed using the Manchester Assessment for Careg…"
     },
     {
       "id": "10.1007/s10803-025-07101-6",
@@ -9220,138 +9226,6 @@
       ],
       "abstract": "Abstract Autistic individuals may be perceived as less honest than neurotypical counterparts, particularly when their neurotype is unknown. However, findings on naturalistic deception in autism remain mixed. This systematic review and meta-analysis examined naturalistic deception differences between autistic and neurotypical individuals. Sixteen studies (430 autistic and 430 neurotypical participants) were identified through searches of five databases (1994 to July 2024). A meta-analysis on 10 studies revealed that across studies, autistic participants deceived significantly less than neurotypical participants in hide-and-seek tasks, but showed no significant difference in temptation resistance tasks. Due to heterogeneity across studies, potential moderators such as age, gender, and experimenter neurotype could not be investigated. Findings have implications for improving understanding of autistic individuals’ communication preferences.",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07003-7",
-      "title": "Characteristics of Visual Attention in Young Children with Autism During A Hide-And-Seek Video Viewing Task",
-      "authors": [
-        "Gang Zhou",
-        "Xiaobin Zhang",
-        "Xingda Qu",
-        "Xinyao Hu",
-        "Xin Zhang",
-        "Qiongling Peng",
-        "Zhong Zhao"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-01",
-      "doi": "10.1007/s10803-025-07003-7",
-      "url": "https://doi.org/10.1007/s10803-025-07003-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07029-x",
-      "title": "Self-Regulation in Neurodivergent Children and Adolescents With and Without Co-occurring Anxiety and Depression",
-      "authors": [
-        "Kylie Wijeratne",
-        "Stephanie N. Pham",
-        "Delshad M. Shroff",
-        "Thomas H. Ollendick",
-        "Rosanna Breaux"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-01",
-      "doi": "10.1007/s10803-025-07029-x",
-      "url": "https://doi.org/10.1007/s10803-025-07029-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Abstract Neurodevelopmental disorders (NDDs) frequently co-occur with internalizing psychopathologies, such as anxiety and depression. Self-regulation, encompassing behavioral, cognitive, and emotion regulation, is a transdiagnostic process associated with both internalizing disorders and NDDs. This study sought to compare self-regulation abilities of youth with monodiagnostic versus co-occurring NDDs and internalizing disorders and youth with neither disorder. Participants included 164 youth (70.7% male; 78.7% White) aged 6–17 who completed a comprehensive assessment at a community clinic. Primary and secondary caregivers completed questionnaires about their child’s self-regulation. One-way ANOVA was used to compare self-regulation indexes across groups. Primary caregivers reported that youth with NDDs with and without co-occurring internalizing disorders had significantly more difficulties in behavioral, cognitive, and overall self-regulation compared to those with monodiagnostic internalizing and the comparison group. Emotion regulation difficulties were significantly higher in the NDD and co-occurring groups than in the comparison group, but similar to internalizing group. Seco…"
-    },
-    {
-      "id": "10.1007/s10803-025-07018-0",
-      "title": "Characterizing Project ECHO Autism Case Recommendations and Implementation",
-      "authors": [
-        "Catherine Bosyj",
-        "Lisa Kanigsberg",
-        "Anmol Patel",
-        "Salina Eldon",
-        "Jessica Brian",
-        "Melanie Penner"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-01",
-      "doi": "10.1007/s10803-025-07018-0",
-      "url": "https://doi.org/10.1007/s10803-025-07018-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07015-3",
-      "title": "Response Inhibition in Autistic Children Predicts Positive Psychotic Symptoms in Young Adulthood—Results from an 8-Year Follow-up Study",
-      "authors": [
-        "Tim Ziermans",
-        "Britt Kok",
-        "Sophie van Rijn"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-01",
-      "doi": "10.1007/s10803-025-07015-3",
-      "url": "https://doi.org/10.1007/s10803-025-07015-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose Attenuated positive symptoms constitute the most validated vulnerability marker for psychosis in non-autistic young adults. Early deviations in executive functioning and social cognition are believed to contribute to the onset of these symptoms. This study evaluates the presence of psychotic symptoms in autistic young adults and their putative cognitive precursors. Methods Thirty young adults diagnosed with an autism spectrum condition (ASC; M age =20.1; 83.3% male) were assessed for psychotic symptoms. Their scores were compared to a typical peer comparison group (TC; M age =22.1, 41.7% male) and, retrospectively, to their scores in childhood (M age =12.1) to determine long term-stability. In addition, it was tested whether cognitive markers assessed in childhood could predict positive symptoms in young adulthood. Results There was significant and moderate evidence for more negative symptoms in young adults with ASC compared to TC, but no difference in positive or disorganized symptoms. Furthermore, positive and negative symptoms did not differ significantly over time and displayed weak correlations between both assessments, while disorganized symptoms showed a mo…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07031-3",
-      "title": "Probability of Intervention Benefit in the Early Start Denver Model",
-      "authors": [
-        "Kyle Sterrett",
-        "Sally J. Rogers",
-        "Annette Estes",
-        "Catherine Lord",
-        "So Hyun Kim"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-01",
-      "doi": "10.1007/s10803-025-07031-3",
-      "url": "https://doi.org/10.1007/s10803-025-07031-3",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-09-01",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
