@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-31T06:50:52Z",
+  "generated_at": "2026-01-01T06:50:45Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -550,6 +550,70 @@
       "abstract": "Objective: Susceptibility to visual illusions is a consequence of the adaptation of the visual system, however, their perception or lack of it reflects differences in more general, global cognitive processes. Few studies have focussed on the susceptibility of individuals with attention-deficit/hyperactivity disorder (ADHD), even though visual impairment and percept differences have been thoroughly documented. Method: The present study evaluated 75 children (ages 6.09–12.99 years, 72% male) and 37 teenagers (ages 13–16.95 years, 62% male) with ADHD, and a sex-and-age matched sample of typically developing peers. They were tested with 103 pairs of illusory and control images spanning five illusion types. Results: We found increased susceptibility to the Müller-Lyer and Kanizsa Subjective Contour and decreased susceptibility to the Ebbinghaus illusion among children with ADHD when compared to typically developing controls. No differences were found for susceptibility to the Simultaneous Contrast and Moving Snake illusions. As for reaction times, we did not find differences between participants with ADHD and their control peers when judging illusions; however, in general participants g…"
     },
     {
+      "id": "10.1177/13623613251407294",
+      "title": "Thinking flexibly: A cognitive remediation therapy–informed intervention for autistic youth",
+      "authors": [
+        "Jasmin Dipre",
+        "Lauren Burton",
+        "Kate Tchanturia",
+        "Matthew J Hollocks"
+      ],
+      "journal": "Autism",
+      "year": 2025,
+      "published_date": "2025-12-31",
+      "doi": "10.1177/13623613251407294",
+      "url": "https://doi.org/10.1177/13623613251407294",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Autistic people are known to demonstrate greater difficulties with cognitive flexibility. These difficulties are associated with a range of poor outcomes, including elevated rates of anxiety and depression. Current intervention approaches fail to account for these specific mechanisms. In this study, we address this by piloting a new intervention which aims to specifically target cognitive inflexibility. The ‘Thinking Flexibly’ intervention has been co-designed with autistic youth based on previous work, including cognitive remediation therapy. Twenty autistic adolescents were recruited from clinical services and offered the eight-session intervention. Acceptability was assessed through participant drop-out and session completion. Participants (and their parents) also completed questionnaire measures of cognitive inflexibility, anxiety, depression and functional outcomes before and after the intervention. Our results indicated good acceptability with 19/20 participants completing the intervention and session attendance was high, with a single missed session. We found significant increases in flexibility across both parent- and self-report of a moderate effect. Participants reported…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2025.2608096",
+      "title": "Adaptation and validation of the Autism Spectrum Screening Questionnaire into Kannada",
+      "authors": [
+        "Suma Raju",
+        "Sahana Kashyap",
+        "Srirangam Vijayakumar Narasimhan",
+        "Vaishnavi Kittur Umashankar"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2025,
+      "published_date": "2025-12-31",
+      "doi": "10.1080/20473869.2025.2608096",
+      "url": "https://doi.org/10.1080/20473869.2025.2608096",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1080/20473869.2025.2605582",
+      "title": "A clinic model for evaluation and care coordination for toddlers suspected of having autism spectrum disorder",
+      "authors": [
+        "Van Ma",
+        "Robin Stewart",
+        "Carrie Silver"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2025,
+      "published_date": "2025-12-31",
+      "doi": "10.1080/20473869.2025.2605582",
+      "url": "https://doi.org/10.1080/20473869.2025.2605582",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1108/aia-10-2025-0105",
       "title": "“We were happy to just get an autism diagnosis”: a mixed-methods study of parents’ experience with the autism assessment protocol",
       "authors": [
@@ -603,6 +667,62 @@
       ],
       "abstract": "Purpose Psychological distress has been documented among parents and caregivers of autistic children. This study aims to assess the levels of psychological distress experienced by mothers of children with autism and the associated factors in Palestine. Design/methodology/approach A cross-sectional study was conducted among 133 mothers, with 65 mothers of autistic children, and 68 mothers serving as controls. Self-administered questionnaires were used for data collection. Psychological distress was assessed by administering the Arabic version of the 12-item General Health Questionnaire. Findings A significantly higher level of psychological distress in mothers of autistic children was found. Social dysfunction and depression and anxiety subscales were significantly higher in mothers of autistic children. Loss of confidence score was significantly lower in mothers of autistic children. Originality/value A significant elevation in psychological distress among mothers of autistic children in the West Bank, emphasising the need for targeted interventions.",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70168",
+      "title": "Mother–Child Biobehavioral Synchrony and Its Association With Social Functioning in Autistic School‐Aged Children",
+      "authors": [
+        "Carly Moser",
+        "Chih‐Hsiang Yang",
+        "Abigail L. Hogan",
+        "Amanda Fairchild",
+        "Jane Roberts",
+        "Jessica Klusek"
+      ],
+      "journal": "Autism Research",
+      "year": 2025,
+      "published_date": "2025-12-31",
+      "doi": "10.1002/aur.70168",
+      "url": "https://doi.org/10.1002/aur.70168",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Parent–child biobehavioral synchrony, or the concordance of behavior and physiological indicators between individuals, is theorized to support children's social development; however, this relationship has yet to be investigated in autistic children. This study examined whether moment‐to‐moment physiological synchrony—indexed via respiratory sinus arrhythmia (RSA)—and its interface with global levels of behavioral synchrony was associated with the pragmatic language skills and friendship quality of school‐aged autistic children in 40 mother–child dyads. Mother–child dyads participated in a collaborative task, from which RSA synchrony and behavioral synchrony were assessed. Mothers and their autistic children demonstrated negative RSA synchrony, such that when one partner displayed an increase in RSA, the other partner showed a decrease in RSA. The extent of behavioral synchrony between mothers and their children did not moderate the strength of concordance between mother and child RSA. Negative RSA synchrony was associated with better pragmatic language skills in autistic children from mother–child dyads who displayed high levels of behavioral synchrony. These findings high…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251403906",
+      "title": "Autistic adults prefer social touch less but engage just as much: The impact of social context, relationship type, sensory responsivity, and psychological factors",
+      "authors": [
+        "Macy Tsz Wing Li",
+        "Manuel Mello",
+        "Keren MacLennan",
+        "Haemy Lee Masson"
+      ],
+      "journal": "Autism",
+      "year": 2025,
+      "published_date": "2025-12-30",
+      "doi": "10.1177/13623613251403906",
+      "url": "https://doi.org/10.1177/13623613251403906",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Autistic people face touch-related challenges, yet the factors influencing these difficulties are not well understood. We developed a novel instrument to capture social touch experiences of autistic adults, along with both social and individual factors that influence them. Using a body-painting task and questionnaires, we demonstrated that the perception of touch interactions varies based on social contexts and neurotypes. Autistic adults, on average, prefer touch less, but the type of relationship influences the perceived comfort and meaningfulness of touch similarly in both groups. Regarding the appropriateness, erogeneity, and pleasantness of social touch, the autistic group showed different touch perceptions in professional and friendly scenarios compared to the non-autistic group, whereas touch in intimate scenarios was perceived similarly. Sensory responsivity, touch predictability, social confidence, and touch-related anxiety affect social touch to a greater extent than the non-autistic group. Despite these marked differences in perception, the autistic adults, on average, engage in social touch as frequently as non-autistic adults, and their satisfaction with touch is compa…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/25739581251406897",
@@ -2667,27 +2787,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -2710,6 +2809,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -3230,35 +3350,6 @@
         "service improvement"
       ],
       "abstract": "There has been limited research to date into contextual factors hindering or supporting the successful implementation of neuro-affirming practice in support for Autistic and otherwise neurodivergent adults. We used a Realist Evaluation approach to explore key contexts affecting neuro-affirming practice. A preliminary programme theory of key aspects of support was developed. Views on current practice were sought through structured interviews with 32 senior professionals in leadership roles within Health and Social Care services in Scotland. This study identified important contexts shaping the implementation of neuro-affirming practice for adults. Results indicate widespread professional support for modifying practice to better accommodate neuro-affirming ideas, and scope to achieve this. However, some contexts, including limited resources, restrictive eligibility criteria and rigid service structures, hinder progress. Growing demand for services was often viewed as a restrictive context, but it also offered a chance to rethink conventional, one-size-fits-all models and adopt neuro-affirming approaches. The study is important in addressing a current gap in research into professional…"
-    },
-    {
-      "id": "10.1177/13623613251357835",
-      "title": "Sensory subtypes of children on the autism spectrum in Japan: Characteristics of participation and family functioning",
-      "authors": [
-        "Takuto Nakamura",
-        "Reika Dobashi",
-        "Haruka Noda",
-        "Kohei Ikeda",
-        "Hirofumi Nagayama",
-        "Satoshi Sasada"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1177/13623613251357835",
-      "url": "https://doi.org/10.1177/13623613251357835",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "This study aimed to identify sensory subtypes in preschool children on the autism spectrum in Japan and examine their associations with participation and family functioning. A total of 264 caregivers of preschool children aged 3–6 years on the autism spectrum participated in the study. Data were collected from 56 child development centers and medical institutions across Japan. Sensory features were assessed using the Japanese version of the Short Sensory Profile, and five sensory subtypes were identified: Taste/Smell Sensitive, Extremely Atypical, Mixed Sensory, Gravitational Insecurity and Motor Difficulty, and Adaptive. These subtypes were associated with distinct participation restrictions, such as activities of daily living (ADL)-related challenges in the Mixed Sensory group, leisure-related difficulties in the Taste/Smell Sensitive group, and limitations across all domains in the Extremely Atypical group. Significant differences in family functioning were also observed in domains related to interaction with the external environment of the family, with the Extremely Atypical group showing support needs. These findings underscore the importance of developing tailored interventio…"
     },
     {
       "id": "10.1177/25739581251392464",
@@ -6906,26 +6997,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -6947,6 +7018,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -7208,34 +7299,6 @@
         "Employment"
       ],
       "abstract": "Purpose Autistic children are at an increased risk of presenting with feeding support needs when compared to their peers, which impact significantly from a social, nutritional and medical perspective. However, research would indicate that the mealtime and eating challenges also have far-reaching consequences for the parents and family of the autistic child. Evidence from past systematic reviews shows that behaviourist-based interventions are the most effective for increasing oral intake. This scoping review aims to systematically search the literature to landscape interventions with other theoretical underpinnings for autistic children under 12 years of age, and to explore if consideration is given to the impact of these eating challenges on the parents and families. A search was conducted in line with PRISMA-ScR checklist across five databases (Pubmed, Web of Science, PsycINFO, CINAHL and Embase) to identify studies that were published in the last 50 years (from 1973 to 2023). Nine studies met the inclusion criteria and were grouped into three categories: psychology-led, occupational therapy-led, multi-disciplinary-led (home and school). The most cited component of intervention, i…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-03-2025-0026",
-      "title": "ECHO autism: mental health prepares professionals to better serve autistic clients with co-occurring mental health conditions",
-      "authors": [
-        "Nargiza Buranova",
-        "Brenna Maddox",
-        "Katrina Boles",
-        "Melissa Mahurin",
-        "Kimberly Hoffman",
-        "Isabella McCartney",
-        "Kristin Sohl"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-10-13",
-      "doi": "10.1108/aia-03-2025-0026",
-      "url": "https://doi.org/10.1108/aia-03-2025-0026",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Purpose The majority of autistic individuals struggle with co-occurring mental health conditions. Extension for Community Healthcare Outcomes (ECHO) autism: mental health is a virtual, de-identified case-based professional development program committed to creating a learning community of mental health clinicians supporting autistic clients. The purpose of the current study is to understand how the ECHO program can impact learning among clinicians who work with autistic clients with co-occurring mental health conditions. Design/methodology/approach The current study investigated the experience of the clinicians in the ECHO autism: mental health program from 2020 to 2023. A total of 72 participants completed pre- and post-program assessments to evaluate the impact and benefits of ECHO autism: mental health. Findings Nearly all of the participants (99%, n = 71) who completed the post program satisfaction survey stated that the program was a feasible and effective way to learn; 97% (n = 69) agreed or strongly agreed that their self-efficacy increased in implementing evidence-based practice, specifically cognitive-behavioral therapy (CBT) for their autistic clients. In open-ended respon…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8351,24 +8414,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07053-x",
-      "title": "Centrality of Touch Avoidance in Social Touch Experiences in Autism",
-      "authors": [
-        "Manuel Mello",
-        "Martina Fusaro",
-        "Salvatore Maria Aglioti",
-        "Ilaria Minio-Paluello"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-24",
-      "doi": "10.1007/s10803-025-07053-x",
-      "url": "https://doi.org/10.1007/s10803-025-07053-x",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1007/s10803-025-07036-y",
       "title": "Improving Autistic Experiences in the Workplace: Key Factors and Actionable Steps",
       "authors": [
@@ -8398,6 +8443,24 @@
       ],
       "abstract": "Abstract Autistic adults have higher rates of unemployment and underemployment than non-autistic adults with and without disabilities. While previous work has highlighted factors specific to individuals and/or job sectors that serve as barriers or facilitators to autistic employment, the question of how to modify the workplace to best support autistic people remains under-researched. The present study utilized an ecological framework to investigate what workplace factors can be modified to improve autistic experiences and how these modifications may be enacted across different levels of workplace ecosystem to promote autistic success. Autistic participants ( N = 85) across employment sectors provided quantitative ratings and written descriptions of positive and negative factors related to their workplace experiences. Quantitative and qualitative analyses were used to examine which factors and overarching principles most impact employment. Actionable strategies to modify these factors were derived from participant responses and validated by autistic collaborators and neuroinclusion experts. On average, participants rated task training as having the most positive, and mental health a…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-025-07053-x",
+      "title": "Centrality of Touch Avoidance in Social Touch Experiences in Autism",
+      "authors": [
+        "Manuel Mello",
+        "Martina Fusaro",
+        "Salvatore Maria Aglioti",
+        "Ilaria Minio-Paluello"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-09-24",
+      "doi": "10.1007/s10803-025-07053-x",
+      "url": "https://doi.org/10.1007/s10803-025-07053-x",
+      "neurotype": [
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251379187",
@@ -9177,54 +9240,6 @@
         "Autism"
       ],
       "abstract": "Abstract The Dual Process Theory of Autism proposes that those high in autistic traits, including autistic individuals, have both a reduced propensity for intuition and an enhanced propensity for deliberation. Whilst intuition is rapid and autonomous, many factors impact upon deliberation, and an intolerance of uncertainty may mediate the relationship between autistic traits and propensity for deliberation (but not intuition). Two studies were conducted to explore this hypothesis. In Study 1, 266 non-autistic participants completed an online self-report assessment of autistic traits, propensity for deliberation and intuition and intolerance of uncertainty. Mediation analyses explored the extent to which intolerance of uncertainty mediated the relationship between autistic traits and propensity for deliberation and intuition. Study 2 was a replication of Study 1 with 258 autistic participants. Results from both studies showed that, while higher autistic traits had no direct relationship with propensity for deliberation, this relationship was fully mediated by intolerance of uncertainty. Prospective intolerance of uncertainty (a desire for predictability) specifically was the signifi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251371420",
-      "title": "Characterizing the Nature of Alexithymia in Autistic Adults: Validation of the Perth Alexithymia Questionnaire",
-      "authors": [
-        "Jack D. Brett",
-        "Irina Jarvers",
-        "Mirko Uljarevic",
-        "Andrew Whitehouse",
-        "James J. Gross",
-        "Andrea C. Samson",
-        "David A. Preece"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-09-02",
-      "doi": "10.1177/25739581251371420",
-      "url": "https://doi.org/10.1177/25739581251371420",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-025-00521-1",
-      "title": "Differences in Naturalistic Deception Between Autistic and Neurotypical Individuals: A Systematic Review and Meta-Analysis",
-      "authors": [
-        "Avni Bharadwaj",
-        "Naomi Sweller",
-        "Nicole Dargue",
-        "Michael P. Jones"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-02",
-      "doi": "10.1007/s40489-025-00521-1",
-      "url": "https://doi.org/10.1007/s40489-025-00521-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Autistic individuals may be perceived as less honest than neurotypical counterparts, particularly when their neurotype is unknown. However, findings on naturalistic deception in autism remain mixed. This systematic review and meta-analysis examined naturalistic deception differences between autistic and neurotypical individuals. Sixteen studies (430 autistic and 430 neurotypical participants) were identified through searches of five databases (1994 to July 2024). A meta-analysis on 10 studies revealed that across studies, autistic participants deceived significantly less than neurotypical participants in hide-and-seek tasks, but showed no significant difference in temptation resistance tasks. Due to heterogeneity across studies, potential moderators such as age, gender, and experimenter neurotype could not be investigated. Findings have implications for improving understanding of autistic individuals’ communication preferences.",
       "framing": "Neurodiversity-informed"
     }
   ]
