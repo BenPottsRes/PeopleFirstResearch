@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T06:50:45Z",
+  "generated_at": "2026-01-02T06:51:09Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -851,6 +851,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -875,27 +896,6 @@
       ],
       "tags": [
         "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
       ]
     },
     {
@@ -2787,6 +2787,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -2809,27 +2830,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -6997,6 +6997,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -7018,26 +7038,6 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -9221,26 +9221,6 @@
         "Quality of life"
       ],
       "abstract": "Objective Children and adolescents frequently struggle with social skills performance in academic settings, which can negatively impact quality of life. As such, social skills training is frequently recommended; however, the effectiveness of school-based social skills training has not been synthesized. As such, the purpose of the current study was to evaluate the empirical evidence pertaining to both stand-alone and multimodal school-based social skills programs for students with ADHD, and to assess the effects of potential moderating variables. Method: A systematic review and meta-analysis was conducted of studies between the years of 1975 and 2023 following the recommendations of the Cochrane Foundation and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA). Results: Seventeen studies, single-case, within group, and between-group designs met the established inclusion criteria, with 10 included in the meta-analysis. The findings revealed small to large effects; however, the overall meta-analytic effect size was negligible (ES = 0.09). The differences in social skills approaches, intensity, parent involvement, and setting did not moderate the effects. C…"
-    },
-    {
-      "id": "10.1007/s10803-025-06987-6",
-      "title": "Intolerance of Uncertainty Mediates the Relationship Between Autistic Traits and a Propensity for Deliberation",
-      "authors": [
-        "Mark Brosnan",
-        "Saba Marikar",
-        "Matthew Punter",
-        "Chris Ashwin"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-03",
-      "doi": "10.1007/s10803-025-06987-6",
-      "url": "https://doi.org/10.1007/s10803-025-06987-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract The Dual Process Theory of Autism proposes that those high in autistic traits, including autistic individuals, have both a reduced propensity for intuition and an enhanced propensity for deliberation. Whilst intuition is rapid and autonomous, many factors impact upon deliberation, and an intolerance of uncertainty may mediate the relationship between autistic traits and propensity for deliberation (but not intuition). Two studies were conducted to explore this hypothesis. In Study 1, 266 non-autistic participants completed an online self-report assessment of autistic traits, propensity for deliberation and intuition and intolerance of uncertainty. Mediation analyses explored the extent to which intolerance of uncertainty mediated the relationship between autistic traits and propensity for deliberation and intuition. Study 2 was a replication of Study 1 with 258 autistic participants. Results from both studies showed that, while higher autistic traits had no direct relationship with propensity for deliberation, this relationship was fully mediated by intolerance of uncertainty. Prospective intolerance of uncertainty (a desire for predictability) specifically was the signifi…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
