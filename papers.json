@@ -1,8 +1,212 @@
 {
-  "generated_at": "2026-01-02T06:51:09Z",
+  "generated_at": "2026-01-03T06:47:56Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1108/aia-06-2025-0065",
+      "title": "Cultural adaptation and psychometric evaluation of the quality of life for children with autism spectrum disorder scale",
+      "authors": [
+        "Laura Claudia Chezan",
+        "Jin Liu",
+        "Cristina Anamaria Costescu",
+        "Adrian Rosan"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-06-2025-0065",
+      "url": "https://doi.org/10.1108/aia-06-2025-0065",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "Purpose Cross-cultural adaptation of psychometric measures requires a systematic translation and adaptation process to ensure equivalence between the original measure and the target version for use in a different culture. The purpose in this study is to adapt and validate the quality of life (QOL) for children with autism spectrum disorder (QOLASD-C) scale for use with Romanian children with autism spectrum disorder (ASD). Design/methodology/approach A sample of 102 parents of children with ASD in Romania completed the QOLASD-C scale and the strengths and difficulties questionnaire (SDQ). The authors used confirmatory factor analysis (CFA) to determine the optimal model and Pearson correlations to examine the divergent and convergent validity. A multivariate analysis of variance (MANOVA) was conducted to examine the differences in the QOLASD-C subscales across ASD levels of severity. Findings Factor analysis supported a correlated three-factor model as the optimal solution for the QOLASD-C scale and indicated high internal consistency of the items comprising the scale. Results also suggested good convergent and divergent validity with the SDQ. The analysis of variance showed that c…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1108/aia-01-2025-0003",
+      "title": "Prevalence of autism spectrum disorder in Georgia (country): a two-phase population-based study among 8–10-year-olds",
+      "authors": [
+        "Maia Gabunia",
+        "Medea Zirakashvili",
+        "Vazha Nadareishvili",
+        "Young Shin Kim",
+        "Bennett L. Leventhal",
+        "Dejan Stevanovic"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-01-2025-0003",
+      "url": "https://doi.org/10.1108/aia-01-2025-0003",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) was rarely diagnosed in Georgia, a middle-income European country, prior to the early 2000s, with essentially no documented data on affected children. This study aims to provide the first prevalence estimates of ASD in Georgia by evaluating its occurrence among 8–10 years old children. Design/methodology/approach Using a two-phase, population-based approach, the study screened third-grade students aged 8–10 years during 2019–2020 and conducted diagnostic assessments in 2020–2021. Screening tools included the Autism Spectrum Screening Questionnaire and Strengths and Difficulties Questionnaire. Diagnostic assessments used standardized measures such as the Autism Diagnostic Observation Schedule-II, Autism Diagnostic Interview-Revised, Test of Nonverbal Intelligence, Fourth Edition, Schedule for Affective Disorders and Schizophrenia for School-Age Children, Vineland Adaptive Behavior Scales-II, supplemented by speech, language and communication tests. Screening data were obtained for 16,348 children (72.3% response rate; 50.1% females), with full diagnostic evaluations for 300 (mean age = 10.2 years; 31.7% females). Findings The estimated prevalen…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1108/aia-11-2025-0117",
+      "title": "Expression of concern: Evidence of increased PTSD symptoms in autistics exposed to applied behavior analysis",
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-11-2025-0117",
+      "url": "https://doi.org/10.1108/aia-11-2025-0117",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1108/aia-11-2025-0115",
+      "title": "Expression of concern: Why caregivers discontinue applied behavior analysis (ABA) and choose communication-based autism interventions",
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-11-2025-0115",
+      "url": "https://doi.org/10.1108/aia-11-2025-0115",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
+    },
+    {
+      "id": "10.1108/aia-05-2025-0046",
+      "title": "AI in creating inclusive work environments for neurodiverse employees",
+      "authors": [
+        "Ginu George",
+        "Mugdha Kulkarni",
+        "Bindi Varghese"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-05-2025-0046",
+      "url": "https://doi.org/10.1108/aia-05-2025-0046",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to examine the increased focus on neurodiversity in contemporary businesses. It shows how inclusive policies can capitalize on the special abilities of people with neurodiverse backgrounds, including their extraordinary problem-solving abilities, meticulous attention to detail and creative thinking. These policies benefit the individuals and contribute to a more diverse and innovative workplace. Design/methodology/approach Data was collected through semistructured interviews with HR experts and neurodivergent employees. The qualitative data were manually analyzed and coded, and themes were identified. Findings The results highlight the significant benefits of accepting neurodiversity in the workplace, enlightening the audience about its potential. For instance, artificial intelligence (AI) can be used to anonymize resumes, removing potential biases related to gender, ethnicity or age. In addition, AI can help in identifying the unique skills and strengths of neurodivergent employees, enhancing the fit between job responsibilities and their abilities. This study also emphasizes the wider effects of accepting neurodiversity on employee satisfaction, productivi…"
+    },
+    {
+      "id": "10.1108/aia-08-2025-0085",
+      "title": "Co-occurrence of complex emotional needs, autism spectrum disorder and gender diversity: a service audit",
+      "authors": [
+        "Ethan Barr",
+        "Andrew White"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-08-2025-0085",
+      "url": "https://doi.org/10.1108/aia-08-2025-0085",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Gender identity is an integral part of individuals’ self-conceptualisation. This paper aims to explore the correlation of co-occurring complex emotional needs (CEN; consistent with a diagnosis of personality disorder), autism spectrum disorder (ASD) and gender diversity in a sample of adult community service-users referred to a CEN team. Design/methodology/approach A 52-month retrospective audit was conducted where all participants met diagnostic threshold for a CEN diagnosis, focusing on presence of ASD and gender identity. Additional comorbidities are reported. Findings In total, 553 referrals were assessed, a small number of whom identified as gender diverse (n = 23, 4.2%). A modest, significant correlation is reported between gender identity and ASD. Suggestions for potential aetiological considerations are briefly given, though further research on a larger scale should be undertaken to explore whether this correlation persists, and if so, potential factors leading to this. Originality/value The authors understand that this is the first study of its kind to explore this area of overlap of CEN, ASD and gender identity extending this past the male–female binary.",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1108/aia-05-2025-0050",
+      "title": "From misunderstanding towards recognition: narratives of autistic women and girls in news articles",
+      "authors": [
+        "Saara Perälä",
+        "Henri Pesonen",
+        "Tanja Äärelä"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-05-2025-0050",
+      "url": "https://doi.org/10.1108/aia-05-2025-0050",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to examine news article stories portraying autistic women’s and girls’ life experiences of being neurodivergent to gain a deeper understanding of their recognition in societal discussions. Design/methodology/approach The authors used narrative and inductive and theory-driven thematic approaches to analyse news articles. This study’s theory-driven data analysis phase was guided by Honneth’s recognition framework. Findings The analysis revealed dimensions of misrecognition in multiple spheres of life. These dimensions became visible, for example, as physical and social struggles, delayed or denied access to services and the desire to be openly autistic. The authors conclude that autistic women and girls are lacking recognition in society. Practical implications In spite of the increasing representations in the media, a larger understanding of the unique ways of being an autistic woman or a girl is needed. Practical implications for using the recognition framework as a tool for developing recognition will also be discussed. Originality/value Research on women’s and girls’ experiences of being autistic in news stories from the recognition perspective is scarce,…"
+    },
+    {
+      "id": "10.1108/aia-09-2024-0061",
+      "title": "Comparative eye-tracking analysis of visual behavior of normal developing and autistic children in response to human faces and emotional expressions",
+      "authors": [
+        "Mohamad Basel Al Mourad",
+        "Emad Bataineh"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-09-2024-0061",
+      "url": "https://doi.org/10.1108/aia-09-2024-0061",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Purpose Autism is a prevalent childhood neurodevelopmental condition with a high hereditary likelihood, and it manifests as a clinical syndrome with varying impairments in language and social behavior as well as the existence of constrictive interests and repetitive behaviors. It is essential for both early diagnosis and intervention to comprehend how autistic people behave visually when exposed to human facial expressions and emotions. The purpose of this study is to investigate how autistic individuals visually respond to human facial expressions and emotions, with the aim of supporting early diagnosis and intervention. Design/methodology/approach In this eye-tracking study, children from two different groups neurotypical (NT) children and autistic (AP) children – were compared in terms of their visual behavior. The authors showed them pictures of people with faces placed in the center, on the left and on the right of the stimuli to gauge how they were focusing on them. The study used eye-tracking technology to accurately capture and examine their eye gaze movements. Furthermore, the study investigated their reactions to sad emotions by showing dynamic stimuli with gradual change…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1108/aia-06-2025-0060",
+      "title": "Exploring the unique impact of COVID-19 measures on autistic child development and parenting stress: comparing two cohorts in The Netherlands",
+      "authors": [
+        "Olivia F. Ward",
+        "Leontine W. ten Hoopen",
+        "Bruno Bocanegra",
+        "Femke L. Truijens",
+        "Kirstin Greaves-Lord",
+        "Kirsten Visser",
+        "Wietske A. Ester",
+        "Dennis Bastiaansen",
+        "Elisabeth H. M. Van Rijen",
+        "Linda P. Dekker"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-02",
+      "doi": "10.1108/aia-06-2025-0060",
+      "url": "https://doi.org/10.1108/aia-06-2025-0060",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Purpose The purpose of this study is to explore how the COVID-19 pandemic, and related preventative measures, impact global stressors on autistic children, adolescents and their families. Design/methodology/approach This exploratory study compared two cohorts, one spanning just before and throughout the pandemic, and one during a non-pandemic period, to explore child functioning and parenting stress in families with autistic children. Autism symptom development was assessed using the Social Responsiveness Scale-2 at three-time points, while emotional and behavioral functioning was examined across two-time points using the Brief Problem Monitor. Parenting stress was assessed using the Parenting Stress Questionnaire. Findings Results indicated no significant differences between the cohorts in parent-reported autism symptoms or the emotional and behavioral functioning of autistic children and adolescents. Whereas no differences emerged in children’s functioning, during the COVID-19 pandemic period parents reported more parental role restriction and physical health problems along with fewer parenting problems compared to parents during a non-pandemic period. Originality/value These fin…",
+      "framing": "Neurodiversity-informed"
+    },
     {
       "id": "10.1177/13623613251390277",
       "title": "Doing research in services for autistic people with complex support needs: Challenges and considerations based on UK experiences",
@@ -338,44 +542,6 @@
         "lived experience"
       ],
       "abstract": "The aim of this study is to analyze egocentric social networks of 31 autistic adults in Québec (Canada). We examined the composition of their proximal personal support network and the role of support shared among autistic peers. A mixed method analysis was used. An egocentric network questionnaire that included qualitative prompts was conducted to gather participants’ interpretations and reference systems, facilitating an understanding of networks’ multidimensional aspect. A reflexive thematic analysis was conducted with a subset of the data from the qualitative prompts. Three main themes were identified: (1) interference in social interactions, (2) mutual acknowledgment, and (3) social engagement in the community. Most participants ( n = 21) mentioned autistic peers, but although these peers may have provided support, participants rarely identified them as being part of their proximal personal support network. Results nevertheless highlight the importance of peer support for several participants, which can refer to the concept of “weak ties,” but they differ from it by the exchanges of emotional support, which are normally expected from “strong” ties. Lay abstract Social support i…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251368019",
-      "title": "Influences on suicidality and suicide-prevention needs for the autistic community: Qualitative insights from multiple perspectives",
-      "authors": [
-        "Anne V Kirby",
-        "Kristina Feldman",
-        "Wilhelm Clark",
-        "Amber N Darlington",
-        "Alissa Atisme",
-        "Bobbi Duncan-Ishcomer",
-        "Rachel Kripke-Ludwig",
-        "Andrea Joyce",
-        "Whitney Lee",
-        "Kayla Rodriguez",
-        "Zack Siddeek",
-        "Kavitha Murthi",
-        "Brooks Keeshin",
-        "Hilary Coon",
-        "Christina Nicolaidis"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251368019",
-      "url": "https://doi.org/10.1177/13623613251368019",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience",
-        "participatory"
-      ],
-      "abstract": "Autistic individuals are disproportionately likely to experience suicidal thoughts, feelings, and actions. Addressing suicidality is also a high priority of autistic community members. The goal of this study was to understand broad influences on suicidality and suicide-prevention needs for the autistic community. Using a community-based participatory research approach, we conducted a reflective thematic analysis of qualitative interviews with 16 autistic adults, 8 family members, and 14 mental health providers. Themes summarizing influences on suicidality and suicide-prevention needs centered on three broad thematic concepts: (1) Pervasive negative societal attitudes and social experiences have a lasting impact on autistic people’s feelings of worth; (2) negative experiences and stressors add strain, making life feel overwhelming and hopeless; and (3) difficulty regulating and managing emotions can increase the likelihood of suicidal feelings and actions. Participants provided autism-specific recommendations to incorporate into suicide prevention. The findings emphasize the need for multifaceted suicide-prevention efforts supporting autistic people through improved societal treatme…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -2347,29 +2513,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-06-2025-0065",
-      "title": "Cultural adaptation and psychometric evaluation of the quality of life for children with autism spectrum disorder scale",
-      "authors": [
-        "Laura Claudia Chezan",
-        "Jin Liu",
-        "Cristina Anamaria Costescu",
-        "Adrian Rosan"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-12",
-      "doi": "10.1108/aia-06-2025-0065",
-      "url": "https://doi.org/10.1108/aia-06-2025-0065",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Purpose Cross-cultural adaptation of psychometric measures requires a systematic translation and adaptation process to ensure equivalence between the original measure and the target version for use in a different culture. The purpose in this study is to adapt and validate the quality of life (QOL) for children with autism spectrum disorder (QOLASD-C) scale for use with Romanian children with autism spectrum disorder (ASD). Design/methodology/approach A sample of 102 parents of children with ASD in Romania completed the QOLASD-C scale and the strengths and difficulties questionnaire (SDQ). The authors used confirmatory factor analysis (CFA) to determine the optimal model and Pearson correlations to examine the divergent and convergent validity. A multivariate analysis of variance (MANOVA) was conducted to examine the differences in the QOLASD-C subscales across ASD levels of severity. Findings Factor analysis supported a correlated three-factor model as the optimal solution for the QOLASD-C scale and indicated high internal consistency of the items comprising the scale. Results also suggested good convergent and divergent validity with the SDQ. The analysis of variance showed that c…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1007/s10803-025-07158-3",
       "title": "How Teachers’ Pedagogical Beliefs Drive Effective Technology Implementation for Students With ASD in Saudi Arabia",
       "authors": [
@@ -2932,36 +3075,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-01-2025-0003",
-      "title": "Prevalence of autism spectrum disorder in Georgia (country): a two-phase population-based study among 8–10-year-olds",
-      "authors": [
-        "Maia Gabunia",
-        "Medea Zirakashvili",
-        "Vazha Nadareishvili",
-        "Young Shin Kim",
-        "Bennett L. Leventhal",
-        "Dejan Stevanovic"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-04",
-      "doi": "10.1108/aia-01-2025-0003",
-      "url": "https://doi.org/10.1108/aia-01-2025-0003",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) was rarely diagnosed in Georgia, a middle-income European country, prior to the early 2000s, with essentially no documented data on affected children. This study aims to provide the first prevalence estimates of ASD in Georgia by evaluating its occurrence among 8–10 years old children. Design/methodology/approach Using a two-phase, population-based approach, the study screened third-grade students aged 8–10 years during 2019–2020 and conducted diagnostic assessments in 2020–2021. Screening tools included the Autism Spectrum Screening Questionnaire and Strengths and Difficulties Questionnaire. Diagnostic assessments used standardized measures such as the Autism Diagnostic Observation Schedule-II, Autism Diagnostic Interview-Revised, Test of Nonverbal Intelligence, Fourth Edition, Schedule for Affective Disorders and Schizophrenia for School-Age Children, Vineland Adaptive Behavior Scales-II, supplemented by speech, language and communication tests. Screening data were obtained for 16,348 children (72.3% response rate; 50.1% females), with full diagnostic evaluations for 300 (mean age = 10.2 years; 31.7% females). Findings The estimated prevalen…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07164-5",
       "title": "How Diagnostically Accurate are #Autism Portrayals? A Latent Space Item Response Modeling Approach",
       "authors": [
@@ -3057,18 +3170,6 @@
         "Employment"
       ],
       "abstract": "There is a lack of representation of racially diverse individuals who are multilingual from low-income households in autism research. This calls into question the generalizability of research findings derived from predominantly White, English-speaking samples. In this article, we bring forth an important argument about why we as an autism field should work to expand representation in research samples. We also discuss strategies that can be used to work toward this goal. We detail the recruitment and retention of 94 Spanish–English bilingual Latinx (primarily Mexican and Central American) families from low-income households across a large urban city and its surrounding communities in the United States for an assessment validation study. We use the method of this study as an example of how to engage and include underrepresented populations in autism research, describing the efforts that were implemented to engage families and community-based organizations serving this population. We conclude the report by summarizing culturally sensitive strategies researchers can use to engage populations of different races and ethnicities from low-income households in their own research studies, in…"
-    },
-    {
-      "id": "10.1108/aia-11-2025-0117",
-      "title": "Expression of concern: Evidence of increased PTSD symptoms in autistics exposed to applied behavior analysis",
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-03",
-      "doi": "10.1108/aia-11-2025-0117",
-      "url": "https://doi.org/10.1108/aia-11-2025-0117",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/10870547251394080",
@@ -3404,48 +3505,6 @@
       ],
       "abstract": "Despite an increasing number of young adults with autism pursuing postsecondary education, more research is needed to compare autistic undergraduates to their nonautistic peers. This study surveyed 204 undergraduate students with and without autism. Participants were asked about their perceptions regarding their everyday hindrances and compensatory strategies. Results indicated that procrastination and irregular sleep schedules are significant barriers to academic success for both groups. Autistic students also report challenges related to their diagnosis, such as sensory concerns, difficulties with changes in routine, and apprehension over working with others. Despite these differences, both groups utilize similar compensatory strategies, such as summarizing readings and maintaining routines. Findings emphasize the necessity of interventions targeting procrastination and sleep habits for all students and additional supports provided for autistic students in the areas of socialization, group work, and postsecondary classrooms.",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1108/aia-11-2025-0115",
-      "title": "Expression of concern: Why caregivers discontinue applied behavior analysis (ABA) and choose communication-based autism interventions",
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1108/aia-11-2025-0115",
-      "url": "https://doi.org/10.1108/aia-11-2025-0115",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
-      "id": "10.1177/10870547251365676",
-      "title": "Efficacy and Safety of Jingling Oral Liquid for Children With ADHD: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Clinical Trial",
-      "authors": [
-        "Yanjie Qi",
-        "Xiangsheng Luo",
-        "Yuxin Liu",
-        "Jie Zhang",
-        "Xu Chen",
-        "Yi Zheng"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1177/10870547251365676",
-      "url": "https://doi.org/10.1177/10870547251365676",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: This study aims to verify the therapeutic efficacy and safety of a traditional Chinese medicine, Jingling Oral Liquid, in treating ADHD through a multicenter, randomized, double-blind, placebo-controlled trial (ChiCTR-IPR-17012293). Method: Eighty-five children with ADHD underwent 8 weeks of strictly monitored treatment. Forty children (8.2 ± 2.1 years old, nine girls) were randomly assigned to be treated with Jingling Oral Liquid (Liaoning Dongfangren Pharmaceutical Co., Ltd.), and 41 children (8.6 ± 2.5 years old, six girls) received placebo treatment. Results: Significant improvement was observed in the total score of ADHD rating scale (−4.8, 95% CI [−8.4, −1.1], p = .011) and in the hyperactivity/impulsivity score (−3.0, 95% CI [−4.8, −1.1], p = 0.002) for the Medicine group compared with the Placebo group, but not for inattention score (−1.9, 95% CI [−4.0, 0.2], p = 0.078). No significant changes were observed in the physiological indicators of the children pre- and post-treatment, and no definite drug-related adverse reactions were reported. Conclusion: Jingling Oral Liquid has shown efficacy in managing ADHD, specifically targeting hyperactivity and impulsivity sy…"
     },
     {
       "id": "10.1002/aur.70141",
@@ -4459,30 +4518,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1108/aia-05-2025-0046",
-      "title": "AI in creating inclusive work environments for neurodiverse employees",
-      "authors": [
-        "Ginu George",
-        "Mugdha Kulkarni",
-        "Bindi Varghese"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-11-19",
-      "doi": "10.1108/aia-05-2025-0046",
-      "url": "https://doi.org/10.1108/aia-05-2025-0046",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose This study aims to examine the increased focus on neurodiversity in contemporary businesses. It shows how inclusive policies can capitalize on the special abilities of people with neurodiverse backgrounds, including their extraordinary problem-solving abilities, meticulous attention to detail and creative thinking. These policies benefit the individuals and contribute to a more diverse and innovative workplace. Design/methodology/approach Data was collected through semistructured interviews with HR experts and neurodivergent employees. The qualitative data were manually analyzed and coded, and themes were identified. Findings The results highlight the significant benefits of accepting neurodiversity in the workplace, enlightening the audience about its potential. For instance, artificial intelligence (AI) can be used to anonymize resumes, removing potential biases related to gender, ethnicity or age. In addition, AI can help in identifying the unique skills and strengths of neurodivergent employees, enhancing the fit between job responsibilities and their abilities. This study also emphasizes the wider effects of accepting neurodiversity on employee satisfaction, productivi…"
-    },
-    {
       "id": "10.1177/10870547251397010",
       "title": "Visceral Adipose Tissue Accumulation in Children With Obesity and Co-occurring ADHD: A Case-Control Analysis of Body Fat Distribution Patterns",
       "authors": [
@@ -4820,24 +4855,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-08-2025-0085",
-      "title": "Co-occurrence of complex emotional needs, autism spectrum disorder and gender diversity: a service audit",
-      "authors": [
-        "Ethan Barr",
-        "Andrew White"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-11-14",
-      "doi": "10.1108/aia-08-2025-0085",
-      "url": "https://doi.org/10.1108/aia-08-2025-0085",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Gender identity is an integral part of individuals’ self-conceptualisation. This paper aims to explore the correlation of co-occurring complex emotional needs (CEN; consistent with a diagnosis of personality disorder), autism spectrum disorder (ASD) and gender diversity in a sample of adult community service-users referred to a CEN team. Design/methodology/approach A 52-month retrospective audit was conducted where all participants met diagnostic threshold for a CEN diagnosis, focusing on presence of ASD and gender identity. Additional comorbidities are reported. Findings In total, 553 referrals were assessed, a small number of whom identified as gender diverse (n = 23, 4.2%). A modest, significant correlation is reported between gender identity and ASD. Suggestions for potential aetiological considerations are briefly given, though further research on a larger scale should be undertaken to explore whether this correlation persists, and if so, potential factors leading to this. Originality/value The authors understand that this is the first study of its kind to explore this area of overlap of CEN, ASD and gender identity extending this past the male–female binary.",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251388627",
@@ -5573,24 +5590,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07030-4",
-      "title": "Fostering Belonging in Autistic Individuals",
-      "authors": [
-        "Kathleen Dyer",
-        "Anna M. Linnehan",
-        "Mary Jane Weiss"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1007/s10803-025-07030-4",
-      "url": "https://doi.org/10.1007/s10803-025-07030-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613251366882",
@@ -6694,31 +6693,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1108/aia-05-2025-0050",
-      "title": "From misunderstanding towards recognition: narratives of autistic women and girls in news articles",
-      "authors": [
-        "Saara Perälä",
-        "Henri Pesonen",
-        "Tanja Äärelä"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-10-21",
-      "doi": "10.1108/aia-05-2025-0050",
-      "url": "https://doi.org/10.1108/aia-05-2025-0050",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Purpose This study aims to examine news article stories portraying autistic women’s and girls’ life experiences of being neurodivergent to gain a deeper understanding of their recognition in societal discussions. Design/methodology/approach The authors used narrative and inductive and theory-driven thematic approaches to analyse news articles. This study’s theory-driven data analysis phase was guided by Honneth’s recognition framework. Findings The analysis revealed dimensions of misrecognition in multiple spheres of life. These dimensions became visible, for example, as physical and social struggles, delayed or denied access to services and the desire to be openly autistic. The authors conclude that autistic women and girls are lacking recognition in society. Practical implications In spite of the increasing representations in the media, a larger understanding of the unique ways of being an autistic woman or a girl is needed. Practical implications for using the recognition framework as a tool for developing recognition will also be discussed. Originality/value Research on women’s and girls’ experiences of being autistic in news stories from the recognition perspective is scarce,…"
-    },
-    {
       "id": "10.1177/25739581251390624",
       "title": "<i>Response to Letter:</i>\n                    Experiences of Adult Autism Diagnosis in Diverse and Mobile Cultural Contexts",
       "authors": [
@@ -6844,31 +6818,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1108/aia-09-2024-0061",
-      "title": "Comparative eye-tracking analysis of visual behavior of normal developing and autistic children in response to human faces and emotional expressions",
-      "authors": [
-        "Mohamad Basel Al Mourad",
-        "Emad Bataineh"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-10-17",
-      "doi": "10.1108/aia-09-2024-0061",
-      "url": "https://doi.org/10.1108/aia-09-2024-0061",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Purpose Autism is a prevalent childhood neurodevelopmental condition with a high hereditary likelihood, and it manifests as a clinical syndrome with varying impairments in language and social behavior as well as the existence of constrictive interests and repetitive behaviors. It is essential for both early diagnosis and intervention to comprehend how autistic people behave visually when exposed to human facial expressions and emotions. The purpose of this study is to investigate how autistic individuals visually respond to human facial expressions and emotions, with the aim of supporting early diagnosis and intervention. Design/methodology/approach In this eye-tracking study, children from two different groups neurotypical (NT) children and autistic (AP) children – were compared in terms of their visual behavior. The authors showed them pictures of people with faces placed in the center, on the left and on the right of the stimuli to gauge how they were focusing on them. The study used eye-tracking technology to accurately capture and examine their eye gaze movements. Furthermore, the study investigated their reactions to sad emotions by showing dynamic stimuli with gradual change…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1108/aia-03-2025-0023",
       "title": "Measuring well-being in autism: translation and validation of the Persian Flanagan’s QoL scale",
       "authors": [
@@ -6891,35 +6840,6 @@
       ],
       "abstract": "Purpose Quality of life (QoL) is a crucial aspect of well-being, particularly for individuals with autism spectrum disorder (ASD), who face unique challenges in social participation and daily functioning. This study aims to translate, culturally adapt and validate the Persian version of Flanagan’s Quality of Life Scale (QOLS) for Iranian individuals with ASD, ensuring a reliable and culturally appropriate measure for assessing their well-being. Design/methodology/approach A standard forward-backward translation process was used to adapt the QOLS into Persian. The study recruited 200 Iranian individuals with ASD and their caregivers from clinical and rehabilitation centers in Tehran. Internal consistency was measured using Cronbach’s alpha, test-retest reliability was assessed via the intraclass correlation coefficient (ICC) and construct validity was examined through confirmatory factor analysis (CFA). Convergent validity was tested against the World Health Organization Quality of Life-BREF (WHOQOL-BREF), and discriminant validity was analyzed by comparing QoL scores across different ASD severity levels. Findings The Persian QOLS demonstrated excellent internal consistency (a = 0.9…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1108/aia-06-2025-0060",
-      "title": "Exploring the unique impact of COVID-19 measures on autistic child development and parenting stress: comparing two cohorts in The Netherlands",
-      "authors": [
-        "Olivia F. Ward",
-        "Leontine W. ten Hoopen",
-        "Bruno Bocanegra",
-        "Femke L. Truijens",
-        "Kirstin Greaves-Lord",
-        "Kirsten Visser",
-        "Wietske A. Ester",
-        "Dennis Bastiaansen",
-        "Elisabeth H. M. Van Rijen",
-        "Linda P. Dekker"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-10-17",
-      "doi": "10.1108/aia-06-2025-0060",
-      "url": "https://doi.org/10.1108/aia-06-2025-0060",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Purpose The purpose of this study is to explore how the COVID-19 pandemic, and related preventative measures, impact global stressors on autistic children, adolescents and their families. Design/methodology/approach This exploratory study compared two cohorts, one spanning just before and throughout the pandemic, and one during a non-pandemic period, to explore child functioning and parenting stress in families with autistic children. Autism symptom development was assessed using the Social Responsiveness Scale-2 at three-time points, while emotional and behavioral functioning was examined across two-time points using the Brief Problem Monitor. Parenting stress was assessed using the Parenting Stress Questionnaire. Findings Results indicated no significant differences between the cohorts in parent-reported autism symptoms or the emotional and behavioral functioning of autistic children and adolescents. Whereas no differences emerged in children’s functioning, during the COVID-19 pandemic period parents reported more parental role restriction and physical health problems along with fewer parenting problems compared to parents during a non-pandemic period. Originality/value These fin…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10870547251382679",
@@ -7275,30 +7195,6 @@
         "sensory"
       ],
       "abstract": "Purpose Avoidant restrictive food intake disorder (ARFID) was formally recognised as an eating disorder in the Diagnostic and Statistical Manual of Mental Disorders-Fifth Edition in 2013. ARFID is characterised by three primary features, namely, sensory-based avoidance of food, negative food experiences or not experiencing hunger feelings. ARFID is particularly prevalent among autistic children and adolescents, significantly impacting their psychological, physical and social health needs. However, challenges remain in the early recognition of ARFID and the availability of effective interventions. This study aims to examine the key signs and symptoms to support early identification of ARFID in autistic children and young people, alongside an exploration of evidence-based interventions. Design/methodology/approach A scoping reviewed was conducted using the Joanna Briggs Scoping Review Methodology to examine and understand the current signs and symptoms of ARFID, as well as existing interventions. Findings The search identified 390 articles, with 10 meeting the inclusion criteria for the review. Two key themes emerged: presentation and intervention. Originality/value This study highli…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-03-2025-0029",
-      "title": "Interventions for autistic children with behavioural feeding needs: a scoping review",
-      "authors": [
-        "Anne Marie Clancy",
-        "Karen O’Driscoll",
-        "Julie Regan",
-        "Irene Patricia Walsh"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-10-13",
-      "doi": "10.1108/aia-03-2025-0029",
-      "url": "https://doi.org/10.1108/aia-03-2025-0029",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Employment"
-      ],
-      "abstract": "Purpose Autistic children are at an increased risk of presenting with feeding support needs when compared to their peers, which impact significantly from a social, nutritional and medical perspective. However, research would indicate that the mealtime and eating challenges also have far-reaching consequences for the parents and family of the autistic child. Evidence from past systematic reviews shows that behaviourist-based interventions are the most effective for increasing oral intake. This scoping review aims to systematically search the literature to landscape interventions with other theoretical underpinnings for autistic children under 12 years of age, and to explore if consideration is given to the impact of these eating challenges on the parents and families. A search was conducted in line with PRISMA-ScR checklist across five databases (Pubmed, Web of Science, PsycINFO, CINAHL and Embase) to identify studies that were published in the last 50 years (from 1973 to 2023). Nine studies met the inclusion criteria and were grouped into three categories: psychology-led, occupational therapy-led, multi-disciplinary-led (home and school). The most cited component of intervention, i…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -9119,108 +9015,6 @@
         "ADHD",
         "Autism"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07019-z",
-      "title": "Associations Among Demographic and Clinical Characteristics and Discrimination Experiences of Autistic Youth",
-      "authors": [
-        "Michelle Menezes",
-        "Jordan Linde",
-        "Mya Howard",
-        "Jessica Pappagianopoulos",
-        "Jocelyn Kuhn",
-        "Brian A. Boyd",
-        "Micah O. Mazurek"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-04",
-      "doi": "10.1007/s10803-025-07019-z",
-      "url": "https://doi.org/10.1007/s10803-025-07019-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07028-y",
-      "title": "Measurement of Anxiety and Depression Among Autistic Adults: Concordance Between Diagnostic and Screening Instruments in a Feasibility Study",
-      "authors": [
-        "Annabelle M. Mournet",
-        "Linnea A. Lampinen",
-        "Lauren A. Pepa",
-        "Gentiana Kukaj",
-        "Brian C. Chu",
-        "Vanessa H. Bal"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-04",
-      "doi": "10.1007/s10803-025-07028-y",
-      "url": "https://doi.org/10.1007/s10803-025-07028-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract The current study aims to report on the concordance between the PHQ-9, GAD-7, Adult Self Report (ASR), Anxiety and Related Disorders Interview Schedule for DSM-5 (ADIS-5), and best estimate clinical diagnosis (BECD) among autistic adults. The current analyses leverage baseline data from a feasibility treatment study of autistic adults receiving group behavioral activation therapy to address anxiety and depressive symptoms. Interclass correlation coefficients, area under the curve, sensitivity, and specificity were computed to compare the tools to one another at various clinical cut-off levels. Post-intervention outcome data were used for internal replication. The ADIS-5 classifications of Major Depressive Disorder (MDD) and Generalized Anxiety Disorder (GAD) had strong concordance in comparison to the BECD in the Baseline comparisons, but more variable in the Outcome data. For the GAD-7, the mild cut-off had the highest concordance with BECD of any anxiety condition. PHQ-9 moderate cut-off performed most consistently with BECD and ADIS-5 MDD diagnosis. The present analyses further highlight the need for ongoing systematic investigation of the validity of anxiety and depres…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-09-04",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ]
-    },
-    {
-      "id": "10.1177/10870547251364578",
-      "title": "School-Based Social Skills Interventions for Youth With ADHD: A Systematic Review and Meta-Analysis",
-      "authors": [
-        "Gabriella Bussanich",
-        "Judith R. Harrison",
-        "Corey Peltier",
-        "Aayushi Patel",
-        "Paulomi Mehta",
-        "Kashees Patel"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-09-04",
-      "doi": "10.1177/10870547251364578",
-      "url": "https://doi.org/10.1177/10870547251364578",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life"
-      ],
-      "abstract": "Objective Children and adolescents frequently struggle with social skills performance in academic settings, which can negatively impact quality of life. As such, social skills training is frequently recommended; however, the effectiveness of school-based social skills training has not been synthesized. As such, the purpose of the current study was to evaluate the empirical evidence pertaining to both stand-alone and multimodal school-based social skills programs for students with ADHD, and to assess the effects of potential moderating variables. Method: A systematic review and meta-analysis was conducted of studies between the years of 1975 and 2023 following the recommendations of the Cochrane Foundation and the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA). Results: Seventeen studies, single-case, within group, and between-group designs met the established inclusion criteria, with 10 included in the meta-analysis. The findings revealed small to large effects; however, the overall meta-analytic effect size was negligible (ES = 0.09). The differences in social skills approaches, intensity, parent involvement, and setting did not moderate the effects. C…"
     }
   ]
 }
