@@ -1,8 +1,32 @@
 {
-  "generated_at": "2026-01-03T06:47:56Z",
+  "generated_at": "2026-01-04T06:49:01Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10870547251408127",
+      "title": "Increased Serum Netrin-1 Levels Among Children Diagnosed With ADHD",
+      "authors": [
+        "Hümeyra Hilal Öztürk",
+        "Selen Sezen",
+        "Elçin Çağlar",
+        "Serenay Elgün Ülkar",
+        "Sadettin Burak Açıkel"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-01-03",
+      "doi": "10.1177/10870547251408127",
+      "url": "https://doi.org/10.1177/10870547251408127",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Mental health"
+      ],
+      "abstract": "Objective: ADHD is a common neurodevelopmental disorder of childhood characterized by altered projections of dopaminergic neurons and connectivity issues in various brain regions. In our study, we aim to investigate the potential effects of axon guidance molecules, Netrin-1 and Semaphorins 3A, 4D, and 7A, on these connectivity problems by examining the levels of these molecules in the peripheral blood of children with ADHD compared to healthy controls. Methods: A total of 43 children with ADHD and 40 healthy controls 6 to 12 years of age were included in the study. The K-SADS-PL was administered to exclude any additional psychopathologies (excluding ODD in the ADHD group). The Revised Child Anxiety and Depression Scale was provided to the children, while parents completed the revised Conners’ Parent Rating Scale (CPRS-R), the Social Responsiveness Scale (SRS), and the Behavior Rating Inventory for Executive Functioning (BRIEF). Additionally, teachers of the ADHD group were given the Conners’ Teacher Rating Scale. Furthermore, the WISC-4 was administered to assess the IQ profile of 35 children in the ADHD group. Results: Netrin-1 was found to be statistically higher in the ADHD grou…"
+    },
     {
       "id": "10.1108/aia-06-2025-0065",
       "title": "Cultural adaptation and psychometric evaluation of the quality of life for children with autism spectrum disorder scale",
@@ -1017,27 +1041,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -1062,6 +1065,27 @@
       ],
       "tags": [
         "sensory"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
       ]
     },
     {
