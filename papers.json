@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-04T06:49:01Z",
+  "generated_at": "2026-01-05T06:57:50Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -1041,6 +1041,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -1065,27 +1086,6 @@
       ],
       "tags": [
         "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
       ]
     },
     {
@@ -9019,25 +9019,6 @@
       ],
       "domains": [
         "Education"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07033-1",
-      "title": "Differences in Motor Competence Between Children and Adolescents With and Without ADHD: Findings from a Systematic Review and Meta-analysis",
-      "authors": [
-        "Nerea Blanco-Martínez",
-        "Daniel González-Devesa",
-        "Carlos Ayán-Pérez",
-        "José Carlos Diz-Gómez"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-06",
-      "doi": "10.1007/s10803-025-07033-1",
-      "url": "https://doi.org/10.1007/s10803-025-07033-1",
-      "neurotype": [
-        "ADHD",
-        "Autism"
       ]
     }
   ]
