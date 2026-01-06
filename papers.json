@@ -1,8 +1,51 @@
 {
-  "generated_at": "2026-01-05T06:57:50Z",
+  "generated_at": "2026-01-06T06:53:16Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-025-07190-3",
+      "title": "Exploring the Association Between Parental Age and Autism Spectrum Disorder Risk in Qatar",
+      "authors": [
+        "Fouad AlShaban",
+        "Éric Fombonne",
+        "Iman Ghazal",
+        "Fatema Al-Faraj",
+        "Sarah Aqel",
+        "I. Richard Thompson",
+        "Hawraa Al-Shammari",
+        "Saba El-Hag",
+        "Bisher Nasir"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-05",
+      "doi": "10.1007/s10803-025-07190-3",
+      "url": "https://doi.org/10.1007/s10803-025-07190-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10883576251407601",
+      "title": "Classmates’ Social Interest Toward Included Autistic Peers: Social and Personal Characteristics",
+      "authors": [
+        "Mati Zakai-Mashiach",
+        "Michal Al-Yagon",
+        "Esther Dromi"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-01-05",
+      "doi": "10.1177/10883576251407601",
+      "url": "https://doi.org/10.1177/10883576251407601",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "This study explored the demographic and social characteristics of children in understanding their spontaneous social interest toward autistic classmates. Participants were 193 children without disabilities, ages 3 to 6 years, in 16 inclusive preschool/kindergarten classrooms. Teachers and educational aides each nominated socially interested students and rated all students’ social interests toward the included classmate. Results indicated that socially interested children were younger, more often boys, had a more advanced social profile (less aggression, more shyness, and more prosocial behaviors), and showed better performance on theory of mind tasks than their peers who were not socially interested in the autistic classmates. Identifying peers without disabilities who show social interest toward the included children can optimize the involvement of peers without disabilities as change agents in inclusive educational environments and promote the social inclusion of autistic students.",
+      "framing": "Neurodiversity-informed"
+    },
     {
       "id": "10.1177/10870547251408127",
       "title": "Increased Serum Netrin-1 Levels Among Children Diagnosed With ADHD",
@@ -714,30 +757,6 @@
       ],
       "abstract": "Purpose: Attention is proposed to consist of three discrete neurofunctional networks, though evidence suggests that two of these – the alerting and cognitive control networks – are interdependent. The neural mechanism(s) underlying this interdependence have not been identified; however, the locus coeruleus – norepinephrine (LC-NE) system may provide a potential explanation for this interaction. Further, both alerting–cognitive control interdependence and LC-NE activity may be altered in autistic individuals, and thus may provide a unique window into the relationship between the LC-NE system and network interdependence. The objective of the current study was to utilize electrophysiological and pupillary indices of LC-NE activity to examine the associations between attentional network interdependence, LC-NE activity, and autism and ADHD traits. Methods: A total of 77 neurotypical undergraduate students completed two tasks: (1) a resting eye-tracking task to measure pupil diameter (tonic LC activity), and (2) a cued-flanker task to measure cue-related pupil diameter response (cue PDR; phasic LC activity) and attentional network interdependence using behavioral, electrophysiological, a…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547251369665",
-      "title": "Perception of Visual Illusions in Children and Teenagers With ADHD",
-      "authors": [
-        "Valeria Montiel",
-        "Vania Navarrete",
-        "Ana M. González-Pérez",
-        "Carolina Vázquez de Alba",
-        "Ricardo Díaz-Sánchez",
-        "Péter Szenczi",
-        "Marcos Rosetti",
-        "Rosa E. Ulloa",
-        "Oxána Bánszegi"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/10870547251369665",
-      "url": "https://doi.org/10.1177/10870547251369665",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: Susceptibility to visual illusions is a consequence of the adaptation of the visual system, however, their perception or lack of it reflects differences in more general, global cognitive processes. Few studies have focussed on the susceptibility of individuals with attention-deficit/hyperactivity disorder (ADHD), even though visual impairment and percept differences have been thoroughly documented. Method: The present study evaluated 75 children (ages 6.09–12.99 years, 72% male) and 37 teenagers (ages 13–16.95 years, 62% male) with ADHD, and a sex-and-age matched sample of typically developing peers. They were tested with 103 pairs of illusory and control images spanning five illusion types. Results: We found increased susceptibility to the Müller-Lyer and Kanizsa Subjective Contour and decreased susceptibility to the Ebbinghaus illusion among children with ADHD when compared to typically developing controls. No differences were found for susceptibility to the Simultaneous Contrast and Moving Snake illusions. As for reaction times, we did not find differences between participants with ADHD and their control peers when judging illusions; however, in general participants g…"
     },
     {
       "id": "10.1177/13623613251407294",
@@ -6941,26 +6960,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -6982,6 +6981,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -7723,6 +7742,61 @@
         "lived experience"
       ],
       "abstract": "Objective: ADHD is commonly comorbid with depression and this comorbidity is associated with increased symptom severity and worse outcomes than either condition alone. Depression is highly heterogeneous and may present differently in populations with ADHD. This study aimed to explore different symptom presentations of depression and associated clinical correlates in a clinical ADHD sample. Method: We analysed data from the Study of ADHD Genes and Environment (SAGE). Parents completed semi-structured interviews about their child’s psychopathology at baseline ( M age = 10.9 years) and the Mood and Feelings Questionnaire to capture their child’s depression symptoms approximately 5 years later ( M age = 14.6 years, N = 246). Depression symptom presentations were derived by latent profile analysis. Results: Analyses found three presentations of depression symptoms: a ‘low symptoms’ class (48.5% of the sample), a ‘high symptoms’ class (15.5%) with consistently high depression symptoms, particularly for suicidality and poor self-esteem items, and an ‘irritable/poor sleep’ class (36.1%) with high scores for irritability and poor sleep and intermediate levels of other depression symptoms. A…"
+    },
+    {
+      "id": "10.1089/aut.2023.0171",
+      "title": "“I’ve Absolutely Reached Rock Bottom and Have No Energy”: The Lived Experience of Unemployed and Underemployed Autistic Adults",
+      "authors": [
+        "Laura J. Smethurst",
+        "Andrew R. Thompson",
+        "Megan Freeth"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-10-01",
+      "doi": "10.1089/aut.2023.0171",
+      "url": "https://doi.org/10.1089/aut.2023.0171",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Autistic adults are underrepresented in the employment market, and those in work are commonly underemployed. Our study aimed to gain an understanding of autistic adults’ experiences of unemployment and underemployment. Methods: Eight autistic adults who self-identified as currently unemployed or underemployed who were actively seeking to change their employment status participated in semi-structured interviews, analyzed using interpretative phenomenological analysis. Results: Four group experiential themes were identified: feeling paralyzed (the past weighs heavy; fragile self-confidence); powerlessness (lack of agency; systemic support failures); negative perceptions (feeling misunderstood; fear of judgment; pressure to meet societal expectations); and recognizing our needs (managing mental health difficulties; importance of self-understanding). Participants felt paralyzed by employment experiences, which impacted their confidence to progress with their career aspirations. Autistic people felt misunderstood, judged, and powerless within support systems, which had implications for their mental health. Participants recognized the importance of managing their mental healt…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0160",
+      "title": "Camouflaging Autism in Pursuit of Friendship and Intimate Relationships: A Systematic Review",
+      "authors": [
+        "Kathryn Ridgway",
+        "Kassandrah Cooke",
+        "David H. Demmer",
+        "Merrilyn Hooley",
+        "Elizabeth Westrupp",
+        "Mark A. Stokes"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-10-01",
+      "doi": "10.1089/aut.2023.0160",
+      "url": "https://doi.org/10.1089/aut.2023.0160",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Background: Difficulties in making and maintaining social relationships is common among autistic people. These difficulties are thought to be due to differences in autistic social interaction and social communication that have been theorized to be the result of reduced social motivation. We argue that this theory does not account for camouflaging, a combination of strategies that are employed frequently by many autistic individuals in pursuit of obtaining social relationships; however, its utility in achieving satisfactory friendship and intimate relationships for the individual is not clear. Method: This review synthesizes empirical evidence of camouflaging as a strategy for achieving friendships and/or intimate relationships among autistic adolescents and adults. A systematic search yielded 1421 records. Forty-nine full texts were screened, and eight qualitative studies were retained. Results: Results reveal that camouflaging was a main strategy in pursuit of friendship, with little evidence for intimate relationships, in this sample of autistic adolescents and adults. For most, camouflaging is exhausting, often ineffective and inefficient, and ultimately a challenge to one’s soc…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2025.2561160",
