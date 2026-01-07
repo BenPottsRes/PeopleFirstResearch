@@ -1,8 +1,67 @@
 {
-  "generated_at": "2026-01-06T06:53:16Z",
+  "generated_at": "2026-01-07T06:52:00Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-025-07188-x",
+      "title": "Relative Complexity in Repetitive Structure and Visual Preference for Geometric Figures in Autistic Individuals: A Pilot Study",
+      "authors": [
+        "Momoka Suda",
+        "Motofumi Sumiya",
+        "Toshiki Iwabuchi",
+        "Kosuke Asada",
+        "Hironori Akechi",
+        "Atsushi Senju"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-06",
+      "doi": "10.1007/s10803-025-07188-x",
+      "url": "https://doi.org/10.1007/s10803-025-07188-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-025-07195-y",
+      "title": "The Effects of Joint Attention Interventions for Young Children With Autism Spectrum Disorder: A Meta-analysis",
+      "authors": [
+        "Jinwei Song",
+        "Brian Reichow",
+        "Jason Chow",
+        "Mary Beth Bruder",
+        "Brandi Simonsen"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-06",
+      "doi": "10.1007/s10803-025-07195-y",
+      "url": "https://doi.org/10.1007/s10803-025-07195-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07191-2",
+      "title": "From Toddlers to Late Childhood: Age-Related Patterns in Parental Concerns About Autism",
+      "authors": [
+        "Einat Avni",
+        "Ditza A. Zachor",
+        "Esther Ben-Itzchak",
+        "Ronit Saban-Bezalel"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-06",
+      "doi": "10.1007/s10803-025-07191-2",
+      "url": "https://doi.org/10.1007/s10803-025-07191-2",
+      "neurotype": [
+        "Autism"
+      ]
+    },
     {
       "id": "10.1007/s10803-025-07190-3",
       "title": "Exploring the Association Between Parental Age and Autism Spectrum Disorder Risk in Qatar",
@@ -2973,27 +3032,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -3016,6 +3054,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -9056,43 +9115,6 @@
       "url": "https://doi.org/10.1177/25739581251370469",
       "neurotype": [
         "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/25739581251375879",
-      "title": "“It’s Like All of My Senses and My Body Become More Awakened”: Autistic Adults’ Experiences of Attending Live Music",
-      "authors": [
-        "Gemma Herbert",
-        "Abbie Smith",
-        "Keren MacLennan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-09-08",
-      "doi": "10.1177/25739581251375879",
-      "url": "https://doi.org/10.1177/25739581251375879",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2025.2555957",
-      "title": "Graduates stories of the university living experiences with and without an autism diagnosis",
-      "authors": [
-        "Lucia Van der Mel",
-        "Anabel Moriña"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-09-08",
-      "doi": "10.1080/20473869.2025.2555957",
-      "url": "https://doi.org/10.1080/20473869.2025.2555957",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
       ]
     }
   ]
