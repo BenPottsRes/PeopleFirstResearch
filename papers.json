@@ -1,8 +1,155 @@
 {
-  "generated_at": "2026-01-07T06:52:00Z",
+  "generated_at": "2026-01-08T06:52:02Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1108/aia-05-2025-0045",
+      "title": "Exploring the impact of technology-based interventions on the mental health of children with autism",
+      "authors": [
+        "Leona Cilar Budler",
+        "Vanesa Kovac"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-09",
+      "doi": "10.1108/aia-05-2025-0045",
+      "url": "https://doi.org/10.1108/aia-05-2025-0045",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Purpose Children with autism spectrum disorder (ASD) frequently experience mental health challenges, including anxiety, emotional dysregulation and difficulties in social interactions. This study aims to explore the effectiveness of technology-based interventions, such as mobile applications, virtual reality, serious games and telehealth programs, in improving the mental well-being of children with ASD. Design/methodology/approach A comprehensive literature search was conducted across PubMed, CINAHL and the Cochrane Library, adhering to the preferred reporting items for systematic reviews and meta-analyses framework to ensure methodological rigor. Findings The findings indicate that digital interventions can significantly reduce anxiety, enhance emotional regulation and promote social engagement. However, inconsistencies in study designs, small sample sizes and limited longitudinal research highlight the need for further investigation. Originality/value This review underscores the potential of digital technologies as accessible and scalable therapeutic tools while emphasizing the necessity of standardized guidelines to optimize their implementation in clinical and educational setti…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613251407310",
+      "title": "Profiles of parent–teacher discrepancy on autistic children’s adaptive functioning",
+      "authors": [
+        "Rachel Lees Thorne",
+        "Nicky Wright",
+        "Andres De Los Reyes",
+        "Isabel M Smith",
+        "Anat Zaidman-Zait",
+        "Lonnie Zwaigenbaum",
+        "Tracy Vaillancourt",
+        "Peter Szatmari",
+        "Teresa A Bennett",
+        "Eric Duku",
+        "Annie E Richard",
+        "Connor Kerns",
+        "Rachael Bedford"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-01-07",
+      "doi": "10.1177/13623613251407310",
+      "url": "https://doi.org/10.1177/13623613251407310",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "Clinical guidelines recommend collecting reports from multiple informants when identifying and diagnosing challenges in children. The current study examined parent–teacher discrepancies in rating of autistic children’s adaptive functioning and how these related to children’s executive functions. Participants ( n = 194) were a subsample of autistic children (mean age = 9.2 years; 86% male) from the Pathways in ASD cohort. We used latent profile analysis to characterise profiles based on both parent and teacher reports of adaptive functioning levels. We tested links between these profiles and indices of children’s executive function and other clinical correlates. Four profiles were characterised: a lower adaptive functioning-parent higher profile, in which parents reported relatively higher scores than teachers ( n = 45), an intermediate adaptive functioning profile ( n = 70) and a higher adaptive functioning profile ( n = 39; both characterised by similar ratings between informants) and finally, a higher adaptive functioning-teacher higher profile, in which teachers reported relatively higher scores than parents ( n = 40). The higher adaptive functioning-teacher higher profile showe…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251406751",
+      "title": "Validating the German Translation of the Revised Comprehensive Autistic Trait Inventory",
+      "authors": [
+        "Friederike Charlotte Hechler",
+        "Nathan Caruana",
+        "Frank Fahr",
+        "Bodie Karlek",
+        "Marie Maroske",
+        "Meike Misia",
+        "Outi Tuomainen"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-01-07",
+      "doi": "10.1177/25739581251406751",
+      "url": "https://doi.org/10.1177/25739581251406751",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Background: This project evaluates the psychometric properties of a German translation of the Revised Comprehensive Autistic Trait Inventory (CATI-R). Previous measures of autistic traits are often based on a male-referenced conceptualization of autism, which may underestimate autistic traits in other genders. In addition, these measures tend to rely on neurotypical language, which can make it difficult for autistic people to respond and may reinforce stigma. To address these shortcomings, the CATI was originally developed as an alternative to traditional measures, including subscales that capture traits particularly relevant to autistic women. Building on this, we collaborated in an earlier work with members of the autism community to revise the CATI (CATI-R), ensuring more inclusive, respectful, and accessible language and concepts across all genders. In the present study, we translated this revised measure into German and validated it in a large sample of female, male, and non-binary participants. This study explores if the German translation of the CATI-R measures autistic traits fairly across genders and identifies potential differences in trait expression. Methods: To validat…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251392464",
+      "title": "The Experience of Autistic Professionals Working in Health and Education: A Systematic Review",
+      "authors": [
+        "Eleanor Curnow",
+        "Donald Maciver",
+        "Tamsin Meff",
+        "Joshua Muggleton",
+        "Lorna Johnston",
+        "Anna Gray",
+        "Helen Day",
+        "Marianthi Kourti",
+        "Izy Utley",
+        "Marion Rutherford"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-01-07",
+      "doi": "10.1177/25739581251392464",
+      "url": "https://doi.org/10.1177/25739581251392464",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Inclusive health and education services require diverse professionals to inform service delivery, which meet the needs of a diverse population. There is a need to reduce inequalities in employment, and to develop neuro-affirming public services. This requires enhanced understanding of the challenges facing neurodivergent professionals, and solutions informed by lived experience. Methods: This systematic review explored peer-reviewed literature describing the training, recruitment, and employment experiences of autistic professionals working in health and education services. Researchers followed the Preferred Reporting Items for Systematic Review and Meta-Analysis guidelines. Researchers last searched databases, which included Medline, CINAHL, and PsycINFO, in October 2024. Eligible studies presented data describing the experiences of autistic health or education professionals in employment or training, published in English within the last 15 years. Researchers appraised study quality using the Mixed Methods Appraisal Tool. Researchers synthesized data using a narrative approach. The research team received funding from the Scottish Government. Researchers registered the…"
+    },
+    {
+      "id": "10.1177/10870547251407731",
+      "title": "Parental Stress and Child Irritability in ADHD: A Two-Wave Longitudinal Serial Mediation Model via Experiential Avoidance and Negative Parent–Child Relationship",
+      "authors": [
+        "Armagan Aral",
+        "Gizem Gerdan",
+        "Yılmaz Orhun Gürlük"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-01-07",
+      "doi": "10.1177/10870547251407731",
+      "url": "https://doi.org/10.1177/10870547251407731",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "ADHD is complex neurodevelopmental disorder that causes considerable individual and social difficulties, creating significant parental stress. This study aimed to examine the indirect associations between parental stress and child irritability through two sequential parenting mechanisms: experiential avoidance and negative parent–child relationship, within a sample of school-aged children with ADHD (ages 6–12). Using a two-wave longitudinal serial path analysis based on parent-reported data collected at two time points 1-month apart (Time 1 and Time 2), the study investigated whether early parental stress predicted subsequent child irritability via its influence on experiential avoidance and the quality of the parent–child relationship. Findings supported the hypothesized model. More precisely, higher parental stress was associated with greater experiential avoidance, which in turn predicted more negative parent–child relationship, ultimately resulting in elevated child irritability. Longitudinal serial mediation effects confirmed that all Time 1 variables significantly predicted corresponding Time 2 outcomes across the proposed sequential pathway. Notably, the model explained 41.1…"
+    },
     {
       "id": "10.1007/s10803-025-07188-x",
       "title": "Relative Complexity in Repetitive Structure and Visual Preference for Geometric Figures in Autistic Individuals: A Pilot Study",
@@ -646,28 +793,6 @@
         "sensory"
       ],
       "abstract": "Autistic people face persistent barriers to accessing healthcare, yet little is known about their experiences receiving eye care, despite elevated rates of vision conditions. This convergent mixed-methods study explored the eye care experiences of 127 autistic adults and 69 parents of autistic children living in Australia and Aotearoa New Zealand. Through an online survey incorporating both structured and open-ended items, we examined access patterns, perceived barriers and enablers, and unmet needs. Quantitative data revealed widespread challenges, including sensory discomfort, communication difficulties, and financial costs, while qualitative responses foregrounded how provider interaction, clinical pacing, and environmental conditions shaped overall experience. Although participants valued clearer communication and sensory-informed adjustments, these were described as insufficient in the face of structural barriers such as affordability and inaccessible service locations. These findings align with emerging models of autism-informed healthcare that advocate for systemic, rather than ad hoc, approaches to accessibility. Our results underscore the need for proactive, cross-sector s…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251369908",
-      "title": "Nor weak ties, nor strong ties: Personal support networks and relations between autistic peers",
-      "authors": [
-        "Isabelle Courcy",
-        "Noémie Cusson",
-        "Nuria Jeanneret"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251369908",
-      "url": "https://doi.org/10.1177/13623613251369908",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "The aim of this study is to analyze egocentric social networks of 31 autistic adults in Québec (Canada). We examined the composition of their proximal personal support network and the role of support shared among autistic peers. A mixed method analysis was used. An egocentric network questionnaire that included qualitative prompts was conducted to gather participants’ interpretations and reference systems, facilitating an understanding of networks’ multidimensional aspect. A reflexive thematic analysis was conducted with a subset of the data from the qualitative prompts. Three main themes were identified: (1) interference in social interactions, (2) mutual acknowledgment, and (3) social engagement in the community. Most participants ( n = 21) mentioned autistic peers, but although these peers may have provided support, participants rarely identified them as being part of their proximal personal support network. Results nevertheless highlight the importance of peer support for several participants, which can refer to the concept of “weak ties,” but they differ from it by the exchanges of emotional support, which are normally expected from “strong” ties. Lay abstract Social support i…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -3526,60 +3651,6 @@
       ],
       "abstract": "Mental and physical health conditions are a major topic of concern in autistic adults, but studies rarely consider their overlap. Therefore, this study assessed physical health conditions and mental health conditions in autistic adults in the Netherlands and potential associations between them. Using questionnaires, we compared autistic ( n = 327) and non-autistic ( n = 274) adults (30–90 years) on mental health conditions, physical health conditions, and health-related quality of life. Autistic adults reported lower health-related quality of life than non-autistic adults. Logistic regressions indicated significantly higher rates of all mental health conditions reported by autistic adults, most common being mood (45%), anxiety (22%), and personality disorders (21%), with odds ratios ranging from six to 34. Regarding physical health conditions, autistic adults reported significantly higher rates of bowel conditions (27%), allergies (48%), and hypothyroid conditions (6%), with odds ratios ranging from two to four. Psychometric network analysis of autism and the most frequently occurring mental health conditions and physical health conditions highlighted autism as a central node, foll…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251360275",
-      "title": "Contextual factors influencing neuro-affirming practice: Identifying what helps or hinders implementation in health and social care",
-      "authors": [
-        "Anna Gray",
-        "Donald Maciver",
-        "Eleanor Curnow",
-        "Lorna Johnston",
-        "Marion Rutherford"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1177/13623613251360275",
-      "url": "https://doi.org/10.1177/13623613251360275",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "lived experience",
-        "service improvement"
-      ],
-      "abstract": "There has been limited research to date into contextual factors hindering or supporting the successful implementation of neuro-affirming practice in support for Autistic and otherwise neurodivergent adults. We used a Realist Evaluation approach to explore key contexts affecting neuro-affirming practice. A preliminary programme theory of key aspects of support was developed. Views on current practice were sought through structured interviews with 32 senior professionals in leadership roles within Health and Social Care services in Scotland. This study identified important contexts shaping the implementation of neuro-affirming practice for adults. Results indicate widespread professional support for modifying practice to better accommodate neuro-affirming ideas, and scope to achieve this. However, some contexts, including limited resources, restrictive eligibility criteria and rigid service structures, hinder progress. Growing demand for services was often viewed as a restrictive context, but it also offered a chance to rethink conventional, one-size-fits-all models and adopt neuro-affirming approaches. The study is important in addressing a current gap in research into professional…"
-    },
-    {
-      "id": "10.1177/25739581251392464",
-      "title": "The Experience of Autistic Professionals Working in Health and Education: A Systematic Review",
-      "authors": [
-        "Eleanor Curnow",
-        "Donald Maciver",
-        "Tamsin Meff",
-        "Joshua Muggleton",
-        "Lorna Johnston",
-        "Anna Gray",
-        "Helen Day",
-        "Marianthi Kourti",
-        "Izy Utley",
-        "Marion Rutherford"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1177/25739581251392464",
-      "url": "https://doi.org/10.1177/25739581251392464",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
     },
     {
       "id": "10.1177/10883576251392875",
@@ -9060,62 +9131,6 @@
         "access"
       ],
       "abstract": "Objective: ADHD can impair children’s functioning. Socioeconomic and sociodemographic factors present barriers to treatment access and lead to disparate outcomes in children with ADHD. The purpose of this study was to describe trajectories of functional outcomes and ADHD symptom counts across 3 years and explore the moderating effects of income and race/ethnicity on these trajectories among U.S. children with ADHD. Method: This longitudinal study of children currently and/or previously meeting diagnostic criteria for ADHD ( N = 1,587, age = 9–10 years at baseline) used data from the Adolescent Brain Cognitive Development (ABCD) Study ® . Outcomes were child-reported functional outcome measures (family conflict, prosocial behavior, and school experiences) and parent-reported inattentive and hyperactive symptom counts across 3 years. Multi-level, mixed-effects models for longitudinal data were used to characterize each outcome trajectory and examine the moderating effects of baseline household income and race/ethnicity. Results: The sample was 68% male and 54% White, with 53% meeting diagnostic criteria for past-only ADHD, 12% current-only ADHD, and 35% both past and current ADHD. Si…"
-    },
-    {
-      "id": "10.1007/s10803-025-07034-0",
-      "title": "Our Challenges, Our Solutions: The Impact of Autism on Families",
-      "authors": [
-        "Sebastian Trew"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-09",
-      "doi": "10.1007/s10803-025-07034-0",
-      "url": "https://doi.org/10.1007/s10803-025-07034-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract This study investigated how autism impacts the relationships between family members and the family unit. It aimed to provide a deeper qualitative understanding by incorporating the perspectives of autistic adolescents and their family members, adding depth to existing quantitative findings. This qualitative study involved audio-recorded semi-structured in-depth interviews with 40 participants, including mothers, fathers, siblings, and autistic adolescents, recruited through autism and disability agencies in Canberra, Australia. Data collection and analysis followed a constructivist grounded theory approach. Reflexive journaling and iterative member checking ensured the accuracy and validity of the findings. The study found that autism significantly influenced family dynamics, leading to behaviors such as self-harm, anxiety, overstimulation, anger, and limited social and emotional awareness, which strained family relationships. Families reported increased stress and tension, particularly in the absence of regular support and respite. Despite these challenges, families employed various strategies to maintain close relationships and foster resilience, such as sharing memories…"
-    },
-    {
-      "id": "10.1007/s10803-025-06975-w",
-      "title": "Adults with Autism Have Numerous Needs, and So Do Their Parents!",
-      "authors": [
-        "Cyrielle Derguy",
-        "L. Frybourg",
-        "M. Dexet",
-        "E. Cappe"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-09",
-      "doi": "10.1007/s10803-025-06975-w",
-      "url": "https://doi.org/10.1007/s10803-025-06975-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1177/25739581251370469",
-      "title": "The Self–Other Imbalance Hypothesis of Autism: An Empirical Investigation",
-      "authors": [
-        "John Galvin"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-09-09",
-      "doi": "10.1177/25739581251370469",
-      "url": "https://doi.org/10.1177/25739581251370469",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
