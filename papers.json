@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-01-08T06:52:02Z",
+  "generated_at": "2026-01-09T06:52:23Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1108/aia-10-2025-0102",
+      "title": "Invisible scaffolding: families as a hidden public health workforce in autism services in India",
+      "authors": [
+        "Shaoli Dutta"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-01-12",
+      "doi": "10.1108/aia-10-2025-0102",
+      "url": "https://doi.org/10.1108/aia-10-2025-0102",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "Purpose The purpose of this paper is to examine how families, particularly mothers, function as a hidden workforce in autism care systems struggling to meet demand. This paper highlights the risks of treating caregivers as substitutes for professional staff and underscores the need to recognise their contributions within inclusive practice. Design/methodology/approach This reflective essay draws on practice insights and field experiences of families navigating autism care. This study interprets how unpaid caregiving becomes central to sustaining children’s progress when formal services are unavailable or inaccessible. Findings Caregivers sustain essential continuity of care but at significant personal cost. Mothers frequently reduce or leave employment, leading to financial strain, emotional burnout and social isolation. These burdens remain largely invisible to practitioners and policymakers, yet they directly affect the sustainability of inclusive systems. Practical implications For practitioners and policymakers, inclusive practice requires acknowledging caregiver labour, providing structured training and emotional support and defining limits to what unpaid caregiving can sustai…"
+    },
     {
       "id": "10.1108/aia-05-2025-0045",
       "title": "Exploring the impact of technology-based interventions on the mental health of children with autism",
@@ -27,6 +46,55 @@
         "service improvement"
       ],
       "abstract": "Purpose Children with autism spectrum disorder (ASD) frequently experience mental health challenges, including anxiety, emotional dysregulation and difficulties in social interactions. This study aims to explore the effectiveness of technology-based interventions, such as mobile applications, virtual reality, serious games and telehealth programs, in improving the mental well-being of children with ASD. Design/methodology/approach A comprehensive literature search was conducted across PubMed, CINAHL and the Cochrane Library, adhering to the preferred reporting items for systematic reviews and meta-analyses framework to ensure methodological rigor. Findings The findings indicate that digital interventions can significantly reduce anxiety, enhance emotional regulation and promote social engagement. However, inconsistencies in study designs, small sample sizes and limited longitudinal research highlight the need for further investigation. Originality/value This review underscores the potential of digital technologies as accessible and scalable therapeutic tools while emphasizing the necessity of standardized guidelines to optimize their implementation in clinical and educational setti…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/10870547251408128",
+      "title": "Social Skills and Emotion Recognition in Children With Elevated Cognitive Disengagement Syndrome Symptoms: A Comparative Study With Children Diagnosed With ADHD and Typically Developing Peers",
+      "authors": [
+        "Utku Kaçmaz",
+        "Nagihan Cevher Binici",
+        "Eyüp Sabri Ercan",
+        "Fatma Sibel Durak",
+        "Ali Evren Tufan"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-01-08",
+      "doi": "10.1177/10870547251408128",
+      "url": "https://doi.org/10.1177/10870547251408128",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "abstract": "Objective: Cognitive Disengagement Syndrome (CDS) is increasingly viewed as a distinct childhood condition. Although it overlaps with ADHD in some features, emerging evidence suggests a unique behavioral and cognitive profile. However, research examining social functioning and emotion recognition in children with pure CDS remains limited. Methods: This study compared social competence and facial emotion recognition abilities among children aged 8 to 12 years across three groups: those with elevated CDS symptoms (n = 43), those with ADHD (n = 40), and healthy controls (n = 43). Social functioning and peer relationships were evaluated using parent- and child-report social skills scales and peer interaction questionnaires. Emotion recognition was measured with the Reading the Mind in the Eyes Test (RMET). Results: Children with CDS showed significantly lower social skills and RMET scores than both ADHD and control groups (p &lt; .001). Teachers reported fewer school friendships for the CDS group compared to ADHD and controls (p &lt; .001), and CDS children also reported fewer out-of-school friendships than peers in the other groups (p = .035). Both child and teacher reports noted grea…"
+    },
+    {
+      "id": "10.1002/aur.70169",
+      "title": "Clinically Significant Outcomes of Early Intensive Behavioral Intervention for Children With Autism Spectrum Disorders: An Individual Participant Data Meta‐Analysis",
+      "authors": [
+        "Sigmund Eldevik",
+        "Børge Strømgren",
+        "Svein Eikeseth",
+        "Anya Fields",
+        "C. Melanie Goetz",
+        "Kristine Berg Titlestad"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-01-08",
+      "doi": "10.1002/aur.70169",
+      "url": "https://doi.org/10.1002/aur.70169",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Early Intensive Behavioral Intervention (EIBI) is widely recommended for children with Autism Spectrum Disorder (ASD). However, the treatment intensity and effectiveness have been debated. We conducted a meta‐analysis and examined individual participant data to evaluate the effectiveness and clinical significance of the outcomes on adaptive behavior, intellectual functioning, and autism severity. We included studies of children with ASD aged 2–6 years who received EIBI for at least 12 months. The final literature search was conducted on September 26, 2024. The GRADE tool was used to assess the risk of bias. Across the 17 identified studies, we obtained participant data from 15 studies: 341 children received EIBI and 280 were in comparison‐groups. All studies had a serious risk of bias due to the lack of random assignment. Our meta‐analysis yielded effect sizes of 0.66 for improvement in adaptive behavior, 0.87 for improvement in intellectual functioning and 1.36 for reductions in ASD severity. A significantly higher percentage of children in the EIBI‐group met the criteria for statistically reliable change and scored in the non‐clinical range post‐intervention with a Numbe…",
       "framing": "Mixed or transitional framing"
     },
     {
@@ -3157,6 +3225,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -3179,27 +3268,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
