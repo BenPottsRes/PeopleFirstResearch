@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-11T06:49:14Z",
+  "generated_at": "2026-01-12T06:55:57Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -1556,27 +1556,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -1601,6 +1580,27 @@
       ],
       "tags": [
         "sensory"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
       ]
     },
     {
@@ -9233,46 +9233,6 @@
       ],
       "abstract": "Abstract The implementation of Augmentative and Alternative Communication (AAC) systems for individuals with nonverbal Autism Spectrum Disorder (nvASD) remains highly debated, especially in a multilingual and multicultural country like India. Existing AAC guidelines are largely Western-based and may not be fully applicable in the Indian context. This study explored the perspectives of Indian Speech-Language Pathologists (SLPs) on AAC implementation in individuals with nvASD. A cross-sectional study was conducted in two phases. Phase 1 involved developing and validating a questionnaire assessing SLP’s practices and attitudes towards AAC. In phase 2, the validated questionnaire was administered online to 93 Indian SLPs (29.23 years of mean age, 71% female) represented diverse clinical, educational, and academic settings. The survey explored key parameters, including AAC candidacy, cultural and linguistic adaptation, AAC selection and customization, interdisciplinary collaboration and caregiver involvement, outcome based evaluation practices, speech-AAC integration, and barriers to AAC implementation. Most SLPs emphasized working on communication prerequisites before introducing AAC.…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07039-9",
-      "title": "Exploring the Relationships Between Theory of Mind, Social Skills, and Friendship Quality in Adolescents and Adults With and Without Autism Spectrum Disorder Through Structural Equation Modeling",
-      "authors": [
-        "Jiaxi Li",
-        "Kathy Kar-man Shum"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-13",
-      "doi": "10.1007/s10803-025-07039-9",
-      "url": "https://doi.org/10.1007/s10803-025-07039-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract This study examined friendship quality and theory of mind (ToM) in individuals with autism spectrum disorder (ASD) compared to non-autistic peers, and the influence of ToM, social skills, and problem behaviors on friendships. Participants included adolescents/young adults with ASD ( N = 104; Male: 74, M age = 18.55 years) and without ASD ( N = 192; Male: 101, M age = 16.65 years). Data were collected using measures of ToM, autistic traits, social skills, problem behaviors, and friendship quality. Independent samples t -tests and Pearson correlations were used to characterize group differences and variable relationships. Multi-group structural equation modeling (SEM) was employed to examine the roles of social skills and problem behaviors in the relationship between ToM and friendship quality across groups. Individuals with ASD reported lower friendship quality, with less companionship, help, security, and closeness, experienced more conflicts in friendships than their non-autistic peers, and exhibited lower ToM performance. Multi-group SEM indicated significant positive effects of ToM on social skills in both groups, with a stronger effect observed in ASD. Additionally, th…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07000-w",
-      "title": "Psychometric Properties of the Social Responsiveness Scale 2nd Edition (SRS-2) and Development of a Short Version in a Spanish Sample",
-      "authors": [
-        "Fátima El-Bouhali-Abdellaoui",
-        "Núria Voltas",
-        "Paula Morales-Hidalgo",
-        "Andreu Vigil-Colet",
-        "Carmen Hernández-Martínez",
-        "Josefa Canals-Sans"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-13",
-      "doi": "10.1007/s10803-025-07000-w",
-      "url": "https://doi.org/10.1007/s10803-025-07000-w",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "abstract": "Abstract Earlier identification of autistic traits is crucial for timely interventions in children and adolescents. This study aims to evaluate the psychometric properties of the Social Responsiveness Scale 2nd Edition (SRS-2) -answered by parents- in a Spanish population and to develop a shortened form of the scale for autism screening. A total of 528 children and adolescents with autistic diagnosis, ADHD, and non-diagnosis participated in the study. Factorial analysis indicated a unidimensional structure with excellent reliability (Cronbach’s α = .96) and a KMO index of .95. A moderate sensitivity (69.4%) and high specificity (88.5%) were found for a score of ≥ 60. The 10 items with the highest factor loading have constituted a reliable SRS-2 short form ( α = .92), valid for identifying autism. This shortened version showed an area under the ROC curve of 86.3%, with high sensitivity (83.8%) and moderate specificity (75.3%) for a score of ≥ 5. This short form has shown to be an effective screening tool in the Spanish population, retaining psychometric properties comparable to the original scale. The findings conclude that both versions are reliable and valid, and we support the ut…"
     }
   ]
 }
