@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-01-12T06:55:57Z",
+  "generated_at": "2026-01-13T06:52:17Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-025-07198-9",
+      "title": "Preliminary Evidence for Associations Between Emotion Dysregulation and Therapy Participation in Young Autistic Children",
+      "authors": [
+        "August Saunders",
+        "Carla A. Mazefsky",
+        "Jessie Northrup"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-12",
+      "doi": "10.1007/s10803-025-07198-9",
+      "url": "https://doi.org/10.1007/s10803-025-07198-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
     {
       "id": "10.1108/aia-10-2025-0102",
       "title": "Invisible scaffolding: families as a hidden public health workforce in autism services in India",
@@ -21,6 +42,36 @@
         "Employment"
       ],
       "abstract": "Purpose The purpose of this paper is to examine how families, particularly mothers, function as a hidden workforce in autism care systems struggling to meet demand. This paper highlights the risks of treating caregivers as substitutes for professional staff and underscores the need to recognise their contributions within inclusive practice. Design/methodology/approach This reflective essay draws on practice insights and field experiences of families navigating autism care. This study interprets how unpaid caregiving becomes central to sustaining children’s progress when formal services are unavailable or inaccessible. Findings Caregivers sustain essential continuity of care but at significant personal cost. Mothers frequently reduce or leave employment, leading to financial strain, emotional burnout and social isolation. These burdens remain largely invisible to practitioners and policymakers, yet they directly affect the sustainability of inclusive systems. Practical implications For practitioners and policymakers, inclusive practice requires acknowledging caregiver labour, providing structured training and emotional support and defining limits to what unpaid caregiving can sustai…"
+    },
+    {
+      "id": "10.1002/aur.70176",
+      "title": "Why We Need to Study Assisted Methods to Teach Typing to Nonspeaking Autistic People",
+      "authors": [
+        "Vikram K. Jaswal",
+        "Barry M. Prizant",
+        "Morgan D. Barense",
+        "Kristie Patten",
+        "Gary Stobbe"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-01-12",
+      "doi": "10.1002/aur.70176",
+      "url": "https://doi.org/10.1002/aur.70176",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Sensory environment",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "ABSTRACT At least one third of autistic people have limited or no speech. Most nonspeaking autistic people are never provided alternatives that would enable the full range of expression that speech allows, significantly limiting their access to educational, social, and employment opportunities. In this commentary, we argue that assisted methods to teach nonspeaking autistic people to type—long dismissed because the assistant could influence the text they produce during training—warrant fresh study. Although these teaching methods developed in practice rather than research, the practice (including the range of support the assistant provides in the motor, sensory, and attentional domains) is aligned with contemporary research about nonspeaking autistic people's strengths and challenges. We suggest that past research showing that influence can occur during training has been over‐interpreted to mean that influence always occurs and that nonspeaking autistic people instructed using assisted methods never learn to type independently. In fact, other research shows that influence does not always occur, and there are independent typers who attribute their skill to the range of assistance th…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-025-07201-3",
@@ -1556,6 +1607,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -1580,27 +1652,6 @@
       ],
       "tags": [
         "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
       ]
     },
     {
@@ -3469,27 +3520,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -3512,6 +3542,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -7333,26 +7384,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -7374,6 +7405,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
