@@ -1,8 +1,207 @@
 {
-  "generated_at": "2026-01-13T06:52:17Z",
+  "generated_at": "2026-01-14T06:51:38Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10870547251394173",
+      "title": "Inattention and Hyperactivity Symptom Dimensions of ADHD Differentially Moderate the Relationship Between Concurrent Attention States and Affective Valence",
+      "authors": [
+        "Yudhajit Ain",
+        "Simrit Rai",
+        "Ann Galbraith",
+        "Jonas Buerkner",
+        "Jessica R. Andrews-Hanna",
+        "Brandy L. Callahan",
+        "Julia W. Y. Kam"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/10870547251394173",
+      "url": "https://doi.org/10.1177/10870547251394173",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Background: ADHD has been characterised by excessive mind wandering (MW), or thoughts unrelated to the task at hand, with recent findings indicating that ADHD is specifically associated with more unintentional, but not intentional, MW. These two types of MW are also differentially associated with affective well-being. Most existing studies in ADHD, however, mainly rely on retrospective reports of MW tendencies, which are susceptible to memory-related errors and biases. Further, most studies categorise participants based on overall levels of ADHD, instead of accounting for the spectrum and dimensional heterogeneity of ADHD, including inattention and hyperactivity symptom dimensions. Our study aimed to address the knowledge gap regarding the relationship between different types of MW and affective well-being, across different symptom dimensions of ADHD. Methods: We used ecological momentary assessment to capture participants’ momentary attention state (on-task, intentional MW, or unintentional MW) and affective valence, six times daily for 7 days. Using linear mixed-effects modelling to account for inter-individual variance, we tested whether inattention and hyperactivity symptom dim…"
+    },
+    {
+      "id": "10.1177/10870547251389337",
+      "title": "ADHD Knowledge as a Barrier to Problem Recognition in Asian American and Native Hawaiian/Pacific Islander Versus White College Students",
+      "authors": [
+        "Patrick K. Goh",
+        "Sara Chung",
+        "Nandini Jhawar",
+        "Ashlyn W. W. A. Wong",
+        "Grace S. Mellor",
+        "Meeta Banerjee",
+        "Cynthia M. Hartung"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/10870547251389337",
+      "url": "https://doi.org/10.1177/10870547251389337",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Objective: The Asian American and Native Hawaiian/Pacific Islander (AA &amp; NH/PI) population represents one of the fastest-growing racial /ethnic groups in the United States, yet members of this community are among the least likely to receive services for ADHD. Studies seeking to explain discrepancies between the need for and use of ADHD services in AA &amp; NH/PI populations have highlighted decreased problem recognition as precluding access to services. We sought to investigate the roles of three previously proposed factors (i.e., perceived impairment, ADHD knowledge, and ADHD stigma) in explaining differences in ADHD problem recognition in AA &amp; NH/PI versus White, Black, Hispanic/Latinx, and Multiracial/Multiethnic college students. Method: Participants were 1,451 college students aged 18 to 29 years ( M = 19.3, SD = 1.64) who met self-reported symptom and impairment criteria for ADHD. They completed questionnaires assessing ADHD problem recognition, perceived impairment, ADHD knowledge, and ADHD stigma. Results: Compared to the White Group, the AA &amp; NH/PI Group had significantly lower probability of endorsing the belief that they should be diagnosed with ADHD. The AA…"
+    },
+    {
+      "id": "10.1177/10870547251382679",
+      "title": "It Takes Two: Intimate Partner Violence According to Both Partners in Young Adult ADHD Couples",
+      "authors": [
+        "Brian T. Wymbs",
+        "Christie T. Pickel",
+        "Steven W. Evans",
+        "Peggy M. Zoccola",
+        "Ryan C. Shorey",
+        "Levi M. Toback"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/10870547251382679",
+      "url": "https://doi.org/10.1177/10870547251382679",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) has been shown to increase the risk of young adults perpetrating and being victims of intimate partner violence (IPV). However, research has yet to examine the IPV experiences of both dyad members where one or both partners has ADHD, and how those experiences differ from couples including partners without ADHD. Methods: 41 “ADHD couples” ( m age = 22.7 years), where one ( n = 33) or both ( n = 8) dyad members had ADHD, and 28 “Non-ADHD couples” ( m age = 23.4 years), where both dyad members did not have ADHD, participated. Both partners reported on the frequency they perpetrated and were victims of psychological and physical IPV. Results: Both partners in ADHD couples reported perpetrating more psychological and physical IPV than dyad members in Non-ADHD couples. Partners in ADHD couples also reported being victims of IPV more than partners in Non-ADHD couples. Conclusions: The risk of IPV perpetration in young adult couples with ADHD appears to be a two-way street. Research is needed to examine possible explanations for this pattern of reciprocal IPV, including mutual ADHD symptoms and related behavior (e.g., alcohol intox…"
+    },
+    {
+      "id": "10.1177/10870547251370427",
+      "title": "Adverse Childhood Experiences and ADHD in College Students: Exploring the Role of Emotion Regulation and Self-Compassion",
+      "authors": [
+        "Fikriye Eda Karaçul",
+        "Gökmen Arslan"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/10870547251370427",
+      "url": "https://doi.org/10.1177/10870547251370427",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Mental health"
+      ],
+      "abstract": "Background: Adverse childhood experiences (ACEs) are known to have several negative effects on mental health and well-being. However, few studies have examined the role of these events in the development of ADHD and the protective factors that could guide prevention and intervention strategies in college students. The aim of current study is to examine the potential role of self-compassion and emotion regulation in the relationship between ACEs and ADHD symptoms in college students. Method: The sample of the study consisted of 442 young adults (67.4% female; 32.6% male) aged between 18 and 29 years ( M = 20.43, SD = 1.74) from a public university in Türkiye. Participants completed validated measures that were combined in a single battery with a web-based tool. Results: We found that ACEs were associated with lower levels of self-compassion (Cohen’s d = 0.43) and emotion regulation (Cohen’s d = 0.29), along with higher levels of attention deficit (Cohen’s d = 0.47) and hyperactivity-impulsivity (Cohen’s d = 0.46) symptoms. Further results indicated that ACEs were a significant positive predictor of attention deficit and hyperactivity-impulsivity symptoms and a negative predictor of…"
+    },
+    {
+      "id": "10.1177/10870547251376065",
+      "title": "Sleep Variability and Negative Alcohol-Related Consequences in College Students: Dynamic Associations With ADHD",
+      "authors": [
+        "Nicholas P. Marsh",
+        "Lauren E. Oddo",
+        "Kelsey K. Wiggs",
+        "James G. Murphy",
+        "Andrea Chronis-Tuscano"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/10870547251376065",
+      "url": "https://doi.org/10.1177/10870547251376065",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Background: College students often engage in heavy alcohol use and experience poor sleep. These risks are exacerbated among students with ADHD, who are especially vulnerable to both poor sleep and alcohol-related negative consequences. Although prior research has often focused on average sleep patterns, the impact of variability in sleep (i.e., bedtime, duration, and waketime) remains understudied. This variability may be particularly important for individuals with ADHD, given the self-regulation challenges that underline both sleep and alcohol use. Therefore, we examined ADHD-related differences in sleep variability and tested whether sleep variability predicts alcohol-related negative consequences. Methods: Utilizing 2-week daily diaries in a sample engaging in heavy drinking ( N = 101; ADHD = 51, without ADHD = 50), Dynamic Structural Equation Models (DSEM) were applied to examine ADHD group differences in sleep variability and sleep averages (bedtime, waketime, and duration) and alcohol-related negative consequences, and test if sleep variability predicted negative consequences. Results: ADHD group status was significantly associated with later average waketimes, but not in ave…"
+    },
+    {
+      "id": "10.1177/10870547251369679",
+      "title": "ADHD Symptoms, Resilience, and Quality of Life in Emerging Adults: The Roles of Diagnostic Status and Current Symptomatology",
+      "authors": [
+        "Allison K.R. Macht",
+        "Laura J. Holt"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/10870547251369679",
+      "url": "https://doi.org/10.1177/10870547251369679",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "Background: Research on college students with ADHD largely has focused on impairments associated with this condition, as opposed to how resilience might buffer ADHD-related challenges. The present study examined potential differences in quality of life (QoL), resilience, and sociodemographic characteristics by students’ ADHD diagnostic/symptom status and whether diagnostic/symptom group differences in QoL were more/less pronounced at different levels of resilience. Method: Using data from an online survey distributed at six US colleges/universities, participants ( N = 4,897; 74% female; 60% White) reported on current ADHD symptomatology and diagnostic status; personal, social, and familial resilience; and physical, psychological, social, environmental, and global QoL. Results: Compared to students who were undiagnosed and asymptomatic or diagnosed and asymptomatic , participants who were symptomatic (diagnosed and undiagnosed) evidenced lower resilience and QoL across all domains. There were significant interactions between ADHD group and resilience for global QoL and environmental QoL. Global QoL among undiagnosed and symptomatic participants was consistently lower than the refere…"
+    },
+    {
+      "id": "10.1177/13623613251401049",
+      "title": "Emotion regulation in families of autistic children and adolescents: A longitudinal study",
+      "authors": [
+        "Yuting Tan",
+        "Kevin Ka Shing Chan"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-01-13",
+      "doi": "10.1177/13623613251401049",
+      "url": "https://doi.org/10.1177/13623613251401049",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "This study investigated whether parental emotion-regulation difficulties are prospectively associated with increased emotion-regulation challenges in autistic children and adolescents and explored the underlying mechanisms and behavioral implications of these potential intergenerational associations. Over three time points (T1, T2, T3) spanning 2 years, 363 parents of autistic children and adolescents from Hong Kong provided questionnaire data. Path analyses revealed that parental emotion-regulation difficulties at T1 were associated with greater negative emotional expressiveness at T2, which in turn was linked to increased emotion-regulation difficulties and more internalizing and externalizing problems in autistic children and adolescents at T3. Importantly, these findings indicate that when parents have difficulty regulating their emotions and express negativity, their autistic children and adolescents are more likely to face emotion-regulation challenges and exhibit behavior problems. This underscores the need to support parents in regulating their emotions and optimizing their emotional expressiveness. Clinicians and policymakers should help parents strengthen their emotion re…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251414545",
+      "title": "Interoception in Autism, Pitfalls, and Promise: A Participatory Research Perspective",
+      "authors": [
+        "Eleanor R. Palser",
+        "Wenn B. Lawson",
+        "Emma Goodall",
+        "Elizabeth Pellicano"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-01-13",
+      "doi": "10.1177/25739581251414545",
+      "url": "https://doi.org/10.1177/25739581251414545",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "tags": [
+        "participatory"
+      ],
+      "abstract": "Bodily autonomy is essential to Autistic well-being. Interoception supports bodily autonomy through guiding behavior in support of homeostasis. Promoting adaptive interoceptive skills is therefore crucial to improving Autistic well-being. To date, research on interoception in Autistic people has been poorly informed by the experiences and goals of Autistic people, has had a narrow focus on comparison with non-autistic norms in search of deficits, and has had limited impact on Autistic quality of life. In this perspective piece, a team of Autistic and non-autistic researchers review findings to date and make recommendations for future research directions. We argue that participatory research is needed to comprehensively map the varied interoceptive landscape of Autistic people, ensure that new interoceptive measures are autism-relevant, and guide interventions designed to improve the interoceptive and broader well-being of Autistic people. We believe that if interoception research is conducted in partnership with the autism community, the understanding of interoceptive processing and the full range of interpretive differences that result will be impactful and informative.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251414516",
+      "title": "Systematic COSMIN Review of Neurodiversity Attitudes and Knowledge Measures",
+      "authors": [
+        "Kristen Bottema-Beutel",
+        "Ruoxi Guo",
+        "Jessica Hinson-Williams",
+        "Yueyang Shen",
+        "Caroline Braun"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-01-13",
+      "doi": "10.1177/25739581251414516",
+      "url": "https://doi.org/10.1177/25739581251414516",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Background: Many researchers seek to measure people’s knowledge of and attitudes toward neurodiversity concepts and advocacy. In this systematic literature review, we characterize measures of neurodiversity knowledge and attitudes and summarize studies that have used such measures. Methods: This study was funded by a Boston College Ignite grant aandwas preregistered on Prospero, ID# CRD420251013298. We searched ERIC, Education Source, PsycINFO, Scopus, Web of Science, and Sociological Abstracts databases on March 11, 2025. We hand searched the journal Neurodiversity on June 11, 2025. Inclusion criteria were that studies were peer-reviewed, published in English, and included a neurodiversity knowledge or attitudes measure. For formal validation studies, we follow the COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN) guidelines for describing and evaluating measurement properties and study quality. Procedures include the COSMIN Risk of Bias checklist, the COSMIN Good Measurement Properties to rate study results, and the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system for synthesis and presentation. For studies in…"
+    },
     {
       "id": "10.1007/s10803-025-07198-9",
       "title": "Preliminary Evidence for Associations Between Emotion Dysregulation and Therapy Participation in Young Autistic Children",
@@ -2591,28 +2790,6 @@
       "abstract": "Objective: Previous studies have found that ADHD symptoms often co-occur with aggressive behavior in adolescents, and that reactive aggression is more closely related to ADHD symptoms than proactive aggression. However, the specific co-occurrence patterns of ADHD symptoms and different functions of aggression remain unclear, as does their relationship with parenting practices. This study used a person-centered approach to examine the co-occurrence patterns of ADHD symptoms, reactive aggression, and proactive aggression and their associations with parenting practices. Method: A total of 1,152 mother-adolescent dyads participated in this study (adolescents: M age = 14.29; 48.0% girls). Latent profile analysis was conducted to identify adolescent profiles of ADHD, reactive, and proactive aggression, followed by multinomial logistic regression to examine relationships between these profiles and auxiliary variables. Results: Latent profile analysis identified three patterns of adolescent- and mother-reported ADHD symptoms, reactive aggression, and proactive aggression: low symptom (84.4%), reactive co-occurrence (10.0%), and complete co-occurrence (5.6%). Multinomial logistic regression…"
     },
     {
-      "id": "10.1177/10870547251394173",
-      "title": "Inattention and Hyperactivity Symptom Dimensions of ADHD Differentially Moderate the Relationship Between Concurrent Attention States and Affective Valence",
-      "authors": [
-        "Yudhajit Ain",
-        "Simrit Rai",
-        "Ann Galbraith",
-        "Jonas Buerkner",
-        "Jessica R. Andrews-Hanna",
-        "Brandy L. Callahan",
-        "Julia W. Y. Kam"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-16",
-      "doi": "10.1177/10870547251394173",
-      "url": "https://doi.org/10.1177/10870547251394173",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Background: ADHD has been characterised by excessive mind wandering (MW), or thoughts unrelated to the task at hand, with recent findings indicating that ADHD is specifically associated with more unintentional, but not intentional, MW. These two types of MW are also differentially associated with affective well-being. Most existing studies in ADHD, however, mainly rely on retrospective reports of MW tendencies, which are susceptible to memory-related errors and biases. Further, most studies categorise participants based on overall levels of ADHD, instead of accounting for the spectrum and dimensional heterogeneity of ADHD, including inattention and hyperactivity symptom dimensions. Our study aimed to address the knowledge gap regarding the relationship between different types of MW and affective well-being, across different symptom dimensions of ADHD. Methods: We used ecological momentary assessment to capture participants’ momentary attention state (on-task, intentional MW, or unintentional MW) and affective valence, six times daily for 7 days. Using linear mixed-effects modelling to account for inter-individual variance, we tested whether inattention and hyperactivity symptom dim…"
-    },
-    {
       "id": "10.1007/s10803-025-07179-y",
       "title": "Navigating Through the Path of Struggle and Building Resilience of Adversity: Lived Experiences of Mothers Having Children With Autism in the West Bank, Palestine",
       "authors": [
@@ -3520,6 +3697,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -3542,27 +3740,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -4374,34 +4551,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10870547251389337",
-      "title": "ADHD Knowledge as a Barrier to Problem Recognition in Asian American and Native Hawaiian/Pacific Islander Versus White College Students",
-      "authors": [
-        "Patrick K. Goh",
-        "Sara Chung",
-        "Nandini Jhawar",
-        "Ashlyn W. W. A. Wong",
-        "Grace S. Mellor",
-        "Meeta Banerjee",
-        "Cynthia M. Hartung"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-28",
-      "doi": "10.1177/10870547251389337",
-      "url": "https://doi.org/10.1177/10870547251389337",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: The Asian American and Native Hawaiian/Pacific Islander (AA &amp; NH/PI) population represents one of the fastest-growing racial /ethnic groups in the United States, yet members of this community are among the least likely to receive services for ADHD. Studies seeking to explain discrepancies between the need for and use of ADHD services in AA &amp; NH/PI populations have highlighted decreased problem recognition as precluding access to services. We sought to investigate the roles of three previously proposed factors (i.e., perceived impairment, ADHD knowledge, and ADHD stigma) in explaining differences in ADHD problem recognition in AA &amp; NH/PI versus White, Black, Hispanic/Latinx, and Multiracial/Multiethnic college students. Method: Participants were 1,451 college students aged 18 to 29 years ( M = 19.3, SD = 1.64) who met self-reported symptom and impairment criteria for ADHD. They completed questionnaires assessing ADHD problem recognition, perceived impairment, ADHD knowledge, and ADHD stigma. Results: Compared to the White Group, the AA &amp; NH/PI Group had significantly lower probability of endorsing the belief that they should be diagnosed with ADHD. The AA…"
     },
     {
       "id": "10.1007/s10803-025-07145-8",
@@ -6196,73 +6345,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613251367244",
-      "title": "‘It feels like a blessing’ – The experience of Hebrew-English bilingualism among autistic children: An interpretative phenomenological analysis",
-      "authors": [
-        "David Ariel Sher",
-        "Nicole Wendy Sher",
-        "Jenny L Gibson",
-        "Hannah Ella Sher"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1177/13623613251367244",
-      "url": "https://doi.org/10.1177/13623613251367244",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Over half the world’s population are bilingual. Despite this, practitioners often advise parents of autistic children to teach their child one dominant national language and limit their child’s exposure to community languages. Limited research with autistic children’s carers has shown that this monolingual approach impoverishes children’s experiences in communal, familial, religious, and social contexts. There is very little research on this topic from the first-person perspectives of autistic children themselves. There is no research exploring the perspectives of Hebrew-English bilingual autistic children. This study aimed to explore the perspectives and experiences of autistic children on Hebrew-English bilingualism. In accord with the interpretative phenomenological analysis (IPA) methodological framework, semi-structured interviews were conducted to explore the experiences of 13 Hebrew-English bilingual autistic children. The IPA clustering process resulted in two overarching group experiential themes (GETs). The first GET was ‘Bilingualism aids religious, educational, and social integration and connection’. The second GET was ‘Preference of bilingualism and dislike of monoling…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251370789",
-      "title": "‘I did not think they could help me’: Autistic adults’ reasons for not seeking public healthcare when they last experienced suicidality",
-      "authors": [
-        "Tanya L Procyshyn",
-        "Rachel L Moseley",
-        "Sarah J Marsden",
-        "Carrie Allison",
-        "Tracey Parsons",
-        "Sarah Cassidy",
-        "Mirabel Pelton",
-        "Elizabeth Weir",
-        "Tanatswa Chikaura",
-        "Holly Hodges",
-        "David Mosse",
-        "Ian Hall",
-        "Lewis Owens",
-        "Jon Cheyette",
-        "David Crichton",
-        "Jacqui Rodgers",
-        "Simon Baron-Cohen"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1177/13623613251370789",
-      "url": "https://doi.org/10.1177/13623613251370789",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "With autistic people at increased risk of dying by suicide, understanding barriers to help-seeking is crucial for suicide prevention efforts. Using an online survey designed in consultation with autistic people, we examined reasons why autistic adults living in the United Kingdom did not seek help from the National Health Service (NHS) when they last experienced suicidal thoughts or behaviours. Participants who disaffirmed help-seeking from the NHS (n = 754) were able to select from a prepopulated list of 20 reasons why and to enter their own. The three most commonly endorsed reasons were ‘I tried to cope and manage my feelings by myself’, ‘I did not think they could help me’ and ‘The waiting list is too long – no point’. Endorsement of reasons differed significantly with gender identity, age group and degree of lifetime suicidality. Four themes emerged from analysis of free-form responses: NHS is ineffective , NHS as antagonistic, Fear and consequences and Barriers to access . These findings highlight the need to foster more flexible healthcare systems capable of supporting autistic people, and that autistic people view as trustworthy and effective, to enable help-seeking behaviou…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70126",
       "title": "Maximizing the Quality and Reporting Standards of Autism Intervention Science",
       "authors": [
@@ -7307,27 +7389,6 @@
       ],
       "abstract": "Purpose Quality of life (QoL) is a crucial aspect of well-being, particularly for individuals with autism spectrum disorder (ASD), who face unique challenges in social participation and daily functioning. This study aims to translate, culturally adapt and validate the Persian version of Flanagan’s Quality of Life Scale (QOLS) for Iranian individuals with ASD, ensuring a reliable and culturally appropriate measure for assessing their well-being. Design/methodology/approach A standard forward-backward translation process was used to adapt the QOLS into Persian. The study recruited 200 Iranian individuals with ASD and their caregivers from clinical and rehabilitation centers in Tehran. Internal consistency was measured using Cronbach’s alpha, test-retest reliability was assessed via the intraclass correlation coefficient (ICC) and construct validity was examined through confirmatory factor analysis (CFA). Convergent validity was tested against the World Health Organization Quality of Life-BREF (WHOQOL-BREF), and discriminant validity was analyzed by comparing QoL scores across different ASD severity levels. Findings The Persian QOLS demonstrated excellent internal consistency (a = 0.9…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/10870547251382679",
-      "title": "It Takes Two: Intimate Partner Violence According to Both Partners in Young Adult ADHD Couples",
-      "authors": [
-        "Brian T. Wymbs",
-        "Christie T. Pickel",
-        "Steven W. Evans",
-        "Peggy M. Zoccola",
-        "Ryan C. Shorey",
-        "Levi M. Toback"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-10-16",
-      "doi": "10.1177/10870547251382679",
-      "url": "https://doi.org/10.1177/10870547251382679",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) has been shown to increase the risk of young adults perpetrating and being victims of intimate partner violence (IPV). However, research has yet to examine the IPV experiences of both dyad members where one or both partners has ADHD, and how those experiences differ from couples including partners without ADHD. Methods: 41 “ADHD couples” ( m age = 22.7 years), where one ( n = 33) or both ( n = 8) dyad members had ADHD, and 28 “Non-ADHD couples” ( m age = 23.4 years), where both dyad members did not have ADHD, participated. Both partners reported on the frequency they perpetrated and were victims of psychological and physical IPV. Results: Both partners in ADHD couples reported perpetrating more psychological and physical IPV than dyad members in Non-ADHD couples. Partners in ADHD couples also reported being victims of IPV more than partners in Non-ADHD couples. Conclusions: The risk of IPV perpetration in young adult couples with ADHD appears to be a two-way street. Research is needed to examine possible explanations for this pattern of reciprocal IPV, including mutual ADHD symptoms and related behavior (e.g., alcohol intox…"
     },
     {
       "id": "10.1186/s13229-025-00683-z",
@@ -8736,27 +8797,6 @@
       "abstract": "Abstract This systematic literature review examines sexuality education programs developed for individuals with intellectual and developmental disability and how they align with national sexuality education standards. Thirty-nine studies were analyzed to determine who received instruction, what topics were covered, and how programs were delivered. Findings revealed an emphasis on healthy relationships and consent, but infrequent coverage of contraception, sexual diversity, and decision-making. Instructional content varied widely and often lacked alignment with national sex education standards. Many studies omitted implementation details critical for replication. Implications for practice include the need to evaluate existing programs using national frameworks and to foster collaboration between educators and healthcare professionals to support accessible, inclusive sexuality education."
     },
     {
-      "id": "10.1177/10870547251370427",
-      "title": "Adverse Childhood Experiences and ADHD in College Students: Exploring the Role of Emotion Regulation and Self-Compassion",
-      "authors": [
-        "Fikriye Eda Karaçul",
-        "Gökmen Arslan"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-09-25",
-      "doi": "10.1177/10870547251370427",
-      "url": "https://doi.org/10.1177/10870547251370427",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Mental health"
-      ],
-      "abstract": "Background: Adverse childhood experiences (ACEs) are known to have several negative effects on mental health and well-being. However, few studies have examined the role of these events in the development of ADHD and the protective factors that could guide prevention and intervention strategies in college students. The aim of current study is to examine the potential role of self-compassion and emotion regulation in the relationship between ACEs and ADHD symptoms in college students. Method: The sample of the study consisted of 442 young adults (67.4% female; 32.6% male) aged between 18 and 29 years ( M = 20.43, SD = 1.74) from a public university in Türkiye. Participants completed validated measures that were combined in a single battery with a web-based tool. Results: We found that ACEs were associated with lower levels of self-compassion (Cohen’s d = 0.43) and emotion regulation (Cohen’s d = 0.29), along with higher levels of attention deficit (Cohen’s d = 0.47) and hyperactivity-impulsivity (Cohen’s d = 0.46) symptoms. Further results indicated that ACEs were a significant positive predictor of attention deficit and hyperactivity-impulsivity symptoms and a negative predictor of…"
-    },
-    {
       "id": "10.1007/s10803-025-07052-y",
       "title": "Moderate-to-Vigorous Physical Activity and Psychological Ill-Being in Adolescents With ADHD: The Mediating Effects of Physical Self-concept",
       "authors": [
@@ -9044,46 +9084,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/10870547251376065",
-      "title": "Sleep Variability and Negative Alcohol-Related Consequences in College Students: Dynamic Associations With ADHD",
-      "authors": [
-        "Nicholas P. Marsh",
-        "Lauren E. Oddo",
-        "Kelsey K. Wiggs",
-        "James G. Murphy",
-        "Andrea Chronis-Tuscano"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-09-17",
-      "doi": "10.1177/10870547251376065",
-      "url": "https://doi.org/10.1177/10870547251376065",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Background: College students often engage in heavy alcohol use and experience poor sleep. These risks are exacerbated among students with ADHD, who are especially vulnerable to both poor sleep and alcohol-related negative consequences. Although prior research has often focused on average sleep patterns, the impact of variability in sleep (i.e., bedtime, duration, and waketime) remains understudied. This variability may be particularly important for individuals with ADHD, given the self-regulation challenges that underline both sleep and alcohol use. Therefore, we examined ADHD-related differences in sleep variability and tested whether sleep variability predicts alcohol-related negative consequences. Methods: Utilizing 2-week daily diaries in a sample engaging in heavy drinking ( N = 101; ADHD = 51, without ADHD = 50), Dynamic Structural Equation Models (DSEM) were applied to examine ADHD group differences in sleep variability and sleep averages (bedtime, waketime, and duration) and alcohol-related negative consequences, and test if sleep variability predicted negative consequences. Results: ADHD group status was significantly associated with later average waketimes, but not in ave…"
-    },
-    {
-      "id": "10.1177/10870547251369679",
-      "title": "ADHD Symptoms, Resilience, and Quality of Life in Emerging Adults: The Roles of Diagnostic Status and Current Symptomatology",
-      "authors": [
-        "Allison K.R. Macht",
-        "Laura J. Holt"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-09-17",
-      "doi": "10.1177/10870547251369679",
-      "url": "https://doi.org/10.1177/10870547251369679",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Background: Research on college students with ADHD largely has focused on impairments associated with this condition, as opposed to how resilience might buffer ADHD-related challenges. The present study examined potential differences in quality of life (QoL), resilience, and sociodemographic characteristics by students’ ADHD diagnostic/symptom status and whether diagnostic/symptom group differences in QoL were more/less pronounced at different levels of resilience. Method: Using data from an online survey distributed at six US colleges/universities, participants ( N = 4,897; 74% female; 60% White) reported on current ADHD symptomatology and diagnostic status; personal, social, and familial resilience; and physical, psychological, social, environmental, and global QoL. Results: Compared to students who were undiagnosed and asymptomatic or diagnosed and asymptomatic , participants who were symptomatic (diagnosed and undiagnosed) evidenced lower resilience and QoL across all domains. There were significant interactions between ADHD group and resilience for global QoL and environmental QoL. Global QoL among undiagnosed and symptomatic participants was consistently lower than the refere…"
-    },
-    {
       "id": "10.1007/s10803-025-07016-2",
       "title": "Caregiver Perspectives on the Use of Tele-Assessment for Toddlers with Developmental Concerns",
       "authors": [
@@ -9185,105 +9185,6 @@
         "Mental health"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07027-z",
-      "title": "Exploring the Relationship Between Family Experiences and Behavioral Inflexibility in Young Autistic Children",
-      "authors": [
-        "Laura de la Roche",
-        "Yun-Ju Chen",
-        "Caroline Roncadin",
-        "Amedeo D’Angiulli",
-        "Vivian Lee",
-        "Mackenzie Salt",
-        "Elisabetta Trinari",
-        "Melissa Carter",
-        "Judah Koller",
-        "Sherry Fournier",
-        "Lonnie Zwaigenbaum",
-        "Patrick McPhee",
-        "Stephen Gentles",
-        "Irene Drmic",
-        "Briano DiRezze",
-        "Peter Rosenbaum",
-        "Ronit Mesterman",
-        "Julia Frei",
-        "Mohammad Zubairi",
-        "Katholiki Georgiades",
-        "Erik Duku",
-        "Teresa Bennett",
-        "Ana Hanlon-Dearman",
-        "Jonathan Lai",
-        "Deepa Singal",
-        "Stelios Georgiades",
-        "Elizabeth Kelley"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-15",
-      "doi": "10.1007/s10803-025-07027-z",
-      "url": "https://doi.org/10.1007/s10803-025-07027-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07035-z",
-      "title": "Social Communication, Repetitive Behaviors and Interests, and Adaptive Behavior in Girls With Autism Spectrum Disorder Without Intellectual Disability",
-      "authors": [
-        "Jenny M. Burton",
-        "Nancy A. Creaghead",
-        "Amie Duncan",
-        "Noah Silbert",
-        "Allison D. Breit",
-        "Sandra M. Grether"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-15",
-      "doi": "10.1007/s10803-025-07035-z",
-      "url": "https://doi.org/10.1007/s10803-025-07035-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Social communication, repetitive behaviors and interests, and adaptive behavior in girls with autism spectrum disorder (ASD) without intellectual disability were compared to a group of typically developing (TD) girls. Thirty seven girls 7;5—15;2 were included: 18 ASD and 19 TD. Groups were matched on age and IQ. Social Communication Questionnaire (SCQ), Autism Diagnostic Observation Schedule (ADOS-2), and Vineland Adaptive Behavior Scales (VABS-2) were administered. Item level scores within the subdomains of reciprocal social interaction, communication, and repetitive behaviors and interests were examined on the SCQ and ADOS-2. With unadjusted p , significant differences between groups were observed on 21 of 36 items on the SCQ. With adjusted p , significant differences between groups were observed on 17 of the 36 total items. With unadjusted p , significant differences between groups were observed on 20 of 32 total items on the ADOS-2. With adjusted p , significant differences between groups were observed on 16 of the 32 total items. Within the ASD group significant negative correlation was observed between ADOS-2 repetitive behaviors and interests and SCQ communication.…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-06990-x",
-      "title": "Perspectives of Indian Speech-Language Pathologists on Implementing Augmentative and Alternative Communication Systems for Individuals with Nonverbal Autism Spectrum Disorder",
-      "authors": [
-        "Bhavya Maingi",
-        "Preetie Shetty Akkunje",
-        "Sudhin Karuppali"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-15",
-      "doi": "10.1007/s10803-025-06990-x",
-      "url": "https://doi.org/10.1007/s10803-025-06990-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "service improvement"
-      ],
-      "abstract": "Abstract The implementation of Augmentative and Alternative Communication (AAC) systems for individuals with nonverbal Autism Spectrum Disorder (nvASD) remains highly debated, especially in a multilingual and multicultural country like India. Existing AAC guidelines are largely Western-based and may not be fully applicable in the Indian context. This study explored the perspectives of Indian Speech-Language Pathologists (SLPs) on AAC implementation in individuals with nvASD. A cross-sectional study was conducted in two phases. Phase 1 involved developing and validating a questionnaire assessing SLP’s practices and attitudes towards AAC. In phase 2, the validated questionnaire was administered online to 93 Indian SLPs (29.23 years of mean age, 71% female) represented diverse clinical, educational, and academic settings. The survey explored key parameters, including AAC candidacy, cultural and linguistic adaptation, AAC selection and customization, interdisciplinary collaboration and caregiver involvement, outcome based evaluation practices, speech-AAC integration, and barriers to AAC implementation. Most SLPs emphasized working on communication prerequisites before introducing AAC.…",
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
