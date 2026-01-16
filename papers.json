@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T06:54:01Z",
+  "generated_at": "2026-01-16T06:53:45Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -94,46 +94,6 @@
         "Mental health"
       ],
       "abstract": "Background: Adverse childhood experiences (ACEs) are known to have several negative effects on mental health and well-being. However, few studies have examined the role of these events in the development of ADHD and the protective factors that could guide prevention and intervention strategies in college students. The aim of current study is to examine the potential role of self-compassion and emotion regulation in the relationship between ACEs and ADHD symptoms in college students. Method: The sample of the study consisted of 442 young adults (67.4% female; 32.6% male) aged between 18 and 29 years ( M = 20.43, SD = 1.74) from a public university in Türkiye. Participants completed validated measures that were combined in a single battery with a web-based tool. Results: We found that ACEs were associated with lower levels of self-compassion (Cohen’s d = 0.43) and emotion regulation (Cohen’s d = 0.29), along with higher levels of attention deficit (Cohen’s d = 0.47) and hyperactivity-impulsivity (Cohen’s d = 0.46) symptoms. Further results indicated that ACEs were a significant positive predictor of attention deficit and hyperactivity-impulsivity symptoms and a negative predictor of…"
-    },
-    {
-      "id": "10.1177/10870547251376065",
-      "title": "Sleep Variability and Negative Alcohol-Related Consequences in College Students: Dynamic Associations With ADHD",
-      "authors": [
-        "Nicholas P. Marsh",
-        "Lauren E. Oddo",
-        "Kelsey K. Wiggs",
-        "James G. Murphy",
-        "Andrea Chronis-Tuscano"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/10870547251376065",
-      "url": "https://doi.org/10.1177/10870547251376065",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Background: College students often engage in heavy alcohol use and experience poor sleep. These risks are exacerbated among students with ADHD, who are especially vulnerable to both poor sleep and alcohol-related negative consequences. Although prior research has often focused on average sleep patterns, the impact of variability in sleep (i.e., bedtime, duration, and waketime) remains understudied. This variability may be particularly important for individuals with ADHD, given the self-regulation challenges that underline both sleep and alcohol use. Therefore, we examined ADHD-related differences in sleep variability and tested whether sleep variability predicts alcohol-related negative consequences. Methods: Utilizing 2-week daily diaries in a sample engaging in heavy drinking ( N = 101; ADHD = 51, without ADHD = 50), Dynamic Structural Equation Models (DSEM) were applied to examine ADHD group differences in sleep variability and sleep averages (bedtime, waketime, and duration) and alcohol-related negative consequences, and test if sleep variability predicted negative consequences. Results: ADHD group status was significantly associated with later average waketimes, but not in ave…"
-    },
-    {
-      "id": "10.1177/10870547251369679",
-      "title": "ADHD Symptoms, Resilience, and Quality of Life in Emerging Adults: The Roles of Diagnostic Status and Current Symptomatology",
-      "authors": [
-        "Allison K.R. Macht",
-        "Laura J. Holt"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/10870547251369679",
-      "url": "https://doi.org/10.1177/10870547251369679",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Background: Research on college students with ADHD largely has focused on impairments associated with this condition, as opposed to how resilience might buffer ADHD-related challenges. The present study examined potential differences in quality of life (QoL), resilience, and sociodemographic characteristics by students’ ADHD diagnostic/symptom status and whether diagnostic/symptom group differences in QoL were more/less pronounced at different levels of resilience. Method: Using data from an online survey distributed at six US colleges/universities, participants ( N = 4,897; 74% female; 60% White) reported on current ADHD symptomatology and diagnostic status; personal, social, and familial resilience; and physical, psychological, social, environmental, and global QoL. Results: Compared to students who were undiagnosed and asymptomatic or diagnosed and asymptomatic , participants who were symptomatic (diagnosed and undiagnosed) evidenced lower resilience and QoL across all domains. There were significant interactions between ADHD group and resilience for global QoL and environmental QoL. Global QoL among undiagnosed and symptomatic participants was consistently lower than the refere…"
     },
     {
       "id": "10.1007/s10803-025-07199-8",
@@ -1869,6 +1829,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -1893,27 +1874,6 @@
       ],
       "tags": [
         "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
       ]
     },
     {
@@ -6378,36 +6338,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613251372276",
-      "title": "Application of psychological behavioural therapies in improving oral health for children and adolescents with autism spectrum disorder: A systematic review and meta-analysis",
-      "authors": [
-        "Phoebe PY Lam",
-        "Elise Hoi Wan Fok",
-        "Megan Yuen Tung Chan",
-        "Colman Patrick McGrath",
-        "Cynthia Kar Yung Yiu"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1177/13623613251372276",
-      "url": "https://doi.org/10.1177/13623613251372276",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Service design"
-      ],
-      "tags": [
-        "communication",
-        "lived experience",
-        "service improvement"
-      ],
-      "abstract": "This systematic review aimed to summarize the current evidence on the effectiveness of various psychological behavioural therapies in improving oral hygiene maintenance habits and oral health among children with autism. Independent screening and study selection, data extraction, risk of bias assessment, and evaluation of the certainty of evidence were conducted. A total of 16 studies were deemed eligible for qualitative synthesis, with 9 included in quantitative analyses. Psychological behavioural therapies including visual pedagogies, social stories, components of PECS (Picture Exchange Communication System) and Applied Behavioural Analysis, as well as the use of smart device applications all demonstrated improvement in oral health parameters following implementation. However, most studies lacked control groups and exhibited a high risk of bias due to the lack of reporting or failure to account for autism spectrum disorder (ASD) severity and associated comorbidities. In addition, studies typically relied on caregivers to carry out reinforcement of therapies, which may explain the significant heterogeneity observed. In summary, the evidence supporting the use of psychoeducational t…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1002/aur.70126",
       "title": "Maximizing the Quality and Reporting Standards of Autism Intervention Science",
       "authors": [
@@ -7508,26 +7438,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -7549,6 +7459,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -7706,36 +7636,6 @@
         "Healthcare"
       ],
       "abstract": "Purpose A significant number of children with neurodisability present with traits and behaviours associated with autism. However, autism assessment tools have largely been standardised with children without complex health needs. This study aims to review the autism assessment process for children with a complex developmental condition, within a complex neurodisability autism assessment service, to help identify learning points from clinical practice that may be beneficial to other practitioners. Design/methodology/approach A clinical audit reviewing team databases and autism assessment records were undertaken to identify the profile of children accessing the neurodisability service and how the ADOS-2 assessment was adapted to meet the needs of this population. Findings The ADOS-2 required adaptations in terms of administration (e.g. how activities are delivered), and consideration needed to be given to how behaviours were coded using the ADOS-2 algorithm (to help consider how features of neurodisability may be captured on the algorithm). Practical implications This study outlines how clinicians can use the ADOS-2 assessment tool for children with complex neurodisabilities. The find…"
-    },
-    {
-      "id": "10.1108/aia-06-2025-0053",
-      "title": "Beyond the “service cliff”: experiences of an inclusive postschool transition program for autistic youth with intellectual disability",
-      "authors": [
-        "Chris Edwards",
-        "Ru Ying Cai",
-        "Abigail Love",
-        "Louise M. White",
-        "Kathy Harris",
-        "Katie Brooker",
-        "Elizabeth Kendall",
-        "Vicki Gibbs"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-10-13",
-      "doi": "10.1108/aia-06-2025-0053",
-      "url": "https://doi.org/10.1108/aia-06-2025-0053",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Quality of life"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose Autistic youth with intellectual disability (ID) are underrepresented in transition research and services, particularly in programs that prioritize social inclusion, emotional wellbeing and autonomy. This study explores stakeholder experiences of Campus Life, an inclusive, postschool transition program designed specifically for autistic youth with ID. Design/methodology/approach This qualitative study drew on multiple stakeholder perspectives. Accessible, visually supported surveys were completed by four autistic participants. Survey data from participants were analyzed descriptively to capture their priorities at program entry. In-depth interviews were conducted with six parents, and eight staff participated in focus groups or individual interviews. Reflexive thematic analysis was used to generate key themes across parent and staff data. Findings Participant surveys revealed interest in friendship and enjoyable activities, with more varied interest in work or further learning. Thematic analysis of parent and staff data generated four themes: (1) a supportive and structured environment, (2) growing into independence, (3) finding confidence in connection and (4) uncertain fu…"
     },
     {
       "id": "10.1080/1034912x.2025.2571767",
@@ -9098,29 +8998,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2025.2558205",
-      "title": "Investigating the relationship between sensory processing, oral praxis, feeding problems, and eating behaviors in children with autism spectrum disorder and typically developing peers",
-      "authors": [
-        "Zeynep Kolit",
-        "Sedef Şahin"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-09-17",
-      "doi": "10.1080/20473869.2025.2558205",
-      "url": "https://doi.org/10.1080/20473869.2025.2558205",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
