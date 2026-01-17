@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-16T06:53:45Z",
+  "generated_at": "2026-01-17T06:49:30Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -94,6 +94,55 @@
         "Mental health"
       ],
       "abstract": "Background: Adverse childhood experiences (ACEs) are known to have several negative effects on mental health and well-being. However, few studies have examined the role of these events in the development of ADHD and the protective factors that could guide prevention and intervention strategies in college students. The aim of current study is to examine the potential role of self-compassion and emotion regulation in the relationship between ACEs and ADHD symptoms in college students. Method: The sample of the study consisted of 442 young adults (67.4% female; 32.6% male) aged between 18 and 29 years ( M = 20.43, SD = 1.74) from a public university in Türkiye. Participants completed validated measures that were combined in a single battery with a web-based tool. Results: We found that ACEs were associated with lower levels of self-compassion (Cohen’s d = 0.43) and emotion regulation (Cohen’s d = 0.29), along with higher levels of attention deficit (Cohen’s d = 0.47) and hyperactivity-impulsivity (Cohen’s d = 0.46) symptoms. Further results indicated that ACEs were a significant positive predictor of attention deficit and hyperactivity-impulsivity symptoms and a negative predictor of…"
+    },
+    {
+      "id": "10.1007/s10803-026-07220-8",
+      "title": "The Relationship Between Parenting Attitudes and Participation of Fathers of Children With Developmental Disabilities",
+      "authors": [
+        "Alper Yusuf Köroğlu",
+        "Özlem Yilmaz Demirel",
+        "Kevser Kiliç"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-16",
+      "doi": "10.1007/s10803-026-07220-8",
+      "url": "https://doi.org/10.1007/s10803-026-07220-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "Abstract Background In traditional societies, fathers are often viewed as authority figures with limited involvement in child development. This study examined the parenting attitudes and participation levels of fathers of children aged 3–6 with developmental disabilities in Türkiye. Method The sample consisted of 134 fathers who voluntarily participated. Data were collected using a demographic form, the Parental Attitude Scale (PAS), and the Father Involvement Scale (FIS) and analyzed with SPSS. Results and Conclusions Parenting attitudes did not significantly vary by the child’s gender, diagnosis, preschool attendance, or number of children. Non-working fathers showed more authoritarian attitudes than working fathers. Fathers of daughters scored higher on interest and closeness, while fathers in single-child families scored higher on caregiving and participation. A moderate positive relationship was observed between democratic parenting attitudes and FIS subdimensions. Authoritarian and permissive attitudes showed weaker positive relationships with specific FIS subdimensions, including caregiving and participation."
+    },
+    {
+      "id": "10.1177/10883576251407633",
+      "title": "Combining Evidence-Based Practices to Enhance Outcomes for Autistic Students: Considerations and Challenges",
+      "authors": [
+        "Karrie A. Shogren",
+        "Kara A. Hume",
+        "Lindsay F. Rentschler",
+        "Brian Boyd"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-01-15",
+      "doi": "10.1177/10883576251407633",
+      "url": "https://doi.org/10.1177/10883576251407633",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "service improvement"
+      ],
+      "abstract": "Adapting and combining evidence-based practices (EBPs) for use in high school special and general education in support of autistic youth can be a daunting process for researchers and practitioners alike. Ensuring the process is informed by autistic voices, is strengths-based, and addresses outcomes identified as priorities for autistic youth can pose additional challenges. This paper provides a description of the activities undertaken to combine two EBPs for use in inclusive high school settings, the Self-Determined Learning Model of Instruction (SDLMI), and Peer Supports. Points where the autistic voice was embedded in the process are highlighted, along with initial feedback from high school teachers and students. Challenges to the EBP adaptation and combination process, as well as barriers to implementation and next steps, are also discussed.",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-025-07199-8",
@@ -1498,34 +1547,6 @@
         "ADHD"
       ],
       "abstract": "Background: Attention Deficit Hyperactivity Disorder (ADHD) and Specific Learning Difficulties (SLD) are both associated with attentional and cognitive difficulties. This study examined the extent to which the cognitive impairments could be consequences of elevated levels of inattention and hyperactivity/impulsivity. Method: Secondary analysis was conducted on data from four groups selected from the Centre for Attention, Learning, and Memory, a neurodivergent cohort of children aged 5 to 18 years with a mean age of 9 years : children with ADHD only ( n = 70), learning difficulties only ( n = 406), ADHD with learning difficulties ( n = 128), and a comparison group ( n = 166). Covariance analyses examined whether any differences in basic cognitive skills and higher executive functions between the neurodivergent and comparison groups could result from variations in inattention and hyperactivity/impulsivity. Results: Irrespective of ADHD status, children with learning difficulties had low scores in short-term memory, working memory, sustained attention, processing speed, set sequencing, and set shifting. These cognitive deficits largely persisted when inattention and hyperactivity/impu…"
-    },
-    {
-      "id": "10.1177/10870547251361226",
-      "title": "A Trans-Diagnostic Investigation of Attention and Diverse Phenotypes of “Auditory Hyperreactivity” in Autism, ADHD, and the General Population",
-      "authors": [
-        "Patrick Dwyer",
-        "Zachary J. Williams",
-        "Wenn Lawson",
-        "Susan M. Rivera"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/10870547251361226",
-      "url": "https://doi.org/10.1177/10870547251361226",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Objective: Experiences of “auditory hyper-reactivity” and decreased sound tolerance, which can be separated into phenotypes such as hyperacusis and misophonia, are prevalent in autism and ADHD and impact quality of life and wellbeing. Furthermore, atypical patterns of attention regulations—including hyper-focus and inattention—are common in both autism and ADHD. Prior research also suggests sensory hyper-reactivity can cause anxiety, and anxiety can be associated with hyper-vigilance. It is currently unclear whether hyper-focusing on stimuli, having one’s attention captured by them, or being hyper-vigilant toward them could lead to sensory hyper-reactivity. Therefore, this study investigates relationships among hyper-focus, inattention, hyper-vigilance, auditory hyper-reactivity, and anxiety. Method: Four hundred ninety-two adults (122 ADHD-only, 130 autistic-only, 141 autistic + ADHD, and 99 comparison) completed questionnaires indexing hyper-focus, inattention, and various forms of auditory hyper-reactivity; participants also completed a psychoacoustic measure by rating the pleasantness of misophonic trigger sounds. Result: Per questionnaires, auditory hyper-reactivity was marked…"
     },
     {
       "id": "10.1177/13623613251407294",
@@ -3720,6 +3741,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -3742,27 +3784,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
