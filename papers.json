@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T06:48:30Z",
+  "generated_at": "2026-01-19T06:58:38Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -1514,42 +1514,6 @@
         "service improvement"
       ],
       "abstract": "There is an increasing need to measure caregiver implementation of strategies from Naturalistic Developmental Behavioral Interventions (NDBIs) as a possible key mediator of outcomes in a child. The NDBI Fidelity (NDBI-Fi) rating scheme is a macro-code to estimate the implementation of core strategies. Yet, there is a need to understand the dependability of this measure to ensure intervention study findings are generalizable to everyday interactions and comparable across studies. We addressed this by evaluating the dependability or consistency of NDBI-Fi scores for 20 caregivers, averaged across observations of two occasions of two routines that were each scored by two raters. Our findings indicated that a single score (i.e. from a single occasion, single routine, and single rater) from the measure has low dependability ( g = 0.43). When scores were averaged across two observations each of two routines scored by two raters (i.e. eight scores total), the score was more dependable ( g = 0.77). The majority (81.6%) of absolute error variance was attributable to occasions of observation and its interaction with other facets (routine or rater). Therefore, we recommend the NDBI-Fi be appl…"
-    },
-    {
-      "id": "10.1177/13623613251371509",
-      "title": "Understanding eye care access for autistic adults and families: A convergent mixed-methods study",
-      "authors": [
-        "Chris Edwards",
-        "Abigail MA Love",
-        "Ru Ying Cai",
-        "Paul Constable",
-        "Daniel C Love",
-        "Ketan Parmar",
-        "Emma Gowen",
-        "Vicki Gibbs"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251371509",
-      "url": "https://doi.org/10.1177/13623613251371509",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Sensory environment",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Autistic people face persistent barriers to accessing healthcare, yet little is known about their experiences receiving eye care, despite elevated rates of vision conditions. This convergent mixed-methods study explored the eye care experiences of 127 autistic adults and 69 parents of autistic children living in Australia and Aotearoa New Zealand. Through an online survey incorporating both structured and open-ended items, we examined access patterns, perceived barriers and enablers, and unmet needs. Quantitative data revealed widespread challenges, including sensory discomfort, communication difficulties, and financial costs, while qualitative responses foregrounded how provider interaction, clinical pacing, and environmental conditions shaped overall experience. Although participants valued clearer communication and sensory-informed adjustments, these were described as insufficient in the face of structural barriers such as affordability and inaccessible service locations. These findings align with emerging models of autism-informed healthcare that advocate for systemic, rather than ad hoc, approaches to accessibility. Our results underscore the need for proactive, cross-sector s…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1108/aia-08-2025-0088",
@@ -3840,27 +3804,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -3883,6 +3826,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -8967,96 +8931,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07044-y",
-      "title": "A Qualitative Exploration of the Experiences of Autistic Adolescent Girls and Their Mental Health Difficulties: A Transdiagnostic Approach",
-      "authors": [
-        "Deirbhile Malone",
-        "Kim Keating",
-        "Christian Ryan"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-20",
-      "doi": "10.1007/s10803-025-07044-y",
-      "url": "https://doi.org/10.1007/s10803-025-07044-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Autistic girls have been underrepresented in research, which has traditionally focused on male-dominated samples. As a result, there is limited understanding of the unique mental health difficulties they experience and the challenges they encounter when accessing appropriate services. Adolescence is a significant developmental stage where girls can be more vulnerable due to biological, social, and psychological changes. This transitional period may be when girls present for an autism assessment or begin to experience significant mental health difficulties. Methods This qualitative study explored the mental health difficulties of six autistic adolescent girls attending Child and Adolescent Mental Health Services (CAMHS) in Ireland. Results Following an Interpretative Phenomenological Analysis (IPA), three Group Experiential Themes (GETs) were identified: (1) Understanding the Relationship between Autism and Mental Health in Autistic Adolescent Girls, (2) Navigating Social Environments as an Autistic Adolescent Girl with Mental Health Difficulties, and (3) Disconnect between the Needs of Autistic Girls and their Support. Conclusions These results provide valuable ins…"
-    },
-    {
-      "id": "10.1007/s10803-025-07040-2",
-      "title": "The Effectiveness of Extended Reality Technology Interventions on Vocational Skills for Individuals with Autism and Intellectual Disabilities: A Meta-analysis",
-      "authors": [
-        "Tao Tao",
-        "Wangqian Fu"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-20",
-      "doi": "10.1007/s10803-025-07040-2",
-      "url": "https://doi.org/10.1007/s10803-025-07040-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07043-z",
-      "title": "Stress, Coping, and Quality of Life of Parents of Children with Autism",
-      "authors": [
-        "Dawn Turnage",
-        "Norma Conner",
-        "Melanie Hinojosa",
-        "Rui Xie",
-        "Tho Nguyen",
-        "Joellen Edwards",
-        "Angelita Gordon"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-20",
-      "doi": "10.1007/s10803-025-07043-z",
-      "url": "https://doi.org/10.1007/s10803-025-07043-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s40489-025-00523-z",
-      "title": "School Recess to Promote Social Interaction Between Students with ASD and Their Peers: A Systematic Review Study",
-      "authors": [
-        "Marina Alferez-Pastor",
-        "José M. Rodríguez-Ferrer",
-        "Ana Manzano-León",
-        "José M. Aguilar-Parra"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-20",
-      "doi": "10.1007/s40489-025-00523-z",
-      "url": "https://doi.org/10.1007/s40489-025-00523-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
