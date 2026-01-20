@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T06:58:38Z",
+  "generated_at": "2026-01-20T06:56:26Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -94,6 +94,119 @@
         "Mental health"
       ],
       "abstract": "Background: Adverse childhood experiences (ACEs) are known to have several negative effects on mental health and well-being. However, few studies have examined the role of these events in the development of ADHD and the protective factors that could guide prevention and intervention strategies in college students. The aim of current study is to examine the potential role of self-compassion and emotion regulation in the relationship between ACEs and ADHD symptoms in college students. Method: The sample of the study consisted of 442 young adults (67.4% female; 32.6% male) aged between 18 and 29 years ( M = 20.43, SD = 1.74) from a public university in Türkiye. Participants completed validated measures that were combined in a single battery with a web-based tool. Results: We found that ACEs were associated with lower levels of self-compassion (Cohen’s d = 0.43) and emotion regulation (Cohen’s d = 0.29), along with higher levels of attention deficit (Cohen’s d = 0.47) and hyperactivity-impulsivity (Cohen’s d = 0.46) symptoms. Further results indicated that ACEs were a significant positive predictor of attention deficit and hyperactivity-impulsivity symptoms and a negative predictor of…"
+    },
+    {
+      "id": "10.1007/s10803-026-07221-7",
+      "title": "Examining Depression Among Mothers of Autistic People in South Korea: A Mixed-Methods Approach",
+      "authors": [
+        "Chung Eun Lee",
+        "Kyung Mee Kim",
+        "In Young Cho",
+        "Yong-Moon Mark Park",
+        "Kyungdo Han"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-19",
+      "doi": "10.1007/s10803-026-07221-7",
+      "url": "https://doi.org/10.1007/s10803-026-07221-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-025-07207-x",
+      "title": "Child and Family Characteristics as Predictors of the Severity of Self-injurious Behaviours in Autistic Children and Adolescents",
+      "authors": [
+        "Terence Jiang",
+        "Marc Wilson",
+        "Andrew J. O. Whitehouse",
+        "Willow Sainsbury",
+        "Hannah Waddington"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-19",
+      "doi": "10.1007/s10803-025-07207-x",
+      "url": "https://doi.org/10.1007/s10803-025-07207-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-025-07205-z",
+      "title": "Bridging the Gap: Evaluating the Efficacy of Low-Intensity Developmental Behavioral Intervention and Parent Education on Skill Acquisition in Children With Developmental Disorders Including Autism Spectrum Disorder",
+      "authors": [
+        "Eldin Dzanko",
+        "Nirvana Pistoljevic",
+        "Mihela Erjavec"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-01-19",
+      "doi": "10.1007/s10803-025-07205-z",
+      "url": "https://doi.org/10.1007/s10803-025-07205-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Abstract Purpose In low- and middle-income countries (LMICs), where the majority of children with developmental disorders live, access to early, specialized interventions is highly limited. While studies from high-income countries show that tailored early intervention can be effective in learning new skills, there remains a lack of evidence-based approaches specifically designed for the realities of LMICs. Methods The study included 50 preschoolers, 25 of whom (mean age = 52.4 months) participated in an individualized developmental and behavioral program combined with parent education in addition to preschool attendance over a six-month period. The remaining 25 children (mean age = 50.5 months) attended only preschool. The intervention averaged 2.9 h per week (range: 2.1–4 h) and targeted age-appropriate developmental goals. Additionally, parents received an average of 0.6 h per week (range: 0.2–0.7 h) of education to support the generalization of skills to daily life. Results Children who received the individualized developmental and behavioral intervention combined with parent education in addition to preschool made statistically significant progress across all developmental area…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10883576251407604",
+      "title": "Augmented Reality Enhanced Supported Employment for Individuals With Intellectual and Developmental Disabilities",
+      "authors": [
+        "Ayse Torres",
+        "Kelly B. Kearney",
+        "Alexandro Galvez-Vega",
+        "Dariush Hassan",
+        "Mahesh Neelakanta",
+        "Hari Kalva"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-01-18",
+      "doi": "10.1177/10883576251407604",
+      "url": "https://doi.org/10.1177/10883576251407604",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "This study explores the integration of augmented reality (AR) technology into supported employment programs to enhance employment outcomes for individuals with intellectual and developmental disabilities (IDD). The research aimed to evaluate the effectiveness of a novel AR-based application functioning as a virtual job coach, providing real-time, context-specific guidance on completing complex job tasks. Employing a single subject multiple probe across participants design, data were collected from four young adults with IDD. The results showed significant improvements in job task performance; participants’ accuracy rose from an average of 12% during the baseline phase to 94% with the AR intervention. All participants reached mastery criteria, defined as completing at least 90% of steps correctly and independently across four sessions. The study highlights the potential of AR to improve training efficiency, reduce the demand for in-person job coaching, and broaden employment opportunities for individuals with IDD."
+    },
+    {
+      "id": "10.1177/10870547251408120",
+      "title": "What Are You Waiting For?! Roles of Motivation, Goal Orientation, and Emotion Regulation in Explaining the Link Between ADHD and Procrastination",
+      "authors": [
+        "Ruth Netzer Turgeman",
+        "Yehuda Pollak"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-01-18",
+      "doi": "10.1177/10870547251408120",
+      "url": "https://doi.org/10.1177/10870547251408120",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "abstract": "Objective: This study aims to investigate the complex relation between adult ADHD symptoms, procrastination, and mediating factors, in light of leading procrastination theories: the Temporal Motivation Theory (TMT), emotion regulation, and a General Architecture for Modeling the Dynamics of Goal-Directed Motivation and Decision-Making – the GOAL architecture. Method: The study was preregistered. A survey was conducted with 640 adults recruited online to examine the associations between ADHD symptoms, procrastination, and seven mediating factors. Participants completed measures assessing ADHD symptoms, procrastination tendencies, emotion regulation, motivation, and goal-related behaviors. Structural equation modeling (SEM) was used to test the direct and indirect pathways among the variables. Results: A positive association was revealed between ADHD inattention symptoms and procrastination tendencies. The mediating factors that significantly contributed to this relations were sensitivity to delay, perceived low value of the task, and flexible goal adjustment. While ADHD inattention symptoms was associated with all seven variables, three variables directly contributed to increased pr…"
     },
     {
       "id": "10.1007/s10803-026-07216-4",
@@ -1913,6 +2026,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -1937,27 +2071,6 @@
       ],
       "tags": [
         "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
       ]
     },
     {
@@ -3804,6 +3917,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -3826,27 +3960,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613251389876",
@@ -4275,6 +4388,284 @@
       "neurotype": [
         "Autism"
       ]
+    },
+    {
+      "id": "10.1089/aut.2023.0049",
+      "title": "How Do Autistic Students Do in the Eyes of Their Peers? Non-Autistic Judgments About the Academic Experiences of Autistic and Non-Autistic University Students, Based on Brief Samples of Behavior",
+      "authors": [
+        "Afaf Alhusayni",
+        "Elizabeth Sheppard",
+        "Peter Mitchell",
+        "Lauren Marsh"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0049",
+      "url": "https://doi.org/10.1089/aut.2023.0049",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment"
+      ],
+      "abstract": "Background: Previous research has found that people can make a variety of judgments about others based on brief samples of their behavior such as judging their social favorability and whether they wish to socialize with them. Non-autistic people frequently perceive autistic people more negatively than non-autistic people, although we do not fully understand the real-world consequences of this perceptual bias. This study extends previous work by investigating these perceptual biases within a real-world context: university. Method: Non-autistic university students ( n = 25) watched short, candid video clips of autistic and non-autistic people. Participants rated different aspects of the stimulus model’s academic experience, focusing on their motivation to study, academic success, grades, and happiness at university. Results: Across all measures, non-autistic participants judged the academic experience of autistic models more negatively than non-autistic models, perceiving lower academic motivation, success, grades, and happiness at university. Conclusion: These results demonstrate a consistent negative bias that autistic students may face from their peers at university. We discuss th…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2024.0005",
+      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
+      "authors": [
+        "Jiedi Lei",
+        "Kate Cooper",
+        "Matthew J. Hollocks"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2024.0005",
+      "url": "https://doi.org/10.1089/aut.2024.0005",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2022.0085",
+      "title": "What Is Uncertainty? A Grounded Theory of the Role of Uncertainty in Anxiety in Autism",
+      "authors": [
+        "Laura Lennuyeux-Comnene",
+        "Julia Yates",
+        "Sebastian B. Gaigg"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2022.0085",
+      "url": "https://doi.org/10.1089/aut.2022.0085",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Although previous qualitative work has identified the role of intolerance of uncertainty in the development of anxiety in autism, there has been little research on what uncertainty means exactly for autistic people and/or what types of uncertainties may be particularly anxiety provoking. Methods: Fifteen autistic adults (five women) took part in this qualitative interview study in which we probed their understanding and experiences of uncertainty and its links to feelings of anxiety. We applied a grounded theory approach to transcripts of the interviews, broadly following Charmaz’s constructivist epistemology, to derive a theory of uncertainty as it is experienced by the autistic people we interviewed. Results: From the interviews, we derived a model of uncertainty, which identified three different levels of uncertainty, ranging from the certainty of the “known,” through to the relatively manageable uncertainty of the “known unknown,” to the anxiety-provoking “unknown unknown” or that which cannot be made known. We propose in this model that anxiety can be understood as resulting from difficulties with avoiding or controlling the latter types of uncertainty through plan…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0092",
+      "title": "What Do Autistic Youth and Young Adults Want at Work? A Qualitative Study of Autistic Individuals’ Views on Key Workplace Supports",
+      "authors": [
+        "Briella Baer Chen",
+        "Gulnoza Yakubova"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0092",
+      "url": "https://doi.org/10.1089/aut.2023.0092",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: Research suggests that autistic youth and young adults often experience barriers to sustained employment. Although there is an existing body of literature on the barriers and facilitators to employment, little of this literature focuses solely on the perspectives of autistic youth and young adults. To better support autistic youth and young adults at work, we aimed to determine which workplace supports and accommodations these individuals classify as key supports based on their lived experiences. Methods: We conducted semi-structured qualitative interviews with 12 autistic youth and young adults (ages 17–29 years old) about their workplace experiences and perspectives. We conducted interviews virtually and used a grounded theory approach to analyze and organize the transcribed interview data into themes. Results: Six themes of workplace supports emerged from the data. The resulting themes were as follows: (1) hands-on training methods with opportunities for practice, (2) employer-provided accommodations, (3) social support, (4) job-fit, (5) external supports, and (6) inclusive workplace culture and self-advocacy. Employer-provided accommodations included written and dir…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0101",
+      "title": "Latent Structure of the WHOQOL-BREF: Implications for Measuring Quality of Life Among Autistic Adults",
+      "authors": [
+        "Elizabeth A. Kaplan-Kahn",
+        "Goldie A. McQuaid",
+        "Nancy Raitano Lee",
+        "Gregory L. Wallace",
+        "Benjamin E. Yerys"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0101",
+      "url": "https://doi.org/10.1089/aut.2023.0101",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "Background: To accurately measure quality of life among autistic adults, researchers need surveys that are psychometrically validated for autistic populations. Researchers have demonstrated that the short version of the World Health Organization Quality of Life instrument (WHOQOL-BREF) has strong psychometric properties in the general population. Although there has been some research exploring basic psychometric properties (reliability, convergent validity, etc.) of the WHOQOL-BREF in autistic populations, the underlying latent structure of the measure has not been tested in autistic adults. Our goal in the current study was to compare different confirmatory factor analysis (CFA) models to test which one best captured the underlying latent structure of the WHOQOL-BREF data in a sample of autistic adults. Methods: A total of 842 autistic adults between the ages of 18 and 83 years completed the WHOQOL-BREF. Based on participant responses, we compared four a priori CFA models—correlated four-factor, unidimensional, higher-order, and bifactor models—to demonstrate which model structure best captures the underlying latent structure of the measure in this population. Results: Similar to…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0149",
+      "title": "Contextual Factors Contributing to Social Participation for LGBTQIA+ Autistic Adults in the United States",
+      "authors": [
+        "Elizabeth K. Schmidt",
+        "Farah Rexha",
+        "Mason Williams",
+        "Jess Bauza de Garcia",
+        "Maya Sicherer",
+        "Rachel Hickman"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0149",
+      "url": "https://doi.org/10.1089/aut.2023.0149",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "participatory"
+      ],
+      "abstract": "Background: Separately, autistic and LGBTQIA+ people report experiencing negative social participation outcomes. Specifically, autistic individuals report fewer friendships but a desire for them. LGBTQIA+ individuals report experiences of family rejection, microaggressions from friends, and discrimination. Based on intersectionality theory, we hypothesize that individuals who are both autistic and LGBTQIA+ may have additional challenges with social participation and require unique support. Therefore, in this study, we aim to describe the experiences of social participation and the supports and barriers for autistic LGBTQIA+ adults. Methods: This analysis utilized data from a mixed-method, participatory research study, including qualitative data from 57 LGBTQIA+ autistic adults and quantitative survey data from 107 LGBTQIA+ autistic adults. Qualitative data were collected through virtual semi-structured interviews or focus groups and analyzed using interpretative phenomenological analysis. Analysts used an audit trail and negative case analysis and checked for representativeness of the data across participants to ensure trustworthiness of data. A survey was developed using the findi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0093",
+      "title": "“I’m Not Trying to Be Difficult When I Can’t Do Things”: A Mixed Methods Look at Transitioning from Pediatric to Adult Health Care on the Autism Spectrum",
+      "authors": [
+        "Briana P. Keller",
+        "Laina Heacock",
+        "Emily Rothenberg",
+        "Jessika C. Boles"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0093",
+      "url": "https://doi.org/10.1089/aut.2023.0093",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: Although autistic individuals can require more health care services than the general population, the care they receive is often suboptimal. During young adulthood, autistic patients face additional developmental barriers and achieve poorer medical outcomes as they transition between pediatric and adult health systems. However, little is known about their transition needs, perceptions, and experiences. Methods: This study examined the health care experiences and transition perceptions of 213 autistic young adults aged 18–26 years (mean age 22.72). Both formally diagnosed and self-identified autistic individuals participated in the study. Our research team used mixed methods online survey, including an original health care experience questionnaire, an adapted measure of health care transition readiness, and short-answer questions. We used nonparametric statistical tests to examine relationships between quantitative variables, and qualitative responses were analyzed using an inductive, open-coding approach. Results: Quantitative analyses revealed health care environments to be least accessible for individuals who are female or gender nonconforming, nonspeaking, and/or in t…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0105",
+      "title": "Language Matters in British Newspapers: A Participatory Analysis of the Autism UK Press Corpus",
+      "authors": [
+        "Themis Karaminis",
+        "Monique Botha",
+        "Sophie Longley",
+        "Krysia Emily Waldock",
+        "Soph Storey",
+        "Khiah Strachan",
+        "Nick Ransom",
+        "Elizabeth Pellicano"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0105",
+      "url": "https://doi.org/10.1089/aut.2023.0105",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "participatory"
+      ],
+      "abstract": "Background: Language around autism plays a crucial role in shaping public attitudes toward autistic people. The use of identity-first versus person-first language and impersonal references to autism can affect how autistic people are perceived. These factors should impact the representation of autistic people in newspapers, where negative and stereotypical representations are often perpetuated. Method: We asked five autistic people to judge the sentiment toward autism and autistic people in 1000 quotes from British newspapers (2011–2020). The coders, who did not know the newspaper title and time of publication, made their judgments based on two dimensions, warmth and competence, from the Stereotype Content Model (SCM). We examined the overall judgments of warmth and competence and considered variations in language context and terminology, such as the use of impersonal references to autism or identity-first and person-first language. We also examined potential differences between broadsheets and tabloids, left- and right-leaning newspapers, and changes over time. Results: The majority of quotes from British newspapers fell under a low warmth and low competence area within SCM. Furth…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0186",
+      "title": "Unraveling the Path from Autism Acceptance to Quality of Life in Autistic Transition-Age Youths: A Parallel Mediation Model",
+      "authors": [
+        "Kaiqi Zhou",
+        "Jaeyoung Kim"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0186",
+      "url": "https://doi.org/10.1089/aut.2023.0186",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Background: Autistic transition-age youths experienced unique psychosocial challenges in transitioning to postsecondary settings. These challenges may result from both the nature of autism and the developmental tasks associated with this unique developmental stage. Given the challenges and barriers faced by this population, understanding the relationship among factors in this transition period and developing relevant interventions are crucial. The purpose of the study was to examine the relationships between autism acceptance and coping strategies and understand how they impact the quality of life (QOL) of this population. Method: In total, 204 autistic youths aged 18–26 years recruited from Prolific and Amazon Mechanical Turk completed an online survey consisting of instruments measuring target variables. Two parallel mediation models were examined to explore the relationships between autism acceptance, coping, and QOL. Results: Both parallel mediation models showed good fit. In the first model, perceived acceptance had a significant direct effect on QOL (β = 0.512, p &lt; 0.01) and a significant indirect effect through engagement coping (β = 0.059, p &lt; 0.01). In the second mod…"
+    },
+    {
+      "id": "10.1089/aut.2023.0121",
+      "title": "Proportional Overrepresentation of Gender-Diverse Identities in Two US-Based Autistic Adult Samples from the SPARK Database",
+      "authors": [
+        "Lindsay Bungert",
+        "Cindy E. Li",
+        "Annie L. Cardinaux",
+        "Amanda M. O’Brien",
+        "Jonathan Cannon",
+        "Veronica Shkolnik",
+        "John D.E. Gabrieli",
+        "John F. Strang",
+        "Pawan Sinha"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0121",
+      "url": "https://doi.org/10.1089/aut.2023.0121",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: Previous literature indicates a proportional overrepresentation of both autism and autistic traits within gender-diverse populations (individuals who experience their gender identity as different from their sex assigned at birth). Emerging but limited evidence also suggests a proportional overrepresentation of gender-diverse identities in autism. To our knowledge, this is the first study to report gender diversity prevalence in autistic adults in the United States. Methods: We report the prevalence of gender diversity within two well-characterized samples of autistic adults recruited from SPARK (Simons Foundation Powering Autism Research for Knowledge), the largest online research database of autistic individuals to date. This study includes both an original sample (Dataset 1, n = 205) and a replication sample (Dataset 2, n = 243). In addition, we looked at the co-occurrence of anxiety and/or mood disorders with gender-diverse identities. Results: We found that 16.1% of autistic adults in Dataset 1 and 19.8% of autistic adults in Dataset 2 were gender diverse. This compares with prior findings of 0.5% to 4.5% in the general adult population. Autistic participants who we…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0134",
+      "title": "Empathic Disequilibrium as a Predictor of Nonsuicidal Self-Injury in Autistic and Nonautistic People",
+      "authors": [
+        "Rachel Moseley",
+        "Ido Shalev",
+        "Nicola Gregory",
+        "Florina Uzefovsky"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0134",
+      "url": "https://doi.org/10.1089/aut.2023.0134",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Background: Nonsuicidal self-injury (NSSI) affects many autistic individuals, and has been linked to suicidality in this group. It has been closely linked to difficulties with intrapersonal emotion regulation, but a role of interpersonal emotion regulation processes in NSSI has been underexplored. Empathic disequilibrium is a state of imbalance between a person’s cognitive empathy (CE) and emotional empathy (EE). We recently found that autistic people exhibit heightened EE relative to CE, consistent with their firsthand reports of hypersensitivity to the emotions of others. Because this kind of empathic imbalance is associated with hyperarousal and emotional reactivity, we hypothesized that it might increase the risk of NSSI, which often occurs as a means of trying to regulate overwhelming or distressing emotions. Methods: We measured CE, EE, emotional reactivity, and NSSI behaviors in 304 autistic and 289 nonautistic participants, and used polynomial regression with response surface analysis to examine empathic disequilibrium as a predictor of emotional reactivity and engagement in NSSI. Results: Replicating previous research, individuals with an autism diagnosis were more likely…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10883576251392875",
