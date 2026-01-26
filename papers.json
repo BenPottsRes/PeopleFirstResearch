@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T06:50:06Z",
+  "generated_at": "2026-01-26T06:56:53Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -8540,26 +8540,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -8581,6 +8561,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -9573,104 +9573,6 @@
         "access"
       ],
       "abstract": "Background: In response to the increasing prevalence of ADHD, efforts have focused on understanding methods to optimize psychosocial, emotional, and behavioral well-being, defined as flourishing. Mood disturbances, environmental vulnerabilities, and Adverse Childhood Experiences (ACEs) are risk factors for not flourishing. There is limited research on protective relational factors, as measured by Positive Childhood Experiences (PCEs), as facilitators of flourishing in children with ADHD and comorbid mood disturbances. Method: Using a nationally representative sample of 4,847 children, aged 6 to 17 years-old, currently diagnosed with ADHD, hierarchical binary logistic regression examined whether the number of PCEs present for children with and without mood disturbances could significantly predict who was flourishing or not. The initial model included demographics, ADHD treatment-related variables, and the number of ACEs encountered. Results: After controlling for covariates, the odds of flourishing measured by the Child Flourishing Index (CFI) for children with ADHD were 7.31 [4.51, 11.86] times greater for those with 6 to 7 PCEs compared to peers with 0 to 2 PCEs, and 3.37 [2.24, 5…"
-    },
-    {
-      "id": "10.1007/s10803-025-07049-7",
-      "title": "First Impressions Matter: Exploring Children’s Negative Perceptions of Autistic Children",
-      "authors": [
-        "Natalia Van Esch",
-        "Troy Q. Boucher",
-        "Grace Iarocci",
-        "Nichole E. Scheerer"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-27",
-      "doi": "10.1007/s10803-025-07049-7",
-      "url": "https://doi.org/10.1007/s10803-025-07049-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07050-0",
-      "title": "“I Don’t Think Anyone’s Ever Asked Me About the Two Before”: Making Sense of Co-occurring Autism and BPD in Inpatient Mental Health Settings",
-      "authors": [
-        "Katherine Woods",
-        "Rebecca Dunn",
-        "Ian Smith",
-        "Daniela Di Basilio"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-27",
-      "doi": "10.1007/s10803-025-07050-0",
-      "url": "https://doi.org/10.1007/s10803-025-07050-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Autistic individuals and individuals with borderline personality disorder (BPD) are both more likely than the general population to require access to mental health services, specifically inpatient services. Both groups of individuals have reported difficulties when accessing inpatient services including stigma, lack of understanding and lack of adaptations. Recent research has suggested having diagnoses of both autism and BPD is becoming more common and that individuals with both diagnoses may be more at risk of suicidal thoughts and self-harm behaviours. The aim of this study is to understand the experiences of accessing inpatient mental health services for individuals with a diagnosis of autism and BPD. Methods Semi-structured interviews were conducted with participants. The data were analysed using reflexive thematic analysis. Results Seven participants were interviewed. Six themes were developed: (i) Never fully understood, (ii) Intense need for care and connection, (iii) Prisoner or patient? When care and punishment are intertwined, (iv) Necessary evil, (v) System always wins, (vi) Responsible for own care. Conclusions Autistic individuals with BPD require per…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07042-0",
-      "title": "Examining Transdiagnostic Patterns of Motor Differences: Preliminary Findings From the Consortium for Motor Behavior in Neurodivergence (COMBINE)",
-      "authors": [
-        "Nicholas E. Fears",
-        "Priscila M. Tamplain",
-        "Haylie L. Miller"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-27",
-      "doi": "10.1007/s10803-025-07042-0",
-      "url": "https://doi.org/10.1007/s10803-025-07042-0",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "abstract": "Abstract While some diagnostic groups are characterized in terms of motor features, others are at risk of overlooked motor challenges due to emphasis on social-cognitive features. These conditions often co-occur, making it difficult to determine the specific contribution of each to the overall pattern of observed motor challenges across neurodivergence. The COMBINE dataset included 262 cases (216 Male, 46 Female) with one or more neurodevelopmental conditions. We used generalized linear models to assess the effect of each of 4 diagnoses (autism, ADHD, DCD, CAS) on Movement Assessment Battery for Children (2nd edition, MABC-2) total score, Manual Dexterity domain score, Aiming &amp; Catching domain score, and Balance domain score; age; sex, and diagnoses. Movement scores were low in all groups, with 77% of cases in the Red Zone (DCD likely). Diagnosis of DCD predicted lower overall scores and Manual Dexterity scores, diagnosis of ADHD predicted higher overall scores and Balance scores, and diagnosis of autism predicted lower Aiming &amp; Catching scores. These results suggest motor challenges are clinically-significant across several neurodevelopmental conditions, and that some cond…"
-    },
-    {
-      "id": "10.1007/s10803-025-07070-w",
-      "title": "“One must think autism in everything one does”: Clinicians’ Experiences of Supporting Autistic Patients",
-      "authors": [
-        "Elisabeth Øverland",
-        "Per Normann Andersen",
-        "Erik Winther Skogli",
-        "Åshild Lappegard Hauge",
-        "Elizabeth Pellicano"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-09-27",
-      "doi": "10.1007/s10803-025-07070-w",
-      "url": "https://doi.org/10.1007/s10803-025-07070-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Mental health",
-        "Quality of life"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Studies have consistently shown that autistic individuals often find their interactions with healthcare professionals unhelpful, indicating unmet needs. This issue is exacerbated by healthcare professionals’ inadequate knowledge about autism and communication difficulties between healthcare professionals and autistic patients. This qualitative study sought to gain a deeper understanding of clinical encounters between healthcare professionals and autistic patients, from the perspectives of clinicians. Methods We conducted five in-depth focus groups with 20 experienced clinicians in Child and Adult Mental Health services in Norway. We used reflexive thematic analysis to analyze the data, using an inductive approach. Results We found that, overall, clinicians want to be respectful and flexible in their clinical encounters with their autistic patients. We also identified four themes, including that clinicians: 1) are attentive to the varied responses to diagnoses; 2) understand the importance of adapting their communication styles toward the needs of their autistic patients; 3) recognize the need for greater focus on quality of life and autonomy; and 4) acknowledge the…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
