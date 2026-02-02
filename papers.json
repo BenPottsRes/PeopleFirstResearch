@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T07:07:01Z",
+  "generated_at": "2026-02-02T07:18:21Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -569,6 +569,28 @@
         "access"
       ],
       "abstract": "This study examines disparities in autism identification rates and support needs between Māori and non-Māori populations in Aotearoa New Zealand. The research was conducted through a collaborative approach with autistic Māori. Population-level administrative data were analysed for all individuals aged 0–24 years ( N = 1,565,505) as of 30 June 2018. Autism identification was determined through health service records from July 2010 to June 2018. Comparative analyses examined autism rates, intellectual disability (ID) co-occurrence, and Ongoing Resourcing Scheme (ORS; high-need education funding support) allocation between Māori and non-Māori populations. Autism identification rates were lower among Māori (70.9/10,000) compared to non-Māori (78.3/10,000). Autistic Māori had higher rates of ID diagnosis (OR = 1.12; 95% CI = 1.02, 1.24) and ORS funding allocation (OR = 1.35; 95% CI = 1.22, 1.48). The observed disparities in autism identification rates and diagnostic patterns suggest potential systemic barriers to autism identification among Māori, particularly for those with lower formal support needs. Future Kaupapa Māori, autistic-led research is warranted to better understand these d…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2616729",
+      "title": "Digital training for teachers on the inclusion of students with autism spectrum disorder in secondary school, sixth form and vocational training",
+      "authors": [
+        "José María Fernández Batanero",
+        "Pedro Román Graván",
+        "José Fernández Cerero",
+        "Marta Montenegro Rueda"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1080/20473869.2026.2616729",
+      "url": "https://doi.org/10.1080/20473869.2026.2616729",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/10870547251394173",
@@ -9537,23 +9559,6 @@
         "Autism"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07058-6",
-      "title": "The Cognitive Flexibility Scale for Individuals With Autism Spectrum Disorder: A Turkish Adaptation and Validation Study",
-      "authors": [
-        "Ahmet Yalçın Hocaoğlu",
-        "Meltem Acar Güvendir"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-04",
-      "doi": "10.1007/s10803-025-07058-6",
-      "url": "https://doi.org/10.1007/s10803-025-07058-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
