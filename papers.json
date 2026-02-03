@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T07:18:21Z",
+  "generated_at": "2026-02-03T07:11:23Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,286 @@
       ],
       "abstract": "In the current study, we described a multitiered study of coaching the coaches via telepractice (CCT) intervention package. The CCT was an intervention program designed to train and coach early intervention service providers (EISPs) so that they can coach parents to use evidence-based naturalistic communication teaching strategies (i.e., modeling, mand-model, and time delay) and reading techniques during shared book reading with their young children with autism. Three participating U.S. service providers went through a self-directed training via online modules and were coached via telepractice technologies (videoconferences). Using a single-case multiple-baseline design across participants, we (a) examined EISPs’ implementation fidelity (accuracy/quality) of coaching practices, (b) assessed their knowledge on communication strategies and coaching practices, and (c) sought information about their perception on the feasibility and outcomes of the intervention. Visual analysis of the observational data showed a functional relation between the CCT program and EISPs’ coaching practices.",
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1177/25739581251371874",
+      "title": "“The Wrong Supports Are Worse than no Support”: Autistic Perspectives on Early-in-Life Infant Autism Supports",
+      "authors": [
+        "Jodie Smith",
+        "Patrick Dwyer",
+        "Erin O’Connor",
+        "Ava N. Gurba",
+        "Alexandra Aulich",
+        "Christos Constantine",
+        "Esther Fidock",
+        "Katherine E. Gore",
+        "Cherie C. Green",
+        "Lucas T. Harrington",
+        "Kristelle Hudry",
+        "Rachel Jellett",
+        "Lyndel J. Kennedy",
+        "Shoba S. Meera",
+        "Sallie Nowell",
+        "Aspasia Stacey Rabba",
+        "Linda R. Watson",
+        "Andrew J.O. Whitehouse",
+        "Catherine A. Bent"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251371874",
+      "url": "https://doi.org/10.1177/25739581251371874",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Background: Evidence suggests that the earlier supports are provided to young Autistic children, the better the overall outcomes. Supports have typically only been available after an autism diagnosis but with increased knowledge about early developmental trajectories, clinical supports can now be offered prediagnosis for infants showing early autism features and/or those with a family history of autism. Nevertheless, we currently know little about the Autistic community perspectives on the acceptability of prediagnostic supports, and without this information, we cannot be confident that these supports align with community preferences and priorities. Methods: In this study, we interviewed 16 Autistic adults—10 parents and 6 nonparents—about their views on very early-in-life (i.e., prediagnostic) infant autism supports. We analyzed the data using reflexive thematic analysis. Results: Participants expressed that a range of supports should be available based on individual family needs, with design and delivery informed by meaningful input from the Autistic community. Participants strongly opposed supports that encouraged children to mask, camouflage, and/or comply with non-autistic nor…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251366856",
+      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
+      "authors": [
+        "Hari Srinivasan"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251366856",
+      "url": "https://doi.org/10.1177/25739581251366856",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251365916",
+      "title": "Know Me, See Me, Hear Me: A Scoping Review of the Attitudes and Approaches to Relationships and Sexuality Education for Autistic Individuals and Their Families",
+      "authors": [
+        "Michaela Southby",
+        "Bahareh Afsharnejad",
+        "Ben Milbourn",
+        "Wenn Lawson",
+        "Sven Bölte",
+        "Sonya Girdler"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251365916",
+      "url": "https://doi.org/10.1177/25739581251365916",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Background: Even though evidence shows that Relationships and Sexuality Education (RSE) positively impacts personal and social development, different environments and social contexts see it delivered in varied ways. Autism research has shown autistic people experience more adverse life experiences than their neurotypical peers, with fewer and lower quality relationships and higher rates of violence and abuse. Despite this, neurodivergent learners, including autistic individuals, often miss out completely on RSE or are only offered it in response to risk or problematic sexual behavior. As a result, people do not experience the full potential of RSE as a developmental support system. Method: This scoping review explored the literature on attitudes and approaches to RSE for autistic individuals, focusing on the voices of autistic individuals, parents of autistic children, and allied health professionals (AHPs) supporting them. Researchers searched key health care and education electronic databases for studies undertaken by high-income countries from 1990 to the present date, where non-school RSE targeting autistic individuals was the study focus. The researchers established review par…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251371393",
+      "title": "“A Combination of Everything”: A Mixed-Methods Approach to the Factors that Autistic People Consider Important in Suicidality",
+      "authors": [
+        "Rachel L. Moseley",
+        "Sarah J. Marsden",
+        "Carrie L. Allison",
+        "Tracey A. Parsons",
+        "Sarah Cassidy",
+        "Tanya Procyshyn",
+        "Mirabel Pelton",
+        "Elizabeth M. Weir",
+        "Tanatswa Chikaura",
+        "David Mosse",
+        "Ian Hall",
+        "Lewis Owens",
+        "Jon Cheyette",
+        "David Crichton",
+        "Jacqui Rodgers",
+        "Holly Hodges",
+        "Simon Baron-Cohen"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251371393",
+      "url": "https://doi.org/10.1177/25739581251371393",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Suicide is a leading cause of death for autistic people, but it is inadequately explained by theories derived in non-autistic populations. Autistic people’s perceptions of the factors underpinning suicidal experiences are vital for guiding conceptual understanding, risk assessment, and policy and clinical practice toward preventing suicide. Methods: We recruited 1369 autistic participants for an online survey designed through consultation with autistic people. Participants were 326 cisgender men, 718 cisgender women, and 325 transgender or gender-divergent individuals, ranging from 16 to 89 years old. We asked them to rate the importance of 19 contributing factors to their suicidal thoughts and feelings and to enter their own explanations of additional factors if desired. Alongside thematically analyzing this qualitative data, we examined whether ratings of contributing factors differed by age and gender and whether ratings statistically predicted levels of lifetime suicidality. Results: Loneliness, feelings of worthlessness/failure, hopelessness, and mental illness were the highest rated contributing factors to suicidal thoughts and feelings, particularly by autistic w…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2025.2589993",
+      "title": "Exploring the experiences of autistic transgender adults with or without intellectual disabilities",
+      "authors": [
+        "Daniel Marsden",
+        "Marina Russ",
+        "Mark Brown",
+        "Celayne Heaton-Shrestha",
+        "Lorne Power"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1080/20473869.2025.2589993",
+      "url": "https://doi.org/10.1080/20473869.2025.2589993",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1080/20473869.2026.2623086",
+      "title": "Anti-thyroid peroxidase antibodies in autism spectrum disorder: a marker of subclinical autoimmune activity in children",
+      "authors": [
+        "Halenur Teke",
+        "Mehri Durak",
+        "Cigdem Yucel",
+        "Burcin Ozlem Ates",
+        "Selcuk Teke",
+        "Sahin Bodur",
+        "Abdulbaki Artık",
+        "Mehmet Ayhan Congologlu"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1080/20473869.2026.2623086",
+      "url": "https://doi.org/10.1080/20473869.2026.2623086",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70175",
+      "title": "Cognitive and Affective Predictors of Restricted and Repetitive Behaviors and Interests in Very Young Autistic Children",
+      "authors": [
+        "Nasim Sheikhi",
+        "Gina Schnur",
+        "Susan Faja"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1002/aur.70175",
+      "url": "https://doi.org/10.1002/aur.70175",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "ABSTRACT The development of distinct restricted and repetitive behaviors and interests (RRBIs) is well‐studied in autism, but their relationship to cognitive and affective development in young autistic children is unknown. This cross‐sectional study examined how higher‐order RRBIs (e.g., circumscribed interests and insistence on sameness) and sensorimotor RRBIs (e.g., stereotyped movements and sensory preoccupations) relate to concurrent developmental level, executive function, temperament, and internalizing and externalizing behaviors in autistic toddlers and preschoolers. 143 2‐ and 4‐year‐old autistic children with developmental levels of at least 12 months completed a battery of executive function tasks, and caregivers completed interviews and questionnaires regarding their children's autistic features and affective functioning. Higher‐order RRBIs, but not sensorimotor RRBIs, were related to age and developmental level. In the 2‐year cohort, discomfort and executive function related to higher‐order RRBIs, as well. Hyperactivity related to sensorimotor RRBIs in both cohorts, and discomfort also related to sensorimotor RRBIs in the 4‐year‐olds. These findings suggest that tempera…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-025-07147-6",
+      "title": "Correction: Autism Spectrum Disorder: Sleep Characteristics in Children and Adolescents, and Their Relationship with Probable Sleep Bruxism, Anxiety, and Cortisol and Melatonin Levels—A Cross-Sectional Study of Children in Brazil",
+      "authors": [
+        "Michelle Coelho Ferreira Lotito",
+        "Ana Clara Tapajos Pinto",
+        "Leticia Carolina Alves",
+        "Mainara Alves Barbosa",
+        "Dennis Carvalho Ferreira",
+        "Maristela Barbosa Portela",
+        "Antônio Ferreira Pereira",
+        "Claudia Maria Tavares-Silva",
+        "Giuseppe Pastura",
+        "Gloria Fernanda Barbosa de Araújo Castro"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1007/s10803-025-07147-6",
+      "url": "https://doi.org/10.1007/s10803-025-07147-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07169-0",
+      "title": "Correction: Evaluation of the Psychometric Properties of the Social Communication Questionnaire in Rural Kenya",
+      "authors": [
+        "Patricia Kipkemoi",
+        "Jeanne E. Savage",
+        "Joseph Gona",
+        "Kenneth Rimba",
+        "Martha Kombe",
+        "Paul Mwangi",
+        "Collins Kipkoech",
+        "Danielle Posthuma",
+        "Charles R. J. C. Newton",
+        "Amina Abubakar"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1007/s10803-025-07169-0",
+      "url": "https://doi.org/10.1007/s10803-025-07169-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
     },
     {
       "id": "10.1177/13623613251393504",
@@ -4855,34 +5135,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1007/s10803-025-07147-6",
-      "title": "Correction: Autism Spectrum Disorder: Sleep Characteristics in Children and Adolescents, and Their Relationship with Probable Sleep Bruxism, Anxiety, and Cortisol and Melatonin Levels—A Cross-Sectional Study of Children in Brazil",
-      "authors": [
-        "Michelle Coelho Ferreira Lotito",
-        "Ana Clara Tapajos Pinto",
-        "Leticia Carolina Alves",
-        "Mainara Alves Barbosa",
-        "Dennis Carvalho Ferreira",
-        "Maristela Barbosa Portela",
-        "Antônio Ferreira Pereira",
-        "Claudia Maria Tavares-Silva",
-        "Giuseppe Pastura",
-        "Gloria Fernanda Barbosa de Araújo Castro"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1007/s10803-025-07147-6",
-      "url": "https://doi.org/10.1007/s10803-025-07147-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07172-5",
       "title": "Gender and Medication-Related Patterns of Sensory Reactivity, Repetitive Behaviors, Severity and Motor Coordination in Children With Autism Spectrum Disorder",
       "authors": [
@@ -5508,27 +5760,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -5551,6 +5782,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -5771,36 +6023,6 @@
       "url": "https://doi.org/10.1007/s10803-025-07151-w",
       "neurotype": [
         "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07169-0",
-      "title": "Correction: Evaluation of the Psychometric Properties of the Social Communication Questionnaire in Rural Kenya",
-      "authors": [
-        "Patricia Kipkemoi",
-        "Jeanne E. Savage",
-        "Joseph Gona",
-        "Kenneth Rimba",
-        "Martha Kombe",
-        "Paul Mwangi",
-        "Collins Kipkoech",
-        "Danielle Posthuma",
-        "Charles R. J. C. Newton",
-        "Amina Abubakar"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-02",
-      "doi": "10.1007/s10803-025-07169-0",
-      "url": "https://doi.org/10.1007/s10803-025-07169-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
       ]
     },
     {
