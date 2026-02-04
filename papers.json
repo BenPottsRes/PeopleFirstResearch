@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T07:11:23Z",
+  "generated_at": "2026-02-04T07:12:19Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -85,6 +85,234 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1177/10870547251407731",
+      "title": "Parental Stress and Child Irritability in ADHD: A Two-Wave Longitudinal Serial Mediation Model via Experiential Avoidance and Negative Parent–Child Relationship",
+      "authors": [
+        "Armagan Aral",
+        "Gizem Gerdan",
+        "Yılmaz Orhun Gürlük"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/10870547251407731",
+      "url": "https://doi.org/10.1177/10870547251407731",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "ADHD is complex neurodevelopmental disorder that causes considerable individual and social difficulties, creating significant parental stress. This study aimed to examine the indirect associations between parental stress and child irritability through two sequential parenting mechanisms: experiential avoidance and negative parent–child relationship, within a sample of school-aged children with ADHD (ages 6–12). Using a two-wave longitudinal serial path analysis based on parent-reported data collected at two time points 1-month apart (Time 1 and Time 2), the study investigated whether early parental stress predicted subsequent child irritability via its influence on experiential avoidance and the quality of the parent–child relationship. Findings supported the hypothesized model. More precisely, higher parental stress was associated with greater experiential avoidance, which in turn predicted more negative parent–child relationship, ultimately resulting in elevated child irritability. Longitudinal serial mediation effects confirmed that all Time 1 variables significantly predicted corresponding Time 2 outcomes across the proposed sequential pathway. Notably, the model explained 41.1…"
+    },
+    {
+      "id": "10.1177/10870547251400038",
+      "title": "Changes in ADHD Symptoms and Mood Across the Menstrual Cycle in Females Treated With Stimulants: A Pilot Study",
+      "authors": [
+        "Rebecca Zaritsky",
+        "Stephanie C. Reed",
+        "Suzette M. Evans"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/10870547251400038",
+      "url": "https://doi.org/10.1177/10870547251400038",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Females represent a growing proportion of adults with ADHD yet remain understudied in the literature compared to males. An important aspect of the experience of females with ADHD is the impact of the menstrual cycle and ovarian hormones on both the symptoms of ADHD and effects of stimulant medications on treating these symptoms. Method: In the present pilot study, female participants being treated with amphetamine salts for ADHD ( n = 30) were recruited to complete 35 daily online surveys to track ADHD symptoms, mood, and medication use through the menstrual cycle. Results: Results indicated that the degree of ADHD symptoms was significantly associated with menstrual cycle phase with ADHD symptoms being most severe in the menstruation phase and comparatively milder ADHD symptoms in the mid-follicular phase. This difference was positively correlated with subjective changes in negative mood. Conclusion: These results indicate that ADHD symptoms vary across the menstrual cycle among females being treated with amphetamine salts for their ADHD, a finding that could inform clinical and prescribing practices for physicians caring for females with ADHD."
+    },
+    {
+      "id": "10.1177/10870547251393062",
+      "title": "How Does Adult Temperament Relate to ADHD Symptom Domains? Testing the Dual-Pathway Model",
+      "authors": [
+        "Clara Teuchert",
+        "Julia Kerner auch Koerner",
+        "Monika Daseking",
+        "Henning Heinze"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/10870547251393062",
+      "url": "https://doi.org/10.1177/10870547251393062",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Object: Temperament provides a valuable framework for understanding ADHD across the lifespan, as extreme temperamental traits are considered etiological risk factors. The dual-pathway model links specific temperamental traits to ADHD symptom domains: elevated reactive traits, surgency and negative affect, to hyperactivity/impulsivity, and a low regulatory trait, effortful control, to inattention. Method: One hundred fifty-eight adults (79 with clinical diagnoses of ADHD and 79 controls) filled in the Adult Temperament Questionnaire. Consistent with a compensatory extension of the dual-pathway model, it was hypothesized that effortful control would moderate the effects of reactive traits (surgency/negative affect) on hyperactive/impulsive symptoms and influence both ADHD symptom domains. For exploratory purposes, orienting sensitivity, an adult temperament factor related to perceptual sensitivity, was included in the analyses. Results: Binary logistic regression identified lower effortful control as the strongest predictor of an ADHD diagnosis. Negative affect had a significant but small effect, while surgency and orienting sensitivity were non-significant. Two hierarchical regressi…"
+    },
+    {
+      "id": "10.1177/10870547251384462",
+      "title": "Bridging the Gap: Digital CBT for Adults Managing ADHD Challenges",
+      "authors": [
+        "Kevin M. Antshel",
+        "Haley McBride",
+        "Laura E. Knouse"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/10870547251384462",
+      "url": "https://doi.org/10.1177/10870547251384462",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Quality of life",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Objective: Cognitive behavioral therapy (CBT) is an efficacious treatment for adult ADHD, yet access and availability concerns limit scalability. Mobile health apps are promising tools for delivering scalable CBT. The current study reports findings from a randomized controlled trial (RCT) of a CBT-informed health app for adults with ADHD. Methods: A sample of assessed adults with ADHD ( N = 154; ages 18–55 years) were recruited to participate and randomized to either 8 weeks of use of the CBT-informed app or a waitlist control condition. Participants in both groups completed measures of ADHD symptoms and functioning at baseline, at 4 weeks, and at 8 weeks. Results: Linear mixed-effects models for repeated measurements revealed significant group x time interactions for inattentive symptoms (η 2 = .15), hyperactive-impulsive symptoms (η 2 = .05), and ADHD associated quality of life (η 2 = .04) in favor of the CBT-informed app relative to participants who knew they were not receiving help; however, these results did not extend to a measure of functional impairment. Changes in organizational, time management, and planning behaviors and ADHD-related cognitions partially mediated the ass…"
+    },
+    {
+      "id": "10.1177/10870547251379103",
+      "title": "The Effects of Sleep Treatment on Symptoms of ADHD, Sleep Quality, Fatigue, and Depressive Symptoms in Adults",
+      "authors": [
+        "Mirte van der Ham",
+        "Denise Bijlenga",
+        "Nina Molenaar",
+        "Daniëlle E. J. Starreveld",
+        "Mylène N. Böhmer",
+        "Ravian Wettstein",
+        "Glenn Dumont",
+        "Aartjan T. F. Beekman",
+        "Sandra Kooij"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/10870547251379103",
+      "url": "https://doi.org/10.1177/10870547251379103",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Background: Sleep problems are highly prevalent in adults with ADHD. Sleep problems and ADHD symptoms can cause, amplify, and maintain each other. We studied the effects of additive treatment for sleep problems on self-reported symptoms of ADHD as primary outcome, with subscales of inattention and hyperactivity-impulsivity, objective, performance-based ADHD symptoms, sleep quality, fatigue, and depressive symptoms as secondary outcomes. Methods: Preliminary open-label randomized controlled trial of adult patients diagnosed with ADHD and a positive screening for at least one sleep disorder. Participants were recruited between March, 2020 and May, 2023, during the COVID-19 pandemic. Seventy patients (60% female, mean age 27.9 years [ SD = 8.2]) were randomized to a 12-week period of: (1) ADHD treatment as usual (TAU, n = 25), (2) ADHD TAU + sleep treatment ( n = 22), or (3) stand-alone sleep treatment ( n = 33). Outcome measures were assessed at baseline, and after 6 and 12 weeks of treatment. A total of 20% of participants did not complete the post-treatment assessment. Primary analyses compared changes between groups 1 and 2. Exploratory within-group analyses were conducted to asse…"
+    },
+    {
+      "id": "10.1177/10870547251383430",
+      "title": "Maternal Attention Deficit Hyperactivity Disorder and Perinatal Depression: A Systematic Review",
+      "authors": [
+        "Natalie Pierotti",
+        "Kaushadh Jayakody"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/10870547251383430",
+      "url": "https://doi.org/10.1177/10870547251383430",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is well-established as a disorder that persists into adulthood and is commonly comorbid with other mental health conditions. Despite increasing numbers of women entering reproductive years with this diagnosis, there is limited research on it in the perinatal period. Objective: To critically appraise the available literature and examine the association between maternal ADHD and depression in the perinatal period. Methods: A systematic review was conducted by searching EMBASE, PsycINFO, MEDLINE and Google Scholar up to August 2024. The available literature was evaluated in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines (PRISMA). The quality assessment was performed using the Joanna Briggs Institute framework, and a narrative synthesis was completed. Results: Ten studies were identified as meeting the inclusion criteria. The majority were of medium quality, with issues identified in sample size, study design and validity of the self-report scale used. Our review found a prevalence of 16.76% to 57.6% of perinatal depression in women with ADHD. An increased risk of developing p…"
+    },
+    {
+      "id": "10.1177/10870547251372730",
+      "title": "Maternal ADHD Diagnoses Before and After Childbirth: A Danish Population-Based Cohort Study",
+      "authors": [
+        "Kathrine Bang Madsen",
+        "Mette Winther",
+        "Amalie Thea Jensen",
+        "Katrine Marcussen",
+        "Trine Munk-Olsen",
+        "Rikke Wesselhoeft",
+        "Sarah Kittel-Schneider"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/10870547251372730",
+      "url": "https://doi.org/10.1177/10870547251372730",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: The rates of women of reproductive age diagnosed with ADHD have increased significantly. However, little is known about how pregnancy, childbirth, and the postpartum period influence ADHD related problems, help-seeking behaviors or the timing of ADHD diagnosis. This study aimed to investigate incident ADHD diagnoses among women from 5 years before to 5 years after childbirth. Method: The population-based cohort study utilized Danish nationwide registers to identify mothers of all childbirths between 2010 and 2018. ADHD diagnoses, defined as ICD-10 codes (F90 or F98.8) or redemption of ADHD medication prescriptions, were recorded during 1994 to 2023. Women who received an ADHD diagnosis prior to the five-year pre-birth period were excluded. We estimated calendar-year adjusted incidence of first-time maternal ADHD diagnoses using Poisson regression, and compared incidence across pre-pregnancy, pregnancy, postpartum up to 2 years, and 2 to 5 years postpartum, reporting adjusted incidence rate ratios (IRRs). Analyses included psychiatric comorbidities and non-ADHD psychotropic medication use prior to an ADHD diagnosis, for women diagnosed with ADHD postpartum. Results: The s…"
+    },
+    {
+      "id": "10.1177/10870547251381867",
+      "title": "The Association Between Maternal Progesterone Use During Pregnancy and Offspring Attention Deficit Hyperactivity Disorder Risk",
+      "authors": [
+        "Elham Bidabadi",
+        "Seyedeh Hajar Sharami",
+        "Seyyedeh Azade Hoseini Nouri",
+        "Masoumeh Parandavar",
+        "Afagh Hassanzadeh Rad"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/10870547251381867",
+      "url": "https://doi.org/10.1177/10870547251381867",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Objective: Previous animal studies have suggested a link between progesterone exposure and the development of attention deficit hyperactivity disorder (ADHD). This study clinically evaluated the effect of progesterone use during pregnancy on the risk of ADHD in children. Methods: In this prospective case-control study, 97 children diagnosed with ADHD and 194 age- and sex-matched controls were included. Maternal progesterone use—via suppositories or injections—during pregnancy was assessed. Data were analyzed using SPSS. Results: The mean age was slightly higher in the ADHD group, but not significantly. Male predominance was observed among ADHD cases, although not statistically significant. While neonatal hospitalization rates were similar, the duration was longer in the ADHD group ( p = .009). Cesarean delivery and lower maternal education levels were significantly more common in the ADHD group ( p = .004 and p = .013, respectively). No significant difference in overall progesterone use was found between ADHD and control groups (17.5% vs. 19.1%; p = .749). Injectable progesterone was used in 5.2% of ADHD cases and 10.8% of controls ( p = .130), and the timing of use across pregnanc…"
+    },
+    {
+      "id": "10.1177/25739581261419378",
+      "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
+      "authors": [
+        "Eric K. Layland",
+        "Lux K. Barton",
+        "Sarah L. Curtiss",
+        "Tia N. Barnes",
+        "August X. Wei",
+        "Ilana Seager van Dyk"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261419378",
+      "url": "https://doi.org/10.1177/25739581261419378",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581251371874",
       "title": "“The Wrong Supports Are Worse than no Support”: Autistic Perspectives on Early-in-Life Infant Autism Supports",
       "authors": [
@@ -123,6 +351,36 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251359894",
+      "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
+      "authors": [
+        "Abigail M.A. Love",
+        "Ru Ying Cai",
+        "Bronwyn Rideout",
+        "Linda Hollenberg",
+        "Hayley Clapham",
+        "Gilly McKeown",
+        "Chris Edwards",
+        "Ainslie Robinson",
+        "Charlie Benzie",
+        "Vicki Gibbs"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251359894",
+      "url": "https://doi.org/10.1177/25739581251359894",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251369452",
       "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
       "authors": [
@@ -147,6 +405,125 @@
         "Mental health"
       ],
       "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251366048",
+      "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
+      "authors": [
+        "Lauren Kenworthy",
+        "Sharon daVanport",
+        "Julia Bascom",
+        "Allison Ratto",
+        "Laura G. Anthony",
+        "Alexis Khuu",
+        "Elodie Carel",
+        "John F. Strang",
+        "Alyssa Verbalis",
+        "Cara E. Pugliese",
+        "Jerry Shen",
+        "Kevin A. Pelphrey",
+        "Ji Seung Yang"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251366048",
+      "url": "https://doi.org/10.1177/25739581251366048",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "participatory"
+      ],
+      "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251375249",
+      "title": "Social Interaction Style in Autism: A Narrative Review of Social Behaviors and Outcomes in Autistic and Neurotypical Interactions",
+      "authors": [
+        "Magdalena Matyjek",
+        "Isabel Dziobek",
+        "Antonia Hamilton",
+        "Thalia Wheatley"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251375249",
+      "url": "https://doi.org/10.1177/25739581251375249",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Social interaction difficulties are a defining feature of autism. Historically, research has concentrated on comparing the social behaviors of autistic and neurotypical individuals in cross-neurotype dyads, often attributing challenges in communication to autistic social deficits. However, recent studies on interactions between two autistic individuals provide new insights, suggesting that some social difficulties may at least partially arise from mutual misunderstandings. This narrative review analyzes 25 studies on autistic, mixed, and neurotypical interactions, highlighting consistent differences (e.g., reduced mutual gaze and backchanneling in autistic interactions) and similarities between autistic and neurotypical social interactions (e.g., turn-taking), as well as measurements yielding mixed results (e.g., social motor synchrony). We discuss the variability in social behaviors, interaction outcomes, and study designs in the literature and interpret the existing findings in the light of individual deficits and relational difficulties. We emphasize the need for future research to consider both same- and mixed-neurotype interactions and to include perspectives from neurotypical…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369235",
+      "title": "Dating and Sexual Experiences of Autistic Young Adults: “It Takes a Village to Plan a First Date”",
+      "authors": [
+        "Brooke H. Kohn",
+        "Erin T. Pereida",
+        "Dasha Solomon",
+        "Susan Faja",
+        "David W. Pantalone"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369235",
+      "url": "https://doi.org/10.1177/25739581251369235",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: Research about the experience of autistic adults has highlighted the interests and challenges related to engaging in romantic and sexual relationships. Many autistic adults identify these topics as a crucial unmet service need. To address the complexities of autistic individuals’ experiences related to dating and sex, the increasing demand for autism-specific interventions, and the relatively scarce strengths-based literature, in this article, we aim to center autistic voices to explore their experiences firsthand. Our goal was to identify strengths of autistic individuals and barriers they may face in identifying and realizing their intimate relationship ideals. Methods: Participants ( N = 28) were autistic adults aged 19–28. Participants completed semi-structured qualitative interviews (mean length 44 minutes), addressing their experiences, challenges, desires, and goals for romantic or sexual relationships. Each interview was manually transcribed verbatim and double-checked for accuracy before analysis. Analysis utilized conventional content analysis and consensual qualitative research processes to identify repeating ideas and inductively derive higher order themes f…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -175,6 +552,61 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251375879",
+      "title": "“It’s Like All of My Senses and My Body Become More Awakened”: Autistic Adults’ Experiences of Attending Live Music",
+      "authors": [
+        "Gemma Herbert",
+        "Abbie Smith",
+        "Keren MacLennan"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251375879",
+      "url": "https://doi.org/10.1177/25739581251375879",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Background: Up to 94% of Autistic people have sensory responsivity differences, associated with experiences that can range from being distressing to highly pleasurable. Despite the importance of live music in fostering social inclusion, many venues and events are not inclusive, creating barriers for Autistic people. Given the challenges Autistic people face in accessing live music events, our study aimed to explore their experiences to improve inclusivity, using a critical realism epistemological approach. Methods: We conducted a qualitative study with 16 Autistic adults aged 21–52 through online focus groups ( n = 13), individual interviews ( n = 1), and email exchanges ( n = 2), allowing for spoken or typed communication. Each focus group lasted 1 hour, and we analyzed the data using reflexive thematic analysis, following good practice guidelines. Results: We developed four main themes and two subthemes: (1) “This is a military operation”—Planning to manage uncertainty and overwhelm; (2) “Hating a crowd and loving a crowd at the same time”—Social connection; (3) The duality of an intense sensory environment; (3a) “The music, the vibrations bring out the colors … in my mind”—Immer…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251359076",
+      "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
+      "authors": [
+        "Cheryl L. Dickter",
+        "Joshua A. Burk"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251359076",
+      "url": "https://doi.org/10.1177/25739581251359076",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment",
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251365916",
       "title": "Know Me, See Me, Hear Me: A Scoping Review of the Attitudes and Approaches to Relationships and Sexuality Education for Autistic Individuals and Their Families",
       "authors": [
@@ -197,6 +629,28 @@
         "Education"
       ],
       "abstract": "Background: Even though evidence shows that Relationships and Sexuality Education (RSE) positively impacts personal and social development, different environments and social contexts see it delivered in varied ways. Autism research has shown autistic people experience more adverse life experiences than their neurotypical peers, with fewer and lower quality relationships and higher rates of violence and abuse. Despite this, neurodivergent learners, including autistic individuals, often miss out completely on RSE or are only offered it in response to risk or problematic sexual behavior. As a result, people do not experience the full potential of RSE as a developmental support system. Method: This scoping review explored the literature on attitudes and approaches to RSE for autistic individuals, focusing on the voices of autistic individuals, parents of autistic children, and allied health professionals (AHPs) supporting them. Researchers searched key health care and education electronic databases for studies undertaken by high-income countries from 1990 to the present date, where non-school RSE targeting autistic individuals was the study focus. The researchers established review par…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374440",
+      "title": "“I’m Kind of Stuck in the Middle. I Don’t Know Where to Go”: Race, Autism, and Intersectional Stigma Among Black and White Autistic Adults",
+      "authors": [
+        "Desiree R. Jones",
+        "Monique Botha",
+        "Noah J. Sasson"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374440",
+      "url": "https://doi.org/10.1177/25739581251374440",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Autistic adults frequently experience social stigma, which may be compounded by additional marginalized identities such as race, gender, and sexual orientation. Black autistic adults, in particular, may face unique challenges at the intersection of racial bias and autism stigma. However, the experiences of autistic people with intersecting marginalized identities remain underexplored in research, contributing to a limited understanding of stigma’s impact across diverse communities. Methods: We used qualitative methods to explore how intersecting identities shape autistic adults’ experiences of stigma and marginalization, with an emphasis on Black autistic adults. In total, 32 autistic adults (16 Black and 16 White) completed a semi-structured interview regarding their social experiences. Participants shared recent stories of peer exclusion, acceptance, discrimination, and support that they had experienced, as well as their feelings surrounding these events. We recorded and transcribed these interviews and used an inductive, or data-driven, approach to thematic analysis to identify salient themes in the data. Results: We generated three intersectional themes, which encom…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -236,6 +690,104 @@
         "lived experience"
       ],
       "abstract": "Background: Suicide is a leading cause of death for autistic people, but it is inadequately explained by theories derived in non-autistic populations. Autistic people’s perceptions of the factors underpinning suicidal experiences are vital for guiding conceptual understanding, risk assessment, and policy and clinical practice toward preventing suicide. Methods: We recruited 1369 autistic participants for an online survey designed through consultation with autistic people. Participants were 326 cisgender men, 718 cisgender women, and 325 transgender or gender-divergent individuals, ranging from 16 to 89 years old. We asked them to rate the importance of 19 contributing factors to their suicidal thoughts and feelings and to enter their own explanations of additional factors if desired. Alongside thematically analyzing this qualitative data, we examined whether ratings of contributing factors differed by age and gender and whether ratings statistically predicted levels of lifetime suicidality. Results: Loneliness, feelings of worthlessness/failure, hopelessness, and mental illness were the highest rated contributing factors to suicidal thoughts and feelings, particularly by autistic w…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251359517",
+      "title": "The Preliminary Efficacy of Cognitive Behavioral Therapy Virtual Reality Job Interview and Workplace Communication Training Program for Autistic Adults",
+      "authors": [
+        "Pei-Rong Chen",
+        "Tsung-Ren Huang",
+        "Ming Ouhyoung",
+        "Rung-Huei Liang",
+        "Susan Shur-Fen Gau",
+        "Yi-Ling Chien"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251359517",
+      "url": "https://doi.org/10.1177/25739581251359517",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Background: The majority of autistic adults experience social communication differences that may lead to frustrations during the job application process, even among those with strong work-related skills or histories. Compared with traditional lecture or role-play training, virtual reality (VR) technology generates more realistic and immersive simulated environments, which is crucial for autistic adults who often have difficulties envisioning real-world situations. The study developed a Cognitive Behavioral Therapy (CBT) VR Job Interview and Workplace Communication Training (CBT-VR-JIWCT) program, considering the features of autistic adults, and examined its feasibility and preliminary efficacy. Methods: The eight-session program contained various VR scenarios delivered via head-mounted displays as a highly immersive training environment for practicing job interviewing and communication skills. We examined the feasibility and efficacy of the program through the interviewer-rated Mandarin Chinese Version of the Adapted Mock Interview Rating Scale (adapted MIRS-Chinese), speech analysis, and content analysis. Eighty autistic adults were randomized into the intervention group (n = 40)…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251370469",
+      "title": "The Self–Other Imbalance Hypothesis of Autism: An Empirical Investigation",
+      "authors": [
+        "John Galvin"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251370469",
+      "url": "https://doi.org/10.1177/25739581251370469",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: This study empirically tests whether an imbalance between self-compassion and compassion for others influences mental health outcomes in autistic and non-autistic adults. The main hypothesis is that autistic individuals, compared with non-autistic individuals, may exhibit a greater “self–other imbalance,” which is characterized by low self-compassion and particularly high compassion for others. Methods: This paper describes two empirical studies ( N = 677 in Study 1, N = 404 in Study 2). Participants included autistic adults ( N = 290 in Study 1, N = 201 in Study 2) and non-autistic adults ( N = 387 in Study 1, N = 203 in Study 2). Participants completed demographic questions and measures of autistic traits, self-compassion, compassion for others, anxiety, and depression. Data were analyzed to identify patterns of self–other imbalance and its association with mental health symptoms. Results: Findings of this cross-sectional study indicate that autistic adults, particularly females, exhibit a high self–other imbalance. This tendency was associated with increased symptoms of anxiety and depression, independently predicted these symptoms, and mediated the relationship betw…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251376356",
+      "title": "Building Consensus Around Adult Autism Diagnostic Assessment: A Mixed-Methods Approach",
+      "authors": [
+        "Charlotte I. Stewardson",
+        "Lorelei P. McEwen",
+        "Connor M. Kerns"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251376356",
+      "url": "https://doi.org/10.1177/25739581251376356",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Background: Diagnosing autism in adulthood presents several challenges, including scant validated measures, overlapping characteristics with other conditions, and limited information regarding client preferences and experiences. We sought to generate consensus best practice (CBP, i.e., high endorsement or agreement by ≥75%) between expert clinicians and autistic adults around existing clinical practice guidelines (CPGs) and co-develop statements for enhancing practice. Methods: Thirty-five autistic adults and 30 expert clinicians participated in a three-round Delphi survey. Participants rated abbreviated versions of National Institute for Health and Care Excellence CPGs for adult autism diagnosis on importance, feasibility, and acceptability. In Round 1, participants also answered open-ended questions regarding what is currently working well, missing, and in need of improvement in adult autism assessment. We conducted thematic analysis on these open-ended responses to generate co-developed statements. In subsequent rounds, participants reviewed prior round ratings and comments and then re-rated CPGs (on all three metrics) and co-developed statements to generate CBP. They also selec…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251371420",
+      "title": "Characterizing the Nature of Alexithymia in Autistic Adults: Validation of the Perth Alexithymia Questionnaire",
+      "authors": [
+        "Jack D. Brett",
+        "Irina Jarvers",
+        "Mirko Uljarevic",
+        "Andrew Whitehouse",
+        "James J. Gross",
+        "Andrea C. Samson",
+        "David A. Preece"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251371420",
+      "url": "https://doi.org/10.1177/25739581251371420",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: Alexithymia—a trait characterized by difficulties in emotion processing—is of high interest in the autism field. However, the lack of validated alexithymia measures for autistic individuals limits progress. This study aimed to address this gap by examining the psychometric properties of the Perth Alexithymia Questionnaire (PAQ) across autistic and non-autistic samples. Using the PAQ, we investigated how alexithymia manifests in autistic individuals and its links with poor mental health outcomes (anxiety). Methods: Autistic individuals (who reported having a diagnosis from a health professional; n = 244) and non-autistic individuals ( n = 383; age range: 16–62 years) completed the PAQ and a trait anxiety questionnaire online. We conducted confirmatory factor analysis, item response theory (IRT), and moderated nonlinear factor analyses to investigate the psychometric properties of the PAQ and alexithymia differences between autistic and non-autistic individuals. Regression analyses investigated the relationships between alexithymia and anxiety and whether these relationships differ for autistic or non-autistic populations. Results: As operationalized by the PAQ, alexithym…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -2915,32 +3467,6 @@
       "abstract": "Background: Inclusive health and education services require diverse professionals to inform service delivery, which meet the needs of a diverse population. There is a need to reduce inequalities in employment, and to develop neuro-affirming public services. This requires enhanced understanding of the challenges facing neurodivergent professionals, and solutions informed by lived experience. Methods: This systematic review explored peer-reviewed literature describing the training, recruitment, and employment experiences of autistic professionals working in health and education services. Researchers followed the Preferred Reporting Items for Systematic Review and Meta-Analysis guidelines. Researchers last searched databases, which included Medline, CINAHL, and PsycINFO, in October 2024. Eligible studies presented data describing the experiences of autistic health or education professionals in employment or training, published in English within the last 15 years. Researchers appraised study quality using the Mixed Methods Appraisal Tool. Researchers synthesized data using a narrative approach. The research team received funding from the Scottish Government. Researchers registered the…"
     },
     {
-      "id": "10.1177/10870547251407731",
-      "title": "Parental Stress and Child Irritability in ADHD: A Two-Wave Longitudinal Serial Mediation Model via Experiential Avoidance and Negative Parent–Child Relationship",
-      "authors": [
-        "Armagan Aral",
-        "Gizem Gerdan",
-        "Yılmaz Orhun Gürlük"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-07",
-      "doi": "10.1177/10870547251407731",
-      "url": "https://doi.org/10.1177/10870547251407731",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "ADHD is complex neurodevelopmental disorder that causes considerable individual and social difficulties, creating significant parental stress. This study aimed to examine the indirect associations between parental stress and child irritability through two sequential parenting mechanisms: experiential avoidance and negative parent–child relationship, within a sample of school-aged children with ADHD (ages 6–12). Using a two-wave longitudinal serial path analysis based on parent-reported data collected at two time points 1-month apart (Time 1 and Time 2), the study investigated whether early parental stress predicted subsequent child irritability via its influence on experiential avoidance and the quality of the parent–child relationship. Findings supported the hypothesized model. More precisely, higher parental stress was associated with greater experiential avoidance, which in turn predicted more negative parent–child relationship, ultimately resulting in elevated child irritability. Longitudinal serial mediation effects confirmed that all Time 1 variables significantly predicted corresponding Time 2 outcomes across the proposed sequential pathway. Notably, the model explained 41.1…"
-    },
-    {
       "id": "10.1007/s10803-025-07188-x",
       "title": "Relative Complexity in Repetitive Structure and Visual Preference for Geometric Figures in Autistic Individuals: A Pilot Study",
       "authors": [
@@ -4378,27 +4904,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/10870547251400038",
-      "title": "Changes in ADHD Symptoms and Mood Across the Menstrual Cycle in Females Treated With Stimulants: A Pilot Study",
-      "authors": [
-        "Rebecca Zaritsky",
-        "Stephanie C. Reed",
-        "Suzette M. Evans"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-26",
-      "doi": "10.1177/10870547251400038",
-      "url": "https://doi.org/10.1177/10870547251400038",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Females represent a growing proportion of adults with ADHD yet remain understudied in the literature compared to males. An important aspect of the experience of females with ADHD is the impact of the menstrual cycle and ovarian hormones on both the symptoms of ADHD and effects of stimulant medications on treating these symptoms. Method: In the present pilot study, female participants being treated with amphetamine salts for ADHD ( n = 30) were recruited to complete 35 daily online surveys to track ADHD symptoms, mood, and medication use through the menstrual cycle. Results: Results indicated that the degree of ADHD symptoms was significantly associated with menstrual cycle phase with ADHD symptoms being most severe in the menstruation phase and comparatively milder ADHD symptoms in the mid-follicular phase. This difference was positively correlated with subjective changes in negative mood. Conclusion: These results indicate that ADHD symptoms vary across the menstrual cycle among females being treated with amphetamine salts for their ADHD, a finding that could inform clinical and prescribing practices for physicians caring for females with ADHD."
-    },
-    {
       "id": "10.1002/aur.70159",
       "title": "Effects of Cannabidiol on Social Relating, Anxiety, and Parental Stress in Autistic Children: A Randomized Controlled Crossover Trial",
       "authors": [
@@ -5760,6 +6265,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -5782,27 +6308,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -6668,32 +7173,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1177/10870547251393062",
-      "title": "How Does Adult Temperament Relate to ADHD Symptom Domains? Testing the Dual-Pathway Model",
-      "authors": [
-        "Clara Teuchert",
-        "Julia Kerner auch Koerner",
-        "Monika Daseking",
-        "Henning Heinze"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-29",
-      "doi": "10.1177/10870547251393062",
-      "url": "https://doi.org/10.1177/10870547251393062",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "Object: Temperament provides a valuable framework for understanding ADHD across the lifespan, as extreme temperamental traits are considered etiological risk factors. The dual-pathway model links specific temperamental traits to ADHD symptom domains: elevated reactive traits, surgency and negative affect, to hyperactivity/impulsivity, and a low regulatory trait, effortful control, to inattention. Method: One hundred fifty-eight adults (79 with clinical diagnoses of ADHD and 79 controls) filled in the Adult Temperament Questionnaire. Consistent with a compensatory extension of the dual-pathway model, it was hypothesized that effortful control would moderate the effects of reactive traits (surgency/negative affect) on hyperactive/impulsive symptoms and influence both ADHD symptom domains. For exploratory purposes, orienting sensitivity, an adult temperament factor related to perceptual sensitivity, was included in the analyses. Results: Binary logistic regression identified lower effortful control as the strongest predictor of an ADHD diagnosis. Negative affect had a significant but small effect, while surgency and orienting sensitivity were non-significant. Two hierarchical regressi…"
     },
     {
       "id": "10.1007/s10803-025-07168-1",
@@ -7638,31 +8117,6 @@
         "lived experience"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547251384462",
-      "title": "Bridging the Gap: Digital CBT for Adults Managing ADHD Challenges",
-      "authors": [
-        "Kevin M. Antshel",
-        "Haley McBride",
-        "Laura E. Knouse"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-11",
-      "doi": "10.1177/10870547251384462",
-      "url": "https://doi.org/10.1177/10870547251384462",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Quality of life",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: Cognitive behavioral therapy (CBT) is an efficacious treatment for adult ADHD, yet access and availability concerns limit scalability. Mobile health apps are promising tools for delivering scalable CBT. The current study reports findings from a randomized controlled trial (RCT) of a CBT-informed health app for adults with ADHD. Methods: A sample of assessed adults with ADHD ( N = 154; ages 18–55 years) were recruited to participate and randomized to either 8 weeks of use of the CBT-informed app or a waitlist control condition. Participants in both groups completed measures of ADHD symptoms and functioning at baseline, at 4 weeks, and at 8 weeks. Results: Linear mixed-effects models for repeated measurements revealed significant group x time interactions for inattentive symptoms (η 2 = .15), hyperactive-impulsive symptoms (η 2 = .05), and ADHD associated quality of life (η 2 = .04) in favor of the CBT-informed app relative to participants who knew they were not receiving help; however, these results did not extend to a measure of functional impairment. Changes in organizational, time management, and planning behaviors and ADHD-related cognitions partially mediated the ass…"
     },
     {
       "id": "10.1177/10870547251385350",
@@ -8629,30 +9083,6 @@
       ]
     },
     {
-      "id": "10.1177/10870547251379103",
-      "title": "The Effects of Sleep Treatment on Symptoms of ADHD, Sleep Quality, Fatigue, and Depressive Symptoms in Adults",
-      "authors": [
-        "Mirte van der Ham",
-        "Denise Bijlenga",
-        "Nina Molenaar",
-        "Daniëlle E. J. Starreveld",
-        "Mylène N. Böhmer",
-        "Ravian Wettstein",
-        "Glenn Dumont",
-        "Aartjan T. F. Beekman",
-        "Sandra Kooij"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-10-27",
-      "doi": "10.1177/10870547251379103",
-      "url": "https://doi.org/10.1177/10870547251379103",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Background: Sleep problems are highly prevalent in adults with ADHD. Sleep problems and ADHD symptoms can cause, amplify, and maintain each other. We studied the effects of additive treatment for sleep problems on self-reported symptoms of ADHD as primary outcome, with subscales of inattention and hyperactivity-impulsivity, objective, performance-based ADHD symptoms, sleep quality, fatigue, and depressive symptoms as secondary outcomes. Methods: Preliminary open-label randomized controlled trial of adult patients diagnosed with ADHD and a positive screening for at least one sleep disorder. Participants were recruited between March, 2020 and May, 2023, during the COVID-19 pandemic. Seventy patients (60% female, mean age 27.9 years [ SD = 8.2]) were randomized to a 12-week period of: (1) ADHD treatment as usual (TAU, n = 25), (2) ADHD TAU + sleep treatment ( n = 22), or (3) stand-alone sleep treatment ( n = 33). Outcome measures were assessed at baseline, and after 6 and 12 weeks of treatment. A total of 20% of participants did not complete the post-treatment assessment. Primary analyses compared changes between groups 1 and 2. Exploratory within-group analyses were conducted to asse…"
-    },
-    {
       "id": "10.1007/s10803-025-07083-5",
       "title": "Leveraging Mutual Gaze to Facilitate Social Attention in Autistic Children",
       "authors": [
@@ -9117,29 +9547,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/10870547251383430",
-      "title": "Maternal Attention Deficit Hyperactivity Disorder and Perinatal Depression: A Systematic Review",
-      "authors": [
-        "Natalie Pierotti",
-        "Kaushadh Jayakody"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-10-18",
-      "doi": "10.1177/10870547251383430",
-      "url": "https://doi.org/10.1177/10870547251383430",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is well-established as a disorder that persists into adulthood and is commonly comorbid with other mental health conditions. Despite increasing numbers of women entering reproductive years with this diagnosis, there is limited research on it in the perinatal period. Objective: To critically appraise the available literature and examine the association between maternal ADHD and depression in the perinatal period. Methods: A systematic review was conducted by searching EMBASE, PsycINFO, MEDLINE and Google Scholar up to August 2024. The available literature was evaluated in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines (PRISMA). The quality assessment was performed using the Joanna Briggs Institute framework, and a narrative synthesis was completed. Results: Ten studies were identified as meeting the inclusion criteria. The majority were of medium quality, with issues identified in sample size, study design and validity of the self-report scale used. Our review found a prevalence of 16.76% to 57.6% of perinatal depression in women with ADHD. An increased risk of developing p…"
-    },
-    {
       "id": "10.1007/s10803-025-07038-w",
       "title": "Genetic Counseling Utilization and Experience Among Caregivers of Children With ASD in the United States",
       "authors": [
@@ -9578,28 +9985,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/10870547251372730",
-      "title": "Maternal ADHD Diagnoses Before and After Childbirth: A Danish Population-Based Cohort Study",
-      "authors": [
-        "Kathrine Bang Madsen",
-        "Mette Winther",
-        "Amalie Thea Jensen",
-        "Katrine Marcussen",
-        "Trine Munk-Olsen",
-        "Rikke Wesselhoeft",
-        "Sarah Kittel-Schneider"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-10-09",
-      "doi": "10.1177/10870547251372730",
-      "url": "https://doi.org/10.1177/10870547251372730",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: The rates of women of reproductive age diagnosed with ADHD have increased significantly. However, little is known about how pregnancy, childbirth, and the postpartum period influence ADHD related problems, help-seeking behaviors or the timing of ADHD diagnosis. This study aimed to investigate incident ADHD diagnoses among women from 5 years before to 5 years after childbirth. Method: The population-based cohort study utilized Danish nationwide registers to identify mothers of all childbirths between 2010 and 2018. ADHD diagnoses, defined as ICD-10 codes (F90 or F98.8) or redemption of ADHD medication prescriptions, were recorded during 1994 to 2023. Women who received an ADHD diagnosis prior to the five-year pre-birth period were excluded. We estimated calendar-year adjusted incidence of first-time maternal ADHD diagnoses using Poisson regression, and compared incidence across pre-pregnancy, pregnancy, postpartum up to 2 years, and 2 to 5 years postpartum, reporting adjusted incidence rate ratios (IRRs). Analyses included psychiatric comorbidities and non-ADHD psychotropic medication use prior to an ADHD diagnosis, for women diagnosed with ADHD postpartum. Results: The s…"
-    },
-    {
       "id": "10.1007/s10803-025-07066-6",
       "title": "Association Between Screen Time Exposure and Scores on the Modified Checklist for Autism in Toddlers, Revised With Follow-Up (M-CHAT-R/F) in Children From a Multi-ethnic Population-Based Sample in Singapore",
       "authors": [
@@ -9634,29 +10019,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10870547251381867",
-      "title": "The Association Between Maternal Progesterone Use During Pregnancy and Offspring Attention Deficit Hyperactivity Disorder Risk",
-      "authors": [
-        "Elham Bidabadi",
-        "Seyedeh Hajar Sharami",
-        "Seyyedeh Azade Hoseini Nouri",
-        "Masoumeh Parandavar",
-        "Afagh Hassanzadeh Rad"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-10-08",
-      "doi": "10.1177/10870547251381867",
-      "url": "https://doi.org/10.1177/10870547251381867",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Objective: Previous animal studies have suggested a link between progesterone exposure and the development of attention deficit hyperactivity disorder (ADHD). This study clinically evaluated the effect of progesterone use during pregnancy on the risk of ADHD in children. Methods: In this prospective case-control study, 97 children diagnosed with ADHD and 194 age- and sex-matched controls were included. Maternal progesterone use—via suppositories or injections—during pregnancy was assessed. Data were analyzed using SPSS. Results: The mean age was slightly higher in the ADHD group, but not significantly. Male predominance was observed among ADHD cases, although not statistically significant. While neonatal hospitalization rates were similar, the duration was longer in the ADHD group ( p = .009). Cesarean delivery and lower maternal education levels were significantly more common in the ADHD group ( p = .004 and p = .013, respectively). No significant difference in overall progesterone use was found between ADHD and control groups (17.5% vs. 19.1%; p = .749). Injectable progesterone was used in 5.2% of ADHD cases and 10.8% of controls ( p = .130), and the timing of use across pregnanc…"
     },
     {
       "id": "10.1177/25739581251385735",
@@ -9731,56 +10093,6 @@
         "Education"
       ],
       "abstract": "Objective: This study examines the impact of long-acting stimulant (LAS) pharmacotherapy for ADHD on academic outcomes among students in grades K-12 using retrospective analysis of administrative data. Methods: ADHD diagnosis was identified based on ADHD management plans in school records, physician notes in billing records, and/or prescription records. Prescription records identified LAS-treated students ( n = 15,544), excluding those treated with immediate/intermediate-acting stimulants or atomoxetine. A control group without ADHD ( n = 204,681), and another with untreated ADHD ( n = 27,880) were also identified. The following outcomes were examined using multivariate regression: report card scores, standardized assessment exam performance, graduation from high school, school attendance, and transition to post-secondary education. Results: ADHD was associated with lower average report card scores and provincial assessment exam scores and increased frequency of school absence among grades K-12, and decreased likelihood of high school graduation and transition to post-secondary education. LAS treatment was associated with improved report card (score estimate −4.93 Treated, −6.19 Un…"
-    },
-    {
-      "id": "10.1007/s10803-025-07054-w",
-      "title": "Comparative Effectiveness of Human- and Robot-Based Interventions in Increasing Empathy Among Autistic Children",
-      "authors": [
-        "Xiao-Han Li",
-        "Ming Lui",
-        "Xue-Ke Song",
-        "Yu-Ru Li",
-        "Xuan-Yu Liu",
-        "Renee Pi",
-        "Wing-Chee So"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-06",
-      "doi": "10.1007/s10803-025-07054-w",
-      "url": "https://doi.org/10.1007/s10803-025-07054-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract Methods A total of 82 Chinese-speaking children with autism aged 4–9 years were assigned to an HBI or an RBI group through stratified randomization. Before the intervention, the children’s autism severity, verbal comprehension, and Theory of Mind skills were assessed. Each child received four 30-min training sessions over 4 weeks, during which they watched four dramas performed by human or robot actors, in which one character shared an event with another character, who then displayed an empathic response. Parents completed a questionnaire before, immediately after, and 1 month after the intervention, and children’s cognitive empathy (CE), affective empathy (AE), and prosocial behavior (PB) were evaluated in an experimental task. Results Both RBI and HBI training promote empathy skills, specifically CE, AE, and PB, as evaluated through children’s verbal responses in story tasks. Conclusion RBI empathy training demonstrates comparable reliability and effectiveness to human teaching, suggesting that RBIs can assist human therapists in promoting empathy in children with autism. Our randomized controlled trial was registered in the Chinese Clinical Trial Registry (no. ChiCTR230…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07067-5",
-      "title": "Improving Peer Interactions and Social Skills in Preschool Children With Autism Using Pivotal Response Treatment",
-      "authors": [
-        "Yuxin Long",
-        "Yi Luo",
-        "Jiangtao Han",
-        "Qinwen Zheng",
-        "Xiaodong Kang",
-        "Qiang Wang",
-        "Zengzhen Lei",
-        "Runhua Tang",
-        "Tao Zhang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-06",
-      "doi": "10.1007/s10803-025-07067-5",
-      "url": "https://doi.org/10.1007/s10803-025-07067-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
     }
   ]
 }
