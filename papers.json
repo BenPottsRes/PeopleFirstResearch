@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-04T07:12:19Z",
+  "generated_at": "2026-02-05T07:17:31Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -275,6 +275,28 @@
       "abstract": "Objective: Previous animal studies have suggested a link between progesterone exposure and the development of attention deficit hyperactivity disorder (ADHD). This study clinically evaluated the effect of progesterone use during pregnancy on the risk of ADHD in children. Methods: In this prospective case-control study, 97 children diagnosed with ADHD and 194 age- and sex-matched controls were included. Maternal progesterone use—via suppositories or injections—during pregnancy was assessed. Data were analyzed using SPSS. Results: The mean age was slightly higher in the ADHD group, but not significantly. Male predominance was observed among ADHD cases, although not statistically significant. While neonatal hospitalization rates were similar, the duration was longer in the ADHD group ( p = .009). Cesarean delivery and lower maternal education levels were significantly more common in the ADHD group ( p = .004 and p = .013, respectively). No significant difference in overall progesterone use was found between ADHD and control groups (17.5% vs. 19.1%; p = .749). Injectable progesterone was used in 5.2% of ADHD cases and 10.8% of controls ( p = .130), and the timing of use across pregnanc…"
     },
     {
+      "id": "10.1177/13623613251415129",
+      "title": "Discrepancies between feeling and expressing: Perceptions of autistic and non-autistic emotional expressions by non-autistic observers",
+      "authors": [
+        "Sarah J Foster",
+        "Danny Dunn",
+        "Siddhi Patel",
+        "Amy E Pinkham",
+        "Robert A Ackerman",
+        "Noah J Sasson"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/13623613251415129",
+      "url": "https://doi.org/10.1177/13623613251415129",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Non-autistic observers often interpret autistic emotional expressions more negatively, though it is unclear whether this reflects observer bias or genuine differences in autistic people’s emotional experience and expression. To examine this, 20 autistic and 20 non-autistic adults reported the intensity of their felt emotion while re-experiencing video-recorded events eliciting mild and strong happiness, sadness, and anger. A total of 379 non-autistic observers, half blind to diagnostic status, viewed the recordings and identified the emotion and its intensity. iMotions emotion recognition software also classified the emotional valence of the expressions. Overall, autistic and non-autistic participants reported comparable levels of felt emotion, although differences emerged in how their expressions were perceived. Observers more accurately identified happiness in non-autistic participants and sadness and anger in autistic participants. They also judged autistic participants as expressing sadness and anger more intensely. Informing observers of the diagnostic status of participants largely did not modulate effects. iMotions more often classified mild autistic expressions as neutral a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -527,28 +549,29 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251366856",
-      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
+      "id": "10.1177/25739581251359076",
+      "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
       "authors": [
-        "Hari Srinivasan"
+        "Cheryl L. Dickter",
+        "Joshua A. Burk"
       ],
       "journal": "Autism in Adulthood",
       "year": 2026,
       "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251366856",
-      "url": "https://doi.org/10.1177/25739581251366856",
+      "doi": "10.1177/25739581251359076",
+      "url": "https://doi.org/10.1177/25739581251359076",
       "neurotype": [
         "Autism"
       ],
       "domains": [
-        "Mental health",
-        "Sensory environment"
+        "Education",
+        "Employment",
+        "Mental health"
       ],
       "tags": [
-        "access",
-        "sensory"
+        "lived experience"
       ],
-      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
+      "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -581,32 +604,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251359076",
-      "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
-      "authors": [
-        "Cheryl L. Dickter",
-        "Joshua A. Burk"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251359076",
-      "url": "https://doi.org/10.1177/25739581251359076",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Employment",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251365916",
       "title": "Know Me, See Me, Hear Me: A Scoping Review of the Attitudes and Approaches to Relationships and Sexuality Education for Autistic Individuals and Their Families",
       "authors": [
@@ -629,6 +626,31 @@
         "Education"
       ],
       "abstract": "Background: Even though evidence shows that Relationships and Sexuality Education (RSE) positively impacts personal and social development, different environments and social contexts see it delivered in varied ways. Autism research has shown autistic people experience more adverse life experiences than their neurotypical peers, with fewer and lower quality relationships and higher rates of violence and abuse. Despite this, neurodivergent learners, including autistic individuals, often miss out completely on RSE or are only offered it in response to risk or problematic sexual behavior. As a result, people do not experience the full potential of RSE as a developmental support system. Method: This scoping review explored the literature on attitudes and approaches to RSE for autistic individuals, focusing on the voices of autistic individuals, parents of autistic children, and allied health professionals (AHPs) supporting them. Researchers searched key health care and education electronic databases for studies undertaken by high-income countries from 1990 to the present date, where non-school RSE targeting autistic individuals was the study focus. The researchers established review par…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251366856",
+      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
+      "authors": [
+        "Hari Srinivasan"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251366856",
+      "url": "https://doi.org/10.1177/25739581251366856",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4679,6 +4701,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -4703,27 +4746,6 @@
       ],
       "tags": [
         "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
       ]
     },
     {
@@ -8692,44 +8714,6 @@
       ]
     },
     {
-      "id": "10.1177/13623613251366882",
-      "title": "‘I feel trapped in my safe clothes’: The impact of tactile hyper-sensitivity on autistic adults",
-      "authors": [
-        "Amanda Ferrer Knight",
-        "Deirdre Birtles"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1177/13623613251366882",
-      "url": "https://doi.org/10.1177/13623613251366882",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Clothing-related tactile hyper-sensitivity has been frequently reported among autistic people, but research investigating how this affects autistic adults is limited. This mixed-methods study investigated the impact of clothing-related tactile hyper-sensitivity on autistic adults’ lives, focusing on appearance dissatisfaction, appearance awareness, self-esteem and self-expression through clothing. An online survey was completed by 86 autistic adults in the United Kingdom. Regression analysis revealed a significant predictive relationship between tactile hyper-sensitivity and appearance dissatisfaction. Moderation analysis revealed a significant negative relationship between tactile hyper-sensitivity and self-esteem, moderated by appearance dissatisfaction. Moderation of the relationship between appearance dissatisfaction and self-esteem by appearance awareness was not significant, but both appearance constructs were independent negative predictors of self-esteem. Three themes relating to the impacts of clothing-related tactile sensitivity were generated through thematic analysis of open-ended questions: ‘Negative consequences’, ‘Managing clothing-related tactile sensitivity’ and ‘T…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251382398",
-      "title": "Decolonizing autism research: Integrating Indigenous ways of knowing, being, and doing",
-      "authors": [
-        "Grant Bruno",
-        "Anne Lindblom",
-        "Jessica Tupou",
-        "Fran Kewene",
-        "TC Waisman",
-        "Iliana Magiati"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1177/13623613251382398",
-      "url": "https://doi.org/10.1177/13623613251382398",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1002/aur.70126",
       "title": "Maximizing the Quality and Reporting Standards of Autism Intervention Science",
       "authors": [
@@ -10019,80 +10003,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/25739581251385735",
-      "title": "Challenges, Strengths, and Joys of Autistic Parents: An Abductive Qualitative Content Analysis of Parent Interviews",
-      "authors": [
-        "Sandra Thom-Jones",
-        "Charlotte Brownlow",
-        "Susan Abel"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-10-07",
-      "doi": "10.1177/25739581251385735",
-      "url": "https://doi.org/10.1177/25739581251385735",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ]
-    },
-    {
-      "id": "10.1177/25739581251366361",
-      "title": "A Systematic Review of Resilience in Family Caregivers of Autistic Adults: Implications for Research, Practice, and Policy",
-      "authors": [
-        "Daphne Chakurian",
-        "Lori Popejoy"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-10-07",
-      "doi": "10.1177/25739581251366361",
-      "url": "https://doi.org/10.1177/25739581251366361",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251386949",
-      "title": "Menopause Through an Autistic Lens",
-      "authors": [
-        "Keita Edwards-Adams"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-10-07",
-      "doi": "10.1177/25739581251386949",
-      "url": "https://doi.org/10.1177/25739581251386949",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/10870547251378169",
-      "title": "Academic Outcomes in Primary and Secondary School Students Prescribed Long-Acting Stimulants for ADHD Management",
-      "authors": [
-        "Chris Folkins",
-        "Chandy Somayaji",
-        "Simerpal K. Gill",
-        "James Ted McDonald"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-10-07",
-      "doi": "10.1177/10870547251378169",
-      "url": "https://doi.org/10.1177/10870547251378169",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Objective: This study examines the impact of long-acting stimulant (LAS) pharmacotherapy for ADHD on academic outcomes among students in grades K-12 using retrospective analysis of administrative data. Methods: ADHD diagnosis was identified based on ADHD management plans in school records, physician notes in billing records, and/or prescription records. Prescription records identified LAS-treated students ( n = 15,544), excluding those treated with immediate/intermediate-acting stimulants or atomoxetine. A control group without ADHD ( n = 204,681), and another with untreated ADHD ( n = 27,880) were also identified. The following outcomes were examined using multivariate regression: report card scores, standardized assessment exam performance, graduation from high school, school attendance, and transition to post-secondary education. Results: ADHD was associated with lower average report card scores and provincial assessment exam scores and increased frequency of school absence among grades K-12, and decreased likelihood of high school graduation and transition to post-secondary education. LAS treatment was associated with improved report card (score estimate −4.93 Treated, −6.19 Un…"
     }
   ]
 }
