@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T07:17:31Z",
+  "generated_at": "2026-02-06T07:14:45Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -252,27 +252,118 @@
       "abstract": "Objective: The rates of women of reproductive age diagnosed with ADHD have increased significantly. However, little is known about how pregnancy, childbirth, and the postpartum period influence ADHD related problems, help-seeking behaviors or the timing of ADHD diagnosis. This study aimed to investigate incident ADHD diagnoses among women from 5 years before to 5 years after childbirth. Method: The population-based cohort study utilized Danish nationwide registers to identify mothers of all childbirths between 2010 and 2018. ADHD diagnoses, defined as ICD-10 codes (F90 or F98.8) or redemption of ADHD medication prescriptions, were recorded during 1994 to 2023. Women who received an ADHD diagnosis prior to the five-year pre-birth period were excluded. We estimated calendar-year adjusted incidence of first-time maternal ADHD diagnoses using Poisson regression, and compared incidence across pre-pregnancy, pregnancy, postpartum up to 2 years, and 2 to 5 years postpartum, reporting adjusted incidence rate ratios (IRRs). Analyses included psychiatric comorbidities and non-ADHD psychotropic medication use prior to an ADHD diagnosis, for women diagnosed with ADHD postpartum. Results: The s…"
     },
     {
-      "id": "10.1177/10870547251381867",
-      "title": "The Association Between Maternal Progesterone Use During Pregnancy and Offspring Attention Deficit Hyperactivity Disorder Risk",
+      "id": "10.1007/s10803-026-07232-4",
+      "title": "Autistic Adults and Loved Ones’ Experiences of a Later Life Diagnosis",
       "authors": [
-        "Elham Bidabadi",
-        "Seyedeh Hajar Sharami",
-        "Seyyedeh Azade Hoseini Nouri",
-        "Masoumeh Parandavar",
-        "Afagh Hassanzadeh Rad"
+        "Nicole Ward",
+        "Cathy Randle-Phillips",
+        "Rona Aldridge"
       ],
-      "journal": "Journal of Attention Disorders",
+      "journal": "Journal of Autism and Developmental Disorders",
       "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10870547251381867",
-      "url": "https://doi.org/10.1177/10870547251381867",
+      "published_date": "2026-02-05",
+      "doi": "10.1007/s10803-026-07232-4",
+      "url": "https://doi.org/10.1007/s10803-026-07232-4",
       "neurotype": [
-        "ADHD"
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251413538",
+      "title": "Sleep and activity patterns in autism",
+      "authors": [
+        "J Dylan Weissenkampen",
+        "Arpita Ghorai",
+        "Thaise NR Carneiro",
+        "Maria Fasolino",
+        "Brielle N Gehringer",
+        "Maya Rajan",
+        "Holly C Dow",
+        "Shriya Kunatharaju",
+        "Till Roenneberg",
+        "Ronnie Sebro",
+        "Daniel J Rader",
+        "Brendan T Keenan",
+        "Laura Almasy",
+        "Edward S Brodkin",
+        "Maja Bućan"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-05",
+      "doi": "10.1177/13623613251413538",
+      "url": "https://doi.org/10.1177/13623613251413538",
+      "neurotype": [
+        "Autism"
       ],
       "domains": [
-        "Education"
+        "Communication",
+        "Sensory environment"
       ],
-      "abstract": "Objective: Previous animal studies have suggested a link between progesterone exposure and the development of attention deficit hyperactivity disorder (ADHD). This study clinically evaluated the effect of progesterone use during pregnancy on the risk of ADHD in children. Methods: In this prospective case-control study, 97 children diagnosed with ADHD and 194 age- and sex-matched controls were included. Maternal progesterone use—via suppositories or injections—during pregnancy was assessed. Data were analyzed using SPSS. Results: The mean age was slightly higher in the ADHD group, but not significantly. Male predominance was observed among ADHD cases, although not statistically significant. While neonatal hospitalization rates were similar, the duration was longer in the ADHD group ( p = .009). Cesarean delivery and lower maternal education levels were significantly more common in the ADHD group ( p = .004 and p = .013, respectively). No significant difference in overall progesterone use was found between ADHD and control groups (17.5% vs. 19.1%; p = .749). Injectable progesterone was used in 5.2% of ADHD cases and 10.8% of controls ( p = .130), and the timing of use across pregnanc…"
+      "abstract": "Autism is a heritable neurodevelopmental condition marked by impaired social interaction, repetitive behavior, and co-occurring conditions. Sleep disturbances are common in autism. This study uses low-cost wearable devices to compare sleep, physical activity, and circadian behavior in autistic adults and their non-autistic relatives. We recruited 318 autistic individuals and 130 family members, collecting accelerometer data over 3 weeks (8249 days). Using a data-driven approach, we identified actimetry-derived features associated with autism. We examined 308 traits using the elastic net algorithm and linear mixed effects regressions. We identified 52 actimetry measures associated with autism (area under the curve: 0.812; confidence interval: 0.761–0.862), validated in a test set (area under the curve: 0.756; confidence interval: 0.700–0.813). Both mean and day-to-day variability in several measures (e.g., time spent sedentary, total light physical activity) were associated with autism. In autistic individuals, reduced physical activity during wake was more strongly associated with shorter sleep time than in non-autistic relatives (likelihood ratio: 41.6; p = 1.13e−10). Reduced phys…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-025-00536-8",
+      "title": "Empathy in Children and Adolescents with Autism Spectrum Disorder: A Systematic Review",
+      "authors": [
+        "David Lemos",
+        "Tânia Brandão",
+        "Eva Diniz"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-05",
+      "doi": "10.1007/s40489-025-00536-8",
+      "url": "https://doi.org/10.1007/s40489-025-00536-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Abstract Research examining empathy in autism spectrum disorder (ASD) has primarily focused on its cognitive component, neglecting the affective one. Moreover, there is a lack of systematic knowledge about empathy in children and adolescents with ASD. This will be addressed by the current systematic review. In accordance with PRISMA guidelines, 15 studies were selected from an initial pool of 1,081 records. They mostly included adolescent boys and involved comparisons with typically developing peers. Most studies ( n = 10) reported intact affective empathy but deficits in cognitive empathy; a subset of studies ( n = 5) found impairments in both domains. These findings contribute to a more nuanced understanding of empathy development in ASD during childhood and adolescence. Findings contribute to the conceptualization and assessment of empathy, ultimately informing the design and implementation of evidence-based interventions.",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2619833",
+      "title": "The effectiveness of a digital behavior contract on children with autism spectrum disorder: a multiple probe single-subject design study",
+      "authors": [
+        "Ayşe Tuba Ceyhun",
+        "Saadet Sevinç Kaya"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-04",
+      "doi": "10.1080/20473869.2026.2619833",
+      "url": "https://doi.org/10.1080/20473869.2026.2619833",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2625190",
+      "title": "The effects of Orff music therapy on social skills in children with autism spectrum disorder",
+      "authors": [
+        "Yaqian Li",
+        "Jun Jiang",
+        "Haonan Xu",
+        "Yuandong Shang"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-04",
+      "doi": "10.1080/20473869.2026.2625190",
+      "url": "https://doi.org/10.1080/20473869.2026.2625190",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/13623613251415129",
@@ -549,29 +640,28 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251359076",
-      "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
+      "id": "10.1177/25739581251366856",
+      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
       "authors": [
-        "Cheryl L. Dickter",
-        "Joshua A. Burk"
+        "Hari Srinivasan"
       ],
       "journal": "Autism in Adulthood",
       "year": 2026,
       "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251359076",
-      "url": "https://doi.org/10.1177/25739581251359076",
+      "doi": "10.1177/25739581251366856",
+      "url": "https://doi.org/10.1177/25739581251366856",
       "neurotype": [
         "Autism"
       ],
       "domains": [
-        "Education",
-        "Employment",
-        "Mental health"
+        "Mental health",
+        "Sensory environment"
       ],
       "tags": [
-        "lived experience"
+        "access",
+        "sensory"
       ],
-      "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
+      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -604,6 +694,32 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251359076",
+      "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
+      "authors": [
+        "Cheryl L. Dickter",
+        "Joshua A. Burk"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251359076",
+      "url": "https://doi.org/10.1177/25739581251359076",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment",
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251365916",
       "title": "Know Me, See Me, Hear Me: A Scoping Review of the Attitudes and Approaches to Relationships and Sexuality Education for Autistic Individuals and Their Families",
       "authors": [
@@ -626,31 +742,6 @@
         "Education"
       ],
       "abstract": "Background: Even though evidence shows that Relationships and Sexuality Education (RSE) positively impacts personal and social development, different environments and social contexts see it delivered in varied ways. Autism research has shown autistic people experience more adverse life experiences than their neurotypical peers, with fewer and lower quality relationships and higher rates of violence and abuse. Despite this, neurodivergent learners, including autistic individuals, often miss out completely on RSE or are only offered it in response to risk or problematic sexual behavior. As a result, people do not experience the full potential of RSE as a developmental support system. Method: This scoping review explored the literature on attitudes and approaches to RSE for autistic individuals, focusing on the voices of autistic individuals, parents of autistic children, and allied health professionals (AHPs) supporting them. Researchers searched key health care and education electronic databases for studies undertaken by high-income countries from 1990 to the present date, where non-school RSE targeting autistic individuals was the study focus. The researchers established review par…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251366856",
-      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
-      "authors": [
-        "Hari Srinivasan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251366856",
-      "url": "https://doi.org/10.1177/25739581251366856",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4701,27 +4792,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -4746,6 +4816,27 @@
       ],
       "tags": [
         "sensory"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
       ]
     },
     {
@@ -6287,27 +6378,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -6330,6 +6400,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -9631,26 +9722,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -9672,6 +9743,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -9967,42 +10058,6 @@
         "access"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07066-6",
-      "title": "Association Between Screen Time Exposure and Scores on the Modified Checklist for Autism in Toddlers, Revised With Follow-Up (M-CHAT-R/F) in Children From a Multi-ethnic Population-Based Sample in Singapore",
-      "authors": [
-        "Erdembileg Sundarimaa",
-        "Siew Pang Chan",
-        "Ruth Mingli Zheng",
-        "Shang Chee Chong",
-        "Ramkumar Aishworiya"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-08",
-      "doi": "10.1007/s10803-025-07066-6",
-      "url": "https://doi.org/10.1007/s10803-025-07066-6",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s40489-025-00524-y",
-      "title": "Difficulties in Emotion Recognition from Body Movements in Autism Spectrum Disorder: A Systematic Review and Meta-Analysis",
-      "authors": [
-        "Yu-meng Che",
-        "Han-yu Zhou"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-08",
-      "doi": "10.1007/s40489-025-00524-y",
-      "url": "https://doi.org/10.1007/s40489-025-00524-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
