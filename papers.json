@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T07:14:45Z",
+  "generated_at": "2026-02-07T07:03:25Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -230,26 +230,126 @@
       "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is well-established as a disorder that persists into adulthood and is commonly comorbid with other mental health conditions. Despite increasing numbers of women entering reproductive years with this diagnosis, there is limited research on it in the perinatal period. Objective: To critically appraise the available literature and examine the association between maternal ADHD and depression in the perinatal period. Methods: A systematic review was conducted by searching EMBASE, PsycINFO, MEDLINE and Google Scholar up to August 2024. The available literature was evaluated in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines (PRISMA). The quality assessment was performed using the Joanna Briggs Institute framework, and a narrative synthesis was completed. Results: Ten studies were identified as meeting the inclusion criteria. The majority were of medium quality, with issues identified in sample size, study design and validity of the self-report scale used. Our review found a prevalence of 16.76% to 57.6% of perinatal depression in women with ADHD. An increased risk of developing p…"
     },
     {
-      "id": "10.1177/10870547251372730",
-      "title": "Maternal ADHD Diagnoses Before and After Childbirth: A Danish Population-Based Cohort Study",
+      "id": "10.1007/s10803-026-07242-2",
+      "title": "Cross-Cultural Differences in the Interpretation of Autistic Traits: A Comparison Between Iran, Malaysia, Morocco, and The Netherlands",
       "authors": [
-        "Kathrine Bang Madsen",
-        "Mette Winther",
-        "Amalie Thea Jensen",
-        "Katrine Marcussen",
-        "Trine Munk-Olsen",
-        "Rikke Wesselhoeft",
-        "Sarah Kittel-Schneider"
+        "Omid R. Fani",
+        "Maretha V. de Jonge",
+        "Steve M. J. Janssen",
+        "Ahmed O. T. Ahami",
+        "Marieke de Vries"
       ],
-      "journal": "Journal of Attention Disorders",
+      "journal": "Journal of Autism and Developmental Disorders",
       "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10870547251372730",
-      "url": "https://doi.org/10.1177/10870547251372730",
+      "published_date": "2026-02-06",
+      "doi": "10.1007/s10803-026-07242-2",
+      "url": "https://doi.org/10.1007/s10803-026-07242-2",
       "neurotype": [
-        "ADHD"
+        "Autism"
       ],
-      "abstract": "Objective: The rates of women of reproductive age diagnosed with ADHD have increased significantly. However, little is known about how pregnancy, childbirth, and the postpartum period influence ADHD related problems, help-seeking behaviors or the timing of ADHD diagnosis. This study aimed to investigate incident ADHD diagnoses among women from 5 years before to 5 years after childbirth. Method: The population-based cohort study utilized Danish nationwide registers to identify mothers of all childbirths between 2010 and 2018. ADHD diagnoses, defined as ICD-10 codes (F90 or F98.8) or redemption of ADHD medication prescriptions, were recorded during 1994 to 2023. Women who received an ADHD diagnosis prior to the five-year pre-birth period were excluded. We estimated calendar-year adjusted incidence of first-time maternal ADHD diagnoses using Poisson regression, and compared incidence across pre-pregnancy, pregnancy, postpartum up to 2 years, and 2 to 5 years postpartum, reporting adjusted incidence rate ratios (IRRs). Analyses included psychiatric comorbidities and non-ADHD psychotropic medication use prior to an ADHD diagnosis, for women diagnosed with ADHD postpartum. Results: The s…"
+      "abstract": "Abstract Purpose The diagnosis of Autism relies partly on the evaluation of social behavior. What is perceived as “appropriate” (social) behavior is influenced by culture, as culture shapes norms and beliefs about behavior. Culture might thus influence the interpretation of autistic traits and the diagnostic process. We aimed to study whether culture affects the interpretation and reporting of autistic traits and how autism knowledge is associated with these relations. Methods To do so, we investigated cross-cultural differences in self-reported autistic traits (autism-spectrum Quotient) and the commonness of these traits in Iran ( n = 88), Malaysia ( n = 181), Morocco ( n = 94), and the Netherlands ( n = 113). Additionally, we explored the relationship between (the commonness of) autistic traits and autism knowledge (Revised Autism Knowledge Survey) across these countries. Results The results indicated, consistent with previous studies, cross-cultural differences in both self-reported autistic traits and the commonness of these traits. Cross-cultural differences in reporting autistic traits showed that cultural background might affect their interpretation. There was a relationship…"
+    },
+    {
+      "id": "10.1007/s10803-026-07229-z",
+      "title": "A Mixed Methods Exploration of Emergency Service Use Among Autistic Youth",
+      "authors": [
+        "Rebecca S. Bradley",
+        "Lauren Quetsch",
+        "Emily-Anne del Rosario",
+        "Katri Shields"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-06",
+      "doi": "10.1007/s10803-026-07229-z",
+      "url": "https://doi.org/10.1007/s10803-026-07229-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Emergency care"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Autistic youth are at increased risk for needing emergency services compared to their non-autistic peers. While research has begun to explore the nature of emergency service use in this group, researchers have not yet assessed important individual-, family-, and community-level factors that may be associated with these encounters. This study aimed to address this gap in the field via a mixed methods design by characterizing families of autistic children who have utilized emergency services, examining factors accounting for significant differences in service utilization, and exploring family experiences and satisfaction with emergency service encounters. Method 77 caregivers of autistic individuals who endorsed current child challenging behavior completed measures assessing child, family, and community variables. 38 caregivers had used emergency services in recent years; a subset of caregivers ( n = 8) completed interviews about their experiences with emergency services. Results Bivariate analyses and a multivariate analysis of variance were conducted with individual, family, and community variables to determine group differences for families with and without recent…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07236-0",
+      "title": "Measuring Theory of Mind: A Multiple-Choice Response Format Version of the Short Story Task",
+      "authors": [
+        "Stephanie C. Goodhew",
+        "Mark Edwards"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-06",
+      "doi": "10.1007/s10803-026-07236-0",
+      "url": "https://doi.org/10.1007/s10803-026-07236-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Theory of mind is the capacity to understand others’ mental states, such as their thoughts, beliefs, and feelings, even when they differ from one’s own. The Short Story Task is a measure of individual differences in theory of mind in adults, where respondents are scored on the accuracy of their mental state inferences about characters in the story. However, it collects open-ended responses and thus requires labour-intensive subjective scoring. The present study tested the validity of a new multiple-choice response format of the Short Story Task (SST-MCQ). Method People on the Autism Spectrum can have difficulty with theory of mind. Therefore, a common validation approach for theory of mind measures is to demonstrate reduced task performance for those on the Autism Spectrum and/or those higher in autistic traits. Here, participants with an Autism Spectrum diagnosis and neurotypical participants were recruited for two studies, and participants completed the SST-MCQ and Autism Quotient (AQ-10). Results A combined analysis of the two studies (256 Autism Spectrum participants and 263 neurotypical) showed higher autistic traits as measured by the AQ-10 were associated wi…"
+    },
+    {
+      "id": "10.1007/s10803-025-07210-2",
+      "title": "A Scale Development and Examination of Neurotypical College Students’ Perceived Barriers to Interacting With Peers on the Autism Spectrum",
+      "authors": [
+        "Zachary H. Chagnon",
+        "Deborah M. Casper",
+        "Tricia H. Witte",
+        "Theodore S. Tomeny"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-06",
+      "doi": "10.1007/s10803-025-07210-2",
+      "url": "https://doi.org/10.1007/s10803-025-07210-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "access"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07235-1",
+      "title": "Too Tired, Too Busy, Still Trying: Perspectives on Exercise Participation Among Latino Parents of Children with Developmental Disabilities",
+      "authors": [
+        "Jamie Lee Jaime Concepción",
+        "Tanu Shree Yadav",
+        "Kristen A. Pickett",
+        "Kecia L. Doyle",
+        "María Carmen Ocete del Calvo",
+        "Luis Columna"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-06",
+      "doi": "10.1007/s10803-026-07235-1",
+      "url": "https://doi.org/10.1007/s10803-026-07235-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07240-4",
+      "title": "Emotional Contagion and Autistic Traits: Disentangling Components of Social-Emotional Processing",
+      "authors": [
+        "Lars-Olov Lundqvist"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-06",
+      "doi": "10.1007/s10803-026-07240-4",
+      "url": "https://doi.org/10.1007/s10803-026-07240-4",
+      "neurotype": [
+        "Autism"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07232-4",
@@ -388,6 +488,22 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -408,22 +524,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -464,6 +564,33 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -491,33 +618,6 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4208,32 +4308,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613251374957",
-      "title": "Increasing dependability of caregiver implementation fidelity estimates in early intervention: A generalizability and decision study",
-      "authors": [
-        "Lauren H Hampton",
-        "Micheal P Sandbank",
-        "Jerrica Butler",
-        "Annabel Garza"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251374957",
-      "url": "https://doi.org/10.1177/13623613251374957",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "There is an increasing need to measure caregiver implementation of strategies from Naturalistic Developmental Behavioral Interventions (NDBIs) as a possible key mediator of outcomes in a child. The NDBI Fidelity (NDBI-Fi) rating scheme is a macro-code to estimate the implementation of core strategies. Yet, there is a need to understand the dependability of this measure to ensure intervention study findings are generalizable to everyday interactions and comparable across studies. We addressed this by evaluating the dependability or consistency of NDBI-Fi scores for 20 caregivers, averaged across observations of two occasions of two routines that were each scored by two raters. Our findings indicated that a single score (i.e. from a single occasion, single routine, and single rater) from the measure has low dependability ( g = 0.43). When scores were averaged across two observations each of two routines scored by two raters (i.e. eight scores total), the score was more dependable ( g = 0.77). The majority (81.6%) of absolute error variance was attributable to occasions of observation and its interaction with other facets (routine or rater). Therefore, we recommend the NDBI-Fi be appl…"
-    },
-    {
       "id": "10.1108/aia-08-2025-0088",
       "title": "Communicating autism: a qualitative analysis of daily challenges and adaptations",
       "authors": [
@@ -4792,6 +4866,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -4816,27 +4911,6 @@
       ],
       "tags": [
         "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
       ]
     },
     {
@@ -6378,6 +6452,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -6400,27 +6495,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -7160,36 +7234,6 @@
       ],
       "abstract": "ABSTRACT Autism spectrum disorder (ASD) has been linked to dysfunctional communication among brain regions and functional networks, as reflected by abnormal resting‐state functional connectivity (rsFC). However, the consistent findings thus far have been elusive. To examine whether individuals with ASD show rsFC differently than healthy individuals at multiple seed levels, we performed a systematic analysis and meta‐analysis at all prior seeds, functional network seeds, and single seed levels. This study was registered in the PROSPERO (registration number CRD42024559418). Publications were identified in PubMed, Embase, and PsycINFO from database inception until December 20, 2023. Publications were included that provided seed‐based whole‐brain rsFC contrasts between a sample with ASD and controls at rest. Seed and peak effect coordinates and intergroup effects were extracted for analysis. Random‐effects meta‐analysis was performed using the Seed‐based d Mapping software. This study included 26 studies from 709 people with ASD and 705 controls. The frontal regions, right medial cingulate gyrus (MCG) ( g = −0.51; 95% CI, −0.69 to −0.33) of the ventral attention network (VAN), and medi…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70123",
-      "title": "Meaningful Determinants of Early Response: Predicting and Characterizing Behavioral Changes for Minimally Verbal Autistic Children",
-      "authors": [
-        "Jonathan Panganiban",
-        "Wendy Shih",
-        "Lynne Levato",
-        "Stephanie Shire",
-        "Connie Kasari"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1002/aur.70123",
-      "url": "https://doi.org/10.1002/aur.70123",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Employment",
-        "Healthcare",
-        "Quality of life"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism encompasses a wide range of developmental abilities. Notably, nearly 30% of children fail to achieve phrase speech by kindergarten, even when provided with years of early interventions or participation in rigorously conducted clinical trials. Our understanding of why these challenges persist is limited by an underrepresentation of minimally verbal (MV) children in autism research. Consequently, our understanding of benefits from early intervention is limited. There is promising evidence that minimally verbal autistic children may benefit from an adaptive approach that can address their dynamic needs. Adaptive interventions give service providers the ability to adjust strategies and approaches to match the needs of an individual. A critical component of an adaptive intervention approach is the ability to assess response to the intervention in order to make a decision on the best course of action. Previous work in identifying response to intervention has identified key predictors such as IQ, age, and expressive language ability. However, it may be helpful to examine core developmental skills as important variables driving decisions in adaptive intervention approaches.…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613251394558",
@@ -9722,6 +9766,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -9743,26 +9807,6 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -10033,31 +10077,6 @@
       ],
       "abstract": "Abstract Purpose Identifying children with autism spectrum disorder (ASD) of all ages using a screening tool is valuable. We evaluated a shortened version of the 65-item Social Responsiveness Scale (SRS). Methods A total of 1,462 dyads from the Simons Simplex Collection consisted of a child with a clinically confirmed diagnosis of ASD and a sibling without ASD. All siblings were free of suspected intellectual disabilities and severe learning disabilities, had neither developmental nor psychiatric disorders, and did not have an Individual Education Plan for extensive special education services. Areas under Receiver Operating Characteristics (AUROC) curves quantified scale performance. A non-inferiority margin of − 0.005 was pre-specified. Results The AUROC for the 5-item scale (5iSRS) was 0.9943, the predictive value positive was 97.3% and predictive value negative was 96.9%. The AUROC for the 65-item SRS was 0.9926, resulting in an AUROC difference of 0.0017 (95% CI=[– 0.0003, 0.0037]) and meeting the non-inferiority criterion. Conclusion The 5iSRS can distinguish between children with and without ASD and is non-inferior to the 65-item SRS, and thus may have substantial utility in…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2025.2554819",
-      "title": "Barriers and facilitators of healthcare access for autistic children in the UK: a survey of parents and healthcare professionals",
-      "authors": [
-        "Tonia T. Babalola",
-        "Lucy Dipper",
-        "Nicola Botting"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-10-09",
-      "doi": "10.1080/20473869.2025.2554819",
-      "url": "https://doi.org/10.1080/20473869.2025.2554819",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
