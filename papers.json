@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T07:03:25Z",
+  "generated_at": "2026-02-08T07:08:20Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -230,6 +230,44 @@
       "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is well-established as a disorder that persists into adulthood and is commonly comorbid with other mental health conditions. Despite increasing numbers of women entering reproductive years with this diagnosis, there is limited research on it in the perinatal period. Objective: To critically appraise the available literature and examine the association between maternal ADHD and depression in the perinatal period. Methods: A systematic review was conducted by searching EMBASE, PsycINFO, MEDLINE and Google Scholar up to August 2024. The available literature was evaluated in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines (PRISMA). The quality assessment was performed using the Joanna Briggs Institute framework, and a narrative synthesis was completed. Results: Ten studies were identified as meeting the inclusion criteria. The majority were of medium quality, with issues identified in sample size, study design and validity of the self-report scale used. Our review found a prevalence of 16.76% to 57.6% of perinatal depression in women with ADHD. An increased risk of developing p…"
     },
     {
+      "id": "10.1108/aia-08-2025-0087",
+      "title": "Screening autism in adulthood: psychometric evidence for two brief measures sensitive to gendered presentations",
+      "authors": [
+        "Luis Anunciacao",
+        "Christopher Murray",
+        "Louise Marques"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-10",
+      "doi": "10.1108/aia-08-2025-0087",
+      "url": "https://doi.org/10.1108/aia-08-2025-0087",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose This study aims to introduce and evaluate two brief screening instruments for autism in Brazil. Initial data on reliability, validity, norms and proposed cutoff scores are presented. Design/methodology/approach Each brief scale was completed by 700 independent participants, gathered as a convenience sample. The mean age of participants completing the Brief Screening for Autism Spectrum (Brief-Spec) A was 37.6 years (SD = 11.7) with balanced gender distribution (50.0% male); Brief-Spec F had a mean age of 40.3 years (SD = 10.3). Most participants had college or postgraduate degrees. Data were collected online, with informed consent obtained. Psychometric evaluation included confirmatory factor analysis, ordinal alpha and omega estimates, and correlations with Autism Spectrum Quotient-10 scores. Findings Both tools demonstrated strong structural validity and high reliability. Brief-Spec A showed acceptable fit (CFI = 0.915, TLI = 0.903, RMSEA = 0.085, SRMR = 0.048; α = 0.87 – 0.90, ω = 0.84 – 0.89). Brief-Spec F also showed acceptable fit (CFI = 0.922, TLI = 0.907, RMSEA = 0.098, SRMR = 0.067; α = 0.82–0.93, ω = 0.82 – 0.90). Both showed substantial convergent validity and pr…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2625193",
+      "title": "Depressive symptoms in children and adolescents with autism spectrum disorder: application of cognitive behavioral therapy in school",
+      "authors": [
+        "Christine K. Syriopoulou-Delli",
+        "Areti-Eirini Filiou"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-07",
+      "doi": "10.1080/20473869.2026.2625193",
+      "url": "https://doi.org/10.1080/20473869.2026.2625193",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-026-07242-2",
       "title": "Cross-Cultural Differences in the Interpretation of Autistic Traits: A Comparison Between Iran, Malaysia, Morocco, and The Netherlands",
       "authors": [
@@ -350,6 +388,38 @@
       "neurotype": [
         "Autism"
       ]
+    },
+    {
+      "id": "10.1177/10870547251415434",
+      "title": "ROAR-Early Childhood: Pilot Testing a Brief Telemedicine Parent Training Program for Rural Children Diagnosed with ADHD",
+      "authors": [
+        "James T. Craig",
+        "Michael T. Sanders",
+        "Christina C. Moore",
+        "Erin Barnett",
+        "Kady F. Sternberg",
+        "Nicole L. Breslend",
+        "Lauren C. Vazquez",
+        "Nina Sand-Loud",
+        "Mary K. Jankowski"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-06",
+      "doi": "10.1177/10870547251415434",
+      "url": "https://doi.org/10.1177/10870547251415434",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Quality of life",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Objective: Attention Deficit/Hyperactivity Disorder (ADHD) is a chronic and impairing neurodevelopmental disorder diagnosed in approximately 2% to 4% of preschool-age children and 9% of all children. Behavioral parent training (BPT) and high-quality education are effective treatments for young children with ADHD; however, poor rates of treatment access and participation limit the reach of BPTs to rural and underserved communities. In this study, we tested the newly developed Rural Outreach and ADHD Research-Early Childhood (ROAR-EC) program, a clinician-led, 7-session education and parent training program designed for delivery over telemedicine. Method: We conducted a pilot RCT to assess the feasibility, acceptability, engagement of mechanism, and exploratory group × time effects of the ROAR-EC program compared to a control group in a sample of 44 children diagnosed with ADHD from a predominantly rural area (ages 3–7; M age = 4.8; 62% male; 96% White; 89% non-Hispanic/Latinx). Families were randomized into either ROAR-EC or treatment as usual through developmental pediatrics and followed for 24 weeks. Assessed were metrics of feasibility, acceptability, parenting practices, caregiv…"
     },
     {
       "id": "10.1007/s10803-026-07232-4",
@@ -2762,7 +2832,7 @@
         "Meredith O’Connor",
         "Mohammad Ghaziuddin",
         "Mai Uchida",
-        "Atilla Ceronglu",
+        "Atilla Ceranoglu",
         "Janet Wozniak",
         "Gagan Joshi"
       ],
@@ -7048,26 +7118,6 @@
       "abstract": "Background: Autistic transition-age youths experienced unique psychosocial challenges in transitioning to postsecondary settings. These challenges may result from both the nature of autism and the developmental tasks associated with this unique developmental stage. Given the challenges and barriers faced by this population, understanding the relationship among factors in this transition period and developing relevant interventions are crucial. The purpose of the study was to examine the relationships between autism acceptance and coping strategies and understand how they impact the quality of life (QOL) of this population. Method: In total, 204 autistic youths aged 18–26 years recruited from Prolific and Amazon Mechanical Turk completed an online survey consisting of instruments measuring target variables. Two parallel mediation models were examined to explore the relationships between autism acceptance, coping, and QOL. Results: Both parallel mediation models showed good fit. In the first model, perceived acceptance had a significant direct effect on QOL (β = 0.512, p &lt; 0.01) and a significant indirect effect through engagement coping (β = 0.059, p &lt; 0.01). In the second mod…"
     },
     {
-      "id": "10.1089/aut.2023.0134",
-      "title": "Empathic Disequilibrium as a Predictor of Nonsuicidal Self-Injury in Autistic and Nonautistic People",
-      "authors": [
-        "Rachel Moseley",
-        "Ido Shalev",
-        "Nicola Gregory",
-        "Florina Uzefovsky"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1089/aut.2023.0134",
-      "url": "https://doi.org/10.1089/aut.2023.0134",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Background: Nonsuicidal self-injury (NSSI) affects many autistic individuals, and has been linked to suicidality in this group. It has been closely linked to difficulties with intrapersonal emotion regulation, but a role of interpersonal emotion regulation processes in NSSI has been underexplored. Empathic disequilibrium is a state of imbalance between a person’s cognitive empathy (CE) and emotional empathy (EE). We recently found that autistic people exhibit heightened EE relative to CE, consistent with their firsthand reports of hypersensitivity to the emotions of others. Because this kind of empathic imbalance is associated with hyperarousal and emotional reactivity, we hypothesized that it might increase the risk of NSSI, which often occurs as a means of trying to regulate overwhelming or distressing emotions. Methods: We measured CE, EE, emotional reactivity, and NSSI behaviors in 304 autistic and 289 nonautistic participants, and used polynomial regression with response surface analysis to examine empathic disequilibrium as a predictor of emotional reactivity and engagement in NSSI. Results: Replicating previous research, individuals with an autism diagnosis were more likely…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1089/aut.2023.0121",
       "title": "Proportional Overrepresentation of Gender-Diverse Identities in Two US-Based Autistic Adult Samples from the SPARK Database",
       "authors": [
@@ -7093,6 +7143,26 @@
         "Mental health"
       ],
       "abstract": "Background: Previous literature indicates a proportional overrepresentation of both autism and autistic traits within gender-diverse populations (individuals who experience their gender identity as different from their sex assigned at birth). Emerging but limited evidence also suggests a proportional overrepresentation of gender-diverse identities in autism. To our knowledge, this is the first study to report gender diversity prevalence in autistic adults in the United States. Methods: We report the prevalence of gender diversity within two well-characterized samples of autistic adults recruited from SPARK (Simons Foundation Powering Autism Research for Knowledge), the largest online research database of autistic individuals to date. This study includes both an original sample (Dataset 1, n = 205) and a replication sample (Dataset 2, n = 243). In addition, we looked at the co-occurrence of anxiety and/or mood disorders with gender-diverse identities. Results: We found that 16.1% of autistic adults in Dataset 1 and 19.8% of autistic adults in Dataset 2 were gender diverse. This compares with prior findings of 0.5% to 4.5% in the general adult population. Autistic participants who we…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2023.0134",
+      "title": "Empathic Disequilibrium as a Predictor of Nonsuicidal Self-Injury in Autistic and Nonautistic People",
+      "authors": [
+        "Rachel Moseley",
+        "Ido Shalev",
+        "Nicola Gregory",
+        "Florina Uzefovsky"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0134",
+      "url": "https://doi.org/10.1089/aut.2023.0134",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Background: Nonsuicidal self-injury (NSSI) affects many autistic individuals, and has been linked to suicidality in this group. It has been closely linked to difficulties with intrapersonal emotion regulation, but a role of interpersonal emotion regulation processes in NSSI has been underexplored. Empathic disequilibrium is a state of imbalance between a person’s cognitive empathy (CE) and emotional empathy (EE). We recently found that autistic people exhibit heightened EE relative to CE, consistent with their firsthand reports of hypersensitivity to the emotions of others. Because this kind of empathic imbalance is associated with hyperarousal and emotional reactivity, we hypothesized that it might increase the risk of NSSI, which often occurs as a means of trying to regulate overwhelming or distressing emotions. Methods: We measured CE, EE, emotional reactivity, and NSSI behaviors in 304 autistic and 289 nonautistic participants, and used polynomial regression with response surface analysis to examine empathic disequilibrium as a predictor of emotional reactivity and engagement in NSSI. Results: Replicating previous research, individuals with an autism diagnosis were more likely…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8849,54 +8919,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70126",
-      "title": "Maximizing the Quality and Reporting Standards of Autism Intervention Science",
-      "authors": [
-        "Shannon LaPoint",
-        "Claire Brito Klein",
-        "Micheal Sandbank",
-        "Kristen Bottema‐Beutel",
-        "Sue Fletcher‐Watson",
-        "Gauri Divan",
-        "Dagmara Dimitriou",
-        "Evdokia Anagnostou",
-        "Mette Elmose Andersen",
-        "Amanda Binns",
-        "Tony Charman",
-        "Jasper A. Estabillo",
-        "Stephanie M. Fecteau",
-        "Anna Ferrari",
-        "Marie‐Maude Geoffray",
-        "Lauren H. Hampton",
-        "Sabri Hergüner",
-        "Emily S. Kuschner",
-        "Jia Ying Sarah Lee",
-        "Julie Segers",
-        "Deanna Swain",
-        "Sarah Vejnoska",
-        "Giacomo Vivanti",
-        "Chongying Wang",
-        "Jonathan Green"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-11-01",
-      "doi": "10.1002/aur.70126",
-      "url": "https://doi.org/10.1002/aur.70126",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "ABSTRACT Although there are clear international standards for intervention science and reporting in healthcare, implementation and uptake have been limited within autism intervention research. To address this concern, a Special Interest Group (SIG) was convened at the International Society for Autism Research (INSAR) Annual Meetings in May 2023 and May 2024. This SIG comprised members of the autistic community, senior clinical scientists, clinicians, advanced researchers, and early career researchers, who discussed and debated quality standards for autism intervention trials. This commentary summarizes relevant literature highlighted by SIG panelists and recommendations generated from small breakout groups and larger group discussions with SIG attendees. We recommend that all journals publishing autism intervention findings, especially autism‐focused journals, institute mandatory reporting practices (e.g., trial registration, protocol, analysis plan) to facilitate transparency and rigorous autism intervention science, as well as related education initiatives in support of this goal. Findings from the SIG offer practical, actionable recommendations that we advocate be systematically…"
-    },
-    {
       "id": "10.1007/s10803-025-07101-6",
       "title": "Streamlining Adult Autism Diagnosis: High-yield DSM-5-TR Predictors and Sex-Based Considerations",
       "authors": [
@@ -9766,26 +9788,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07087-1",
       "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
       "authors": [
@@ -9807,6 +9809,26 @@
         "Healthcare"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-025-07085-3",
+      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
+      "authors": [
+        "Mallika Mathur",
+        "Kiana Bess",
+        "Ashley Gibson",
+        "Yen-Chi Le",
+        "Sandra McKay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-10-15",
+      "doi": "10.1007/s10803-025-07085-3",
+      "url": "https://doi.org/10.1007/s10803-025-07085-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-025-07005-5",
@@ -9911,172 +9933,6 @@
         "Education"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07074-6",
-      "title": "Validity of Autism Diagnostic Tools in Medically Complex Young Children: The Toddler Autism Symptom Inventory, TAP, and Childhood Autism Rating Scale",
-      "authors": [
-        "Lauren E. Miller",
-        "Danielle M. Glad"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-10",
-      "doi": "10.1007/s10803-025-07074-6",
-      "url": "https://doi.org/10.1007/s10803-025-07074-6",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07048-8",
-      "title": "Eye Tracking Screening for ASD in Nursery: Is Early Diagnosis Possible? A Large-scale Real-life Experiment",
-      "authors": [
-        "Victor Hugo da Silva",
-        "Yasmine R. Martins",
-        "Pedro A. S. O. Neto",
-        "Joana Portolese",
-        "Fátima R. Fernandes",
-        "Carlos Takeuchi",
-        "Fernanda O. A. Lima",
-        "Marcilia L. Martyn",
-        "Katerina Lukasova",
-        "Edson Amaro"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-10",
-      "doi": "10.1007/s10803-025-07048-8",
-      "url": "https://doi.org/10.1007/s10803-025-07048-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07073-7",
-      "title": "A Qualitative Study of the Diagnostic Experiences of Young Autistic Adults in China",
-      "authors": [
-        "Chenhao Li",
-        "Yanqun Chang",
-        "Jie Zhang",
-        "Yini Liao"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-10",
-      "doi": "10.1007/s10803-025-07073-7",
-      "url": "https://doi.org/10.1007/s10803-025-07073-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07055-9",
-      "title": "Sexual Health Education for Autistic Adolescents in the Arab World: Can Culturally Sensitive Behavioural Activation Help with Inappropriate Sexual Behaviour?",
-      "authors": [
-        "Asmahan Saleh",
-        "Karola Dillenburger"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-10",
-      "doi": "10.1007/s10803-025-07055-9",
-      "url": "https://doi.org/10.1007/s10803-025-07055-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Abstract Purpose Sexual Health Education (SHE) is an important issue for adolescents everywhere, including those with autism or Intellectual and Developmental Disabilities (IDD) who live in the Arab world. These young people can become especially vulnerable if their sexual behaviour is inappropriate. Methods The current studies explored the effectiveness of culturally attuned Behavioural Activation to enhance safeguarding five autistic young people, while at the same time, not abrogating safe and appropriate sexual behaviour. The intervention was delivered via telehealth services. Results A significant decrease and eventually cessation of public masturbation (in four participants) and undressing others without their consent (in one participant) was observed. Conclusion Findings are discussed in terms of adaptations to the intervention to suit the Arab culture, individual family preferences, as well as implication for SHE and the use of Behavioural Activation more generally."
-    },
-    {
-      "id": "10.1007/s10803-025-07059-5",
-      "title": "Efficacy of Antioxidant-Based Pharmacological Therapies in Autism Spectrum Disorder: A Systematic Review",
-      "authors": [
-        "Sofía Ramírez-Guerrero",
-        "Alejandro Puerta-Murcia",
-        "Natalia Martinez-Benavides",
-        "Mateo Díaz-Quiróz",
-        "Claudia Talero-Gutiérrez"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-10",
-      "doi": "10.1007/s10803-025-07059-5",
-      "url": "https://doi.org/10.1007/s10803-025-07059-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Autism Spectrum Disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by persistent deficits in social interaction and communication. This study aimed to evaluate the efficacy of antioxidant-based pharmacological therapies for psychiatric symptoms in patients with ASD. Methods A systematic review was conducted using four databases: PubMed, Scopus, ClinicalTrials.gov and Cochrane - Ovid. 20 studies were included. Risk of bias assessment was performed using the Cochrane Risk-of-Bias tool for randomized trials. A descriptive analysis synthesized the main findings. A qualitative value was given to each antioxidant therapy according to its effect on every symptom (improved, not improved or no information), data was visually reported using ChatGPT 4.0 and Google Collab. PROSPERO ID: CRD42023490581. Results There was a heterogeneous response to antioxidant therapies for ASD symptoms. The use of sulforaphane reported improvement in irritability, stereotypic/repetitive behavior, social cognition/interaction, social communication, hyperactivity and lethargy. Similarly, N-Acetylcysteine evidenced improvement in terms of irritability, stereotypic/repetit…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07068-4",
-      "title": "Spanish Validation of the Autism Spectrum Quotient for Children (AQ-Child-SV)",
-      "authors": [
-        "Clara J. Fernández-Álvarez",
-        "Jo A. Yon-Hernández",
-        "Dominika Zofia Wojcik",
-        "Agustín Huete",
-        "Álvaro Bejarano-Martín",
-        "Emiliano Díez Villoria",
-        "Manuel Posada de la Paz",
-        "Ricardo Canal Bedia"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-10",
-      "doi": "10.1007/s10803-025-07068-4",
-      "url": "https://doi.org/10.1007/s10803-025-07068-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose Autism spectrum disorder (ASD) is a lifelong, heterogeneous neurodevelopmental condition characterized by difficulties in social communication and stereotyped patterns of behaviors and interests. The prevalence of ASD has increased in the last decades, and research has widened its study to the Broader Autism Phenotype (BAP). Therefore, it is important to develop effective screening tools to detect ASD and BAP in the general population. The Autism Spectrum Quotient, Children´s version (AQ-Child) is a 50-item parent-report questionnaire developed to assess autistic traits in children aged 4–11 years. The aim of this study was to translate and culturally adapt the AQ-Child to Spanish as part of a school-based screening program in Salamanca, Castile and León, Spain. Methods The AQ-Child was translated, pilot-tested, and administered online through the Qualtrics platform of the University of Salamanca to a school population sample ( n = 602). Results A total of 45 cases scored at or above the established cut-off point of 76 points on the Spanish version of the AQ-Child (AQ-Child-SV) and 18 scored between 70 and 75 points. The results showed a significant difference in A…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07060-y",
-      "title": "Evaluation of a 5-Item Subset of the Social Responsiveness Scale for Distinguishing Between Children With and Without Autism Spectrum Disorder",
-      "authors": [
-        "Misha Eliasziw",
-        "Carol Curtin",
-        "Susan L. Hyman",
-        "Linmarie Sikich",
-        "Aviva Must"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-10",
-      "doi": "10.1007/s10803-025-07060-y",
-      "url": "https://doi.org/10.1007/s10803-025-07060-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Abstract Purpose Identifying children with autism spectrum disorder (ASD) of all ages using a screening tool is valuable. We evaluated a shortened version of the 65-item Social Responsiveness Scale (SRS). Methods A total of 1,462 dyads from the Simons Simplex Collection consisted of a child with a clinically confirmed diagnosis of ASD and a sibling without ASD. All siblings were free of suspected intellectual disabilities and severe learning disabilities, had neither developmental nor psychiatric disorders, and did not have an Individual Education Plan for extensive special education services. Areas under Receiver Operating Characteristics (AUROC) curves quantified scale performance. A non-inferiority margin of − 0.005 was pre-specified. Results The AUROC for the 5-item scale (5iSRS) was 0.9943, the predictive value positive was 97.3% and predictive value negative was 96.9%. The AUROC for the 65-item SRS was 0.9926, resulting in an AUROC difference of 0.0017 (95% CI=[– 0.0003, 0.0037]) and meeting the non-inferiority criterion. Conclusion The 5iSRS can distinguish between children with and without ASD and is non-inferior to the 65-item SRS, and thus may have substantial utility in…",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
