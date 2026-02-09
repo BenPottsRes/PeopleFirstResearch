@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T07:08:20Z",
+  "generated_at": "2026-02-09T07:33:09Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -246,6 +246,52 @@
         "Autism"
       ],
       "abstract": "Purpose This study aims to introduce and evaluate two brief screening instruments for autism in Brazil. Initial data on reliability, validity, norms and proposed cutoff scores are presented. Design/methodology/approach Each brief scale was completed by 700 independent participants, gathered as a convenience sample. The mean age of participants completing the Brief Screening for Autism Spectrum (Brief-Spec) A was 37.6 years (SD = 11.7) with balanced gender distribution (50.0% male); Brief-Spec F had a mean age of 40.3 years (SD = 10.3). Most participants had college or postgraduate degrees. Data were collected online, with informed consent obtained. Psychometric evaluation included confirmatory factor analysis, ordinal alpha and omega estimates, and correlations with Autism Spectrum Quotient-10 scores. Findings Both tools demonstrated strong structural validity and high reliability. Brief-Spec A showed acceptable fit (CFI = 0.915, TLI = 0.903, RMSEA = 0.085, SRMR = 0.048; α = 0.87 – 0.90, ω = 0.84 – 0.89). Brief-Spec F also showed acceptable fit (CFI = 0.922, TLI = 0.907, RMSEA = 0.098, SRMR = 0.067; α = 0.82–0.93, ω = 0.82 – 0.90). Both showed substantial convergent validity and pr…"
+    },
+    {
+      "id": "10.1007/s10803-026-07244-0",
+      "title": "Associations Between Autistic Adolescents’ Biological and Behavioral Characteristics and Sympathetic and Parasympathetic Functioning",
+      "authors": [
+        "Abbie Heidenreich",
+        "Whitney Sullivan",
+        "Chrystyna D. Kouros",
+        "Mary Bubb",
+        "Naomi V. Ekas"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-07",
+      "doi": "10.1007/s10803-026-07244-0",
+      "url": "https://doi.org/10.1007/s10803-026-07244-0",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-025-07200-4",
+      "title": "Factors Associated With Psychiatric Emergency Visits of Children and Adolescents With Autism Spectrum Disorder in an Upper-Middle-Income Country",
+      "authors": [
+        "Maria Carolina Lobato Machado",
+        "Ana Clara Brant Moreira Ferreira",
+        "Amanda Carvalho Mitre Chaves",
+        "Flávia da Mata Chiachio Leite",
+        "Bernardo de Mattos Viana",
+        "Debora Marques de Miranda"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-07",
+      "doi": "10.1007/s10803-025-07200-4",
+      "url": "https://doi.org/10.1007/s10803-025-07200-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Emergency care",
+        "Healthcare"
+      ],
+      "abstract": "Abstract Purpose This study aimed to characterize the epidemiological and clinical profile of children and adolescents with Autism Spectrum Disorder (ASD) evaluated at a regional Youth Psychiatric Emergency Unit, and to explore factors leading families to seek emergency psychiatric care. Methods A cross-sectional, descriptive study was conducted through retrospective chart review of patients seen in the emergency service over a one-year period. Patients with a confirmed ASD diagnosis were included. Categorical variables were compared using Pearson’s chi-square or Fisher’s exact test, and continuous variables were analyzed using independent samples Student’s t-test. Results During the study period, 112 patients with ASD (6.7% of total visits) were seen, and 26 (23.2%) received their first ASD diagnosis at the emergency service. The majority were male (83%) with a mean age of 10 ± 4 years. The mean age at diagnosis among those identified for the first time in the emergency setting was 8.86 ± 4.7 years, indicating a late diagnosis. The most frequent presenting complaints were agitation, aggression, and irritability. Compared to the non-ASD group, ASD patients had significantly higher…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2625193",
@@ -558,22 +604,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -594,6 +624,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -634,33 +680,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -688,6 +707,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6522,27 +6568,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -6565,6 +6590,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -9909,29 +9955,6 @@
         "access"
       ],
       "abstract": "Abstract Purpose An increasing number of autistic students in the United States are seeking post-secondary education. In response, some post-secondary institutions have established Autism Support Programs (ASP) to address the comprehensive needs of this population. There is little up-to-date, comprehensive information about which institutions host these programs, what types of services they offer, and what is required to access them. Methods Expanding on previous research, we introduce a new method, which utilizes established data science techniques, to identify ASPs at post-secondary institutions in the U.S. Our technique also allows us to identify the characteristics of the ASPs, including admissions requirements, cost, structure, and supports offered. Results Results highlight our method is more efficient and more robust than previous methods from the literature. For example, we identify 49 schools hosting ASPs that were not identified in past literature searches. We report on the characteristics of identified ASPs such as application process, most common supports and program cost. Conclusion The bi-directional change in the number of ASPs shows that this is an evolving field, r…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/1034912x.2025.2571767",
-      "title": "Developing a Bidimensional Framework to Analyse Learning-Outcomes in Individualised Education Programs for Chinese Autistic Students",
-      "authors": [
-        "Shuqin Cao",
-        "Xiaotong Ma",
-        "Jiangbo Hu",
-        "Qiqin Jin",
-        "Maobin Wei"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2025,
-      "published_date": "2025-10-11",
-      "doi": "10.1080/1034912x.2025.2571767",
-      "url": "https://doi.org/10.1080/1034912x.2025.2571767",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
       "framing": "Neurodiversity-informed"
     }
   ]
