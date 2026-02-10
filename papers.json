@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T07:33:09Z",
+  "generated_at": "2026-02-10T07:33:21Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -246,6 +246,51 @@
         "Autism"
       ],
       "abstract": "Purpose This study aims to introduce and evaluate two brief screening instruments for autism in Brazil. Initial data on reliability, validity, norms and proposed cutoff scores are presented. Design/methodology/approach Each brief scale was completed by 700 independent participants, gathered as a convenience sample. The mean age of participants completing the Brief Screening for Autism Spectrum (Brief-Spec) A was 37.6 years (SD = 11.7) with balanced gender distribution (50.0% male); Brief-Spec F had a mean age of 40.3 years (SD = 10.3). Most participants had college or postgraduate degrees. Data were collected online, with informed consent obtained. Psychometric evaluation included confirmatory factor analysis, ordinal alpha and omega estimates, and correlations with Autism Spectrum Quotient-10 scores. Findings Both tools demonstrated strong structural validity and high reliability. Brief-Spec A showed acceptable fit (CFI = 0.915, TLI = 0.903, RMSEA = 0.085, SRMR = 0.048; α = 0.87 – 0.90, ω = 0.84 – 0.89). Brief-Spec F also showed acceptable fit (CFI = 0.922, TLI = 0.907, RMSEA = 0.098, SRMR = 0.067; α = 0.82–0.93, ω = 0.82 – 0.90). Both showed substantial convergent validity and pr…"
+    },
+    {
+      "id": "10.1007/s10803-026-07237-z",
+      "title": "Bridging Languages, Broadening Access: Examining an Observation-Based Autism Assessment with a Latinx Sample",
+      "authors": [
+        "Maira Tafolla",
+        "Juliette Lerner",
+        "So Hyun Kim",
+        "Catherine Lord"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-09",
+      "doi": "10.1007/s10803-026-07237-z",
+      "url": "https://doi.org/10.1007/s10803-026-07237-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Abstract Purpose Standardized observational tools are part of the gold standard for autism assessment, leading to the most reliable diagnoses. Widely used tools are often costly, require extensive training, and lack validation for use with multilingual and low-income populations, factors that contribute to prolonged diagnostic wait times. Method This study examined psychometric properties of the Brief Observation of Symptoms of Autism (BOSA), a 12- to 14-min semi-structured observation designed as an autism assessment tool for both virtual and in-person administration. We evaluated the BOSA’s sensitivity and specificity in both English and Spanish within a Latinx, predominantly low-income sample (N = 98), among other psychometric properties. Results Findings indicate that the BOSA is a promising tool that can be used as a screener or as a part of a comprehensive evaluation administered across languages, settings (home, clinic, community), and interactants (caregivers, clinicians) for individuals with limited verbal abilities, though further research is needed to optimize its use with more verbally fluent populations. Conclusion These results add to the literature, positioning the B…"
+    },
+    {
+      "id": "10.1007/s10803-026-07243-1",
+      "title": "Autism Prevalence, Co-occurring Intellectual Disability, and Support Needs Differ for Somali and Hmong Communities in Minnesota",
+      "authors": [
+        "Amy N. Esler",
+        "Jennifer Hall-Lande",
+        "Jenny N. Poynter",
+        "Libby Hallas"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-09",
+      "doi": "10.1007/s10803-026-07243-1",
+      "url": "https://doi.org/10.1007/s10803-026-07243-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Previous research has documented disparities in autism prevalence and the co-occurrence of intellectual disability (ID) with autism for children from immigrant communities. The current study compared autism prevalence and co-occurrence of ID in 8-year-olds across racial/ethnic groups using data from the Minnesota site of the CDC Autism and Developmental Disabilities Monitoring Network, with a focus on two large racial/ethnic groups: Somali and Hmong. Methods Systematic review of health and educational records was performed within a defined geographic area, and data were combined from 2014 to 2016 surveillance years to obtain adequate sample sizes to compare prevalence and co-occurrence of ID across race/ethnicity. Results Somali children had a higher autism prevalence compared to Hispanic, Hmong, and non-Hmong Asian children, with prevalence ratios (PR) of 1.8, 2.1, and 2.1, respectively. Hmong children had a significantly lower autism prevalence compared to White (PR 0.6) and non-Somali Black (PR 0.7) children. Significant differences in co-occurring ID status were found by race/ethnicity. Conclusion Identifying subgroups of children with higher prevalence of auti…"
     },
     {
       "id": "10.1007/s10803-026-07244-0",
@@ -604,6 +649,22 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -624,22 +685,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -680,6 +725,33 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -707,33 +779,6 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4982,27 +5027,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -5027,6 +5051,27 @@
       ],
       "tags": [
         "sensory"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
       ]
     },
     {
