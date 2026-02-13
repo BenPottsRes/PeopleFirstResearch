@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T07:19:15Z",
+  "generated_at": "2026-02-13T07:16:00Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -230,6 +230,72 @@
       "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is well-established as a disorder that persists into adulthood and is commonly comorbid with other mental health conditions. Despite increasing numbers of women entering reproductive years with this diagnosis, there is limited research on it in the perinatal period. Objective: To critically appraise the available literature and examine the association between maternal ADHD and depression in the perinatal period. Methods: A systematic review was conducted by searching EMBASE, PsycINFO, MEDLINE and Google Scholar up to August 2024. The available literature was evaluated in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines (PRISMA). The quality assessment was performed using the Joanna Briggs Institute framework, and a narrative synthesis was completed. Results: Ten studies were identified as meeting the inclusion criteria. The majority were of medium quality, with issues identified in sample size, study design and validity of the self-report scale used. Our review found a prevalence of 16.76% to 57.6% of perinatal depression in women with ADHD. An increased risk of developing p…"
     },
     {
+      "id": "10.1007/s10803-026-07247-x",
+      "title": "A Comparative Study of Self-Efficacy, Loneliness, and Well-Being in Adolescents Diagnosed With Autism Spectrum Disorder and Specific Learning Disorder",
+      "authors": [
+        "Burcu Kiliç Tülü",
+        "Ahmet Bilal Özbek",
+        "Alev Girli"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1007/s10803-026-07247-x",
+      "url": "https://doi.org/10.1007/s10803-026-07247-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261425302",
+      "title": "Development is key to understanding autism: How longitudinal approaches shape our understanding of autism",
+      "authors": [
+        "Kathryn A McNaughton",
+        "Alison S Russell",
+        "Margaret Lyons",
+        "Julia Parish-Morris",
+        "Clare Harrop"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1177/13623613261425302",
+      "url": "https://doi.org/10.1177/13623613261425302",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/25739581261421856",
+      "title": "Same but Different: How Autistic Adults Describe Depressive Symptoms and Their Alignment with\n                    <i>DSM-5-TR</i>\n                    Criteria",
+      "authors": [
+        "Emma Hinze",
+        "Nicole Dargue",
+        "Jessica Paynter",
+        "Dawn Adams"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1177/25739581261421856",
+      "url": "https://doi.org/10.1177/25739581261421856",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Emergency care",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Background: Autistic adults experience disproportionately high rates of depression, yet Diagnostic and Statistical Manual of Mental Disorders , 5th ed., text rev. (DSM-5-TR ) diagnostic criterion descriptions may not fully reflect their lived experiences, impacting opportunities for identification and support. Autism-related differences, such as alexithymia, interoception, cognitive styles, and sensory processing, may influence how autistic adults perceive, experience, and describe depression. This study examines whether autistic adults’ descriptions of depressive symptoms align with, or diverge from, DSM-5-TR criteria descriptions, to inform more accurate diagnostic practices. Methods: We conducted an exploratory qualitative study with 109 autistic adults and 13 caregivers, who reported on the autistic adult they support. Participants described depressive symptoms relative to their typical autistic baseline via an online survey ( n = 112) or semi-structured interview ( n = 10). Using direct content analysis, we identified symptoms consistent with DSM-5-TR symptom descriptions, and through inductive analysis, we identified additional features outside DSM-5-TR criteria. Results: Par…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1108/aia-05-2025-0040",
       "title": "Metaphor comprehension in Jordanian–Arabic speaking children with ASD compared to typically developing children",
       "authors": [
@@ -255,6 +321,130 @@
       ],
       "abstract": "Purpose This study aims to investigate the comprehension of spatial, container and socio-cultural metaphors among Jordanian–Arabic speaking children with autism spectrum disorder (ASD) and typically developing (TD) children. Design/methodology/approach Thirty Jordanian–Arabic speaking children participated, divided into two groups: 15 TD children from a private school in Amman and 15 children with ASD from two autism centers. A 12-item multiple-choice test with dynamic pictures assessed metaphor comprehension. Results showed significant differences between the two groups across all metaphor types, with TD children outperforming those with ASD. Findings Both groups found container metaphors easiest, while socio-cultural metaphors were the most challenging. The study suggests TD children access a broader range of experiences, enhancing their metaphor comprehension through contextual and analogical reasoning. Children with ASD struggle with abstract thinking and social interaction, limiting their understanding of figurative language. Container metaphors were easier for both groups due to their clear physical boundaries, whereas socio-cultural metaphors were difficult, requiring comple…",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/10870547261419885",
+      "title": "The Association Between Attention Performance and Empathy in Children Diagnosed with ADHD",
+      "authors": [
+        "Seyma Soyal",
+        "Baris Metin"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1177/10870547261419885",
+      "url": "https://doi.org/10.1177/10870547261419885",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) is associated not only with cognitive impairments but also with deficits in social cognitive abilities, including empathy. Although attention and empathy have been individually studied in children with ADHD, the link between performance-based attention measures and empathy remains underexplored. Thus, this study examined the relationship between attention performance and empathy in children diagnosed with ADHD. Method: The sample included 53 children aged 7 to 12, consisting of 27 children diagnosed with ADHD and 26 typically developing control group. All participants were recruited from educational and clinical settings. Attention was measured using a computer-based Go/No-Go task, and empathy was assessed using the Reading the Mind in the Eyes Test (RMET). ADHD symptom severity was assessed using the Turgay DSM-IV-Based Disruptive Behavior Disorders Rating Scale (T-DSM-IV-S). Results: Children with ADHD made significantly more omission errors and scored lower on RMET than typically developing group. Significant negative correlations were found between RMET total score and omission errors and inattention scores. Regression…"
+    },
+    {
+      "id": "10.1177/10870547261416173",
+      "title": "Treatment Patterns and Clinical Outcomes in Youth with Comorbid ADHD and PTSD: Insights from Real-World Data",
+      "authors": [
+        "Raman Baweja",
+        "Fabiana Lopes",
+        "Felix M Padilla",
+        "Ritika Baweja",
+        "Lisa Amaya-Jackson",
+        "Daniel A. Waschbusch",
+        "James G. Waxmonsky"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1177/10870547261416173",
+      "url": "https://doi.org/10.1177/10870547261416173",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Emergency care",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
+    },
+    {
+      "id": "10.1177/10870547261416467",
+      "title": "Episodic Future Thinking Improves Everyday Prospective Memory Performance in Adults With a Previous Diagnosis of Attention Deficit Hyperactivity Disorder by Community Providers",
+      "authors": [
+        "Mareike Altgassen",
+        "Helena Heinrich",
+        "Marc-Andreas Edel"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1177/10870547261416467",
+      "url": "https://doi.org/10.1177/10870547261416467",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "This study investigated the effects of the encoding strategy episodic future thinking on prospective memory performance (i.e., remembering to execute intended actions in the future) in individuals with a diagnosis of Attention Deficit Hyperactivity Disorder (ADHD) by community providers. Individuals with ADHD often have difficulties to plan and execute delayed intentions in everyday life; thus, they show reduced prospective memory performance. Several studies indicate that engaging in episodic future thinking (i.e., mentally imagining executing the planned activity) during intention formation can improve prospective memory performance in typically developing populations in lab-based settings. To assess the execution of everyday intentions, we requested participants to perform the diary task. Thirty-two adults with ADHD and 31 controls were allocated to an episodic future thinking encoding condition and 31 adults with ADHD and 33 controls to a standard encoding condition. Analyses of variance revealed significant main effects of group and of encoding condition. Overall, controls remembered to execute more intentions than individuals with ADHD. Across groups, episodic future thinking…"
+    },
+    {
+      "id": "10.1002/aur.70196",
+      "title": "How Screening and Diagnostic Tools Shape Autism Prevalence in School‐Aged Children: A Bibliometric‐Systematic Review (2015–2025)",
+      "authors": [
+        "Ahmad Zamir Che Daud",
+        "Noor Aziella Mohd Nayan",
+        "Hasnah Toran",
+        "Kartini Ilias",
+        "Norazlin Kamal Nor",
+        "Khairil Anuar Md Isa",
+        "Wai Wai Yang",
+        "Tengku Amatullah Madeehah Tengku Mohd",
+        "Nizam Baharom",
+        "Sazlina Kamaralzaman"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1002/aur.70196",
+      "url": "https://doi.org/10.1002/aur.70196",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "ABSTRACT Autism spectrum disorder (ASD) prevalence estimates vary widely across countries and over time, partly due to differences in the screening and diagnostic tools used. This study combined bibliometric analysis and systematic review methods to examine global publication trends and evaluate the use of standardized assessment tools in ASD prevalence studies involving school‐aged children (typically 6–12 years). A bibliometric search of the Scopus database (2015–2025) identified 107 publications, which were analyzed for citation patterns, research themes, and geographic distribution. Of these, 18 studies met systematic review inclusion criteria, reporting ASD prevalence in the general population and high‐risk samples across diverse regions. The most frequently used screening tools were the Social Communication Questionnaire (SCQ) and Childhood Autism Spectrum Test (CAST), while gold‐standard diagnostic tools such as the Autism Diagnostic Observation Schedule (ADOS/ADOS‐2) and Autism Diagnostic Interview‐Revised (ADI‐R) were common for diagnostic confirmation. However, psychometric performance and cultural adaptation processes varied, and many tools were not validated for the stu…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70199",
+      "title": "Does Camouflaging Predict Functioning, Distress, and Quality of Life for Autistic Adults?",
+      "authors": [
+        "Bruna B. Roisenberg",
+        "Kelsie A. Boulton",
+        "Emma E. Thomas",
+        "Adam J. Guastella"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1002/aur.70199",
+      "url": "https://doi.org/10.1002/aur.70199",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT It has been proposed that autistic individuals adopt camouflaging strategies to mask their autistic traits and conform to social norms, and that these camouflaging strategies have been linked to adverse mental health outcomes. This study examined whether camouflaging, measured by the Camouflaging Autistic Traits Questionnaire (CAT‐Q), predicted functioning, distress, and quality of life beyond standard clinical measures of social responsiveness and social anxiety. We analysed data from 113 autistic adults experiencing social anxiety who expressed interest in anxiety interventions. Hierarchical regression analyses assessed the unique contribution of camouflaging after accounting for social responsiveness and social anxiety. Results indicated that social responsiveness and social anxiety significantly predicted depression, psychological distress, and disability, whereas camouflaging did not explain additional variance in these outcomes. Although camouflaging correlated with poorer mental health and reduced quality of life, it did not independently predict these outcomes beyond social anxiety and responsiveness. These findings suggest current camouflaging measures may capture…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07250-2",
@@ -992,6 +1182,33 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -1019,33 +1236,6 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6775,6 +6965,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -6797,27 +7008,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10018,106 +10208,6 @@
         "lived experience"
       ],
       "abstract": "Abstract Objective The dearth of tools to quantify and track growth in social communication ability has been a barrier to understanding and monitoring treatment outcomes for neurodevelopmental disorders. We undertook a multi-staged, multisite study to create the Developmental Assessment of Social Communication Ability (DASCA), a new measure explicitly developed as a clinical outcome assessment for monitoring change—both over the course of development and in response to treatment. Methods The DASCA is a caregiver-report instrument created using a mixed-methods approach. Qualitative components of this approach included focus groups and cognitive debriefing interviews. Quantitative components included dimensionality analysis, differential item functioning, and item response theory modeling. The item bank was iteratively refined to assess social communication skills that are typically acquired by early- to middle- childhood. Results The final DASCA item bank contains 184 items. Expressive language was a major factor in determining the appropriateness of some items for certain groups of children. Negligible differential item functioning, primarily by age, was observed for some items. Ho…"
-    },
-    {
-      "id": "10.1007/s10803-025-07072-8",
-      "title": "A Pilot Feasibility Randomized Trial of the RUBI in Educational Settings Intervention With Paraeducators Supporting Autistic Students in Public Elementary Schools",
-      "authors": [
-        "Karen Bearss",
-        "Wendy Shih",
-        "Daina M. Tagavi",
-        "Yuanchen Kuo",
-        "Angel Fettig",
-        "Jill Locke"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07072-8",
-      "url": "https://doi.org/10.1007/s10803-025-07072-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07087-1",
-      "title": "Psychiatric Clinical Presentations in Adolescents and Adults With Autism Spectrum Disorder With and Without Co-Occurring Gender Diversity: A Retrospective Chart Review",
-      "authors": [
-        "Christina Macenski",
-        "Caitlin Ravichandran",
-        "Dana Tran",
-        "Christopher J. McDougle",
-        "Robyn P. Thom"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07087-1",
-      "url": "https://doi.org/10.1007/s10803-025-07087-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07085-3",
-      "title": "A Cross-Sectional Analysis of the Social Determinants of Health (SDOH) Needs in Early Childhood Among Children at Risk and Diagnosed With Autism Spectrum Disorder",
-      "authors": [
-        "Mallika Mathur",
-        "Kiana Bess",
-        "Ashley Gibson",
-        "Yen-Chi Le",
-        "Sandra McKay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07085-3",
-      "url": "https://doi.org/10.1007/s10803-025-07085-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07005-5",
-      "title": "Development of a Conceptual Model of Loneliness in Verbal Autistic Adults Using Qualitative Content Analyses",
-      "authors": [
-        "Hillary Schiltz",
-        "Derica Su",
-        "Juliette Lerner",
-        "Carla Mazefsky",
-        "Catherine Lord"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1007/s10803-025-07005-5",
-      "url": "https://doi.org/10.1007/s10803-025-07005-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613241252234",
-      "title": "Corrigendum to Self-reported parkinsonism features in older autistic adults: A descriptive study",
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-10-15",
-      "doi": "10.1177/13623613241252234",
-      "url": "https://doi.org/10.1177/13623613241252234",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
