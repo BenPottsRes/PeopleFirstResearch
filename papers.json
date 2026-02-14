@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T07:16:00Z",
+  "generated_at": "2026-02-14T07:05:28Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -230,6 +230,134 @@
       "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is well-established as a disorder that persists into adulthood and is commonly comorbid with other mental health conditions. Despite increasing numbers of women entering reproductive years with this diagnosis, there is limited research on it in the perinatal period. Objective: To critically appraise the available literature and examine the association between maternal ADHD and depression in the perinatal period. Methods: A systematic review was conducted by searching EMBASE, PsycINFO, MEDLINE and Google Scholar up to August 2024. The available literature was evaluated in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines (PRISMA). The quality assessment was performed using the Joanna Briggs Institute framework, and a narrative synthesis was completed. Results: Ten studies were identified as meeting the inclusion criteria. The majority were of medium quality, with issues identified in sample size, study design and validity of the self-report scale used. Our review found a prevalence of 16.76% to 57.6% of perinatal depression in women with ADHD. An increased risk of developing p…"
     },
     {
+      "id": "10.1007/s10803-026-07238-y",
+      "title": "Evaluating Emotion Dysregulation in Autism: Validation and Application of the Emotion Dysregulation Inventory to Identify Subgroup Profiles",
+      "authors": [
+        "Monica S. Treviño",
+        "Emily D. Gerstein"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-14",
+      "doi": "10.1007/s10803-026-07238-y",
+      "url": "https://doi.org/10.1007/s10803-026-07238-y",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07262-y",
+      "title": "Autism as a Predictor of Deviant Peer Association: Testing for Dual Systems Model Mediation Effects",
+      "authors": [
+        "Thomas Wojciechowski"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-14",
+      "doi": "10.1007/s10803-026-07262-y",
+      "url": "https://doi.org/10.1007/s10803-026-07262-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose Deviant peer association is a robust risk factor for offending, that is, any behavior that violates a criminal law. This can include behaviors like drug use, violence, and theft; among others. Autism is a neurodivergent condition characterized by both atypical cognitive development and challenges with social interaction and communication. Despite these impairments, there is a dearth of research focused on the relationship between autism and deviant peer association. Relatedly, there exists no research examining the role that dual systems model constructs (sensation-seeking and impulse control) as mediators of this relationship. This study sought to address these gaps in the literature by examining autism as a predictor of deviant peer association in childhood and whether either or both impulse control or sensation-seeking significantly mediate this relationship. Materials Waves 1, 3, and 4 of the Adolescent Brain Cognitive Development study were analyzed. Structural equation modeling was used to examine these direct and indirect relationships of interest. Results Results indicated that autism was associated with lower deviant peer association scores. Lower sensatio…"
+    },
+    {
+      "id": "10.1007/s10803-026-07258-8",
+      "title": "Anxiety in Williams Syndrome: Qualitative Analysis of Caregiver and Individual Interviews",
+      "authors": [
+        "Robyn P. Thom",
+        "Danielle Renzi",
+        "Jennifer Mullett",
+        "Kimaya R. Gracias",
+        "Darren Chernicky",
+        "Nick Freni",
+        "David Eddie",
+        "Marisa H. Fisher",
+        "Kirstin Birtwell",
+        "Caitlin Ravichandran",
+        "Barbara Pober",
+        "Christopher J. McDougle"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-14",
+      "doi": "10.1007/s10803-026-07258-8",
+      "url": "https://doi.org/10.1007/s10803-026-07258-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07246-y",
+      "title": "What Configurations Drive Paternal Involvement in ASD Care? An fsQCA of Individual, Intrafamilial, and Extrafamilial Pathways",
+      "authors": [
+        "Linli Zhu",
+        "Xinbin Ge",
+        "Tianyu Peng",
+        "Aihua Zhang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-14",
+      "doi": "10.1007/s10803-026-07246-y",
+      "url": "https://doi.org/10.1007/s10803-026-07246-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/25739581251384466",
+      "title": "<i>Letter:</i>\n                    From Technique to Human Experience: Integrating Lived Experience into Health Care Education on Neurodevelopmental Conditions",
+      "authors": [
+        "Daniel Luccas Arenas",
+        "Anna Viduani",
+        "Rafael Fabiano Machado Rosa",
+        "Ana Soledade Graeff-Martins"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-13",
+      "doi": "10.1177/25739581251384466",
+      "url": "https://doi.org/10.1177/25739581251384466",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "tags": [
+        "lived experience"
+      ]
+    },
+    {
+      "id": "10.1177/25739581251386949",
+      "title": "Menopause Through an Autistic Lens",
+      "authors": [
+        "Keita Edwards-Adams"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-13",
+      "doi": "10.1177/25739581251386949",
+      "url": "https://doi.org/10.1177/25739581251386949",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07247-x",
       "title": "A Comparative Study of Self-Efficacy, Loneliness, and Well-Being in Adolescents Diagnosed With Autism Spectrum Disorder and Specific Learning Disorder",
       "authors": [
@@ -343,6 +471,24 @@
       "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) is associated not only with cognitive impairments but also with deficits in social cognitive abilities, including empathy. Although attention and empathy have been individually studied in children with ADHD, the link between performance-based attention measures and empathy remains underexplored. Thus, this study examined the relationship between attention performance and empathy in children diagnosed with ADHD. Method: The sample included 53 children aged 7 to 12, consisting of 27 children diagnosed with ADHD and 26 typically developing control group. All participants were recruited from educational and clinical settings. Attention was measured using a computer-based Go/No-Go task, and empathy was assessed using the Reading the Mind in the Eyes Test (RMET). ADHD symptom severity was assessed using the Turgay DSM-IV-Based Disruptive Behavior Disorders Rating Scale (T-DSM-IV-S). Results: Children with ADHD made significantly more omission errors and scored lower on RMET than typically developing group. Significant negative correlations were found between RMET total score and omission errors and inattention scores. Regression…"
     },
     {
+      "id": "10.1177/10870547261416467",
+      "title": "Episodic Future Thinking Improves Everyday Prospective Memory Performance in Adults With a Previous Diagnosis of Attention Deficit Hyperactivity Disorder by Community Providers",
+      "authors": [
+        "Mareike Altgassen",
+        "Helena Heinrich",
+        "Marc-Andreas Edel"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1177/10870547261416467",
+      "url": "https://doi.org/10.1177/10870547261416467",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "This study investigated the effects of the encoding strategy episodic future thinking on prospective memory performance (i.e., remembering to execute intended actions in the future) in individuals with a diagnosis of Attention Deficit Hyperactivity Disorder (ADHD) by community providers. Individuals with ADHD often have difficulties to plan and execute delayed intentions in everyday life; thus, they show reduced prospective memory performance. Several studies indicate that engaging in episodic future thinking (i.e., mentally imagining executing the planned activity) during intention formation can improve prospective memory performance in typically developing populations in lab-based settings. To assess the execution of everyday intentions, we requested participants to perform the diary task. Thirty-two adults with ADHD and 31 controls were allocated to an episodic future thinking encoding condition and 31 adults with ADHD and 33 controls to a standard encoding condition. Analyses of variance revealed significant main effects of group and of encoding condition. Overall, controls remembered to execute more intentions than individuals with ADHD. Across groups, episodic future thinking…"
+    },
+    {
       "id": "10.1177/10870547261416173",
       "title": "Treatment Patterns and Clinical Outcomes in Youth with Comorbid ADHD and PTSD: Insights from Real-World Data",
       "authors": [
@@ -368,24 +514,6 @@
         "Mental health"
       ],
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
-    },
-    {
-      "id": "10.1177/10870547261416467",
-      "title": "Episodic Future Thinking Improves Everyday Prospective Memory Performance in Adults With a Previous Diagnosis of Attention Deficit Hyperactivity Disorder by Community Providers",
-      "authors": [
-        "Mareike Altgassen",
-        "Helena Heinrich",
-        "Marc-Andreas Edel"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-12",
-      "doi": "10.1177/10870547261416467",
-      "url": "https://doi.org/10.1177/10870547261416467",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "This study investigated the effects of the encoding strategy episodic future thinking on prospective memory performance (i.e., remembering to execute intended actions in the future) in individuals with a diagnosis of Attention Deficit Hyperactivity Disorder (ADHD) by community providers. Individuals with ADHD often have difficulties to plan and execute delayed intentions in everyday life; thus, they show reduced prospective memory performance. Several studies indicate that engaging in episodic future thinking (i.e., mentally imagining executing the planned activity) during intention formation can improve prospective memory performance in typically developing populations in lab-based settings. To assess the execution of everyday intentions, we requested participants to perform the diary task. Thirty-two adults with ADHD and 31 controls were allocated to an episodic future thinking encoding condition and 31 adults with ADHD and 33 controls to a standard encoding condition. Analyses of variance revealed significant main effects of group and of encoding condition. Overall, controls remembered to execute more intentions than individuals with ADHD. Across groups, episodic future thinking…"
     },
     {
       "id": "10.1002/aur.70196",
@@ -1182,33 +1310,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -1236,6 +1337,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -2275,27 +2403,6 @@
         "access"
       ],
       "abstract": "Objective: The Asian American and Native Hawaiian/Pacific Islander (AA &amp; NH/PI) population represents one of the fastest-growing racial /ethnic groups in the United States, yet members of this community are among the least likely to receive services for ADHD. Studies seeking to explain discrepancies between the need for and use of ADHD services in AA &amp; NH/PI populations have highlighted decreased problem recognition as precluding access to services. We sought to investigate the roles of three previously proposed factors (i.e., perceived impairment, ADHD knowledge, and ADHD stigma) in explaining differences in ADHD problem recognition in AA &amp; NH/PI versus White, Black, Hispanic/Latinx, and Multiracial/Multiethnic college students. Method: Participants were 1,451 college students aged 18 to 29 years ( M = 19.3, SD = 1.64) who met self-reported symptom and impairment criteria for ADHD. They completed questionnaires assessing ADHD problem recognition, perceived impairment, ADHD knowledge, and ADHD stigma. Results: Compared to the White Group, the AA &amp; NH/PI Group had significantly lower probability of endorsing the belief that they should be diagnosed with ADHD. The AA…"
-    },
-    {
-      "id": "10.1177/10870547251382679",
-      "title": "It Takes Two: Intimate Partner Violence According to Both Partners in Young Adult ADHD Couples",
-      "authors": [
-        "Brian T. Wymbs",
-        "Christie T. Pickel",
-        "Steven W. Evans",
-        "Peggy M. Zoccola",
-        "Ryan C. Shorey",
-        "Levi M. Toback"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/10870547251382679",
-      "url": "https://doi.org/10.1177/10870547251382679",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) has been shown to increase the risk of young adults perpetrating and being victims of intimate partner violence (IPV). However, research has yet to examine the IPV experiences of both dyad members where one or both partners has ADHD, and how those experiences differ from couples including partners without ADHD. Methods: 41 “ADHD couples” ( m age = 22.7 years), where one ( n = 33) or both ( n = 8) dyad members had ADHD, and 28 “Non-ADHD couples” ( m age = 23.4 years), where both dyad members did not have ADHD, participated. Both partners reported on the frequency they perpetrated and were victims of psychological and physical IPV. Results: Both partners in ADHD couples reported perpetrating more psychological and physical IPV than dyad members in Non-ADHD couples. Partners in ADHD couples also reported being victims of IPV more than partners in Non-ADHD couples. Conclusions: The risk of IPV perpetration in young adult couples with ADHD appears to be a two-way street. Research is needed to examine possible explanations for this pattern of reciprocal IPV, including mutual ADHD symptoms and related behavior (e.g., alcohol intox…"
     },
     {
       "id": "10.1007/s10803-026-07233-3",
@@ -6965,27 +7072,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -7008,6 +7094,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10175,39 +10282,6 @@
       ],
       "abstract": "Purpose Quality of life (QoL) is a crucial aspect of well-being, particularly for individuals with autism spectrum disorder (ASD), who face unique challenges in social participation and daily functioning. This study aims to translate, culturally adapt and validate the Persian version of Flanagan’s Quality of Life Scale (QOLS) for Iranian individuals with ASD, ensuring a reliable and culturally appropriate measure for assessing their well-being. Design/methodology/approach A standard forward-backward translation process was used to adapt the QOLS into Persian. The study recruited 200 Iranian individuals with ASD and their caregivers from clinical and rehabilitation centers in Tehran. Internal consistency was measured using Cronbach’s alpha, test-retest reliability was assessed via the intraclass correlation coefficient (ICC) and construct validity was examined through confirmatory factor analysis (CFA). Convergent validity was tested against the World Health Organization Quality of Life-BREF (WHOQOL-BREF), and discriminant validity was analyzed by comparing QoL scores across different ASD severity levels. Findings The Persian QOLS demonstrated excellent internal consistency (a = 0.9…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1186/s13229-025-00683-z",
-      "title": "The Developmental Assessment of Social Communication Ability (DASCA): initial creation and psychometric description",
-      "authors": [
-        "Aaron J. Kaat",
-        "Audrey Thurm",
-        "Cristan Farmer",
-        "Shuting Zheng",
-        "Sheila Ghods",
-        "Stelios Georgiades",
-        "Stephen Kanne",
-        "Shrikanth Narayanan",
-        "Somer L. Bishop"
-      ],
-      "journal": "Molecular Autism",
-      "year": 2025,
-      "published_date": "2025-10-16",
-      "doi": "10.1186/s13229-025-00683-z",
-      "url": "https://doi.org/10.1186/s13229-025-00683-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Abstract Objective The dearth of tools to quantify and track growth in social communication ability has been a barrier to understanding and monitoring treatment outcomes for neurodevelopmental disorders. We undertook a multi-staged, multisite study to create the Developmental Assessment of Social Communication Ability (DASCA), a new measure explicitly developed as a clinical outcome assessment for monitoring change—both over the course of development and in response to treatment. Methods The DASCA is a caregiver-report instrument created using a mixed-methods approach. Qualitative components of this approach included focus groups and cognitive debriefing interviews. Quantitative components included dimensionality analysis, differential item functioning, and item response theory modeling. The item bank was iteratively refined to assess social communication skills that are typically acquired by early- to middle- childhood. Results The final DASCA item bank contains 184 items. Expressive language was a major factor in determining the appropriateness of some items for certain groups of children. Negligible differential item functioning, primarily by age, was observed for some items. Ho…"
     }
   ]
 }
