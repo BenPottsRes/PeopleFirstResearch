@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T07:05:28Z",
+  "generated_at": "2026-02-15T07:08:13Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -230,6 +230,34 @@
       "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is well-established as a disorder that persists into adulthood and is commonly comorbid with other mental health conditions. Despite increasing numbers of women entering reproductive years with this diagnosis, there is limited research on it in the perinatal period. Objective: To critically appraise the available literature and examine the association between maternal ADHD and depression in the perinatal period. Methods: A systematic review was conducted by searching EMBASE, PsycINFO, MEDLINE and Google Scholar up to August 2024. The available literature was evaluated in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines (PRISMA). The quality assessment was performed using the Joanna Briggs Institute framework, and a narrative synthesis was completed. Results: Ten studies were identified as meeting the inclusion criteria. The majority were of medium quality, with issues identified in sample size, study design and validity of the self-report scale used. Our review found a prevalence of 16.76% to 57.6% of perinatal depression in women with ADHD. An increased risk of developing p…"
     },
     {
+      "id": "10.1007/s10803-026-07241-3",
+      "title": "Reduced Habituation: A Key to Understanding Sensory Sensitivity in Autism",
+      "authors": [
+        "Vincenza Tarantino",
+        "Alessia Santostefano",
+        "Angela Catania",
+        "Sandra Giordano",
+        "Giovanna Montalto",
+        "Federica Calistro",
+        "Massimiliano Oliveri",
+        "Patrizia Turriziani"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-14",
+      "doi": "10.1007/s10803-026-07241-3",
+      "url": "https://doi.org/10.1007/s10803-026-07241-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07238-y",
       "title": "Evaluating Emotion Dysregulation in Autism: Validation and Application of the Emotion Dysregulation Inventory to Identify Subgroup Profiles",
       "authors": [
@@ -244,6 +272,28 @@
       "neurotype": [
         "Autism"
       ]
+    },
+    {
+      "id": "10.1007/s10803-026-07257-9",
+      "title": "Bridging the Measurement Gap: Cross-Cultural Adaptation and Validation of the Brief Parental Self-Efficacy Scale (BPSES) for Chinese Parents of Autistic Children",
+      "authors": [
+        "Li Wang",
+        "Fei Yuan",
+        "Yipeng Wang",
+        "Xuejing Niu",
+        "Yesi Cheng",
+        "Patrick C. M. Wong",
+        "Huanyu Zhang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-14",
+      "doi": "10.1007/s10803-026-07257-9",
+      "url": "https://doi.org/10.1007/s10803-026-07257-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07262-y",
@@ -317,6 +367,37 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261417933",
+      "title": "Describing the communication of autistic people during experiences of distress: A scoping review",
+      "authors": [
+        "Karys Oldenburg",
+        "Tasia Gibbons",
+        "Christie Welch",
+        "Ami Tint",
+        "Maya Albin"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-14",
+      "doi": "10.1177/13623613261417933",
+      "url": "https://doi.org/10.1177/13623613261417933",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "sensory"
+      ],
+      "abstract": "Autistic people can experience distress for many reasons. Some of these reasons may include unsupportive environments; experiences of trauma; sensory overload; burnout, inertia, meltdown and shutdown; pain; and mental health diagnoses such as anxiety. Little is known about how distress can impact communication and what others can do to provide support in these moments. This scoping review explores how communication is described during experiences of distress for autistic people, including communication partner strategies to support these interactions. Following a comprehensive database search, 18 articles were included in this scoping review. Firsthand perspectives of autistic people were discussed in 10 studies. Distress was most often characterized by instances of anxiety and/or stress. Eleven studies discussed non-spoken methods of communication, including gestures, facial expressions and behavioural manifestations (e.g. hitting, screaming) during experiences of distress. Identified facilitators to communication during experiences of distress included the presence of a calm, supportive environment and communicative aids. Understanding the impact distress has on communication is…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/25739581251384466",
@@ -471,24 +552,6 @@
       "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) is associated not only with cognitive impairments but also with deficits in social cognitive abilities, including empathy. Although attention and empathy have been individually studied in children with ADHD, the link between performance-based attention measures and empathy remains underexplored. Thus, this study examined the relationship between attention performance and empathy in children diagnosed with ADHD. Method: The sample included 53 children aged 7 to 12, consisting of 27 children diagnosed with ADHD and 26 typically developing control group. All participants were recruited from educational and clinical settings. Attention was measured using a computer-based Go/No-Go task, and empathy was assessed using the Reading the Mind in the Eyes Test (RMET). ADHD symptom severity was assessed using the Turgay DSM-IV-Based Disruptive Behavior Disorders Rating Scale (T-DSM-IV-S). Results: Children with ADHD made significantly more omission errors and scored lower on RMET than typically developing group. Significant negative correlations were found between RMET total score and omission errors and inattention scores. Regression…"
     },
     {
-      "id": "10.1177/10870547261416467",
-      "title": "Episodic Future Thinking Improves Everyday Prospective Memory Performance in Adults With a Previous Diagnosis of Attention Deficit Hyperactivity Disorder by Community Providers",
-      "authors": [
-        "Mareike Altgassen",
-        "Helena Heinrich",
-        "Marc-Andreas Edel"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-12",
-      "doi": "10.1177/10870547261416467",
-      "url": "https://doi.org/10.1177/10870547261416467",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "This study investigated the effects of the encoding strategy episodic future thinking on prospective memory performance (i.e., remembering to execute intended actions in the future) in individuals with a diagnosis of Attention Deficit Hyperactivity Disorder (ADHD) by community providers. Individuals with ADHD often have difficulties to plan and execute delayed intentions in everyday life; thus, they show reduced prospective memory performance. Several studies indicate that engaging in episodic future thinking (i.e., mentally imagining executing the planned activity) during intention formation can improve prospective memory performance in typically developing populations in lab-based settings. To assess the execution of everyday intentions, we requested participants to perform the diary task. Thirty-two adults with ADHD and 31 controls were allocated to an episodic future thinking encoding condition and 31 adults with ADHD and 33 controls to a standard encoding condition. Analyses of variance revealed significant main effects of group and of encoding condition. Overall, controls remembered to execute more intentions than individuals with ADHD. Across groups, episodic future thinking…"
-    },
-    {
       "id": "10.1177/10870547261416173",
       "title": "Treatment Patterns and Clinical Outcomes in Youth with Comorbid ADHD and PTSD: Insights from Real-World Data",
       "authors": [
@@ -514,6 +577,24 @@
         "Mental health"
       ],
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
+    },
+    {
+      "id": "10.1177/10870547261416467",
+      "title": "Episodic Future Thinking Improves Everyday Prospective Memory Performance in Adults With a Previous Diagnosis of Attention Deficit Hyperactivity Disorder by Community Providers",
+      "authors": [
+        "Mareike Altgassen",
+        "Helena Heinrich",
+        "Marc-Andreas Edel"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-12",
+      "doi": "10.1177/10870547261416467",
+      "url": "https://doi.org/10.1177/10870547261416467",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "This study investigated the effects of the encoding strategy episodic future thinking on prospective memory performance (i.e., remembering to execute intended actions in the future) in individuals with a diagnosis of Attention Deficit Hyperactivity Disorder (ADHD) by community providers. Individuals with ADHD often have difficulties to plan and execute delayed intentions in everyday life; thus, they show reduced prospective memory performance. Several studies indicate that engaging in episodic future thinking (i.e., mentally imagining executing the planned activity) during intention formation can improve prospective memory performance in typically developing populations in lab-based settings. To assess the execution of everyday intentions, we requested participants to perform the diary task. Thirty-two adults with ADHD and 31 controls were allocated to an episodic future thinking encoding condition and 31 adults with ADHD and 33 controls to a standard encoding condition. Analyses of variance revealed significant main effects of group and of encoding condition. Overall, controls remembered to execute more intentions than individuals with ADHD. Across groups, episodic future thinking…"
     },
     {
       "id": "10.1002/aur.70196",
@@ -4652,60 +4733,6 @@
       "abstract": "Purpose This study aims to examine news article stories portraying autistic women’s and girls’ life experiences of being neurodivergent to gain a deeper understanding of their recognition in societal discussions. Design/methodology/approach The authors used narrative and inductive and theory-driven thematic approaches to analyse news articles. This study’s theory-driven data analysis phase was guided by Honneth’s recognition framework. Findings The analysis revealed dimensions of misrecognition in multiple spheres of life. These dimensions became visible, for example, as physical and social struggles, delayed or denied access to services and the desire to be openly autistic. The authors conclude that autistic women and girls are lacking recognition in society. Practical implications In spite of the increasing representations in the media, a larger understanding of the unique ways of being an autistic woman or a girl is needed. Practical implications for using the recognition framework as a tool for developing recognition will also be discussed. Originality/value Research on women’s and girls’ experiences of being autistic in news stories from the recognition perspective is scarce,…"
     },
     {
-      "id": "10.1108/aia-09-2024-0061",
-      "title": "Comparative eye-tracking analysis of visual behavior of normal developing and autistic children in response to human faces and emotional expressions",
-      "authors": [
-        "Mohamad Basel Al Mourad",
-        "Emad Bataineh"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-09-2024-0061",
-      "url": "https://doi.org/10.1108/aia-09-2024-0061",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Purpose Autism is a prevalent childhood neurodevelopmental condition with a high hereditary likelihood, and it manifests as a clinical syndrome with varying impairments in language and social behavior as well as the existence of constrictive interests and repetitive behaviors. It is essential for both early diagnosis and intervention to comprehend how autistic people behave visually when exposed to human facial expressions and emotions. The purpose of this study is to investigate how autistic individuals visually respond to human facial expressions and emotions, with the aim of supporting early diagnosis and intervention. Design/methodology/approach In this eye-tracking study, children from two different groups neurotypical (NT) children and autistic (AP) children – were compared in terms of their visual behavior. The authors showed them pictures of people with faces placed in the center, on the left and on the right of the stimuli to gauge how they were focusing on them. The study used eye-tracking technology to accurately capture and examine their eye gaze movements. Furthermore, the study investigated their reactions to sad emotions by showing dynamic stimuli with gradual change…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-06-2025-0060",
-      "title": "Exploring the unique impact of COVID-19 measures on autistic child development and parenting stress: comparing two cohorts in The Netherlands",
-      "authors": [
-        "Olivia F. Ward",
-        "Leontine W. ten Hoopen",
-        "Bruno Bocanegra",
-        "Femke L. Truijens",
-        "Kirstin Greaves-Lord",
-        "Kirsten Visser",
-        "Wietske A. Ester",
-        "Dennis Bastiaansen",
-        "Elisabeth H. M. Van Rijen",
-        "Linda P. Dekker"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-06-2025-0060",
-      "url": "https://doi.org/10.1108/aia-06-2025-0060",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Purpose The purpose of this study is to explore how the COVID-19 pandemic, and related preventative measures, impact global stressors on autistic children, adolescents and their families. Design/methodology/approach This exploratory study compared two cohorts, one spanning just before and throughout the pandemic, and one during a non-pandemic period, to explore child functioning and parenting stress in families with autistic children. Autism symptom development was assessed using the Social Responsiveness Scale-2 at three-time points, while emotional and behavioral functioning was examined across two-time points using the Brief Problem Monitor. Parenting stress was assessed using the Parenting Stress Questionnaire. Findings Results indicated no significant differences between the cohorts in parent-reported autism symptoms or the emotional and behavioral functioning of autistic children and adolescents. Whereas no differences emerged in children’s functioning, during the COVID-19 pandemic period parents reported more parental role restriction and physical health problems along with fewer parenting problems compared to parents during a non-pandemic period. Originality/value These fin…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-025-07138-7",
       "title": "Correction: Eye Tracking Screening for ASD in Nursery: Is Early Diagnosis Possible? A Large-scale Real-life Experiment",
       "authors": [
@@ -7072,6 +7099,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -7094,27 +7142,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10236,52 +10263,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07038-w",
-      "title": "Genetic Counseling Utilization and Experience Among Caregivers of Children With ASD in the United States",
-      "authors": [
-        "Shixi Zhao",
-        "Ming Li",
-        "Wei-Ju Chen",
-        "Brandon J. Rennie",
-        "Yu-Yu Hsiao",
-        "Yue Guan",
-        "Mia del Rosario"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-17",
-      "doi": "10.1007/s10803-025-07038-w",
-      "url": "https://doi.org/10.1007/s10803-025-07038-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1108/aia-03-2025-0023",
-      "title": "Measuring well-being in autism: translation and validation of the Persian Flanagan’s QoL scale",
-      "authors": [
-        "Masoud Gharib",
-        "Javad Niazi",
-        "Nesa Darvishi",
-        "Ebrahim Nasiri"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-10-17",
-      "doi": "10.1108/aia-03-2025-0023",
-      "url": "https://doi.org/10.1108/aia-03-2025-0023",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Quality of life"
-      ],
-      "abstract": "Purpose Quality of life (QoL) is a crucial aspect of well-being, particularly for individuals with autism spectrum disorder (ASD), who face unique challenges in social participation and daily functioning. This study aims to translate, culturally adapt and validate the Persian version of Flanagan’s Quality of Life Scale (QOLS) for Iranian individuals with ASD, ensuring a reliable and culturally appropriate measure for assessing their well-being. Design/methodology/approach A standard forward-backward translation process was used to adapt the QOLS into Persian. The study recruited 200 Iranian individuals with ASD and their caregivers from clinical and rehabilitation centers in Tehran. Internal consistency was measured using Cronbach’s alpha, test-retest reliability was assessed via the intraclass correlation coefficient (ICC) and construct validity was examined through confirmatory factor analysis (CFA). Convergent validity was tested against the World Health Organization Quality of Life-BREF (WHOQOL-BREF), and discriminant validity was analyzed by comparing QoL scores across different ASD severity levels. Findings The Persian QOLS demonstrated excellent internal consistency (a = 0.9…",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
