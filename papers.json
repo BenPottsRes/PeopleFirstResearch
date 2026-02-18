@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T07:16:36Z",
+  "generated_at": "2026-02-18T07:17:18Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -205,6 +205,74 @@
         "ADHD"
       ],
       "abstract": "Background: Sleep problems are highly prevalent in adults with ADHD. Sleep problems and ADHD symptoms can cause, amplify, and maintain each other. We studied the effects of additive treatment for sleep problems on self-reported symptoms of ADHD as primary outcome, with subscales of inattention and hyperactivity-impulsivity, objective, performance-based ADHD symptoms, sleep quality, fatigue, and depressive symptoms as secondary outcomes. Methods: Preliminary open-label randomized controlled trial of adult patients diagnosed with ADHD and a positive screening for at least one sleep disorder. Participants were recruited between March, 2020 and May, 2023, during the COVID-19 pandemic. Seventy patients (60% female, mean age 27.9 years [ SD = 8.2]) were randomized to a 12-week period of: (1) ADHD treatment as usual (TAU, n = 25), (2) ADHD TAU + sleep treatment ( n = 22), or (3) stand-alone sleep treatment ( n = 33). Outcome measures were assessed at baseline, and after 6 and 12 weeks of treatment. A total of 20% of participants did not complete the post-treatment assessment. Primary analyses compared changes between groups 1 and 2. Exploratory within-group analyses were conducted to asse…"
+    },
+    {
+      "id": "10.1108/aia-07-2025-0076",
+      "title": "Mapping the age of autistic spectrum condition diagnosis, affected by sex and intellectual disability",
+      "authors": [
+        "Heather E. Burns",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-18",
+      "doi": "10.1108/aia-07-2025-0076",
+      "url": "https://doi.org/10.1108/aia-07-2025-0076",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Purpose Autism is a complex neurodevelopmental condition thought to affect 1 in 100 children globally. More commonly diagnosed in males, and during childhood, diagnoses are increasingly being made throughout adulthood. This study aims to establish what age autistic people receive their diagnosis, and whether the age of diagnosis was influenced by their sex and by the presence of intellectual disability. Design/methodology/approach A quantitative, cross-sectional, retrospective study. Data was collected from the Primary Care records of six GP Practices covering Ellesmere Port, a large town in Northwest England with 71,210 people registered. Mean age of diagnosis was calculated for the group then for each subgroup, to allow comparison between males and females, and those with and without a documented intellectual disability. Findings Data from 1,130 autistic participants were analysed. Age of participants was between 3 and 81 years with an age of autism diagnosis of 1–72 years. In total, 85.6% of participants were diagnosed with autism by the age of 25 years, most commonly at 3 years of age (11.9%). The average age of diagnosis was 2.48 years later for females diagnosed across the li…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07234-2",
+      "title": "Brief Report: Psychological Flexibility, Perceived Stress and Emotion Regulation in Transitional-Age Youth (TAY) With Autism Spectrum Disorder (ASD)",
+      "authors": [
+        "K. Visser",
+        "J. Keulen",
+        "D. Bodden",
+        "L. P. Dekker"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-17",
+      "doi": "10.1007/s10803-026-07234-2",
+      "url": "https://doi.org/10.1007/s10803-026-07234-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07259-7",
+      "title": "Altered Higher-Order Structural and Functional Connectivity Coupling in Autism Spectrum Disorder",
+      "authors": [
+        "Zheng Dai",
+        "Lan Yang",
+        "Zhifeng Li",
+        "Xi Zhang",
+        "Jiayu Lu",
+        "Wei Wang",
+        "Ying Wang",
+        "Shuo Zhao",
+        "Bin Wang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-17",
+      "doi": "10.1007/s10803-026-07259-7",
+      "url": "https://doi.org/10.1007/s10803-026-07259-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1108/aia-05-2025-0039",
@@ -1441,6 +1509,33 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -1468,33 +1563,6 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -5050,24 +5118,6 @@
       "abstract": "Objectives: ADHD is now recognized as a common condition in adulthood, but the evidence supporting a separate characterization of a cognitive profile for ADHD in older adults is scarce. Consequently, the goal of the current study was to conduct a systematic review that helps clarify the cognitive characteristics of ADHD in older individuals. Method: We conducted a systematic review with narrative synthesis, considering studies on older adults with ADHD and research on cognitive domains involved in adults 50 years old and older with a confirmed diagnosis of ADHD, in three electronic databases (PubMed, Web of Science, and Embase). Ten studies (3 longitudinal and 7 cross-sectional) with clearly separated cognitive data for older adults with ADHD were included in this review. Results: Results showed an overall worse performance in attention and episodic memory for older adults with ADHD compared to their younger counterparts and older healthy controls. Evidence concerning executive functions was mixed, with some studies showing a worse performance in working memory compared to older healthy controls, but with other studies showing a similar or even better performance than younger adult…"
     },
     {
-      "id": "10.1177/10870547251376776",
-      "title": "Associations Between ADHD Symptom Dimensions and Cognition in Children With ADHD and Learning Difficulties",
-      "authors": [
-        "Yufei Cai",
-        "Joni Holmes",
-        "Susan E. Gathercole"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/10870547251376776",
-      "url": "https://doi.org/10.1177/10870547251376776",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Background: Attention Deficit Hyperactivity Disorder (ADHD) and Specific Learning Difficulties (SLD) are both associated with attentional and cognitive difficulties. This study examined the extent to which the cognitive impairments could be consequences of elevated levels of inattention and hyperactivity/impulsivity. Method: Secondary analysis was conducted on data from four groups selected from the Centre for Attention, Learning, and Memory, a neurodivergent cohort of children aged 5 to 18 years with a mean age of 9 years : children with ADHD only ( n = 70), learning difficulties only ( n = 406), ADHD with learning difficulties ( n = 128), and a comparison group ( n = 166). Covariance analyses examined whether any differences in basic cognitive skills and higher executive functions between the neurodivergent and comparison groups could result from variations in inattention and hyperactivity/impulsivity. Results: Irrespective of ADHD status, children with learning difficulties had low scores in short-term memory, working memory, sustained attention, processing speed, set sequencing, and set shifting. These cognitive deficits largely persisted when inattention and hyperactivity/impu…"
-    },
-    {
       "id": "10.1002/aur.70169",
       "title": "Clinically Significant Outcomes of Early Intensive Behavioral Intervention for Children With Autism Spectrum Disorders: An Individual Participant Data Meta‐Analysis",
       "authors": [
@@ -7875,31 +7925,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1002/aur.70128",
-      "title": "Multilevel Resting‐State Dysfunctional Connectivity in People With Autism Spectrum Disorder: A Systematic Review and Meta‐Analysis",
-      "authors": [
-        "Xinyun Lin",
-        "Simin Deng",
-        "Xiuhong Li"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1002/aur.70128",
-      "url": "https://doi.org/10.1002/aur.70128",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism spectrum disorder (ASD) has been linked to dysfunctional communication among brain regions and functional networks, as reflected by abnormal resting‐state functional connectivity (rsFC). However, the consistent findings thus far have been elusive. To examine whether individuals with ASD show rsFC differently than healthy individuals at multiple seed levels, we performed a systematic analysis and meta‐analysis at all prior seeds, functional network seeds, and single seed levels. This study was registered in the PROSPERO (registration number CRD42024559418). Publications were identified in PubMed, Embase, and PsycINFO from database inception until December 20, 2023. Publications were included that provided seed‐based whole‐brain rsFC contrasts between a sample with ASD and controls at rest. Seed and peak effect coordinates and intergroup effects were extracted for analysis. Random‐effects meta‐analysis was performed using the Seed‐based d Mapping software. This study included 26 studies from 709 people with ASD and 705 controls. The frontal regions, right medial cingulate gyrus (MCG) ( g = −0.51; 95% CI, −0.69 to −0.33) of the ventral attention network (VAN), and medi…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1177/13623613251394558",
       "title": "Autistic young adults’ routine travel pre- and post-license",
       "authors": [
@@ -10200,22 +10225,6 @@
         "Autism"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1177/25739581251390624",
-      "title": "<i>Response to Letter:</i>\n                    Experiences of Adult Autism Diagnosis in Diverse and Mobile Cultural Contexts",
-      "authors": [
-        "Cliodhna O’Connor",
-        "Maria Carolina Ellery Corrêa"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-10-20",
-      "doi": "10.1177/25739581251390624",
-      "url": "https://doi.org/10.1177/25739581251390624",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
