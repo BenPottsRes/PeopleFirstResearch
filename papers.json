@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T07:17:18Z",
+  "generated_at": "2026-02-19T07:17:07Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -205,6 +205,153 @@
         "ADHD"
       ],
       "abstract": "Background: Sleep problems are highly prevalent in adults with ADHD. Sleep problems and ADHD symptoms can cause, amplify, and maintain each other. We studied the effects of additive treatment for sleep problems on self-reported symptoms of ADHD as primary outcome, with subscales of inattention and hyperactivity-impulsivity, objective, performance-based ADHD symptoms, sleep quality, fatigue, and depressive symptoms as secondary outcomes. Methods: Preliminary open-label randomized controlled trial of adult patients diagnosed with ADHD and a positive screening for at least one sleep disorder. Participants were recruited between March, 2020 and May, 2023, during the COVID-19 pandemic. Seventy patients (60% female, mean age 27.9 years [ SD = 8.2]) were randomized to a 12-week period of: (1) ADHD treatment as usual (TAU, n = 25), (2) ADHD TAU + sleep treatment ( n = 22), or (3) stand-alone sleep treatment ( n = 33). Outcome measures were assessed at baseline, and after 6 and 12 weeks of treatment. A total of 20% of participants did not complete the post-treatment assessment. Primary analyses compared changes between groups 1 and 2. Exploratory within-group analyses were conducted to asse…"
+    },
+    {
+      "id": "10.1007/s10803-026-07260-0",
+      "title": "Self-Reported Strengths and Difficulties by Autistic Young Adults",
+      "authors": [
+        "Jacqui Ferraiolo",
+        "China I. Parenteau",
+        "Jessica Khaw",
+        "Grace Herbert",
+        "Ryan Adams",
+        "Julie Taylor",
+        "Somer Bishop",
+        "Shuting Zheng"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-18",
+      "doi": "10.1007/s10803-026-07260-0",
+      "url": "https://doi.org/10.1007/s10803-026-07260-0",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07249-9",
+      "title": "Accuracy of Autism-Related TikTok Information in Italian: A Comparison Between Human Raters and Large Language Models",
+      "authors": [
+        "Alessandro Carollo",
+        "Seraphina Fong",
+        "Giovanni Belardinelli",
+        "Silvia Perzolli",
+        "Giacomo Vivanti",
+        "Daniel S. Messinger",
+        "Dagmara Dimitriou",
+        "Gianluca Esposito"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-18",
+      "doi": "10.1007/s10803-026-07249-9",
+      "url": "https://doi.org/10.1007/s10803-026-07249-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07264-w",
+      "title": "Correction: Societal Attitudes Towards Autism (SATA): Validation of the Greek Version in the General Population",
+      "authors": [
+        "Vasiliki Zarokanellou",
+        "Alexandros Gryparis",
+        "Paraskevi Papatheodorou",
+        "Giorgos Tatsis",
+        "Dionysios Tafiadis",
+        "Angelos Papadopoulos",
+        "Louiza Voniati",
+        "Vassiliki Siafaka"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-18",
+      "doi": "10.1007/s10803-026-07264-w",
+      "url": "https://doi.org/10.1007/s10803-026-07264-w",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261418541",
+      "title": "Reduced delay-based executive function in autistic toddlers and preschoolers",
+      "authors": [
+        "Amanda Cremone-Caira",
+        "Gina Schnur",
+        "Madison Surmacz",
+        "Susan Faja"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-18",
+      "doi": "10.1177/13623613261418541",
+      "url": "https://doi.org/10.1177/13623613261418541",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "“Hot” or reward-based executive function describes the regulatory skills needed to suppress or delay actions in emotionally salient contexts. These delay-based executive function skills impact social development, mental health, and academic achievement. Accumulating evidence indicates that autistic children (3 years or older) show reduced delay-based executive function relative to neurotypical counterparts. The primary aim of this study was to determine whether these findings extend to younger children (younger than 3 years). Our secondary aim was to determine whether the strategies employed during delay-based executive function tasks differed between autistic and neurotypical toddlers, to understand why autistic children often experience difficulty in this domain. A behavioral battery was administered to measure delay-based executive function in autistic and neurotypical children, aged 2 and 4 years. Consistent with evidence in older children, delay-based executive function was reduced in autistic toddlers. Autistic 2-year-olds waited less during tasks that utilized food rewards, whereas autistic 4-year-olds waited less during tasks using both food- and non-food-based incentives.…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261418945",
+      "title": "Supporting a ‘good life’ for autistic children: Autistic adults’ and parents’ perspectives",
+      "authors": [
+        "Kate Simpson",
+        "Connie Allen",
+        "Elizabeth Wheeley",
+        "Elizabeth Pellicano",
+        "Melanie Heyworth",
+        "Jacquiline den Houting",
+        "Rachael Bowen",
+        "Dawn Adams"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-18",
+      "doi": "10.1177/13623613261418945",
+      "url": "https://doi.org/10.1177/13623613261418945",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "participatory",
+        "sensory"
+      ],
+      "abstract": "There has been limited research into what helps to promote autistic children’s quality of life. This qualitative study, co-produced with autistic people, aimed to identify, from multiple perspectives, what helps autistic children to live a ‘good life’. We conducted semi-structured interviews with autistic adults ( n = 28) and parents of autistic children ( n = 29). Using reflexive thematic analysis, we identified four themes: Being accepted by others in a way that allows the child to be themselves; Finding ‘the things that light [the child]’; Having a sense of control over their own life and Physical/sensory environments matter. All themes were common to both autistic adults and parents of autistic children, with the exception of one sub-theme, which was predominantly driven by autistic adults’ responses. These findings highlight potential pathways to support autistic children’s quality of life now and into the future. Lay Abstract There hasn’t been much research about what helps autistic children to live a ‘good life’ or to have a good quality of life. This makes it difficult to know how to help autistic children to do so. In this study, we asked autistic adults and parents of aut…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00542-4",
+      "title": "Loneliness and Social Connection in Autistic and/or ADHD Males: A Scoping Review",
+      "authors": [
+        "Jack Tex Lear",
+        "Diana-Santa Dorstyn",
+        "Melissa J. Opozda",
+        "Ian Zajac"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-18",
+      "doi": "10.1007/s40489-026-00542-4",
+      "url": "https://doi.org/10.1007/s40489-026-00542-4",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1108/aia-07-2025-0076",
@@ -1509,33 +1656,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -1563,6 +1683,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4826,31 +4973,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1108/aia-05-2025-0050",
-      "title": "From misunderstanding towards recognition: narratives of autistic women and girls in news articles",
-      "authors": [
-        "Saara Perälä",
-        "Henri Pesonen",
-        "Tanja Äärelä"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-05-2025-0050",
-      "url": "https://doi.org/10.1108/aia-05-2025-0050",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Purpose This study aims to examine news article stories portraying autistic women’s and girls’ life experiences of being neurodivergent to gain a deeper understanding of their recognition in societal discussions. Design/methodology/approach The authors used narrative and inductive and theory-driven thematic approaches to analyse news articles. This study’s theory-driven data analysis phase was guided by Honneth’s recognition framework. Findings The analysis revealed dimensions of misrecognition in multiple spheres of life. These dimensions became visible, for example, as physical and social struggles, delayed or denied access to services and the desire to be openly autistic. The authors conclude that autistic women and girls are lacking recognition in society. Practical implications In spite of the increasing representations in the media, a larger understanding of the unique ways of being an autistic woman or a girl is needed. Practical implications for using the recognition framework as a tool for developing recognition will also be discussed. Originality/value Research on women’s and girls’ experiences of being autistic in news stories from the recognition perspective is scarce,…"
-    },
-    {
       "id": "10.1007/s10803-025-07138-7",
       "title": "Correction: Eye Tracking Screening for ASD in Nursery: Is Early Diagnosis Possible? A Large-scale Real-life Experiment",
       "authors": [
@@ -5012,32 +5134,6 @@
       ],
       "abstract": "While the Bradley et al. paper brought up an interesting question regarding the relationship between autistic identity and eating disorders, there are concerns with the assumptions and design of this study. This article concludes that autistic identity has no connection to potential eating disorder symptom severity. However, the psychometric tool used, the Social Identity Scale, is missing key aspects of autistic identity found in other tools. In addition, the tool used is not validated in autistic adults. Lay Abstract A recent paper by Bradley et al. concluded that there is no relationship between autistic identity and eating disorder symptoms. However, the survey tool used to assess autistic identity of its participants did not include key components needed to arrive at this conclusion. Variations of autistic identity that would need to be considered are manifold. Some of these facets to consider in a survey assessing autistic identity would be whether or not autism is a source of pride, traits are thought to be steadfast or changeable, stigma is felt, and whether they should perform camouflaging behavior. This is important because eating disorder symptoms can be affected by thes…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251380445",
-      "title": "Service-level feasibility analysis of a mental health monitoring program for autistic college students",
-      "authors": [
-        "Annabelle M Mournet",
-        "Gentiana Kukaj",
-        "Erin J Libsack",
-        "Ellen Wilkinson",
-        "Ian Bober",
-        "Erin Walker",
-        "Vanessa H Bal"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251380445",
-      "url": "https://doi.org/10.1177/13623613251380445",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Mental health"
-      ],
-      "abstract": "Screening for mental health concerns is essential to identify individuals whose risk would otherwise go unnoticed. Recognizing the need to address growing mental health concerns among autistic college students, we implemented a mental health screening and monitoring protocol within a university program devoted to supporting autistic college students. This article describes the process and service-level feasibility of implementing this program over the course of one academic year at a large public university in the Northeast United States. Anxiety, depression, and suicide risk were measured at four time points. Students with elevated risk of mental health symptoms were connected to mental health supports and received suicide risk assessments. Thirty-two individuals took part in the monitoring process across the academic year. The monitoring process identified 53 instances where monitoring, checking-in, or a risk assessment was indicated. Fourteen risk assessments occurred, and 12 students received at least one mental health referral. Leveraging interdisciplinary collaborations, the mental health monitoring program was able to connect numerous autistic college students facing mental…"
     },
     {
       "id": "10.1108/aia-08-2025-0088",
@@ -7166,27 +7262,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -7209,6 +7284,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10189,42 +10285,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1080/20473869.2025.2573303",
-      "title": "Parent-child relationship and broad autism phenotype in regressive versus non-regressive autism spectrum disorder",
-      "authors": [
-        "Beyza Nur Baysar-Kanoglu",
-        "Merve Cikili-Uytun"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-10-21",
-      "doi": "10.1080/20473869.2025.2573303",
-      "url": "https://doi.org/10.1080/20473869.2025.2573303",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2025.2573307",
-      "title": "Cultural practices in Chinese families of children with autism in addressing challenging behaviors",
-      "authors": [
-        "Yanfu Ji",
-        "Yingjin Cui",
-        "Qi Ye",
-        "Xu Wang"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-10-21",
-      "doi": "10.1080/20473869.2025.2573307",
-      "url": "https://doi.org/10.1080/20473869.2025.2573307",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
     }
   ]
 }
