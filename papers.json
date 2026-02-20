@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T07:17:07Z",
+  "generated_at": "2026-02-20T07:15:36Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -207,6 +207,103 @@
       "abstract": "Background: Sleep problems are highly prevalent in adults with ADHD. Sleep problems and ADHD symptoms can cause, amplify, and maintain each other. We studied the effects of additive treatment for sleep problems on self-reported symptoms of ADHD as primary outcome, with subscales of inattention and hyperactivity-impulsivity, objective, performance-based ADHD symptoms, sleep quality, fatigue, and depressive symptoms as secondary outcomes. Methods: Preliminary open-label randomized controlled trial of adult patients diagnosed with ADHD and a positive screening for at least one sleep disorder. Participants were recruited between March, 2020 and May, 2023, during the COVID-19 pandemic. Seventy patients (60% female, mean age 27.9 years [ SD = 8.2]) were randomized to a 12-week period of: (1) ADHD treatment as usual (TAU, n = 25), (2) ADHD TAU + sleep treatment ( n = 22), or (3) stand-alone sleep treatment ( n = 33). Outcome measures were assessed at baseline, and after 6 and 12 weeks of treatment. A total of 20% of participants did not complete the post-treatment assessment. Primary analyses compared changes between groups 1 and 2. Exploratory within-group analyses were conducted to asse…"
     },
     {
+      "id": "10.1007/s10803-026-07248-w",
+      "title": "On Terms: Is There a Problem With “Problem Behavior”? A Bibliometric Prevalence Analysis",
+      "authors": [
+        "Michael P. Kranak",
+        "Kimberly Cantu-Davis",
+        "Leslie C. Neely",
+        "Meredith J. Stephens",
+        "Megan A. Wessel"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-19",
+      "doi": "10.1007/s10803-026-07248-w",
+      "url": "https://doi.org/10.1007/s10803-026-07248-w",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/25739581261423790",
+      "title": "“Everything and Nothing”: Measuring Perceived Salience of Gendered Cues at the Intersection of Autism and Gender Diversity",
+      "authors": [
+        "Molly Isabel Pascoe",
+        "Anna I. R. van der Miesen",
+        "Kate Cooper",
+        "Wei Wang",
+        "Doug P. VanderLaan",
+        "Romin W. Tafarodi",
+        "Meng-Chuan Lai"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-19",
+      "doi": "10.1177/25739581261423790",
+      "url": "https://doi.org/10.1177/25739581261423790",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Background: Some autistic individuals report not connecting with neurotypical gender constructs. A general-population-based theory of gender identity development states that unless gendered cues (i.e., the indicators of various gender groups) are salient to an individual, one is not motivated to self-categorize in terms of gender. We hypothesized that autistic individuals are less likely to perceive gendered cues as salient than non-autistic individuals. We define gender salience as being aware of, paying attention to, and finding importance in gendered cues. Methods: Objective 1 involved codeveloping a measure of gender salience with a group of autistic adults and applying factor analytic techniques and the alignment method of measurement invariance testing to validate this measure, using data collected from 1834 participants via Prolific. Objective 2 involved assessing, in this sample, whether autism status, gender-diversity status, and sex-assigned-at-birth were significantly associated with scores on the subscales of the gender salience measure, with age as a covariate. Results: We identified five factors. We interpreted the factors as gender-related introspection, gender expec…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261424784",
+      "title": "Safety, Connection, and Communication: Qualitative Insights into the Multidimensionality of Autistic Stimming",
+      "authors": [
+        "Jesica R. Bates",
+        "Isabelle F. Morris",
+        "Alharith Bilal Dameh",
+        "Crius R. Paulus",
+        "Kathleen Legrid",
+        "Chen Chen",
+        "Philip David Zelazo",
+        "Jennifer Hall-Lande"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-19",
+      "doi": "10.1177/25739581261424784",
+      "url": "https://doi.org/10.1177/25739581261424784",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication",
+        "lived experience",
+        "participatory"
+      ],
+      "abstract": "Background: Autistic stimming (e.g., repetitive movements or vocalizations) is often misunderstood or pathologized in clinical and public discourse. This study explores how Autistic adults perceive and experience stimming, including its personal meaning, emotional significance, social dimensions, and role in identity. We examine perspectives on both one’s own stimming and stimming observed in others, moving beyond reductive behavioral framings to understand its multidimensional roles in Autistic life. In this study, we explored how Autistic adults perceive and experience stimming in their daily lives. Methods: We used a multimodal participatory-qualitative framework to conduct semistructured Zoom interviews with 15 Autistic adults from diverse, intersectional backgrounds. Interviewers shared possible topics in advance and supported multimodal communication during sessions. We analyzed the data using an integrated sequential approach that combined framework analysis with reflexive thematic analysis. Results: We identified three primary themes: (1) Identity and Self-Perception of Stimming , which described stimming as central to self-recognition and identity development. (2) Navigati…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421861",
+      "title": "Affective Factors in Autistic Manosphere Entry: An Autistic Perspective on Masking and Cruel Optimism",
+      "authors": [
+        "Jordan Etherington"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-19",
+      "doi": "10.1177/25739581261421861",
+      "url": "https://doi.org/10.1177/25739581261421861",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "An examination of research on autistic radicalization shows a preoccupation with direct entry into incel and blackpill communities, missing the beginning of radicalization via engagement with manosphere content. This article combines affect theory, particularly Berlant’s concept of ‘cruel optimism’, Connell’s gender order theory, recent literature on autistic sensory experiences, and autistic stigma to make the case that autistic men and boys are motivated to seek out masculine instruction to avoid the mental and physical harms associated with said stigmatization. This purportedly instructive content instead integrates cruelly optimistic attachments to hegemonic masculine embodiment with preexisting attachments to neurotypical performance. Furthermore, the internalized ableist epistemologies inherent in masking performances are likewise easily integrated with hyper-individualist and essentialist manosphere rhetoric. As manosphere content is predicated upon highlighting masculine, and by extension, neurotypical insecurities, these instructions will inevitably fail to result in the societal acceptance and internal emotional security that viewers seek. The negative feelings from these…"
+    },
+    {
       "id": "10.1007/s10803-026-07260-0",
       "title": "Self-Reported Strengths and Difficulties by Autistic Young Adults",
       "authors": [
@@ -277,6 +374,28 @@
       "neurotype": [
         "Autism"
       ]
+    },
+    {
+      "id": "10.1177/13623613261417525",
+      "title": "Sleep problems and the occurrence of dangerous behavior within autistic people: A retrospective community-based sample",
+      "authors": [
+        "Kalina Hatzell",
+        "Ben Pfingston",
+        "Lindsey Sneed"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-18",
+      "doi": "10.1177/13623613261417525",
+      "url": "https://doi.org/10.1177/13623613261417525",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Sleep disturbances affect 50%–80% of autistic individuals and are linked to heightened risk for psychiatric comorbidities and dangerous behaviors, including self-injury, suicidal ideation, and aggression. While previous studies have identified correlational relationships, few have examined whether sleep problems predict dangerous behaviors in large, real-world samples. This study used retrospective clinical data from a behavioral health nonprofit to investigate whether sleep problems predict dangerous behaviors among autistic individuals, accounting for age and adaptive functioning. The sample included 8,375 autistic individuals (mean age = 8.35 years). Sleep problems, dangerous behaviors, and adaptive functioning were measured at intake and every 6 months. Binary logistic regressions assessed whether sleep problems predicted current and historical suicidal ideation, self-injury, and aggression. Results showed that sleep problems significantly increased the odds of a history of suicidal ideation and suicidal ideation at intake (odds ratio = 2.29, 2.46, respectively), a history of self-injury and self-injury at intake (odds ratio = 1.95, 2.20, respectively), and aggression at intake…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261418541",
@@ -1656,6 +1775,33 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -1683,33 +1829,6 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -1832,32 +1951,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251359076",
-      "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
-      "authors": [
-        "Cheryl L. Dickter",
-        "Joshua A. Burk"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251359076",
-      "url": "https://doi.org/10.1177/25739581251359076",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Employment",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251375879",
       "title": "“It’s Like All of My Senses and My Body Become More Awakened”: Autistic Adults’ Experiences of Attending Live Music",
       "authors": [
@@ -1934,6 +2027,32 @@
         "sensory"
       ],
       "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251359076",
+      "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
+      "authors": [
+        "Cheryl L. Dickter",
+        "Joshua A. Burk"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251359076",
+      "url": "https://doi.org/10.1177/25739581251359076",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment",
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -5119,23 +5238,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251383347",
-      "title": "The definition and measurement of autistic identity when studying eating disorder symptoms",
-      "authors": [
-        "Perel Y. Wein"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251383347",
-      "url": "https://doi.org/10.1177/13623613251383347",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "While the Bradley et al. paper brought up an interesting question regarding the relationship between autistic identity and eating disorders, there are concerns with the assumptions and design of this study. This article concludes that autistic identity has no connection to potential eating disorder symptom severity. However, the psychometric tool used, the Social Identity Scale, is missing key aspects of autistic identity found in other tools. In addition, the tool used is not validated in autistic adults. Lay Abstract A recent paper by Bradley et al. concluded that there is no relationship between autistic identity and eating disorder symptoms. However, the survey tool used to assess autistic identity of its participants did not include key components needed to arrive at this conclusion. Variations of autistic identity that would need to be considered are manifold. Some of these facets to consider in a survey assessing autistic identity would be whether or not autism is a source of pride, traits are thought to be steadfast or changeable, stigma is felt, and whether they should perform camouflaging behavior. This is important because eating disorder symptoms can be affected by thes…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1108/aia-08-2025-0088",
       "title": "Communicating autism: a qualitative analysis of daily challenges and adaptations",
       "authors": [
@@ -5676,27 +5778,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -5721,6 +5802,27 @@
       ],
       "tags": [
         "sensory"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
       ]
     },
     {
@@ -10245,46 +10347,6 @@
       ],
       "abstract": "Abstract Background Neuronal connectivity is refined throughout development by the proliferation and pruning of axons in cerebral white matter, and progressive axon myelination that enables rapid communication across brain regions. Differences in connectivity have been observed in autism spectrum disorder (ASD), including changes in white matter volume and connectivity. In the prefrontal cortex, this includes imbalances between short- and long-ranging axons, consistent with a pattern of local hyperconnectivity, and long-range hypoconnectivity. Alterations in temporal lobe white matter development—critical for social behavior—may contribute to atypical neural connectivity. Methods We used electron microscopy to analyze 54 samples of temporal lobe white matter from 27 age-matched postmortem brains from males with ASD and neurotypical (NT) controls, ages 2–44 years. Defined regions of superficial (SWM) and deep (DWM) white matter were sampled from superior temporal (STG) and fusiform (FG) gyri. Axon density and myelin thickness were quantified, with axon size classified by inner diameter, to evaluate age-related differences between ASD and neurotypical brains. Results In neurotypical…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07077-3",
-      "title": "The Understanding of Wrongfulness by Autistic Individuals in the Criminal Justice System",
-      "authors": [
-        "Molly Kernahan",
-        "Nathan Weber",
-        "Alliyza Lim",
-        "Robyn L. Young"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-22",
-      "doi": "10.1007/s10803-025-07077-3",
-      "url": "https://doi.org/10.1007/s10803-025-07077-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10882-025-10039-3",
-      "title": "The Effects of Thought Bubbles and Multiple Exemplar Training on Theory of Mind Skills for Children on the Autism Spectrum",
-      "authors": [
-        "Xiumei Hu",
-        "Yongqiang Ma",
-        "Gabrielle T. Lee",
-        "Xiaohui Sun",
-        "Ningning Mao",
-        "Fang Zheng",
-        "Xiaoyi Hu"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2025,
-      "published_date": "2025-10-22",
-      "doi": "10.1007/s10882-025-10039-3",
-      "url": "https://doi.org/10.1007/s10882-025-10039-3",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
