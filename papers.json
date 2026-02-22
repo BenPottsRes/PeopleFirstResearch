@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T07:02:28Z",
+  "generated_at": "2026-02-22T07:07:31Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -205,6 +205,51 @@
         "ADHD"
       ],
       "abstract": "Background: Sleep problems are highly prevalent in adults with ADHD. Sleep problems and ADHD symptoms can cause, amplify, and maintain each other. We studied the effects of additive treatment for sleep problems on self-reported symptoms of ADHD as primary outcome, with subscales of inattention and hyperactivity-impulsivity, objective, performance-based ADHD symptoms, sleep quality, fatigue, and depressive symptoms as secondary outcomes. Methods: Preliminary open-label randomized controlled trial of adult patients diagnosed with ADHD and a positive screening for at least one sleep disorder. Participants were recruited between March, 2020 and May, 2023, during the COVID-19 pandemic. Seventy patients (60% female, mean age 27.9 years [ SD = 8.2]) were randomized to a 12-week period of: (1) ADHD treatment as usual (TAU, n = 25), (2) ADHD TAU + sleep treatment ( n = 22), or (3) stand-alone sleep treatment ( n = 33). Outcome measures were assessed at baseline, and after 6 and 12 weeks of treatment. A total of 20% of participants did not complete the post-treatment assessment. Primary analyses compared changes between groups 1 and 2. Exploratory within-group analyses were conducted to asse…"
+    },
+    {
+      "id": "10.1007/s10803-026-07255-x",
+      "title": "Understanding the Mental Health in Parents of Children on the Autism Spectrum: Beyond Child-Driven Stressors",
+      "authors": [
+        "Da-Yea Song",
+        "SeoHa Kyung",
+        "Guiyoung Bong",
+        "Ye Rim Kim",
+        "Yoojeong Lee",
+        "Hee Jeong Yoo"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-21",
+      "doi": "10.1007/s10803-026-07255-x",
+      "url": "https://doi.org/10.1007/s10803-026-07255-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261420085",
+      "title": "Camouflaging and autism: Conceptualisation and methodological issues",
+      "authors": [
+        "Wayne M Arnold",
+        "Vicki Bitsika",
+        "Christopher F Sharpley"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-21",
+      "doi": "10.1177/13623613261420085",
+      "url": "https://doi.org/10.1177/13623613261420085",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "It has been suggested that there is poor clarity of the ‘camouflaging’ concept in autism research, and potential confounding of its measurement tools, such as the Camouflaging Autistic Traits Questionnaire (CAT-Q). A critical review of 389 studies was conducted to investigate these potential conceptual and methodological issues. The findings question whether the same construct has been investigated across studies, as there is inconsistency in: (a) which terms are used; (b) reference made to established conceptual literature; (c) how terms are used (e.g. interchangeably or distinctly); and (d) how terms are defined. Although the CAT-Q has excellent reliability, there is mixed support for its validity, which is evidenced by its confounding by other constructs (e.g. social anxiety) and its limited autism-specificity. The validity of informant discrepancy measures of camouflaging is also questioned due to insufficient reference to established methodology. Finally, the generalisability of camouflaging to the overall autistic population is unclear due to: (a) overrepresentation of autistic females diagnosed during adulthood; and (b) underrepresentation of autistic people with co-occurrin…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07263-x",
@@ -1719,22 +1764,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -1755,6 +1784,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -1795,33 +1840,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -1849,6 +1867,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -2797,25 +2842,6 @@
       ],
       "abstract": "This study examined differences in referral and diagnosis based on sex recorded at birth (hereafter, ‘sex’), using case notes from 408 individuals diagnosed by 30 multidisciplinary teams across Scotland. Analyses focused on male-to-female ratios and median ages at referral and diagnosis across attention-deficit/hyperactivity disorder, autism and intellectual disability. The lifespan male-to-female ratio across all diagnoses was 1.31, varying by category and age. In autism, the male-to-female ratio was 2.21 for children under 10 years, but there were more females in adolescence (male-to-female ratio = 0.79) and adulthood (male-to-female ratio = 0.94). Across the lifespan, combining all diagnoses, females were referred later (median ages: 14.4 vs 19.7 years; p &lt; 0.001) and diagnosed later (median ages: 15.2 vs 20.2 years; p &lt; 0.001), indicating a 5-year delay. Among autistic children and adolescents, females were referred later (median age: 7.5 vs 10.5 years; p = 0.002) and diagnosed later (median age: 9.3 vs 11.9 years; p = 0.003). However, no significant differences were found in age of referral or diagnosis for autistic adults. Overall, the results indicate increasing balanc…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251380340",
-      "title": "Cultural influences on camouflaging and autistic burnout: Examining the experiences of Latino autistic young adults",
-      "authors": [
-        "Antonio F Pagán",
-        "Katherine A Loveland",
-        "Ron Acierno"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251380340",
-      "url": "https://doi.org/10.1177/13623613251380340",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "The present study explored the relationship between camouflaging, autistic burnout, and cultural factors in Latino young adults with autism spectrum disorder (ASD). While autistic burnout and camouflaging have been widely studied in general ASD populations, limited research has focused on Latino individuals, who may experience unique pressures due to cultural values such as collectivism, familism, and traditional gender roles. Participants ( N = 56) from the ¡Iniciando! la Adultez therapy program completed measures assessing burnout, camouflaging, acculturation, and cultural values. Results indicate that participants reported moderate to high levels of autistic burnout, with the highest levels observed in heightened self-awareness and cognitive disruption. Camouflaging behaviors were prevalent, with compensation being the most frequently used strategy. Cultural values, especially Mexican American values related to independence and familism, were positively correlated with burnout severity. In addition, camouflaging behaviors were significantly associated with higher adaptive functioning, particularly in conceptual, social, and practical domains, and were predictive of increased anx…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1089/aut.2024.0148",
@@ -7993,21 +8019,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251389295",
-      "title": "Thank you to all our authors, reviewers and editors in 2025!",
-      "authors": [
-        "Sue Fletcher-Watson"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1177/13623613251389295",
-      "url": "https://doi.org/10.1177/13623613251389295",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1089/aut.2024.0005",
       "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
       "authors": [
@@ -10333,100 +10344,6 @@
       "neurotype": [
         "Autism"
       ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07093-3",
-      "title": "Talking About Autism Within the Family: Parents’ Perspectives and Their Influence on Self-Efficacy",
-      "authors": [
-        "Anat Kasirer",
-        "Shlomit Shnitzer-Meirovich"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-24",
-      "doi": "10.1007/s10803-025-07093-3",
-      "url": "https://doi.org/10.1007/s10803-025-07093-3",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07097-z",
-      "title": "Driving Toward Independence: Perspectives From Autistic Adolescents and Their Families",
-      "authors": [
-        "Haley J. Bishop",
-        "Morgan O’Donald",
-        "Emma B. Sartin",
-        "Rachel K. Myers",
-        "Christina Labows",
-        "Benjamin E. Yerys",
-        "Allison E. Curry"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-24",
-      "doi": "10.1007/s10803-025-07097-z",
-      "url": "https://doi.org/10.1007/s10803-025-07097-z",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07095-1",
-      "title": "Child-Parent Interaction Quality Shows Opposite Relationships with Language Comprehension Skill and Autism Symptomatology",
-      "authors": [
-        "Leela Shah",
-        "Analia Marzoratti",
-        "Tara L. Hofkens",
-        "Rose Nevill",
-        "Robert C. Pianta",
-        "Kevin A. Pelphrey",
-        "Anthony J. Krafnick",
-        "Tanya M. Evans"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-24",
-      "doi": "10.1007/s10803-025-07095-1",
-      "url": "https://doi.org/10.1007/s10803-025-07095-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose Childhood literacy predicts long-term learning outcomes and comprises decoding and linguistic comprehension skills. Decoding involves pattern recognition and sentence parsing, while linguistic comprehension requires understanding semantic context. Each component may differentially relate to social processing, carrying implications for reading among children with autism spectrum disorder (ASD) who often exhibit atypical social processing and communication. Methods We investigated relationships between social behavior patterns and literacy subskills among children aged 6–11 with ( n = 18) and without ( n = 27) ASD. We examined associations between behavioral attunement during a cooperative task between children and their parent, children’s scores on standardized reading assessments, and children’s autism symptoms. Behavioral attunement was coded through video recordings of child-parent interactions. Results Controlling for general intelligence, behavioral attunement was positively associated with reading comprehension and negatively associated with phonemic decoding and autism symptom severity in neurotypical and autistic children. While behavioral attunement’s posit…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07023-3",
-      "title": "Aligning XR Research with Autistic Priorities and Lived Experiences: Insights from the Project PHoENIX Study",
-      "authors": [
-        "Matthew Schmidt",
-        "Jie Jennifer Lu",
-        "Noah Glaser",
-        "M. Curtis Gluck",
-        "Shangman Eunice Li",
-        "Yueqi Weng",
-        "Rui Tammy Huang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-24",
-      "doi": "10.1007/s10803-025-07023-3",
-      "url": "https://doi.org/10.1007/s10803-025-07023-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose The purpose of this study was to address this gap by using a multi-methods focus group approach within Project PHoENIX, an XR environment co-designed with adult autistic participants. The current study explores how autistic participants perceive the potential of XR technologies to amplify their strengths, align with their priorities, and navigate barriers, guided by research questions focused on the adoption, relevance, and empowerment of XR tools for the transition-aged autistic population. Methods This study conducted focus group sessions with 12 autistic participants within the PHoENIX XR environment, using structured activities, virtual tours, and interactive tasks to gather data. Results Data were analyzed through a three-phase qualitative coding process, revealing two primary categories: Autistic-Centered Considerations and Technology-Centered Considerations. Overarching themes and subthemes were identified that provide nuanced insights into both the needs of transition-aged autistic individuals relative to XR and the affordances and limitations of XR platforms in supporting them. Conclusion Findings in this study highlight the potential of XR research to sup…",
       "framing": "Neurodiversity-informed"
     }
   ]
