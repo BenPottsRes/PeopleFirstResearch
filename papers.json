@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-02-24T07:18:22Z",
+  "generated_at": "2026-02-25T07:17:34Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-026-07222-6",
+      "title": "Correction: Preferences for Identity-First and Person-First Language: A Systematic Review of Research with Autistic Adults/Adults with Autism",
+      "authors": [
+        "Rachel K. Schuck",
+        "Lacey Chetcuti",
+        "Patrick Dwyer",
+        "Katarina Milosavljevic",
+        "Simon M. Bury",
+        "Darren Hedley",
+        "Sander Begeer",
+        "Giacomo Vivanti",
+        "Mirko Uljarevic"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1007/s10803-026-07222-6",
+      "url": "https://doi.org/10.1007/s10803-026-07222-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
     {
       "id": "10.1177/10883576251396515",
       "title": "Parent and Provider Perspectives on Family Navigation for Early Identification of Children With Autism Spectrum Disorder",
@@ -183,28 +213,315 @@
       "abstract": "Objective: Cognitive behavioral therapy (CBT) is an efficacious treatment for adult ADHD, yet access and availability concerns limit scalability. Mobile health apps are promising tools for delivering scalable CBT. The current study reports findings from a randomized controlled trial (RCT) of a CBT-informed health app for adults with ADHD. Methods: A sample of assessed adults with ADHD ( N = 154; ages 18–55 years) were recruited to participate and randomized to either 8 weeks of use of the CBT-informed app or a waitlist control condition. Participants in both groups completed measures of ADHD symptoms and functioning at baseline, at 4 weeks, and at 8 weeks. Results: Linear mixed-effects models for repeated measurements revealed significant group x time interactions for inattentive symptoms (η 2 = .15), hyperactive-impulsive symptoms (η 2 = .05), and ADHD associated quality of life (η 2 = .04) in favor of the CBT-informed app relative to participants who knew they were not receiving help; however, these results did not extend to a measure of functional impairment. Changes in organizational, time management, and planning behaviors and ADHD-related cognitions partially mediated the ass…"
     },
     {
-      "id": "10.1177/10870547251379103",
-      "title": "The Effects of Sleep Treatment on Symptoms of ADHD, Sleep Quality, Fatigue, and Depressive Symptoms in Adults",
+      "id": "10.1108/aia-02-2026-118",
+      "title": "Let’s Talk: Navigating Communication Services and Supports for Your Young Child with Autism",
       "authors": [
-        "Mirte van der Ham",
-        "Denise Bijlenga",
-        "Nina Molenaar",
-        "Daniëlle E. J. Starreveld",
-        "Mylène N. Böhmer",
-        "Ravian Wettstein",
-        "Glenn Dumont",
-        "Aartjan T. F. Beekman",
-        "Sandra Kooij"
+        "Fitri Rahmadani Darwis",
+        "Tuti Bahfiarti",
+        "Muhammad Farid"
       ],
-      "journal": "Journal of Attention Disorders",
+      "journal": "Advances in Autism",
       "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10870547251379103",
-      "url": "https://doi.org/10.1177/10870547251379103",
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-02-2026-118",
+      "url": "https://doi.org/10.1108/aia-02-2026-118",
       "neurotype": [
-        "ADHD"
+        "Autism"
       ],
-      "abstract": "Background: Sleep problems are highly prevalent in adults with ADHD. Sleep problems and ADHD symptoms can cause, amplify, and maintain each other. We studied the effects of additive treatment for sleep problems on self-reported symptoms of ADHD as primary outcome, with subscales of inattention and hyperactivity-impulsivity, objective, performance-based ADHD symptoms, sleep quality, fatigue, and depressive symptoms as secondary outcomes. Methods: Preliminary open-label randomized controlled trial of adult patients diagnosed with ADHD and a positive screening for at least one sleep disorder. Participants were recruited between March, 2020 and May, 2023, during the COVID-19 pandemic. Seventy patients (60% female, mean age 27.9 years [ SD = 8.2]) were randomized to a 12-week period of: (1) ADHD treatment as usual (TAU, n = 25), (2) ADHD TAU + sleep treatment ( n = 22), or (3) stand-alone sleep treatment ( n = 33). Outcome measures were assessed at baseline, and after 6 and 12 weeks of treatment. A total of 20% of participants did not complete the post-treatment assessment. Primary analyses compared changes between groups 1 and 2. Exploratory within-group analyses were conducted to asse…"
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1108/aia-04-2026-119",
+      "title": "Creating Quality of Life for Adults on the Autism Spectrum: The Story of Bittersweet Farms",
+      "authors": [
+        "Arum Tri Cahyani",
+        "Muliadi Mau",
+        "Muh Akbar"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-04-2026-119",
+      "url": "https://doi.org/10.1108/aia-04-2026-119",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ]
+    },
+    {
+      "id": "10.1108/aia-09-2025-0090",
+      "title": "Better engagement with culturally and linguistically diverse parents of autistic children in online parent-led therapy? An interpretative phenomenological analysis",
+      "authors": [
+        "Sarah Oudet",
+        "Katie Howard",
+        "Napoleon Katsos",
+        "Stephanie Durrleman"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-09-2025-0090",
+      "url": "https://doi.org/10.1108/aia-09-2025-0090",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment",
+        "Healthcare",
+        "Quality of life"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to understand the lived experiences of culturally and linguistically diverse (CaLD) parents of autistic children who participated in a longitudinal self-directed (without clinical coaching) parent-led therapy (PLT) programme targeting social-communication skills, or who were unable to complete participation in the longitudinal study coached group sessions. This work explores how each participant’s specific context impacted their engagement with online PLT. Design/methodology/approach Five mothers from a range of CaLD backgrounds participated in this study from different countries. Semi-structured online interviews were conducted. Interpretative phenomenological analysis was used to analyse data, focusing on understanding each participant’s lived experience. Findings Two superordinate themes were developed: (1) cultural differences amplify barriers to online PLT; (2) linguistic adaptations of therapeutic strategies need to be contextualised for each CaLD environment. Research limitations/implications Participants had high English proficiency and academic backgrounds, which may not represent the CaLD population struggling most with PLT engagement. Further inve…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1108/aia-10-2025-0105",
+      "title": "“We were happy to just get an autism diagnosis”: a mixed-methods study of parents’ experience with the autism assessment protocol",
+      "authors": [
+        "Jade Daly",
+        "Damien Rushe",
+        "Kate Rabbitte",
+        "Graham Connon",
+        "Olive Healy"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-10-2025-0105",
+      "url": "https://doi.org/10.1108/aia-10-2025-0105",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "service improvement"
+      ],
+      "abstract": "Purpose Despite increasing autism prevalence, delays in diagnostic assessments persist, likely impeding access to effective early interventions. In 2022, Ireland’s Health Service Executive piloted new, three-tiered Autism Assessment and Pathways Protocol in the Republic of Ireland. Design/methodology/approach An online survey was completed by six parents of autistic children assessed through the novel, Tier 1 Assessment Pathway Protocol, and 25 parents of autistic children assessed through the standard Assessment of Need Pathway participated in this study. All respondents provided quantitative and qualitative data on their experience of the diagnostic assessment pathway, including satisfaction, self-reported stress and perceived child stress. Parental satisfaction and stress were compared between pathways. Findings Some 65% of parents were satisfied with the diagnostic process overall. The process was stressful for both parents and children. There were no significant differences in parents’ satisfaction, stress levels or participant characteristics between the diagnostic assessment pathways. Time to assessment displayed negative correlations with parents’ satisfaction with the over…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1108/aia-06-2024-0043",
+      "title": "Psychological distress among mothers of autistic children in Palestine: a cross-sectional study",
+      "authors": [
+        "Mohammad Altamimi",
+        "Monia Kittana",
+        "Safaa Muhanna",
+        "Ali Shakhshir",
+        "May Hamdan",
+        "Manal Badrasawi"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-06-2024-0043",
+      "url": "https://doi.org/10.1108/aia-06-2024-0043",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Purpose Psychological distress has been documented among parents and caregivers of autistic children. This study aims to assess the levels of psychological distress experienced by mothers of children with autism and the associated factors in Palestine. Design/methodology/approach A cross-sectional study was conducted among 133 mothers, with 65 mothers of autistic children, and 68 mothers serving as controls. Self-administered questionnaires were used for data collection. Psychological distress was assessed by administering the Arabic version of the 12-item General Health Questionnaire. Findings A significantly higher level of psychological distress in mothers of autistic children was found. Social dysfunction and depression and anxiety subscales were significantly higher in mothers of autistic children. Loss of confidence score was significantly lower in mothers of autistic children. Originality/value A significant elevation in psychological distress among mothers of autistic children in the West Bank, emphasising the need for targeted interventions.",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1108/aia-07-2025-0069",
+      "title": "Underdiagnosis of autism spectrum disorder: a narrative review of gender differences and systemic barriers",
+      "authors": [
+        "Katarzyna Małgorzata Barabasz",
+        "Jarosław Baran",
+        "Patryk Barczuk",
+        "Dominik Bańkowski",
+        "Kamil Bielak",
+        "Katarzyna Kamińska",
+        "Patrycja Kłaptocz",
+        "Katarzyna Łukoś-Karcz",
+        "Milena Nowak"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-07-2025-0069",
+      "url": "https://doi.org/10.1108/aia-07-2025-0069",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Purpose This paper examines the persistent underdiagnosis of autism spectrum disorder, particularly among women, adults and minority groups. This study aims to identify how gendered symptom expression, camouflaging behaviours, systemic barriers and cultural inequities affect diagnostic accuracy and timeliness. Design/methodology/approach A structured narrative review of 33 peer-reviewed empirical studies published between 2009 and 2024, with one historical paper from 1992 retained for context. Sources were retrieved from PubMed, Scopus and Web of Science. We used controlled vocabulary and free-text terms. Methodological quality was appraised with critical appraisal skills programme, Joanna Briggs Institute and A Measurement Tool to Assess Systematic Reviews, version 2. Reporting followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020. Findings were synthesised across four domains: gender differences in diagnostic timing, camouflaging and phenotypic variability, systemic barriers and cultural and linguistic factors. Findings Standard diagnostic frameworks (Diagnostic and statistical manual of mental disorders, Fifth Edition, International Classification of D…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1108/aia-06-2025-0062",
+      "title": "Revisiting the experiences and quality of life of autistic patients in high secure psychiatric care",
+      "authors": [
+        "David Murphy",
+        "Freya Walker",
+        "Hannah Lincoln",
+        "Lauren Briscoe"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-06-2025-0062",
+      "url": "https://doi.org/10.1108/aia-06-2025-0062",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose Evidence suggests that autistic individuals are overrepresented within forensic psychiatric settings and present with different difficulties and needs compared to their neurotypical counterparts. With respect to high secure psychiatric care (HSPC), a 2017 survey examining the experiences of autistic patients found most reported both positive and negative aspects associated with their care, and variable quality of life (QoL) ratings. Since this, several significant changes have occurred including moving to a new hospital site, the introduction of the mandatory Oliver McGowan autism awareness training and the national strategy for autistic children, young people and adults outlining the need to improve autistic individuals’ experience of the criminal justice system. This paper describes a repeat survey of patient experiences to see whether they may have changed or improved in light of these changes. Design/methodology/approach Qualitative data about the experiences of autistic individuals detained in a UK HSPC hospital was gathered using semi-structured interviews and the forensic QoL questionnaire. Findings Consistent with the previous survey, the number of autistic patients…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1108/aia-08-2025-0083",
+      "title": "Parenting stress and coping across five countries",
+      "authors": [
+        "Kaneez Mustary",
+        "Isabel Kiari",
+        "Joachim Nyno",
+        "Lisa A. Osborne",
+        "Phil Reed"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-08-2025-0083",
+      "url": "https://doi.org/10.1108/aia-08-2025-0083",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Purpose The current report aims to provide indicators of parenting stress and coping behaviours across five diverse countries (Bangladesh, Greece, Kenya, UK, Zambia). It was hoped that the use of a single procedure would provide needed data from low-to-middle-income countries, in comparison to the better-studied higher-income countries. Design/methodology/approach In total, 200 parents of children diagnosed with autism spectrum disorder (ASD); 40 in each country) completed a series of scales about their parenting stress and coping styles. Findings The results suggested more similarities than differences. Parenting stress was high in all countries, and the highest was in the UK. Pessimism was also high in low-to-medium-income countries, and lower in Greece and the UK. Passive appraisal was used most often as a coping style, with mobilising the family being used more than social support. Cross-country, the only difference was that the UK parents used seeking spiritual support less than parents from other countries. Coping styles did not mediate the relationship between either ASD severity or behavioural problems and parenting stress. Originality/value These data suggest a degree of s…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1108/aia-05-2025-0043",
+      "title": "Chaos and adaptive functioning for children with autism: parental worry as a mediating factor",
+      "authors": [
+        "Vanessa R. Rainey",
+        "Elizabeth R. Black",
+        "Arielle S. Ramey"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1108/aia-05-2025-0043",
+      "url": "https://doi.org/10.1108/aia-05-2025-0043",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Purpose Children with autism spectrum disorder (ASD) tend to have lower adaptive functioning scores than their peers, which is the ability of one to care for themselves and communicate well with others. Previous research has established that lower adaptive functioning scores in children with ASD can be partially influenced by the presence of chaos in the home. To better understand how chaos may affect adaptive functioning, this study aims to establish whether parental worry mediated the link between chaos in the home and the adaptive functioning (communication, daily living skills, socialization) of children with ASD compared to those without ASD. Design/methodology/approach Data were collected from 202 parents, 99 with a child with ASD and 103 without ASD. Parents responded to the Confusion, Hubbub and Order Scale, asking about the chaos level in their home. They also completed the Penn State Worry Questionnaire and the Vineland Adaptive Behavior Scales (VABS-3 caregiver survey). Findings Correlations were found between chaos levels and adaptive functioning, with more chaos predicting decreases in adaptive functioning overall. Moreover, a mediation analysis, using parent worry as…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07256-w",
+      "title": "Shaping Teacher Education Through Professional Identities: Enhancing Autism Awareness",
+      "authors": [
+        "Mahmut Serkan Yazıcı",
+        "İsmail Karsantık"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-24",
+      "doi": "10.1007/s10803-026-07256-w",
+      "url": "https://doi.org/10.1007/s10803-026-07256-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Abstract Purpose The main aim of this study is to examine autism awareness in relation to different professional identities and to explore its implications for teacher education. Furthermore, the study aims to explore how teacher education can be improved by considering differences in individuals’ professional identities, especially regarding autism awareness. Methods A quantitative approach was used with a sample consisting of 745 participants who completed a data collection form that included the Autism Awareness Scale to primarily examine levels of autism awareness, their sources of information about autism spectrum disorder (ASD), and their perceived competence in educating students with ASD. The analysis included group comparisons, structural equation modeling, response surface analysis, and machine learning–based prediction. Results The findings revealed that different professional identities significantly impact the participants’ results. Also, this study found that autism awareness was higher when university education was supported by social media and websites (or non-governmental organizations). For in-service teachers, the most effective method was in-service training del…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07253-z",
+      "title": "The Under-Identification of Autism in Females: A Review and Analysis of Sex-Based Scoring Differences Observed in Autism Diagnostic Observation Schedule (ADOS) Module 3",
+      "authors": [
+        "Yuen Yvonne Yu",
+        "Austin Wyman",
+        "Calliana J. Faulk",
+        "Lizzy J. Fulop",
+        "Rebecca L. Greenberg",
+        "Rachel M. Benecke",
+        "Lauren K. Steinbeck",
+        "Jessica Foy",
+        "Caitlyn Kim",
+        "George O. Emory",
+        "Elle Fox",
+        "Eric A. Storch",
+        "Casey J. Zampella",
+        "Benjamin E. Yerys",
+        "Robert T. Schultz",
+        "Julia Parish-Morris",
+        "John D. Herrington",
+        "Caitlin C. Clements"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-24",
+      "doi": "10.1007/s10803-026-07253-z",
+      "url": "https://doi.org/10.1007/s10803-026-07253-z",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07269-5",
+      "title": "Quality of Life of and Its Predictors Among Caregivers of Children With Developmental Disorders",
+      "authors": [
+        "Saman Waqar",
+        "Hayaa Ali",
+        "Eeman Ali",
+        "Asim Niaz",
+        "Rukhsana Roshan"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-24",
+      "doi": "10.1007/s10803-026-07269-5",
+      "url": "https://doi.org/10.1007/s10803-026-07269-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07254-y",
@@ -1975,33 +2292,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -2029,6 +2319,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -3122,6 +3439,18 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251410707",
+      "title": "Acknowledgment of Reviewers 2025",
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/25739581251410707",
+      "url": "https://doi.org/10.1177/25739581251410707",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1089/aut.2023.0192",
       "title": "Neurodivergence and the Rabbit Hole of Extremism: Uncovering Lived Experience",
       "authors": [
@@ -3155,18 +3484,6 @@
       ],
       "abstract": "Background: There have been sporadic and disturbing media accounts of autistic people engaging with extreme ideologies, with comparatively little systematic exploration of this suggested association. Existing research has failed to consider the contextual factors that could influence these rare occurrences of engagement with extreme ideologies. This study explores how autistic individuals involved in extreme ideologies describe personal and contextual factors affecting their participation. Methods: Twelve individuals from Canada and the United States who were either diagnosed or self-identified as autistic and have engaged with extreme ideologies participated in semistructured interviews. The research approach and analysis of the data were informed by interpretative phenomenological analysis. Our interdisciplinary team met regularly to collectively examine initial assumptions and interpretations, while maintaining a central focus on the perspectives of the participants. Results: We identified the following three key themes: (1) early wounds, (2) missed formative opportunities, and (3) finding a fit for neurodivergence. Traumatic experiences, disenfranchisement, learned hatred from…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251410707",
-      "title": "Acknowledgment of Reviewers 2025",
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/25739581251410707",
-      "url": "https://doi.org/10.1177/25739581251410707",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1089/aut.2023.0117",
@@ -3881,36 +4198,6 @@
       ],
       "abstract": "ABSTRACT Despite widespread use of caregiver‐child interactions (CCX) to evaluate outcomes in autism interventions, little research has examined the dependability of this measure. This study applied generalizability theory to determine optimal conditions for dependable assessment of child communication and caregiver implementation of communication intervention strategies. Twenty caregiver‐child dyads participated in structured interactions across six daily activities on two occasions. Young autistic child communication was measured via tele‐health using the Individual Growth and Development Indicators (IGDI) and caregiver implementation using the Naturalistic Developmental Behavioral Intervention Fidelity (NDBI‐Fi) scale. Both measures demonstrated strong generalizability when multiple observations were conducted, but significantly lower dependability with single observations. For child communication, three to five activities across two occasions provided optimal dependability ( Φ = 0.69–0.82). For caregiver implementation, either four activities on one occasion ( Φ = 0.80) or two activities across two occasions ( Φ = 0.81) yielded dependable estimates. The greatest sources of erro…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07222-6",
-      "title": "Correction: Preferences for Identity-First and Person-First Language: A Systematic Review of Research with Autistic Adults/Adults with Autism",
-      "authors": [
-        "Rachel K. Schuck",
-        "Lacey Chetcuti",
-        "Patrick Dwyer",
-        "Katarina Milosavljevic",
-        "Simon M. Bury",
-        "Darren Hedley",
-        "Sander Begeer",
-        "Giacomo Vivanti",
-        "Mirko Uljarevic"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-23",
-      "doi": "10.1007/s10803-026-07222-6",
-      "url": "https://doi.org/10.1007/s10803-026-07222-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07227-1",
@@ -5720,58 +6007,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1108/aia-09-2025-0090",
-      "title": "Better engagement with culturally and linguistically diverse parents of autistic children in online parent-led therapy? An interpretative phenomenological analysis",
-      "authors": [
-        "Sarah Oudet",
-        "Katie Howard",
-        "Napoleon Katsos",
-        "Stephanie Durrleman"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1108/aia-09-2025-0090",
-      "url": "https://doi.org/10.1108/aia-09-2025-0090",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Employment",
-        "Healthcare",
-        "Quality of life"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Purpose This study aims to understand the lived experiences of culturally and linguistically diverse (CaLD) parents of autistic children who participated in a longitudinal self-directed (without clinical coaching) parent-led therapy (PLT) programme targeting social-communication skills, or who were unable to complete participation in the longitudinal study coached group sessions. This work explores how each participant’s specific context impacted their engagement with online PLT. Design/methodology/approach Five mothers from a range of CaLD backgrounds participated in this study from different countries. Semi-structured online interviews were conducted. Interpretative phenomenological analysis was used to analyse data, focusing on understanding each participant’s lived experience. Findings Two superordinate themes were developed: (1) cultural differences amplify barriers to online PLT; (2) linguistic adaptations of therapeutic strategies need to be contextualised for each CaLD environment. Research limitations/implications Participants had high English proficiency and academic backgrounds, which may not represent the CaLD population struggling most with PLT engagement. Further inve…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547251385758",
-      "title": "Cognitive Profile of ADHD in Older Adults: A Systematic Review",
-      "authors": [
-        "Natividad Pardo-Palenzuela",
-        "Iban Onandia-Hinchado",
-        "Unai Diaz-Orueta"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/10870547251385758",
-      "url": "https://doi.org/10.1177/10870547251385758",
-      "neurotype": [
-        "ADHD"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Objectives: ADHD is now recognized as a common condition in adulthood, but the evidence supporting a separate characterization of a cognitive profile for ADHD in older adults is scarce. Consequently, the goal of the current study was to conduct a systematic review that helps clarify the cognitive characteristics of ADHD in older individuals. Method: We conducted a systematic review with narrative synthesis, considering studies on older adults with ADHD and research on cognitive domains involved in adults 50 years old and older with a confirmed diagnosis of ADHD, in three electronic databases (PubMed, Web of Science, and Embase). Ten studies (3 longitudinal and 7 cross-sectional) with clearly separated cognitive data for older adults with ADHD were included in this review. Results: Results showed an overall worse performance in attention and episodic memory for older adults with ADHD compared to their younger counterparts and older healthy controls. Evidence concerning executive functions was mixed, with some studies showing a worse performance in working memory compared to older healthy controls, but with other studies showing a similar or even better performance than younger adult…"
-    },
-    {
       "id": "10.1002/aur.70169",
       "title": "Clinically Significant Outcomes of Early Intensive Behavioral Intervention for Children With Autism Spectrum Disorders: An Individual Participant Data Meta‐Analysis",
       "authors": [
@@ -5997,61 +6232,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1108/aia-10-2025-0105",
-      "title": "“We were happy to just get an autism diagnosis”: a mixed-methods study of parents’ experience with the autism assessment protocol",
-      "authors": [
-        "Jade Daly",
-        "Damien Rushe",
-        "Kate Rabbitte",
-        "Graham Connon",
-        "Olive Healy"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-31",
-      "doi": "10.1108/aia-10-2025-0105",
-      "url": "https://doi.org/10.1108/aia-10-2025-0105",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience",
-        "service improvement"
-      ],
-      "abstract": "Purpose Despite increasing autism prevalence, delays in diagnostic assessments persist, likely impeding access to effective early interventions. In 2022, Ireland’s Health Service Executive piloted new, three-tiered Autism Assessment and Pathways Protocol in the Republic of Ireland. Design/methodology/approach An online survey was completed by six parents of autistic children assessed through the novel, Tier 1 Assessment Pathway Protocol, and 25 parents of autistic children assessed through the standard Assessment of Need Pathway participated in this study. All respondents provided quantitative and qualitative data on their experience of the diagnostic assessment pathway, including satisfaction, self-reported stress and perceived child stress. Parental satisfaction and stress were compared between pathways. Findings Some 65% of parents were satisfied with the diagnostic process overall. The process was stressful for both parents and children. There were no significant differences in parents’ satisfaction, stress levels or participant characteristics between the diagnostic assessment pathways. Time to assessment displayed negative correlations with parents’ satisfaction with the over…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-06-2024-0043",
-      "title": "Psychological distress among mothers of autistic children in Palestine: a cross-sectional study",
-      "authors": [
-        "Mohammad Altamimi",
-        "Monia Kittana",
-        "Safaa Muhanna",
-        "Ali Shakhshir",
-        "May Hamdan",
-        "Manal Badrasawi"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-31",
-      "doi": "10.1108/aia-06-2024-0043",
-      "url": "https://doi.org/10.1108/aia-06-2024-0043",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Purpose Psychological distress has been documented among parents and caregivers of autistic children. This study aims to assess the levels of psychological distress experienced by mothers of children with autism and the associated factors in Palestine. Design/methodology/approach A cross-sectional study was conducted among 133 mothers, with 65 mothers of autistic children, and 68 mothers serving as controls. Self-administered questionnaires were used for data collection. Psychological distress was assessed by administering the Arabic version of the 12-item General Health Questionnaire. Findings A significantly higher level of psychological distress in mothers of autistic children was found. Social dysfunction and depression and anxiety subscales were significantly higher in mothers of autistic children. Loss of confidence score was significantly lower in mothers of autistic children. Originality/value A significant elevation in psychological distress among mothers of autistic children in the West Bank, emphasising the need for targeted interventions.",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1002/aur.70168",
       "title": "Mother–Child Biobehavioral Synchrony and Its Association With Social Functioning in Autistic School‐Aged Children",
       "authors": [
@@ -6234,6 +6414,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -6258,27 +6459,6 @@
       ],
       "tags": [
         "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
       ]
     },
     {
@@ -6862,35 +7042,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1108/aia-07-2025-0069",
-      "title": "Underdiagnosis of autism spectrum disorder: a narrative review of gender differences and systemic barriers",
-      "authors": [
-        "Katarzyna Małgorzata Barabasz",
-        "Jarosław Baran",
-        "Patryk Barczuk",
-        "Dominik Bańkowski",
-        "Kamil Bielak",
-        "Katarzyna Kamińska",
-        "Patrycja Kłaptocz",
-        "Katarzyna Łukoś-Karcz",
-        "Milena Nowak"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-18",
-      "doi": "10.1108/aia-07-2025-0069",
-      "url": "https://doi.org/10.1108/aia-07-2025-0069",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Purpose This paper examines the persistent underdiagnosis of autism spectrum disorder, particularly among women, adults and minority groups. This study aims to identify how gendered symptom expression, camouflaging behaviours, systemic barriers and cultural inequities affect diagnostic accuracy and timeliness. Design/methodology/approach A structured narrative review of 33 peer-reviewed empirical studies published between 2009 and 2024, with one historical paper from 1992 retained for context. Sources were retrieved from PubMed, Scopus and Web of Science. We used controlled vocabulary and free-text terms. Methodological quality was appraised with critical appraisal skills programme, Joanna Briggs Institute and A Measurement Tool to Assess Systematic Reviews, version 2. Reporting followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020. Findings were synthesised across four domains: gender differences in diagnostic timing, camouflaging and phenotypic variability, systemic barriers and cultural and linguistic factors. Findings Standard diagnostic frameworks (Diagnostic and statistical manual of mental disorders, Fifth Edition, International Classification of D…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/13623613251395539",
       "title": "Short report: Autistic adults’ perceptions of gender, autism, and policing in the United States",
       "authors": [
@@ -7424,34 +7575,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-06-2025-0062",
-      "title": "Revisiting the experiences and quality of life of autistic patients in high secure psychiatric care",
-      "authors": [
-        "David Murphy",
-        "Freya Walker",
-        "Hannah Lincoln",
-        "Lauren Briscoe"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-12",
-      "doi": "10.1108/aia-06-2025-0062",
-      "url": "https://doi.org/10.1108/aia-06-2025-0062",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose Evidence suggests that autistic individuals are overrepresented within forensic psychiatric settings and present with different difficulties and needs compared to their neurotypical counterparts. With respect to high secure psychiatric care (HSPC), a 2017 survey examining the experiences of autistic patients found most reported both positive and negative aspects associated with their care, and variable quality of life (QoL) ratings. Since this, several significant changes have occurred including moving to a new hospital site, the introduction of the mandatory Oliver McGowan autism awareness training and the national strategy for autistic children, young people and adults outlining the need to improve autistic individuals’ experience of the criminal justice system. This paper describes a repeat survey of patient experiences to see whether they may have changed or improved in light of these changes. Design/methodology/approach Qualitative data about the experiences of autistic individuals detained in a UK HSPC hospital was gathered using semi-structured interviews and the forensic QoL questionnaire. Findings Consistent with the previous survey, the number of autistic patients…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-025-07158-3",
       "title": "How Teachers’ Pedagogical Beliefs Drive Effective Technology Implementation for Students With ASD in Saudi Arabia",
       "authors": [
@@ -7585,55 +7708,6 @@
       "neurotype": [
         "Autism"
       ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1108/aia-08-2025-0083",
-      "title": "Parenting stress and coping across five countries",
-      "authors": [
-        "Kaneez Mustary",
-        "Isabel Kiari",
-        "Joachim Nyno",
-        "Lisa A. Osborne",
-        "Phil Reed"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-09",
-      "doi": "10.1108/aia-08-2025-0083",
-      "url": "https://doi.org/10.1108/aia-08-2025-0083",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Purpose The current report aims to provide indicators of parenting stress and coping behaviours across five diverse countries (Bangladesh, Greece, Kenya, UK, Zambia). It was hoped that the use of a single procedure would provide needed data from low-to-middle-income countries, in comparison to the better-studied higher-income countries. Design/methodology/approach In total, 200 parents of children diagnosed with autism spectrum disorder (ASD); 40 in each country) completed a series of scales about their parenting stress and coping styles. Findings The results suggested more similarities than differences. Parenting stress was high in all countries, and the highest was in the UK. Pessimism was also high in low-to-medium-income countries, and lower in Greece and the UK. Passive appraisal was used most often as a coping style, with mobilising the family being used more than social support. Cross-country, the only difference was that the UK parents used seeking spiritual support less than parents from other countries. Coping styles did not mediate the relationship between either ASD severity or behavioural problems and parenting stress. Originality/value These data suggest a degree of s…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1108/aia-05-2025-0043",
-      "title": "Chaos and adaptive functioning for children with autism: parental worry as a mediating factor",
-      "authors": [
-        "Vanessa R. Rainey",
-        "Elizabeth R. Black",
-        "Arielle S. Ramey"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-09",
-      "doi": "10.1108/aia-05-2025-0043",
-      "url": "https://doi.org/10.1108/aia-05-2025-0043",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Purpose Children with autism spectrum disorder (ASD) tend to have lower adaptive functioning scores than their peers, which is the ability of one to care for themselves and communicate well with others. Previous research has established that lower adaptive functioning scores in children with ASD can be partially influenced by the presence of chaos in the home. To better understand how chaos may affect adaptive functioning, this study aims to establish whether parental worry mediated the link between chaos in the home and the adaptive functioning (communication, daily living skills, socialization) of children with ASD compared to those without ASD. Design/methodology/approach Data were collected from 202 parents, 99 with a child with ASD and 103 without ASD. Parents responded to the Confusion, Hubbub and Order Scale, asking about the chaos level in their home. They also completed the Penn State Worry Questionnaire and the Vineland Adaptive Behavior Scales (VABS-3 caregiver survey). Findings Correlations were found between chaos levels and adaptive functioning, with more chaos predicting decreases in adaptive functioning overall. Moreover, a mediation analysis, using parent worry as…",
       "framing": "Mixed or transitional framing"
     },
     {
