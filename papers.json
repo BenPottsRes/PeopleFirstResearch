@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T07:17:34Z",
+  "generated_at": "2026-02-26T07:16:53Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -32,6 +32,526 @@
         "communication"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613251414902",
+      "title": "A double-masked randomised actively controlled trial of KONTAKT™ social skills toolbox for Australian autistic children",
+      "authors": [
+        "Bahareh Afsharnejad",
+        "Elinda Ai Lim Lee",
+        "Maya Hayden-Evans",
+        "Anna Fridell",
+        "Christina Coco",
+        "Tasha Alach",
+        "Mathew Johnson",
+        "Sven Bölte",
+        "Sonya Girdler"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251414902",
+      "url": "https://doi.org/10.1177/13623613251414902",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Mental health"
+      ],
+      "abstract": "To explore the efficacy of KONTAKT ™ , a manualised social skills group programme, compared to an active control group, 84 autistic children aged 8–12 years were randomised to KONTAKT ( n = 43) or ART-Legends, a group-based social art programme ( n = 41). Both programmes ran for sixteen 75-min sessions. Primary (Goal Attainment Scaling) and Secondary outcomes (Social Skills Group Assessment, LERID Friendship Scale) were collected at baseline, post-completion, 3-month (primary endpoint) and 1-year follow-up. A weekly survey was also collected to capture children’s enjoyment, motivation and social interaction anxiety while attending their group. Linear mixed modelling indicating significant effects for both groups on the primary outcome GAS ( p &lt; 0.001) over time. No Time*Group interaction was observed for GAS or any of the secondary measures at the primary endpoint, except quality of friendship (effect size = 0.67, p = 0.01). The weekly survey indicated higher enjoyment levels from attending KONTAKT compared to ART-Legends. This study found that both social group programmes helped autistic children achieve their personal social goals, with no clear advantage for KONTAKT over ART-…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261425302",
+      "title": "Development is key to understanding autism: How longitudinal approaches shape our understanding of autism",
+      "authors": [
+        "Kathryn A McNaughton",
+        "Alison S Russell",
+        "Margaret Lyons",
+        "Julia Parish-Morris",
+        "Clare Harrop"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613261425302",
+      "url": "https://doi.org/10.1177/13623613261425302",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613251413538",
+      "title": "Sleep and activity patterns in autism",
+      "authors": [
+        "J Dylan Weissenkampen",
+        "Arpita Ghorai",
+        "Thaise NR Carneiro",
+        "Maria Fasolino",
+        "Brielle N Gehringer",
+        "Maya Rajan",
+        "Holly C Dow",
+        "Shriya Kunatharaju",
+        "Till Roenneberg",
+        "Ronnie Sebro",
+        "Daniel J Rader",
+        "Brendan T Keenan",
+        "Laura Almasy",
+        "Edward S Brodkin",
+        "Maja Bućan"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251413538",
+      "url": "https://doi.org/10.1177/13623613251413538",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "abstract": "Autism is a heritable neurodevelopmental condition marked by impaired social interaction, repetitive behavior, and co-occurring conditions. Sleep disturbances are common in autism. This study uses low-cost wearable devices to compare sleep, physical activity, and circadian behavior in autistic adults and their non-autistic relatives. We recruited 318 autistic individuals and 130 family members, collecting accelerometer data over 3 weeks (8249 days). Using a data-driven approach, we identified actimetry-derived features associated with autism. We examined 308 traits using the elastic net algorithm and linear mixed effects regressions. We identified 52 actimetry measures associated with autism (area under the curve: 0.812; confidence interval: 0.761–0.862), validated in a test set (area under the curve: 0.756; confidence interval: 0.700–0.813). Both mean and day-to-day variability in several measures (e.g., time spent sedentary, total light physical activity) were associated with autism. In autistic individuals, reduced physical activity during wake was more strongly associated with shorter sleep time than in non-autistic relatives (likelihood ratio: 41.6; p = 1.13e−10). Reduced phys…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251410418",
+      "title": "Partner-dependent communication without dynamic adaptation in autism",
+      "authors": [
+        "Saskia BJ Koch",
+        "Jordy van Langen",
+        "Jana Bašnáková",
+        "Arjen Stolk"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251410418",
+      "url": "https://doi.org/10.1177/13623613251410418",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Mental health"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Autism is a neurodevelopmental condition characterized by persistent communication challenges, often compounded by social anxiety. Although differences in perspective-taking, cognitive flexibility, and social motivation have been implicated in these challenges, their influence on live interpersonal interactions remains unclear. In this study, we quantitatively examined how autistic and non-autistic individuals with varying levels of social anxiety adapted their communication during experimentally controlled interactions with two ostensibly distinct partners—a child and an adult—both portrayed by the same role-blind confederate. Autistic participants were equally motivated and capable as non-autistic participants in adjusting their communication to stereotypical assumptions about a partner’s abilities, spontaneously using greater emphasis when addressing the presumed less capable child. However, they were less likely to modify these stereotype-driven behaviors in response to interaction-based evidence of partners’ equal competence. While non-autistic participants dynamically adapted their communication to treat both partners equivalently, autistic participants maintained their stere…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251414302",
+      "title": "Eliciting the views of autistic adolescents attending specialist schools on what friendships mean to them",
+      "authors": [
+        "Jo Halsall",
+        "Elise Robinson",
+        "Anna Cook",
+        "Adam Halsall",
+        "Laura Crane"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251414302",
+      "url": "https://doi.org/10.1177/13623613251414302",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Friendship has been identified as an important way to support autistic adolescents’ social, emotional and cognitive development. However, research examining autistic adolescents’ friendships has tended to use methodologies inaccessible to children with complex communication and learning needs. We examined the friendship experiences of 12 autistic adolescents (aged 12–15 years) with complex communication and learning needs who attended a specialist school. Using reflexive thematic analysis, we identified two themes. Within the first theme of ‘reconceptualising friendship’, the adolescents identified friends who evoked strong emotions and connection, without distinguishing between positive or negative interactions, or the standard boundaries of friendship. ‘Friendships’ with adults were also highlighted. Within the second theme of ‘the context dependent nature of connection’, the adolescents’ descriptions of friendship communicated a preference for engagement via physical play in spaces that facilitated such interaction. Our findings underscore the importance of directly eliciting the views of autistic adolescents with complex communication and learning needs. They also highlight the…"
+    },
+    {
+      "id": "10.1177/13623613251412202",
+      "title": "Patterns of interparental conflict and psychological distress among Australian mothers of autistic children",
+      "authors": [
+        "Alexis Kanat",
+        "Grace McMahon",
+        "Alison Fogarty",
+        "Rebecca Giallo",
+        "Monique Seymour"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251412202",
+      "url": "https://doi.org/10.1177/13623613251412202",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Mothers of autistic children often face unique emotional and financial challenges, contributing to heightened stress, poorer mental health and increased interparental conflict. This study examined interparental conflict over a 10-year period (child ages 4–14 years) among mothers of autistic children. The objectives were to: (1) compare interparental conflict levels between mothers of autistic and non-autistic children; (2) identify distinct interparental conflict trajectories among mothers of autistic children; and (3) examine the relationship between interparental conflict trajectories and mothers’ psychological distress when their children were age 14 years. Data were drawn from six waves of the Longitudinal Study of Australian Children. There were 333 mothers of autistic children and 8145 mothers of non-autistic children. Mothers of autistic children reported significantly greater interparental conflict than mothers of non-autistic children, peaking at child ages 4–5 years. Two interparental conflict trajectories were identified for mothers of autistic children: consistently low and persistently elevated , with the latter associated with greater psychological distress. These res…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251409334",
+      "title": "Breastfeeding and autism: An electronic health records study of baby wellness visit records",
+      "authors": [
+        "Ayelet Ben-Sasson",
+        "Aviva Mimouni-Bloch",
+        "Sukaina Samhat-Darawshi",
+        "Keren Ilann",
+        "Lidia V Gabis"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251409334",
+      "url": "https://doi.org/10.1177/13623613251409334",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Evidence supporting the association between breastfeeding patterns and autism is inconsistent. This study examined sociodemographic and birth factors related to breastfeeding duration and subsequent autism spectrum disorder (autism) diagnosis according to the Diagnostic and Statistical Manual of Mental Disorders, 5 th Edition, compared to a neurotypically developing cohort, based on electronic health records. Demographics, feeding preferences, and breastfeeding duration as reported by parents during routine baby wellness visits were analyzed for a cohort of 11,766 (1.9%) children with autism spectrum disorder diagnosis and a random subsample of 12,000 (2.03%) neurotypically developing children. Autism spectrum disorder diagnosis was based on a national autism registry and assigned after electronic health records were completed. Preterm, very low birth weight, multiple births, and complex medical comorbidities were excluded. Infants subsequently diagnosed with autism were breastfed for an average of 5.0 months, 1.5 months shorter than neurotypically developing. Fewer autism spectrum disorder infants were exclusively breastfed in the first year of life. Two-way analysis of variance i…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613251406094",
+      "title": "Community views on the assessment and diagnosis of autism: Principles to guide clinical practice",
+      "authors": [
+        "Rhylee Sulek",
+        "Rachelle Wicks",
+        "Emma Hinze",
+        "Nicole Dargue",
+        "Briohny Dempsey",
+        "Emma Goodall",
+        "Libby Groves",
+        "David Trembath",
+        "Hannah Waddington",
+        "Andrew JO Whitehouse",
+        "Kandice J Varcin"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251406094",
+      "url": "https://doi.org/10.1177/13623613251406094",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "This study aimed to identify guiding principles to underpin assessment and diagnosis of autism to improve the quality, consistency and accuracy of services provided to individuals and their families. An online survey and focus groups were used to capture community perspectives of members of the Australian autistic and autism communities. A total of 871 individuals participated across the research activities, including autistic individuals ( n = 253), parents of autistic individuals ( n = 344), practitioners ( n = 325) and members of organisations with an interest in the assessment and/or diagnosis of autism ( n = 115). Three overarching themes, encompassing 15 codes, representing the principles that should underpin practice across the assessment and diagnostic process were developed (a) placing the person at the centre of the process; (b) understanding and valuing the whole person and (c) improving quality and access. Assessment and diagnosis for autism should go beyond diagnostic decision-making to include understanding of individual needs and identifying support pathways. The principles identified serve as a first step to guiding practitioners in their approach, ensuring they wor…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251412722",
+      "title": "‘It’s not fair, this isn’t what an autistic person should go through’: Experiences of autistic adults on inpatient mental health wards",
+      "authors": [
+        "Rhiannon Williams"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251412722",
+      "url": "https://doi.org/10.1177/13623613251412722",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "When an autistic person requires inpatient mental health support, they should be supported in mainstream services with reasonable adjustments. However, there is a lack of research into how autistic service users find their admissions to mental health wards. Ten United Kingdom-based autistic adults took part in semi-structured interviews to explore their experiences of being a mental health inpatient. These results were analysed using reflexive thematic analysis (RTA) and four themes were developed: ‘I’m not mental health, I’m not autism, I’m just me’, ‘All the noise. All the people. All the unpredictability’, ‘You work out how to survive’, and ‘It’s the usual set up, all the decisions had been made’. Results highlighted a negative overall appraisal of inpatient admissions, with specific difficulties in a lack of nuanced autism understanding, sensory environments, unpredictability and a felt sense of powerlessness. Findings indicate further autism training is required for staff working on inpatient wards, as well as changes to sensory environments that could benefit neurodivergent populations. These changes should detail how to put in place reasonable adjustments throughout a person…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251401049",
+      "title": "Emotion regulation in families of autistic children and adolescents: A longitudinal study",
+      "authors": [
+        "Yuting Tan",
+        "Kevin Ka Shing Chan"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251401049",
+      "url": "https://doi.org/10.1177/13623613251401049",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "This study investigated whether parental emotion-regulation difficulties are prospectively associated with increased emotion-regulation challenges in autistic children and adolescents and explored the underlying mechanisms and behavioral implications of these potential intergenerational associations. Over three time points (T1, T2, T3) spanning 2 years, 363 parents of autistic children and adolescents from Hong Kong provided questionnaire data. Path analyses revealed that parental emotion-regulation difficulties at T1 were associated with greater negative emotional expressiveness at T2, which in turn was linked to increased emotion-regulation difficulties and more internalizing and externalizing problems in autistic children and adolescents at T3. Importantly, these findings indicate that when parents have difficulty regulating their emotions and express negativity, their autistic children and adolescents are more likely to face emotion-regulation challenges and exhibit behavior problems. This underscores the need to support parents in regulating their emotions and optimizing their emotional expressiveness. Clinicians and policymakers should help parents strengthen their emotion re…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251407310",
+      "title": "Profiles of parent–teacher discrepancy on autistic children’s adaptive functioning",
+      "authors": [
+        "Rachel Lees Thorne",
+        "Nicky Wright",
+        "Andres De Los Reyes",
+        "Isabel M Smith",
+        "Anat Zaidman-Zait",
+        "Lonnie Zwaigenbaum",
+        "Tracy Vaillancourt",
+        "Peter Szatmari",
+        "Teresa A Bennett",
+        "Eric Duku",
+        "Annie E Richard",
+        "Connor Kerns",
+        "Rachael Bedford"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251407310",
+      "url": "https://doi.org/10.1177/13623613251407310",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "Clinical guidelines recommend collecting reports from multiple informants when identifying and diagnosing challenges in children. The current study examined parent–teacher discrepancies in rating of autistic children’s adaptive functioning and how these related to children’s executive functions. Participants ( n = 194) were a subsample of autistic children (mean age = 9.2 years; 86% male) from the Pathways in ASD cohort. We used latent profile analysis to characterise profiles based on both parent and teacher reports of adaptive functioning levels. We tested links between these profiles and indices of children’s executive function and other clinical correlates. Four profiles were characterised: a lower adaptive functioning-parent higher profile, in which parents reported relatively higher scores than teachers ( n = 45), an intermediate adaptive functioning profile ( n = 70) and a higher adaptive functioning profile ( n = 39; both characterised by similar ratings between informants) and finally, a higher adaptive functioning-teacher higher profile, in which teachers reported relatively higher scores than parents ( n = 40). The higher adaptive functioning-teacher higher profile showe…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251407294",
+      "title": "Thinking flexibly: A cognitive remediation therapy–informed intervention for autistic youth",
+      "authors": [
+        "Jasmin Dipre",
+        "Lauren Burton",
+        "Kate Tchanturia",
+        "Matthew J Hollocks"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251407294",
+      "url": "https://doi.org/10.1177/13623613251407294",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Autistic people are known to demonstrate greater difficulties with cognitive flexibility. These difficulties are associated with a range of poor outcomes, including elevated rates of anxiety and depression. Current intervention approaches fail to account for these specific mechanisms. In this study, we address this by piloting a new intervention which aims to specifically target cognitive inflexibility. The ‘Thinking Flexibly’ intervention has been co-designed with autistic youth based on previous work, including cognitive remediation therapy. Twenty autistic adolescents were recruited from clinical services and offered the eight-session intervention. Acceptability was assessed through participant drop-out and session completion. Participants (and their parents) also completed questionnaire measures of cognitive inflexibility, anxiety, depression and functional outcomes before and after the intervention. Our results indicated good acceptability with 19/20 participants completing the intervention and session attendance was high, with a single missed session. We found significant increases in flexibility across both parent- and self-report of a moderate effect. Participants reported…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251403906",
+      "title": "Autistic adults prefer social touch less but engage just as much: The impact of social context, relationship type, sensory responsivity, and psychological factors",
+      "authors": [
+        "Macy Tsz Wing Li",
+        "Manuel Mello",
+        "Keren MacLennan",
+        "Haemy Lee Masson"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251403906",
+      "url": "https://doi.org/10.1177/13623613251403906",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Autistic people face touch-related challenges, yet the factors influencing these difficulties are not well understood. We developed a novel instrument to capture social touch experiences of autistic adults, along with both social and individual factors that influence them. Using a body-painting task and questionnaires, we demonstrated that the perception of touch interactions varies based on social contexts and neurotypes. Autistic adults, on average, prefer touch less, but the type of relationship influences the perceived comfort and meaningfulness of touch similarly in both groups. Regarding the appropriateness, erogeneity, and pleasantness of social touch, the autistic group showed different touch perceptions in professional and friendly scenarios compared to the non-autistic group, whereas touch in intimate scenarios was perceived similarly. Sensory responsivity, touch predictability, social confidence, and touch-related anxiety affect social touch to a greater extent than the non-autistic group. Despite these marked differences in perception, the autistic adults, on average, engage in social touch as frequently as non-autistic adults, and their satisfaction with touch is compa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251407763",
+      "title": "A mixed-methods study examining the ripple effect of inclusive employment on reducing stigma toward autistic people in South Korea",
+      "authors": [
+        "Hyesung Park",
+        "JiHoi Na",
+        "So Yoon Kim",
+        "SoHyun Lee"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251407763",
+      "url": "https://doi.org/10.1177/13623613251407763",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Quality of life"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "This mixed-methods study examines how contact with Autistar, a Korean company providing strength-based, institutional-level support to autistic designers, is associated with stigma toward autistic people. One-hundred thirty-eight non-autistic community members completed an online survey; mixed-effects and stepwise regression analyses assessed relationships between contact with Autistar and stigma. Focus group interviews with 11 participants drawn from this full survey sample who had extensive contact with Autistar were analyzed using qualitative content analysis. Quantitative analyses indicated that greater contact breadth with Autistar was linked to lower stigma. In particular, participation in exhibitions and introduction by acquaintances predicted lower stigma. Qualitative analysis revealed that sustained and informed contact, which allowed participants to notice similarities between themselves and autistic employees and the strengths of these employees, helped them view autistic people as part of their ingroup. This study linked contact theory and ingroup bias theory to explain how high-quality contact may be associated with perceiving autistic people as part of one’s ingroup.…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251407765",
+      "title": "‘It’s quite difficult to put Autistic relationships in a box’: A qualitative exploration of romantic relationships in gender and sexually diverse Autistic adults",
+      "authors": [
+        "Tina Ciric",
+        "Luka CJ White",
+        "Claire Allison-Duncan",
+        "Ellen Maloney",
+        "Karri Gillespie-Smith"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251407765",
+      "url": "https://doi.org/10.1177/13623613251407765",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Autistic people enjoy friendships and sexual and romantic relationships. Many Autistic people are also part of a gender or sexual minority, yet gender and sexual minorities are often under-represented in autism research. The current study asked, ‘How do gender and sexually diverse Autistic adults experience and perceive romantic relationships?’ Sixteen gender and/or sexual minority Autistic adults took part in semi-structured interviews. Interviews were transcribed and analysed using thematic analysis. Four main themes were identified from the interview data: (1) ‘It’s Quite Difficult to Put Autistic Relationships Into a Box’, (2) Challenging Social Norms, (3) The Perks and Perils of Online Dating and (4) Understanding and Neurotype. Overall, participants described their relationships as individual, inherently valuable and shaped by unique preferences, mutual understanding and explicit communication. They also emphasized the fluidity between friendships and romantic partnerships, the importance of mutual understanding and the inherent value of rejecting prescriptive social norms in favour of individualized romantic relationship dynamics. These findings highlight relationship struct…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251406399",
+      "title": "Scoping review: Facilitators, barriers, and cultural adaptations in the caregiver skills training program for children with developmental concerns",
+      "authors": [
+        "Cecilia Montiel-Nava",
+        "Maria C Montenegro",
+        "Ana C Ramirez",
+        "Victoria Villarreal",
+        "Lucia Murillo Chacko",
+        "Pamela Dixon",
+        "Sarah Dababnah"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251406399",
+      "url": "https://doi.org/10.1177/13623613251406399",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "service improvement"
+      ],
+      "abstract": "Autism interventions are predominantly developed in high-income countries, limiting access for families in low- and middle-income countries due to systemic, cultural, and logistical barriers. The Caregiver Skills Training program aims to address this disparity by equipping caregivers with practical skills. This scoping review examines the cultural adaptations, facilitators, and barriers to the implementation of Caregiver Skills Training, focusing on its accessibility, feasibility, and acceptability. A comprehensive search of ERIC, PsycINFO, PubMed, and Web of Science identified eligible studies that reported cultural or linguistic adaptations of Caregiver Skills Training. Forward searches and manual reference checks supplemented the review. Data were extracted using the Cultural Adaptation Checklist framework and analyzed for patterns in adaptation, training, barriers, and facilitators. Seventeen studies across Asia, Africa, Europe, and North America highlighted diverse adaptations in language, content, and delivery methods. Facilitators included community partnerships and task-shifting with non-specialists, while barriers involved logistical challenges, stigma, and resource constr…"
+    },
+    {
+      "id": "10.1177/13623613251403405",
+      "title": "Post-traumatic stress disorder in autistic and non-autistic adults: The impact of appraisals on reactions to traumatic events",
+      "authors": [
+        "Rachel Prosser",
+        "Freya Rumball",
+        "Dorothy King",
+        "Craig Steel"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251403405",
+      "url": "https://doi.org/10.1177/13623613251403405",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Research suggests autistic people experience greater post-traumatic stress disorder symptom severity than non-autistic people following traumatic events. Post-trauma appraisals are fundamental in cognitive models of post-traumatic stress disorder, but have not been explored in autistic people. We aimed to explore whether we could replicate effects of heightened trauma exposure and post-traumatic stress disorder symptom severity in autistic adults, and examine how post-traumatic appraisals affect the association between autism and post-traumatic stress disorder symptom severity. Two hundred forty-two autistic ( n = 148) and non-autistic adults ( n = 94) completed a survey measuring trauma exposure, post-traumatic stress disorder symptom severity and post-trauma appraisals. Exposure to types of traumatic events did not differ significantly between the groups, but the autistic group endorsed more events that ‘happened to me’ directly. Post-traumatic stress disorder symptom severity and endorsement of negative post-traumatic appraisals were significantly higher in the autistic group, specifically alienation, shame and fear appraisals. These appraisals mediated the association between a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251406114",
+      "title": "‘Breaking down a barrier’: Autistic young people see virtual reality as a possible social support, but not a substitute for in-person interactions",
+      "authors": [
+        "Nathan Caruana",
+        "Terry Goetz",
+        "Patrick Nalepka",
+        "Elizabeth Pellicano"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251406114",
+      "url": "https://doi.org/10.1177/13623613251406114",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "Autistic people often face challenges in face-to-face social interactions, especially in unfamiliar or high-stakes situations. Virtual reality has been proposed as a tool to support social connection by offering a more controlled and accessible environment. While previous research has focused on virtual reality–based social skills training, little is known about how autistic people experience social interactions in virtual reality. We interviewed 22 autistic young people (aged 9–22 years, M Age = 14.5) after they engaged in a social interaction with a stranger in immersive virtual reality. Using reflexive thematic analysis, we found that participants generally found virtual reality interactions tolerable, engaging and helpful as a low-pressure first step towards more challenging social situations. Virtual reality was valued for reducing sensory overload, increasing confidence and offering novel social opportunities. However, participants did not view virtual reality as a replacement for in-person interaction, which they saw as essential for building meaningful relationships. These findings highlight the potential of virtual reality to support autistic people by modifying the social…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251394523",
+      "title": "The relationship between newspaper reading preferences and attitudes towards autism",
+      "authors": [
+        "Marta Dickinson",
+        "Themis Karaminis"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251394523",
+      "url": "https://doi.org/10.1177/13623613251394523",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Newspapers – particularly certain tabloid and right-leaning publications – often perpetuate negative stereotypes of Autistic people. This study examined how newspaper reading preferences relate to public attitudes towards autism. A sample of 277 UK-based non-autistic adults completed an online survey reporting demographic information, newspaper reading habits (print or online) and trustworthiness ratings for 10 major British newspapers. Participants also completed measures of autism-related knowledge and explicit attitudes towards autism, and an implicit bias task. Data were analysed using generalized additive models weighted by newspaper exposure, along with hierarchical partitioning to estimate the variance explained by reading preferences and other factors. Newspaper-related factors accounted for 4.5% of the variance in explicit attitudes and 10.7% in implicit attitudes. Crucially, selective engagement with right-leaning tabloids was associated with more negative implicit attitudes. Furthermore, selective trust in these outlets predicted relatively favourable explicit but relatively negative implicit attitudes. Overall trust in newspapers was also linked to less accurate autism…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613251396316",
+      "title": "Distinguishing midlife and old age: A recommendation for autism researchers",
+      "authors": [
+        "Gavin R Stewart"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1177/13623613251396316",
+      "url": "https://doi.org/10.1177/13623613251396316",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Research on ageing in autism has sharply increased following a number of influential publications that highlighted the lack of knowledge in this area. However, much of the research on autism ageing has inadvertently treated all people aged over 50 as a homogeneous ‘older adult’ group, overlooking important distinctions between midlife (40–64 years) and old age (65+ years). Midlife is marked by complex role management, career pressures, health changes and identity development, while old age often involves retirement, shifts in priorities, physical and cognitive changes, and planning for less independent living. Recognising midlife and old age as distinct life phases is essential to accurately characterise the lived experiences and needs of autistic adults across the latter part of the lifespan. This letter makes conceptual and methodological suggestions that autism researchers should align with established ageing frameworks by labelling samples accurately, using appropriate keywords and, where possible, stratifying analyses by age subgroup. Doing so will enhance research accuracy, improve indexing and increase clinical relevance. This shift is vital for advancing autism ageing resea…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10883576251396515",
@@ -211,6 +731,26 @@
         "access"
       ],
       "abstract": "Objective: Cognitive behavioral therapy (CBT) is an efficacious treatment for adult ADHD, yet access and availability concerns limit scalability. Mobile health apps are promising tools for delivering scalable CBT. The current study reports findings from a randomized controlled trial (RCT) of a CBT-informed health app for adults with ADHD. Methods: A sample of assessed adults with ADHD ( N = 154; ages 18–55 years) were recruited to participate and randomized to either 8 weeks of use of the CBT-informed app or a waitlist control condition. Participants in both groups completed measures of ADHD symptoms and functioning at baseline, at 4 weeks, and at 8 weeks. Results: Linear mixed-effects models for repeated measurements revealed significant group x time interactions for inattentive symptoms (η 2 = .15), hyperactive-impulsive symptoms (η 2 = .05), and ADHD associated quality of life (η 2 = .04) in favor of the CBT-informed app relative to participants who knew they were not receiving help; however, these results did not extend to a measure of functional impairment. Changes in organizational, time management, and planning behaviors and ADHD-related cognitions partially mediated the ass…"
+    },
+    {
+      "id": "10.1007/s10803-026-07276-6",
+      "title": "Effectiveness and Usability of Artificial Intelligence and/or Machine Learning Enabled Wrist and Ankle Wearables for Physiological and Behavioral Monitoring in Children and Adolescents With Autism Spectrum Disorder: A Systematic Review",
+      "authors": [
+        "Shabinabegam Abdul Majid Sheth",
+        "Emilios Lemoniatis",
+        "Tayyaba Ejaz",
+        "Eilis Kennedy",
+        "Gabriella Charalambous"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1007/s10803-026-07276-6",
+      "url": "https://doi.org/10.1007/s10803-026-07276-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1108/aia-02-2026-118",
@@ -447,6 +987,49 @@
       ],
       "abstract": "Purpose Children with autism spectrum disorder (ASD) tend to have lower adaptive functioning scores than their peers, which is the ability of one to care for themselves and communicate well with others. Previous research has established that lower adaptive functioning scores in children with ASD can be partially influenced by the presence of chaos in the home. To better understand how chaos may affect adaptive functioning, this study aims to establish whether parental worry mediated the link between chaos in the home and the adaptive functioning (communication, daily living skills, socialization) of children with ASD compared to those without ASD. Design/methodology/approach Data were collected from 202 parents, 99 with a child with ASD and 103 without ASD. Parents responded to the Confusion, Hubbub and Order Scale, asking about the chaos level in their home. They also completed the Penn State Worry Questionnaire and the Vineland Adaptive Behavior Scales (VABS-3 caregiver survey). Findings Correlations were found between chaos levels and adaptive functioning, with more chaos predicting decreases in adaptive functioning overall. Moreover, a mediation analysis, using parent worry as…",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613261418948",
+      "title": "Short report: An examination of behavioral factors linked to picky eating in autistic children",
+      "authors": [
+        "Anna Wallisch",
+        "Sallie Nowell",
+        "E Zhang",
+        "Brian Boyd",
+        "Elena Tenenbaum",
+        "Nancy Zucker",
+        "Dana Bakula",
+        "Ann Davis"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-25",
+      "doi": "10.1177/13623613261418948",
+      "url": "https://doi.org/10.1177/13623613261418948",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Eating difficulties are highly prevalent among autistic children and are linked to negative health consequences. While many mechanisms are thought to underly these behaviors, we know less about how internalizing and externalizing behaviors relate to eating difficulties in autism. The purpose of this study was to examine how internalizing and externalizing behaviors differ between autistic children (3–6 years of age) with parent-reported picky eating ( n = 80) and without picky eating ( n = 30). Data was drawn from intake paperwork and assessments completed as part of an autism diagnostic evaluation at a large medical center. Results suggested that picky eaters, when compared to non-picky eaters, had significantly more difficulties with aggression and withdrawal. Our study findings suggest that understanding the behavioral profiles associated with picky eating may be particularly useful when devising treatment plans. Furthermore, diagnosticians who may be the first to gather both eating and behavioral symptom data can initiate referrals to feeding specialists to help prevent some of the negative health consequences associated with these eating behaviors. Lay Abstract Many autistic c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261421983",
+      "title": "Accessibility of ADHD Assessments in Australia: A Secret Shopper Study",
+      "authors": [
+        "Clare O’Toole",
+        "John Finlayson",
+        "Stuart Johnstone",
+        "Kate Croaker"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-02-25",
+      "doi": "10.1177/10870547261421983",
+      "url": "https://doi.org/10.1177/10870547261421983",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Aim: This study aimed to provide a representative indication of the accessibility of both adult and child ADHD assessments in Australia for psychologists, psychiatrists, and paediatricians. Accessibility was considered in terms of clinician availability, wait times for an initial session, initial session costs, and total assessment costs across Australian states and territories, remoteness areas, and socioeconomic ranges. Methods: Using a secret shopper design, researchers posed as potential consumers seeking an ADHD assessment for themselves and/or their child. A total of 736 clinicians were contacted via telephone between May and August 2024. Results: Fifty-nine percent of clinicians responded, and 49.8% of respondents were available to book an ADHD assessment. The average wait times for psychologists, psychiatrists, and paediatricians were 7, 16, and 31 weeks, respectively (Mdn = 3, 15, and 26; IQR = 7, 16, and 31). The average initial session costs and estimated total assessment costs were $266 and $1,622 for psychologists (Mdn = 250 and 1,625; IQR = 57 and 929), $748 and $1,163 for psychiatrists (Mdn = 750 and 1,086; IQR = 340 and 555), and $500 and $598 for paediatricians (Md…"
     },
     {
       "id": "10.1007/s10803-026-07256-w",
@@ -1102,35 +1685,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613251414902",
-      "title": "A double-masked randomised actively controlled trial of KONTAKT™ social skills toolbox for Australian autistic children",
-      "authors": [
-        "Bahareh Afsharnejad",
-        "Elinda Ai Lim Lee",
-        "Maya Hayden-Evans",
-        "Anna Fridell",
-        "Christina Coco",
-        "Tasha Alach",
-        "Mathew Johnson",
-        "Sven Bölte",
-        "Sonya Girdler"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-15",
-      "doi": "10.1177/13623613251414902",
-      "url": "https://doi.org/10.1177/13623613251414902",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "abstract": "To explore the efficacy of KONTAKT ™ , a manualised social skills group programme, compared to an active control group, 84 autistic children aged 8–12 years were randomised to KONTAKT ( n = 43) or ART-Legends, a group-based social art programme ( n = 41). Both programmes ran for sixteen 75-min sessions. Primary (Goal Attainment Scaling) and Secondary outcomes (Social Skills Group Assessment, LERID Friendship Scale) were collected at baseline, post-completion, 3-month (primary endpoint) and 1-year follow-up. A weekly survey was also collected to capture children’s enjoyment, motivation and social interaction anxiety while attending their group. Linear mixed modelling indicating significant effects for both groups on the primary outcome GAS ( p &lt; 0.001) over time. No Time*Group interaction was observed for GAS or any of the secondary measures at the primary endpoint, except quality of friendship (effect size = 0.67, p = 0.01). The weekly survey indicated higher enjoyment levels from attending KONTAKT compared to ART-Legends. This study found that both social group programmes helped autistic children achieve their personal social goals, with no clear advantage for KONTAKT over ART-…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07241-3",
       "title": "Reduced Habituation: A Key to Understanding Sensory Sensitivity in Autism",
       "authors": [
@@ -1356,25 +1910,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/13623613261425302",
-      "title": "Development is key to understanding autism: How longitudinal approaches shape our understanding of autism",
-      "authors": [
-        "Kathryn A McNaughton",
-        "Alison S Russell",
-        "Margaret Lyons",
-        "Julia Parish-Morris",
-        "Clare Harrop"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-12",
-      "doi": "10.1177/13623613261425302",
-      "url": "https://doi.org/10.1177/13623613261425302",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581261421856",
@@ -2098,41 +2633,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251413538",
-      "title": "Sleep and activity patterns in autism",
-      "authors": [
-        "J Dylan Weissenkampen",
-        "Arpita Ghorai",
-        "Thaise NR Carneiro",
-        "Maria Fasolino",
-        "Brielle N Gehringer",
-        "Maya Rajan",
-        "Holly C Dow",
-        "Shriya Kunatharaju",
-        "Till Roenneberg",
-        "Ronnie Sebro",
-        "Daniel J Rader",
-        "Brendan T Keenan",
-        "Laura Almasy",
-        "Edward S Brodkin",
-        "Maja Bućan"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-05",
-      "doi": "10.1177/13623613251413538",
-      "url": "https://doi.org/10.1177/13623613251413538",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Sensory environment"
-      ],
-      "abstract": "Autism is a heritable neurodevelopmental condition marked by impaired social interaction, repetitive behavior, and co-occurring conditions. Sleep disturbances are common in autism. This study uses low-cost wearable devices to compare sleep, physical activity, and circadian behavior in autistic adults and their non-autistic relatives. We recruited 318 autistic individuals and 130 family members, collecting accelerometer data over 3 weeks (8249 days). Using a data-driven approach, we identified actimetry-derived features associated with autism. We examined 308 traits using the elastic net algorithm and linear mixed effects regressions. We identified 52 actimetry measures associated with autism (area under the curve: 0.812; confidence interval: 0.761–0.862), validated in a test set (area under the curve: 0.756; confidence interval: 0.700–0.813). Both mean and day-to-day variability in several measures (e.g., time spent sedentary, total light physical activity) were associated with autism. In autistic individuals, reduced physical activity during wake was more strongly associated with shorter sleep time than in non-autistic relatives (likelihood ratio: 41.6; p = 1.13e−10). Reduced phys…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s40489-025-00536-8",
       "title": "Empathy in Children and Adolescents with Autism Spectrum Disorder: A Systematic Review",
       "authors": [
@@ -2216,22 +2716,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -2252,6 +2736,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -3246,56 +3746,6 @@
       "abstract": "Gendered expectations significantly influence how Autism is recognised in women, often contributing to misdiagnosis and delayed identification. This study explored the experiences of Autistic women diagnosed after 30 in Australia. Using a cross-sectional qualitative design, semi-structured interviews were conducted with 10 Autistic women with a median age of 47.5 years. Participants were recruited through purposive sampling on social media, and reflexive thematic analysis was used for data examination, with careful consideration of researcher reflexivity. Seven key emotionally centred themes were identified from the participants’ diagnostic journeys: (1) Frustration at the Barriers Surrounding a Diagnosis, (2) Fear and Self-Doubt on the Path to Self-Acceptance, (3) The Grief of Revisiting the Past, (4) Shock of the New Self, (5) Anger at Being Dismissed, (6) The Relief of Authenticity, and (7) Pride and Belonging in Community. The findings revealed the significant impact of ‘Autistic burnout’ and the challenges of accessing practitioners knowledgeable about Autism in women. Participants expressed a range of emotions stemming from having the validity of their struggles questioned an…"
     },
     {
-      "id": "10.1177/13623613251385029",
-      "title": "Increased prosocial value orientation in autistic adults",
-      "authors": [
-        "Paul AG Forbes",
-        "Gillian Hughes",
-        "Leonhard Schilbach",
-        "Sarah White",
-        "Tobias Kalenscher"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251385029",
-      "url": "https://doi.org/10.1177/13623613251385029",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "Social discounting describes the tendency to give fewer resources to those we feel less close to. Previous work suggests autistic individuals show a flatter decline in generosity towards socially distant others compared with non-autistic participants. We investigated whether this enhanced prosociality towards socially distant others in autism was driven by genuinely higher prosociality or instead a preference for repetitive responding. We measured prosocial preferences in 37 autistic and 38 non-autistic adults using the social value orientation questionnaire, where participants allocated money between themselves and people at six different social distances (e.g. friend vs stranger). We replicated previous findings by showing that autistic adults were more prosocial than non-autistic adults towards more socially distant others. Crucially, these effects were not driven by more repetitive responding in autism, nor by differences in attitudes to money. While autistic people often face challenges navigating their social worlds, our findings reinforce the view that autism is also associated with more prosociality. We argue that differences in fairness norms could drive more prosociality…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251383343",
-      "title": "Are we getting better at identifying and diagnosing neurodivergent girls and women? Insights into sex ratios and age of diagnosis from clinical population data in Scotland",
-      "authors": [
-        "Donald Maciver",
-        "Anusua Singh Roy",
-        "Lorna Johnston",
-        "Marie Boilson",
-        "Eleanor Curnow",
-        "Victoria Johnstone-Cooke",
-        "Marion Rutherford"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251383343",
-      "url": "https://doi.org/10.1177/13623613251383343",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "This study examined differences in referral and diagnosis based on sex recorded at birth (hereafter, ‘sex’), using case notes from 408 individuals diagnosed by 30 multidisciplinary teams across Scotland. Analyses focused on male-to-female ratios and median ages at referral and diagnosis across attention-deficit/hyperactivity disorder, autism and intellectual disability. The lifespan male-to-female ratio across all diagnoses was 1.31, varying by category and age. In autism, the male-to-female ratio was 2.21 for children under 10 years, but there were more females in adolescence (male-to-female ratio = 0.79) and adulthood (male-to-female ratio = 0.94). Across the lifespan, combining all diagnoses, females were referred later (median ages: 14.4 vs 19.7 years; p &lt; 0.001) and diagnosed later (median ages: 15.2 vs 20.2 years; p &lt; 0.001), indicating a 5-year delay. Among autistic children and adolescents, females were referred later (median age: 7.5 vs 10.5 years; p = 0.002) and diagnosed later (median age: 9.3 vs 11.9 years; p = 0.003). However, no significant differences were found in age of referral or diagnosis for autistic adults. Overall, the results indicate increasing balanc…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1089/aut.2024.0148",
       "title": "Reacting, Retreating, Regulating, and Reconnecting: How Autistic Adults in the United Kingdom Use Time Alone for Well-Being",
       "authors": [
@@ -3439,18 +3889,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251410707",
-      "title": "Acknowledgment of Reviewers 2025",
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/25739581251410707",
-      "url": "https://doi.org/10.1177/25739581251410707",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1089/aut.2023.0192",
       "title": "Neurodivergence and the Rabbit Hole of Extremism: Uncovering Lived Experience",
       "authors": [
@@ -3484,6 +3922,18 @@
       ],
       "abstract": "Background: There have been sporadic and disturbing media accounts of autistic people engaging with extreme ideologies, with comparatively little systematic exploration of this suggested association. Existing research has failed to consider the contextual factors that could influence these rare occurrences of engagement with extreme ideologies. This study explores how autistic individuals involved in extreme ideologies describe personal and contextual factors affecting their participation. Methods: Twelve individuals from Canada and the United States who were either diagnosed or self-identified as autistic and have engaged with extreme ideologies participated in semistructured interviews. The research approach and analysis of the data were informed by interpretative phenomenological analysis. Our interdisciplinary team met regularly to collectively examine initial assumptions and interpretations, while maintaining a central focus on the perspectives of the participants. Results: We identified the following three key themes: (1) early wounds, (2) missed formative opportunities, and (3) finding a fit for neurodivergence. Traumatic experiences, disenfranchisement, learned hatred from…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251410707",
+      "title": "Acknowledgment of Reviewers 2025",
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/25739581251410707",
+      "url": "https://doi.org/10.1177/25739581251410707",
+      "neurotype": [
+        "Autism"
+      ]
     },
     {
       "id": "10.1089/aut.2023.0117",
@@ -3664,105 +4114,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1177/13623613251410418",
-      "title": "Partner-dependent communication without dynamic adaptation in autism",
-      "authors": [
-        "Saskia BJ Koch",
-        "Jordy van Langen",
-        "Jana Bašnáková",
-        "Arjen Stolk"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-31",
-      "doi": "10.1177/13623613251410418",
-      "url": "https://doi.org/10.1177/13623613251410418",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Autism is a neurodevelopmental condition characterized by persistent communication challenges, often compounded by social anxiety. Although differences in perspective-taking, cognitive flexibility, and social motivation have been implicated in these challenges, their influence on live interpersonal interactions remains unclear. In this study, we quantitatively examined how autistic and non-autistic individuals with varying levels of social anxiety adapted their communication during experimentally controlled interactions with two ostensibly distinct partners—a child and an adult—both portrayed by the same role-blind confederate. Autistic participants were equally motivated and capable as non-autistic participants in adjusting their communication to stereotypical assumptions about a partner’s abilities, spontaneously using greater emphasis when addressing the presumed less capable child. However, they were less likely to modify these stereotype-driven behaviors in response to interaction-based evidence of partners’ equal competence. While non-autistic participants dynamically adapted their communication to treat both partners equivalently, autistic participants maintained their stere…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251414302",
-      "title": "Eliciting the views of autistic adolescents attending specialist schools on what friendships mean to them",
-      "authors": [
-        "Jo Halsall",
-        "Elise Robinson",
-        "Anna Cook",
-        "Adam Halsall",
-        "Laura Crane"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-31",
-      "doi": "10.1177/13623613251414302",
-      "url": "https://doi.org/10.1177/13623613251414302",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Friendship has been identified as an important way to support autistic adolescents’ social, emotional and cognitive development. However, research examining autistic adolescents’ friendships has tended to use methodologies inaccessible to children with complex communication and learning needs. We examined the friendship experiences of 12 autistic adolescents (aged 12–15 years) with complex communication and learning needs who attended a specialist school. Using reflexive thematic analysis, we identified two themes. Within the first theme of ‘reconceptualising friendship’, the adolescents identified friends who evoked strong emotions and connection, without distinguishing between positive or negative interactions, or the standard boundaries of friendship. ‘Friendships’ with adults were also highlighted. Within the second theme of ‘the context dependent nature of connection’, the adolescents’ descriptions of friendship communicated a preference for engagement via physical play in spaces that facilitated such interaction. Our findings underscore the importance of directly eliciting the views of autistic adolescents with complex communication and learning needs. They also highlight the…"
-    },
-    {
-      "id": "10.1177/13623613251412202",
-      "title": "Patterns of interparental conflict and psychological distress among Australian mothers of autistic children",
-      "authors": [
-        "Alexis Kanat",
-        "Grace McMahon",
-        "Alison Fogarty",
-        "Rebecca Giallo",
-        "Monique Seymour"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-31",
-      "doi": "10.1177/13623613251412202",
-      "url": "https://doi.org/10.1177/13623613251412202",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Mothers of autistic children often face unique emotional and financial challenges, contributing to heightened stress, poorer mental health and increased interparental conflict. This study examined interparental conflict over a 10-year period (child ages 4–14 years) among mothers of autistic children. The objectives were to: (1) compare interparental conflict levels between mothers of autistic and non-autistic children; (2) identify distinct interparental conflict trajectories among mothers of autistic children; and (3) examine the relationship between interparental conflict trajectories and mothers’ psychological distress when their children were age 14 years. Data were drawn from six waves of the Longitudinal Study of Australian Children. There were 333 mothers of autistic children and 8145 mothers of non-autistic children. Mothers of autistic children reported significantly greater interparental conflict than mothers of non-autistic children, peaking at child ages 4–5 years. Two interparental conflict trajectories were identified for mothers of autistic children: consistently low and persistently elevated , with the latter associated with greater psychological distress. These res…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251409334",
-      "title": "Breastfeeding and autism: An electronic health records study of baby wellness visit records",
-      "authors": [
-        "Ayelet Ben-Sasson",
-        "Aviva Mimouni-Bloch",
-        "Sukaina Samhat-Darawshi",
-        "Keren Ilann",
-        "Lidia V Gabis"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-31",
-      "doi": "10.1177/13623613251409334",
-      "url": "https://doi.org/10.1177/13623613251409334",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Evidence supporting the association between breastfeeding patterns and autism is inconsistent. This study examined sociodemographic and birth factors related to breastfeeding duration and subsequent autism spectrum disorder (autism) diagnosis according to the Diagnostic and Statistical Manual of Mental Disorders, 5 th Edition, compared to a neurotypically developing cohort, based on electronic health records. Demographics, feeding preferences, and breastfeeding duration as reported by parents during routine baby wellness visits were analyzed for a cohort of 11,766 (1.9%) children with autism spectrum disorder diagnosis and a random subsample of 12,000 (2.03%) neurotypically developing children. Autism spectrum disorder diagnosis was based on a national autism registry and assigned after electronic health records were completed. Preterm, very low birth weight, multiple births, and complex medical comorbidities were excluded. Infants subsequently diagnosed with autism were breastfed for an average of 5.0 months, 1.5 months shorter than neurotypically developing. Fewer autism spectrum disorder infants were exclusively breastfed in the first year of life. Two-way analysis of variance i…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1002/aur.70188",
@@ -4018,66 +4369,6 @@
       "neurotype": [
         "Autism"
       ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251406094",
-      "title": "Community views on the assessment and diagnosis of autism: Principles to guide clinical practice",
-      "authors": [
-        "Rhylee Sulek",
-        "Rachelle Wicks",
-        "Emma Hinze",
-        "Nicole Dargue",
-        "Briohny Dempsey",
-        "Emma Goodall",
-        "Libby Groves",
-        "David Trembath",
-        "Hannah Waddington",
-        "Andrew JO Whitehouse",
-        "Kandice J Varcin"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-26",
-      "doi": "10.1177/13623613251406094",
-      "url": "https://doi.org/10.1177/13623613251406094",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "This study aimed to identify guiding principles to underpin assessment and diagnosis of autism to improve the quality, consistency and accuracy of services provided to individuals and their families. An online survey and focus groups were used to capture community perspectives of members of the Australian autistic and autism communities. A total of 871 individuals participated across the research activities, including autistic individuals ( n = 253), parents of autistic individuals ( n = 344), practitioners ( n = 325) and members of organisations with an interest in the assessment and/or diagnosis of autism ( n = 115). Three overarching themes, encompassing 15 codes, representing the principles that should underpin practice across the assessment and diagnostic process were developed (a) placing the person at the centre of the process; (b) understanding and valuing the whole person and (c) improving quality and access. Assessment and diagnosis for autism should go beyond diagnostic decision-making to include understanding of individual needs and identifying support pathways. The principles identified serve as a first step to guiding practitioners in their approach, ensuring they wor…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251412722",
-      "title": "‘It’s not fair, this isn’t what an autistic person should go through’: Experiences of autistic adults on inpatient mental health wards",
-      "authors": [
-        "Rhiannon Williams"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-26",
-      "doi": "10.1177/13623613251412722",
-      "url": "https://doi.org/10.1177/13623613251412722",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "When an autistic person requires inpatient mental health support, they should be supported in mainstream services with reasonable adjustments. However, there is a lack of research into how autistic service users find their admissions to mental health wards. Ten United Kingdom-based autistic adults took part in semi-structured interviews to explore their experiences of being a mental health inpatient. These results were analysed using reflexive thematic analysis (RTA) and four themes were developed: ‘I’m not mental health, I’m not autism, I’m just me’, ‘All the noise. All the people. All the unpredictability’, ‘You work out how to survive’, and ‘It’s the usual set up, all the decisions had been made’. Results highlighted a negative overall appraisal of inpatient admissions, with specific difficulties in a lack of nuanced autism understanding, sensory environments, unpredictability and a felt sense of powerlessness. Findings indicate further autism training is required for staff working on inpatient wards, as well as changes to sensory environments that could benefit neurodivergent populations. These changes should detail how to put in place reasonable adjustments throughout a person…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -5035,24 +5326,6 @@
       ]
     },
     {
-      "id": "10.1177/13623613251401049",
-      "title": "Emotion regulation in families of autistic children and adolescents: A longitudinal study",
-      "authors": [
-        "Yuting Tan",
-        "Kevin Ka Shing Chan"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-13",
-      "doi": "10.1177/13623613251401049",
-      "url": "https://doi.org/10.1177/13623613251401049",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "This study investigated whether parental emotion-regulation difficulties are prospectively associated with increased emotion-regulation challenges in autistic children and adolescents and explored the underlying mechanisms and behavioral implications of these potential intergenerational associations. Over three time points (T1, T2, T3) spanning 2 years, 363 parents of autistic children and adolescents from Hong Kong provided questionnaire data. Path analyses revealed that parental emotion-regulation difficulties at T1 were associated with greater negative emotional expressiveness at T2, which in turn was linked to increased emotion-regulation difficulties and more internalizing and externalizing problems in autistic children and adolescents at T3. Importantly, these findings indicate that when parents have difficulty regulating their emotions and express negativity, their autistic children and adolescents are more likely to face emotion-regulation challenges and exhibit behavior problems. This underscores the need to support parents in regulating their emotions and optimizing their emotional expressiveness. Clinicians and policymakers should help parents strengthen their emotion re…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251414545",
       "title": "Interoception in Autism, Pitfalls, and Promise: A Participatory Research Perspective",
       "authors": [
@@ -5486,39 +5759,6 @@
         "Quality of life"
       ],
       "abstract": "ABSTRACT Social relationships are a key component of quality of life, a high‐priority outcome for autistic people, and family relationships are critical in adolescence. The PROMIS Family Relationships scale has been well validated for use with the general population, but psychometric validation in the autistic population is lacking. This study investigated measurement invariance of the PROMIS Family Relationships among autistic and general population adolescents. The scale demonstrated scalar invariance between the groups, providing evidence that it measures the same construct equivalently and scores can be meaningfully compared between groups. With a well‐validated self‐report measure, researchers can ask autistic teens directly about their experiences of their family relationships, rather than relying solely on parent proxy report.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251407310",
-      "title": "Profiles of parent–teacher discrepancy on autistic children’s adaptive functioning",
-      "authors": [
-        "Rachel Lees Thorne",
-        "Nicky Wright",
-        "Andres De Los Reyes",
-        "Isabel M Smith",
-        "Anat Zaidman-Zait",
-        "Lonnie Zwaigenbaum",
-        "Tracy Vaillancourt",
-        "Peter Szatmari",
-        "Teresa A Bennett",
-        "Eric Duku",
-        "Annie E Richard",
-        "Connor Kerns",
-        "Rachael Bedford"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-07",
-      "doi": "10.1177/13623613251407310",
-      "url": "https://doi.org/10.1177/13623613251407310",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "Clinical guidelines recommend collecting reports from multiple informants when identifying and diagnosing challenges in children. The current study examined parent–teacher discrepancies in rating of autistic children’s adaptive functioning and how these related to children’s executive functions. Participants ( n = 194) were a subsample of autistic children (mean age = 9.2 years; 86% male) from the Pathways in ASD cohort. We used latent profile analysis to characterise profiles based on both parent and teacher reports of adaptive functioning levels. We tested links between these profiles and indices of children’s executive function and other clinical correlates. Four profiles were characterised: a lower adaptive functioning-parent higher profile, in which parents reported relatively higher scores than teachers ( n = 45), an intermediate adaptive functioning profile ( n = 70) and a higher adaptive functioning profile ( n = 39; both characterised by similar ratings between informants) and finally, a higher adaptive functioning-teacher higher profile, in which teachers reported relatively higher scores than parents ( n = 40). The higher adaptive functioning-teacher higher profile showe…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6168,31 +6408,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251407294",
-      "title": "Thinking flexibly: A cognitive remediation therapy–informed intervention for autistic youth",
-      "authors": [
-        "Jasmin Dipre",
-        "Lauren Burton",
-        "Kate Tchanturia",
-        "Matthew J Hollocks"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-31",
-      "doi": "10.1177/13623613251407294",
-      "url": "https://doi.org/10.1177/13623613251407294",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Autistic people are known to demonstrate greater difficulties with cognitive flexibility. These difficulties are associated with a range of poor outcomes, including elevated rates of anxiety and depression. Current intervention approaches fail to account for these specific mechanisms. In this study, we address this by piloting a new intervention which aims to specifically target cognitive inflexibility. The ‘Thinking Flexibly’ intervention has been co-designed with autistic youth based on previous work, including cognitive remediation therapy. Twenty autistic adolescents were recruited from clinical services and offered the eight-session intervention. Acceptability was assessed through participant drop-out and session completion. Participants (and their parents) also completed questionnaire measures of cognitive inflexibility, anxiety, depression and functional outcomes before and after the intervention. Our results indicated good acceptability with 19/20 participants completing the intervention and session attendance was high, with a single missed session. We found significant increases in flexibility across both parent- and self-report of a moderate effect. Participants reported…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1080/20473869.2025.2608096",
       "title": "Adaptation and validation of the Autism Spectrum Screening Questionnaire into Kannada",
       "authors": [
@@ -6258,33 +6473,6 @@
         "communication"
       ],
       "abstract": "ABSTRACT Parent–child biobehavioral synchrony, or the concordance of behavior and physiological indicators between individuals, is theorized to support children's social development; however, this relationship has yet to be investigated in autistic children. This study examined whether moment‐to‐moment physiological synchrony—indexed via respiratory sinus arrhythmia (RSA)—and its interface with global levels of behavioral synchrony was associated with the pragmatic language skills and friendship quality of school‐aged autistic children in 40 mother–child dyads. Mother–child dyads participated in a collaborative task, from which RSA synchrony and behavioral synchrony were assessed. Mothers and their autistic children demonstrated negative RSA synchrony, such that when one partner displayed an increase in RSA, the other partner showed a decrease in RSA. The extent of behavioral synchrony between mothers and their children did not moderate the strength of concordance between mother and child RSA. Negative RSA synchrony was associated with better pragmatic language skills in autistic children from mother–child dyads who displayed high levels of behavioral synchrony. These findings high…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251403906",
-      "title": "Autistic adults prefer social touch less but engage just as much: The impact of social context, relationship type, sensory responsivity, and psychological factors",
-      "authors": [
-        "Macy Tsz Wing Li",
-        "Manuel Mello",
-        "Keren MacLennan",
-        "Haemy Lee Masson"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-30",
-      "doi": "10.1177/13623613251403906",
-      "url": "https://doi.org/10.1177/13623613251403906",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Autistic people face touch-related challenges, yet the factors influencing these difficulties are not well understood. We developed a novel instrument to capture social touch experiences of autistic adults, along with both social and individual factors that influence them. Using a body-painting task and questionnaires, we demonstrated that the perception of touch interactions varies based on social contexts and neurotypes. Autistic adults, on average, prefer touch less, but the type of relationship influences the perceived comfort and meaningfulness of touch similarly in both groups. Regarding the appropriateness, erogeneity, and pleasantness of social touch, the autistic group showed different touch perceptions in professional and friendly scenarios compared to the non-autistic group, whereas touch in intimate scenarios was perceived similarly. Sensory responsivity, touch predictability, social confidence, and touch-related anxiety affect social touch to a greater extent than the non-autistic group. Despite these marked differences in perception, the autistic adults, on average, engage in social touch as frequently as non-autistic adults, and their satisfaction with touch is compa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6488,115 +6676,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1177/13623613251407763",
-      "title": "A mixed-methods study examining the ripple effect of inclusive employment on reducing stigma toward autistic people in South Korea",
-      "authors": [
-        "Hyesung Park",
-        "JiHoi Na",
-        "So Yoon Kim",
-        "SoHyun Lee"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1177/13623613251407763",
-      "url": "https://doi.org/10.1177/13623613251407763",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Quality of life"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "This mixed-methods study examines how contact with Autistar, a Korean company providing strength-based, institutional-level support to autistic designers, is associated with stigma toward autistic people. One-hundred thirty-eight non-autistic community members completed an online survey; mixed-effects and stepwise regression analyses assessed relationships between contact with Autistar and stigma. Focus group interviews with 11 participants drawn from this full survey sample who had extensive contact with Autistar were analyzed using qualitative content analysis. Quantitative analyses indicated that greater contact breadth with Autistar was linked to lower stigma. In particular, participation in exhibitions and introduction by acquaintances predicted lower stigma. Qualitative analysis revealed that sustained and informed contact, which allowed participants to notice similarities between themselves and autistic employees and the strengths of these employees, helped them view autistic people as part of their ingroup. This study linked contact theory and ingroup bias theory to explain how high-quality contact may be associated with perceiving autistic people as part of one’s ingroup.…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251407765",
-      "title": "‘It’s quite difficult to put Autistic relationships in a box’: A qualitative exploration of romantic relationships in gender and sexually diverse Autistic adults",
-      "authors": [
-        "Tina Ciric",
-        "Luka CJ White",
-        "Claire Allison-Duncan",
-        "Ellen Maloney",
-        "Karri Gillespie-Smith"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1177/13623613251407765",
-      "url": "https://doi.org/10.1177/13623613251407765",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Autistic people enjoy friendships and sexual and romantic relationships. Many Autistic people are also part of a gender or sexual minority, yet gender and sexual minorities are often under-represented in autism research. The current study asked, ‘How do gender and sexually diverse Autistic adults experience and perceive romantic relationships?’ Sixteen gender and/or sexual minority Autistic adults took part in semi-structured interviews. Interviews were transcribed and analysed using thematic analysis. Four main themes were identified from the interview data: (1) ‘It’s Quite Difficult to Put Autistic Relationships Into a Box’, (2) Challenging Social Norms, (3) The Perks and Perils of Online Dating and (4) Understanding and Neurotype. Overall, participants described their relationships as individual, inherently valuable and shaped by unique preferences, mutual understanding and explicit communication. They also emphasized the fluidity between friendships and romantic partnerships, the importance of mutual understanding and the inherent value of rejecting prescriptive social norms in favour of individualized romantic relationship dynamics. These findings highlight relationship struct…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251406399",
-      "title": "Scoping review: Facilitators, barriers, and cultural adaptations in the caregiver skills training program for children with developmental concerns",
-      "authors": [
-        "Cecilia Montiel-Nava",
-        "Maria C Montenegro",
-        "Ana C Ramirez",
-        "Victoria Villarreal",
-        "Lucia Murillo Chacko",
-        "Pamela Dixon",
-        "Sarah Dababnah"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-27",
-      "doi": "10.1177/13623613251406399",
-      "url": "https://doi.org/10.1177/13623613251406399",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "service improvement"
-      ],
-      "abstract": "Autism interventions are predominantly developed in high-income countries, limiting access for families in low- and middle-income countries due to systemic, cultural, and logistical barriers. The Caregiver Skills Training program aims to address this disparity by equipping caregivers with practical skills. This scoping review examines the cultural adaptations, facilitators, and barriers to the implementation of Caregiver Skills Training, focusing on its accessibility, feasibility, and acceptability. A comprehensive search of ERIC, PsycINFO, PubMed, and Web of Science identified eligible studies that reported cultural or linguistic adaptations of Caregiver Skills Training. Forward searches and manual reference checks supplemented the review. Data were extracted using the Cultural Adaptation Checklist framework and analyzed for patterns in adaptation, training, barriers, and facilitators. Seventeen studies across Asia, Africa, Europe, and North America highlighted diverse adaptations in language, content, and delivery methods. Facilitators included community partnerships and task-shifting with non-specialists, while barriers involved logistical challenges, stigma, and resource constr…"
-    },
-    {
-      "id": "10.1177/13623613251403405",
-      "title": "Post-traumatic stress disorder in autistic and non-autistic adults: The impact of appraisals on reactions to traumatic events",
-      "authors": [
-        "Rachel Prosser",
-        "Freya Rumball",
-        "Dorothy King",
-        "Craig Steel"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-27",
-      "doi": "10.1177/13623613251403405",
-      "url": "https://doi.org/10.1177/13623613251403405",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Research suggests autistic people experience greater post-traumatic stress disorder symptom severity than non-autistic people following traumatic events. Post-trauma appraisals are fundamental in cognitive models of post-traumatic stress disorder, but have not been explored in autistic people. We aimed to explore whether we could replicate effects of heightened trauma exposure and post-traumatic stress disorder symptom severity in autistic adults, and examine how post-traumatic appraisals affect the association between autism and post-traumatic stress disorder symptom severity. Two hundred forty-two autistic ( n = 148) and non-autistic adults ( n = 94) completed a survey measuring trauma exposure, post-traumatic stress disorder symptom severity and post-trauma appraisals. Exposure to types of traumatic events did not differ significantly between the groups, but the autistic group endorsed more events that ‘happened to me’ directly. Post-traumatic stress disorder symptom severity and endorsement of negative post-traumatic appraisals were significantly higher in the autistic group, specifically alienation, shame and fear appraisals. These appraisals mediated the association between a…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2025.2605580",
@@ -7079,34 +7158,6 @@
         "disclosure"
       ],
       "abstract": "Autistic individuals face increased risk during police interactions in the United States, including injury and death. Research shows police behave inequitably during interactions with marginalized communities and may behave even more inequitably toward individuals with multiple minoritized identities. Many autistic people also identify as gender diverse. However, it is largely unknown if or how autistic adults’ perceptions of police differ by gender identity. We examined autistic adults’ perceptions of policing, autism, and gender using an online questionnaire. Results revealed significant differences across gender groups (cis women, cis men, gender diverse) in perceptions of justice, comfort in disclosing diagnosis, helpfulness of diagnostic disclosure, influence of gender, and concern that one’s autistic traits would be misperceived as dangerous. These findings align with widespread calls for police reform and suggest current policing practices likely do not meet the needs of all autistic individuals, particularly autistic cis women and gender diverse individuals, who are more likely to report their gender has influenced police interactions and more concerned that their autistic…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251406114",
-      "title": "‘Breaking down a barrier’: Autistic young people see virtual reality as a possible social support, but not a substitute for in-person interactions",
-      "authors": [
-        "Nathan Caruana",
-        "Terry Goetz",
-        "Patrick Nalepka",
-        "Elizabeth Pellicano"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-17",
-      "doi": "10.1177/13623613251406114",
-      "url": "https://doi.org/10.1177/13623613251406114",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Autistic people often face challenges in face-to-face social interactions, especially in unfamiliar or high-stakes situations. Virtual reality has been proposed as a tool to support social connection by offering a more controlled and accessible environment. While previous research has focused on virtual reality–based social skills training, little is known about how autistic people experience social interactions in virtual reality. We interviewed 22 autistic young people (aged 9–22 years, M Age = 14.5) after they engaged in a social interaction with a stranger in immersive virtual reality. Using reflexive thematic analysis, we found that participants generally found virtual reality interactions tolerable, engaging and helpful as a low-pressure first step towards more challenging social situations. Virtual reality was valued for reducing sensory overload, increasing confidence and offering novel social opportunities. However, participants did not view virtual reality as a replacement for in-person interaction, which they saw as essential for building meaningful relationships. These findings highlight the potential of virtual reality to support autistic people by modifying the social…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8038,24 +8089,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1177/13623613251394523",
-      "title": "The relationship between newspaper reading preferences and attitudes towards autism",
-      "authors": [
-        "Marta Dickinson",
-        "Themis Karaminis"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-03",
-      "doi": "10.1177/13623613251394523",
-      "url": "https://doi.org/10.1177/13623613251394523",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Newspapers – particularly certain tabloid and right-leaning publications – often perpetuate negative stereotypes of Autistic people. This study examined how newspaper reading preferences relate to public attitudes towards autism. A sample of 277 UK-based non-autistic adults completed an online survey reporting demographic information, newspaper reading habits (print or online) and trustworthiness ratings for 10 major British newspapers. Participants also completed measures of autism-related knowledge and explicit attitudes towards autism, and an implicit bias task. Data were analysed using generalized additive models weighted by newspaper exposure, along with hierarchical partitioning to estimate the variance explained by reading preferences and other factors. Newspaper-related factors accounted for 4.5% of the variance in explicit attitudes and 10.7% in implicit attitudes. Crucially, selective engagement with right-leaning tabloids was associated with more negative implicit attitudes. Furthermore, selective trust in these outlets predicted relatively favourable explicit but relatively negative implicit attitudes. Overall trust in newspapers was also linked to less accurate autism…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613251393505",
@@ -9727,26 +9760,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613251396316",
-      "title": "Distinguishing midlife and old age: A recommendation for autism researchers",
-      "authors": [
-        "Gavin R Stewart"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-11-09",
-      "doi": "10.1177/13623613251396316",
-      "url": "https://doi.org/10.1177/13623613251396316",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Research on ageing in autism has sharply increased following a number of influential publications that highlighted the lack of knowledge in this area. However, much of the research on autism ageing has inadvertently treated all people aged over 50 as a homogeneous ‘older adult’ group, overlooking important distinctions between midlife (40–64 years) and old age (65+ years). Midlife is marked by complex role management, career pressures, health changes and identity development, while old age often involves retirement, shifts in priorities, physical and cognitive changes, and planning for less independent living. Recognising midlife and old age as distinct life phases is essential to accurately characterise the lived experiences and needs of autistic adults across the latter part of the lifespan. This letter makes conceptual and methodological suggestions that autism researchers should align with established ageing frameworks by labelling samples accurately, using appropriate keywords and, where possible, stratifying analyses by age subgroup. Doing so will enhance research accuracy, improve indexing and increase clinical relevance. This shift is vital for advancing autism ageing resea…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-025-07123-0",
       "title": "Deconstructing Information About Autism Diagnosis in Adults on TikTok: A Cross-Sectional, Descriptive Content Analysis",
       "authors": [
@@ -10520,23 +10533,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s40489-025-00529-7",
-      "title": "A Systematic Review of Parental Well-being in Autism Spectrum: A Cross-Disorder and Cross-Cultural Comparative Study",
-      "authors": [
-        "Léa Chawki",
-        "Valentine Perrelet",
-        "Émilie Cappe"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-28",
-      "doi": "10.1007/s40489-025-00529-7",
-      "url": "https://doi.org/10.1007/s40489-025-00529-7",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
