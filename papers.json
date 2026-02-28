@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T07:14:16Z",
+  "generated_at": "2026-02-28T06:57:29Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -731,6 +731,41 @@
         "access"
       ],
       "abstract": "Objective: Cognitive behavioral therapy (CBT) is an efficacious treatment for adult ADHD, yet access and availability concerns limit scalability. Mobile health apps are promising tools for delivering scalable CBT. The current study reports findings from a randomized controlled trial (RCT) of a CBT-informed health app for adults with ADHD. Methods: A sample of assessed adults with ADHD ( N = 154; ages 18–55 years) were recruited to participate and randomized to either 8 weeks of use of the CBT-informed app or a waitlist control condition. Participants in both groups completed measures of ADHD symptoms and functioning at baseline, at 4 weeks, and at 8 weeks. Results: Linear mixed-effects models for repeated measurements revealed significant group x time interactions for inattentive symptoms (η 2 = .15), hyperactive-impulsive symptoms (η 2 = .05), and ADHD associated quality of life (η 2 = .04) in favor of the CBT-informed app relative to participants who knew they were not receiving help; however, these results did not extend to a measure of functional impairment. Changes in organizational, time management, and planning behaviors and ADHD-related cognitions partially mediated the ass…"
+    },
+    {
+      "id": "10.1177/13623613251414911",
+      "title": "Personality disorder diagnoses in UK Autistic people: Evidence from a matched cohort study",
+      "authors": [
+        "Elizabeth O’Nions",
+        "Jude Brown",
+        "Joshua EJ Buckman",
+        "Rebecca Charlton",
+        "Claudia Cooper",
+        "Céline El Baou",
+        "Francesca Happé",
+        "Sarah Hoare",
+        "Dan Lewer",
+        "Cathie Long",
+        "Jill Manthorpe",
+        "Douglas GJ McKechnie",
+        "Marcus Richards",
+        "Rob Saunders",
+        "Will Mandy",
+        "Joshua Stott"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-02-27",
+      "doi": "10.1177/13623613251414911",
+      "url": "https://doi.org/10.1177/13623613251414911",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Clinical accounts and cohort studies suggest that Autistic people are disproportionately likely to be diagnosed with personality disorder. We conducted a cohort study of adults diagnosed Autistic drawn from the IQVIA Medical Research Database, with follow-up from 1 January 2000 to 16 January 2019. We included a comparison group without diagnosed autism, matched (1:10) by age, sex and primary care practice. We included 22,112 Autistic adults, of whom 6437 (29.1%) had a diagnosis of intellectual disability. Median age was 20.36 (interquartile range: 18.0–28.5), and 16,881 (76.3%) were men. The rate of new personality disorder diagnosis in Autistic people without intellectual disability was 4.8 (3.5–6.7) times higher for Autistic versus comparison men, and 4.6 (3.1–6.8) times higher for Autistic versus comparison women. For Autistic participants with intellectual disability, the rate was 2.0 (1.0–3.7) times higher for Autistic versus comparison men and 8.3 (4.0–17.2) times higher for Autistic versus comparison women. The estimated rate of new personality disorder diagnosis for Autistic people aged 20 increased from 14.67 (95% confidence interval: 10.4–20.8) per 10,000 person-years in…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07276-6",
@@ -2716,22 +2751,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -2752,6 +2771,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -2968,35 +3003,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251375879",
-      "title": "“It’s Like All of My Senses and My Body Become More Awakened”: Autistic Adults’ Experiences of Attending Live Music",
-      "authors": [
-        "Gemma Herbert",
-        "Abbie Smith",
-        "Keren MacLennan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251375879",
-      "url": "https://doi.org/10.1177/25739581251375879",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Background: Up to 94% of Autistic people have sensory responsivity differences, associated with experiences that can range from being distressing to highly pleasurable. Despite the importance of live music in fostering social inclusion, many venues and events are not inclusive, creating barriers for Autistic people. Given the challenges Autistic people face in accessing live music events, our study aimed to explore their experiences to improve inclusivity, using a critical realism epistemological approach. Methods: We conducted a qualitative study with 16 Autistic adults aged 21–52 through online focus groups ( n = 13), individual interviews ( n = 1), and email exchanges ( n = 2), allowing for spoken or typed communication. Each focus group lasted 1 hour, and we analyzed the data using reflexive thematic analysis, following good practice guidelines. Results: We developed four main themes and two subthemes: (1) “This is a military operation”—Planning to manage uncertainty and overwhelm; (2) “Hating a crowd and loving a crowd at the same time”—Social connection; (3) The duality of an intense sensory environment; (3a) “The music, the vibrations bring out the colors … in my mind”—Immer…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251365916",
       "title": "Know Me, See Me, Hear Me: A Scoping Review of the Attitudes and Approaches to Relationships and Sexuality Education for Autistic Individuals and Their Families",
       "authors": [
@@ -3070,6 +3076,35 @@
         "lived experience"
       ],
       "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251375879",
+      "title": "“It’s Like All of My Senses and My Body Become More Awakened”: Autistic Adults’ Experiences of Attending Live Music",
+      "authors": [
+        "Gemma Herbert",
+        "Abbie Smith",
+        "Keren MacLennan"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251375879",
+      "url": "https://doi.org/10.1177/25739581251375879",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Background: Up to 94% of Autistic people have sensory responsivity differences, associated with experiences that can range from being distressing to highly pleasurable. Despite the importance of live music in fostering social inclusion, many venues and events are not inclusive, creating barriers for Autistic people. Given the challenges Autistic people face in accessing live music events, our study aimed to explore their experiences to improve inclusivity, using a critical realism epistemological approach. Methods: We conducted a qualitative study with 16 Autistic adults aged 21–52 through online focus groups ( n = 13), individual interviews ( n = 1), and email exchanges ( n = 2), allowing for spoken or typed communication. Each focus group lasted 1 hour, and we analyzed the data using reflexive thematic analysis, following good practice guidelines. Results: We developed four main themes and two subthemes: (1) “This is a military operation”—Planning to manage uncertainty and overwhelm; (2) “Hating a crowd and loving a crowd at the same time”—Social connection; (3) The duality of an intense sensory environment; (3a) “The music, the vibrations bring out the colors … in my mind”—Immer…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -3697,53 +3732,6 @@
         "Mental health"
       ],
       "abstract": "Applied behavior analysis is a widely used intervention for autistic youth, though its mental health impacts remain under-researched. This study aims to investigate the association between applied behavior analysis therapy and post-traumatic stress disorder, suicidality, mental health hospitalization rates, and length of mental health hospitalizations using a national database of privately insured youth under 18. We matched 17,120 autistic youth who received applied behavior analysis with a control group of autistic youth with no record of applied behavior analysis and clustered them into four applied behavior analysis dose groups using two-stage bisecting k-medians clustering. Then, we used negative binomial regression and logistic regression to compare outcomes for the applied behavior analysis and non-applied behavior analysis groups. Overall, applied behavior analysis receipt was associated with 30% higher odds of experiencing a mental health hospitalization (odds ratio = 1.30, p &lt; 0.001) and a 32% higher incidence rate of these hospitalizations (incidence rate ratio = 1.32, p &lt; 0.001). Our analysis found no relationship between applied behavior analysis dosing and the ot…"
-    },
-    {
-      "id": "10.1177/13623613251384436",
-      "title": "When expectation meets experience: A qualitative analysis of serial interviews with adults before and after autism assessment",
-      "authors": [
-        "Maria Downey",
-        "Juwayriyah Nayyar",
-        "Suzanne Guerin",
-        "Cliodhna O’Connor"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251384436",
-      "url": "https://doi.org/10.1177/13623613251384436",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "With growing numbers of adults seeking and receiving autism diagnoses, understanding subjective experiences of this process is crucial for sensitive policy and practice. The route to diagnosis can be long and circuitous, yet most evidence on adults’ experiences of diagnosis relies on retrospective reports collected at a single point in time. The current study explores lived experiences of the diagnostic journey through serial qualitative interviews conducted in the weeks before and after adults’ autism diagnosis. Fourteen adults participated in online interviews over videoconferencing or email. Thematic analysis of the data suggested the diagnostic process could be characterised according to three themes. Journey to Self-Discovery identified the pursuit of diagnosis as rooted in a drive for self-understanding, propelled by anticipated benefits that were partially realised, and emotionally complex at all stages. Challenges with Navigating the Diagnostic Process highlighted how the process of acquiring and adjusting to a diagnosis was shaped by issues of resource access, system deficiencies, social inequalities and cognitive overwhelm. Isolation to Advocacy revealed how journeys that…"
-    },
-    {
-      "id": "10.1177/13623613251386983",
-      "title": "Late bloomers: Exploring the emotional landscape of Australian women’s experiences of a late Autism diagnosis",
-      "authors": [
-        "Annie Pollock",
-        "Zoë Krupka"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251386983",
-      "url": "https://doi.org/10.1177/13623613251386983",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Gendered expectations significantly influence how Autism is recognised in women, often contributing to misdiagnosis and delayed identification. This study explored the experiences of Autistic women diagnosed after 30 in Australia. Using a cross-sectional qualitative design, semi-structured interviews were conducted with 10 Autistic women with a median age of 47.5 years. Participants were recruited through purposive sampling on social media, and reflexive thematic analysis was used for data examination, with careful consideration of researcher reflexivity. Seven key emotionally centred themes were identified from the participants’ diagnostic journeys: (1) Frustration at the Barriers Surrounding a Diagnosis, (2) Fear and Self-Doubt on the Path to Self-Acceptance, (3) The Grief of Revisiting the Past, (4) Shock of the New Self, (5) Anger at Being Dismissed, (6) The Relief of Authenticity, and (7) Pride and Belonging in Community. The findings revealed the significant impact of ‘Autistic burnout’ and the challenges of accessing practitioners knowledgeable about Autism in women. Participants expressed a range of emotions stemming from having the validity of their struggles questioned an…"
     },
     {
       "id": "10.1089/aut.2024.0148",
@@ -6100,26 +6088,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1007/s10803-025-07102-5",
-      "title": "Correction: Promoting Reciprocal Relationships with Flexibility, Coaching, and Teaching (PRRFCT Match): A Virtual Parent-Mediated Intervention Package for Young Children with Developmental Disabilities",
-      "authors": [
-        "Megan Kunze",
-        "Qi Wei",
-        "Alexis Bacon-Yates",
-        "Emily Pompan",
-        "Hannah Lockwood",
-        "Nicole Witthuhn"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1007/s10803-025-07102-5",
-      "url": "https://doi.org/10.1007/s10803-025-07102-5",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/13623613251390277",
       "title": "Doing research in services for autistic people with complex support needs: Challenges and considerations based on UK experiences",
       "authors": [
@@ -6164,60 +6132,6 @@
         "participatory"
       ],
       "abstract": "Unlike traditional autism awareness programs that often rely on didactic teaching and factual information, Human Library is a contact-based intervention that can engage “readers” in critical dialogs with “human books” to learn about their lived experience. This study reported on the pilot development of a Human Library in collaboration with a team of human books who are autistic to promote public understanding of autism in Hong Kong. Using a participatory realist evaluation framework, we conducted surveys and interviews with readers to construct a Human Library program model and evaluate its associated outcomes. Pre- and post-Human Library surveys showed a significant decrease in autism stigma and increase in neurodiversity attitudes. Interview findings revealed that readers’ interests and concerns about the autistic community motivated them to participate in Human Library. Through personal interaction with autistic human books in a safe space created within Human Library, readers developed renewed understanding of autism and insights into autistic strengths. Readers became more informed of autistic people’s perspectives and various sociocultural barriers that impact their well-bei…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251379920",
-      "title": "Behavioural phenotypes of autism in autistic and nonautistic gender clinic-referred youth and their caregivers",
-      "authors": [
-        "Aimilia Kallitsounaki",
-        "Matthew C Fysh",
-        "David M Williams",
-        "Lauren Spinner",
-        "Eilis Kennedy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251379920",
-      "url": "https://doi.org/10.1177/13623613251379920",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "In recent years, referrals of youth to specialised gender services have risen sharply, with ~11% of these youth diagnosed as autistic compared with a general population rate of ~1%. In two preregistered studies, we addressed this insufficiently understood intersection. In Study 1, we examined the number and developmental trajectory of autism traits in autistic and nonautistic gender clinic-referred and cisgender youth (aged 7–16 years) using both screening measures (Autism-Spectrum Quotient Children’s Version and Autism-Spectrum Quotient Adolescent Version, Social Communication Questionnaire–Lifetime) and diagnostic tools (Autism Diagnostic Interview–Revised, Brief Observation of Symptoms of Autism). In Study 2, we examined autism traits among the caregivers of participants from each group using the Autism-Spectrum Quotient Adolescent Version. Study 1 results showed the autism phenotype in autistic gender clinic-referred youth closely resembled that of their cisgender autistic peers. In addition, after addressing methodological limitations in previous research, we found no evidence of elevated autism traits in nonautistic gender clinic-referred youth, challenging findings of some e…"
-    },
-    {
-      "id": "10.1177/13623613251379945",
-      "title": "Exploring the suitability of the Clark and Wells (1995) model of social anxiety in autistic adults: The role of mental imagery and fear of negative evaluation",
-      "authors": [
-        "Jiedi Lei",
-        "Juliette Attwood",
-        "Ailsa Russell"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251379945",
-      "url": "https://doi.org/10.1177/13623613251379945",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Around 50% of autistic adults meet diagnostic criteria for social anxiety disorder based on self-report questionnaires. Among non-autistic adults with social anxiety, distorted negative self-imagery in social situations stemming from fear of negative evaluation from observers can be corrected in cognitive therapy via video feedback. However, the role of social imagery in the maintenance of social anxiety has not been explored in autistic adults. This study examined in 62 autistic adults: (1) quality of social imagery elicited during social situations; (2) how image qualities were related to self-reported levels of social anxiety and fear of negative evaluation when accounting for co-occurring generalised anxiety. Many autistic adults reported social imagery from a field (i.e., looking through one’s own eyes) rather than observer perspective. Using response surface analysis (RSA), autistic adults wanted to escape from/avoid social imagery and found them more upsetting when social anxiety was greater than fear of negative evaluation from others. Social imagery may be linked to autistic adults’ somatic and sensory responses related to social anxiety rather than cognitive worries assoc…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6602,27 +6516,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07192-1",
-      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
-      "authors": [
-        "Ekin Sut",
-        "Zeynep Ayaslan",
-        "Samet Cetin",
-        "Tugce Turan Kaya",
-        "Nazan Gundogan Kucuksahin",
-        "Eren Halac",
-        "Ogulcan Ciray"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-29",
-      "doi": "10.1007/s10803-025-07192-1",
-      "url": "https://doi.org/10.1007/s10803-025-07192-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1007/s10803-025-07185-0",
       "title": "Sensory Processing Modalities and Their Associations With Academic Achievement in Autism and Attention Deficit/Hyperactivity Disorder",
       "authors": [
@@ -6647,6 +6540,27 @@
       ],
       "tags": [
         "sensory"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-025-07192-1",
+      "title": "Validity and Reliability of the Turkish Version of the Subthreshold Autism Trait Questionnaire (SATQ-TR)",
+      "authors": [
+        "Ekin Sut",
+        "Zeynep Ayaslan",
+        "Samet Cetin",
+        "Tugce Turan Kaya",
+        "Nazan Gundogan Kucuksahin",
+        "Eren Halac",
+        "Ogulcan Ciray"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-29",
+      "doi": "10.1007/s10803-025-07192-1",
+      "url": "https://doi.org/10.1007/s10803-025-07192-1",
+      "neurotype": [
+        "Autism"
       ]
     },
     {
@@ -7945,27 +7859,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -7988,6 +7881,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10395,65 +10309,6 @@
       ],
       "tags": [
         "access"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07104-3",
-      "title": "Adverse Childhood Experiences and Health Outcomes in Autistic Youth: A Comparison of Cumulative Risk and Latent Class Approaches",
-      "authors": [
-        "Sharada G. Krishnan",
-        "Gael I. Orsmond"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-30",
-      "doi": "10.1007/s10803-025-07104-3",
-      "url": "https://doi.org/10.1007/s10803-025-07104-3",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07082-6",
-      "title": "Autistic Individuals’ Categorical Induction Abilities Improve by Mid-Adolescence",
-      "authors": [
-        "Grace Corrigan",
-        "Letitia R. Naigles"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-30",
-      "doi": "10.1007/s10803-025-07082-6",
-      "url": "https://doi.org/10.1007/s10803-025-07082-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose Categorical induction, the ability to transfer a known category’s properties to a new category member, develops early and robustly in typically developing (TD) children but has proven challenging for autistic children and adolescents. We investigated whether autistic and TD adolescents might perform similarly on a categorical induction task when expressive language was controlled for, and whether autistic and TD children’s categorical induction abilities improved longitudinally. Methods Twenty-two TD and 20 autistic participants completed a ‘Diversity’ categorical induction task as adolescents. For the longitudinal analysis, we examined a subset (19 TD and 14 autistic participants) who had also completed an ‘Early’ categorical induction task as five-to-seven-year-olds. Results When expressive language was controlled for, groups did not statistically differ on categorical induction performance in adolescence. Expressive language also predicted performance above and beyond nonverbal IQ in both groups. In the longitudinal analysis, we observed that both groups’ categorical induction performance significantly improved over time, and the magnitude of improvement did not…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07081-7",
-      "title": "Using Speech-Generating Devices to Improve Manding With One Icon in Children With Autism: A Systematic Review",
-      "authors": [
-        "Xiaofan Zhang",
-        "Rachel E. Robertson",
-        "Tessa McCarthy",
-        "Christina M. Scenna"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-10-30",
-      "doi": "10.1007/s10803-025-07081-7",
-      "url": "https://doi.org/10.1007/s10803-025-07081-7",
-      "neurotype": [
-        "Autism"
       ],
       "framing": "Person-first language used"
     }
