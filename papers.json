@@ -1,8 +1,66 @@
 {
-  "generated_at": "2026-03-05T07:12:52Z",
+  "generated_at": "2026-03-06T07:08:49Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-026-07284-6",
+      "title": "Associations Between Feeding Difficulties, Parental Quality of Life, and Coparenting in Turkish Families of Children With and Without Autism",
+      "authors": [
+        "Naze Deniz Doğan",
+        "Figen Turan"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-05",
+      "doi": "10.1007/s10803-026-07284-6",
+      "url": "https://doi.org/10.1007/s10803-026-07284-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ]
+    },
+    {
+      "id": "10.1007/s40489-026-00538-0",
+      "title": "‘Intense Interests’ as A Strength-Based Term to Replace ‘Restricted Objects and Interests’",
+      "authors": [
+        "Daniel Mayol Jiménez",
+        "Jonathan Delafield-Butt",
+        "Jane Essex"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-05",
+      "doi": "10.1007/s40489-026-00538-0",
+      "url": "https://doi.org/10.1007/s40489-026-00538-0",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10882-026-10055-x",
+      "title": "Lived Experience, Family, and Clinician Perspectives on Barriers to Adult Autism Diagnosis and Post-Diagnostic Supports: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Valeria Khudiakova",
+        "Jacqueline Sin",
+        "Mimi Suzuki",
+        "Kirsten Barnicot"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-03-05",
+      "doi": "10.1007/s10882-026-10055-x",
+      "url": "https://doi.org/10.1007/s10882-026-10055-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ]
+    },
     {
       "id": "10.1007/s10803-026-07279-3",
       "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
@@ -1096,6 +1154,30 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1080/20473869.2026.2632848",
+      "title": "A systematic review of target skills in social skills training for attention deficit hyperactivity disorder and autism spectrum disorder",
+      "authors": [
+        "Jennifer da Silva Barbosa",
+        "Renata Maria Santos",
+        "Victhor Hugo Martins Rezende",
+        "Raquel Liboredo",
+        "Debora Camila Silva Melo",
+        "Rebeca Rodarte Pedrosa",
+        "Marco Aurélio Romano-Silva",
+        "Débora Marques de Miranda"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-27",
+      "doi": "10.1080/20473869.2026.2632848",
+      "url": "https://doi.org/10.1080/20473869.2026.2632848",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-026-07276-6",
       "title": "Effectiveness and Usability of Artificial Intelligence and/or Machine Learning Enabled Wrist and Ankle Wearables for Physiological and Behavioral Monitoring in Children and Adolescents With Autism Spectrum Disorder: A Systematic Review",
       "authors": [
@@ -1114,6 +1196,21 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2634782",
+      "title": "Educational quality of autism treatment videos on YouTube",
+      "authors": [
+        "Aysegul Tonyali"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-26",
+      "doi": "10.1080/20473869.2026.2634782",
+      "url": "https://doi.org/10.1080/20473869.2026.2634782",
+      "neurotype": [
+        "Autism"
+      ]
     },
     {
       "id": "10.1108/aia-02-2026-118",
@@ -1468,6 +1565,29 @@
       "domains": [
         "Quality of life"
       ]
+    },
+    {
+      "id": "10.1080/20473869.2026.2632856",
+      "title": "Clinical utility of the BASC-3 PRS F-index for preschoolers diagnosed with autism spectrum disorder",
+      "authors": [
+        "H. D. Hintz",
+        "M. B. Bundy",
+        "M. Freeman",
+        "J. T. Metcalf",
+        "D. B. Wygant"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-02-24",
+      "doi": "10.1080/20473869.2026.2632856",
+      "url": "https://doi.org/10.1080/20473869.2026.2632856",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07254-y",
@@ -3155,33 +3275,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -3209,6 +3302,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4205,6 +4325,18 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251410707",
+      "title": "Acknowledgment of Reviewers 2025",
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1177/25739581251410707",
+      "url": "https://doi.org/10.1177/25739581251410707",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1089/aut.2023.0192",
       "title": "Neurodivergence and the Rabbit Hole of Extremism: Uncovering Lived Experience",
       "authors": [
@@ -4238,18 +4370,6 @@
       ],
       "abstract": "Background: There have been sporadic and disturbing media accounts of autistic people engaging with extreme ideologies, with comparatively little systematic exploration of this suggested association. Existing research has failed to consider the contextual factors that could influence these rare occurrences of engagement with extreme ideologies. This study explores how autistic individuals involved in extreme ideologies describe personal and contextual factors affecting their participation. Methods: Twelve individuals from Canada and the United States who were either diagnosed or self-identified as autistic and have engaged with extreme ideologies participated in semistructured interviews. The research approach and analysis of the data were informed by interpretative phenomenological analysis. Our interdisciplinary team met regularly to collectively examine initial assumptions and interpretations, while maintaining a central focus on the perspectives of the participants. Results: We identified the following three key themes: (1) early wounds, (2) missed formative opportunities, and (3) finding a fit for neurodivergence. Traumatic experiences, disenfranchisement, learned hatred from…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251410707",
-      "title": "Acknowledgment of Reviewers 2025",
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/25739581251410707",
-      "url": "https://doi.org/10.1177/25739581251410707",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1089/aut.2023.0117",
@@ -8860,42 +8980,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70138",
-      "title": "The Distinctive Clinical Profiles of Children With Autism Suffering From Different Subtypes of Rome\n                    <scp>IV</scp>\n                    Functional Gastrointestinal Disorders",
-      "authors": [
-        "Isaac Ho Wai Wong",
-        "Sze‐Mai Ng",
-        "Angela Man Wai Lam",
-        "Sandra Sau Man Chan",
-        "Shing‐Him Ng",
-        "Jet Leung",
-        "Keith Chun Lok Lee",
-        "Arthur Chun Chi Wong",
-        "Yuqi Wu",
-        "Francis Ka Leung Chan",
-        "Siew Chien Ng",
-        "Oscar Wing Ho Wong"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1002/aur.70138",
-      "url": "https://doi.org/10.1002/aur.70138",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Functional gastrointestinal disorders (FGIDs) are prevalent in children with autism and can interact with the neuropsychiatric symptoms bidirectionally. Moreover, FGIDs may affect feeding to jeopardize nutritional intake. Existing research often overlooks the heterogeneity of FGIDs. Understanding the clinical correlates of individual FGID subtypes may clarify the underlying gut‐brain interactions to guide management. This study compared the core autistic symptoms, co‐occurring psychopathologies, feeding behavior and dietary intake among 737 Chinese children with autism (mean age = 7.76 years; 642 males and 95 females) who either experienced no FGID or experienced one of the three subtypes of ROME‐IV FGID. FGIDs were present in 19.8% of participants and MANCOVA revealed distinct clinical profiles across FGID subtypes. Functional abdominal pain disorders (FAPD) were associated with more severe neuropsychiatric symptoms, including restricted and repetitive behavior, anxiety, sensory hyperresponsiveness, externalizing behavior, and feeding patterns of emotional under‐eating, slowness in eating, and increased satiety response. Functional defecation disorders (FDD) were characte…",
-      "framing": "Person-first language used"
-    },
-    {
       "id": "10.1177/13623613251394558",
       "title": "Autistic young adults’ routine travel pre- and post-license",
       "authors": [
@@ -10292,52 +10376,6 @@
         "Autism"
       ],
       "abstract": "This framework presents a reflexive tool to navigate epistemic partnerships, interrogating the pervasive influence of Whiteness in knowledge production within Critical Autism Studies, and Autism Studies more broadly. Grounded in countercolonial praxis, the framewok operationalizes positionality and privilege, guiding researchers through 11 interconnected questions that foster humility, amplify marginalized voices, and disrupt epistemic hierarchies. By addressing the researcher’s relationship to power, both as a potential target and as a bearer of privilege, this tool resists the colonial impulse to claim objectivity, instead embracing shared authority and relational accountability. Each question serves as a provocation, prompting continuous reflection on the ethical complexities of knowledge creation while resisting appropriation and extractivist tendencies. More than a methodological intervention, this framework embodies a living praxis—one that demands researchers to embrace discomfort and center those whose narratives have long been silenced in their research endeavors. In offering this tool, the article contributes to the broader project of epistemic justice, carving space for…"
-    },
-    {
-      "id": "10.1007/s10803-025-07098-y",
-      "title": "Practices of Self-Advocacy and Their Implications From the Perspectives of Transition-Age, Young Adults With Intellectual and/or Developmental Disabilities",
-      "authors": [
-        "K. M. Schmarder",
-        "D. B. Axelrod",
-        "R. Agarwal",
-        "J. A. Sangoi",
-        "E. M. Jaisle",
-        "K. Mulet",
-        "L. R. Sabates",
-        "A. R. Laird",
-        "E. D. Musser"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-05",
-      "doi": "10.1007/s10803-025-07098-y",
-      "url": "https://doi.org/10.1007/s10803-025-07098-y",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s40489-025-00530-0",
-      "title": "Effectiveness of Emotion Regulation Supports and Strategies for Autistic Children: A Systematic Review",
-      "authors": [
-        "Dianne Blackwell",
-        "Anoo Bhopti",
-        "Azul Hussain",
-        "Asmita Mudholkar",
-        "Kelsey Philpott-Robinson",
-        "Clare Kermond",
-        "Shelly J. Lane",
-        "Alison E. Lane"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-05",
-      "doi": "10.1007/s40489-025-00530-0",
-      "url": "https://doi.org/10.1007/s40489-025-00530-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
