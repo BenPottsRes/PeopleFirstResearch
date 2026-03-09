@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T07:01:49Z",
+  "generated_at": "2026-03-09T07:18:55Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -155,6 +155,58 @@
         "access",
         "lived experience"
       ]
+    },
+    {
+      "id": "10.1002/aur.70213",
+      "title": "Autistic Youth Being Ignored by Peers: An Early‐Stage Study",
+      "authors": [
+        "Nicoletta V. Frankenstein",
+        "Julie Lounds Taylor",
+        "Shuting Zheng",
+        "Somer L. Bishop",
+        "Natalie Libster",
+        "Tanya E. Froehlich",
+        "Ryan E. Adams"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-05",
+      "doi": "10.1002/aur.70213",
+      "url": "https://doi.org/10.1002/aur.70213",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Autistic youth have been shown to be at risk for negative peer experiences, but experiences of being ignored are rarely examined in this group. This study is an early‐stage examination of the experience of being ignored in autistic youth. Objectives are to test psychometric properties of a measure of being ignored; describe rates of being ignored; identify who is most at risk for being ignored; and test the association of being ignored with other social experiences and psychological health. One hundred and forty‐nine autistic high school students with full scale IQs of 70 or above ( M = 99.86, SD = 16.5) and aged 15–23 years completed self‐reported, online surveys regarding day‐to‐day experiences, well‐being, and psychological health. Parents completed additional measures assessing ASD symptomology and other demographic and clinical characteristics. A confirmatory factor analysis and Cronbach's alpha indicated good psychometric properties for the Ignore factor. While the average score on the Ignore scale was relatively low, ~40% reported often having at least one type of experience of being ignored. Being ignored was associated with having more SRS‐2 Restricted Interests/R…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70214",
+      "title": "Receptive–Expressive Language Phenotypes in Infants and Toddlers With Autism Features",
+      "authors": [
+        "Torrey Cohenour",
+        "Amanda Gulsrud",
+        "Connie Kasari"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-05",
+      "doi": "10.1002/aur.70214",
+      "url": "https://doi.org/10.1002/aur.70214",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Children diagnosed with autism often present with an atypical discrepancy between their receptive and expressive language levels, or an atypical receptive–expressive language phenotype. Children with an atypical receptive–expressive phenotype present with a relative receptive language advantage (expressive level &lt; receptive level) or a relative expressive language advantage (expressive level &gt; receptive level), whereas those with a typical phenotype have balanced receptive and expressive language levels. It remains unclear whether atypical receptive–expressive language phenotypes are evident before 24 months in children with autism features or whether they are associated with concurrent child developmental functioning or later language growth. Participants ( N = 80) were drawn from a randomized comparative efficacy intervention study for 12–23‐month‐olds with autism features and elevated scores on an autism diagnostic instrument. Baseline receptive and expressive language age equivalent (AE) scores were used to describe continuous variation in receptive–expressive language phenotypes by quantifying the gap between each child's receptive and expressive language levels…",
+      "framing": "Person-first language used"
     },
     {
       "id": "10.1007/s10803-026-07279-3",
@@ -1704,6 +1756,41 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70209",
+      "title": "Beyond Gaze: Affective Synchrony and Sensory‐Linked Interactional Profiles as Early Markers of Autism Risk",
+      "authors": [
+        "Lan Lin",
+        "Qian Li",
+        "Zenghe Yue",
+        "Yaxin Dai",
+        "Haozhen Chen",
+        "Yuheng Chen",
+        "Jinyi Zhu",
+        "Yazhu Han",
+        "Shengjian Yin",
+        "Luyang Guan",
+        "Xiaoyan Ke"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-23",
+      "doi": "10.1002/aur.70209",
+      "url": "https://doi.org/10.1002/aur.70209",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Identifying early markers for autism spectrum disorder (ASD) is a clinical priority. This study investigated interpersonal affect synchrony (IAS) as a measure of interactional quality in a longitudinal cohort of 90 high‐risk infants. We aimed to disentangle its contribution from mutual gaze and identify data‐driven social interaction profiles linked to sensory traits. Parent‐infant interactions were recorded at 6–18 months; IAS was quantified using Cross‐Recurrence Quantification Analysis, and ASD outcomes were determined at 18–24 months. Infants later diagnosed with ASD ( n = 25) showed significantly lower IAS ( F (1,84) = 5.89, p FDR = 0.023) and synchrony stability ( F (1,84) = 5.37, p FDR = 0.023) than non‐diagnosed infants ( n = 65), yet the groups did not differ in mutual gaze ( p = 0.200). Logistic regression analysis further showed that IAS (OR = 0.561, p FDR = 0.038) and synchrony stability (OR = 0.013, p FDR = 0.038) both significantly predict clinical outcome. K‐means clustering revealed three profiles: “High Gaze‐High Synchrony,” “Mid Gaze‐Low Synchrony,” and “Low Gaze‐High Synchrony.” The “Mid Gaze‐Low Synchrony” profile was significantly associated with a lat…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261418468",
@@ -3370,36 +3457,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251359894",
-      "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
-      "authors": [
-        "Abigail M.A. Love",
-        "Ru Ying Cai",
-        "Bronwyn Rideout",
-        "Linda Hollenberg",
-        "Hayley Clapham",
-        "Gilly McKeown",
-        "Chris Edwards",
-        "Ainslie Robinson",
-        "Charlie Benzie",
-        "Vicki Gibbs"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251359894",
-      "url": "https://doi.org/10.1177/25739581251359894",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251369452",
       "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
       "authors": [
@@ -3427,33 +3484,33 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "id": "10.1177/25739581251359894",
+      "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
+        "Abigail M.A. Love",
+        "Ru Ying Cai",
+        "Bronwyn Rideout",
+        "Linda Hollenberg",
+        "Hayley Clapham",
+        "Gilly McKeown",
+        "Chris Edwards",
+        "Ainslie Robinson",
+        "Charlie Benzie",
+        "Vicki Gibbs"
       ],
       "journal": "Autism in Adulthood",
       "year": 2026,
       "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
+      "doi": "10.1177/25739581251359894",
+      "url": "https://doi.org/10.1177/25739581251359894",
       "neurotype": [
         "Autism"
-      ],
-      "domains": [
-        "Service design"
       ],
       "tags": [
         "access",
         "lived experience"
       ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
+      "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -3490,6 +3547,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4624,6 +4711,247 @@
       "abstract": "Objective: The Asian American and Native Hawaiian/Pacific Islander (AA &amp; NH/PI) population represents one of the fastest-growing racial /ethnic groups in the United States, yet members of this community are among the least likely to receive services for ADHD. Studies seeking to explain discrepancies between the need for and use of ADHD services in AA &amp; NH/PI populations have highlighted decreased problem recognition as precluding access to services. We sought to investigate the roles of three previously proposed factors (i.e., perceived impairment, ADHD knowledge, and ADHD stigma) in explaining differences in ADHD problem recognition in AA &amp; NH/PI versus White, Black, Hispanic/Latinx, and Multiracial/Multiethnic college students. Method: Participants were 1,451 college students aged 18 to 29 years ( M = 19.3, SD = 1.64) who met self-reported symptom and impairment criteria for ADHD. They completed questionnaires assessing ADHD problem recognition, perceived impairment, ADHD knowledge, and ADHD stigma. Results: Compared to the White Group, the AA &amp; NH/PI Group had significantly lower probability of endorsing the belief that they should be diagnosed with ADHD. The AA…"
     },
     {
+      "id": "10.1002/aur.70162",
+      "title": "The Conceptualization, Experience, and Recognition of Emotion in Autism: Differences in the Psychological Mechanisms Involved in Autistic and Non‐Autistic Emotion Recognition",
+      "authors": [
+        "Connor Tom Keating",
+        "Carmen Kraaijkamp",
+        "Jennifer Louise Cook"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70162",
+      "url": "https://doi.org/10.1002/aur.70162",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Existing literature suggests that differences between autistic and non‐autistic people in emotion recognition might be related to differences in how these groups experience emotions themselves. Specifically, autistic individuals may show differences in the consistency of emotional experiences, the ability to distinguish between emotions, and/or their semantic understanding of emotions. In this study, we empirically tested this claim by (1) investigating whether autistic and non‐autistic adults differed in the consistency and/or differentiation of their emotional experiences, and their understanding and differentiation of emotion concepts after controlling for alexithymia, and (2) assessing the contribution of these emotional abilities to emotion recognition. To this end, a total of 58 autistic and 59 non‐autistic individuals, matched on age, sex, and non‐verbal reasoning ability, completed a series of validated questionnaires and computer‐based emotion tasks. We found no group differences in emotional consistency, emotion differentiation, and understanding or differentiation of emotion concepts after controlling for alexithymia. For non‐autistic people, the ability to diff…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70164",
+      "title": "The Impact of Inclusive Education Practices on Students With\n                    <scp>ASD</scp>\n                    'S Outcomes: Report From the\n                    <scp>ELENA</scp>\n                    French Cohort Study",
+      "authors": [
+        "Cécile Rattaz",
+        "Marianne Peries",
+        "Andrew Pickles",
+        "Amaria Baghdadli"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70164",
+      "url": "https://doi.org/10.1002/aur.70164",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Inclusive education is largely promoted in the field of autism spectrum disorders (ASD), but scientific and empiric studies about the impact of school inclusion on the children's outcome are lacking. We studied the effect of the type of inclusion (regular classroom vs. special education classroom) in a sample of 356 children with ASD over a three‐years period. Results first showed that, when comparing both groups at baseline, children in special education classes were older, had a higher level of challenging behaviors and came from lower socioeconomic status families. Once matched through propensity score, children in special classrooms had significantly lower communication and daily living skills than children in ordinary classrooms after 3 years, whereas there was no significant difference in socialization skills and in IQ. Overall, placement in a regular education classroom was positive for most children, however there is a high inter‐individual variability and it is very unlikely that inclusive settings are by default superior for all children with special needs. These results, emphasizing the crucial role of the mainstream milieu, cannot be considered definitive and f…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70161",
+      "title": "Measurement Invariance of the\n                    <scp>PROMIS</scp>\n                    Family Relationships Scale Among Autistic and General Population Adolescents",
+      "authors": [
+        "Rachel M. Benecke",
+        "Zachary J. Williams",
+        "Laura Graham Holmes",
+        "Judith S. Miller",
+        "Elizabeth A. Kaplan‐Kahn"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70161",
+      "url": "https://doi.org/10.1002/aur.70161",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Social relationships are a key component of quality of life, a high‐priority outcome for autistic people, and family relationships are critical in adolescence. The PROMIS Family Relationships scale has been well validated for use with the general population, but psychometric validation in the autistic population is lacking. This study investigated measurement invariance of the PROMIS Family Relationships among autistic and general population adolescents. The scale demonstrated scalar invariance between the groups, providing evidence that it measures the same construct equivalently and scores can be meaningfully compared between groups. With a well‐validated self‐report measure, researchers can ask autistic teens directly about their experiences of their family relationships, rather than relying solely on parent proxy report.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70168",
+      "title": "Mother–Child Biobehavioral Synchrony and Its Association With Social Functioning in Autistic School‐Aged Children",
+      "authors": [
+        "Carly Moser",
+        "Chih‐Hsiang Yang",
+        "Abigail L. Hogan",
+        "Amanda Fairchild",
+        "Jane Roberts",
+        "Jessica Klusek"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70168",
+      "url": "https://doi.org/10.1002/aur.70168",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Parent–child biobehavioral synchrony, or the concordance of behavior and physiological indicators between individuals, is theorized to support children's social development; however, this relationship has yet to be investigated in autistic children. This study examined whether moment‐to‐moment physiological synchrony—indexed via respiratory sinus arrhythmia (RSA)—and its interface with global levels of behavioral synchrony was associated with the pragmatic language skills and friendship quality of school‐aged autistic children in 40 mother–child dyads. Mother–child dyads participated in a collaborative task, from which RSA synchrony and behavioral synchrony were assessed. Mothers and their autistic children demonstrated negative RSA synchrony, such that when one partner displayed an increase in RSA, the other partner showed a decrease in RSA. The extent of behavioral synchrony between mothers and their children did not moderate the strength of concordance between mother and child RSA. Negative RSA synchrony was associated with better pragmatic language skills in autistic children from mother–child dyads who displayed high levels of behavioral synchrony. These findings high…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70159",
+      "title": "Effects of Cannabidiol on Social Relating, Anxiety, and Parental Stress in Autistic Children: A Randomized Controlled Crossover Trial",
+      "authors": [
+        "Nina‐Francesca Parrella",
+        "Aron T. Hill",
+        "Peter G. Enticott",
+        "Tanita Botha",
+        "Sarah Catchlove",
+        "Luke Downey",
+        "Talitha C. Ford"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70159",
+      "url": "https://doi.org/10.1002/aur.70159",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT Cannabidiol (CBD), a non‐intoxicating compound derived from the cannabis plant, has garnered increasing attention as a potential pharmacological therapeutic for autism. We conducted a randomized, double‐blind, placebo‐controlled, crossover trial to understand whether oral CBD oil containing terpenes can improve outcomes in autistic children. Twenty‐nine children (18 male), aged 5 to 12 years ( M = 9.62 years, SD = 2.05), diagnosed with autism spectrum disorder, completed the study. Participants received weight‐based dosing of CBD oil (10 mg/kg/day) or matched placebo oil over two 12‐week intervention periods (crossover), separated by an 8‐week washout period. Outcome measures included the Social Responsiveness Scale‐2 (SRS‐2; primary outcome), PROMIS Social Relating, Anxiety, and Sleep, Developmental Behavior Checklist‐2 (DBC‐2), Vineland‐3, and Autism Parenting Stress Index (APSI; secondary outcomes). There was no significant effect observed for the primary outcome measure (SRS‐2) for CBD oil relative to placebo oil after 12 weeks ( β = −11.15, SE = 7.19, p = 0.125). Significant improvements were observed in secondary measures of social functioning, including DBC‐2 Social…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70170",
+      "title": "Children With\n                    <scp>ASD</scp>\n                    Do Not Understand Hidden Emotions Before False Belief Attribution",
+      "authors": [
+        "Morgane Burnel",
+        "Stéphanie Durrleman",
+        "Anne Reboul",
+        "Jean Pylouster",
+        "Monica Baciu",
+        "Marcela Perrone‐Bertolotti"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70170",
+      "url": "https://doi.org/10.1002/aur.70170",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "ABSTRACT Previous studies concluded that theory of mind (ToM) development is deviant in autism spectrum disorders (ASD). Typically developing children's ability to understand that one may hide their emotion would be acquired before false belief understanding in children with ASD (e.g., Peterson and Wellman 2019), but with contradictory results (e.g., Zhang et al. 2016). In the current work, we aim to determine whether the order of acquisition of ToM‐related concepts in ASD differs, using methodological improvements compared to previous studies. Our results support the conclusion of a non‐deviant developmental trajectory for ToM in individuals with ASD, with a general ability to understand hidden emotions that is not mastered before false belief attribution.",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70158",
+      "title": "The Impact of Theory of Mind on Real‐Time Social Interactions and Momentary Social Anxiety: A Comparison Between Young Autistic and Neurotypical Children",
+      "authors": [
+        "Yu‐Wei Ryan Chen",
+        "Sarah Wilkes‐Gillan",
+        "Kuan‐Lin Chen"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70158",
+      "url": "https://doi.org/10.1002/aur.70158",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT There is a growing need to examine how Theory of Mind (ToM) abilities impact real‐time social engagement in autistic children. Caregivers of 45 young autistic children (70.7 ± 23.3 months) and those of 36 neurotypical peers (59.2 ± 11.8 months) carried a mobile device for 7 days to repeatedly record their child's social interactions and in‐the‐moment anxiety. They also completed the Social Responsiveness Scale‐2 and the Theory of Mind Inventory‐2 to evaluate their child's severity of autistic symptoms and ToM abilities. Multilevel analyses found that young autistic children with higher ToM abilities were more likely than those with lower abilities to interact with peers (OR = 1.12, 95% CI = 1.01–1.23) but also experienced more anxiety during interactions with both peers and adults (OR = 1.36, 1.28, 95% CI = 1.12–1.67, 1.01–1.63). In contrast, no significant associations between ToM and social interactions or anxiety were found in the neurotypical group. This study highlights the critical role of ToM abilities in the real‐life social engagement of autistic children and emphasizes the importance of understanding real‐time subjective social experiences.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70155",
+      "title": "An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (\n                    <scp>ADOS</scp>\n                    ) Module 3: An Item Response Theory Analysis",
+      "authors": [
+        "Yuen Yvonne Yu",
+        "Austin Wyman",
+        "Calliana J. Faulk",
+        "Lizzy J. Fulop",
+        "Rebecca L. Greenberg",
+        "Rachel M. Benecke",
+        "Lauren K. Steinbeck",
+        "Jessica Foy",
+        "Caitlyn Kim",
+        "George O. Emory",
+        "Eric A. Storch",
+        "Casey J. Zampella",
+        "Benjamin E. Yerys",
+        "Robert T. Schultz",
+        "Julia Parish‐Morris",
+        "John D. Herrington",
+        "Caitlin C. Clements"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70155",
+      "url": "https://doi.org/10.1002/aur.70155",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Given the rising prevalence of autism among racial minority children in the United States, but persistent service use disparities, this study examines potential bias in specific items from the autism diagnostic observation schedule (ADOS), a highly regarded autism evaluation. We leveraged unidimensional item response theory graded response models and a sample of 735 children to analyze the differential item functioning (DIF) of items within ADOS Module 3. Three items showed significant signs of racial bias: A1 (overall language level), A5 (offers information), and D5 (compulsions and rituals). On these items, Black/African American and Asian children were usually more likely to be rated as showing autistic behaviors than White children with similar autism levels. The impact of racial bias on the item score was small, and the impact on the overall test score was even smaller: on a scale of 0–48 points, the effect of racial bias was estimated at 0.23 total points for Black/African American children and 0.16 points for Asian children. Furthermore, none of the items showing significant bias contribute to the autism classification algorithm. This analysis suggests a small but d…"
+    },
+    {
+      "id": "10.1002/aur.70145",
+      "title": "Exploring Alexithymia, Uncertainty, Anxious Arousal, and Social Anxiety as Mediators of the Relationship Between Sensory Processing Differences and Restricted and Repetitive Behaviors in Autistic Adults",
+      "authors": [
+        "Heather L. Moore",
+        "Samuel Brice",
+        "Natalya Spraggon",
+        "Barry Ingham",
+        "Mark Freeston",
+        "Jeremy R. Parr",
+        "Jacqui Rodgers"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-02-01",
+      "doi": "10.1002/aur.70145",
+      "url": "https://doi.org/10.1002/aur.70145",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Restricted and repetitive behaviors (RRB) are associated with sensory processing (SP) differences for autistic people, and are thought to be a coping strategy to help manage the sensory environment. Previous work shows that, for autistic people, alexithymia, intolerance of uncertainty (IU), and anxiety mediate the relationship between SP differences and RRB. However, these studies use anxiety measures developed for the general population, and more recent evidence suggests that autistic people may have a different anxiety experience. This study aims to extend previous findings by unpacking the anxiety experience for autistic adults in the relationship between SP differences and RRB, using an autism‐specific anxiety measure. Data were available from 426 autistic adults. Serial mediation models tested the relationship between SP differences and RRB, with alexithymia, IU, anxious arousal, and social anxiety as mediators. We identified significant direct effects from SP differences to both repetitive motor behaviors (RMB) and insistence on sameness behaviors (ISB). For RMB, we found indirect effects through anxious arousal, alexithymia‐anxious arousal, IU‐anxious arousal, and a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07233-3",
       "title": "Antipsychotic Drug Prescriptions for Transition-Age Youth on the Autism Spectrum",
       "authors": [
@@ -4923,25 +5251,6 @@
         "Mental health"
       ],
       "abstract": "Objective: This study investigates the effectiveness of Cognitive Behavioral Therapy (CBT) for adolescents with ADHD, while focusing on gender differences and comorbid internalizing symptoms. Method: A quantitative secondary data analysis was performed on 200 adolescents aged 12 to 18 years who participated in randomized control trials in either the Netherlands or Norway. Results: Overall, CBT significantly reduced ADHD symptoms from pretest to posttest on parent measures; however, treatment response varied based on gender, internalizing symptoms, and treatment formats. Girls with elevated depression showed significantly smaller reductions in ADHD symptoms compared to boys with similar depressive profiles ( p = .02), even after controlling for baseline ADHD severity. Effect size analyses revealed that girls benefited from both CBT delivery formats, but symptom improvement was nearly twice as large in individual CBT ( d = 0.90, large effect) compared to group CBT ( d = 0.49, moderate effect). Conclusion: These findings suggest that depression may impact treatment response among girls, and that individual CBT may offer enhanced benefits for adolescent girls with ADHD."
-    },
-    {
-      "id": "10.1002/aur.70162",
-      "title": "The Conceptualization, Experience, and Recognition of Emotion in Autism: Differences in the Psychological Mechanisms Involved in Autistic and Non‐Autistic Emotion Recognition",
-      "authors": [
-        "Connor Tom Keating",
-        "Carmen Kraaijkamp",
-        "Jennifer Louise Cook"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-01-25",
-      "doi": "10.1002/aur.70162",
-      "url": "https://doi.org/10.1002/aur.70162",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Existing literature suggests that differences between autistic and non‐autistic people in emotion recognition might be related to differences in how these groups experience emotions themselves. Specifically, autistic individuals may show differences in the consistency of emotional experiences, the ability to distinguish between emotions, and/or their semantic understanding of emotions. In this study, we empirically tested this claim by (1) investigating whether autistic and non‐autistic adults differed in the consistency and/or differentiation of their emotional experiences, and their understanding and differentiation of emotion concepts after controlling for alexithymia, and (2) assessing the contribution of these emotional abilities to emotion recognition. To this end, a total of 58 autistic and 59 non‐autistic individuals, matched on age, sex, and non‐verbal reasoning ability, completed a series of validated questionnaires and computer‐based emotion tasks. We found no group differences in emotional consistency, emotion differentiation, and understanding or differentiation of emotion concepts after controlling for alexithymia. For non‐autistic people, the ability to diff…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-025-07184-1",
@@ -6242,57 +6551,6 @@
       "abstract": "Objective: Cognitive Disengagement Syndrome (CDS) is increasingly viewed as a distinct childhood condition. Although it overlaps with ADHD in some features, emerging evidence suggests a unique behavioral and cognitive profile. However, research examining social functioning and emotion recognition in children with pure CDS remains limited. Methods: This study compared social competence and facial emotion recognition abilities among children aged 8 to 12 years across three groups: those with elevated CDS symptoms (n = 43), those with ADHD (n = 40), and healthy controls (n = 43). Social functioning and peer relationships were evaluated using parent- and child-report social skills scales and peer interaction questionnaires. Emotion recognition was measured with the Reading the Mind in the Eyes Test (RMET). Results: Children with CDS showed significantly lower social skills and RMET scores than both ADHD and control groups (p &lt; .001). Teachers reported fewer school friendships for the CDS group compared to ADHD and controls (p &lt; .001), and CDS children also reported fewer out-of-school friendships than peers in the other groups (p = .035). Both child and teacher reports noted grea…"
     },
     {
-      "id": "10.1002/aur.70164",
-      "title": "The Impact of Inclusive Education Practices on Students With\n                    <scp>ASD</scp>\n                    'S Outcomes: Report From the\n                    <scp>ELENA</scp>\n                    French Cohort Study",
-      "authors": [
-        "Cécile Rattaz",
-        "Marianne Peries",
-        "Andrew Pickles",
-        "Amaria Baghdadli"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-01-08",
-      "doi": "10.1002/aur.70164",
-      "url": "https://doi.org/10.1002/aur.70164",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Inclusive education is largely promoted in the field of autism spectrum disorders (ASD), but scientific and empiric studies about the impact of school inclusion on the children's outcome are lacking. We studied the effect of the type of inclusion (regular classroom vs. special education classroom) in a sample of 356 children with ASD over a three‐years period. Results first showed that, when comparing both groups at baseline, children in special education classes were older, had a higher level of challenging behaviors and came from lower socioeconomic status families. Once matched through propensity score, children in special classrooms had significantly lower communication and daily living skills than children in ordinary classrooms after 3 years, whereas there was no significant difference in socialization skills and in IQ. Overall, placement in a regular education classroom was positive for most children, however there is a high inter‐individual variability and it is very unlikely that inclusive settings are by default superior for all children with special needs. These results, emphasizing the crucial role of the mainstream milieu, cannot be considered definitive and f…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70161",
-      "title": "Measurement Invariance of the\n                    <scp>PROMIS</scp>\n                    Family Relationships Scale Among Autistic and General Population Adolescents",
-      "authors": [
-        "Rachel M. Benecke",
-        "Zachary J. Williams",
-        "Laura Graham Holmes",
-        "Judith S. Miller",
-        "Elizabeth A. Kaplan‐Kahn"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-01-08",
-      "doi": "10.1002/aur.70161",
-      "url": "https://doi.org/10.1002/aur.70161",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "ABSTRACT Social relationships are a key component of quality of life, a high‐priority outcome for autistic people, and family relationships are critical in adolescence. The PROMIS Family Relationships scale has been well validated for use with the general population, but psychometric validation in the autistic population is lacking. This study investigated measurement invariance of the PROMIS Family Relationships among autistic and general population adolescents. The scale demonstrated scalar invariance between the groups, providing evidence that it measures the same construct equivalently and scores can be meaningfully compared between groups. With a well‐validated self‐report measure, researchers can ask autistic teens directly about their experiences of their family relationships, rather than relying solely on parent proxy report.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251406751",
       "title": "Validating the German Translation of the Revised Comprehensive Autistic Trait Inventory",
       "authors": [
@@ -6904,35 +7162,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1002/aur.70168",
-      "title": "Mother–Child Biobehavioral Synchrony and Its Association With Social Functioning in Autistic School‐Aged Children",
-      "authors": [
-        "Carly Moser",
-        "Chih‐Hsiang Yang",
-        "Abigail L. Hogan",
-        "Amanda Fairchild",
-        "Jane Roberts",
-        "Jessica Klusek"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-31",
-      "doi": "10.1002/aur.70168",
-      "url": "https://doi.org/10.1002/aur.70168",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Parent–child biobehavioral synchrony, or the concordance of behavior and physiological indicators between individuals, is theorized to support children's social development; however, this relationship has yet to be investigated in autistic children. This study examined whether moment‐to‐moment physiological synchrony—indexed via respiratory sinus arrhythmia (RSA)—and its interface with global levels of behavioral synchrony was associated with the pragmatic language skills and friendship quality of school‐aged autistic children in 40 mother–child dyads. Mother–child dyads participated in a collaborative task, from which RSA synchrony and behavioral synchrony were assessed. Mothers and their autistic children demonstrated negative RSA synchrony, such that when one partner displayed an increase in RSA, the other partner showed a decrease in RSA. The extent of behavioral synchrony between mothers and their children did not moderate the strength of concordance between mother and child RSA. Negative RSA synchrony was associated with better pragmatic language skills in autistic children from mother–child dyads who displayed high levels of behavioral synchrony. These findings high…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251406897",
       "title": "When Lived Experience Becomes Clinical Expertise: Perspectives of Autistic Mental Health Therapists",
       "authors": [
@@ -7175,79 +7404,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70159",
-      "title": "Effects of Cannabidiol on Social Relating, Anxiety, and Parental Stress in Autistic Children: A Randomized Controlled Crossover Trial",
-      "authors": [
-        "Nina‐Francesca Parrella",
-        "Aron T. Hill",
-        "Peter G. Enticott",
-        "Tanita Botha",
-        "Sarah Catchlove",
-        "Luke Downey",
-        "Talitha C. Ford"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-26",
-      "doi": "10.1002/aur.70159",
-      "url": "https://doi.org/10.1002/aur.70159",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT Cannabidiol (CBD), a non‐intoxicating compound derived from the cannabis plant, has garnered increasing attention as a potential pharmacological therapeutic for autism. We conducted a randomized, double‐blind, placebo‐controlled, crossover trial to understand whether oral CBD oil containing terpenes can improve outcomes in autistic children. Twenty‐nine children (18 male), aged 5 to 12 years ( M = 9.62 years, SD = 2.05), diagnosed with autism spectrum disorder, completed the study. Participants received weight‐based dosing of CBD oil (10 mg/kg/day) or matched placebo oil over two 12‐week intervention periods (crossover), separated by an 8‐week washout period. Outcome measures included the Social Responsiveness Scale‐2 (SRS‐2; primary outcome), PROMIS Social Relating, Anxiety, and Sleep, Developmental Behavior Checklist‐2 (DBC‐2), Vineland‐3, and Autism Parenting Stress Index (APSI; secondary outcomes). There was no significant effect observed for the primary outcome measure (SRS‐2) for CBD oil relative to placebo oil after 12 weeks ( β = −11.15, SE = 7.19, p = 0.125). Significant improvements were observed in secondary measures of social functioning, including DBC‐2 Social…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70170",
-      "title": "Children With\n                    <scp>ASD</scp>\n                    Do Not Understand Hidden Emotions Before False Belief Attribution",
-      "authors": [
-        "Morgane Burnel",
-        "Stéphanie Durrleman",
-        "Anne Reboul",
-        "Jean Pylouster",
-        "Monica Baciu",
-        "Marcela Perrone‐Bertolotti"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-26",
-      "doi": "10.1002/aur.70170",
-      "url": "https://doi.org/10.1002/aur.70170",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "ABSTRACT Previous studies concluded that theory of mind (ToM) development is deviant in autism spectrum disorders (ASD). Typically developing children's ability to understand that one may hide their emotion would be acquired before false belief understanding in children with ASD (e.g., Peterson and Wellman 2019), but with contradictory results (e.g., Zhang et al. 2016). In the current work, we aim to determine whether the order of acquisition of ToM‐related concepts in ASD differs, using methodological improvements compared to previous studies. Our results support the conclusion of a non‐deviant developmental trajectory for ToM in individuals with ASD, with a general ability to understand hidden emotions that is not mastered before false belief attribution.",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70158",
-      "title": "The Impact of Theory of Mind on Real‐Time Social Interactions and Momentary Social Anxiety: A Comparison Between Young Autistic and Neurotypical Children",
-      "authors": [
-        "Yu‐Wei Ryan Chen",
-        "Sarah Wilkes‐Gillan",
-        "Kuan‐Lin Chen"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-26",
-      "doi": "10.1002/aur.70158",
-      "url": "https://doi.org/10.1002/aur.70158",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT There is a growing need to examine how Theory of Mind (ToM) abilities impact real‐time social engagement in autistic children. Caregivers of 45 young autistic children (70.7 ± 23.3 months) and those of 36 neurotypical peers (59.2 ± 11.8 months) carried a mobile device for 7 days to repeatedly record their child's social interactions and in‐the‐moment anxiety. They also completed the Social Responsiveness Scale‐2 and the Theory of Mind Inventory‐2 to evaluate their child's severity of autistic symptoms and ToM abilities. Multilevel analyses found that young autistic children with higher ToM abilities were more likely than those with lower abilities to interact with peers (OR = 1.12, 95% CI = 1.01–1.23) but also experienced more anxiety during interactions with both peers and adults (OR = 1.36, 1.28, 95% CI = 1.12–1.67, 1.01–1.63). In contrast, no significant associations between ToM and social interactions or anxiety were found in the neurotypical group. This study highlights the critical role of ToM abilities in the real‐life social engagement of autistic children and emphasizes the importance of understanding real‐time subjective social experiences.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10883576251396824",
       "title": "Cost Analysis of a Social Skills Training Program for Autistic Youth",
       "authors": [
@@ -7387,44 +7543,6 @@
       "tags": [
         "communication"
       ]
-    },
-    {
-      "id": "10.1002/aur.70155",
-      "title": "An Examination of Racial Bias in Scoring the Autism Diagnostic Observation Schedule (\n                    <scp>ADOS</scp>\n                    ) Module 3: An Item Response Theory Analysis",
-      "authors": [
-        "Yuen Yvonne Yu",
-        "Austin Wyman",
-        "Calliana J. Faulk",
-        "Lizzy J. Fulop",
-        "Rebecca L. Greenberg",
-        "Rachel M. Benecke",
-        "Lauren K. Steinbeck",
-        "Jessica Foy",
-        "Caitlyn Kim",
-        "George O. Emory",
-        "Eric A. Storch",
-        "Casey J. Zampella",
-        "Benjamin E. Yerys",
-        "Robert T. Schultz",
-        "Julia Parish‐Morris",
-        "John D. Herrington",
-        "Caitlin C. Clements"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-23",
-      "doi": "10.1002/aur.70155",
-      "url": "https://doi.org/10.1002/aur.70155",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Given the rising prevalence of autism among racial minority children in the United States, but persistent service use disparities, this study examines potential bias in specific items from the autism diagnostic observation schedule (ADOS), a highly regarded autism evaluation. We leveraged unidimensional item response theory graded response models and a sample of 735 children to analyze the differential item functioning (DIF) of items within ADOS Module 3. Three items showed significant signs of racial bias: A1 (overall language level), A5 (offers information), and D5 (compulsions and rituals). On these items, Black/African American and Asian children were usually more likely to be rated as showing autistic behaviors than White children with similar autism levels. The impact of racial bias on the item score was small, and the impact on the overall test score was even smaller: on a scale of 0–48 points, the effect of racial bias was estimated at 0.23 total points for Black/African American children and 0.16 points for Asian children. Furthermore, none of the items showing significant bias contribute to the autism classification algorithm. This analysis suggests a small but d…"
     },
     {
       "id": "10.1007/s10803-025-07137-8",
@@ -8402,6 +8520,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -8424,27 +8563,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -9043,38 +9161,6 @@
       "abstract": "ABSTRACT There is a growing body of evidence suggesting a concurrent association between attentional indices measured via eye tracking and autism symptoms. This meta‐analysis examined the utility of eye tracking within longitudinal frameworks for autism interventions, including treatment monitoring and prediction of treatment response. We conducted a multivariate random‐effects meta‐analysis with a multilevel structure on 25 studies (828 autistic participants; M age = 3–28 years) to estimate: (a) changes in eye‐tracking outcomes from pre‐ to post‐treatment ( k = 179); and (b) the correlation between baseline eye‐tracking profiles and changes in developmental outcomes following treatment ( k = 39). Our analysis revealed a moderate and significant summary effect size for changes in eye‐tracking outcomes from pre‐ to post‐treatment (Hedge's g = 0.32, p = 0.010). Additionally, a moderate but non‐significant summary effect size was revealed for the correlation between baseline eye‐tracking outcomes and changes in developmental outcomes following treatment (Fisher's z = 0.20, p = 0.115), with moderation effects observed based on developmental domain and sex. These findings highlight the…"
     },
     {
-      "id": "10.1002/aur.70136",
-      "title": "Understanding Barriers to Assessment and Diagnosis of Autism in Adulthood: Where Are We Now and How Do We Move Forward?",
-      "authors": [
-        "Aspasia Stacey Rabba",
-        "Linnea Lampinen",
-        "Phoebe Meldrum",
-        "Patrick Dwyer",
-        "Mikle South",
-        "Lauren Taylor",
-        "Mirko Uljarevic",
-        "Vanessa H. Bal"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1002/aur.70136",
-      "url": "https://doi.org/10.1002/aur.70136",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "ABSTRACT Assessment and diagnosis of autism in adulthood is a growing area of interest for both clinical and research practice. In this commentary, we present a thematic analysis following the first International Society for Autism Research Special Interest Group (SIG) focused on assessment and diagnosis of autism in adulthood. An increasing recognition of missed or misdiagnosed autistic adults is highlighted throughout the commentary. Recommendations for reducing barriers in diagnostic processes are reviewed, including improving existing adult autism measures and developing new ones, especially self‐report/interview tools capturing what cannot be externally observed; providing more information about the process ahead of time and better post‐diagnostic support; better assessment of psychosocial and mental health histories; training to promote clinicians' understanding of adult autism; and the importance of considering culture. Professional and government bodies should support the development of neuroaffirming, client‐centered practice guidelines that actively include input and co‐design from autistic adults.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613251394558",
       "title": "Autistic young adults’ routine travel pre- and post-license",
       "authors": [
@@ -9653,37 +9739,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1002/aur.70145",
-      "title": "Exploring Alexithymia, Uncertainty, Anxious Arousal, and Social Anxiety as Mediators of the Relationship Between Sensory Processing Differences and Restricted and Repetitive Behaviors in Autistic Adults",
-      "authors": [
-        "Heather L. Moore",
-        "Samuel Brice",
-        "Natalya Spraggon",
-        "Barry Ingham",
-        "Mark Freeston",
-        "Jeremy R. Parr",
-        "Jacqui Rodgers"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-11-21",
-      "doi": "10.1002/aur.70145",
-      "url": "https://doi.org/10.1002/aur.70145",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Restricted and repetitive behaviors (RRB) are associated with sensory processing (SP) differences for autistic people, and are thought to be a coping strategy to help manage the sensory environment. Previous work shows that, for autistic people, alexithymia, intolerance of uncertainty (IU), and anxiety mediate the relationship between SP differences and RRB. However, these studies use anxiety measures developed for the general population, and more recent evidence suggests that autistic people may have a different anxiety experience. This study aims to extend previous findings by unpacking the anxiety experience for autistic adults in the relationship between SP differences and RRB, using an autism‐specific anxiety measure. Data were available from 426 autistic adults. Serial mediation models tested the relationship between SP differences and RRB, with alexithymia, IU, anxious arousal, and social anxiety as mediators. We identified significant direct effects from SP differences to both repetitive motor behaviors (RMB) and insistence on sameness behaviors (ISB). For RMB, we found indirect effects through anxious arousal, alexithymia‐anxious arousal, IU‐anxious arousal, and a…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-025-07131-0",
       "title": "Association Between Prenatal Air Pollution Exposure and Autism in Children: EPINED Study",
       "authors": [
@@ -10179,150 +10234,6 @@
       ],
       "abstract": "Abstract We conducted a scoping review of attachment in children with autism spectrum disorder (ASD). Searches of Scopus, Web of Science, and PubMed, with no year limits, identified 23 studies, chiefly using the Strange Situation Procedure (often modified; protocol variants documented) and, less often, the Attachment Q-Sort. Across Strange Situation studies, secure classifications ranged 31.5%–59.0%, with disorganization frequently elevated relative to typical comparison groups. Caregiver sensitivity and insightfulness were associated with greater security; limited longitudinal evidence linked early security with later social inclusion and empathic concern. Overall, children with ASD form organized attachments, yet validity concerns around modified laboratory protocols and the promise of home-based assessments justify dual-method, longitudinal designs and rigorously evaluated sensitivity-focused interventions.",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07123-0",
-      "title": "Deconstructing Information About Autism Diagnosis in Adults on TikTok: A Cross-Sectional, Descriptive Content Analysis",
-      "authors": [
-        "Emily Brennan",
-        "Linnea A. Lampinen",
-        "Haden Paek",
-        "Xinyue Wang",
-        "Hailey Romano",
-        "Vanessa H. Bal"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-08",
-      "doi": "10.1007/s10803-025-07123-0",
-      "url": "https://doi.org/10.1007/s10803-025-07123-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose Social media has increasingly become a platform where individuals share and seek information about autism. However, recent research indicates that autism-related content on TikTok often contains misleading or inaccurate information. Additionally, the number of adults seeking first-time autism diagnoses has increased over the past several years, potentially due to increased public awareness and exposure to content on social media. In order to understand how autistic adults are engaging with TikTok, there is a need to examine content focused specifically on autism in adulthood. This study aimed to address this gap by analyzing TikTok content associated with the hashtags #actuallyautistic, #latediagnosedautistic, and #autism. Methods A content analysis of 150 videos examined themes, attitudes, clinical accuracy, and user engagement metrics. Additional analyses were run to examine common traits that users reported in relation to autism. Results A significant portion of videos were either personal in nature or misleading. Content analysis showed that many topics centered around identity related to autism diagnosis, and many associated themes were negative. There were si…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07117-y",
-      "title": "Specific Deficits in Facial Recognition in Children Aged 7–14 Years With Developmental Prosopagnosia",
-      "authors": [
-        "Jialin Ma",
-        "Xiaojie Wang",
-        "Yongxin Li"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-08",
-      "doi": "10.1007/s10803-025-07117-y",
-      "url": "https://doi.org/10.1007/s10803-025-07117-y",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07107-0",
-      "title": "Changes in Autism Traits from Early Childhood To Adolescence in the Study To Explore Early Development",
-      "authors": [
-        "Gabriel S. Dichter",
-        "Kyle F. Grosser",
-        "Kaitlin K. Cummings",
-        "Chyrise Bradley",
-        "Tanya P. Garcia",
-        "Amanda L. Tapia",
-        "Rebecca E. Pretzel",
-        "Cy Nadler",
-        "Eric J. Moody",
-        "Brian Barger",
-        "Nuri M. Reyes",
-        "M. Daniele Fallin",
-        "Julie L. Daniels"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-08",
-      "doi": "10.1007/s10803-025-07107-0",
-      "url": "https://doi.org/10.1007/s10803-025-07107-0",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07119-w",
-      "title": "Fear of Negative Evaluation and Social Anxiety in Autism: A Case for Multi-method Assessment",
-      "authors": [
-        "Alexandra Kalinyak",
-        "Grace Lee Simmons",
-        "Blythe Corbett",
-        "Matthew Lerner",
-        "Susan W. White"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-08",
-      "doi": "10.1007/s10803-025-07119-w",
-      "url": "https://doi.org/10.1007/s10803-025-07119-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07109-y",
-      "title": "Digital Social Stories for Teaching Earthquake Safety Skills to Individuals With Autism Spectrum Disorder",
-      "authors": [
-        "Seçil Ulaşman",
-        "Tuğba Sivrikaya"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-08",
-      "doi": "10.1007/s10803-025-07109-y",
-      "url": "https://doi.org/10.1007/s10803-025-07109-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2025.2581644",
-      "title": "Executive function variability in autism spectrum disorder: subdomains, developmental trajectories, and clinical implications",
-      "authors": [
-        "Seungjin Lee"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-11-08",
-      "doi": "10.1080/20473869.2025.2581644",
-      "url": "https://doi.org/10.1080/20473869.2025.2581644",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2025.2585906",
-      "title": "‘They gave my child back to me’: experiences of parents returning to Türkiye for their children with autism from countries to which they had migrated",
-      "authors": [
-        "Ali Kaya",
-        "Merve Arslan"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-11-08",
-      "doi": "10.1080/20473869.2025.2585906",
-      "url": "https://doi.org/10.1080/20473869.2025.2585906",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
     }
   ]
 }
