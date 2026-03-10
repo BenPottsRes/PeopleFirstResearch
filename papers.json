@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T07:18:55Z",
+  "generated_at": "2026-03-10T07:09:53Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -209,31 +209,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -262,6 +237,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07278-4",
@@ -921,26 +921,6 @@
         "Autism"
       ],
       "abstract": "Newspapers – particularly certain tabloid and right-leaning publications – often perpetuate negative stereotypes of Autistic people. This study examined how newspaper reading preferences relate to public attitudes towards autism. A sample of 277 UK-based non-autistic adults completed an online survey reporting demographic information, newspaper reading habits (print or online) and trustworthiness ratings for 10 major British newspapers. Participants also completed measures of autism-related knowledge and explicit attitudes towards autism, and an implicit bias task. Data were analysed using generalized additive models weighted by newspaper exposure, along with hierarchical partitioning to estimate the variance explained by reading preferences and other factors. Newspaper-related factors accounted for 4.5% of the variance in explicit attitudes and 10.7% in implicit attitudes. Crucially, selective engagement with right-leaning tabloids was associated with more negative implicit attitudes. Furthermore, selective trust in these outlets predicted relatively favourable explicit but relatively negative implicit attitudes. Overall trust in newspapers was also linked to less accurate autism…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251396316",
-      "title": "Distinguishing midlife and old age: A recommendation for autism researchers",
-      "authors": [
-        "Gavin R Stewart"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251396316",
-      "url": "https://doi.org/10.1177/13623613251396316",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Research on ageing in autism has sharply increased following a number of influential publications that highlighted the lack of knowledge in this area. However, much of the research on autism ageing has inadvertently treated all people aged over 50 as a homogeneous ‘older adult’ group, overlooking important distinctions between midlife (40–64 years) and old age (65+ years). Midlife is marked by complex role management, career pressures, health changes and identity development, while old age often involves retirement, shifts in priorities, physical and cognitive changes, and planning for less independent living. Recognising midlife and old age as distinct life phases is essential to accurately characterise the lived experiences and needs of autistic adults across the latter part of the lifespan. This letter makes conceptual and methodological suggestions that autism researchers should align with established ageing frameworks by labelling samples accurately, using appropriate keywords and, where possible, stratifying analyses by age subgroup. Doing so will enhance research accuracy, improve indexing and increase clinical relevance. This shift is vital for advancing autism ageing resea…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -3514,6 +3494,36 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -3547,36 +3557,6 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4336,32 +4316,6 @@
       ],
       "abstract": "Despite their relevance to outcomes in autism, little is known about how social drivers of health affect communication, especially in transition-aged autistic adolescents and young adults with structural language impairment. This knowledge gap limits our understanding of developmental trajectories and the ability to develop supports. This cross-sectional study examined the role of social drivers of health in the communication abilities of autistic individuals ages 13–30. Participants ( N = 73) completed language, nonverbal cognitive assessments, and social drivers of health (sense of community, unmet services, barriers to services) measures. Data were analyzed descriptively and using mixed-effects modeling. More unmet service needs, more barriers to services, and a lower sense of community were associated with greater social communication impairment. In turn, both unmet service needs and barriers to services were negatively associated with functional communication. In regression modeling, language scores contributed to functional communication, and sense of community to social communication impairment. Findings support the relevance of language and social drivers of health in commu…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251390604",
-      "title": "Mental health outcomes associated with applied behavior analysis in a US national sample of privately insured autistic youth",
-      "authors": [
-        "Nahime G Aguirre Mtanous",
-        "Jamie Koenig",
-        "Melica Nikahd",
-        "Sarah E Effertz",
-        "Sal Silinonte",
-        "J Madison Hyer",
-        "Brittany N Hand",
-        "Lauren Bishop"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251390604",
-      "url": "https://doi.org/10.1177/13623613251390604",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Applied behavior analysis is a widely used intervention for autistic youth, though its mental health impacts remain under-researched. This study aims to investigate the association between applied behavior analysis therapy and post-traumatic stress disorder, suicidality, mental health hospitalization rates, and length of mental health hospitalizations using a national database of privately insured youth under 18. We matched 17,120 autistic youth who received applied behavior analysis with a control group of autistic youth with no record of applied behavior analysis and clustered them into four applied behavior analysis dose groups using two-stage bisecting k-medians clustering. Then, we used negative binomial regression and logistic regression to compare outcomes for the applied behavior analysis and non-applied behavior analysis groups. Overall, applied behavior analysis receipt was associated with 30% higher odds of experiencing a mental health hospitalization (odds ratio = 1.30, p &lt; 0.001) and a 32% higher incidence rate of these hospitalizations (incidence rate ratio = 1.32, p &lt; 0.001). Our analysis found no relationship between applied behavior analysis dosing and the ot…"
     },
     {
       "id": "10.1089/aut.2024.0148",
@@ -8520,27 +8474,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -8563,6 +8496,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
