@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-03-10T07:09:53Z",
+  "generated_at": "2026-03-11T07:12:24Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-026-07245-z",
+      "title": "Individual and Combined Associations of Maternal Fever, Placental Inflammation, and Prematurity With Autism and ADHD",
+      "authors": [
+        "Alexandra Starr",
+        "Xueqi Qu",
+        "Xiumei Hong",
+        "Sally Safi",
+        "Xiaobin Wang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-10",
+      "doi": "10.1007/s10803-026-07245-z",
+      "url": "https://doi.org/10.1007/s10803-026-07245-z",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07286-4",
+      "title": "Non-social Language Exposure Facilitates Autistic Children’s Language Learning",
+      "authors": [
+        "Heeju Hwang",
+        "Krisya Louie",
+        "Carol K. S. To"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-10",
+      "doi": "10.1007/s10803-026-07286-4",
+      "url": "https://doi.org/10.1007/s10803-026-07286-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07267-7",
+      "title": "Atypical Tactile Expressions Using Japanese Ideophones in Adults With Autism Spectrum Disorders",
+      "authors": [
+        "Tamami Nakano",
+        "Satoe Awada",
+        "Masafumi Oizumi",
+        "Daisuke Kuwano",
+        "Kazuyo Tanji",
+        "Nobumasa Kato",
+        "Noburo Saji"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-10",
+      "doi": "10.1007/s10803-026-07267-7",
+      "url": "https://doi.org/10.1007/s10803-026-07267-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1007/s10803-026-07285-5",
+      "title": "Atypical Olfactory Identification, Memory and Metacognition in Children With Autism Spectrum Disorder",
+      "authors": [
+        "Anning Zhang",
+        "Fei Peng",
+        "Wei Lai",
+        "Chen Qu",
+        "Laiquan Zou"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-10",
+      "doi": "10.1007/s10803-026-07285-5",
+      "url": "https://doi.org/10.1007/s10803-026-07285-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07290-8",
+      "title": "Neurodiversity Knowledge Among Secondary Educators: Findings From an Initial Participatory Survey Study",
+      "authors": [
+        "Katharine O’Brien",
+        "Cindy Cai",
+        "Aaron Combs",
+        "Eric Li",
+        "Frederick Lu",
+        "Leo Tian",
+        "Summer Zhang",
+        "Jan Blacher"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-10",
+      "doi": "10.1007/s10803-026-07290-8",
+      "url": "https://doi.org/10.1007/s10803-026-07290-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "participatory"
+      ]
+    },
     {
       "id": "10.1108/aia-01-2026-0007",
       "title": "Trends and gaps in school-based educational activities for autistic students: a UDL perspective",
@@ -209,6 +320,31 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -237,31 +373,6 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
     },
     {
       "id": "10.1007/s10803-026-07278-4",
@@ -3437,33 +3548,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -3491,6 +3575,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4286,35 +4397,6 @@
         "Employment"
       ],
       "abstract": "Autistic advocates have raised substantial concerns regarding genetics research on autism. It is yet unclear whether these concerns reflect the perspectives of the broader autism community. In a sample of 1757 Dutch autistic adults, 445 parents of autistic children and 126 legal representatives of autistic adults, we explored perspectives on genetics research. We used a pilot repeated survey, consisting of questions about the perceived importance of the heritability of autism, reasons for this importance and the desire to learn more about heritability. Over 95% of the participants found it at least a little important to know that autism is highly heritable, and 67% would like to learn more about it. Participants mentioned that they find it important to increase knowledge about the causes of autism, and to improve the diagnostic process. There were no substantial differences in perspectives between stakeholder groups. Contrasting previous work, this pilot study indicates support for genetics research in autism, which highlights diversity in community perspectives. It also identifies an unmet educational need. We conclude that education on the topic of genetics, active research invol…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251380448",
-      "title": "The role of social drivers of health in communication abilities of autistic adolescents and young adults",
-      "authors": [
-        "Teresa Girolamo",
-        "Alicia Escobedo",
-        "Lindsay Butler",
-        "Caroline A Larson",
-        "Iván Campos",
-        "Kyle Greene-Pendelton"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251380448",
-      "url": "https://doi.org/10.1177/13623613251380448",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "access",
-        "communication"
-      ],
-      "abstract": "Despite their relevance to outcomes in autism, little is known about how social drivers of health affect communication, especially in transition-aged autistic adolescents and young adults with structural language impairment. This knowledge gap limits our understanding of developmental trajectories and the ability to develop supports. This cross-sectional study examined the role of social drivers of health in the communication abilities of autistic individuals ages 13–30. Participants ( N = 73) completed language, nonverbal cognitive assessments, and social drivers of health (sense of community, unmet services, barriers to services) measures. Data were analyzed descriptively and using mixed-effects modeling. More unmet service needs, more barriers to services, and a lower sense of community were associated with greater social communication impairment. In turn, both unmet service needs and barriers to services were negatively associated with functional communication. In regression modeling, language scores contributed to functional communication, and sense of community to social communication impairment. Findings support the relevance of language and social drivers of health in commu…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8474,6 +8556,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -8496,27 +8599,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10143,51 +10225,6 @@
         "Employment"
       ],
       "abstract": "Background: Research has consistently demonstrated a negative correlation between socioeconomic status (SES) and the prevalence of ADHD, with SES exerting a significant influence on brain development. ADHD, closely intertwined with neurological development, often manifests as impairments within brain regions associated with memory, executive function, and emotion regulation. Nevertheless, the specific brain structural mediators linking SES to ADHD remain unclear. Method: We explored whether the brain surface area (SA) and thickness (TH) mediated the relationship between SES indicators (Townsend deprivation index at recruitment, average total household income before tax, and job involves heavy manual or physical work) and ADHD utilizing two-step Mendelian Randomization (MR) and multivariate MR method. Results: The MR analysis indicated that higher SES corresponds to a lower prevalence of ADHD. Genetically predicted household income was positively correlated with the SA of insula (β = .31, p = 1.02 × 10 −4 ), and physical work was positively correlated with the TH of entorhinal cortex (β = .74, p = 3.73 × 10 −5 ). Mediation analysis showed that the SA of insula was identified as a pa…"
-    },
-    {
-      "id": "10.1177/25739581251386121",
-      "title": "“This Is Like My First Support Group”: The Benefits of Online Music Group with Young Autistic Women in Indonesia",
-      "authors": [
-        "Monica Subiantoro",
-        "Lucy Bolger",
-        "Susan M. Hayward",
-        "Grace Thompson"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-11-10",
-      "doi": "10.1177/25739581251386121",
-      "url": "https://doi.org/10.1177/25739581251386121",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Many music therapy practices with autistic people have focused on intervention with autistic children. There are a growing number of studies reporting that many autistic adults experience loneliness and negative mental health outcomes. In Indonesia, support for autistic adults is complicated by the various understandings influenced by traditional and spiritual beliefs and limited acceptance of autism in the general public. Therefore, there is a need for psychosocial support for this age group in a format and style that suits their preferences and needs. This article describes the emerging practice of an online music group with six autistic young women aged 20–24 in Indonesia. This group met weekly for 12 weeks and was facilitated by a qualified music therapist. We identified four themes using reflexive thematic analysis, including “eagerness to connect,” “sharing music and life stories,” “being with people who accept and affirm autistic people,” and “entering a supportive autistic community.” Learnings from this emerging practice suggest that an online music group could support identity formation and solidarity by offering these autistic young women the opportunity to see themselve…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-025-00533-x",
-      "title": "Attachment Security and Autism Spectrum Disorder: A Scoping Review",
-      "authors": [
-        "Alessandro Taurino",
-        "Pasquale Musso",
-        "Teresa Risoli",
-        "Gabrielle Coppola",
-        "Christian Stifano",
-        "Rosalinda Cassibba"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-10",
-      "doi": "10.1007/s40489-025-00533-x",
-      "url": "https://doi.org/10.1007/s40489-025-00533-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract We conducted a scoping review of attachment in children with autism spectrum disorder (ASD). Searches of Scopus, Web of Science, and PubMed, with no year limits, identified 23 studies, chiefly using the Strange Situation Procedure (often modified; protocol variants documented) and, less often, the Attachment Q-Sort. Across Strange Situation studies, secure classifications ranged 31.5%–59.0%, with disorganization frequently elevated relative to typical comparison groups. Caregiver sensitivity and insightfulness were associated with greater security; limited longitudinal evidence linked early security with later social inclusion and empathic concern. Overall, children with ASD form organized attachments, yet validity concerns around modified laboratory protocols and the promise of home-based assessments justify dual-method, longitudinal designs and rigorously evaluated sensitivity-focused interventions.",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
