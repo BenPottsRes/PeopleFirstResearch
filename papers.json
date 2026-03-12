@@ -1,8 +1,135 @@
 {
-  "generated_at": "2026-03-11T07:12:24Z",
+  "generated_at": "2026-03-12T07:16:17Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10870547251385660",
+      "title": "Mind-Wandering in Adolescents With ADHD: A Comparative Study",
+      "authors": [
+        "Hiroyuki Ogata",
+        "Erina Nakane",
+        "Chuichi Kondo",
+        "Sohei Saima",
+        "Hiroshi Ihara"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1177/10870547251385660",
+      "url": "https://doi.org/10.1177/10870547251385660",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "Objective: Mind-wandering is a common cognitive experience that may be particularly salient in adolescents with attention-deficit/hyperactivity disorder (ADHD). This study aimed to investigate the characteristics and clinical relevance of mind-wandering in this population. Method: We retrospectively analyzed data from 440 psychiatric outpatients aged 10–19 years (ADHD: n = 137; non-ADHD: n = 303) who visited a university hospital between 2023 and 2025. Mind-wandering was assessed using the Mind-Wandering Questionnaire (MWQ). Group differences in MWQ scores were examined using analysis of covariance, controlling for age, sex, Autism-Spectrum Quotient, and Quick Inventory of Depressive Symptomatology. Additional analyses compared ADHD-only with ADHD plus autism spectrum disorder (ASD) comorbidity, and hierarchical regression was conducted to determine the independent contribution of ADHD to mind-wandering. Results: Adolescents with ADHD reported significantly higher MWQ scores than those without ADHD ( p &lt; .001, Cohen’s d = 0.92), and this difference remained significant after covariate adjustment (η² = 0.098). No significant difference was observed between the ADHD-only and ADHD…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10870547251405543",
+      "title": "Impaired Exogenous Attentional Orienting to Gaze Cues in Children With ADHD: Evidence From Inhibition of Return",
+      "authors": [
+        "Jiaqi Wang",
+        "Aijun Wang",
+        "Jiacan Gu",
+        "Shizhong Cai",
+        "Ming Zhang"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1177/10870547251405543",
+      "url": "https://doi.org/10.1177/10870547251405543",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: To examine whether children with attention-deficit/hyperactivity disorder (ADHD) can produce attentional orienting in response to gaze cues, and to identify which type of attentional orienting is impaired and why. Method: Two experiments employed a gaze cue–target paradigm using inhibition of return (IOR) as an indicator of exogenous attentional orienting. Experiment 1 used normal upright gaze faces as cues. Experiment 2 used inverted gaze faces as cues. Results: When normal gaze faces were used as the gaze cue, no IOR effect was observed in children with ADHD (Experiment 1); whereas when inverted gaze faces were used as the gaze cue, the IOR effect was produced in children with ADHD (Experiment 2). Conclusion: These results indicated that the ability to produce exogenous attentional orienting to the gaze cue is impaired in children with ADHD and that this impairment resulted from their reduced ability to exogenously orient to the intact face. These findings provide new evidence of social cognitive deficits and attentional orienting deficits in children with ADHD, and help provide support for children in educational settings."
+    },
+    {
+      "id": "10.1177/10870547251405074",
+      "title": "Co-occurrence Patterns of ADHD Symptoms and Reactive and Proactive Aggression in Chinese Adolescents: Associations With Parenting Practices",
+      "authors": [
+        "Zhengqian Yang",
+        "Yuhan Luo",
+        "Fumei Chen",
+        "Rui Luo",
+        "Qian Pu",
+        "Yun Wang"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1177/10870547251405074",
+      "url": "https://doi.org/10.1177/10870547251405074",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: Previous studies have found that ADHD symptoms often co-occur with aggressive behavior in adolescents, and that reactive aggression is more closely related to ADHD symptoms than proactive aggression. However, the specific co-occurrence patterns of ADHD symptoms and different functions of aggression remain unclear, as does their relationship with parenting practices. This study used a person-centered approach to examine the co-occurrence patterns of ADHD symptoms, reactive aggression, and proactive aggression and their associations with parenting practices. Method: A total of 1,152 mother-adolescent dyads participated in this study (adolescents: M age = 14.29; 48.0% girls). Latent profile analysis was conducted to identify adolescent profiles of ADHD, reactive, and proactive aggression, followed by multinomial logistic regression to examine relationships between these profiles and auxiliary variables. Results: Latent profile analysis identified three patterns of adolescent- and mother-reported ADHD symptoms, reactive aggression, and proactive aggression: low symptom (84.4%), reactive co-occurrence (10.0%), and complete co-occurrence (5.6%). Multinomial logistic regression…"
+    },
+    {
+      "id": "10.1177/10870547251397022",
+      "title": "Working Memory Load and Inhibition Performance Among Children With ADHD",
+      "authors": [
+        "Ibrahim Orhan",
+        "Ishin Paralik"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1177/10870547251397022",
+      "url": "https://doi.org/10.1177/10870547251397022",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
+    },
+    {
+      "id": "10.1007/s40489-026-00540-6",
+      "title": "Autistic Children’s Wellbeing at School: A Systematic Review",
+      "authors": [
+        "Annette Carroll",
+        "Kate Simpson",
+        "Dawn Adams"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-11",
+      "doi": "10.1007/s40489-026-00540-6",
+      "url": "https://doi.org/10.1007/s40489-026-00540-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Quality of life"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2639429",
+      "title": "A systematic review of adults on the autism spectrum’s quality of life in Middle Eastern countries",
+      "authors": [
+        "Sultan Alanazi"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-03-11",
+      "doi": "10.1080/20473869.2026.2639429",
+      "url": "https://doi.org/10.1080/20473869.2026.2639429",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ]
+    },
     {
       "id": "10.1007/s10803-026-07245-z",
       "title": "Individual and Combined Associations of Maternal Fever, Placental Inflammation, and Prematurity With Autism and ADHD",
@@ -142,6 +269,32 @@
         "sensory"
       ],
       "abstract": "Purpose Classroom activities for autistic students lack clear consensus. This study aims to identify and describe educational activities implemented in school settings between 1996 and 2024, using the Universal Design for Learning (UDL) framework. Design/methodology/approach A total of 139 documents were retrieved from Web of Science, Scopus, Google Scholar, PubMed and APA PsycNet following PRISMA-ScR guidelines. Study characteristics, populations, contexts and activity types were charted. Content analysis focused on structured school tasks with clear pedagogical objectives and active student participation. Findings Most studies involved very small groups (68.3% with 1–4 participants), predominantly aged 3–7 years. Case study designs accounted for 41% and 33.1% reported improvements in communication and social interaction. The most frequent activities were play-based tasks (28.1%), sensory/motor tasks (22.3%) and artistic, musical or drama-based activities (18.7%), which were associated with enhanced social engagement. Originality/value This study maps activity-based interventions for autistic students, highlighting trends, limitations and directions for future UDL-informed inclusi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70215",
+      "title": "Compulsion Profile Differences Indicate Distinct Functional Mechanisms in Autistic and Non‐Autistic University Students",
+      "authors": [
+        "Gil Zukerman",
+        "Ester Ben–Itzchak"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-10",
+      "doi": "10.1002/aur.70215",
+      "url": "https://doi.org/10.1002/aur.70215",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Autistic individuals often exhibit high rates of obsessive‐compulsive symptoms (OCS), yet traditional cognitive‐behavioral therapy (CBT), especially exposure and response prevention (ERP), tends to be less effective for them. This may be due to differences in the function of compulsive behaviors: while OCD‐related compulsions are typically ego‐dystonic and aimed at reducing anxiety, autistic compulsions may be ego‐syntonic, serving regulatory or sensory modulation purposes. This study investigated whether compulsions in autism are more aligned with regulation and sensory modulation than with anxiety reduction. Participants included 39 autistic university students, 25 non‐autistic students with high OCS, and 25 non‐autistic students with low OCS. A factor analysis of seven binary items from the Yale–Brown Obsessive‐Compulsive Scale (Y‐BOCS‐I) revealed two factors explaining 58% of the variance. The first factor showed high loadings for Repetition, Counting, and Hoarding compulsions, reflecting regulatory and sensory modulation processes. The second factor showed high loadings for checking and organizing compulsions that were previously associated with anxiety reduction. Chi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -320,31 +473,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -373,6 +501,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07278-4",
@@ -1187,31 +1340,6 @@
         "service improvement"
       ],
       "abstract": "Object: Temperament provides a valuable framework for understanding ADHD across the lifespan, as extreme temperamental traits are considered etiological risk factors. The dual-pathway model links specific temperamental traits to ADHD symptom domains: elevated reactive traits, surgency and negative affect, to hyperactivity/impulsivity, and a low regulatory trait, effortful control, to inattention. Method: One hundred fifty-eight adults (79 with clinical diagnoses of ADHD and 79 controls) filled in the Adult Temperament Questionnaire. Consistent with a compensatory extension of the dual-pathway model, it was hypothesized that effortful control would moderate the effects of reactive traits (surgency/negative affect) on hyperactive/impulsive symptoms and influence both ADHD symptom domains. For exploratory purposes, orienting sensitivity, an adult temperament factor related to perceptual sensitivity, was included in the analyses. Results: Binary logistic regression identified lower effortful control as the strongest predictor of an ADHD diagnosis. Negative affect had a significant but small effect, while surgency and orienting sensitivity were non-significant. Two hierarchical regressi…"
-    },
-    {
-      "id": "10.1177/10870547251384462",
-      "title": "Bridging the Gap: Digital CBT for Adults Managing ADHD Challenges",
-      "authors": [
-        "Kevin M. Antshel",
-        "Haley McBride",
-        "Laura E. Knouse"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10870547251384462",
-      "url": "https://doi.org/10.1177/10870547251384462",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Quality of life",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: Cognitive behavioral therapy (CBT) is an efficacious treatment for adult ADHD, yet access and availability concerns limit scalability. Mobile health apps are promising tools for delivering scalable CBT. The current study reports findings from a randomized controlled trial (RCT) of a CBT-informed health app for adults with ADHD. Methods: A sample of assessed adults with ADHD ( N = 154; ages 18–55 years) were recruited to participate and randomized to either 8 weeks of use of the CBT-informed app or a waitlist control condition. Participants in both groups completed measures of ADHD symptoms and functioning at baseline, at 4 weeks, and at 8 weeks. Results: Linear mixed-effects models for repeated measurements revealed significant group x time interactions for inattentive symptoms (η 2 = .15), hyperactive-impulsive symptoms (η 2 = .05), and ADHD associated quality of life (η 2 = .04) in favor of the CBT-informed app relative to participants who knew they were not receiving help; however, these results did not extend to a measure of functional impairment. Changes in organizational, time management, and planning behaviors and ADHD-related cognitions partially mediated the ass…"
     },
     {
       "id": "10.1007/s10803-026-07270-y",
@@ -3548,6 +3676,33 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -3575,33 +3730,6 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7794,52 +7922,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1177/10870547251385660",
-      "title": "Mind-Wandering in Adolescents With ADHD: A Comparative Study",
-      "authors": [
-        "Hiroyuki Ogata",
-        "Erina Nakane",
-        "Chuichi Kondo",
-        "Sohei Saima",
-        "Hiroshi Ihara"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-16",
-      "doi": "10.1177/10870547251385660",
-      "url": "https://doi.org/10.1177/10870547251385660",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "Objective: Mind-wandering is a common cognitive experience that may be particularly salient in adolescents with attention-deficit/hyperactivity disorder (ADHD). This study aimed to investigate the characteristics and clinical relevance of mind-wandering in this population. Method: We retrospectively analyzed data from 440 psychiatric outpatients aged 10–19 years (ADHD: n = 137; non-ADHD: n = 303) who visited a university hospital between 2023 and 2025. Mind-wandering was assessed using the Mind-Wandering Questionnaire (MWQ). Group differences in MWQ scores were examined using analysis of covariance, controlling for age, sex, Autism-Spectrum Quotient, and Quick Inventory of Depressive Symptomatology. Additional analyses compared ADHD-only with ADHD plus autism spectrum disorder (ASD) comorbidity, and hierarchical regression was conducted to determine the independent contribution of ADHD to mind-wandering. Results: Adolescents with ADHD reported significantly higher MWQ scores than those without ADHD ( p &lt; .001, Cohen’s d = 0.92), and this difference remained significant after covariate adjustment (η² = 0.098). No significant difference was observed between the ADHD-only and ADHD…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10870547251405543",
-      "title": "Impaired Exogenous Attentional Orienting to Gaze Cues in Children With ADHD: Evidence From Inhibition of Return",
-      "authors": [
-        "Jiaqi Wang",
-        "Aijun Wang",
-        "Jiacan Gu",
-        "Shizhong Cai",
-        "Ming Zhang"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-16",
-      "doi": "10.1177/10870547251405543",
-      "url": "https://doi.org/10.1177/10870547251405543",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: To examine whether children with attention-deficit/hyperactivity disorder (ADHD) can produce attentional orienting in response to gaze cues, and to identify which type of attentional orienting is impaired and why. Method: Two experiments employed a gaze cue–target paradigm using inhibition of return (IOR) as an indicator of exogenous attentional orienting. Experiment 1 used normal upright gaze faces as cues. Experiment 2 used inverted gaze faces as cues. Results: When normal gaze faces were used as the gaze cue, no IOR effect was observed in children with ADHD (Experiment 1); whereas when inverted gaze faces were used as the gaze cue, the IOR effect was produced in children with ADHD (Experiment 2). Conclusion: These results indicated that the ability to produce exogenous attentional orienting to the gaze cue is impaired in children with ADHD and that this impairment resulted from their reduced ability to exogenously orient to the intact face. These findings provide new evidence of social cognitive deficits and attentional orienting deficits in children with ADHD, and help provide support for children in educational settings."
-    },
-    {
       "id": "10.1177/10870547251404197",
       "title": "Effects of Exercise on Hyperactivity/Impulsivity and Inhibitory Control at Behavioral and Electrophysiological Levels in ADHD: A Systematic Review and Meta-Analysis",
       "authors": [
@@ -7859,27 +7941,6 @@
         "ADHD"
       ],
       "abstract": "Objective: This study aimed to assess the impact of exercise on hyperactivity/impulsivity, inhibitory control, and inhibition-related event-related potential (ERP) components in individuals with ADHD. Method: A systematic search identified relevant studies, and methodological quality was assessed using the Revised Cochrane Risk-of-Bias tool for randomized trials (RoB 2) and the Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I), with data analysis conducted using Stata software. Results: A total of 36 studies (38 comparisons) were included, comprising 10 acute and 26 chronic exercise interventions. Exercise yielded a small-to-moderate improvement in inhibitory control but showed no significant effects on hyperactivity/impulsivity or inhibition-related N2 and P3 components. Subgroup analyses of inhibitory control revealed significant moderating effects of age (children/adolescents), intervention type (chronic interventions), frequency (three sessions per week), control condition (sedentary or no-intervention groups), and study quality (studies with moderate or high risk of bias). Conclusion: Exercise enhances inhibitory control in individuals with ADHD, with the effe…"
-    },
-    {
-      "id": "10.1177/10870547251405074",
-      "title": "Co-occurrence Patterns of ADHD Symptoms and Reactive and Proactive Aggression in Chinese Adolescents: Associations With Parenting Practices",
-      "authors": [
-        "Zhengqian Yang",
-        "Yuhan Luo",
-        "Fumei Chen",
-        "Rui Luo",
-        "Qian Pu",
-        "Yun Wang"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-16",
-      "doi": "10.1177/10870547251405074",
-      "url": "https://doi.org/10.1177/10870547251405074",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: Previous studies have found that ADHD symptoms often co-occur with aggressive behavior in adolescents, and that reactive aggression is more closely related to ADHD symptoms than proactive aggression. However, the specific co-occurrence patterns of ADHD symptoms and different functions of aggression remain unclear, as does their relationship with parenting practices. This study used a person-centered approach to examine the co-occurrence patterns of ADHD symptoms, reactive aggression, and proactive aggression and their associations with parenting practices. Method: A total of 1,152 mother-adolescent dyads participated in this study (adolescents: M age = 14.29; 48.0% girls). Latent profile analysis was conducted to identify adolescent profiles of ADHD, reactive, and proactive aggression, followed by multinomial logistic regression to examine relationships between these profiles and auxiliary variables. Results: Latent profile analysis identified three patterns of adolescent- and mother-reported ADHD symptoms, reactive aggression, and proactive aggression: low symptom (84.4%), reactive co-occurrence (10.0%), and complete co-occurrence (5.6%). Multinomial logistic regression…"
     },
     {
       "id": "10.1007/s10803-025-07179-y",
@@ -8556,27 +8617,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -8599,6 +8639,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -9253,26 +9314,6 @@
         "Healthcare"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10870547251397022",
-      "title": "Working Memory Load and Inhibition Performance Among Children With ADHD",
-      "authors": [
-        "Ibrahim Orhan",
-        "Ishin Paralik"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-30",
-      "doi": "10.1177/10870547251397022",
-      "url": "https://doi.org/10.1177/10870547251397022",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
     },
     {
       "id": "10.1007/s40489-025-00535-9",
@@ -10204,27 +10245,6 @@
         "lived experience"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547251385350",
-      "title": "Dissecting the Mediating Role of Cortical Structures in the Pathogenesis of Socioeconomic Status to ADHD: A Mendelian Randomization Study and Mediation Analysis",
-      "authors": [
-        "Wanyu Xie",
-        "Jie Yu",
-        "Ping Wang"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-11",
-      "doi": "10.1177/10870547251385350",
-      "url": "https://doi.org/10.1177/10870547251385350",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "Background: Research has consistently demonstrated a negative correlation between socioeconomic status (SES) and the prevalence of ADHD, with SES exerting a significant influence on brain development. ADHD, closely intertwined with neurological development, often manifests as impairments within brain regions associated with memory, executive function, and emotion regulation. Nevertheless, the specific brain structural mediators linking SES to ADHD remain unclear. Method: We explored whether the brain surface area (SA) and thickness (TH) mediated the relationship between SES indicators (Townsend deprivation index at recruitment, average total household income before tax, and job involves heavy manual or physical work) and ADHD utilizing two-step Mendelian Randomization (MR) and multivariate MR method. Results: The MR analysis indicated that higher SES corresponds to a lower prevalence of ADHD. Genetically predicted household income was positively correlated with the SA of insula (β = .31, p = 1.02 × 10 −4 ), and physical work was positively correlated with the TH of entorhinal cortex (β = .74, p = 3.73 × 10 −5 ). Mediation analysis showed that the SA of insula was identified as a pa…"
     }
   ]
 }
