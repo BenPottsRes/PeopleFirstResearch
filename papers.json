@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-03-13T07:14:26Z",
+  "generated_at": "2026-03-14T07:07:30Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-026-07250-2",
+      "title": "Correction: Clinical Correlates of Major Depression in Psychiatrically Referred Youth With and Without Autism: A Controlled Study",
+      "authors": [
+        "Usman Ghumman",
+        "Maura DiSalvo",
+        "Maria Iorini",
+        "Akul Srinivasan",
+        "Aisha Saeed",
+        "Meredith O’Connor",
+        "Mohammad Ghaziuddin",
+        "Mai Uchida",
+        "Atilla Ceranoglu",
+        "Janet Wozniak",
+        "Gagan Joshi"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1007/s10803-026-07250-2",
+      "url": "https://doi.org/10.1007/s10803-026-07250-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ]
+    },
     {
       "id": "10.1177/10870547251385660",
       "title": "Mind-Wandering in Adolescents With ADHD: A Comparative Study",
@@ -91,6 +120,95 @@
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
     },
     {
+      "id": "10.1177/13623613261426099",
+      "title": "The impact of specialist resource centres on autistic pupils’ experience of mainstream school",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-13",
+      "doi": "10.1177/13623613261426099",
+      "url": "https://doi.org/10.1177/13623613261426099",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "This study investigated how autistic pupils’ psychological, social and educational outcomes differed in contrasting mainstream provisions. Using a three-year longitudinal quasi-experimental design, outcomes were compared across three placements: placement in a specialist resource centre, mainstream placement in specialist resource centre host schools, and placement in mainstream schools without a specialist resource centre. Autistic pupils ( N = 119, aged 11–14) and matched non-autistic peers ( N = 119) completed surveys and schools provided attainment, attendance, and exclusion data. Placement type showed no main effects on psychosocial outcomes in mixed analyses of variance, indicating limited evidence for differential change by placement alone, but hierarchical regressions indicated that specialist resource centre placement was statistically associated with higher academic attainment and stronger school belonging than mainstream schools without a specialist resource centre, and greater perceived teacher support than mainstream placement in specialist resource centre host schools. Attendance disparities for specialist resource centre pupils were smaller than national averages for…"
+    },
+    {
+      "id": "10.1177/25739581251405705",
+      "title": "The Prevalence of Autistic College Students in the United States",
+      "authors": [
+        "Bradley E. Cox",
+        "Kayden M. Stockwell",
+        "Cassandra R. Kepple",
+        "Courtney B. Francis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-03-13",
+      "doi": "10.1177/25739581251405705",
+      "url": "https://doi.org/10.1177/25739581251405705",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "How many autistic college students are in the United States? Research to date has not specifically addressed this seemingly straightforward question. Yet, an answer may be critical to the advancement of research, policy, and practice related to autistic students in higher education. This article addresses three related but distinct questions about autistic students’ college enrollment within the United States: (1) What percentage of autistic high school students go on to college? (2) What percentage of students registered with their postsecondary institutions’ Disability Services Offices are autistic? and (3) What percentage of enrolled undergraduates are autistic? To answer these questions, we examined 731 publications, reviewed 16 common survey instruments used at postsecondary institutions, and inspected codebooks from 6 federal datasets. Rather than employing traditional systematic review techniques, we used an iterative, consensus-driven assessment process to ultimately synthesize relevant data from 14 prior publications and 3 original author-generated statistical summaries drawn from a total of 13 distinct sources of underlying data. We conclude that the best available eviden…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00546-0",
+      "title": "Gender Bias in Autism Research on Young Adults: A Scoping Review",
+      "authors": [
+        "Lysandra M. Podesta",
+        "Anna M. T. Bosman"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-13",
+      "doi": "10.1007/s40489-026-00546-0",
+      "url": "https://doi.org/10.1007/s40489-026-00546-0",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1002/aur.70216",
+      "title": "Vocabulary of Autistic Preschool Children With Limited Language: Alignment With Early Word Inventories",
+      "authors": [
+        "Eunji Kong",
+        "Yitong Jiang",
+        "Marina Crain",
+        "Wenjing Bao",
+        "Lynne Levato",
+        "Wendy Shih",
+        "Connie Kasari",
+        "Stephanie Shire"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-13",
+      "doi": "10.1002/aur.70216",
+      "url": "https://doi.org/10.1002/aur.70216",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT There is a critical need to understand the early vocabulary of young children with autism who have limited language, defined in this study as producing fewer than 20 different spontaneous and functional spoken or augmented words, to better inform educational targets and vocabulary selection for spoken as well as augmentative and alternative communication (AAC) interventions, particularly given the lack of evaluation tools designed for children with limited language. The spontaneous words and gestures produced by 66 preschoolers with autism (ages 3.5–5) during a natural language sample are compared with words in two early vocabulary tools including the MacArthur Communicative Development Inventories (MCDI) and a list of core words compiled from research studies of early AAC vocabulary. Participants' expressive words and gestures were coded from the transcripts of 20‐min natural language samples. Forty‐nine children (74.24%) used spoken words, gestures, or a combination of both, with six children (9.09%) communicating using a speech‐generating device (SGD). Spoken words were primarily used for commenting, while gestures, especially pointing, were used for requesting. Althoug…",
+      "framing": "Person-first language used"
+    },
+    {
       "id": "10.1007/s10803-026-07287-3",
       "title": "Adult Clinical Outcomes, Diagnostic Loss and Predictors in Individuals Diagnosed With Autism in Childhood",
       "authors": [
@@ -148,6 +266,55 @@
       "neurotype": [
         "Autism"
       ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261427112",
+      "title": "Susceptibility of the CAARS-2 Self-Report to Sophisticated Malingering",
+      "authors": [
+        "Robert Weis",
+        "Avery M. Sund"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-12",
+      "doi": "10.1177/10870547261427112",
+      "url": "https://doi.org/10.1177/10870547261427112",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: The Conners Adult ADHD Rating Scales Second Edition (CAARS-2) is a norm-referenced screening measure of ADHD symptoms and associated clinical concerns in adults. Unlike its predecessor, the CAARS-2 features a Negative Impression Index (NII) to detect unrealistically negative ratings or an exaggerated description of problems. Data presented in the CAARS-2 manual indicate that the NII differentiates simulators and adults with genuine ADHD with high accuracy, sensitivity, and specificity. Methods: We attempted to replicate these findings by conducting a simulation study with 222 adults with and without ADHD. Unlike the original studies, however, simulators were provided a plausible reason for feigning ADHD, coached to simulate and warned to avoid detection, and incentivized for credibly feigning. Results: On average, simulators earned significant elevations on CAARS-2 scales assessing the number and severity of DSM inattentive and hyperactive-impulsive symptoms. Simulators’ DSM scores did not differ significantly from those shown by participants with ADHD. The NII demonstrated high specificity (92%) to honest examinees with ADHD, but low sensitivity to simulators (8%). Most…"
+    },
+    {
+      "id": "10.1002/aur.70217",
+      "title": "Parenting Stress and Stressful Life Events Among Caregivers of Toddler Siblings of Autistic and Non‐Autistic Children",
+      "authors": [
+        "Jennifer E. Magnuson",
+        "Lucy S. King",
+        "Jacob I. Feldman",
+        "S. Madison Clark",
+        "Grace Pulliam",
+        "Kacie Dunham‐Carr",
+        "Alexandra Golden",
+        "Bahar Keçeli‐ Kaysılı",
+        "Kathryn L. Humphreys",
+        "Tiffany G. Woynaroski"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-12",
+      "doi": "10.1002/aur.70217",
+      "url": "https://doi.org/10.1002/aur.70217",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT This study measured experiences of parenting stress and stressful life events in caregivers of families with a toddler who has either an autistic or non‐autistic older sibling(s). Caregivers of toddlers (12–18 months old) with older autistic siblings (Sibs‐autism; n = 58) and toddlers with older non‐autistic siblings (Sibs‐NA; n = 46) completed questionnaires assessing stress related to parenting their toddler and their exposure to stressful life events since their toddler's birth. We compared levels of parenting stress and stressful life events between caregivers of Sibs‐autism and Sibs‐NA and examined the association between these measures. Caregivers of Sibs‐autism reported significantly higher levels of parenting stress and stressful life events relative to caregivers of Sibs‐NA, with small to moderate effects. Parenting stress and stressful life events were moderately correlated. Across these groups of caregivers, parenting stress and stressful life events appear to be related, but partially distinct aspects of caregiver stress. These findings highlight the importance of assessing multiple aspects of stress to better understand how stress may influence both caregiver…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -3197,35 +3364,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-026-07250-2",
-      "title": "Correction: Clinical Correlates of Major Depression in Psychiatrically Referred Youth With and Without Autism: A Controlled Study",
-      "authors": [
-        "Usman Ghumman",
-        "Maura DiSalvo",
-        "Maria Iorini",
-        "Akul Srinivasan",
-        "Aisha Saeed",
-        "Meredith O’Connor",
-        "Mohammad Ghaziuddin",
-        "Mai Uchida",
-        "Atilla Ceranoglu",
-        "Janet Wozniak",
-        "Gagan Joshi"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-11",
-      "doi": "10.1007/s10803-026-07250-2",
-      "url": "https://doi.org/10.1007/s10803-026-07250-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ]
-    },
-    {
       "id": "10.1080/20473869.2026.2628973",
       "title": "Effect of physical activity interventions on restricted and repetitive behaviors in children with autism spectrum disorder: a systematic review",
       "authors": [
@@ -3897,36 +4035,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251359894",
-      "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
-      "authors": [
-        "Abigail M.A. Love",
-        "Ru Ying Cai",
-        "Bronwyn Rideout",
-        "Linda Hollenberg",
-        "Hayley Clapham",
-        "Gilly McKeown",
-        "Chris Edwards",
-        "Ainslie Robinson",
-        "Charlie Benzie",
-        "Vicki Gibbs"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251359894",
-      "url": "https://doi.org/10.1177/25739581251359894",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251369452",
       "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
       "authors": [
@@ -3954,33 +4062,33 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "id": "10.1177/25739581251359894",
+      "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
+        "Abigail M.A. Love",
+        "Ru Ying Cai",
+        "Bronwyn Rideout",
+        "Linda Hollenberg",
+        "Hayley Clapham",
+        "Gilly McKeown",
+        "Chris Edwards",
+        "Ainslie Robinson",
+        "Charlie Benzie",
+        "Vicki Gibbs"
       ],
       "journal": "Autism in Adulthood",
       "year": 2026,
       "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
+      "doi": "10.1177/25739581251359894",
+      "url": "https://doi.org/10.1177/25739581251359894",
       "neurotype": [
         "Autism"
-      ],
-      "domains": [
-        "Service design"
       ],
       "tags": [
         "access",
         "lived experience"
       ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
+      "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4017,6 +4125,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4664,41 +4802,6 @@
       ],
       "abstract": "Autistic individuals often show differential sensory perception, including hypo- or hypersensitivities to sound. Previous research also suggests that autistic individuals often have difficulty processing intentional and affective cues in speech acoustics. However, general speech processing difficulties remain underexplored. We investigated self-reported auditory perception using the Speech, Spatial, and Qualities of Hearing Questionnaire among autistic (self-identifying ( n = 18) and clinically diagnosed ( n = 45)) and non-autistic adults ( N = 66). The study was conducted in the Netherlands, but the questionnaire and call for participation were in English and open to anyone regardless of country of residence. Both clinically diagnosed and self-identifying individuals with autism reported significantly lower scores on the Speech, Spatial, and Qualities of Hearing Questionnaire score and on the Speech subscale compared with non-autistic individuals, indicating challenges in overall quality of auditory perception, speech comprehension. Clinically diagnosed individuals also showed lower scores on the quality and spatial subscales compared with non-autistic individuals. Post hoc analys…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/13623613251388627",
-      "title": "The Schools Unified in Neurodiversity Collaborative: Co-designing a program to enhance educator knowledge and efficacy supporting children with neurodevelopmental disabilities",
-      "authors": [
-        "Kelly B Beck",
-        "Amy Ionadi",
-        "Timothy Wagner",
-        "Daniel Beck",
-        "Rachel Harris",
-        "Stephen Edwards",
-        "Donna Westbrooks-Martin",
-        "Jamie Upshaw",
-        "Andre Rhone",
-        "Taylor Kesich",
-        "Allie Kleinschmidt",
-        "Carla A Mazefsky"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251388627",
-      "url": "https://doi.org/10.1177/13623613251388627",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Sensory environment"
-      ],
-      "tags": [
-        "participatory",
-        "sensory"
-      ],
-      "abstract": "Autistic and other neurodivergent youth face social, sensory, and environmental challenges at school that negatively impact learning and well-being. Yet, most educators are not trained in neurodevelopmental disabilities, leaving them with outdated knowledge and limited confidence about how to support neurodivergent youth at school. In a two-phase project, we sought to (1) co-design a comprehensive professional development training for school educators and (2) pilot test this training in one US public school district. First, we used community-based participatory research methods to form an interdisciplinary team of neurodivergent educators and autistic community members. We then used human-centered design methods to iteratively design the Schools Unified in Neurodiversity professional development training for US K-12 educators. In Phase 2, we demonstrated feasibility and acceptability of the resulting training in a sample of 192 educators, grades K-12. Significant improvements were noted in educator knowledge and self-efficacy in pre- to post-assessments. Together, community-based participatory research and human-centered design provided a promising community-driven approach to deve…"
     },
     {
       "id": "10.1089/aut.2024.0148",
@@ -7241,35 +7344,6 @@
       "neurotype": [
         "Autism"
       ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251377949",
-      "title": "“From the autistic human books’ stories, I understand their mindset and thoughts”: Pilot development and participatory realist evaluation of Human Library to enhance public understanding of autism",
-      "authors": [
-        "Gary Yu Hin Lam",
-        "Teresa Wan Ki Lam",
-        "Ophelia Tang",
-        "Gary Yeung",
-        "Sibyl Wai Chan"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251377949",
-      "url": "https://doi.org/10.1177/13623613251377949",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "access",
-        "lived experience",
-        "participatory"
-      ],
-      "abstract": "Unlike traditional autism awareness programs that often rely on didactic teaching and factual information, Human Library is a contact-based intervention that can engage “readers” in critical dialogs with “human books” to learn about their lived experience. This study reported on the pilot development of a Human Library in collaboration with a team of human books who are autistic to promote public understanding of autism in Hong Kong. Using a participatory realist evaluation framework, we conducted surveys and interviews with readers to construct a Human Library program model and evaluate its associated outcomes. Pre- and post-Human Library surveys showed a significant decrease in autism stigma and increase in neurodiversity attitudes. Interview findings revealed that readers’ interests and concerns about the autistic community motivated them to participate in Human Library. Through personal interaction with autistic human books in a safe space created within Human Library, readers developed renewed understanding of autism and insights into autistic strengths. Readers became more informed of autistic people’s perspectives and various sociocultural barriers that impact their well-bei…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10395,27 +10469,6 @@
       "url": "https://doi.org/10.1080/20473869.2025.2585905",
       "neurotype": [
         "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251391618",
-      "title": "Identifying Suicidality in Autistic People and Discussing It with Them: A Qualitative Study",
-      "authors": [
-        "Jaymie Huckridge",
-        "Julie Steel",
-        "Dawn Howard"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-11-13",
-      "doi": "10.1177/25739581251391618",
-      "url": "https://doi.org/10.1177/25739581251391618",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
       ],
       "framing": "Neurodiversity-informed"
     }
