@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T07:07:30Z",
+  "generated_at": "2026-03-15T07:14:16Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -118,6 +118,77 @@
         "Communication"
       ],
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
+    },
+    {
+      "id": "10.1007/s10803-026-07277-5",
+      "title": "Discourse Marker Use in Mothers of Autistic Individuals and FMR1 Premutation Carriers",
+      "authors": [
+        "Nell Maltman",
+        "Gary E. Martin",
+        "Jamie Barstein",
+        "Elizabeth Berry-Kravis",
+        "Molly Losh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-14",
+      "doi": "10.1007/s10803-026-07277-5",
+      "url": "https://doi.org/10.1007/s10803-026-07277-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261427260",
+      "title": "“You Become Yourself, Your Full Self, the True Self”: A Systematic Review of Neurodivergent Adults’ Experiences of Identity Reconstruction Following Diagnosis of Autism and/or ADHD in Adulthood",
+      "authors": [
+        "Phoebe Meldrum",
+        "Beth P. Johnson",
+        "Barbara Chuen Yee Lo",
+        "Meagan Louise Bedelis",
+        "Aspasia Stacey Rabba"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-03-14",
+      "doi": "10.1177/25739581261427260",
+      "url": "https://doi.org/10.1177/25739581261427260",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Growing numbers of adults are being diagnosed as autistic or having ADHD later in life, leading to a range of emotional responses and queries around identity. This review explores the process of identity reconstruction in late-diagnosed autistic and ADHD adults, examining both shared and distinct aspects of identity in each group, to better understand how diagnosis affects self-perception and to guide future post-diagnostic support. Methods: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) and Joanna Briggs Institute (JBI) guidelines, we entered search terms relevant to autism, ADHD, delayed diagnosis, and identity into multiple databases. After screening titles and abstracts, two raters reviewed full-text articles to determine their inclusion with substantial inter-rater reliability. We extracted and coded qualitative data, with themes identified through thematic analysis. Results: The search strategy identified a total of 6894 articles, of which 5470 were duplicates. Reviewers screened 1423 articles. A final set of 25 articles was identified, with 12 articles exploring ADHD diagnoses and 13 articles exploring autism diagnoses. Our…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2639436",
+      "title": "Systematic literature review on distance learning for autistic students",
+      "authors": [
+        "Anna-Maria Velentza",
+        "Maria Tomprou",
+        "Nikolaos Fachantidis",
+        "Christian Takow",
+        "Aurélie Baranger",
+        "Simone Zorzi",
+        "Aivars Kaupuzs",
+        "Stylianos Stylianou",
+        "Fernando Delgado Santos",
+        "Ma da Glória Leite",
+        "Ioanna Matouli",
+        "Ioanna Dagdileli"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-03-14",
+      "doi": "10.1080/20473869.2026.2639436",
+      "url": "https://doi.org/10.1080/20473869.2026.2639436",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261426099",
@@ -876,31 +947,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -929,6 +975,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -4035,33 +4106,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -4089,6 +4133,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -4758,50 +4829,6 @@
       ],
       "abstract": "This study examined how parents of children with and without an autism diagnosis respond to their children’s negative emotions. Specifically, we (1) compared levels of supportive, non-supportive, and distress reactions; (2) tested whether child characteristics (autism traits and emotion dysregulation) predicted parent responses; and (3) explored whether autism diagnosis moderated these associations. Participants were 1780 parents of 2- to 5-year-old children from the United States (812 with an autism diagnosis). Parents completed the Coping with Children’s Negative Emotions Scale and reported on children’s autism traits and emotion dysregulation. Results indicated that parents of autistic children reported slightly more supportive and less non-supportive and distress responses than parents of children without a diagnosis. Associations between child characteristics and parent responses differed by diagnostic group: parents of children without a diagnosis who had more autism traits reported more non-supportive and distress responses, while these associations were weaker or non-existent for parents of children with a diagnosis. Emotion dysregulation was also associated with parent res…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251389291",
-      "title": "Intersectional effects of race and gender on first impressions of Black and White autistic adults",
-      "authors": [
-        "Desiree R. Jones",
-        "Noah J. Sasson"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251389291",
-      "url": "https://doi.org/10.1177/13623613251389291",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Non-autistic adults often harbor negative attitudes about autism and show a reluctance to interact with autistic people. For autistic people with multiple marginalized identities, the compounding effects of stigma based on race and disability may worsen peer attitudes. This study investigated first impressions of Black and White autistic adults made by non-autistic observers. Autistic adults ( N = 29) stratified by race (15 Black, 14 White) completed a videotaped semi-structured conversation, and non-autistic raters provided their first impressions of each participant. Black autistic people were rated as more likable and trustworthy, and raters endorsed a greater interest in interacting with them, compared to White autistic people. Evidence of intersectional effects of race, gender, and autism was also observed. White autistic men, but not Black autistic men, were evaluated less favorably than non-male autistic participants, with Black autistic men being evaluated more favorably on some items. These results suggest that the intersection of race and autism may, in some cases, counter stereotypes about Blackness and autism, and that holding multiple marginalized identities can modify…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251391492",
-      "title": "Exploring auditory perception experiences in daily situations in autistic adults",
-      "authors": [
-        "Elena Sofia Silva",
-        "Linda Drijvers",
-        "James P Trujillo"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251391492",
-      "url": "https://doi.org/10.1177/13623613251391492",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Autistic individuals often show differential sensory perception, including hypo- or hypersensitivities to sound. Previous research also suggests that autistic individuals often have difficulty processing intentional and affective cues in speech acoustics. However, general speech processing difficulties remain underexplored. We investigated self-reported auditory perception using the Speech, Spatial, and Qualities of Hearing Questionnaire among autistic (self-identifying ( n = 18) and clinically diagnosed ( n = 45)) and non-autistic adults ( N = 66). The study was conducted in the Netherlands, but the questionnaire and call for participation were in English and open to anyone regardless of country of residence. Both clinically diagnosed and self-identifying individuals with autism reported significantly lower scores on the Speech, Spatial, and Qualities of Hearing Questionnaire score and on the Speech subscale compared with non-autistic individuals, indicating challenges in overall quality of auditory perception, speech comprehension. Clinically diagnosed individuals also showed lower scores on the quality and spatial subscales compared with non-autistic individuals. Post hoc analys…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1089/aut.2024.0148",
@@ -7286,24 +7313,6 @@
       "abstract": "Purpose This study aims to examine the increased focus on neurodiversity in contemporary businesses. It shows how inclusive policies can capitalize on the special abilities of people with neurodiverse backgrounds, including their extraordinary problem-solving abilities, meticulous attention to detail and creative thinking. These policies benefit the individuals and contribute to a more diverse and innovative workplace. Design/methodology/approach Data was collected through semistructured interviews with HR experts and neurodivergent employees. The qualitative data were manually analyzed and coded, and themes were identified. Findings The results highlight the significant benefits of accepting neurodiversity in the workplace, enlightening the audience about its potential. For instance, artificial intelligence (AI) can be used to anonymize resumes, removing potential biases related to gender, ethnicity or age. In addition, AI can help in identifying the unique skills and strengths of neurodivergent employees, enhancing the fit between job responsibilities and their abilities. This study also emphasizes the wider effects of accepting neurodiversity on employee satisfaction, productivi…"
     },
     {
-      "id": "10.1108/aia-08-2025-0085",
-      "title": "Co-occurrence of complex emotional needs, autism spectrum disorder and gender diversity: a service audit",
-      "authors": [
-        "Ethan Barr",
-        "Andrew White"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-08-2025-0085",
-      "url": "https://doi.org/10.1108/aia-08-2025-0085",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Gender identity is an integral part of individuals’ self-conceptualisation. This paper aims to explore the correlation of co-occurring complex emotional needs (CEN; consistent with a diagnosis of personality disorder), autism spectrum disorder (ASD) and gender diversity in a sample of adult community service-users referred to a CEN team. Design/methodology/approach A 52-month retrospective audit was conducted where all participants met diagnostic threshold for a CEN diagnosis, focusing on presence of ASD and gender identity. Additional comorbidities are reported. Findings In total, 553 referrals were assessed, a small number of whom identified as gender diverse (n = 23, 4.2%). A modest, significant correlation is reported between gender identity and ASD. Suggestions for potential aetiological considerations are briefly given, though further research on a larger scale should be undertaken to explore whether this correlation persists, and if so, potential factors leading to this. Originality/value The authors understand that this is the first study of its kind to explore this area of overlap of CEN, ASD and gender identity extending this past the male–female binary.",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07138-7",
       "title": "Correction: Eye Tracking Screening for ASD in Nursery: Is Early Diagnosis Possible? A Large-scale Real-life Experiment",
       "authors": [
@@ -9485,26 +9494,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1002/aur.70141",
-      "title": "Eye Tracking as a Treatment Monitoring Tool for Autism: A Multilevel Meta‐Analysis",
-      "authors": [
-        "Christy D. Yoon",
-        "Yan Xia",
-        "Adriana Kaori Terol",
-        "Hedda Meadan",
-        "Frederick Shic"
-      ],
-      "journal": "Autism Research",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1002/aur.70141",
-      "url": "https://doi.org/10.1002/aur.70141",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT There is a growing body of evidence suggesting a concurrent association between attentional indices measured via eye tracking and autism symptoms. This meta‐analysis examined the utility of eye tracking within longitudinal frameworks for autism interventions, including treatment monitoring and prediction of treatment response. We conducted a multivariate random‐effects meta‐analysis with a multilevel structure on 25 studies (828 autistic participants; M age = 3–28 years) to estimate: (a) changes in eye‐tracking outcomes from pre‐ to post‐treatment ( k = 179); and (b) the correlation between baseline eye‐tracking profiles and changes in developmental outcomes following treatment ( k = 39). Our analysis revealed a moderate and significant summary effect size for changes in eye‐tracking outcomes from pre‐ to post‐treatment (Hedge's g = 0.32, p = 0.010). Additionally, a moderate but non‐significant summary effect size was revealed for the correlation between baseline eye‐tracking outcomes and changes in developmental outcomes following treatment (Fisher's z = 0.20, p = 0.115), with moderation effects observed based on developmental domain and sex. These findings highlight the…"
-    },
-    {
       "id": "10.1177/13623613251394558",
       "title": "Autistic young adults’ routine travel pre- and post-license",
       "authors": [
@@ -10398,78 +10387,6 @@
         "communication"
       ],
       "abstract": "The World Health Organization’s International Classification of Functioning, Disability and Health (ICF) aligns with the neurodiversity paradigm in viewing autistic people’s social communication holistically and in a strength-based manner. In this scoping review, we explored how social communication interventions for autistic children and youth map onto the domains of the International Classification of Functioning, Disability and Health in the field of speech-language pathology. OVID Medline, OVID Embase, OVID PsycINFO and Web of Science databases were searched to identify relevant articles. Population, intervention and study data were extracted, as well as data on each of the International Classification of Functioning, Disability and Health domains related to the social communication interventions. In total, 21 articles were included in our analysis. No studies explicitly mentioned the International Classification of Functioning, Disability and Health. All the studies focused on participation and environmental factors (e.g., people’s attitudes, physical environment), and some studies discussed other International Classification of Functioning, Disability and Health domains such…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-025-00527-9",
-      "title": "The Challenges of Mainstream Secondary School: A Synthesis of Qualitative Views from Autistic Students",
-      "authors": [
-        "Megan Exley",
-        "Gavin Morgan"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-14",
-      "doi": "10.1007/s40489-025-00527-9",
-      "url": "https://doi.org/10.1007/s40489-025-00527-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Mental health",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Abstract The current review synthesises research exploring the views from autistic students about their experiences in mainstream education. Autistic students experience significantly higher rates of mental health difficulties compared with their neurotypical peers and are vastly overrepresented in permanent exclusions. Research has identified low sense of belonging as a common experience among excluded students; however, there remains a relative paucity of research exploring autistic students’ perspectives on their educational experiences. It is therefore important to undertake a review of research exploring autistic students’ views on the challenges of mainstream secondary school in order to identify the potential barriers to their sense of belonging and psychological wellbeing. Fourteen studies were critically appraised in relation to the review question, and an adapted version of thematic synthesis was utilised to synthesise the findings. Twelve descriptive themes emerged from the data, which were conceptualised into four analytical themes: ‘feeling unsupported and misunderstood by peers’, ‘experiencing sensory overload in the school environment’, ‘feeling inappropriately suppo…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-025-00532-y",
-      "title": "To Play or Not to Play: A Systematic Review of Digital Games in the Educational Curriculum for Children with Autism Spectrum Disorder and/or Intellectual Disabilities",
-      "authors": [
-        "Sally Whelan",
-        "Jennifer Biggins",
-        "Róisín Bourke",
-        "Aisling Clancy",
-        "Emily Clinton",
-        "Eimear Clogher",
-        "Li Tao",
-        "Arlene Mannion",
-        "Emily Barrett",
-        "Geraldine Leader"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-14",
-      "doi": "10.1007/s40489-025-00532-y",
-      "url": "https://doi.org/10.1007/s40489-025-00532-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2025.2585905",
-      "title": "Academic engagement of autistic students in inclusive classrooms: a systematic review",
-      "authors": [
-        "Yue Zhang",
-        "Tong Zheng",
-        "Chunling Liu"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-11-14",
-      "doi": "10.1080/20473869.2025.2585905",
-      "url": "https://doi.org/10.1080/20473869.2025.2585905",
-      "neurotype": [
-        "Autism"
-      ],
       "framing": "Neurodiversity-informed"
     }
   ]
