@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T07:14:16Z",
+  "generated_at": "2026-03-16T07:48:52Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -118,6 +118,55 @@
         "Communication"
       ],
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
+    },
+    {
+      "id": "10.1177/25739581261426633",
+      "title": "Crafting Livable Worlds: Sensory, Creative, and Nonhuman Supports in Autistic Adults’ Everyday Lives",
+      "authors": [
+        "Megan Catherine Rose",
+        "Deborah Lupton"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-03-15",
+      "doi": "10.1177/25739581261426633",
+      "url": "https://doi.org/10.1177/25739581261426633",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Background: Many autistic adults still live in worlds that don’t understand or accommodate their sensory needs, creative interests, or ways of structuring everyday life. We explored how autistic adults use nonhuman supports such as objects, plants, animals, creative activities, and structured routines to navigate sensory and emotional demands and sustain their well-being. Methods: Led by an autistic researcher, we conducted qualitative interviews with 12 autistic adults in Australia to reveal how everyday nonhuman supports helped them manage overwhelm, reduce decision fatigue, and affirm personal identity. Results: Participants described sensory rituals including brewing tea in a familiar mug, tending to gardens, or carrying plush toys, alongside creative pursuits such as drawing, replaying games, and decorating spaces with bright character-themed items. Many also developed tailored systems, using planners, checklists, and structured shopping, to ease executive functioning challenges. However, the use of these supports was often stigmatized and incurred scrutiny from others. Participants worried that plushies or playful décor might be judged as childish or unprofessional. In the fa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70221",
+      "title": "Adverse Childhood Experiences in Autistic and Neurotypical Girls",
+      "authors": [
+        "Jon Ebert",
+        "Rachael A. Muscatello",
+        "Trey McGonigle",
+        "Simon Vandekar",
+        "Blythe A. Corbett"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-15",
+      "doi": "10.1002/aur.70221",
+      "url": "https://doi.org/10.1002/aur.70221",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT Adverse childhood experiences (ACEs) are potentially traumatic, life‐altering events that occur in childhood with long‐term negative physical and/or mental health outcomes. Previous research, while limited and largely focused on males, suggests children with autism spectrum disorder (ASD) are at higher risk of experiencing ACEs than typically developing (TD) peers. The study aimed to enhance our understanding of ACEs by focusing on female participants comparing diagnostic (ASD, TD), developmental (age, puberty), and mental health (anxiety, depression) factors. Participants included 212 female children with ASD ( N = 112) or TD ( N = 100) between 6:0 to 12:11 years. Following diagnostic testing, the 10‐item ACEs questionnaire was administered. Statistical analyses included Wilcoxon rank‐sum tests, negative‐binomial models, linear regression, and Spearman correlations. There was a significant group difference in the total number of ACEs such that autistic children had more parent‐reported total adverse events ( p = 0.024). There were no significant diagnosis by age or puberty stage interactions ( p &gt; 0.05). Depressive symptoms were significantly positively associated with…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07277-5",
@@ -8873,27 +8922,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -8916,6 +8944,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
