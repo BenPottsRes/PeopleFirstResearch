@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T07:18:57Z",
+  "generated_at": "2026-03-19T07:15:31Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -118,6 +118,158 @@
         "Communication"
       ],
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
+    },
+    {
+      "id": "10.1007/s10803-026-07268-6",
+      "title": "FIRST STEPS: A Pilot Randomized Study Analyzing the Preliminary Efficacy of the Incredible Years for Autism Spectrum and Language Delays (IY-ASLD®)",
+      "authors": [
+        "Fátima Valencia-Agudo",
+        "Laia Villalta-Macià",
+        "Elena Urbiola-Merina",
+        "Alexandra Garriz-Luis",
+        "Laura López-Moreno",
+        "Mar Rivas-Rodríguez",
+        "Mara Parellada",
+        "Marina Romero-González"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-18",
+      "doi": "10.1007/s10803-026-07268-6",
+      "url": "https://doi.org/10.1007/s10803-026-07268-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261434406",
+      "title": "Provision of Alternative Care for Autistic Adults: A Multi-Stakeholder Qualitative Study in China",
+      "authors": [
+        "Xi Wang",
+        "Xiaoli Guo"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-18",
+      "doi": "10.1177/13623613261434406",
+      "url": "https://doi.org/10.1177/13623613261434406",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Providing alternative care for autistic adults unable to live with their biological families remains a low priority, particularly for those requiring high support. This population often receives inadequate attention despite its significant and long-term developmental needs. Using an exploratory qualitative design with ethnographic methods, this study conducted directed content analysis on data collected through 4 months of participant observation and 36 semi-structured interviews across four Chinese cities. The findings reveal that small-group alternative care emphasizes the physical and psychological development of autistic adults. However, charitable expectations among alternative care institutions and charitable donors lag behind the actual care needs of autistic adults with high support needs, limiting resource efficiency. The “present bias” diminishes recognition of the long-term societal benefits of developmental care. In developing contexts, achieving cohesive and sustainable nursing strategies led by non-state actors is crucial. A misalignment between charitable motivations and developmental priorities creates a “care sustainability gap” that threatens the continuity and ef…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261433084",
+      "title": "Rethinking Employment Research on Autism: A Scientometric Analysis of Paradigm Change",
+      "authors": [
+        "Dagmara Dimitriou",
+        "Yiqing Zhong",
+        "Alessandro Carollo",
+        "Gianluca Esposito",
+        "Hussain A. Almalky"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-03-18",
+      "doi": "10.1177/25739581261433084",
+      "url": "https://doi.org/10.1177/25739581261433084",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Background: Autistic adults experience disproportionately low employment rates, shaped by systemic and structural barriers that extend beyond individual skills. Although research on autism and employment has grown, it remains fragmented across disciplines and undersynthesized. Addressing these gaps requires not only stronger empirical evidence but also reflection on how knowledge in this field is organized and shared. Methods: We analyzed 1279 publications on autism and employment (1982–2025) indexed in Scopus. Document co-citation analysis was conducted in CiteSpace, supported by citation burst detection, dual-map overlays, examination of journal productivity, and international collaboration. Results: The analysis revealed three broad stages of development: individual-focused intervention, sociocontextual framing, and organizational inclusion. Thematic clusters showed a shift from behavioral and skill-based interventions to neurodiversity-informed approaches, emphasizing discrimination, the double empathy problem, and inclusive employment practices. However, research remains fragmented, dominated by Western perspectives, and limited in autistic-led contributions. Conclusions: This…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261434408",
+      "title": "<i>Letter:</i>\n                    Pica Diagnosis Codes Added for Fiscal Year 2025: Research and Practice Implications for Autistic Adults",
+      "authors": [
+        "Eliana G. Benevides",
+        "Teal W. Benevides"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-03-18",
+      "doi": "10.1177/25739581261434408",
+      "url": "https://doi.org/10.1177/25739581261434408",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2645076",
+      "title": "Oral and written language skills with autism spectrum disorder: the role of speech perception in noise",
+      "authors": [
+        "Nedim Turğut",
+        "Müge Müzeyyen Çiyiltepe"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-03-18",
+      "doi": "10.1080/20473869.2026.2645076",
+      "url": "https://doi.org/10.1080/20473869.2026.2645076",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1186/s11689-026-09685-1",
+      "title": "Beta power as a neural correlate of sensory features in autistic individuals",
+      "authors": [
+        "Julie Chaudet",
+        "Julien Pichot",
+        "Amandine Pedoux",
+        "Mathis Fleury",
+        "Anna Maruani",
+        "Valérie Vantalon",
+        "Elise Humeau",
+        "Thomas Bourgeron",
+        "Josselin Houenou",
+        "Guillaume Dumas",
+        "Edouard Duchesnay",
+        "Richard Delorme",
+        "Anton Iftimovici",
+        "Aline Lefebvre"
+      ],
+      "journal": "Journal of Neurodevelopmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-18",
+      "doi": "10.1186/s11689-026-09685-1",
+      "url": "https://doi.org/10.1186/s11689-026-09685-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07288-2",
@@ -2085,6 +2237,138 @@
       "abstract": "Object: Temperament provides a valuable framework for understanding ADHD across the lifespan, as extreme temperamental traits are considered etiological risk factors. The dual-pathway model links specific temperamental traits to ADHD symptom domains: elevated reactive traits, surgency and negative affect, to hyperactivity/impulsivity, and a low regulatory trait, effortful control, to inattention. Method: One hundred fifty-eight adults (79 with clinical diagnoses of ADHD and 79 controls) filled in the Adult Temperament Questionnaire. Consistent with a compensatory extension of the dual-pathway model, it was hypothesized that effortful control would moderate the effects of reactive traits (surgency/negative affect) on hyperactive/impulsive symptoms and influence both ADHD symptom domains. For exploratory purposes, orienting sensitivity, an adult temperament factor related to perceptual sensitivity, was included in the analyses. Results: Binary logistic regression identified lower effortful control as the strongest predictor of an ADHD diagnosis. Negative affect had a significant but small effect, while surgency and orienting sensitivity were non-significant. Two hierarchical regressi…"
     },
     {
+      "id": "10.1002/aur.70185",
+      "title": "Examining the Relationship Between Social Motivation and Internalizing Symptoms in Autistic People: A Systematic Review and Meta‐Analysis",
+      "authors": [
+        "Katie Lindsay‐Webb",
+        "Poppy Clayton",
+        "Emily Simonoff",
+        "Matthew J. Hollocks"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1002/aur.70185",
+      "url": "https://doi.org/10.1002/aur.70185",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT The social motivation theory hypothesizes that autistic individuals' experience diminished social motivation due to reduced social reward, social orienting, and social maintaining. Low social motivation has been linked to increased vulnerability to internalizing difficulties within this population. This systematic review and meta‐analysis examined the relationship between social motivation and internalizing symptoms across the lifespan in autistic individuals. Relevant research papers until February 2025 were identified by searching EMBASE, PsycINFO, PubMed, and Web of Science databases (PROSPERO protocol: CRD42024547863). The systematic review included 14 studies ( n = 4590). A total of three meta‐analyses were run using Pearson's correlation coefficients between social motivation and (1) anxiety, (2) depression, and (3) social anxiety, and the moderating effect of age, sex, and study quality were assessed using meta‐regressions. Sensitivity analyses were run to assess whether one study was influencing the results of the meta‐analysis. Greater difficulties with social motivation are associated with increased anxiety, depression, and social anxiety, with a moderate pooled…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70192",
+      "title": "<scp>\n                      ToM\n                      <sup>2</sup>\n                    </scp>\n                    : Parental Perception of Theory of Mind Abilities in Autistic Children",
+      "authors": [
+        "Liraz Sasportas Joseph",
+        "Michal Perez",
+        "Anat Perry",
+        "Judah Koller"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1002/aur.70192",
+      "url": "https://doi.org/10.1002/aur.70192",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Understanding how parents perceive their children's abilities is crucial for family dynamics and intervention strategies, particularly in autism, where accurate parental assessment of social‐cognitive capabilities can influence support approaches and developmental outcomes. This study introduces ToM 2 , a novel measure examining parents' ability to predict their autistic child's Theory of Mind (ToM) performance, representing a form of mentalization that requires parents to evaluate how their child understands others' mental states. We recruited 54 parent–child dyads (43 included in final analyses) from families with children diagnosed with autism (ages 42–70 months). Children completed a six‐task ToM scale, while parents predicted their child's responses to each task. ToM 2 accuracy was calculated based on the match between parental predictions and child performance. We examined the relationships between ToM 2 accuracy and family accommodation for restricted and repetitive behaviors, autism symptom severity, and parental broader autism phenotype characteristics using logistic mixed‐effects modeling. Results revealed that parents with higher levels of family accommodation d…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70175",
+      "title": "Cognitive and Affective Predictors of Restricted and Repetitive Behaviors and Interests in Very Young Autistic Children",
+      "authors": [
+        "Nasim Sheikhi",
+        "Gina Schnur",
+        "Susan Faja"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1002/aur.70175",
+      "url": "https://doi.org/10.1002/aur.70175",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "ABSTRACT The development of distinct restricted and repetitive behaviors and interests (RRBIs) is well‐studied in autism, but their relationship to cognitive and affective development in young autistic children is unknown. This cross‐sectional study examined how higher‐order RRBIs (e.g., circumscribed interests and insistence on sameness) and sensorimotor RRBIs (e.g., stereotyped movements and sensory preoccupations) relate to concurrent developmental level, executive function, temperament, and internalizing and externalizing behaviors in autistic toddlers and preschoolers. 143 2‐ and 4‐year‐old autistic children with developmental levels of at least 12 months completed a battery of executive function tasks, and caregivers completed interviews and questionnaires regarding their children's autistic features and affective functioning. Higher‐order RRBIs, but not sensorimotor RRBIs, were related to age and developmental level. In the 2‐year cohort, discomfort and executive function related to higher‐order RRBIs, as well. Hyperactivity related to sensorimotor RRBIs in both cohorts, and discomfort also related to sensorimotor RRBIs in the 4‐year‐olds. These findings suggest that tempera…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70188",
+      "title": "Cognitive Abilities and Irritability Are the Main Factors Influencing Initial Placement of Autistic Preschoolers in Special or Mainstream Education in Israel",
+      "authors": [
+        "Moran Bachrach",
+        "Michal Ilan",
+        "Michal Faroy",
+        "Analya Michaelovsky",
+        "Dikla Zagdon",
+        "Yair Sadaka",
+        "Omer Bar Yosef",
+        "Adi Aran",
+        "Michal Begin",
+        "Ditza Zachor",
+        "Einat Avni",
+        "Judah Koller",
+        "Idan Menashe",
+        "Gal Meiri",
+        "Ilan Dinstein"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1002/aur.70188",
+      "url": "https://doi.org/10.1002/aur.70188",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "ABSTRACT Following diagnosis, autistic children are often placed in preschool settings that vary along a continuum from exclusive special education to inclusive mainstream education. These settings differ in their staff composition and expertise, ability to implement structured autism interventions, ability to integrate autistic and typically developing children, and costs. Here, we examined whether there were significant differences in the behavioral abilities and developmental difficulties of children placed in special versus mainstream public education in Israel, where there is a systematic dichotomy between the two educational settings. We analyzed data from 165 autistic children, 120 in special and 45 in mainstream education, who completed comprehensive behavioral assessments at a mean age of 37.8 months, as they entered their first preschool setting. Children placed in special education exhibited significantly poorer cognitive abilities and higher irritability and hyperactivity than children in mainstream education while there were no significant differences in autism severity or adaptive behaviors across groups. Moreover, cognitive and irritability scores were sufficient for…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70191",
+      "title": "Optimizing Measurement of Communication in Autistic Children and Their Caregivers: Dependability of the Caregiver‐Child Interaction",
+      "authors": [
+        "Lauren H. Hampton",
+        "Anna‐Mari Fall",
+        "Jerrica Butler",
+        "Greg Roberts",
+        "Younghwa Noh"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-01",
+      "doi": "10.1002/aur.70191",
+      "url": "https://doi.org/10.1002/aur.70191",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Service design"
+      ],
+      "tags": [
+        "communication",
+        "service improvement"
+      ],
+      "abstract": "ABSTRACT Despite widespread use of caregiver‐child interactions (CCX) to evaluate outcomes in autism interventions, little research has examined the dependability of this measure. This study applied generalizability theory to determine optimal conditions for dependable assessment of child communication and caregiver implementation of communication intervention strategies. Twenty caregiver‐child dyads participated in structured interactions across six daily activities on two occasions. Young autistic child communication was measured via tele‐health using the Individual Growth and Development Indicators (IGDI) and caregiver implementation using the Naturalistic Developmental Behavioral Intervention Fidelity (NDBI‐Fi) scale. Both measures demonstrated strong generalizability when multiple observations were conducted, but significantly lower dependability with single observations. For child communication, three to five activities across two occasions provided optimal dependability ( Φ = 0.69–0.82). For caregiver implementation, either four activities on one occasion ( Φ = 0.80) or two activities across two occasions ( Φ = 0.81) yielded dependable estimates. The greatest sources of erro…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07270-y",
       "title": "Exploring Correlations of Unemployment, Underemployment, and Well-Being Among Autistic Job Seekers by Race in the United States",
       "authors": [
@@ -3715,29 +3999,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70185",
-      "title": "Examining the Relationship Between Social Motivation and Internalizing Symptoms in Autistic People: A Systematic Review and Meta‐Analysis",
-      "authors": [
-        "Katie Lindsay‐Webb",
-        "Poppy Clayton",
-        "Emily Simonoff",
-        "Matthew J. Hollocks"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-11",
-      "doi": "10.1002/aur.70185",
-      "url": "https://doi.org/10.1002/aur.70185",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT The social motivation theory hypothesizes that autistic individuals' experience diminished social motivation due to reduced social reward, social orienting, and social maintaining. Low social motivation has been linked to increased vulnerability to internalizing difficulties within this population. This systematic review and meta‐analysis examined the relationship between social motivation and internalizing symptoms across the lifespan in autistic individuals. Relevant research papers until February 2025 were identified by searching EMBASE, PsycINFO, PubMed, and Web of Science databases (PROSPERO protocol: CRD42024547863). The systematic review included 14 studies ( n = 4590). A total of three meta‐analyses were run using Pearson's correlation coefficients between social motivation and (1) anxiety, (2) depression, and (3) social anxiety, and the moderating effect of age, sex, and study quality were assessed using meta‐regressions. Sensitivity analyses were run to assess whether one study was influencing the results of the meta‐analysis. Greater difficulties with social motivation are associated with increased anxiety, depression, and social anxiety, with a moderate pooled…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261416672",
       "title": "The relationship between age of autism diagnosis and life satisfaction in adulthood",
       "authors": [
@@ -3846,26 +4107,6 @@
         "communication"
       ],
       "abstract": "Background: Prior work reports a relative age effect (RAE), in which children are more likely to be diagnosed with Attention-Deficit/Hyperactivity Disorder (ADHD) if they are relatively younger than their classmates. Yet work reporting a RAE in ADHD diagnosis has analyzed relatively dated samples, has not examined moderation across sociodemographic characteristics, and has largely not examined the RAE in longitudinal analyses. We examined whether entering kindergarten as a relatively younger student increased the likelihood being diagnosed with ADHD across elementary school. We also examined moderation by race and ethnicity, biological sex, socioeconomic status, and home language. Methods: We analyzed data from the Early Childhood Longitudinal Study–Kindergarten Cohort (ECLS-K: 2011; N = 11,410), a nationally representative cohort. Logistic regression models estimated relations between children’s relative age and both grade-specific and cumulative ADHD diagnoses during elementary school. Discrete-time event history logit regression models examined the timing of ADHD diagnosis from kindergarten through fifth grade. Interaction terms assessed moderation by sociodemographic characteri…"
-    },
-    {
-      "id": "10.1002/aur.70192",
-      "title": "<scp>\n                      ToM\n                      <sup>2</sup>\n                    </scp>\n                    : Parental Perception of Theory of Mind Abilities in Autistic Children",
-      "authors": [
-        "Liraz Sasportas Joseph",
-        "Michal Perez",
-        "Anat Perry",
-        "Judah Koller"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-10",
-      "doi": "10.1002/aur.70192",
-      "url": "https://doi.org/10.1002/aur.70192",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Understanding how parents perceive their children's abilities is crucial for family dynamics and intervention strategies, particularly in autism, where accurate parental assessment of social‐cognitive capabilities can influence support approaches and developmental outcomes. This study introduces ToM 2 , a novel measure examining parents' ability to predict their autistic child's Theory of Mind (ToM) performance, representing a form of mentalization that requires parents to evaluate how their child understands others' mental states. We recruited 54 parent–child dyads (43 included in final analyses) from families with children diagnosed with autism (ages 42–70 months). Children completed a six‐task ToM scale, while parents predicted their child's responses to each task. ToM 2 accuracy was calculated based on the match between parental predictions and child performance. We examined the relationships between ToM 2 accuracy and family accommodation for restricted and repetitive behaviors, autism symptom severity, and parental broader autism phenotype characteristics using logistic mixed‐effects modeling. Results revealed that parents with higher levels of family accommodation d…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07237-z",
@@ -4274,22 +4515,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -4310,6 +4535,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -4808,32 +5049,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70175",
-      "title": "Cognitive and Affective Predictors of Restricted and Repetitive Behaviors and Interests in Very Young Autistic Children",
-      "authors": [
-        "Nasim Sheikhi",
-        "Gina Schnur",
-        "Susan Faja"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1002/aur.70175",
-      "url": "https://doi.org/10.1002/aur.70175",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "ABSTRACT The development of distinct restricted and repetitive behaviors and interests (RRBIs) is well‐studied in autism, but their relationship to cognitive and affective development in young autistic children is unknown. This cross‐sectional study examined how higher‐order RRBIs (e.g., circumscribed interests and insistence on sameness) and sensorimotor RRBIs (e.g., stereotyped movements and sensory preoccupations) relate to concurrent developmental level, executive function, temperament, and internalizing and externalizing behaviors in autistic toddlers and preschoolers. 143 2‐ and 4‐year‐old autistic children with developmental levels of at least 12 months completed a battery of executive function tasks, and caregivers completed interviews and questionnaires regarding their children's autistic features and affective functioning. Higher‐order RRBIs, but not sensorimotor RRBIs, were related to age and developmental level. In the 2‐year cohort, discomfort and executive function related to higher‐order RRBIs, as well. Hyperactivity related to sensorimotor RRBIs in both cohorts, and discomfort also related to sensorimotor RRBIs in the 4‐year‐olds. These findings suggest that tempera…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-025-07147-6",
@@ -5686,40 +5901,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70188",
-      "title": "Cognitive Abilities and Irritability Are the Main Factors Influencing Initial Placement of Autistic Preschoolers in Special or Mainstream Education in Israel",
-      "authors": [
-        "Moran Bachrach",
-        "Michal Ilan",
-        "Michal Faroy",
-        "Analya Michaelovsky",
-        "Dikla Zagdon",
-        "Yair Sadaka",
-        "Omer Bar Yosef",
-        "Adi Aran",
-        "Michal Begin",
-        "Ditza Zachor",
-        "Einat Avni",
-        "Judah Koller",
-        "Idan Menashe",
-        "Gal Meiri",
-        "Ilan Dinstein"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-01-30",
-      "doi": "10.1002/aur.70188",
-      "url": "https://doi.org/10.1002/aur.70188",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "ABSTRACT Following diagnosis, autistic children are often placed in preschool settings that vary along a continuum from exclusive special education to inclusive mainstream education. These settings differ in their staff composition and expertise, ability to implement structured autism interventions, ability to integrate autistic and typically developing children, and costs. Here, we examined whether there were significant differences in the behavioral abilities and developmental difficulties of children placed in special versus mainstream public education in Israel, where there is a systematic dichotomy between the two educational settings. We analyzed data from 165 autistic children, 120 in special and 45 in mainstream education, who completed comprehensive behavioral assessments at a mean age of 37.8 months, as they entered their first preschool setting. Children placed in special education exhibited significantly poorer cognitive abilities and higher irritability and hyperactivity than children in mainstream education while there were no significant differences in autism severity or adaptive behaviors across groups. Moreover, cognitive and irritability scores were sufficient for…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-025-07170-7",
       "title": "Sleep and Behaviour in Early Autism: Examining Bidirectional Associations Near Diagnosis",
       "authors": [
@@ -6011,35 +6192,6 @@
         "Education"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70191",
-      "title": "Optimizing Measurement of Communication in Autistic Children and Their Caregivers: Dependability of the Caregiver‐Child Interaction",
-      "authors": [
-        "Lauren H. Hampton",
-        "Anna‐Mari Fall",
-        "Jerrica Butler",
-        "Greg Roberts",
-        "Younghwa Noh"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-01-24",
-      "doi": "10.1002/aur.70191",
-      "url": "https://doi.org/10.1002/aur.70191",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Service design"
-      ],
-      "tags": [
-        "communication",
-        "service improvement"
-      ],
-      "abstract": "ABSTRACT Despite widespread use of caregiver‐child interactions (CCX) to evaluate outcomes in autism interventions, little research has examined the dependability of this measure. This study applied generalizability theory to determine optimal conditions for dependable assessment of child communication and caregiver implementation of communication intervention strategies. Twenty caregiver‐child dyads participated in structured interactions across six daily activities on two occasions. Young autistic child communication was measured via tele‐health using the Individual Growth and Development Indicators (IGDI) and caregiver implementation using the Naturalistic Developmental Behavioral Intervention Fidelity (NDBI‐Fi) scale. Both measures demonstrated strong generalizability when multiple observations were conducted, but significantly lower dependability with single observations. For child communication, three to five activities across two occasions provided optimal dependability ( Φ = 0.69–0.82). For caregiver implementation, either four activities on one occasion ( Φ = 0.80) or two activities across two occasions ( Φ = 0.81) yielded dependable estimates. The greatest sources of erro…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07227-1",
@@ -9117,6 +9269,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -9139,27 +9312,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10432,91 +10584,6 @@
         "Healthcare"
       ],
       "abstract": "Objective: ADHD and obesity frequently co-occur in children, yet differences in visceral adipose tissue (VAT) distribution between co-occurring ADHD + Obesity and obesity alone are incompletely characterized. This study compared depot-specific adiposity between these groups. Methods: This cross-sectional analysis (December 2022–2024, Beijing Children’s Hospital) included 306 children (6–12 years) stratified into: ADHD + Obesity ( n = 65), obesity-only ( n = 77), and Control ( n = 164). Body composition was assessed using bioelectrical impedance. Group comparisons for depot-specific adiposity and metabolic markers were performed using multivariable linear regression, adjusting for age, sex, and BMI z -score. Results: The ADHD + Obesity group exhibited significantly greater visceral adiposity than the Obesity-only group, as reflected by a 16.84 cm 2 larger visceral fat area (VFA) and a 1.03 kg/m 2 higher fat mass index (FMI). The ADHD + Obesity group also showed a more adverse metabolic profile, including elevated liver enzymes and fasting glucose. Conclusion: Excess visceral adiposity represents a distinct phenotypic feature of ADHD + Obesity. These findings support the need for int…"
-    },
-    {
-      "id": "10.1007/s10803-025-07120-3",
-      "title": "Facial Emotion Recognition in Neurodevelopmental Disorders: A Comparative Study in Children and Adolescents With and Without Autism, ADHD and Specific Learning Disorders",
-      "authors": [
-        "Giulia Crisci",
-        "Rachele Lievore",
-        "Irene C. Mammarella"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-18",
-      "doi": "10.1007/s10803-025-07120-3",
-      "url": "https://doi.org/10.1007/s10803-025-07120-3",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose Facial emotion recognition (FER) enables individuals to interpret emotions, predict intentions, and respond appropriately in social interactions. Difficulties with FER are often associated with neurodevelopmental conditions such as Autism Spectrum Disorder (ASD) and Attention-Deficit/Hyperactivity Disorder (ADHD), while less is known about its impact on individuals with Specific Learning Disorders (SLD). Few studies have compared FER across these groups. Methods To address this gap, we evaluated FER in 540 children and adolescents aged 8 to 16 years old autistic ( N = 80), ADHD ( N = 80), and SLD ( N = 80), compared to a control group (CG; N = 300), matched for age, sex and intelligence quotient. We used a FER task that varied in task type - matching (comparing whether two facial expressions convey the same or different emotions) vs. labeling (identifying the specific emotion depicted by a facial expression), emotions’ intensity (high vs. low), and type of emotion (anger, disgust, fear, happiness, sadness, surprise). Results Mixed-effects models revealed significant difficulties in the ASD and ADHD groups, particularly in the matching task. In contrast, the labelin…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07129-8",
-      "title": "Internet Guidance on Feeding for Parents of Children With Autism",
-      "authors": [
-        "Divya V. Nagarajan",
-        "Meredith Brinster",
-        "Amy Drayton",
-        "Jeffrey D. Shahidullah"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-18",
-      "doi": "10.1007/s10803-025-07129-8",
-      "url": "https://doi.org/10.1007/s10803-025-07129-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07128-9",
-      "title": "“More Than Just Taking Off Your Shoes”: A Mixed Methods Study of Cultural Adaptation Practices in the Autism Service System",
-      "authors": [
-        "Ana D. Dueñas",
-        "Laura R. Gómez",
-        "Melanie R. Martin Loya",
-        "Naima Bhana-Lopez",
-        "Richard A. Price",
-        "James D. Lee"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-18",
-      "doi": "10.1007/s10803-025-07128-9",
-      "url": "https://doi.org/10.1007/s10803-025-07128-9",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/10870547251389329",
-      "title": "Narrative and Non-Narrative Discourse Skills in ADHD Across the Lifespan: A Systematic Review of the Literature",
-      "authors": [
-        "Elizabeth Hill",
-        "Robert Wells",
-        "Wai Chen"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-18",
-      "doi": "10.1177/10870547251389329",
-      "url": "https://doi.org/10.1177/10870547251389329",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication",
-        "Quality of life"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Objective: Discourse-level language abilities are critical for successful participation in social, academic, and vocational pursuits. These abilities encompass both narrative and non-narrative genres, each serving distinct communicative functions. Narrative discourse involves spoken accounts of events or experiences, typically with a setting, characters, and a sequence of actions. Non-narrative discourse includes genres like explanations, arguments, and descriptions that convey information or ideas without a temporal structure. The aim of this review was to synthesise extant literature on discourse abilities of children and adults with ADHD across these genres. Methods: Systematic searches were conducted via CINAHL, PsycINFO, Medline, and ProQuest. The review adhered to PRISMA guidelines and was registered with PROSPERO [CRD 42022377007]. Results: Thirty-nine studies were included in our review. Most studies investigated the narrative abilities of children with ADHD. ADHD was associated with atypical verbal output, characterised by atypical brevity and verbosity, dysfluency, reduced syntactic complexity, and grammatical errors. Individuals with ADHD produced fewer pronouns and conj…"
     }
   ]
 }
