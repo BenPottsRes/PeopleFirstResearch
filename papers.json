@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T07:15:31Z",
+  "generated_at": "2026-03-20T07:14:22Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -118,6 +118,82 @@
         "Communication"
       ],
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
+    },
+    {
+      "id": "10.1007/s10803-026-07228-0",
+      "title": "Internal Consistency of Self-report Anxiety Measures for Autistic Adults Without Intellectual Disabilities: A Systematic Review and Meta-analysis",
+      "authors": [
+        "Laura Stanford",
+        "Alice Welham",
+        "Siânna Banks",
+        "Andrew Surtees"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-19",
+      "doi": "10.1007/s10803-026-07228-0",
+      "url": "https://doi.org/10.1007/s10803-026-07228-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Anxiety prevalence is higher for autistic adults than the general population, yet there is no consensus on whether self-report questionnaires provide internally consistent measurements. This review aimed to identify and narratively compare the internal consistency of all available self-report anxiety measures for autistic adults, and meta-analyse the measures with enough studies. Methods Six databases were searched to identify relevant literature. After eligibility criteria were applied, 27 articles were retained. Included papers were evaluated for risk of bias using bespoke criteria. Results The Generalised Anxiety Disorder seven-item questionnaire, Liebowitz Social Anxiety Scale, and Depression Anxiety Stress Scale (21-item – anxiety subscale [DASS-21]) were meta-analysed as they were examined in sufficient numbers of studies. Pooled Cronbach’s of 0.91 (CI 0.91–0.92), 0.97 (0.96–0.97), and 0.87 (0.83–0.92), respectively, were identified. Acceptable heterogeneity was found for all measures except the DASS-21 (I 2 = 95.4%). Pooled internal consistency was comparable to equivalent measures used with general population samples. A complementary narrative review reveal…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07307-2",
+      "title": "Emerging Discussions on Folinic Acid and Acetaminophen in Autism",
+      "authors": [
+        "Mustafa Balkanas",
+        "Gizem Durcan",
+        "Burak Doğangün"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-19",
+      "doi": "10.1007/s10803-026-07307-2",
+      "url": "https://doi.org/10.1007/s10803-026-07307-2",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261422944",
+      "title": "Facilitators, barriers, and strategies in implementing early intervention for children with autism spectrum disorder aged 0–6 years: A multicenter qualitative study using the consolidated framework for implementation research",
+      "authors": [
+        "Hongrui Zhu",
+        "Ka Yan Ho",
+        "Vivien Xi Wu",
+        "Jinlin Ye",
+        "Lin Xiao",
+        "Yunfan Li",
+        "Zhuojun Yu",
+        "Xingying Wang",
+        "Xianhong Li"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-19",
+      "doi": "10.1177/13623613261422944",
+      "url": "https://doi.org/10.1177/13623613261422944",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "service improvement"
+      ],
+      "abstract": "Autism spectrum disorder poses a growing global health challenge due to rising prevalence and significant disability burdens. Early intervention during the 0- to 6-year developmental window is critical to reduce individual, familial, and societal impacts. However, implementation gaps persist in China, particularly in resource-limited settings, where context-specific barriers and facilitators remain understudied. This multicenter qualitative study (July 12 to October 28, 2024.) across 11 cities in Hainan Province involved 47 stakeholders (4 policymakers, 13 managers, 13 practitioners, and 17 family caregivers of children with autism spectrum disorder aged 0–6 years). Semi-structured interviews guided by the Consolidated Framework for Implementation Research were complemented by document review and field observations, with data analyzed via template analysis. Key facilitators included government funding, stratified training, caregivers’ positive attitudes, and clear implementation standards. Barriers mainly included low social acceptance, regional resource disparities, workforce shortages, caregiver challenges, and limited evidence-based practice adoption. Four key strategies were id…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07268-6",
@@ -4515,6 +4591,22 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -4535,22 +4627,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -4648,6 +4724,36 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -4681,36 +4787,6 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7685,30 +7761,6 @@
       ]
     },
     {
-      "id": "10.1108/aia-05-2025-0046",
-      "title": "AI in creating inclusive work environments for neurodiverse employees",
-      "authors": [
-        "Ginu George",
-        "Mugdha Kulkarni",
-        "Bindi Varghese"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-05-2025-0046",
-      "url": "https://doi.org/10.1108/aia-05-2025-0046",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose This study aims to examine the increased focus on neurodiversity in contemporary businesses. It shows how inclusive policies can capitalize on the special abilities of people with neurodiverse backgrounds, including their extraordinary problem-solving abilities, meticulous attention to detail and creative thinking. These policies benefit the individuals and contribute to a more diverse and innovative workplace. Design/methodology/approach Data was collected through semistructured interviews with HR experts and neurodivergent employees. The qualitative data were manually analyzed and coded, and themes were identified. Findings The results highlight the significant benefits of accepting neurodiversity in the workplace, enlightening the audience about its potential. For instance, artificial intelligence (AI) can be used to anonymize resumes, removing potential biases related to gender, ethnicity or age. In addition, AI can help in identifying the unique skills and strengths of neurodivergent employees, enhancing the fit between job responsibilities and their abilities. This study also emphasizes the wider effects of accepting neurodiversity on employee satisfaction, productivi…"
-    },
-    {
       "id": "10.1007/s10803-025-07138-7",
       "title": "Correction: Eye Tracking Screening for ASD in Nursery: Is Early Diagnosis Possible? A Large-scale Real-life Experiment",
       "authors": [
@@ -10496,94 +10548,6 @@
         "lived experience"
       ],
       "abstract": "Objective: The goal of this review was to more clearly understand what encourages or discourages treatment adherence in individuals with ADHD across different points in life. Instead of simply listing barriers, we set out to identify true, evidence-based strategies that could help patients and clinicians maximize long-term dedication to care. Method: Following PRISMA guidelines, we systematically reviewed 52 peer-reviewed articles between 2014 and 2024. The primary sources used were five electronic databases (Scopus, Science Direct, PubMed, and Taylor &amp; Francis). The studies included heterogeneous age groups—children, adolescents, and adults—and had diverse methodologies ranging from randomized controlled trials to qualitative interviews. Results: Adherence to treatment for ADHD remains a problem, especially among teenagers. We organized the influencing factors into five main areas: sociodemographic, psychological/clinical features, medication-related issues, beliefs and attitudes, and broader systemic or environmental challenges. Conversely, interventions like pharmacological strategies, digital interventions and mobile-based reminders, psychoeducational and behavioral approac…"
-    },
-    {
-      "id": "10.1007/s10803-025-07126-x",
-      "title": "Autism Assessment From Home: Piloting a Brief, Remote Autism Observation for Children",
-      "authors": [
-        "Jennifer R. Bertollo",
-        "Megan Fok",
-        "Daniele C. Martino",
-        "Elizabeth A. DeLucia",
-        "Michael Bunis",
-        "Angela Scarpa"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-19",
-      "doi": "10.1007/s10803-025-07126-x",
-      "url": "https://doi.org/10.1007/s10803-025-07126-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose Since COVID-19, tele-based methods of autism assessment have been relied upon to a previously unparalleled degree; however, the need for such advancements is not new. Observation-based measures are a crucial component of face-to-face autism diagnostic evaluations, but few validated observation tools exist for remotely assessing autism across childhood, offering minimal guidance for older children and adolescents. Sanchez and Constantino previously validated a brief, face-to-face, clinician-facilitated observation coded according to the Childhood Autism Rating Scale, Second Edition (CARS-2). During the pandemic, this measure was adapted as a remote observation, but has yet to be validated in this format. Methods The current study validated this remote observation against the in-person Autism Diagnostic Observation Schedule, Second Edition (ADOS-2), in a sample of 30 children ages 1-16 years ( M = 7.25, SD = 4.05). Results The remote observation was highly correlated with the ADOS-2 ( r = .75, p &lt; .001) and Social Responsiveness Scale, Second Edition ( r = .74, p &lt; .001), and demonstrated acceptable sensitivity (88.9%) and specificity (80%) in predicting resear…"
-    },
-    {
-      "id": "10.1007/s10803-025-07132-z",
-      "title": "Age-Dependent Process Governs Executive Function Disability in Autistic Children",
-      "authors": [
-        "Andrey Vyshedskiy",
-        "Allegra Marsiglio",
-        "Sahil Batham",
-        "Alessandro Tagliavia",
-        "Rohan Venkatesh",
-        "Anel Tarakbay",
-        "Sagar Mundhia",
-        "Samarth Urs",
-        "Edward Khokhlovich",
-        "Eugene Pinsky"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-19",
-      "doi": "10.1007/s10803-025-07132-z",
-      "url": "https://doi.org/10.1007/s10803-025-07132-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2025.2581645",
-      "title": "Adaptation and validation of the Parenting Strategies Questionnaire in parents of children with autism spectrum disorder in Spain",
-      "authors": [
-        "Francisco Lucas Chinchilla Hernández",
-        "Emiliano Díez Villoria",
-        "Ricardo Canal-Bedia",
-        "M. Pilar Montañés Muro"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-11-19",
-      "doi": "10.1080/20473869.2025.2581645",
-      "url": "https://doi.org/10.1080/20473869.2025.2581645",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/10870547251397010",
-      "title": "Visceral Adipose Tissue Accumulation in Children With Obesity and Co-occurring ADHD: A Case-Control Analysis of Body Fat Distribution Patterns",
-      "authors": [
-        "Muhan Li",
-        "Shijie Li",
-        "Yan Hu",
-        "Chenlu Yang",
-        "Aimin Liang"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-19",
-      "doi": "10.1177/10870547251397010",
-      "url": "https://doi.org/10.1177/10870547251397010",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: ADHD and obesity frequently co-occur in children, yet differences in visceral adipose tissue (VAT) distribution between co-occurring ADHD + Obesity and obesity alone are incompletely characterized. This study compared depot-specific adiposity between these groups. Methods: This cross-sectional analysis (December 2022–2024, Beijing Children’s Hospital) included 306 children (6–12 years) stratified into: ADHD + Obesity ( n = 65), obesity-only ( n = 77), and Control ( n = 164). Body composition was assessed using bioelectrical impedance. Group comparisons for depot-specific adiposity and metabolic markers were performed using multivariable linear regression, adjusting for age, sex, and BMI z -score. Results: The ADHD + Obesity group exhibited significantly greater visceral adiposity than the Obesity-only group, as reflected by a 16.84 cm 2 larger visceral fat area (VFA) and a 1.03 kg/m 2 higher fat mass index (FMI). The ADHD + Obesity group also showed a more adverse metabolic profile, including elevated liver enzymes and fasting glucose. Conclusion: Excess visceral adiposity represents a distinct phenotypic feature of ADHD + Obesity. These findings support the need for int…"
     }
   ]
 }
