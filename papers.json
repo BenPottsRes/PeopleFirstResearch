@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T07:14:22Z",
+  "generated_at": "2026-03-21T07:04:08Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -118,6 +118,39 @@
         "Communication"
       ],
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
+    },
+    {
+      "id": "10.1007/s10803-026-07291-7",
+      "title": "Critical Incidents: Analysis of Missing Children With Reported Autism Spectrum Disorder",
+      "authors": [
+        "Madison Sundberg-Alley",
+        "Daniel E. O’Donnell"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-20",
+      "doi": "10.1007/s10803-026-07291-7",
+      "url": "https://doi.org/10.1007/s10803-026-07291-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70223",
+      "title": "Correction to “The Vulnerability Experiences Quotient (\n                    <scp>VEQ</scp>\n                    ): A Study of Vulnerability, Mental Health and Life Satisfaction in Autistic Adults”",
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-20",
+      "doi": "10.1002/aur.70223",
+      "url": "https://doi.org/10.1002/aur.70223",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07228-0",
@@ -7955,42 +7988,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70148",
-      "title": "Psychiatric Emergency Visits of Autistic Adults With or Without Documented Borderline Personality Disorder",
-      "authors": [
-        "Ching‐Hua Julie Lee",
-        "Louisa Lok Yee Man",
-        "Alexandra Morra",
-        "Carleigh Pace‐Tonna",
-        "Chantelle Castelino",
-        "Valerie Courchesne",
-        "Margot Frayne",
-        "Vanessa Luk",
-        "Paria Baharikhoob",
-        "Patrick Jachyra",
-        "Juveria Zaheer",
-        "Stephanie H. Ameis",
-        "Hsiang‐Yuan Lin",
-        "Amanda Sawyer",
-        "Yona Lunsky",
-        "Meng‐Chuan Lai"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1002/aur.70148",
-      "url": "https://doi.org/10.1002/aur.70148",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Emergency care",
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Autism and borderline personality disorder (BPD) are each associated with increased psychiatric emergency department (PsyED) use, yet the service impact of coexisting autism–BPD remains unclear. We conducted a retrospective chart review of 1027 PsyED visits by 345 autistic adults (2018–2020) at an urban Canadian psychiatric hospital to compare service patterns between those with and without a BPD diagnosis. Sociodemographics, presenting reasons, restraint use, and disposition were analyzed using mixed‐effects logistic regression. BPD was documented in 33.5% of visits and in 11.0% of unique autistic individuals, more often in birth‐assigned females. Among all autistic individuals' PsyED visits, an autism diagnosis was documented in 60.2% of their text‐based charts. Furthermore, autism was documented less frequently when BPD was recorded, suggesting possible diagnostic overshadowing. Suicidality as the primary reason for visit was associated with documented BPD (OR 4.366, 95% CI 2.659–7.169; p &lt; 0.001). No significant differences were observed in disposition (discharge vs. admission) or restraint use between birth‐assigned sex, BPD status, or documentation of autism withi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1080/20473869.2025.2608096",
       "title": "Adaptation and validation of the Autism Spectrum Screening Questionnaire into Kannada",
       "authors": [
@@ -9321,27 +9318,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -9364,6 +9340,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10498,56 +10495,6 @@
         "Mental health"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07131-0",
-      "title": "Association Between Prenatal Air Pollution Exposure and Autism in Children: EPINED Study",
-      "authors": [
-        "Sharanpreet Kaur",
-        "Paula Morales-Hidalgo",
-        "Mònica Guxens",
-        "Núria Voltas",
-        "Sami Petricola",
-        "Josefa Canals-Sans"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-20",
-      "doi": "10.1007/s10803-025-07131-0",
-      "url": "https://doi.org/10.1007/s10803-025-07131-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Abstract Purpose Air pollutants are emerging as recognised contributing factors in the aetiology of neurodevelopmental disorders, particularly increasing the risk of autism in children. This study explored the association between prenatal exposure to air pollutants and the likelihood of developing autism, considering both autistic symptoms and diagnosed cases in a school-based population from Tarragona (Spain), a province with extensive petrochemical activity. Methods In the first phase, parents and teachers of 3,727 children (aged 4 and 11 years) completed screening questionnaires (CAST and EDUTEA, respectively). In the second phase, 623 children were individually assessed, and diagnoses were based on DSM-5 criteria (58 children with autism and 51 with subthreshold autistic traits). Results We performed multiple regressions, adjusting for individual, social, and family covariates. Significant associations were found between exposure to PM coarse (β-0.16; CI: 0.03–0.29), NO 2 (β-0.15; CI: 0.02–0.28), and NO x (β-0.18; CI: 0.03–0.34) and autism symptom scores reported by the teachers. Furthermore, a significant association suggests higher exposure to PM 2.5 (OR-1.66; CI: 1.03–2.65)…",
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1177/10870547251387006",
-      "title": "Treatment Adherence in ADHD: A Systematic Review of Influencing Factors and Strategies for Improvement",
-      "authors": [
-        "Mobina Karimi",
-        "Sogand Ghasemzadeh",
-        "Faezeh Shabanali Fami"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-20",
-      "doi": "10.1177/10870547251387006",
-      "url": "https://doi.org/10.1177/10870547251387006",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Objective: The goal of this review was to more clearly understand what encourages or discourages treatment adherence in individuals with ADHD across different points in life. Instead of simply listing barriers, we set out to identify true, evidence-based strategies that could help patients and clinicians maximize long-term dedication to care. Method: Following PRISMA guidelines, we systematically reviewed 52 peer-reviewed articles between 2014 and 2024. The primary sources used were five electronic databases (Scopus, Science Direct, PubMed, and Taylor &amp; Francis). The studies included heterogeneous age groups—children, adolescents, and adults—and had diverse methodologies ranging from randomized controlled trials to qualitative interviews. Results: Adherence to treatment for ADHD remains a problem, especially among teenagers. We organized the influencing factors into five main areas: sociodemographic, psychological/clinical features, medication-related issues, beliefs and attitudes, and broader systemic or environmental challenges. Conversely, interventions like pharmacological strategies, digital interventions and mobile-based reminders, psychoeducational and behavioral approac…"
     }
   ]
 }
