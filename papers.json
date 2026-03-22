@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T07:04:08Z",
+  "generated_at": "2026-03-22T07:09:05Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -31,6 +31,39 @@
         "Healthcare",
         "Mental health"
       ]
+    },
+    {
+      "id": "10.1177/13623613261422944",
+      "title": "Facilitators, barriers, and strategies in implementing early intervention for children with autism spectrum disorder aged 0–6 years: A multicenter qualitative study using the consolidated framework for implementation research",
+      "authors": [
+        "Hongrui Zhu",
+        "Ka Yan Ho",
+        "Vivien Xi Wu",
+        "Jinlin Ye",
+        "Lin Xiao",
+        "Yunfan Li",
+        "Zhuojun Yu",
+        "Xingying Wang",
+        "Xianhong Li"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1177/13623613261422944",
+      "url": "https://doi.org/10.1177/13623613261422944",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "service improvement"
+      ],
+      "abstract": "Autism spectrum disorder poses a growing global health challenge due to rising prevalence and significant disability burdens. Early intervention during the 0- to 6-year developmental window is critical to reduce individual, familial, and societal impacts. However, implementation gaps persist in China, particularly in resource-limited settings, where context-specific barriers and facilitators remain understudied. This multicenter qualitative study (July 12 to October 28, 2024.) across 11 cities in Hainan Province involved 47 stakeholders (4 policymakers, 13 managers, 13 practitioners, and 17 family caregivers of children with autism spectrum disorder aged 0–6 years). Semi-structured interviews guided by the Consolidated Framework for Implementation Research were complemented by document review and field observations, with data analyzed via template analysis. Key facilitators included government funding, stratified training, caregivers’ positive attitudes, and clear implementation standards. Barriers mainly included low social acceptance, regional resource disparities, workforce shortages, caregiver challenges, and limited evidence-based practice adoption. Four key strategies were id…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/10870547251385660",
@@ -120,6 +153,111 @@
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
     },
     {
+      "id": "10.1007/s10803-026-07297-1",
+      "title": "Correction: Exploring Correlations of Unemployment, Underemployment, and Well-Being Among Autistic Job Seekers by Race in the United States",
+      "authors": [
+        "Rachel A. VanDaalen",
+        "Jiayuan Lyrid Zhao",
+        "Yu Jie Emily Hsiao",
+        "Hannah Karsting",
+        "Ru Ying Cai",
+        "Jane Paik Kim",
+        "Lawrence K. Fung"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-21",
+      "doi": "10.1007/s10803-026-07297-1",
+      "url": "https://doi.org/10.1007/s10803-026-07297-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07271-x",
+      "title": "Brief Report: Healthcare Utilization and Expenditure Trends Among Autistic Transition Age Youth",
+      "authors": [
+        "Philip H. Smith",
+        "Jonas Ventimiglia",
+        "Joe Wright",
+        "Jessica E. Rast",
+        "Diana E. Schendel",
+        "Pricila H. Mullachery",
+        "Brian K. Lee",
+        "Lindsay L. Shea"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-21",
+      "doi": "10.1007/s10803-026-07271-x",
+      "url": "https://doi.org/10.1007/s10803-026-07271-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07289-1",
+      "title": "Autism, Belief, and Society: Voices of Families in Cultural and Religious Contexts",
+      "authors": [
+        "İbrahim Doyumğaç",
+        "Osman Söner",
+        "Gökmen Arslan"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-21",
+      "doi": "10.1007/s10803-026-07289-1",
+      "url": "https://doi.org/10.1007/s10803-026-07289-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07293-5",
+      "title": "Special Education Teachers’ Intention to Support the Use of Computerized Cognitive Training for Children With NDDs in China: A Theory of Planned Behavior Perspective",
+      "authors": [
+        "Bo Zhang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-21",
+      "doi": "10.1007/s10803-026-07293-5",
+      "url": "https://doi.org/10.1007/s10803-026-07293-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261434813",
+      "title": "Conducting Meaningful Participatory Autism Research in Latin America: An Example of Contextual Challenges Identified and Lessons Learned from the Indigenous Support Network In Brazil",
+      "authors": [
+        "Tally Lichtensztejn Tafla",
+        "Paula Rasia Lira",
+        "Priscilla Brandi Gomes Godoy",
+        "Elizabeth Shephard"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-21",
+      "doi": "10.1177/13623613261434813",
+      "url": "https://doi.org/10.1177/13623613261434813",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "participatory"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07291-7",
       "title": "Critical Incidents: Analysis of Missing Children With Reported Autism Spectrum Disorder",
       "authors": [
@@ -194,39 +332,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1177/13623613261422944",
-      "title": "Facilitators, barriers, and strategies in implementing early intervention for children with autism spectrum disorder aged 0–6 years: A multicenter qualitative study using the consolidated framework for implementation research",
-      "authors": [
-        "Hongrui Zhu",
-        "Ka Yan Ho",
-        "Vivien Xi Wu",
-        "Jinlin Ye",
-        "Lin Xiao",
-        "Yunfan Li",
-        "Zhuojun Yu",
-        "Xingying Wang",
-        "Xianhong Li"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-19",
-      "doi": "10.1177/13623613261422944",
-      "url": "https://doi.org/10.1177/13623613261422944",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience",
-        "service improvement"
-      ],
-      "abstract": "Autism spectrum disorder poses a growing global health challenge due to rising prevalence and significant disability burdens. Early intervention during the 0- to 6-year developmental window is critical to reduce individual, familial, and societal impacts. However, implementation gaps persist in China, particularly in resource-limited settings, where context-specific barriers and facilitators remain understudied. This multicenter qualitative study (July 12 to October 28, 2024.) across 11 cities in Hainan Province involved 47 stakeholders (4 policymakers, 13 managers, 13 practitioners, and 17 family caregivers of children with autism spectrum disorder aged 0–6 years). Semi-structured interviews guided by the Consolidated Framework for Implementation Research were complemented by document review and field observations, with data analyzed via template analysis. Key facilitators included government funding, stratified training, caregivers’ positive attitudes, and clear implementation standards. Barriers mainly included low social acceptance, regional resource disparities, workforce shortages, caregiver challenges, and limited evidence-based practice adoption. Four key strategies were id…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07268-6",
@@ -1452,6 +1557,31 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -1480,31 +1610,6 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -4624,22 +4729,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -4660,6 +4749,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -4757,36 +4862,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -4820,6 +4895,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -5954,37 +6059,6 @@
         "communication"
       ],
       "abstract": "ABSTRACT Given the rising prevalence of autism among racial minority children in the United States, but persistent service use disparities, this study examines potential bias in specific items from the autism diagnostic observation schedule (ADOS), a highly regarded autism evaluation. We leveraged unidimensional item response theory graded response models and a sample of 735 children to analyze the differential item functioning (DIF) of items within ADOS Module 3. Three items showed significant signs of racial bias: A1 (overall language level), A5 (offers information), and D5 (compulsions and rituals). On these items, Black/African American and Asian children were usually more likely to be rated as showing autistic behaviors than White children with similar autism levels. The impact of racial bias on the item score was small, and the impact on the overall test score was even smaller: on a scale of 0–48 points, the effect of racial bias was estimated at 0.23 total points for Black/African American children and 0.16 points for Asian children. Furthermore, none of the items showing significant bias contribute to the autism classification algorithm. This analysis suggests a small but d…"
-    },
-    {
-      "id": "10.1002/aur.70145",
-      "title": "Exploring Alexithymia, Uncertainty, Anxious Arousal, and Social Anxiety as Mediators of the Relationship Between Sensory Processing Differences and Restricted and Repetitive Behaviors in Autistic Adults",
-      "authors": [
-        "Heather L. Moore",
-        "Samuel Brice",
-        "Natalya Spraggon",
-        "Barry Ingham",
-        "Mark Freeston",
-        "Jeremy R. Parr",
-        "Jacqui Rodgers"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1002/aur.70145",
-      "url": "https://doi.org/10.1002/aur.70145",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Restricted and repetitive behaviors (RRB) are associated with sensory processing (SP) differences for autistic people, and are thought to be a coping strategy to help manage the sensory environment. Previous work shows that, for autistic people, alexithymia, intolerance of uncertainty (IU), and anxiety mediate the relationship between SP differences and RRB. However, these studies use anxiety measures developed for the general population, and more recent evidence suggests that autistic people may have a different anxiety experience. This study aims to extend previous findings by unpacking the anxiety experience for autistic adults in the relationship between SP differences and RRB, using an autism‐specific anxiety measure. Data were available from 426 autistic adults. Serial mediation models tested the relationship between SP differences and RRB, with alexithymia, IU, anxious arousal, and social anxiety as mediators. We identified significant direct effects from SP differences to both repetitive motor behaviors (RMB) and insistence on sameness behaviors (ISB). For RMB, we found indirect effects through anxious arousal, alexithymia‐anxious arousal, IU‐anxious arousal, and a…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07233-3",
@@ -9318,6 +9392,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -9340,27 +9435,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10437,64 +10511,6 @@
         "Autism"
       ],
       "abstract": "To date, no studies have investigated whether disparities in hours of applied behavior analysis (ABA) exist in the Medicaid system. We used multilevel modeling to analyze Medicaid billing claims for 1,028 autistic youth under the age of 21 years to examine the extent to which there were disparities in hours of ABA services for Medicaid-enrolled youth based on race/ethnicity and rurality. Although younger children received more hours of ABA, F (1, 964.63) = 118.28, p &lt; .001, there were no statistically significant differences in hours of ABA based on minoritized race/ethnicity status or sex. On average, youth served in rural areas received significantly less hours of ABA per month than those in non-rural areas, F (1, 122.13) = 7.89, p = .006; youth in rural areas received 10.86 less hours per month than those in non-rural areas. Results suggest that publicly funded service systems like Medicaid may reduce ABA service disparities by race/ethnicity. Policymakers should focus on improving service provision for youth in rural areas. Lay Abstract We used Medicaid billing claims from 1,028 autistic youth to see if there were differences in hours of applied behavior analysis (ABA) servi…"
-    },
-    {
-      "id": "10.1007/s10803-025-07130-1",
-      "title": "Conceptual Intersections of Autistic Characteristics, Internalizing and Externalizing Behaviors, and Personality in Autistic Youth: A Network Analysis",
-      "authors": [
-        "Margo M. J. Dewitte",
-        "Ruth Van der Hallen",
-        "Peter Prinzie",
-        "Petra Warreyn",
-        "Sarah S. W. De Pauw"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-21",
-      "doi": "10.1007/s10803-025-07130-1",
-      "url": "https://doi.org/10.1007/s10803-025-07130-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/25739581251398955",
-      "title": "Endorsement of the Neurodiversity Framework and Self-Esteem Among Autistic and Non-Autistic Adults",
-      "authors": [
-        "Rachel A. VanDaalen",
-        "Sarah Y. Liu"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-11-21",
-      "doi": "10.1177/25739581251398955",
-      "url": "https://doi.org/10.1177/25739581251398955",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10882-025-10040-w",
-      "title": "“We Try to Support Each Other, Stay Strong for Our Children”: Parents’ Experiences of Stress and Co-Parenting in Families Who Have a Child With Autism",
-      "authors": [
-        "Shaneha Patel",
-        "Mélina Rivard",
-        "Catherine Mello",
-        "Carlos Sanchez"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2025,
-      "published_date": "2025-11-21",
-      "doi": "10.1007/s10882-025-10040-w",
-      "url": "https://doi.org/10.1007/s10882-025-10040-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Person-first language used"
     }
   ]
 }
