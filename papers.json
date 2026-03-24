@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T07:40:37Z",
+  "generated_at": "2026-03-24T07:20:34Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -151,6 +151,94 @@
         "Communication"
       ],
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
+    },
+    {
+      "id": "10.1108/aia-11-2025-0118",
+      "title": "Building belonging through empathy: a study of community-centered autism support",
+      "authors": [
+        "Julian Gonzalez",
+        "Jared Tomlin",
+        "Harry Harvin",
+        "Jackson Lowery",
+        "Holly Haynes",
+        "Amy O’Dell"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-03-24",
+      "doi": "10.1108/aia-11-2025-0118",
+      "url": "https://doi.org/10.1108/aia-11-2025-0118",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment"
+      ],
+      "tags": [
+        "participatory"
+      ],
+      "abstract": "Purpose This paper aims to examine how processes of developig independence among autistic adults can illuminate broader pathways of personal and community development. What began as research into how autistic adults develop and maintain independence evolved into a profound exploration of community transformation through safety and authentic self-expression. This participatory study emerged from conversations between academic researchers and three autistic men – Harry, Jackson and Jared – who transitioned from struggling students to community leaders at The Jacob’s Ladder School. Design/methodology/approach Through collaborative analysis of their lived experiences, the authors discovered how communities can shift from scarcity-based thinking to abundance-based design, where supporting individuals in bringing their natural, authentic selves enables them to address areas they wish to develop while contributing their unique strengths. Findings The findings reveal how communities designed around radical acceptance enable individuals to work on personal growth areas from a foundation of safety and belonging, creating sustainable pathways where behavioral diversity becomes a source of col…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261434478",
+      "title": "Why the Term ‘Virtual Autism’ Warrants Caution",
+      "authors": [
+        "Lisa JG Krijnen",
+        "Anke M Scheeren",
+        "Alvin van Asselt",
+        "Sander Begeer",
+        "Rachel D Plak"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-23",
+      "doi": "10.1177/13623613261434478",
+      "url": "https://doi.org/10.1177/13623613261434478",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "The term virtual autism has recently been used to describe autism-like behaviors in young children following prolonged exposure to screens. The use of the word autism in this context raises conceptual and ethical concerns by reinforcing outdated ideas about parental blame, misrepresenting the nature of autism as we currently understand it, and causing misunderstanding about autism among the general public. We call for more precise and responsible language and advocate for an alternative term that better reflects the environmental basis of the phenomenon, such as screen-related developmental delay . Lay Abstract The term virtual autism has been used to describe autistic-like behaviors in young children that result from spending a lot of time using screens. Using the word autism in this context can cause confusion. It may lead people to wrongly believe that autism is caused by screen use and bring back outdated ideas that blame parents. We argue that this term can be misleading for parents, teachers, and the general public. Instead, we suggest using a clearer term like screen-related developmental delay to better reflect the environmental causes of these behaviors."
+    },
+    {
+      "id": "10.1177/13623613261427125",
+      "title": "The Experiences of Autistic Healthcare Students in a Clinical Learning Environment: A Scoping Review",
+      "authors": [
+        "Emilie Edwards",
+        "Nicolette Porter",
+        "Ruby Handley-Stone",
+        "Helen Hingley-Jones",
+        "Gemma Reynolds"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-23",
+      "doi": "10.1177/13623613261427125",
+      "url": "https://doi.org/10.1177/13623613261427125",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "disclosure",
+        "sensory"
+      ],
+      "abstract": "Autism is increasingly understood from a neurodiversity-affirmative perspective recognising the unique contributions of autistic individuals. Despite this shift, the specific experiences of autistic healthcare students in clinical placements remain underexplored. This scoping review aims to map existing literature on this topic, identifying both barriers and enablers to learning in clinical environments. Using Arksey and O’Malley’s framework, with methodological updates, a comprehensive search was conducted across databases including CINAHL, Medline, APA PsychInfo, Education Research Complete PubMed, Google Scholar, ProQuest and grey literature. Studies were included if they focused on the perspectives of autistic undergraduate healthcare students in clinical practice. Six studies met the inclusion criteria, which were synthesised into four overarching analytical categories: autistic profiles, sensory environments, disclosure and support and belonging and inclusion. Students reported strengths including empathy and attention to detail, alongside challenges like sensory sensitivities and social communication difficulties. Disclosure experiences varied, and a strong sense of belongin…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07297-1",
@@ -1557,31 +1645,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -1610,6 +1673,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -4729,22 +4817,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -4765,6 +4837,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -9708,29 +9796,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1089/aut.2024.0005",
-      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
-      "authors": [
-        "Jiedi Lei",
-        "Kate Cooper",
-        "Matthew J. Hollocks"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1089/aut.2024.0005",
-      "url": "https://doi.org/10.1089/aut.2024.0005",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1089/aut.2023.0049",
       "title": "How Do Autistic Students Do in the Eyes of Their Peers? Non-Autistic Judgments About the Academic Experiences of Autistic and Non-Autistic University Students, Based on Brief Samples of Behavior",
       "authors": [
@@ -9752,6 +9817,29 @@
         "Employment"
       ],
       "abstract": "Background: Previous research has found that people can make a variety of judgments about others based on brief samples of their behavior such as judging their social favorability and whether they wish to socialize with them. Non-autistic people frequently perceive autistic people more negatively than non-autistic people, although we do not fully understand the real-world consequences of this perceptual bias. This study extends previous work by investigating these perceptual biases within a real-world context: university. Method: Non-autistic university students ( n = 25) watched short, candid video clips of autistic and non-autistic people. Participants rated different aspects of the stimulus model’s academic experience, focusing on their motivation to study, academic success, grades, and happiness at university. Results: Across all measures, non-autistic participants judged the academic experience of autistic models more negatively than non-autistic models, perceiving lower academic motivation, success, grades, and happiness at university. Conclusion: These results demonstrate a consistent negative bias that autistic students may face from their peers at university. We discuss th…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2024.0005",
+      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
+      "authors": [
+        "Jiedi Lei",
+        "Kate Cooper",
+        "Matthew J. Hollocks"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2024.0005",
+      "url": "https://doi.org/10.1089/aut.2024.0005",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -9938,6 +10026,26 @@
       "abstract": "Background: Autistic transition-age youths experienced unique psychosocial challenges in transitioning to postsecondary settings. These challenges may result from both the nature of autism and the developmental tasks associated with this unique developmental stage. Given the challenges and barriers faced by this population, understanding the relationship among factors in this transition period and developing relevant interventions are crucial. The purpose of the study was to examine the relationships between autism acceptance and coping strategies and understand how they impact the quality of life (QOL) of this population. Method: In total, 204 autistic youths aged 18–26 years recruited from Prolific and Amazon Mechanical Turk completed an online survey consisting of instruments measuring target variables. Two parallel mediation models were examined to explore the relationships between autism acceptance, coping, and QOL. Results: Both parallel mediation models showed good fit. In the first model, perceived acceptance had a significant direct effect on QOL (β = 0.512, p &lt; 0.01) and a significant indirect effect through engagement coping (β = 0.059, p &lt; 0.01). In the second mod…"
     },
     {
+      "id": "10.1089/aut.2023.0134",
+      "title": "Empathic Disequilibrium as a Predictor of Nonsuicidal Self-Injury in Autistic and Nonautistic People",
+      "authors": [
+        "Rachel Moseley",
+        "Ido Shalev",
+        "Nicola Gregory",
+        "Florina Uzefovsky"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2023.0134",
+      "url": "https://doi.org/10.1089/aut.2023.0134",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Background: Nonsuicidal self-injury (NSSI) affects many autistic individuals, and has been linked to suicidality in this group. It has been closely linked to difficulties with intrapersonal emotion regulation, but a role of interpersonal emotion regulation processes in NSSI has been underexplored. Empathic disequilibrium is a state of imbalance between a person’s cognitive empathy (CE) and emotional empathy (EE). We recently found that autistic people exhibit heightened EE relative to CE, consistent with their firsthand reports of hypersensitivity to the emotions of others. Because this kind of empathic imbalance is associated with hyperarousal and emotional reactivity, we hypothesized that it might increase the risk of NSSI, which often occurs as a means of trying to regulate overwhelming or distressing emotions. Methods: We measured CE, EE, emotional reactivity, and NSSI behaviors in 304 autistic and 289 nonautistic participants, and used polynomial regression with response surface analysis to examine empathic disequilibrium as a predictor of emotional reactivity and engagement in NSSI. Results: Replicating previous research, individuals with an autism diagnosis were more likely…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1089/aut.2023.0121",
       "title": "Proportional Overrepresentation of Gender-Diverse Identities in Two US-Based Autistic Adult Samples from the SPARK Database",
       "authors": [
@@ -9963,26 +10071,6 @@
         "Mental health"
       ],
       "abstract": "Background: Previous literature indicates a proportional overrepresentation of both autism and autistic traits within gender-diverse populations (individuals who experience their gender identity as different from their sex assigned at birth). Emerging but limited evidence also suggests a proportional overrepresentation of gender-diverse identities in autism. To our knowledge, this is the first study to report gender diversity prevalence in autistic adults in the United States. Methods: We report the prevalence of gender diversity within two well-characterized samples of autistic adults recruited from SPARK (Simons Foundation Powering Autism Research for Knowledge), the largest online research database of autistic individuals to date. This study includes both an original sample (Dataset 1, n = 205) and a replication sample (Dataset 2, n = 243). In addition, we looked at the co-occurrence of anxiety and/or mood disorders with gender-diverse identities. Results: We found that 16.1% of autistic adults in Dataset 1 and 19.8% of autistic adults in Dataset 2 were gender diverse. This compares with prior findings of 0.5% to 4.5% in the general adult population. Autistic participants who we…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1089/aut.2023.0134",
-      "title": "Empathic Disequilibrium as a Predictor of Nonsuicidal Self-Injury in Autistic and Nonautistic People",
-      "authors": [
-        "Rachel Moseley",
-        "Ido Shalev",
-        "Nicola Gregory",
-        "Florina Uzefovsky"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1089/aut.2023.0134",
-      "url": "https://doi.org/10.1089/aut.2023.0134",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Background: Nonsuicidal self-injury (NSSI) affects many autistic individuals, and has been linked to suicidality in this group. It has been closely linked to difficulties with intrapersonal emotion regulation, but a role of interpersonal emotion regulation processes in NSSI has been underexplored. Empathic disequilibrium is a state of imbalance between a person’s cognitive empathy (CE) and emotional empathy (EE). We recently found that autistic people exhibit heightened EE relative to CE, consistent with their firsthand reports of hypersensitivity to the emotions of others. Because this kind of empathic imbalance is associated with hyperarousal and emotional reactivity, we hypothesized that it might increase the risk of NSSI, which often occurs as a means of trying to regulate overwhelming or distressing emotions. Methods: We measured CE, EE, emotional reactivity, and NSSI behaviors in 304 autistic and 289 nonautistic participants, and used polynomial regression with response surface analysis to examine empathic disequilibrium as a predictor of emotional reactivity and engagement in NSSI. Results: Replicating previous research, individuals with an autism diagnosis were more likely…",
       "framing": "Neurodiversity-informed"
     },
     {
