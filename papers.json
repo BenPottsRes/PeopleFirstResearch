@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T07:20:34Z",
+  "generated_at": "2026-03-25T07:20:32Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -153,6 +153,126 @@
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
     },
     {
+      "id": "10.1108/aia-05-2025-0047",
+      "title": "Analysis of the impact of socio-demographic or clinical factors on wait times for neurodevelopmental assessments in children, across the Northwest",
+      "authors": [
+        "Christine Wee",
+        "Lisa Marie Thompson",
+        "Gwendolyn Cowley",
+        "Jasmine Jane Wood",
+        "Joanne Bradburn",
+        "Fiona Pender",
+        "Sujeet Jaydeokar"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-03-25",
+      "doi": "10.1108/aia-05-2025-0047",
+      "url": "https://doi.org/10.1108/aia-05-2025-0047",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Emergency care",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Purpose This study looked at the impact of socio- demographic factors on the waiting times for children and young people waiting for neurodevelopmental assessments in a region of England. Neurodevelopmental conditions are defined as Autism, ADHD, Foetal Alcohol spectrum disorder, Intellectual disability and Tics/Tourette’s 2019. This study aims to consider what influences wait times to manage demand. Design/methodology/approach This retrospective cohort study was conducted on all Children and Young People (CYP) (aged 0–19) in Cheshire and Merseyside between September 2021 and October 2023. Individual-level data on CYP was captured from routine health-care datasets from NHS Digital Emergency Care Data Sets (ECDS), Secondary Uses Services (SUS) and Mental Health Services Data Set (MHSDS). All data was processed in R (version 3.6.1) for statistical analysis. The relationship between referrals to mental health services, patient demographics and variables (as described above) was evaluated to determine potential risk factors on wait times and additional mental health planned and unplanned events. Findings Girls were found to be referred at a later age for neurodevelopmental assessmentco…"
+    },
+    {
+      "id": "10.1007/s10803-026-07292-6",
+      "title": "Prevalence of Autism Spectrum Disorder Severity Levels From the Fifth Edition of the Diagnostic and Statistical Manual (DSM-5) in the Autism and Developmental Disabilities Monitoring Network",
+      "authors": [
+        "Lauren A. Russell",
+        "Sarah C. Tinker",
+        "Kelly A. Shaw",
+        "Matthew J. Maenner",
+        "Monica Dirienzo",
+        "Anne V. Kirby",
+        "Ellen M. Howerton",
+        "Sandra B. Vanegas",
+        "Maya Lopez"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-24",
+      "doi": "10.1007/s10803-026-07292-6",
+      "url": "https://doi.org/10.1007/s10803-026-07292-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07296-2",
+      "title": "Mindful Parenting in Mothers of Children in Childhood and Adolescence With Autism Spectrum Disorder: Identifying Possible Antecedents",
+      "authors": [
+        "Martina Gallo",
+        "Maria Cristina Gugliandolo",
+        "Eliana De Salvo",
+        "Francesca Cuzzocrea",
+        "Rosalba Larcan"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-24",
+      "doi": "10.1007/s10803-026-07296-2",
+      "url": "https://doi.org/10.1007/s10803-026-07296-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/25739581261433443",
+      "title": "Toward an Emergent Paradigm for Neurodiversity and Health",
+      "authors": [
+        "Lori Hogenkamp",
+        "Dhwani Sanghavi",
+        "Heini Natri"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-03-24",
+      "doi": "10.1177/25739581261433443",
+      "url": "https://doi.org/10.1177/25739581261433443",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Autism research has developed through multiple paradigms. Medical models locate difficulty within individual neurology, while social and neurodiversity models emphasize environmental barriers and the legitimacy of cognitive variation. Biopsychosocial and hybrid approaches integrate these perspectives, recognizing that biological, psychological, and social factors all matter. Yet these frameworks remain largely descriptive and offer limited accounts of how these domains dynamically interact across development to produce the wide heterogeneity observed in autistic experience and adult outcomes. This paper introduces the Evolutionary Stress Framework (ESF), a complexity-based model that reframes neurodevelopmental variation as the emergent outcome of stress–energy regulation and predictive processing over time. Drawing on stress physiology, adaptive calibration theory, predictive processing, and disability scholarship, we review traditional medical, social, biopsychosocial, and hybrid models; examine the contributions and limits of the neurodiversity paradigm; and articulate ESF’s core constructs: emergent neurotypes, stress incoherence, and emergent allostasis. Within ESF, autistic t…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2647338",
+      "title": "The impact of sensory processing on social participation in children with autism spectrum disorder: a cross-sectional study",
+      "authors": [
+        "Deepak Vignesh Raj",
+        "Ganapathy Sankar Umaiorubagam"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-03-24",
+      "doi": "10.1080/20473869.2026.2647338",
+      "url": "https://doi.org/10.1080/20473869.2026.2647338",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1108/aia-11-2025-0118",
       "title": "Building belonging through empathy: a study of community-centered autism support",
       "authors": [
@@ -180,6 +300,59 @@
       ],
       "abstract": "Purpose This paper aims to examine how processes of developig independence among autistic adults can illuminate broader pathways of personal and community development. What began as research into how autistic adults develop and maintain independence evolved into a profound exploration of community transformation through safety and authentic self-expression. This participatory study emerged from conversations between academic researchers and three autistic men – Harry, Jackson and Jared – who transitioned from struggling students to community leaders at The Jacob’s Ladder School. Design/methodology/approach Through collaborative analysis of their lived experiences, the authors discovered how communities can shift from scarcity-based thinking to abundance-based design, where supporting individuals in bringing their natural, authentic selves enables them to address areas they wish to develop while contributing their unique strengths. Findings The findings reveal how communities designed around radical acceptance enable individuals to work on personal growth areas from a foundation of safety and belonging, creating sustainable pathways where behavioral diversity becomes a source of col…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70235",
+      "title": "Autism Spectrum Disorder Among Gender‐Diverse Children and Adolescents: A National Cohort Study",
+      "authors": [
+        "Erez Topaz",
+        "Tamar Sheppes",
+        "Anat Segev‐Becker",
+        "Galit Israeli",
+        "Asaf Oren",
+        "Yael Lebenthal",
+        "Tomer Shechner",
+        "Liat Perl"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-24",
+      "doi": "10.1002/aur.70235",
+      "url": "https://doi.org/10.1002/aur.70235",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "ABSTRACT Autism spectrum disorder (ASD) is more prevalent in transgender and gender‐diverse (TGD) individuals than in the general population, yet the specific developmental pathways within and clinical outcomes of this intersection are insufficiently understood. This study examined how ASD and sex assigned at birth (SAAB) are associated with gender‐related milestones, access to gender‐affirming consultation and care (GACC), and psychiatric outcomes. We reviewed electronic medical records for 786 TGD children and adolescents (aged 4–19 years) presenting to a national referral clinic between 2013 and 2025. Demographic, developmental, and psychiatric variables were analyzed across four ASD‐by‐SAAB groups using generalized linear models and logistic regressions, with Bonferroni‐adjusted post hoc comparisons ( α = 0.0083). ASD was documented in 9.7% of the cohort, with referrals of autistic TGD patients increasing significantly over time. Autistic patients presented with a distinct profile, characterized by higher socioeconomic position (SEP), intellectual giftedness, non‐binary gender identity, and an earlier stage of pubertal development at presentation. Crucially, while ages at gende…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70233",
+      "title": "Optimizing Accuracy of Autism Diagnostic Observation Schedule‐2 in Very Young Children With Modifying the Effect of Global Developmental Delay",
+      "authors": [
+        "Jacqueline Liu",
+        "Qing Lu",
+        "Vini Singh",
+        "Stephanie Choi",
+        "Elizabeth A. Cross",
+        "Ji Su Hong"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-24",
+      "doi": "10.1002/aur.70233",
+      "url": "https://doi.org/10.1002/aur.70233",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT The current study investigated 1144 toddlers and preschoolers (ASD + GDD n = 592; ASD only n = 249; GDD only n = 89; no ASD or GDD n = 214) with the toddler module (38.6%), Module 1 (57.5%), and Module 2 (3.9%) as well as Mullen Scales of Early Learning. The calibrated severity score (CSS) was used to compare severity across modules. The study sample was stratified by GDD (Visual Reception Developmental Quotient &lt; 75), and each stratum was investigated with descriptive statistics, ROC curves, and test statistics to identify the optimal cut‐off CSS to differentiate ASD and non‐ASD. ROC analysis indicated that the CSS scores showed excellent discrimination for ASD status for both the GDD (AUC = 0.86) and no GDD (AUC = 0.95) strata. In the no‐GDD stratum, an ADOS‐2 CSS of 5 was determined to be the optimal cut‐off. In the GDD stratum, an ADOS‐2 CSS of 6 was determined to be the optimal cutoff. While non‐spectrum/little‐to‐no concern and autism/moderate‐to‐severe concern showed very high predictive accuracy for diagnostic outcomes, the autism spectrum/mild‐to‐moderate concern lacked clear diagnostic directionality, regardless of GDD status. This is the first study with a la…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261434478",
@@ -4950,36 +5123,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -5013,6 +5156,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10464,123 +10637,6 @@
         "Autism"
       ],
       "abstract": "Abstract Background Suicide has been reported as a leading cause of premature death in autistic populations. Additionally, risk of suicidality is often found to increase with age in the general population. Despite this, suicidality has seldom been explored in autistic populations in midlife and old age. This study investigates the self-reported prevalence of self-harm and suicidality in autistic people in midlife and old age compared to an age- and gender-ratio comparable non-autistic group. Methods In total, 388 participants (autistic n = 222, 44% men) aged 40–93 years (mean = 60.9 years) from the AgeWellAutism study completed questionnaires related to experiences of suicidal ideation, self-harming thoughts, deliberate self-harm, and suicidal self-harm. Group, gender and age differences were examined in chi-square and linear regression analyses. Results The autistic group reported significantly higher rates of suicidal ideation, self-harming thoughts, deliberate self-harm, and suicidal self-harm than the non-autistic comparison group. When considering gender differences in the autistic group (but not the non-autistic group due to limited sample size), autistic women reported signi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07153-8",
-      "title": "Effects of Life Kinetic Training on Balance and Motor Coordination in Children With Developmental Coordination Disorder: A Randomized Controlled Trial",
-      "authors": [
-        "Leila Babazadeh",
-        "Razieh Khanmohammadi",
-        "Ayoub Hashemi"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-24",
-      "doi": "10.1007/s10803-025-07153-8",
-      "url": "https://doi.org/10.1007/s10803-025-07153-8",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07142-x",
-      "title": "Using Story-Based Thinking Maps to Enhance Metaphor Comprehension Skills in Children With Autism Spectrum Disorder",
-      "authors": [
-        "Shouhong Wei",
-        "Yunxuan Sun",
-        "Guo Liu",
-        "Peng Peng"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-24",
-      "doi": "10.1007/s10803-025-07142-x",
-      "url": "https://doi.org/10.1007/s10803-025-07142-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07149-4",
-      "title": "A Cross-Lagged Panel Analysis of Basic Psychological Needs Satisfaction and Depressive Symptoms in Parents of Autistic Children: The Mediating Role of Parenting Stress",
-      "authors": [
-        "Chenchen Xu",
-        "Chang Zhang",
-        "Ting Zhou"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-24",
-      "doi": "10.1007/s10803-025-07149-4",
-      "url": "https://doi.org/10.1007/s10803-025-07149-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251387936",
-      "title": "“They Didn’t Believe Me”: Barriers to Mental Health Care for Autistic LGBTQIA+ Young Adults—A Community-Partnered Study",
-      "authors": [
-        "Lauren Baczewski",
-        "Dena Gohari",
-        "Reid Caplan",
-        "Brett Ranon Nachman",
-        "Ryan Taylor",
-        "Meghan McDonald",
-        "Kayla Rodriguez",
-        "K. E. Sharp",
-        "McKinzie Smith",
-        "Anne Vu",
-        "Maria Massolo"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-11-24",
-      "doi": "10.1177/25739581251387936",
-      "url": "https://doi.org/10.1177/25739581251387936",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "access"
-      ]
-    },
-    {
-      "id": "10.1177/25739581251393807",
-      "title": "Advancing Research on Suicide and Mental Health in Autistic Adults Through a Research Domain Criteria-Inspired Framework",
-      "authors": [
-        "Carla A. Mazefsky",
-        "Caitlin M. Conner",
-        "Greg J. Siegle",
-        "Lori N. Scott",
-        "Lauren M. Bylsma",
-        "Kelly B. Beck",
-        "Ligia Antezana",
-        "Xin Hu",
-        "Ann D. Cohen",
-        "Xenia Borue",
-        "Benjamin L. Handen"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-11-24",
-      "doi": "10.1177/25739581251393807",
-      "url": "https://doi.org/10.1177/25739581251393807",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
       "framing": "Neurodiversity-informed"
     }
   ]
