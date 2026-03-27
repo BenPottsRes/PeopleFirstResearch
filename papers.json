@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T07:37:21Z",
+  "generated_at": "2026-03-27T07:36:50Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -579,6 +579,295 @@
         "Communication"
       ],
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
+    },
+    {
+      "id": "10.1007/s10803-026-07295-3",
+      "title": "Evaluation of Parental Awareness, Attitudes, and Perceptions Regarding Autism Spectrum Disorders in Kuwait: A Cross-Sectional Analysis of the Impact of Social Awareness Initiatives on Stigmatization",
+      "authors": [
+        "Abdullah Al Aqel",
+        "Sarah Al Saed",
+        "Ahmad Alsaber",
+        "Sana A Al Bustan"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1007/s10803-026-07295-3",
+      "url": "https://doi.org/10.1007/s10803-026-07295-3",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07302-7",
+      "title": "Emergency Department Care for Patients With Prader-Willi Syndrome: A 2019–2021 National Emergency Department Sample Analysis",
+      "authors": [
+        "James Luccarelli",
+        "Theresa V. Strong",
+        "Thomas H. McCoy"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1007/s10803-026-07302-7",
+      "url": "https://doi.org/10.1007/s10803-026-07302-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Emergency care"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07280-w",
+      "title": "Patterns of Behavioral and Emotional Problems in Young Children With Developmental Disabilities: Cluster Analysis and Longitudinal Follow-Up",
+      "authors": [
+        "Mélina Rivard",
+        "Zakaria Mestari",
+        "Diane Morin",
+        "Richard Hastings",
+        "Patrick Coulombe",
+        "Catherine Mello",
+        "Jacques Forget"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1007/s10803-026-07280-w",
+      "url": "https://doi.org/10.1007/s10803-026-07280-w",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261424830",
+      "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
+      "authors": [
+        "Bruna B Roisenberg",
+        "Kelsie A Boulton",
+        "Emma E Thomas",
+        "Nina Perry",
+        "Dorothy Yu",
+        "Adam J Guastella"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/13623613261424830",
+      "url": "https://doi.org/10.1177/13623613261424830",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427131",
+      "title": "Maternal And Paternal Differences in Parental Stress and Children’s Autistic Features Among Parents of Preschool Autistic Children",
+      "authors": [
+        "James Rufus John",
+        "Anna Chua",
+        "Valsamma Eapen"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/13623613261427131",
+      "url": "https://doi.org/10.1177/13623613261427131",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare",
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "Parents of autistic children experience varying levels of stress, with only few studies examining gender-specific differences and their determinants. This study examined the sociodemographic and clinical factors associated with stress among mothers and fathers of preschool-aged autistic children in Australia. Data were analysed from 516 parents of preschool-aged autistic children enrolled in six Autism Specific Early Learning and Care Centres. Multilevel regression models assessed associations between maternal and paternal stress and sociodemographic factors, parental quality of life, and child’s clinical characteristics, while adjusting for key covariates, and accounting for clustering of parent responses within children. Among the sample, 465 mothers and 216 fathers completed the Parental Stress Index–Fourth Edition–Short Form questionnaire, representing 516 unique children, with some children having responses from both parents. Findings showed that culturally and linguistically diverse status was protective against stress for both parents, but higher level of education was protective only against maternal stress. Maternal stress was influenced by a broad range of child’s autisti…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261435868",
+      "title": "The Use and Misuse of the Camouflaging Autistic Traits Questionnaire in Autism Research and Clinical Practice: Issues, Considerations, and Suggestions",
+      "authors": [
+        "Benjamin Ross Hannon",
+        "Laura Hull",
+        "Meng-Chuan Lai",
+        "Iliana Magiati",
+        "Will Mandy"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/25739581261435868",
+      "url": "https://doi.org/10.1177/25739581261435868",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "In this Perspective, we summarize the evidence to date around the use of the Camouflaging Autistic Traits Questionnaire (CAT-Q) as a tool in research and clinical settings, and offer suggestions for its future use. We highlight that the CAT-Q is a useful measure of camouflaging/masking for research purposes, although questions remain regarding sociocultural variation in camouflaging experiences, and its specificity regarding autistic camouflaging compared with impression management more generally. With respect to clinical practice, we note that very little research has examined the use of the CAT-Q in clinical settings to date, and we encourage clinicians to be mindful of this limited evidence base and to refrain from using CAT-Q scores in diagnostic decision-making or as an intervention monitoring/outcome tool."
+    },
+    {
+      "id": "10.1007/s40489-026-00549-x",
+      "title": "Establishing the Evidence Base of the Power Card Strategy for Children with ASD: A Meta-Analysis",
+      "authors": [
+        "Emrah Gulboy",
+        "Uygar Bayrakdar"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1007/s40489-026-00549-x",
+      "url": "https://doi.org/10.1007/s40489-026-00549-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10870547261421667",
+      "title": "The Relationship Between ADHD Symptom Severity and Sleep Disturbance Using Accelerometer and the Subjective Sleep Disturbance Scale",
+      "authors": [
+        "Bhargav Patel",
+        "Audrey Tyrka",
+        "William Lewis-de Los Angeles"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/10870547261421667",
+      "url": "https://doi.org/10.1177/10870547261421667",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: There is limited evidence regarding the relationship between the severity of ADHD symptoms and the level of sleep disruption in early adolescent children. This study aimed to better understand this relationship by studying early adolescents from the Adolescent Brain Cognitive Development (ABCD) Study at the 2-year follow-up visit (mean age 12.0, n = 4,414). Methods: The “Attention Problems” scale of the Child Behavior Checklist (CBCL) was used to measure the severity of ADHD symptoms for study participants. Sleep was assessed both subjectively with the Sleep Disturbance Scale for Children (SDSC) via parent report and objectively by wrist-worn accelerometer assessment of sleep duration. Results: Total sleep disturbance showed a moderate positive correlation with ADHD symptoms ( r = .41, p &lt; .001). In contrast, there was only a very small negative correlation between accelerometer-measured sleep duration and ADHD symptoms ( r = −.05, p &lt; .001). Multivariate linear regression with total SDSC score as the dependent variable, adjusting for demographics, medication use, and puberty stage, showed a positive association of ADHD symptoms with total SDSC score (β = .41, 95%…"
+    },
+    {
+      "id": "10.1177/10870547261425722",
+      "title": "Differences in Social Anxiety and Friendship Quality Among Adolescents With ADHD and Their Typically Developing Peers",
+      "authors": [
+        "Reda Ebrahim Mohamed Elashram",
+        "Ali Mohammed Ali Al-Basiouni Bashshar",
+        "Mohamed Mohamed Abdel-Razek Al-Sayed El-Fiky",
+        "Marzouk Mohammed Ali Mousa"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/10870547261425722",
+      "url": "https://doi.org/10.1177/10870547261425722",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Objective: This study examined differences in social anxiety and friendship quality between Egyptian adolescents diagnosed with Attention-Deficit/Hyperactivity Disorder (ADHD) and their typically developing (TD) peers. It further investigated gender differences within the ADHD group and examined whether participant group (ADHD vs. TD) moderates the direction and strength of this relationship. Methods: The sample included 383 adolescents aged 13–17 years (M = 15.03, SD = 1.44), comprising 173 adolescents diagnosed with ADHD and 210 TD peers. Using a comparative descriptive design, participants completed two culturally adapted measures assessing social anxiety and friendship quality. Results: Results indicated that the participant group did not significantly moderate the association between social anxiety and friendship quality. Adolescents with ADHD reported higher social anxiety and lower friendship quality than TD peers. No gender differences emerged for social anxiety; however, girls with ADHD reported higher friendship quality than boys, particularly in the domains of support, closeness, and conflict resolution. Conclusion: These findings highlight the presence of significant so…"
+    },
+    {
+      "id": "10.1177/10870547261428879",
+      "title": "Metacognitive Ratings on Cognitive Tasks: Task Difficulty and Effort Rating Differences in Children With ADHD and Neurotypical Children",
+      "authors": [
+        "Adrian P. Torres",
+        "Maggie E. Toplak"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/10870547261428879",
+      "url": "https://doi.org/10.1177/10870547261428879",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: The role of metacognitive monitoring, or the subjective evaluation of performance during cognitive tasks, has been less well studied in children with ADHD compared to accuracy or performance on these tasks. Given that children with ADHD often display lower performance on cognitive tasks, particularly those involving executive attention and control, we examined whether metacognitive monitoring differed between children with ADHD and neurotypical children. Method: Eighty children aged 8–12 years (38 with ADHD, 42 neurotypical) completed a battery of cognitive tasks, including measures of intelligence, executive functioning (set-shifting and interference control), and an unstructured performance task (UPT). After each task, participants provided ratings of task difficulty and effort (how hard they tried). Results and Conclusion: Children with ADHD reported overall lower effort across cognitive tasks compared to neurotypical children; however, no group differences were found on task difficulty ratings. Metacognitive ratings of effort were significantly associated across performance tasks, suggesting that the degree of trying may reflect a trait-level factor. Ratings of task…"
+    },
+    {
+      "id": "10.1177/10870547261427555",
+      "title": "“Controlled by Female Hormones”: A Qualitative Interview Study of Swedish Women’s Experiences of Gender-Specific Aspects of Life With ADHD",
+      "authors": [
+        "Julia McTaggart",
+        "Lisa B Thorell",
+        "Charlotte Borg Skoglund",
+        "Niklas Envall",
+        "Helena Kopp Kallner"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/10870547261427555",
+      "url": "https://doi.org/10.1177/10870547261427555",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Objective: There is limited knowledge about how female specific factors such as fluctuating sex hormones influence symptom display and health-related conditions that are unique to, or more prevalent in females with ADHD. This study aims to investigate how women of reproductive age with ADHD experience their ADHD symptoms and well-being in relation to hormonal fluctuations, and secondly, how they perceive hormonal and reproductive counseling in healthcare. Method: Semi-structured interviews were conducted with 14 women with ADHD and analyzed using inductive thematic analysis. Results: Three main themes emerged from the analysis; (1) Controlled by female hormones, (2) Frustration with lack of knowledge/understanding, and (3) Living with ADHD and comorbidities. Many women have experienced challenges and fluctuations related to hormonal changes during their menstrual cycles and in different stages of life. Using hormones to stabilize mood and impulsivity and adjusting stimulant doses were suggested as potential solutions. Participants expressed frustration about the lack of knowledge, interest, and understanding from healthcare professionals regarding ADHD and how hormones influenced s…"
+    },
+    {
+      "id": "10.1177/10870547261425737",
+      "title": "Attention Deficit/Hyperactivity Disorder (ADHD)-Related Strengths in Adults: A Scoping Review",
+      "authors": [
+        "Rivqa B. Rafael",
+        "Hongwei Jia",
+        "Melissa Rouel",
+        "Bethany M. Wootton",
+        "Deborah Mitchison"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/10870547261425737",
+      "url": "https://doi.org/10.1177/10870547261425737",
+      "neurotype": [
+        "ADHD"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Objectives: Increasingly, people with attention deficit/hyperactivity disorder (ADHD), their clinicians, and others have called for strengths-based approaches in the understanding of ADHD. A comprehensive and systematic review of ADHD-related strengths has not previously been published. Therefore, this study aimed to conduct a scoping review to determine the extent and type of empirical qualitative and quantitative research about strengths that may be related to ADHD in adults. Methods: MEDLINE, Embase, PsycINFO, and Scopus were searched for published research. ProQuest Dissertations &amp; Theses Global, PsyArXiv, and other websites were searched for unpublished studies or grey literature. Results: A total of 125 studies were included (61 qualitative studies, 59 quantitative studies, 5 mixed methods studies). Most studies examined ADHD-related strengths a-priori ( n = 88; 70%). The majority studied ADHD strengths or experiences in general terms ( n = 68; 54%), rather than focussing on a specific strength or characteristic. It was observed that typical ADHD characteristics were sometimes perceived or redefined as strengths: interest-based attention or positive differences in attenti…"
+    },
+    {
+      "id": "10.1177/10870547261428660",
+      "title": "Randomised Controlled Trial of Gaze-Based Attention Training Intervention for Infants With a Family History of Attention Deficit Hyperactivity Disorder: Follow-up Outcomes at 2 and 3 Years",
+      "authors": [
+        "Amy Goodwin",
+        "Emily JH Jones",
+        "Tony Charman",
+        "Jannath Begum-Ali",
+        "Greg Pasco",
+        "Luke Mason",
+        "Rebecca Holman",
+        "Simona Salomone",
+        "Alexandra Hendry",
+        "Tessel Bazelmans",
+        "Tim J Smith",
+        "Edmund JS Sonuga-Barke",
+        "Patrick Bolton",
+        "Sam Wass",
+        "Andrew Pickles",
+        "Mark H Johnson"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-26",
+      "doi": "10.1177/10870547261428660",
+      "url": "https://doi.org/10.1177/10870547261428660",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
     },
     {
       "id": "10.1007/s10803-026-07306-3",
@@ -5224,6 +5513,22 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -5244,22 +5549,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -5357,36 +5646,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -5420,6 +5679,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8367,24 +8656,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1177/13623613251390277",
-      "title": "Doing research in services for autistic people with complex support needs: Challenges and considerations based on UK experiences",
-      "authors": [
-        "Sarah Donald",
-        "Holly Elizabeth Anne Sutherland",
-        "Sue Fletcher-Watson"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1177/13623613251390277",
-      "url": "https://doi.org/10.1177/13623613251390277",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1108/aia-08-2025-0088",
       "title": "Communicating autism: a qualitative analysis of daily challenges and adaptations",
       "authors": [
@@ -10124,29 +10395,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1089/aut.2024.0005",
-      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
-      "authors": [
-        "Jiedi Lei",
-        "Kate Cooper",
-        "Matthew J. Hollocks"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1089/aut.2024.0005",
-      "url": "https://doi.org/10.1089/aut.2024.0005",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1089/aut.2023.0049",
       "title": "How Do Autistic Students Do in the Eyes of Their Peers? Non-Autistic Judgments About the Academic Experiences of Autistic and Non-Autistic University Students, Based on Brief Samples of Behavior",
       "authors": [
@@ -10168,6 +10416,29 @@
         "Employment"
       ],
       "abstract": "Background: Previous research has found that people can make a variety of judgments about others based on brief samples of their behavior such as judging their social favorability and whether they wish to socialize with them. Non-autistic people frequently perceive autistic people more negatively than non-autistic people, although we do not fully understand the real-world consequences of this perceptual bias. This study extends previous work by investigating these perceptual biases within a real-world context: university. Method: Non-autistic university students ( n = 25) watched short, candid video clips of autistic and non-autistic people. Participants rated different aspects of the stimulus model’s academic experience, focusing on their motivation to study, academic success, grades, and happiness at university. Results: Across all measures, non-autistic participants judged the academic experience of autistic models more negatively than non-autistic models, perceiving lower academic motivation, success, grades, and happiness at university. Conclusion: These results demonstrate a consistent negative bias that autistic students may face from their peers at university. We discuss th…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2024.0005",
+      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
+      "authors": [
+        "Jiedi Lei",
+        "Kate Cooper",
+        "Matthew J. Hollocks"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2024.0005",
+      "url": "https://doi.org/10.1089/aut.2024.0005",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10608,126 +10879,6 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07118-x",
-      "title": "Joint Engagement and Socially Motivated Language in Young Autistic Children",
-      "authors": [
-        "Erin E. Kosloski",
-        "Pamela Rosenthal Rollins"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-26",
-      "doi": "10.1007/s10803-025-07118-x",
-      "url": "https://doi.org/10.1007/s10803-025-07118-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251400582",
-      "title": "Effectiveness of Mindfulness-Based Stress Reduction Groups for Autistic Adults: A Randomized Clinical Trial",
-      "authors": [
-        "Tatja Hirvikoski",
-        "Hanna Agius",
-        "Gustaf Wettermark",
-        "Carina Eriksdotter",
-        "Anne-Kristiina Luoto",
-        "Nitya Jayaram-Lindström",
-        "Sven Bölte"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-11-26",
-      "doi": "10.1177/25739581251400582",
-      "url": "https://doi.org/10.1177/25739581251400582",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Quality of life"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Autistic adults often experience high levels of stress and difficulties in coping with stressors in everyday life. The aim of this study was to evaluate the effectiveness of mindfulness-based stress reduction (MBSR) groups, adjusted for autistic adults in an outpatient context. Methods: We conducted a two-arm, parallel-group, randomized controlled effectiveness trial during the years 2018–2020. Autistic adults ( N = 77) were recruited from outpatient services and randomized to either MBSR ( n = 39) or treatment as usual, TAU (i.e., continued regular services, n = 38). We used linear mixed models with random intercept to analyze the effects of intervention on self-rated perceived stress (primary outcome), as well as mental health, mindfulness skills, quality of life, and autism acceptance (secondary outcomes). In addition, we collected qualitative data at exit discussions in the MBSR groups and examined the transcription using thematic content analysis. Results: Participants (52% female) had a mean age of 40 years, with a majority being unemployed at the time of inclusion (64.9%) and having at least one co-occurring psychiatric diagnosis (87%). The completion rate in the…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2025.2589988",
-      "title": "Digital social story intervention reduces inappropriate classroom behaviors in autism: a single-case study",
-      "authors": [
-        "Zhuo Xue",
-        "Fengyan Chen",
-        "Xinyue Tian",
-        "Jiangtao Han",
-        "Xiaodong Kang",
-        "Runhua Tang",
-        "Tao Zhang"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-11-26",
-      "doi": "10.1080/20473869.2025.2589988",
-      "url": "https://doi.org/10.1080/20473869.2025.2589988",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2025.2593318",
-      "title": "Parent and teacher experiences collaborating on early communication priorities for autistic children",
-      "authors": [
-        "Estelle Pretorius",
-        "Sally Clendon",
-        "Tara McLaughlin"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-11-26",
-      "doi": "10.1080/20473869.2025.2593318",
-      "url": "https://doi.org/10.1080/20473869.2025.2593318",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547251393071",
-      "title": "Does Delivery Mode Matter? A Randomised Controlled Trial of the Sleeping Sound\n                    <sup>©</sup>\n                    Intervention: Predicting Sleep Outcomes in Children With ADHD",
-      "authors": [
-        "Maya K. Malkani",
-        "Andrew M. C. Sheridan",
-        "Alison J. Crichton",
-        "Romola S. Bucks",
-        "Carmela F. Pestell"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-11-26",
-      "doi": "10.1177/10870547251393071",
-      "url": "https://doi.org/10.1177/10870547251393071",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: The effectiveness of behavioural interventions to improve sleep in children with ADHD has been demonstrated, although most treatments are conducted in-person, with limited evidence for paediatric telehealth approaches. Study 1 is a randomised controlled trial evaluating the ADHD Sleeping Sound © intervention to compare outcomes between in-person and telehealth modalities. Study 2 examined whether baseline sleep problems and treatment response were predicted by baseline symptom presentation, attachment security, and family functioning. Method: Children aged 5 to 12 years (65.4% male) with ADHD received either in-person ( n = 40) or telehealth ( n = 38) treatment. Subjective (Children’s Sleep Habits Questionnaire) and objective (actigraphy) sleep variables were assessed at baseline, post-intervention (1 week), and follow-up (3 months). Results: As expected, subjectively measured sleep disturbance significantly improved post-treatment, with no significant difference in rate of change between in-person and telehealth modalities. For Study 2, baseline measures comprised the Conners CBRS, Attachment Insecurity Screening Inventory, Security Scale, and Family Assessment Device.…"
     }
   ]
 }
