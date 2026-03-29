@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T07:14:52Z",
+  "generated_at": "2026-03-29T07:19:38Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -625,6 +625,94 @@
       "tags": [
         "sensory"
       ]
+    },
+    {
+      "id": "10.1007/s10803-026-07283-7",
+      "title": "Efficacy of Interventions Adhering to the Revised Ayres Sensory Integration® Fidelity Measure: A Systematic Review",
+      "authors": [
+        "Yuriko Kishida",
+        "Jennifer Stephenson",
+        "Coral Kemp",
+        "Catherine Salisbury"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-28",
+      "doi": "10.1007/s10803-026-07283-7",
+      "url": "https://doi.org/10.1007/s10803-026-07283-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
+    },
+    {
+      "id": "10.1007/s40489-026-00552-2",
+      "title": "Needs, Challenges, Burdens and Interventions for Informal Caregivers of Adults with Autism Spectrum Disorders (ASD): A Scoping Review",
+      "authors": [
+        "Matthias Prommersberger",
+        "Markus Witzmann",
+        "Tobias Schuwerk"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-28",
+      "doi": "10.1007/s40489-026-00552-2",
+      "url": "https://doi.org/10.1007/s40489-026-00552-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2650546",
+      "title": "A systematic review and narrative synthesis of the effectiveness of cognitive behaviour therapy with randomized controlled trials on emotional regulation among individuals with autism spectrum disorder",
+      "authors": [
+        "B. Siva",
+        "A. Jaimathisa",
+        "S. Sasikala"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-03-28",
+      "doi": "10.1080/20473869.2026.2650546",
+      "url": "https://doi.org/10.1080/20473869.2026.2650546",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70240",
+      "title": "Autistic Adolescents' Quality of Life: Perceived Social Competence and Social Anxiety as Key",
+      "authors": [
+        "Hui‐Jen Shyu",
+        "Yu‐Wei Ryan Chen",
+        "Daphne Yih Ng",
+        "Anita Bundy",
+        "Mei‐Hui Tseng",
+        "Reinie Cordier"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-03-28",
+      "doi": "10.1002/aur.70240",
+      "url": "https://doi.org/10.1002/aur.70240",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Autistic adolescents often report lower social and overall quality of life (QoL) associated with limited social skills and behavioral challenges. Awareness of social limitations and social anxiety can worsen QoL, yet the specific roles of these factors remain underexplored. This study examined how social skills, challenging behaviors, social anxiety, and self‐perceived social competence influence QoL in autistic adolescents. A total of 117 autistic participants (age = 12.6 ± 2.2 years; female = 13.7%, male = 86.3%) completed measures including the Pediatric Quality of Life Inventory, the Social Anxiety Scale for Adolescents, and the Self‐Perception Profile for Children/Adolescents Social Competence Subscale. Caregivers assessed social skills and challenging behaviors using the Social Skills Improvement System Rating Scales. Linear regressions, controlling for age, sex, and autistic characteristics, revealed that lower overall QoL was significantly associated with higher social anxiety ( β = −0.48, p &lt; 0.001), lower perceived social competence ( β = 0.21, p &lt; 0.05), and more challenging behaviors ( β = −0.24, p &lt; 0.01) among autistic adolescents. Furthermore, lower…"
     },
     {
       "id": "10.1007/s10803-026-07298-0",
@@ -6873,34 +6961,6 @@
       "abstract": "Background: ADHD has been characterised by excessive mind wandering (MW), or thoughts unrelated to the task at hand, with recent findings indicating that ADHD is specifically associated with more unintentional, but not intentional, MW. These two types of MW are also differentially associated with affective well-being. Most existing studies in ADHD, however, mainly rely on retrospective reports of MW tendencies, which are susceptible to memory-related errors and biases. Further, most studies categorise participants based on overall levels of ADHD, instead of accounting for the spectrum and dimensional heterogeneity of ADHD, including inattention and hyperactivity symptom dimensions. Our study aimed to address the knowledge gap regarding the relationship between different types of MW and affective well-being, across different symptom dimensions of ADHD. Methods: We used ecological momentary assessment to capture participants’ momentary attention state (on-task, intentional MW, or unintentional MW) and affective valence, six times daily for 7 days. Using linear mixed-effects modelling to account for inter-individual variance, we tested whether inattention and hyperactivity symptom dim…"
     },
     {
-      "id": "10.1177/10870547251389337",
-      "title": "ADHD Knowledge as a Barrier to Problem Recognition in Asian American and Native Hawaiian/Pacific Islander Versus White College Students",
-      "authors": [
-        "Patrick K. Goh",
-        "Sara Chung",
-        "Nandini Jhawar",
-        "Ashlyn W. W. A. Wong",
-        "Grace S. Mellor",
-        "Meeta Banerjee",
-        "Cynthia M. Hartung"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/10870547251389337",
-      "url": "https://doi.org/10.1177/10870547251389337",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: The Asian American and Native Hawaiian/Pacific Islander (AA &amp; NH/PI) population represents one of the fastest-growing racial /ethnic groups in the United States, yet members of this community are among the least likely to receive services for ADHD. Studies seeking to explain discrepancies between the need for and use of ADHD services in AA &amp; NH/PI populations have highlighted decreased problem recognition as precluding access to services. We sought to investigate the roles of three previously proposed factors (i.e., perceived impairment, ADHD knowledge, and ADHD stigma) in explaining differences in ADHD problem recognition in AA &amp; NH/PI versus White, Black, Hispanic/Latinx, and Multiracial/Multiethnic college students. Method: Participants were 1,451 college students aged 18 to 29 years ( M = 19.3, SD = 1.64) who met self-reported symptom and impairment criteria for ADHD. They completed questionnaires assessing ADHD problem recognition, perceived impairment, ADHD knowledge, and ADHD stigma. Results: Compared to the White Group, the AA &amp; NH/PI Group had significantly lower probability of endorsing the belief that they should be diagnosed with ADHD. The AA…"
-    },
-    {
       "id": "10.1002/aur.70162",
       "title": "The Conceptualization, Experience, and Recognition of Emotion in Autism: Differences in the Psychological Mechanisms Involved in Autistic and Non‐Autistic Emotion Recognition",
       "authors": [
@@ -8897,31 +8957,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07138-7",
-      "title": "Correction: Eye Tracking Screening for ASD in Nursery: Is Early Diagnosis Possible? A Large-scale Real-life Experiment",
-      "authors": [
-        "Victor Hugo da Silva",
-        "Yasmine R. Martins",
-        "Pedro A. S. O. Neto",
-        "Joana Portolese",
-        "Fátima R. Fernandes",
-        "Carlos Takeuchi",
-        "Fernanda O. A. Lima",
-        "Marcilia L. Martyn",
-        "Katerina Lukasova",
-        "Edson Amaro"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1007/s10803-025-07138-7",
-      "url": "https://doi.org/10.1007/s10803-025-07138-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1108/aia-08-2025-0088",
       "title": "Communicating autism: a qualitative analysis of daily challenges and adaptations",
       "authors": [
@@ -10345,6 +10380,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -10367,27 +10423,6 @@
       "tags": [
         "access"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10661,6 +10696,29 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1089/aut.2024.0005",
+      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
+      "authors": [
+        "Jiedi Lei",
+        "Kate Cooper",
+        "Matthew J. Hollocks"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2024.0005",
+      "url": "https://doi.org/10.1089/aut.2024.0005",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1089/aut.2023.0049",
       "title": "How Do Autistic Students Do in the Eyes of Their Peers? Non-Autistic Judgments About the Academic Experiences of Autistic and Non-Autistic University Students, Based on Brief Samples of Behavior",
       "authors": [
@@ -10682,29 +10740,6 @@
         "Employment"
       ],
       "abstract": "Background: Previous research has found that people can make a variety of judgments about others based on brief samples of their behavior such as judging their social favorability and whether they wish to socialize with them. Non-autistic people frequently perceive autistic people more negatively than non-autistic people, although we do not fully understand the real-world consequences of this perceptual bias. This study extends previous work by investigating these perceptual biases within a real-world context: university. Method: Non-autistic university students ( n = 25) watched short, candid video clips of autistic and non-autistic people. Participants rated different aspects of the stimulus model’s academic experience, focusing on their motivation to study, academic success, grades, and happiness at university. Results: Across all measures, non-autistic participants judged the academic experience of autistic models more negatively than non-autistic models, perceiving lower academic motivation, success, grades, and happiness at university. Conclusion: These results demonstrate a consistent negative bias that autistic students may face from their peers at university. We discuss th…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1089/aut.2024.0005",
-      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
-      "authors": [
-        "Jiedi Lei",
-        "Kate Cooper",
-        "Matthew J. Hollocks"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1089/aut.2024.0005",
-      "url": "https://doi.org/10.1089/aut.2024.0005",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -11037,72 +11072,6 @@
       "published_date": "2025-11-29",
       "doi": "10.1007/s40489-025-00535-9",
       "url": "https://doi.org/10.1007/s40489-025-00535-9",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07168-1",
-      "title": "Family Navigation Engagement and Outcomes for Children With a New Autism Diagnosis",
-      "authors": [
-        "Ingrid Y. Lin",
-        "Anna C. Morgan",
-        "Abbey J. Herringshaw",
-        "Nadia K. Lopez",
-        "Melisa J. Deras",
-        "Heidi M. Feldman"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-28",
-      "doi": "10.1007/s10803-025-07168-1",
-      "url": "https://doi.org/10.1007/s10803-025-07168-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07114-1",
-      "title": "Factor Structure of RRBs in Verbal and Non-Verbal Preschoolers With ASD or Related Characteristics",
-      "authors": [
-        "R. Grzadzinski",
-        "A. L. Tapia",
-        "K. Mata",
-        "C. Bradley",
-        "J. W. Bodfish",
-        "M. Hsu",
-        "L. Hiruma",
-        "R. E. Pretzel",
-        "J. Daniels"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-28",
-      "doi": "10.1007/s10803-025-07114-1",
-      "url": "https://doi.org/10.1007/s10803-025-07114-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07143-w",
-      "title": "What Happens After Autism Screening—Factors That Predict Evaluation Attendance",
-      "authors": [
-        "Andrea Trubanova Wieckowski",
-        "Maci Brown",
-        "Hannah Register",
-        "Deborah Fein",
-        "Aubyn C. Stahmer",
-        "Leslie A. McClure",
-        "Sarah Dufek",
-        "Diana L. Robins"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-28",
-      "doi": "10.1007/s10803-025-07143-w",
-      "url": "https://doi.org/10.1007/s10803-025-07143-w",
       "neurotype": [
         "Autism"
       ]
