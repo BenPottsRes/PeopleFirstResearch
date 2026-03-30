@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T07:19:38Z",
+  "generated_at": "2026-03-30T08:02:18Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -581,6 +581,23 @@
       "abstract": "Objective: Inhibition is a critical executive function for stopping routine responses and facilitating planned behaviour. Although the results are mixed, individuals with ADHD are reported to have poorer inhibition performance; however, this remains a subject of ongoing debate. Findings in the literature suggest that the central executive component of working memory and resource allocation could play a role. The present study investigated whether varying maintenance demands would influence inhibition performance among children with and without ADHD. Materials and Methods: The study sample comprised 80 children aged between 7 and 11 years (60 males and 20 females; M age = 9.01). For the first time in the literature, participants completed a Go/no-go Task with four levels of gradually increased working memory load. The data was analysed using mixed repeated measures ANOVA. Results and Conclusion: A significant main effect of group, load and interaction were obtained. There was no significant difference in inhibition performance between the two groups when there was no working memory load. However, in the presence of a load, the ADHD group consistently scored lower across all load con…"
     },
     {
+      "id": "10.1007/s40489-026-00548-y",
+      "title": "Exploring Autism in Middle-to-Later Life: A Systematic Review and Thematic Synthesis of Cognitively and Verbally able Autistic Adults",
+      "authors": [
+        "Jamie Ferrie",
+        "Jessica Hafetz"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1007/s40489-026-00548-y",
+      "url": "https://doi.org/10.1007/s40489-026-00548-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1108/aia-07-2025-0067",
       "title": "From theory to classroom: a deep dive into special education teachers’ insights into practices for individuals with autism",
       "authors": [
@@ -604,6 +621,54 @@
       ],
       "abstract": "Purpose This study aimed to investigate special education teachers’ familiarity with, perceptions of and recommendations for evidence-based practices (EBPs) and complementary and alternative practices (CAMs) for autistic individuals. Design/methodology/approach A descriptive research design was employed, and data were collected from 100 special education teachers across Türkiye through an online survey. The survey measured teachers’ familiarity, credibility perceptions and recommendations for EBPs and CAMs. Quantitative data were analyzed using nonparametric tests, while qualitative data were examined through descriptive analysis. Findings Teachers were significantly more familiar with, found more credible and recommended EBPs more frequently than CAMs. However, some teachers still perceived CAMs as credible and recommended them, despite the lack of scientific support. Familiarity and credibility were highly correlated with teachers’ own knowledge and skills. Teachers with graduate-level education rated EBPs and CAMs as more credible compared to those with an undergraduate degree. The most common reasons for recommending practices were perceived effectiveness, knowledge and scienti…",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613261431925",
+      "title": "‘A New Pace of Life’: A Mixed-Methods Exploration of Retirement Plans, Preparations and Experiences in Middle-Aged and Older Autistic and Non-Autistic Adults",
+      "authors": [
+        "Zuzanna Kowalczyk",
+        "Ahna Huwaida Ahmad Fadzil",
+        "Isabel Ward",
+        "Francesca Happé",
+        "Gavin R Stewart"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-29",
+      "doi": "10.1177/13623613261431925",
+      "url": "https://doi.org/10.1177/13623613261431925",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Quality of life"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Retirement is a major life change affecting routines, finances and wellbeing. Autistic adults may face extra challenges during this transition due to employment barriers, limited support and planning difficulties. However, little is known about their retirement experiences compared to non-autistic adults. This mixed-methods study surveyed 517 adults from the United Kingdom (autistic n = 395), aged 40–90 years, about their retirement status, plans, experiences, employment history, income and financial security. Actual or expected retirement ages were similar across groups, but autistic adults were less likely to have made plans and more likely to have plans disrupted by financial, health or personal factors. They also reported lower rates of full-time work, reduced pensions and lower pre-retirement income. Many highlighted a lack of information about pensions and lifestyle planning. Concerns included isolation, loss of routine and financial worries, but some looked forward to more autonomy and time for self-care, leisure activities and interests. While there were many similarities between the autistic and non-autistic groups, our study found that autistic adults may reach retirement…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427571",
+      "title": "Impacts of Knowledge and Familiarity on Differences in Explicit Stigma and Implicit Biases Toward Autism Across France",
+      "authors": [
+        "Camille Mazouffre",
+        "Florian Laronze",
+        "Anouck Amestoy",
+        "Bernard N’kaoua"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-03-29",
+      "doi": "10.1177/13623613261427571",
+      "url": "https://doi.org/10.1177/13623613261427571",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Autistic people frequently experience stigma that can be expressed whether consciously or unconsciously. This study examined how familiarity with autistic people, factual knowledge about autism, sociodemographic characteristics, and cultural value orientations relate to three facets of autism stigma: desired social distance, stereotypical beliefs, and implicit bias. French adults ( N = 277) completed online measures of autism knowledge, familiarity, social distance, and stereotypes, a cultural orientation scale, and an Implicit Association Test assessing automatic evaluations of autism. Results showed that familiarity and knowledge about autism were both associated with lower explicit stigma, while only familiarity was linked to a reduction in implicit prejudice. Moreover, the regression analysis has shown that the different constructs of stigma evaluated in our study (social distance, stereotype, and implicit bias) were predicted by different variables. Particularly, social distance was predicted by stronger stereotypes, male gender, and more individualistic values, whereas stereotypes were higher among older, less-educated participants with limited knowledge, less familiarity, an…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -3846,32 +3911,6 @@
         "Healthcare"
       ],
       "abstract": "Objective: Females represent a growing proportion of adults with ADHD yet remain understudied in the literature compared to males. An important aspect of the experience of females with ADHD is the impact of the menstrual cycle and ovarian hormones on both the symptoms of ADHD and effects of stimulant medications on treating these symptoms. Method: In the present pilot study, female participants being treated with amphetamine salts for ADHD ( n = 30) were recruited to complete 35 daily online surveys to track ADHD symptoms, mood, and medication use through the menstrual cycle. Results: Results indicated that the degree of ADHD symptoms was significantly associated with menstrual cycle phase with ADHD symptoms being most severe in the menstruation phase and comparatively milder ADHD symptoms in the mid-follicular phase. This difference was positively correlated with subjective changes in negative mood. Conclusion: These results indicate that ADHD symptoms vary across the menstrual cycle among females being treated with amphetamine salts for their ADHD, a finding that could inform clinical and prescribing practices for physicians caring for females with ADHD."
-    },
-    {
-      "id": "10.1177/10870547251393062",
-      "title": "How Does Adult Temperament Relate to ADHD Symptom Domains? Testing the Dual-Pathway Model",
-      "authors": [
-        "Clara Teuchert",
-        "Julia Kerner auch Koerner",
-        "Monika Daseking",
-        "Henning Heinze"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10870547251393062",
-      "url": "https://doi.org/10.1177/10870547251393062",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "Object: Temperament provides a valuable framework for understanding ADHD across the lifespan, as extreme temperamental traits are considered etiological risk factors. The dual-pathway model links specific temperamental traits to ADHD symptom domains: elevated reactive traits, surgency and negative affect, to hyperactivity/impulsivity, and a low regulatory trait, effortful control, to inattention. Method: One hundred fifty-eight adults (79 with clinical diagnoses of ADHD and 79 controls) filled in the Adult Temperament Questionnaire. Consistent with a compensatory extension of the dual-pathway model, it was hypothesized that effortful control would moderate the effects of reactive traits (surgency/negative affect) on hyperactive/impulsive symptoms and influence both ADHD symptom domains. For exploratory purposes, orienting sensitivity, an adult temperament factor related to perceptual sensitivity, was included in the analyses. Results: Binary logistic regression identified lower effortful control as the strongest predictor of an ADHD diagnosis. Negative affect had a significant but small effect, while surgency and orienting sensitivity were non-significant. Two hierarchical regressi…"
     },
     {
       "id": "10.1002/aur.70185",
@@ -10696,29 +10735,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1089/aut.2024.0005",
-      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
-      "authors": [
-        "Jiedi Lei",
-        "Kate Cooper",
-        "Matthew J. Hollocks"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-01",
-      "doi": "10.1089/aut.2024.0005",
-      "url": "https://doi.org/10.1089/aut.2024.0005",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1089/aut.2023.0049",
       "title": "How Do Autistic Students Do in the Eyes of Their Peers? Non-Autistic Judgments About the Academic Experiences of Autistic and Non-Autistic University Students, Based on Brief Samples of Behavior",
       "authors": [
@@ -10740,6 +10756,29 @@
         "Employment"
       ],
       "abstract": "Background: Previous research has found that people can make a variety of judgments about others based on brief samples of their behavior such as judging their social favorability and whether they wish to socialize with them. Non-autistic people frequently perceive autistic people more negatively than non-autistic people, although we do not fully understand the real-world consequences of this perceptual bias. This study extends previous work by investigating these perceptual biases within a real-world context: university. Method: Non-autistic university students ( n = 25) watched short, candid video clips of autistic and non-autistic people. Participants rated different aspects of the stimulus model’s academic experience, focusing on their motivation to study, academic success, grades, and happiness at university. Results: Across all measures, non-autistic participants judged the academic experience of autistic models more negatively than non-autistic models, perceiving lower academic motivation, success, grades, and happiness at university. Conclusion: These results demonstrate a consistent negative bias that autistic students may face from their peers at university. We discuss th…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1089/aut.2024.0005",
+      "title": "Psychological Interventions for Autistic Adolescentswith Co-Occurring Anxiety and Depression: Considerations Linked to Autism Social Identity and Masking",
+      "authors": [
+        "Jiedi Lei",
+        "Kate Cooper",
+        "Matthew J. Hollocks"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2025,
+      "published_date": "2025-12-01",
+      "doi": "10.1089/aut.2024.0005",
+      "url": "https://doi.org/10.1089/aut.2024.0005",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Adolescence marks a time of increased vulnerability to developing mental health difficulties. Recent literature has pointed towards both risk and protective factors that contribute to the development and maintenance of co-occurring mental health difficulties amongst autistic adolescents. For example, autistic individuals may mask their autistic traits to fit in with neurotypical peers, but prolonged masking may negatively influence the development of one’s autistic identity and increase vulnerability to developing mental health difficulties. In this commentary, we focus our efforts on highlighting how 1) autistic identity and 2) masking behaviours may be considered within a holistic and person-centred formulation to guide treatment for mental health difficulties in autistic adolescents. In current clinical practice, mental health practitioners may not explicitly enquire about potential construct overlap between these autism related factors and other cognitive and behavioural factors that perpetuate mental health difficulties. We propose a series of assessment questions that clinical professionals may use when developing a shared understanding with autistic adolescents of how they p…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -11057,24 +11096,6 @@
         "Healthcare"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s40489-025-00535-9",
-      "title": "Suicide Prevention Interventions and Supports for the Autistic Community: A Scoping Review",
-      "authors": [
-        "Amy Russell",
-        "Emma Rainbow",
-        "Clodagh Cremen",
-        "Ruth Melia"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-11-29",
-      "doi": "10.1007/s40489-025-00535-9",
-      "url": "https://doi.org/10.1007/s40489-025-00535-9",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
