@@ -1,8 +1,140 @@
 {
-  "generated_at": "2026-04-01T07:55:16Z",
+  "generated_at": "2026-04-02T07:42:18Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10870547261416467",
+      "title": "Episodic Future Thinking Improves Everyday Prospective Memory Performance in Adults With a Previous Diagnosis of Attention Deficit Hyperactivity Disorder by Community Providers",
+      "authors": [
+        "Mareike Altgassen",
+        "Helena Heinrich",
+        "Marc-Andreas Edel"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/10870547261416467",
+      "url": "https://doi.org/10.1177/10870547261416467",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "This study investigated the effects of the encoding strategy episodic future thinking on prospective memory performance (i.e., remembering to execute intended actions in the future) in individuals with a diagnosis of Attention Deficit Hyperactivity Disorder (ADHD) by community providers. Individuals with ADHD often have difficulties to plan and execute delayed intentions in everyday life; thus, they show reduced prospective memory performance. Several studies indicate that engaging in episodic future thinking (i.e., mentally imagining executing the planned activity) during intention formation can improve prospective memory performance in typically developing populations in lab-based settings. To assess the execution of everyday intentions, we requested participants to perform the diary task. Thirty-two adults with ADHD and 31 controls were allocated to an episodic future thinking encoding condition and 31 adults with ADHD and 33 controls to a standard encoding condition. Analyses of variance revealed significant main effects of group and of encoding condition. Overall, controls remembered to execute more intentions than individuals with ADHD. Across groups, episodic future thinking…"
+    },
+    {
+      "id": "10.1177/10870547251409862",
+      "title": "Disparities in Adult ADHD Care Delivery Among U.S. Telepsychology Providers",
+      "authors": [
+        "Marushka R. Rout",
+        "Ava Gaddis",
+        "Carlos E. Yeguez",
+        "Margaret H. Sibley",
+        "Nicole B. Groves"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/10870547251409862",
+      "url": "https://doi.org/10.1177/10870547251409862",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Objective: At least a third of U.S. adults with ADHD do not access recommended treatments (medication or cognitive behavioral therapy [CBT]), and those receiving treatment face barriers (e.g., inconsistent availability of medication). We investigated systemic inequities in CBT access for adults with ADHD versus psychiatric diagnoses with similar prevalence. Method: We accessed and extracted publicly available listings from the Psychology Interjurisdictional Compact (PSYPACT) provider directory ( N = 12,898) in April 2025. Results: Only 26.4% of PSYPACT providers explicitly offer any services for adult ADHD. They were nearly three times more likely to treat adult depression (69.2%) and anxiety (74.0%). CBT for adult ADHD was offered by just 21.3% of providers. Conclusion: U.S. psychologists are chief CBT providers for adult mental disorders; however, they systemically underserve adults with ADHD. Contributors to this inequity must be identified to advance adult ADHD care, as untreated ADHD is a costly public health burden."
+    },
+    {
+      "id": "10.1177/10870547251406760",
+      "title": "Medication Adherence in Children and Adults Receiving Treatment for Attention Deficit Hyperactivity Disorder (ADHD) in Sweden: A Nationwide Study",
+      "authors": [
+        "MaiBritt Giacobini",
+        "Jingcheng Zhao",
+        "Jonatan Freilich",
+        "Carolina Brünner",
+        "Niklas Wallin Bernhardsson",
+        "Ewa Ahnemark"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/10870547251406760",
+      "url": "https://doi.org/10.1177/10870547251406760",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: To estimate the adherence of children and adults to oral stimulant ADHD treatments in Sweden during the period 2015 to 2020. Methods: This retrospective, nationwide, register-based study evaluated all patients who were dispensed oral formulation stimulants (Anatomical Therapeutic Chemical [ATC] codes: N06BA01, N06BA02, N06BA04, N06BA12) identified in the Swedish Prescribed Drug Register. Treatment episodes were constructed based on drug dispensation data, and treatment adherence was calculated for each treatment episode using a Proportion of Days Covered approach with a modified one-pill-a-day method. Results: Between 2015 and 2020, 158,413 treatment episodes were recorded in 128,366 patients, corresponding to a median 1.23 treatment episodes per patient. The majority of treatment episodes involved methylphenidate (64.0%), followed by lisdexamfetamine (32.2%), dexamfetamine (3.0%), and amphetamine (0.8%). Overall treatment adherence was high (78.2%), and was similar for patients receiving methylphenidate, lisdexamfetamine, and dexamfetamine. The proportion of patients with ≥80% medication adherence was high (69.3%–71.8%) for adults aged ≥25 years, but was low for adolesc…"
+    },
+    {
+      "id": "10.1177/10870547251408120",
+      "title": "What Are You Waiting For?! Roles of Motivation, Goal Orientation, and Emotion Regulation in Explaining the Link Between ADHD and Procrastination",
+      "authors": [
+        "Ruth Netzer Turgeman",
+        "Yehuda Pollak"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/10870547251408120",
+      "url": "https://doi.org/10.1177/10870547251408120",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "abstract": "Objective: This study aims to investigate the complex relation between adult ADHD symptoms, procrastination, and mediating factors, in light of leading procrastination theories: the Temporal Motivation Theory (TMT), emotion regulation, and a General Architecture for Modeling the Dynamics of Goal-Directed Motivation and Decision-Making – the GOAL architecture. Method: The study was preregistered. A survey was conducted with 640 adults recruited online to examine the associations between ADHD symptoms, procrastination, and seven mediating factors. Participants completed measures assessing ADHD symptoms, procrastination tendencies, emotion regulation, motivation, and goal-related behaviors. Structural equation modeling (SEM) was used to test the direct and indirect pathways among the variables. Results: A positive association was revealed between ADHD inattention symptoms and procrastination tendencies. The mediating factors that significantly contributed to this relations were sensitivity to delay, perceived low value of the task, and flexible goal adjustment. While ADHD inattention symptoms was associated with all seven variables, three variables directly contributed to increased pr…"
+    },
+    {
+      "id": "10.1177/10870547251404197",
+      "title": "Effects of Exercise on Hyperactivity/Impulsivity and Inhibitory Control at Behavioral and Electrophysiological Levels in ADHD: A Systematic Review and Meta-Analysis",
+      "authors": [
+        "Zeping Zhang",
+        "Xuanyu Bo",
+        "Kun Liu",
+        "Jiangdi Su",
+        "Yongfei Zhu",
+        "Suyong Yang"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/10870547251404197",
+      "url": "https://doi.org/10.1177/10870547251404197",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: This study aimed to assess the impact of exercise on hyperactivity/impulsivity, inhibitory control, and inhibition-related event-related potential (ERP) components in individuals with ADHD. Method: A systematic search identified relevant studies, and methodological quality was assessed using the Revised Cochrane Risk-of-Bias tool for randomized trials (RoB 2) and the Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I), with data analysis conducted using Stata software. Results: A total of 36 studies (38 comparisons) were included, comprising 10 acute and 26 chronic exercise interventions. Exercise yielded a small-to-moderate improvement in inhibitory control but showed no significant effects on hyperactivity/impulsivity or inhibition-related N2 and P3 components. Subgroup analyses of inhibitory control revealed significant moderating effects of age (children/adolescents), intervention type (chronic interventions), frequency (three sessions per week), control condition (sedentary or no-intervention groups), and study quality (studies with moderate or high risk of bias). Conclusion: Exercise enhances inhibitory control in individuals with ADHD, with the effe…"
+    },
+    {
+      "id": "10.1177/10870547251394080",
+      "title": "Self-Reported ADHD Symptoms and Cognitive Performance in a National Sample of US Older Adults",
+      "authors": [
+        "Marrium Mansoor",
+        "Rosanna Breaux",
+        "Tae-Ho Lee",
+        "Benjamin Katz"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/10870547251394080",
+      "url": "https://doi.org/10.1177/10870547251394080",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "Objective: Although inattention symptoms have been previously linked to cognitive performance in younger samples, few studies have examined links between ADHD symptoms and cognitive performance for middle aged and older adults. Methods: In this study, we drew from a nationally representative sample from the Health and Retirement Study (HRS) of ~1,400 middle to older adults ( M age = 66.9, SD = 8.4; 41.4% male; 60.7% White) who completed a set of cognitive measures and an ADHD symptomatology questionnaire in the 2016 Wave of the HRS. A multigroup path model was run by examining the association between self-reported ADHD symptom subscale scores for inattention and hyperactivity/impulsivity as well as self-reported depressive symptoms and cognitive outcomes across three groups: middle age, young-old, and middle-old. Results: Inattention symptoms were significantly associated with Serial 7s and Immediate Recall, however the constrained model was the best fitting model, suggesting no differences in the associations between self-reported inattention symptoms and cognitive outcomes by age. Conclusion: These results are consistent with previous work on the links between ADHD symptoms and c…"
+    },
     {
       "id": "10.1007/s10803-026-07250-2",
       "title": "Correction: Clinical Correlates of Major Depression in Psychiatrically Referred Youth With and Without Autism: A Controlled Study",
@@ -537,6 +669,31 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/10870547261432424",
+      "title": "ADHD-Like Traits Reshape the Balance Between Inhibitory Control and Predictive Processes",
+      "authors": [
+        "Karolina Horváth",
+        "Bianka Brezóczki",
+        "Adrienn Holczer",
+        "Teodóra Vékony",
+        "Dezső Németh"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1177/10870547261432424",
+      "url": "https://doi.org/10.1177/10870547261432424",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "Objective: Adaptive behavior relies on a dynamic balance between flexible, goal-directed control, and efficient, automatic processes. This equilibrium is often disrupted in ADHD, a condition understood to exist along a continuum of traits in the general population. While ADHD is consistently linked to response inhibition deficits, its relationship with statistical learning (a mechanism for habit learning) and, crucially, the interaction between these functions, remains underexplored. Methods: Here, using a novel paradigm in a non-clinical sample of university students ( n = 226), we investigated how ADHD-like traits modulate the interplay between response inhibition and statistical learning. Results: We found that higher ADHD-like traits were associated with poorer response inhibition, confirming previous research. Importantly, we uncovered an antagonistic relationship between inhibition and statistical learning, where weaker inhibitory control typically led to enhanced learning of environmental regularities. However, this learning advantage progressively diminished across the ADHD trait continuum, becoming markedly reduced in individuals with high symptom prevalence. Conclusion: T…"
+    },
+    {
       "id": "10.1177/10870547251385660",
       "title": "Mind-Wandering in Adolescents With ADHD: A Comparative Study",
       "authors": [
@@ -602,6 +759,39 @@
         "ADHD"
       ],
       "abstract": "Objective: Previous studies have found that ADHD symptoms often co-occur with aggressive behavior in adolescents, and that reactive aggression is more closely related to ADHD symptoms than proactive aggression. However, the specific co-occurrence patterns of ADHD symptoms and different functions of aggression remain unclear, as does their relationship with parenting practices. This study used a person-centered approach to examine the co-occurrence patterns of ADHD symptoms, reactive aggression, and proactive aggression and their associations with parenting practices. Method: A total of 1,152 mother-adolescent dyads participated in this study (adolescents: M age = 14.29; 48.0% girls). Latent profile analysis was conducted to identify adolescent profiles of ADHD, reactive, and proactive aggression, followed by multinomial logistic regression to examine relationships between these profiles and auxiliary variables. Results: Latent profile analysis identified three patterns of adolescent- and mother-reported ADHD symptoms, reactive aggression, and proactive aggression: low symptom (84.4%), reactive co-occurrence (10.0%), and complete co-occurrence (5.6%). Multinomial logistic regression…"
+    },
+    {
+      "id": "10.1002/aur.70239",
+      "title": "Language Abilities Associated With Household Income and Parental Education Level in Autistic Children During Early Childhood",
+      "authors": [
+        "Hosanna Kim",
+        "Andrew Dakopolos",
+        "Danielle Harvey",
+        "Olivia Surgent",
+        "Brianna Heath",
+        "David G. Amaral",
+        "Sally J. Rogers",
+        "Marjorie Solomon",
+        "Christine Wu Nordahl",
+        "Derek Sayre Andrews"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70239",
+      "url": "https://doi.org/10.1002/aur.70239",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Socioeconomic factors, such as poverty, can significantly impact developmental outcomes. While well‐studied in neurotypical children, limited research exists on the impact of these factors on autistic children's development, especially in early childhood. We examined the relationships between two socioeconomic factors, household income and parental education, with cognitive and behavioral profiles in a sample of 308 autistic children aged 2–3.5 years. We found that higher household income and parental education level were significantly associated with higher language abilities and lower externalizing behaviors. Moreover, autistic children from families with below‐average income had lower language abilities compared to those from families with average or above‐average income. The effects of household income and parental education level remained significant even after controlling for one another. Our findings suggest that lower parental education level and household income, particularly among families from the lowest economic backgrounds, significantly impact language abilities in young autistic children and may contribute to the development of externalizing behaviors, a pat…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00551-3",
@@ -5672,24 +5862,6 @@
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
     },
     {
-      "id": "10.1177/10870547261416467",
-      "title": "Episodic Future Thinking Improves Everyday Prospective Memory Performance in Adults With a Previous Diagnosis of Attention Deficit Hyperactivity Disorder by Community Providers",
-      "authors": [
-        "Mareike Altgassen",
-        "Helena Heinrich",
-        "Marc-Andreas Edel"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-12",
-      "doi": "10.1177/10870547261416467",
-      "url": "https://doi.org/10.1177/10870547261416467",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "This study investigated the effects of the encoding strategy episodic future thinking on prospective memory performance (i.e., remembering to execute intended actions in the future) in individuals with a diagnosis of Attention Deficit Hyperactivity Disorder (ADHD) by community providers. Individuals with ADHD often have difficulties to plan and execute delayed intentions in everyday life; thus, they show reduced prospective memory performance. Several studies indicate that engaging in episodic future thinking (i.e., mentally imagining executing the planned activity) during intention formation can improve prospective memory performance in typically developing populations in lab-based settings. To assess the execution of everyday intentions, we requested participants to perform the diary task. Thirty-two adults with ADHD and 31 controls were allocated to an episodic future thinking encoding condition and 31 adults with ADHD and 33 controls to a standard encoding condition. Analyses of variance revealed significant main effects of group and of encoding condition. Overall, controls remembered to execute more intentions than individuals with ADHD. Across groups, episodic future thinking…"
-    },
-    {
       "id": "10.1002/aur.70196",
       "title": "How Screening and Diagnostic Tools Shape Autism Prevalence in School‐Aged Children: A Bibliometric‐Systematic Review (2015–2025)",
       "authors": [
@@ -6254,22 +6426,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -6290,6 +6446,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -6387,36 +6559,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -6450,6 +6592,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6816,36 +6988,6 @@
         "Mental health"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07169-0",
-      "title": "Correction: Evaluation of the Psychometric Properties of the Social Communication Questionnaire in Rural Kenya",
-      "authors": [
-        "Patricia Kipkemoi",
-        "Jeanne E. Savage",
-        "Joseph Gona",
-        "Kenneth Rimba",
-        "Martha Kombe",
-        "Paul Mwangi",
-        "Collins Kipkoech",
-        "Danielle Posthuma",
-        "Charles R. J. C. Newton",
-        "Amina Abubakar"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1007/s10803-025-07169-0",
-      "url": "https://doi.org/10.1007/s10803-025-07169-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
     },
     {
       "id": "10.1177/13623613251393504",
@@ -8144,33 +8286,6 @@
       "abstract": "Objective: The American Academy of Pediatrics (AAP) recommends behavioral therapy as first-line evidence-based treatment for young children with ADHD, and in combination with medications for children ages 6 years and older. However, a significant percentage of young children are receiving medication treatment for ADHD rather than behavioral treatment. There is limited research capturing parent experiences of barriers to implementing behavioral health services for young children with ADHD diagnoses. This paper seeks to fill this gap by exploring these perceived barriers among parents of children diagnosed with ADHD. Method: Parents of children with ADHD diagnoses ( N = 29) were invited to participate in four focus groups to discuss their experiences with accessing treatment for their child. Focus group participants were recruited from one Southeast city through an ADHD parental support group and nationally from parents attending a conference on ADHD. Results: Three themes emerged as perceived barriers that impact ADHD treatment. Parents reported barriers that can be conceptualized as (1) misconceptions and stigma; (2) availability of financial and time-related resources; and (3) tre…"
     },
     {
-      "id": "10.1177/10870547251409862",
-      "title": "Disparities in Adult ADHD Care Delivery Among U.S. Telepsychology Providers",
-      "authors": [
-        "Marushka R. Rout",
-        "Ava Gaddis",
-        "Carlos E. Yeguez",
-        "Margaret H. Sibley",
-        "Nicole B. Groves"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-22",
-      "doi": "10.1177/10870547251409862",
-      "url": "https://doi.org/10.1177/10870547251409862",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: At least a third of U.S. adults with ADHD do not access recommended treatments (medication or cognitive behavioral therapy [CBT]), and those receiving treatment face barriers (e.g., inconsistent availability of medication). We investigated systemic inequities in CBT access for adults with ADHD versus psychiatric diagnoses with similar prevalence. Method: We accessed and extracted publicly available listings from the Psychology Interjurisdictional Compact (PSYPACT) provider directory ( N = 12,898) in April 2025. Results: Only 26.4% of PSYPACT providers explicitly offer any services for adult ADHD. They were nearly three times more likely to treat adult depression (69.2%) and anxiety (74.0%). CBT for adult ADHD was offered by just 21.3% of providers. Conclusion: U.S. psychologists are chief CBT providers for adult mental disorders; however, they systemically underserve adults with ADHD. Contributors to this inequity must be identified to advance adult ADHD care, as untreated ADHD is a costly public health burden."
-    },
-    {
       "id": "10.1002/aur.70177",
       "title": "Clinical Value of Early Motor Skill Assessment and Intervention in Autism Spectrum Disorder",
       "authors": [
@@ -8243,30 +8358,6 @@
       ],
       "abstract": "Abstract Purpose Many Autistic individuals present with comorbid conditions, including internalising and externalising behaviours, sleep issues, intellectual disabilities, and gastrointestinal dysfunction. We investigated the impact of these child comorbidities on parenting stress in an effort to elucidate the underlying mechanism and how they interact with autistic core symptoms. In total, three theoretical models were tested, being the Amplification, Additive, and Mediation Hypotheses. Methods Participants were 453 parents of an Autistic child reporting on their child’s core symptoms, comorbid conditions, and their parenting stress. Results Correlation analyses reveal moderate associations between the comorbid conditions and parenting stress, but uncovered a weak link between core symptoms and parenting stress. Regression analyses revealed that, when key variables were allowed to adjust for one another, comorbid conditions were found to be independent predictors of parenting stress. A subsequent path analysis indicated that internalising and externalising behaviours partially mediated the relationship between core symptoms and parenting stress. There was no evidence to support th…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547251406760",
-      "title": "Medication Adherence in Children and Adults Receiving Treatment for Attention Deficit Hyperactivity Disorder (ADHD) in Sweden: A Nationwide Study",
-      "authors": [
-        "MaiBritt Giacobini",
-        "Jingcheng Zhao",
-        "Jonatan Freilich",
-        "Carolina Brünner",
-        "Niklas Wallin Bernhardsson",
-        "Ewa Ahnemark"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-21",
-      "doi": "10.1177/10870547251406760",
-      "url": "https://doi.org/10.1177/10870547251406760",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: To estimate the adherence of children and adults to oral stimulant ADHD treatments in Sweden during the period 2015 to 2020. Methods: This retrospective, nationwide, register-based study evaluated all patients who were dispensed oral formulation stimulants (Anatomical Therapeutic Chemical [ATC] codes: N06BA01, N06BA02, N06BA04, N06BA12) identified in the Swedish Prescribed Drug Register. Treatment episodes were constructed based on drug dispensation data, and treatment adherence was calculated for each treatment episode using a Proportion of Days Covered approach with a modified one-pill-a-day method. Results: Between 2015 and 2020, 158,413 treatment episodes were recorded in 128,366 patients, corresponding to a median 1.23 treatment episodes per patient. The majority of treatment episodes involved methylphenidate (64.0%), followed by lisdexamfetamine (32.2%), dexamfetamine (3.0%), and amphetamine (0.8%). Overall treatment adherence was high (78.2%), and was similar for patients receiving methylphenidate, lisdexamfetamine, and dexamfetamine. The proportion of patients with ≥80% medication adherence was high (69.3%–71.8%) for adults aged ≥25 years, but was low for adolesc…"
     },
     {
       "id": "10.1007/s10803-026-07217-3",
@@ -8457,26 +8548,6 @@
         "Employment"
       ],
       "abstract": "This study explores the integration of augmented reality (AR) technology into supported employment programs to enhance employment outcomes for individuals with intellectual and developmental disabilities (IDD). The research aimed to evaluate the effectiveness of a novel AR-based application functioning as a virtual job coach, providing real-time, context-specific guidance on completing complex job tasks. Employing a single subject multiple probe across participants design, data were collected from four young adults with IDD. The results showed significant improvements in job task performance; participants’ accuracy rose from an average of 12% during the baseline phase to 94% with the AR intervention. All participants reached mastery criteria, defined as completing at least 90% of steps correctly and independently across four sessions. The study highlights the potential of AR to improve training efficiency, reduce the demand for in-person job coaching, and broaden employment opportunities for individuals with IDD."
-    },
-    {
-      "id": "10.1177/10870547251408120",
-      "title": "What Are You Waiting For?! Roles of Motivation, Goal Orientation, and Emotion Regulation in Explaining the Link Between ADHD and Procrastination",
-      "authors": [
-        "Ruth Netzer Turgeman",
-        "Yehuda Pollak"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-18",
-      "doi": "10.1177/10870547251408120",
-      "url": "https://doi.org/10.1177/10870547251408120",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "abstract": "Objective: This study aims to investigate the complex relation between adult ADHD symptoms, procrastination, and mediating factors, in light of leading procrastination theories: the Temporal Motivation Theory (TMT), emotion regulation, and a General Architecture for Modeling the Dynamics of Goal-Directed Motivation and Decision-Making – the GOAL architecture. Method: The study was preregistered. A survey was conducted with 640 adults recruited online to examine the associations between ADHD symptoms, procrastination, and seven mediating factors. Participants completed measures assessing ADHD symptoms, procrastination tendencies, emotion regulation, motivation, and goal-related behaviors. Structural equation modeling (SEM) was used to test the direct and indirect pathways among the variables. Results: A positive association was revealed between ADHD inattention symptoms and procrastination tendencies. The mediating factors that significantly contributed to this relations were sensitivity to delay, perceived low value of the task, and flexible goal adjustment. While ADHD inattention symptoms was associated with all seven variables, three variables directly contributed to increased pr…"
     },
     {
       "id": "10.1007/s10803-026-07216-4",
@@ -9307,24 +9378,6 @@
       ]
     },
     {
-      "id": "10.1108/aia-11-2025-0115",
-      "title": "Expression of concern: Why caregivers discontinue applied behavior analysis (ABA) and choose communication-based autism interventions",
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-11-2025-0115",
-      "url": "https://doi.org/10.1108/aia-11-2025-0115",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
       "id": "10.1108/aia-08-2025-0088",
       "title": "Communicating autism: a qualitative analysis of daily challenges and adaptations",
       "authors": [
@@ -10080,27 +10133,6 @@
       ],
       "abstract": "This study evaluated the effectiveness of video and electronic pictorial presentation modalities in multiple stimulus without replacement (MSWO) job task preference assessments through methods comparison and evaluation of predictive validity. The study was conducted in the school setting with eight transition-age students with ASD and ID. Variations of work task preference assessment, electronic picture-based and video-based MSWO, were compared to an established assessment method, tangible stimulus MSWO. Subsequently, the predictive validity of the assessments was evaluated by observing the task engagement of participants while performing the high- and low-preference work tasks. Results suggest that electronic pictorial and video MSWO assessments of preferences are accurate and effective with some individuals and not as effective as the object modality for others. Findings, limitations, and implications for research and practice are also discussed.",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10870547251404197",
-      "title": "Effects of Exercise on Hyperactivity/Impulsivity and Inhibitory Control at Behavioral and Electrophysiological Levels in ADHD: A Systematic Review and Meta-Analysis",
-      "authors": [
-        "Zeping Zhang",
-        "Xuanyu Bo",
-        "Kun Liu",
-        "Jiangdi Su",
-        "Yongfei Zhu",
-        "Suyong Yang"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-16",
-      "doi": "10.1177/10870547251404197",
-      "url": "https://doi.org/10.1177/10870547251404197",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: This study aimed to assess the impact of exercise on hyperactivity/impulsivity, inhibitory control, and inhibition-related event-related potential (ERP) components in individuals with ADHD. Method: A systematic search identified relevant studies, and methodological quality was assessed using the Revised Cochrane Risk-of-Bias tool for randomized trials (RoB 2) and the Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I), with data analysis conducted using Stata software. Results: A total of 36 studies (38 comparisons) were included, comprising 10 acute and 26 chronic exercise interventions. Exercise yielded a small-to-moderate improvement in inhibitory control but showed no significant effects on hyperactivity/impulsivity or inhibition-related N2 and P3 components. Subgroup analyses of inhibitory control revealed significant moderating effects of age (children/adolescents), intervention type (chronic interventions), frequency (three sessions per week), control condition (sedentary or no-intervention groups), and study quality (studies with moderate or high risk of bias). Conclusion: Exercise enhances inhibitory control in individuals with ADHD, with the effe…"
     },
     {
       "id": "10.1007/s10803-025-07179-y",
@@ -10912,156 +10944,6 @@
         "Employment"
       ],
       "abstract": "There is a lack of representation of racially diverse individuals who are multilingual from low-income households in autism research. This calls into question the generalizability of research findings derived from predominantly White, English-speaking samples. In this article, we bring forth an important argument about why we as an autism field should work to expand representation in research samples. We also discuss strategies that can be used to work toward this goal. We detail the recruitment and retention of 94 Spanish–English bilingual Latinx (primarily Mexican and Central American) families from low-income households across a large urban city and its surrounding communities in the United States for an assessment validation study. We use the method of this study as an example of how to engage and include underrepresented populations in autism research, describing the efforts that were implemented to engage families and community-based organizations serving this population. We conclude the report by summarizing culturally sensitive strategies researchers can use to engage populations of different races and ethnicities from low-income households in their own research studies, in…"
-    },
-    {
-      "id": "10.1177/10870547251394080",
-      "title": "Self-Reported ADHD Symptoms and Cognitive Performance in a National Sample of US Older Adults",
-      "authors": [
-        "Marrium Mansoor",
-        "Rosanna Breaux",
-        "Tae-Ho Lee",
-        "Benjamin Katz"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-03",
-      "doi": "10.1177/10870547251394080",
-      "url": "https://doi.org/10.1177/10870547251394080",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "Objective: Although inattention symptoms have been previously linked to cognitive performance in younger samples, few studies have examined links between ADHD symptoms and cognitive performance for middle aged and older adults. Methods: In this study, we drew from a nationally representative sample from the Health and Retirement Study (HRS) of ~1,400 middle to older adults ( M age = 66.9, SD = 8.4; 41.4% male; 60.7% White) who completed a set of cognitive measures and an ADHD symptomatology questionnaire in the 2016 Wave of the HRS. A multigroup path model was run by examining the association between self-reported ADHD symptom subscale scores for inattention and hyperactivity/impulsivity as well as self-reported depressive symptoms and cognitive outcomes across three groups: middle age, young-old, and middle-old. Results: Inattention symptoms were significantly associated with Serial 7s and Immediate Recall, however the constrained model was the best fitting model, suggesting no differences in the associations between self-reported inattention symptoms and cognitive outcomes by age. Conclusion: These results are consistent with previous work on the links between ADHD symptoms and c…"
-    },
-    {
-      "id": "10.1007/s10803-025-07160-9",
-      "title": "Clinical Features of Children at Risk of Profound Autism",
-      "authors": [
-        "M. A. Hodge",
-        "K. A. Boulton",
-        "R. Sutherland",
-        "S. Baracz",
-        "N. Ong",
-        "B. Bennett",
-        "G. Brooks",
-        "A. J. Guastella",
-        "N. Silove"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-02",
-      "doi": "10.1007/s10803-025-07160-9",
-      "url": "https://doi.org/10.1007/s10803-025-07160-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07150-x",
-      "title": "Effectiveness of Motor Support Program in Multidimensional Development of Autistic Children",
-      "authors": [
-        "Gülsüm Hatipoğlu Özcan",
-        "Gökçe Oktay Kaya"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-02",
-      "doi": "10.1007/s10803-025-07150-x",
-      "url": "https://doi.org/10.1007/s10803-025-07150-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07151-w",
-      "title": "Parental Burnout in Chinese Parents of Children With Developmental Disabilities: A Generalized Additive Model Perspective",
-      "authors": [
-        "Tingrui Yan",
-        "Yujia Hou",
-        "Yuhao Deng"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-02",
-      "doi": "10.1007/s10803-025-07151-w",
-      "url": "https://doi.org/10.1007/s10803-025-07151-w",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07134-x",
-      "title": "Parental Beliefs, Parental Support, and Physical Activity in Children With Autism Spectrum Disorder: A Network Analysis",
-      "authors": [
-        "Minghui Lu",
-        "Ting Duan",
-        "Qinqin Zou",
-        "Jiayu Xu",
-        "Feifan Pang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-02",
-      "doi": "10.1007/s10803-025-07134-x",
-      "url": "https://doi.org/10.1007/s10803-025-07134-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07146-7",
-      "title": "Aberrant Cognitive-Affective Empathy in Children With Autism Spectrum Disorder: Electrophysiological Evidence of Viewing Social Animation",
-      "authors": [
-        "Yimeng Pan",
-        "Chuanyong Xu",
-        "Binbin Sun",
-        "Jierong Chen",
-        "Xinrong Guo",
-        "Zhen Wei",
-        "Ziwen Peng"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-02",
-      "doi": "10.1007/s10803-025-07146-7",
-      "url": "https://doi.org/10.1007/s10803-025-07146-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07127-w",
-      "title": "A Data-Driven Investigation of Environmental Correlates Associated With the Lived Experience of Autistic People",
-      "authors": [
-        "Melanie M. de Wit",
-        "Pedro Sant’Anna Barbosa Ferriera",
-        "Sander Begeer",
-        "Abdel Abdellaoui",
-        "Alfred J. Wagtendonk",
-        "Meike Bartels",
-        "Margot P. van de Weijer",
-        "Tinca J. C. Polderman"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-02",
-      "doi": "10.1007/s10803-025-07127-w",
-      "url": "https://doi.org/10.1007/s10803-025-07127-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
