@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T07:42:18Z",
+  "generated_at": "2026-04-03T07:38:17Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -114,26 +114,84 @@
       "abstract": "Objective: This study aimed to assess the impact of exercise on hyperactivity/impulsivity, inhibitory control, and inhibition-related event-related potential (ERP) components in individuals with ADHD. Method: A systematic search identified relevant studies, and methodological quality was assessed using the Revised Cochrane Risk-of-Bias tool for randomized trials (RoB 2) and the Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I), with data analysis conducted using Stata software. Results: A total of 36 studies (38 comparisons) were included, comprising 10 acute and 26 chronic exercise interventions. Exercise yielded a small-to-moderate improvement in inhibitory control but showed no significant effects on hyperactivity/impulsivity or inhibition-related N2 and P3 components. Subgroup analyses of inhibitory control revealed significant moderating effects of age (children/adolescents), intervention type (chronic interventions), frequency (three sessions per week), control condition (sedentary or no-intervention groups), and study quality (studies with moderate or high risk of bias). Conclusion: Exercise enhances inhibitory control in individuals with ADHD, with the effe…"
     },
     {
-      "id": "10.1177/10870547251394080",
-      "title": "Self-Reported ADHD Symptoms and Cognitive Performance in a National Sample of US Older Adults",
+      "id": "10.1007/s10803-026-07312-5",
+      "title": "Alterations in Amygdala and Hippocampal Volumes in Autism Spectrum Disorder: Meta-analysis",
       "authors": [
-        "Marrium Mansoor",
-        "Rosanna Breaux",
-        "Tae-Ho Lee",
-        "Benjamin Katz"
+        "Yasemin Deniz",
+        "Alfa Zamrotin Malaniale Maidi",
+        "Sun-Joung Leigh An",
+        "Yonggeun Hong"
       ],
-      "journal": "Journal of Attention Disorders",
+      "journal": "Journal of Autism and Developmental Disorders",
       "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/10870547251394080",
-      "url": "https://doi.org/10.1177/10870547251394080",
+      "published_date": "2026-04-02",
+      "doi": "10.1007/s10803-026-07312-5",
+      "url": "https://doi.org/10.1007/s10803-026-07312-5",
       "neurotype": [
-        "ADHD"
+        "Autism"
       ],
-      "domains": [
-        "Employment"
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07319-y",
+      "title": "Why Music Matters: Music-Listening Functions and Motives in Autistic and Non-autistic Adults",
+      "authors": [
+        "Jiayin Li",
+        "Jia Hoong Ong",
+        "Zivile Bernotaite",
+        "Maleeha Sujawal",
+        "Fang Liu"
       ],
-      "abstract": "Objective: Although inattention symptoms have been previously linked to cognitive performance in younger samples, few studies have examined links between ADHD symptoms and cognitive performance for middle aged and older adults. Methods: In this study, we drew from a nationally representative sample from the Health and Retirement Study (HRS) of ~1,400 middle to older adults ( M age = 66.9, SD = 8.4; 41.4% male; 60.7% White) who completed a set of cognitive measures and an ADHD symptomatology questionnaire in the 2016 Wave of the HRS. A multigroup path model was run by examining the association between self-reported ADHD symptom subscale scores for inattention and hyperactivity/impulsivity as well as self-reported depressive symptoms and cognitive outcomes across three groups: middle age, young-old, and middle-old. Results: Inattention symptoms were significantly associated with Serial 7s and Immediate Recall, however the constrained model was the best fitting model, suggesting no differences in the associations between self-reported inattention symptoms and cognitive outcomes by age. Conclusion: These results are consistent with previous work on the links between ADHD symptoms and c…"
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-02",
+      "doi": "10.1007/s10803-026-07319-y",
+      "url": "https://doi.org/10.1007/s10803-026-07319-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07316-1",
+      "title": "Association Between Autism-Related Symptoms and Mealtime Behavior Problems in Children With Autism Spectrum Disorders",
+      "authors": [
+        "Jiao Tong",
+        "Xu Chen",
+        "Tao Wang",
+        "Shan Ma",
+        "Yiting Tao",
+        "Haiyan Zhao",
+        "Changjiang Liu",
+        "Yu Wang",
+        "Xue Wang",
+        "Dongmei Yan"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-02",
+      "doi": "10.1007/s10803-026-07316-1",
+      "url": "https://doi.org/10.1007/s10803-026-07316-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2651406",
+      "title": "Application of neurofeedback in autism spectrum disorder: a systematic review and meta-analysis",
+      "authors": [
+        "Mohammed Alhwaiti"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-04-02",
+      "doi": "10.1080/20473869.2026.2651406",
+      "url": "https://doi.org/10.1080/20473869.2026.2651406",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07250-2",
@@ -3583,31 +3641,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -3636,6 +3669,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -4302,24 +4360,6 @@
         "sensory"
       ],
       "abstract": "Autistic people often face challenges in face-to-face social interactions, especially in unfamiliar or high-stakes situations. Virtual reality has been proposed as a tool to support social connection by offering a more controlled and accessible environment. While previous research has focused on virtual reality–based social skills training, little is known about how autistic people experience social interactions in virtual reality. We interviewed 22 autistic young people (aged 9–22 years, M Age = 14.5) after they engaged in a social interaction with a stranger in immersive virtual reality. Using reflexive thematic analysis, we found that participants generally found virtual reality interactions tolerable, engaging and helpful as a low-pressure first step towards more challenging social situations. Virtual reality was valued for reducing sensory overload, increasing confidence and offering novel social opportunities. However, participants did not view virtual reality as a replacement for in-person interaction, which they saw as essential for building meaningful relationships. These findings highlight the potential of virtual reality to support autistic people by modifying the social…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251394523",
-      "title": "The relationship between newspaper reading preferences and attitudes towards autism",
-      "authors": [
-        "Marta Dickinson",
-        "Themis Karaminis"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251394523",
-      "url": "https://doi.org/10.1177/13623613251394523",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Newspapers – particularly certain tabloid and right-leaning publications – often perpetuate negative stereotypes of Autistic people. This study examined how newspaper reading preferences relate to public attitudes towards autism. A sample of 277 UK-based non-autistic adults completed an online survey reporting demographic information, newspaper reading habits (print or online) and trustworthiness ratings for 10 major British newspapers. Participants also completed measures of autism-related knowledge and explicit attitudes towards autism, and an implicit bias task. Data were analysed using generalized additive models weighted by newspaper exposure, along with hierarchical partitioning to estimate the variance explained by reading preferences and other factors. Newspaper-related factors accounted for 4.5% of the variance in explicit attitudes and 10.7% in implicit attitudes. Crucially, selective engagement with right-leaning tabloids was associated with more negative implicit attitudes. Furthermore, selective trust in these outlets predicted relatively favourable explicit but relatively negative implicit attitudes. Overall trust in newspapers was also linked to less accurate autism…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6559,6 +6599,36 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -6592,36 +6662,6 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6726,35 +6766,6 @@
         "lived experience"
       ],
       "abstract": "More autistic individuals are entering universities and the workforce than ever before. Yet, autistic university students experience social difficulties when transitioning to college such as social anxiety and social exclusion from their peers, and autistic adults are unemployed or underemployed. One reason for these negative experiences is the attitudes others hold toward autistic individuals. In this narrative review, we summarize the literature on explicit and implicit attitudes toward autistic individuals. Our review suggests that, while explicit attitudes toward autistic individuals as a group generally are positive, willingness to engage with autistic individuals, particularly in close proximity, may be more negative. Regarding implicit attitudes, most of which are assessed via reaction-time based methods, the findings are less nuanced. That is, regardless of the measure used, implicit attitudes toward autistic people tend to be negative in children, college students, and adults, including those who work with autistic populations. This article also considers factors that moderate these attitudes including previous contact with autistic individuals, knowledge of autism, and pr…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251375879",
-      "title": "“It’s Like All of My Senses and My Body Become More Awakened”: Autistic Adults’ Experiences of Attending Live Music",
-      "authors": [
-        "Gemma Herbert",
-        "Abbie Smith",
-        "Keren MacLennan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251375879",
-      "url": "https://doi.org/10.1177/25739581251375879",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Background: Up to 94% of Autistic people have sensory responsivity differences, associated with experiences that can range from being distressing to highly pleasurable. Despite the importance of live music in fostering social inclusion, many venues and events are not inclusive, creating barriers for Autistic people. Given the challenges Autistic people face in accessing live music events, our study aimed to explore their experiences to improve inclusivity, using a critical realism epistemological approach. Methods: We conducted a qualitative study with 16 Autistic adults aged 21–52 through online focus groups ( n = 13), individual interviews ( n = 1), and email exchanges ( n = 2), allowing for spoken or typed communication. Each focus group lasted 1 hour, and we analyzed the data using reflexive thematic analysis, following good practice guidelines. Results: We developed four main themes and two subthemes: (1) “This is a military operation”—Planning to manage uncertainty and overwhelm; (2) “Hating a crowd and loving a crowd at the same time”—Social connection; (3) The duality of an intense sensory environment; (3a) “The music, the vibrations bring out the colors … in my mind”—Immer…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -9366,18 +9377,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1108/aia-11-2025-0117",
-      "title": "Expression of concern: Evidence of increased PTSD symptoms in autistics exposed to applied behavior analysis",
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-11-2025-0117",
-      "url": "https://doi.org/10.1108/aia-11-2025-0117",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1108/aia-08-2025-0088",
       "title": "Communicating autism: a qualitative analysis of daily challenges and adaptations",
       "authors": [
@@ -10780,27 +10779,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-025-07157-4",
-      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
-      "authors": [
-        "Thais Selau",
-        "Mônia Aparecida da Silva",
-        "Matheus Silva Prenassi",
-        "Lídia Figueiredo dos Santos",
-        "Ariela Raissa Lima Costa",
-        "Denise Ruschel Bandeira"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-06",
-      "doi": "10.1007/s10803-025-07157-4",
-      "url": "https://doi.org/10.1007/s10803-025-07157-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-025-07139-6",
       "title": "Facilitators and Barriers to Employment of Neurodivergent Individuals: A Systematic Literature Review of Employee and Employer Experiences",
       "authors": [
@@ -10823,6 +10801,27 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1007/s10803-025-07157-4",
+      "title": "Sensitivity and Specificity of the EFA Adaptive Functioning Scale for Autism Spectrum Disorder and Intellectual Disability",
+      "authors": [
+        "Thais Selau",
+        "Mônia Aparecida da Silva",
+        "Matheus Silva Prenassi",
+        "Lídia Figueiredo dos Santos",
+        "Ariela Raissa Lima Costa",
+        "Denise Ruschel Bandeira"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2025,
+      "published_date": "2025-12-06",
+      "doi": "10.1007/s10803-025-07157-4",
+      "url": "https://doi.org/10.1007/s10803-025-07157-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581251394237",
@@ -10865,85 +10864,6 @@
       ],
       "abstract": "Purpose Blog data receives attention from researchers who intend to understand the lived experiences of autistic people. There is good discussion of the value of blog data, but with limited direction from blog authors themselves. This study aims to hear about the everyday experiences and motivations of autistic authors when they blog. Design/methodology/approach A systematic search and reflexive thematic analysis details the intentions of 43 autistic bloggers as described within blogs themselves. Findings Blogging created meaningful routes to belonging, feeling “connected but safe”. Blogs provided well-being resources for use personally (for reflection, self-acceptance and emotional expression) and to support peers. Bloggers also said they wrote to re-narrate how autism is understood by their readers, to speak with honesty without secret-keeping and to challenge stigma. Personal accounts chronicled and explained past pains caused by navigating what it means to be autistic. Blogs contained non-stigmatised and personally meaningful descriptions of autistic experiences, which the authors said were not available in other published sources. Originality/value The value of this peer suppo…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07164-5",
-      "title": "How Diagnostically Accurate are #Autism Portrayals? A Latent Space Item Response Modeling Approach",
-      "authors": [
-        "Ingrid Tien",
-        "Samara Wolpe",
-        "Yingshi Huang",
-        "Sila Sozeri",
-        "Maxwell Lee",
-        "Minjeon Jeong"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-03",
-      "doi": "10.1007/s10803-025-07164-5",
-      "url": "https://doi.org/10.1007/s10803-025-07164-5",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07167-2",
-      "title": "The Role of Stigma in the Autism Diagnostic and Intervention Process: Perspectives of Black Families in the Southeastern US",
-      "authors": [
-        "Tessa Djiko",
-        "Kaleb Phelps",
-        "Axie Acosta",
-        "Emma Platt",
-        "Kathleen Franke",
-        "Guillermo Wippold",
-        "Jessica Bradshaw"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-03",
-      "doi": "10.1007/s10803-025-07167-2",
-      "url": "https://doi.org/10.1007/s10803-025-07167-2",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07159-2",
-      "title": "Sibling Relationship Profiles of Autistic Youths in a Social-Ecological Context",
-      "authors": [
-        "Cynthia E. Brown",
-        "Rya F. Brossard",
-        "Gabrielle C. Kline",
-        "Charles M. Borduin"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-03",
-      "doi": "10.1007/s10803-025-07159-2",
-      "url": "https://doi.org/10.1007/s10803-025-07159-2",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/13623613251393505",
-      "title": "Expanding the autism evidence base: Strategies to increase participant representation",
-      "authors": [
-        "Maira Tafolla",
-        "Catherine Lord"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-03",
-      "doi": "10.1177/13623613251393505",
-      "url": "https://doi.org/10.1177/13623613251393505",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "There is a lack of representation of racially diverse individuals who are multilingual from low-income households in autism research. This calls into question the generalizability of research findings derived from predominantly White, English-speaking samples. In this article, we bring forth an important argument about why we as an autism field should work to expand representation in research samples. We also discuss strategies that can be used to work toward this goal. We detail the recruitment and retention of 94 Spanish–English bilingual Latinx (primarily Mexican and Central American) families from low-income households across a large urban city and its surrounding communities in the United States for an assessment validation study. We use the method of this study as an example of how to engage and include underrepresented populations in autism research, describing the efforts that were implemented to engage families and community-based organizations serving this population. We conclude the report by summarizing culturally sensitive strategies researchers can use to engage populations of different races and ethnicities from low-income households in their own research studies, in…"
     }
   ]
 }
