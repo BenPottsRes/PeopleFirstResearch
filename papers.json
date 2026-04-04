@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T07:38:17Z",
+  "generated_at": "2026-04-04T07:18:50Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -114,6 +114,53 @@
       "abstract": "Objective: This study aimed to assess the impact of exercise on hyperactivity/impulsivity, inhibitory control, and inhibition-related event-related potential (ERP) components in individuals with ADHD. Method: A systematic search identified relevant studies, and methodological quality was assessed using the Revised Cochrane Risk-of-Bias tool for randomized trials (RoB 2) and the Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I), with data analysis conducted using Stata software. Results: A total of 36 studies (38 comparisons) were included, comprising 10 acute and 26 chronic exercise interventions. Exercise yielded a small-to-moderate improvement in inhibitory control but showed no significant effects on hyperactivity/impulsivity or inhibition-related N2 and P3 components. Subgroup analyses of inhibitory control revealed significant moderating effects of age (children/adolescents), intervention type (chronic interventions), frequency (three sessions per week), control condition (sedentary or no-intervention groups), and study quality (studies with moderate or high risk of bias). Conclusion: Exercise enhances inhibitory control in individuals with ADHD, with the effe…"
     },
     {
+      "id": "10.1177/13623613261437916",
+      "title": "Grief, Relief, and Belief: A Social Media Study on Late Identification of Neurodivergence",
+      "authors": [
+        "Ally Pax Arcari Mair",
+        "Marina Gonzalez-Figueroa",
+        "Doug McConachie",
+        "Karen Goodall",
+        "Karri Gillespie-Smith"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-03",
+      "doi": "10.1177/13623613261437916",
+      "url": "https://doi.org/10.1177/13623613261437916",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Little is known as to what drives feelings of grief and relief observed following the late identification of neurodivergence, and its significance as it relates to sense of self and self-understanding. As such, this study considers how grief is understood and experienced by neurodivergent individuals in the context of late identification. This study used qualitative content analysis to identify themes from 225 public social media posts discussing grief and relief in relation to a late identification. With a sample focused mainly on autism, attention deficit hyperactivity disorder, and both co-occurring, four main themes, under an overarching theme and process, titled the Grief, Relief, and Belief Cycle, were identified: (1) The Life I Could Have Had; (2) Grieving for My Younger Self; (3) Feeling Gratitude; and (4) Post-Diagnosis Burnout. Overall, this study calls for a paradigm shift in how we understand and support neurodivergent individuals diagnosed in adulthood, seeing diagnosis as a first step, rather than a terminal component of a service, emphasising the need for comprehensive, individualised, wraparound care that addresses the emotional and practical aspects of their lives…"
+    },
+    {
+      "id": "10.1177/13623613261431269",
+      "title": "Assessing Social Identity in Autistic Individuals: Evaluating A Self-Report Questionnaire in the Netherlands",
+      "authors": [
+        "Lisa JG Krijnen",
+        "Ralph CA Rippe",
+        "Sander Begeer",
+        "Rachel D Plak"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-03",
+      "doi": "10.1177/13623613261431269",
+      "url": "https://doi.org/10.1177/13623613261431269",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "People with autism often face mental health difficulties at rates far exceeding those of the general population. How autistic individuals relate to their autism classification and the autistic community, also known as social identity , may form a protective factor for mental health. However, validated tools to assess social identity in autistic populations are lacking. This study aims to evaluate the Dutch version of the 14-item Social Identity in Autism Questionnaire (SIAQ) and examine associations between social identity and demographic, autism-related, and mental health variables. A total of 1443 autistic individuals from the Netherlands (mean age = 47 years, 54% women, 98% Dutch) completed the SIAQ and measures assessing demographics, autism characteristics, and mental health. Factor analyses revealed a four-factor structure: solidarity (three items, feelings of connection to people with autism), satisfaction (four items, positive feelings about being autistic), centrality (three items, the importance of autism to one’s sense of self), and self-definition (four items, perceived similarity to other autistic people and within the autistic community). Internal consistency was acce…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1007/s10803-026-07312-5",
       "title": "Alterations in Amygdala and Hippocampal Volumes in Autism Spectrum Disorder: Meta-analysis",
       "authors": [
@@ -176,6 +223,84 @@
         "Autism"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1177/13623613261433985",
+      "title": "Understanding Social Camouflaging in Autistic Adults: Integrating Cognitive and Psychosocial Predictors",
+      "authors": [
+        "Capucine Rebours",
+        "Viviane Kostrubiec",
+        "Jeanne Kruck"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-02",
+      "doi": "10.1177/13623613261433985",
+      "url": "https://doi.org/10.1177/13623613261433985",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Mental health"
+      ],
+      "abstract": "Camouflaging refers to strategies used by autistic individuals to mask traits and adapt to neurotypical norms. Beyond socio-cognitive abilities, recent work suggests that camouflaging is also shaped by psychosocial factors. This study tested an integrative, prediction-oriented model of camouflaging. We hypothesized that higher levels of camouflaging would be associated with socio-cognitive functioning, perceived social misfit, mental health, and lower autism acceptance, and that an integrative model combining these factors would predict individual differences in camouflaging. Participants were 120 autistic adults ( M = 37.4 years, SD = 10.4), mostly officially diagnosed and predominantly assigned female at birth. Self-report measures assessed camouflaging, executive functioning, perceived social-cognition differences, autism acceptance, social support, and mental health. Partial least squares structural equation modeling was used to estimate the contribution of each predictor to camouflaging. The final model explained a moderate proportion of variance in camouflaging ( R ² = 0.27; standardized root mean squared residual = 0.05). Executive dysfunction, perceived social-cognition dif…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261431309",
+      "title": "Overlapping And Differentiating Clinical Features of Autism and Borderline Personality Disorder in Women and People Assigned Female at Birth: A Cross-Sectional Study",
+      "authors": [
+        "Kirsten Barnicot",
+        "Elissa Thompson",
+        "Sally Turner",
+        "Will Mandy",
+        "Rose McCabe",
+        "Eloise Stark",
+        "Jennie Parker"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-02",
+      "doi": "10.1177/13623613261431309",
+      "url": "https://doi.org/10.1177/13623613261431309",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Previous research has suggested potential phenotypic similarities between autism and borderline personality disorder (BPD). We aimed to identify overlapping and differentiating characteristics of the two diagnostic groups in women and people assigned female at birth (PAFAB). Women and PAFAB with an autism diagnosis ( n = 51) or a BPD diagnosis ( n = 51), who had few or subclinical traits of the comparator diagnosis, completed a range of self-report questionnaires. Emotional reactivity, emotional dysregulation, identity disruption, difficulties being alone and rejection sensitivity were significantly more characteristic of BPD-diagnosed participants, with identity disruption representing the biggest difference from autistic participants ( d = −1.36, 95% confidence interval [CI] = [−1.79, −0.92]). Autistic participants scored significantly more highly on measures of sensory processing, social cognition and behaviour, preference for sameness and repetitive motor behaviour, with sensory processing representing the biggest difference from BPD-diagnosed participants ( d = 1.19, 95% CI = [0.76, 1.60]). Group differences in social cognition, social camouflaging, identity disruption, impuls…"
+    },
+    {
+      "id": "10.1177/13623613261430568",
+      "title": "Predictors of Parent Engagement in Part C Early Intervention for Autism: The Role of Single Parenthood and Initial Motivation",
+      "authors": [
+        "Hannah Tokish",
+        "Brooke Ingersoll"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-02",
+      "doi": "10.1177/13623613261430568",
+      "url": "https://doi.org/10.1177/13623613261430568",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Mental health",
+        "Quality of life"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Parent engagement in early intervention supports child progress but is variable in community settings and understudied in autism populations. Prior studies have examined attendance and homework completion rather than parent participation engagement—active, independent, and responsive contribution to treatment—and it is unclear how these distinct engagement measures are related. This study examined how observationally-coded parent participation engagement during early intervention sessions, between-session practice, and attendance were interrelated in addition to the influence of sociodemographic (marital status, minoritized racial/ethnic identity, and education) and psychological characteristics (stress, self-efficacy, and motivation) on engagement. The sample included 164 parents of toddlers (16–34 months) with an autism diagnosis or early autism indicators (i.e. social communication delays) receiving services through the publicly funded Part C Early Intervention system in the United States, which serves children under 36 months with developmental delays and disabilities. Observed parent participation engagement, parent-reported between-session practice, and attendance were not si…"
     },
     {
       "id": "10.1080/20473869.2026.2651406",
@@ -6466,6 +6591,22 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -6486,22 +6627,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -9345,36 +9470,6 @@
       ],
       "abstract": "Purpose Cross-cultural adaptation of psychometric measures requires a systematic translation and adaptation process to ensure equivalence between the original measure and the target version for use in a different culture. The purpose in this study is to adapt and validate the quality of life (QOL) for children with autism spectrum disorder (QOLASD-C) scale for use with Romanian children with autism spectrum disorder (ASD). Design/methodology/approach A sample of 102 parents of children with ASD in Romania completed the QOLASD-C scale and the strengths and difficulties questionnaire (SDQ). The authors used confirmatory factor analysis (CFA) to determine the optimal model and Pearson correlations to examine the divergent and convergent validity. A multivariate analysis of variance (MANOVA) was conducted to examine the differences in the QOLASD-C subscales across ASD levels of severity. Findings Factor analysis supported a correlated three-factor model as the optimal solution for the QOLASD-C scale and indicated high internal consistency of the items comprising the scale. Results also suggested good convergent and divergent validity with the SDQ. The analysis of variance showed that c…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1108/aia-01-2025-0003",
-      "title": "Prevalence of autism spectrum disorder in Georgia (country): a two-phase population-based study among 8–10-year-olds",
-      "authors": [
-        "Maia Gabunia",
-        "Medea Zirakashvili",
-        "Vazha Nadareishvili",
-        "Young Shin Kim",
-        "Bennett L. Leventhal",
-        "Dejan Stevanovic"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-01-2025-0003",
-      "url": "https://doi.org/10.1108/aia-01-2025-0003",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) was rarely diagnosed in Georgia, a middle-income European country, prior to the early 2000s, with essentially no documented data on affected children. This study aims to provide the first prevalence estimates of ASD in Georgia by evaluating its occurrence among 8–10 years old children. Design/methodology/approach Using a two-phase, population-based approach, the study screened third-grade students aged 8–10 years during 2019–2020 and conducted diagnostic assessments in 2020–2021. Screening tools included the Autism Spectrum Screening Questionnaire and Strengths and Difficulties Questionnaire. Diagnostic assessments used standardized measures such as the Autism Diagnostic Observation Schedule-II, Autism Diagnostic Interview-Revised, Test of Nonverbal Intelligence, Fourth Edition, Schedule for Affective Disorders and Schizophrenia for School-Age Children, Vineland Adaptive Behavior Scales-II, supplemented by speech, language and communication tests. Screening data were obtained for 16,348 children (72.3% response rate; 50.1% females), with full diagnostic evaluations for 300 (mean age = 10.2 years; 31.7% females). Findings The estimated prevalen…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1108/aia-08-2025-0088",
