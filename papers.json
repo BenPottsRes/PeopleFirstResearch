@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T07:18:50Z",
+  "generated_at": "2026-04-05T07:33:07Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -112,6 +112,79 @@
         "ADHD"
       ],
       "abstract": "Objective: This study aimed to assess the impact of exercise on hyperactivity/impulsivity, inhibitory control, and inhibition-related event-related potential (ERP) components in individuals with ADHD. Method: A systematic search identified relevant studies, and methodological quality was assessed using the Revised Cochrane Risk-of-Bias tool for randomized trials (RoB 2) and the Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I), with data analysis conducted using Stata software. Results: A total of 36 studies (38 comparisons) were included, comprising 10 acute and 26 chronic exercise interventions. Exercise yielded a small-to-moderate improvement in inhibitory control but showed no significant effects on hyperactivity/impulsivity or inhibition-related N2 and P3 components. Subgroup analyses of inhibitory control revealed significant moderating effects of age (children/adolescents), intervention type (chronic interventions), frequency (three sessions per week), control condition (sedentary or no-intervention groups), and study quality (studies with moderate or high risk of bias). Conclusion: Exercise enhances inhibitory control in individuals with ADHD, with the effe…"
+    },
+    {
+      "id": "10.1007/s10803-026-07321-4",
+      "title": "Stepped-Care Digital Gaming Intervention Enhanced Emotion Recognition in Autistic Children: A Randomized Controlled Trial",
+      "authors": [
+        "Huixin Lu",
+        "Siqi Li",
+        "Shasha Peng",
+        "Yingjian Zhang",
+        "Na Li",
+        "Zhiguo Hu"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-04",
+      "doi": "10.1007/s10803-026-07321-4",
+      "url": "https://doi.org/10.1007/s10803-026-07321-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07313-4",
+      "title": "Using Artificial Intelligence to Support Emotionally Responsive Verbal Communication Among Autistic Workers in a Work Internship Setting",
+      "authors": [
+        "Lynn K. Koegel",
+        "Paul Wehman",
+        "Christopher M. Claude",
+        "Monica S. Lam",
+        "Tommy Bruzzese",
+        "Melanie Derry",
+        "Alissa Brooke",
+        "Whitney Ham",
+        "Elizabeth Ponder",
+        "Trylanda J. Roane",
+        "Benjamin Rooney",
+        "John Anderson"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-04",
+      "doi": "10.1007/s10803-026-07313-4",
+      "url": "https://doi.org/10.1007/s10803-026-07313-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment"
+      ],
+      "tags": [
+        "communication"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07309-0",
+      "title": "Examining the Utility of the W-ADL to Assess Daily Living Skills in Non- or Minimally Speaking Autistic Adults",
+      "authors": [
+        "Ellen Wilkinson",
+        "Yuen Yvonne Yu",
+        "Vanessa Hus Bal",
+        "Elaine B. Clarke"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-04",
+      "doi": "10.1007/s10803-026-07309-0",
+      "url": "https://doi.org/10.1007/s10803-026-07309-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261437916",
@@ -1296,6 +1369,28 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -1320,28 +1415,6 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
-    },
-    {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261431925",
@@ -6591,22 +6664,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -6627,6 +6684,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -6724,36 +6797,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -6787,6 +6830,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10917,48 +10990,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/25739581251394237",
-      "title": "Recording of Autism in English General Hospitals Between 2007 and 2023: Cohort Study Using Data Linkage",
-      "authors": [
-        "R. Asaad Baksh",
-        "Christoph Mueller",
-        "Andre Strydom",
-        "Rory Sheehan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-05",
-      "doi": "10.1177/25739581251394237",
-      "url": "https://doi.org/10.1177/25739581251394237",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Background: Accurate, reliable, and consistent clinician recognition of autism during hospital admissions may promote the use of reasonable adjustments to care and may reduce health inequities. Our aim was to investigate the recording of autism in the records of autistic adults admitted to English general hospitals, time trends, and predictors of clinicians recording autism. Methods: This retrospective cohort study used routinely collected health data. We identified a cohort of adults with diagnosed autism who accessed mental health services and linked these with records of admissions to English general hospitals. We measured whether clinicians recorded autism in each admission. We calculated the proportion of admissions in which clinicians recorded autism for each year between 2007 and 2023. We used regression models to identify factors associated with the likelihood that clinicians documented autism during the admission. Results: In total, 4182 autistic adults together had 20,184 admissions. Admission level sensitivity of autism recording was 37.8% (95% confidence interval [CI:] 37.1%−38.5%). Clinicians were more likely to record autism in males, those with co-occurring intellect…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-09-2025-0089",
-      "title": "No longer keeping a secret: what autistic people intend for their blogs",
-      "authors": [
-        "Stephanie Petty",
-        "Mya Noddings-Walker"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2025,
-      "published_date": "2025-12-05",
-      "doi": "10.1108/aia-09-2025-0089",
-      "url": "https://doi.org/10.1108/aia-09-2025-0089",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Blog data receives attention from researchers who intend to understand the lived experiences of autistic people. There is good discussion of the value of blog data, but with limited direction from blog authors themselves. This study aims to hear about the everyday experiences and motivations of autistic authors when they blog. Design/methodology/approach A systematic search and reflexive thematic analysis details the intentions of 43 autistic bloggers as described within blogs themselves. Findings Blogging created meaningful routes to belonging, feeling “connected but safe”. Blogs provided well-being resources for use personally (for reflection, self-acceptance and emotional expression) and to support peers. Bloggers also said they wrote to re-narrate how autism is understood by their readers, to speak with honesty without secret-keeping and to challenge stigma. Personal accounts chronicled and explained past pains caused by navigating what it means to be autistic. Blogs contained non-stigmatised and personally meaningful descriptions of autistic experiences, which the authors said were not available in other published sources. Originality/value The value of this peer suppo…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
