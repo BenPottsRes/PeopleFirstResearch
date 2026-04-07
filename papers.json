@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T08:03:36Z",
+  "generated_at": "2026-04-07T07:51:00Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -112,6 +112,48 @@
         "ADHD"
       ],
       "abstract": "Objective: This study aimed to assess the impact of exercise on hyperactivity/impulsivity, inhibitory control, and inhibition-related event-related potential (ERP) components in individuals with ADHD. Method: A systematic search identified relevant studies, and methodological quality was assessed using the Revised Cochrane Risk-of-Bias tool for randomized trials (RoB 2) and the Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I), with data analysis conducted using Stata software. Results: A total of 36 studies (38 comparisons) were included, comprising 10 acute and 26 chronic exercise interventions. Exercise yielded a small-to-moderate improvement in inhibitory control but showed no significant effects on hyperactivity/impulsivity or inhibition-related N2 and P3 components. Subgroup analyses of inhibitory control revealed significant moderating effects of age (children/adolescents), intervention type (chronic interventions), frequency (three sessions per week), control condition (sedentary or no-intervention groups), and study quality (studies with moderate or high risk of bias). Conclusion: Exercise enhances inhibitory control in individuals with ADHD, with the effe…"
+    },
+    {
+      "id": "10.1177/13623613261434431",
+      "title": "Associations Between Autism and Self-Reported Dimensions of Interoception",
+      "authors": [
+        "Kiera Louise Adams",
+        "Caroline Catmur",
+        "Geoffrey Bird"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-06",
+      "doi": "10.1177/13623613261434431",
+      "url": "https://doi.org/10.1177/13623613261434431",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Despite a wealth of research on autism and interoception, there is not a clear consensus about which dimensions of interoception (if any) are related to autism. This study explored whether self-reported interoceptive accuracy, attention and evaluation are related to autism diagnosis and autistic traits. We analysed questionnaire responses from 519 participants, including 232 autistic participants. We found that people with an autism diagnosis had more negative interpretations of their bodily signals than people without an autism diagnosis, and increasing autistic traits in a general population sample were associated with higher interoceptive attention, lower interoceptive accuracy and higher negative interoceptive evaluation. Our findings suggest that interoceptive evaluation should be a priority for future research. Lay Abstract Autism is thought to be linked to differences in the way people notice, process and understand signals coming from inside of their bodies. This study explored how both autistic traits and autism diagnoses are associated with the processing of bodily signals. We found that among 519 participants, having more autistic traits meant that people paid more atten…"
+    },
+    {
+      "id": "10.1002/aur.70227",
+      "title": "Bullying Trajectories From Childhood to Adolescence: The Relationship With Mental Health Outcomes for Autistic and Neurotypical Youth",
+      "authors": [
+        "Emre Deniz",
+        "Nathalie Noret",
+        "Athena R. W. Chow",
+        "Jessie R. Baldwin",
+        "Umar Toseeb"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-06",
+      "doi": "10.1002/aur.70227",
+      "url": "https://doi.org/10.1002/aur.70227",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT Autistic youth are more likely to be involved in bullying, have poorer mental health, and experience friendships and social support differently compared to neurotypical youth. What remains unclear is whether the relationship between bullying and mental health is different for autistic and neurotypical youth and whether friendships and social support moderate this relationship. In this United Kingdom‐based population‐based study, we investigated the relationship between bullying involvement, victimization, and perpetration, from early childhood (age 5 years) through to mid‐adolescence (age 14 years) with mental health outcomes in later adolescence (age 17 years) for autistic ( n = 576) and neurotypical youth ( n = 14,963). We used parent‐, teacher‐, and self‐reports of bullying at ages 5, 7, 11, and 14 years to identify five bullying trajectory groups (uninvolved, adolescent victim, early childhood victim, early childhood bully, and bully‐victims). Autistic youth were more likely than their neurotypical peers to be in one of the bullying trajectory groups compared to being in the uninvolved group. Specifically, 74% of autistic youth experienced bullying either as victims, b…"
     },
     {
       "id": "10.1007/s10803-026-07321-4",
@@ -7277,29 +7319,6 @@
       "tags": [
         "participatory"
       ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251394995",
-      "title": "Understanding and measuring caregiver-reported quality of life among minimally verbal autistic children with intellectual disability",
-      "authors": [
-        "Elizabeth A. Kaplan-Kahn",
-        "Rachel M. Benecke",
-        "Laura Graham Holmes",
-        "Judith S. Miller"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251394995",
-      "url": "https://doi.org/10.1177/13623613251394995",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "To address the dearth of literature on outcomes for autistic individuals with significant intellectual disability, researchers require validated measures to use in research. This study examined the psychometric properties of PROMIS quality-of-life caregiver-proxy scales included in the PROMIS Autism Battery–Lifespan among autistic children who are minimally verbal and with intellectual disability (MVID). We examined basic psychometric properties of the PROMIS caregiver-proxy scales and tested the scales for measurement invariance between groups of autistic children who are minimally verbal with intellectual disability and those without signficant intellectuatl disability ( N = 448). We also descriptively examined feedback from caregivers regarding the appropriateness of the questions to capture meaningful outcomes for their autistic children who are minimally verbal with intellectual disability. Results indicated that some PROMIS caregiver-proxy scales (Anger, Positive Affect, and Life Satisfaction) exhibited strong psychometric evidence and content validity, but many other scales either did not demonstrate measurement invariance between groups or included a high proportion of item…",
       "framing": "Neurodiversity-informed"
     },
     {
