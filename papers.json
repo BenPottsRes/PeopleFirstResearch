@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T07:51:00Z",
+  "generated_at": "2026-04-08T07:55:49Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -112,6 +112,138 @@
         "ADHD"
       ],
       "abstract": "Objective: This study aimed to assess the impact of exercise on hyperactivity/impulsivity, inhibitory control, and inhibition-related event-related potential (ERP) components in individuals with ADHD. Method: A systematic search identified relevant studies, and methodological quality was assessed using the Revised Cochrane Risk-of-Bias tool for randomized trials (RoB 2) and the Risk of Bias in Non-Randomized Studies of Interventions (ROBINS-I), with data analysis conducted using Stata software. Results: A total of 36 studies (38 comparisons) were included, comprising 10 acute and 26 chronic exercise interventions. Exercise yielded a small-to-moderate improvement in inhibitory control but showed no significant effects on hyperactivity/impulsivity or inhibition-related N2 and P3 components. Subgroup analyses of inhibitory control revealed significant moderating effects of age (children/adolescents), intervention type (chronic interventions), frequency (three sessions per week), control condition (sedentary or no-intervention groups), and study quality (studies with moderate or high risk of bias). Conclusion: Exercise enhances inhibitory control in individuals with ADHD, with the effe…"
+    },
+    {
+      "id": "10.1108/aia-08-2025-0084",
+      "title": "Autistic people and their families: calls to the police",
+      "authors": [
+        "Allyn Thomas",
+        "Elisabeth Gale",
+        "Magali-Fleur Barnoux",
+        "Glynis H. Murphy"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-04-08",
+      "doi": "10.1108/aia-08-2025-0084",
+      "url": "https://doi.org/10.1108/aia-08-2025-0084",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose Autistic people and their families sometimes have difficulties that require help from the police, but little is known about their contacts with police. This study aims to examine first contacts from autistic people and their families with the police. Design/methodology/approach In this study, in one typical city in England, a database that records all calls to the police (over a period of approximately two months) was analysed to examine the extent to which the calls concerned autistic people. Findings It was found that 2% (n = 78) of the total of 3,654 calls concerned autistic people and their families. About half of the cases related to autistic children and half to autistic adults, with family members being the most frequent callers to the police. In over a quarter of the cases, the calls concerned missing persons, and in about one sixth, they involved the need for support and a similar number involved disputes (usually within the family). The calls were significantly different from non-autistic calls to the police. Research limitations/implications Despite some limitations, for example that the authors were not able to interview the autistic people and their families, t…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07314-3",
+      "title": "Persistent Sensory, Motor and Functional Difficulties From Childhood to Adolescence in Developmental Coordination Disorder",
+      "authors": [
+        "Javeria Shahid",
+        "Nouran Amin",
+        "Sheena Davis",
+        "Virginia Chu"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-07",
+      "doi": "10.1007/s10803-026-07314-3",
+      "url": "https://doi.org/10.1007/s10803-026-07314-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Abstract Purpose The purpose of this study was to examine sensory processing, motor proficiency, and functional performance in children and adolescents with Developmental Coordination Disorder (DCD) compared with typically developing children (TDC), and to explore the correlations among these domains across a broad developmental age range. Method This cross-sectional study included children and adolescents aged 4–17 years classified as DCD and TDC. Sensory processing, motor proficiency, and functional performance were assessed using SPM, PEDI-CAT and BOT-2. Group differences and developmental trends were analyzed using analysis of variance. Pearson correlations were used to evaluate the association between sensory, motor, and functional performance. Results Children with DCD demonstrated significantly greater sensory-processing difficulties, lower motor proficiency, and reduced functional performance compared with TDC (all p &lt; 0.001). Sensory processing, BOT-2 and PEDI-CAT scores for the DCD group consistently fell within the moderate difficulty range and below average across age groups, whereas TDC scores were within typical limits. A significant Group × Age interaction was ide…"
+    },
+    {
+      "id": "10.1177/25739581261437356",
+      "title": "Dignity in the Chair: Learning Sensory-Aware Barbering Through Lived Experience with Autism",
+      "authors": [
+        "Mohamed Abridan"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-04-07",
+      "doi": "10.1177/25739581261437356",
+      "url": "https://doi.org/10.1177/25739581261437356",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ]
+    },
+    {
+      "id": "10.1080/20473869.2026.2645073",
+      "title": "Executive function outcomes of rhythmic movement interventions in children and adolescents with autism spectrum disorder: a systematic review",
+      "authors": [
+        "Xin Mei Tee",
+        "Aini Marina Ma’rof",
+        "Norliza Ghazali"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-04-07",
+      "doi": "10.1080/20473869.2026.2645073",
+      "url": "https://doi.org/10.1080/20473869.2026.2645073",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10882-026-10058-8",
+      "title": "Pilot Study of a Novel Role-Playing Game-Based Social Skills Intervention for Autistic Adolescents",
+      "authors": [
+        "Jessica Pappagianopoulos",
+        "Jessica V. Smith",
+        "Michelle Menezes",
+        "Mya Howard",
+        "Micah O. Mazurek"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-04-07",
+      "doi": "10.1007/s10882-026-10058-8",
+      "url": "https://doi.org/10.1007/s10882-026-10058-8",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1002/aur.70249",
+      "title": "A Systematic Review on Computer Vision in Play‐Based Research and Interventions for Autistic Children",
+      "authors": [
+        "Mohamad Hassan Fadi Hijab",
+        "Athmar N. M. Shamhan",
+        "Zied El Houki",
+        "Marwa Qaraqe",
+        "Dena Al‐Thani"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-07",
+      "doi": "10.1002/aur.70249",
+      "url": "https://doi.org/10.1002/aur.70249",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "ABSTRACT Play holds a prominent role in Autism Research and practice, serving not only as a medium for assessment, providing insights into developmental progress and diagnostic indicators, but also as a foundational element in targeted interventions designed to support specific skills, education, and therapeutic outcomes. Additionally, free, unstructured play offers autistic children vital opportunities for self‐expression, exploration, and emotional regulation. Recent advancements in computer vision techniques have significantly expanded the possibilities in Autism Research by capturing nuanced motor behaviors and facilitating interactive environments tailored to enhance social engagement and responsiveness. This paper investigates the application of computer vision techniques within diverse play contexts involving autistic children. A systematic literature review was conducted across six major databases, identifying 39 studies published between January 2014 and January 2026 that met the inclusion criteria. The collected data included the type of computer vision techniques used, participant demographics, and purpose of play and its environment. Most of the included studies used st…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261434431",
@@ -10723,58 +10855,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/13623613251396036",
-      "title": "Self-injurious behaviors with increased likelihood of injury in autistic youth: The role of distress linked to a strong preference for sameness",
-      "authors": [
-        "Emily F Ferguson",
-        "Emily Spackman",
-        "Antonio Y Hardan",
-        "Mirko Uljarević"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-08",
-      "doi": "10.1177/13623613251396036",
-      "url": "https://doi.org/10.1177/13623613251396036",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Self-injurious behaviors in autistic youth vary widely in their form, intensity, and potential for physical injury. This study explored predictors of two categories of self-injurious behaviors that were delineated based on their potential for physical injury (self-injurious behavior-High Likelihood and self-injurious behavior-Low Likelihood), with a focus on the role of distress linked to a strong preference for routines (otherwise known as insistence on sameness). The sample included 1892 autistic youth (M age = 10.82, SD age = 4.14; 22% females) across the United States. Distress associated with insistence on sameness was the strongest predictor of total self-injurious behavior scores, self-injurious behavior-Low Likelihood, and self-injurious behavior-High Likelihood, after controlling for demographic factors and speech level, and remained a unique predictor after accounting for variance explained by other restricted and repetitive behaviors. Sensory hypersensitivity and sensory-seeking were strong unique predictors of all self-injurious behaviors, while hyposensitivity was a weaker predictor of self-injurious behavior total and self-injurious behavior-Low Likelihood, and a non-…"
-    },
-    {
-      "id": "10.1177/10870547251400398",
-      "title": "Investigation of Tight Junction Protein Alterations in ADHD: The Role of Claudin-5, β-Catenin and Paxillin",
-      "authors": [
-        "Necati Uzun",
-        "Ayhan Bilgiç",
-        "Hurşit Ferahkaya",
-        "Mehmet Berat Taş",
-        "İbrahim Kılınç",
-        "Ahmet Osman Kılıç"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2025,
-      "published_date": "2025-12-08",
-      "doi": "10.1177/10870547251400398",
-      "url": "https://doi.org/10.1177/10870547251400398",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: Blood-brain barrier permeability (BBB) has been suggested to be involved in the etiopathogenesis of ADHD. Claudin-5, β-catenin and paxillin are important molecules with different roles in this barrier. Alterations in these molecules may disrupt the neurodevelopmental process by affecting various critical processes in the developing brain. Therefore, this study aimed to evaluate whether the peripheral levels of these molecules differ in children and adolescents with ADHD. Method: A total of 90 patients with ADHD aged between 8 and 18 years and 60 healthy controls were included in this study. The severity of ADHD symptoms was determined with the Atilla Turgay Scale. Child Anxiety-Depression Scale-Revised was completed to evaluate additional psychiatric problems of the patients. Serum levels of biochemical parameters were measured using enzyme-linked immunosorbent assay kits. Results: Serum claudin-5 levels were significantly lower and β-catenin levels were significantly higher in the ADHD group compared to the control group. However, there was no significant difference in paxillin serum levels between the groups. Conclusion: This study suggests that claudin-5 and beta-cate…"
     }
   ]
 }
