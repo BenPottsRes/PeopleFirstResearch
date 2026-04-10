@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T07:56:37Z",
+  "generated_at": "2026-04-10T08:02:30Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -129,6 +129,137 @@
       ]
     },
     {
+      "id": "10.1177/13623613261433165",
+      "title": "A 5-Year Update of Conflicts of Interest in Autism Intervention Research in Applied Behavior Analysis Journals",
+      "authors": [
+        "Kristen Bottema-Beutel",
+        "Jessica Hinson-Williams",
+        "Yueyang Shen",
+        "Ruoxi Guo",
+        "Samantha Brayton",
+        "Jacqueline Alicea",
+        "Shannon LaPoint"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-09",
+      "doi": "10.1177/13623613261433165",
+      "url": "https://doi.org/10.1177/13623613261433165",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "disclosure"
+      ],
+      "abstract": "Researchers’ false, incomplete, or missing disclosures of conflicts of interest (COIs) can introduce bias into research, can erode public trust in research findings, and represent ethical violations of most academic journal policies. A 2020 study discovered that publications in applied behavior analysis (ABA) journals are particularly problematic in adherence to COI disclosure ethics. The current study is a 5-year update of this previously conducted study. We examined autism intervention research articles published over a 1-year period in eight ABA journals. Two coders extracted author names and COI disclosure statements from each study and conducted web searches to determine if authors were affiliated with organizations providing ABA services or consulting. One hundred and nineteen studies met our inclusion criteria, from which we compiled a database of 450 authors. Seventy-eight percent of authors held clinical and/or consultancy COIs. At the study level, 93% of studies were written by at least one author with a clinical and/or consultancy COI. Only 8% of studies disclosed any author COIs, and only 2% disclosed clinical and/or consultancy COIs. Ninety-three percent of statements…"
+    },
+    {
+      "id": "10.1177/25739581261440899",
+      "title": "“As a Person of Colour, I Was a Misfit Anyway”: Barriers to Autism Identification According to Ethnically and Racially Minoritized Adults",
+      "authors": [
+        "Imane Kostet"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-04-09",
+      "doi": "10.1177/25739581261440899",
+      "url": "https://doi.org/10.1177/25739581261440899",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Background: Ethnic and racial disparities in autism diagnosis have prompted growing interest in the role of “culture” in shaping these inequalities. However, much of the existing literature adopts a deficit-based perspective, locating diagnostic barriers within the cultural beliefs, attitudes, and behaviors of ethnically and racially (ER) minoritized groups. These studies often rely on essentialist views of culture, and neglect how broader cultural factors may impact these inequalities. This study delves into some of these neglected cultural factors. Methods: This article draws on 27 in-depth interviews with ER minoritized adults in Belgium and the Netherlands, most of whom were (self-)diagnosed in adulthood. It explores how these individuals make sense of their experiences before diagnosis and examines additional cultural pathways to autism inequalities than those already discussed in autism research. Findings: First, participants frequently interpreted their experienced difficulties with dominant forms of social interaction and communication as consequences of their minoritized status in White environments, shaped by wider processes of othering. This framework for understanding t…"
+    },
+    {
+      "id": "10.1177/25739581261435559",
+      "title": "Social Media and Social (Dis)Connectedness in Autism and Attention-Deficit/Hyperactivity Disorder: A Systematic Review",
+      "authors": [
+        "Alice L. Potter",
+        "Anna O’Leary",
+        "Emma Incecik",
+        "Kieran Rose",
+        "Georgia Pavlopoulou",
+        "Marc S. Tibber"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-04-09",
+      "doi": "10.1177/25739581261435559",
+      "url": "https://doi.org/10.1177/25739581261435559",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: While there is growing interest in the relationship between social media (SM) use and psychosocial well-being, little is known about this relationship in neurodivergent people. We undertook a systematic review to synthesize findings from studies exploring links between social (dis)connectedness and SM use in Autistic people and/or people with attention-deficit/hyperactivity disorder (ADHD), with the aim of exploring commonalities and differences in their experiences. Methods: We conducted systematic searches of four databases, retaining reports if they included SM-related measures and measures of social connectedness and/or disconnectedness in Autistic and/or ADHD populations. Two of us independently screened, coded, and assessed all records for methodological quality, with another of us screening just under 15% of records. Results: Our search yielded findings from 21 reports based on data from 18 studies. A narrative synthesis we undertook suggested that SM may be linked to greater social connectedness for Autistic people and greater social disconnectedness for those with ADHD. The literature was characterized by a predominance of cross-sectional research and the quali…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261438423",
+      "title": "<i>“It Was All Tied into Being a Disabled Person… It Was Another Reason to Feel Inadequate.”</i>\n                    Autistic Women and Birthing People’s Experiences of Baby Loss: An Interpretative Phenomenological Analysis",
+      "authors": [
+        "Phoebe Toms",
+        "Lizette Nolte",
+        "Sophie Doswell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-04-09",
+      "doi": "10.1177/25739581261438423",
+      "url": "https://doi.org/10.1177/25739581261438423",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Background: Research shows the unique challenges that being autistic can pose in the perinatal period, including sensory sensitivities. Further challenges may relate to health care systems designed for non-autistic people and a lack of practitioner awareness. Literature exploring autistic people assigned female at birth’s (AFAB) experiences of baby loss is more limited, but this can be traumatic, as reported in key literature. Methods: This qualitative study used Interpretative Phenomenological Analysis (IPA) to understand how six autistic people AFAB made sense of their experiences of baby loss through miscarriage, stillbirth, and neonatal death. Results: Participants described the unpredictability, trauma, and absence of care from practitioners throughout baby loss, which left them feeling unsafe, neglected, and not believed. Participants shared how baby loss heightened their autistic experiences and was perceived to intensify their distress. They reported shame, guilt, and blame in relation to their autistic and gender identity perpetuated by the silencing and stigmatising societal discourses surrounding baby loss. Participants described a sense of continuous embodied physical a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2654176",
+      "title": "Reinforcement learning for personalized education in autism: a scoping review of adaptive systems for cognitive development",
+      "authors": [
+        "Sweety Rani Dhar",
+        "Md Shayakh Alam",
+        "Moustaq Karim Khan Rony",
+        "Md Mohaimin Rashid",
+        "Durga Shahi",
+        "Mohammad Shahidullah",
+        "Arif Ahmed Sizan",
+        "Srabani Das",
+        "Mst Masuma Akter Semi"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-04-09",
+      "doi": "10.1080/20473869.2026.2654176",
+      "url": "https://doi.org/10.1080/20473869.2026.2654176",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
+    },
+    {
       "id": "10.1007/s10882-026-10060-0",
       "title": "A Pilot Feasibility Study of a Multi-Sport Motor Intervention for Children with Autism Spectrum Disorder in China",
       "authors": [
@@ -144,6 +275,41 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70254",
+      "title": "Reframing Body Representations in Autistic Individuals: A Systematic Review",
+      "authors": [
+        "Joanna Mourad",
+        "Kim Daniels",
+        "Katleen Bogaerts",
+        "Britt Sourbron",
+        "Siebe Meekers",
+        "Anaïs Vanbuel",
+        "Robbe Van Beers",
+        "Marlies Mattheeussen",
+        "Martin Desseilles",
+        "Bruno Bonnechère"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-09",
+      "doi": "10.1002/aur.70254",
+      "url": "https://doi.org/10.1002/aur.70254",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Body representations (BR) are multidimensional constructs that shape everyday functioning, autonomy, and quality of life. They include body schema (BS): the action‐oriented representation of the body that supports movement and sensorimotor regulation, and body image (BI): the conscious perceptual, affective, and cognitive experience of the body. In autism, alterations in BR have been linked to sensory processing, motor coordination, social interaction, self‐perception, and identity, yet the overall structure of these components remains unclear. This systematic review aimed to define a conceptual framework for BR in autism, identify the domains most consistently reported as different from non‐autistic comparison groups, and synthesize current evidence on assessment approaches and clinical implications. Following PRISMA guidelines, we reviewed 54 studies published between 2000 and 2025, comprising 2982 participants. The findings showed a marked predominance of research on BS (81% of studies), particularly sensorimotor dimensions such as interoception (9 studies), proprioception (4 studies), and multisensory integration (3 studies). By contrast, BI was substantially less inve…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1108/aia-08-2025-0084",
@@ -1057,35 +1223,6 @@
         "Autism"
       ],
       "abstract": "Caregivers’ adjustment to their child’s autism diagnosis has important implications for child and caregiver outcomes. However, there has been substantial variability in definitions and measurement of caregiver adjustment to autism diagnosis. This study reports a systematic review of measures of caregivers’ adjustment to their child’s autism diagnosis, and the effectiveness of intervention for caregiver adjustment. A systematic review (PROSPERO CRD42023463196) was conducted according to PRISMA guidelines. Adjustment was defined as caregivers’ psychological response to their child’s autism diagnosis. Database searches yielded 6345 unique articles, which were title and abstract screened. Full text screening was completed for 428 articles. Mixed Methods Appraisal Tool (MMAT) was used to assess study quality. The review identified 78 articles, which included 42 measures of adjustment and eight interventions targeting adjustment, four of which produced significant improvement in adjustment. Study quality was mostly adequate. The review identified a need for consensus on defining and measuring caregiver adjustment. The review also identified the need for fathers, caregivers who are autist…"
-    },
-    {
-      "id": "10.1177/13623613251401556",
-      "title": "Letter to the editor: Employment of autistic individuals in the age of AI integration: Challenges and opportunities",
-      "authors": [
-        "Michal Waisman Nitzan",
-        "Liron Lamash",
-        "Darren Hedley",
-        "Simon M Bury",
-        "Eynat Gal"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613251401556",
-      "url": "https://doi.org/10.1177/13623613251401556",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "service improvement"
-      ],
-      "abstract": "As artificial intelligence (AI) reshapes the modern workplace, the implications for neurodivergent populations, particularly autistic adults, warrant attention. Autistic people remain underrepresented in the workforce, facing persistent barriers to sustained employment. In this letter, we consider whether AI may compound these barriers or offer opportunities for autistic people: With thoughtful design and implementation, could AI foster more inclusive and accessible workplaces? We call for critical reflection on AI’s potential impact on autistic employment. We argue that facilitating inclusion of autistic individuals in the workforce in the age of AI will require care, collaboration, and a commitment to neurodiversity. Lay Abstract As artificial intelligence (AI) becomes more common in workplaces, it could affect autistic people in important ways. Today, many autistic adults still face difficulties finding and keeping jobs. In this letter, we ask whether AI will make things harder for autistic people or whether it might help. Could AI be designed in a way that supports autistic workers and creates more inclusive workplaces? We believe that the answer depends on how AI is used. We c…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00550-4",
@@ -4822,32 +4959,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1177/10883576251396834",
-      "title": "Coaching Early Intervention Service Providers via Telepractice",
-      "authors": [
-        "Yusuf Akemoğlu",
-        "Vanessa Hinton"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10883576251396834",
-      "url": "https://doi.org/10.1177/10883576251396834",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Service design"
-      ],
-      "tags": [
-        "communication",
-        "service improvement"
-      ],
-      "abstract": "In the current study, we described a multitiered study of coaching the coaches via telepractice (CCT) intervention package. The CCT was an intervention program designed to train and coach early intervention service providers (EISPs) so that they can coach parents to use evidence-based naturalistic communication teaching strategies (i.e., modeling, mand-model, and time delay) and reading techniques during shared book reading with their young children with autism. Three participating U.S. service providers went through a self-directed training via online modules and were coached via telepractice technologies (videoconferences). Using a single-case multiple-baseline design across participants, we (a) examined EISPs’ implementation fidelity (accuracy/quality) of coaching practices, (b) assessed their knowledge on communication strategies and coaching practices, and (c) sought information about their perception on the feasibility and outcomes of the intervention. Visual analysis of the observational data showed a functional relation between the CCT program and EISPs’ coaching practices.",
-      "framing": "Person-first language used"
-    },
-    {
       "id": "10.1177/10870547251407731",
       "title": "Parental Stress and Child Irritability in ADHD: A Two-Wave Longitudinal Serial Mediation Model via Experiential Avoidance and Negative Parent–Child Relationship",
       "authors": [
@@ -6821,6 +6932,22 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -6841,22 +6968,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -10755,26 +10866,6 @@
         "service improvement"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07171-6",
-      "title": "Identifying Core Joint Attention Behaviors and Exploring Pathways to Autistic Traits in School-Aged Children With Autism Spectrum Disorder: A Network Analysis Study",
-      "authors": [
-        "Abdalla Ahmed Almulla",
-        "Mohammad Nayef Ayasrah"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-10",
-      "doi": "10.1007/s10803-025-07171-6",
-      "url": "https://doi.org/10.1007/s10803-025-07171-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
