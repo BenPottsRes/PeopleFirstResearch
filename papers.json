@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T07:17:22Z",
+  "generated_at": "2026-04-12T07:45:08Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -1816,28 +1816,6 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -1862,6 +1840,28 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
+    },
+    {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261431925",
@@ -4286,31 +4286,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -4339,6 +4314,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -5041,28 +5041,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/10883576251396534",
-      "title": "A Survey of Data-Based Decision-Making Practices of Teachers of Students With Autism or Intellectual Disability",
-      "authors": [
-        "Meka N. McCammon",
-        "Katie Wolfe",
-        "Aaron R. Check"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10883576251396534",
-      "url": "https://doi.org/10.1177/10883576251396534",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Data-based decision-making (DBDM) is crucial for teachers of students with autism or intellectual disability, yet little is known about their engagement in DBDM. We surveyed 77 teachers in the southeastern United States who had worked with students with autism or intellectual disability in self-contained classrooms in the past year. They reported their training and practices in DBDM and the variables they perceived to facilitate and inhibit data collection, graphing, and data-based decision-making. Teachers reported minimal training in DBDM. While some frequently collect data, methods and frequency of data interpretation for instructional decisions vary. Teachers identified time as the biggest barrier to DBDM. Despite recognizing its importance, teachers lack tools to meet accountability standards, highlighting the need for preservice training and ongoing support. Research is warranted on efficient and effective methods for training teachers of students with autism or intellectual disability to engage in DBDM in their classrooms.",
-      "framing": "Person-first language used"
-    },
-    {
       "id": "10.1177/10870547251407731",
       "title": "Parental Stress and Child Irritability in ADHD: A Two-Wave Longitudinal Serial Mediation Model via Experiential Avoidance and Negative Parent–Child Relationship",
       "authors": [
@@ -5482,34 +5460,6 @@
       ],
       "abstract": "Purpose This paper examines the persistent underdiagnosis of autism spectrum disorder, particularly among women, adults and minority groups. This study aims to identify how gendered symptom expression, camouflaging behaviours, systemic barriers and cultural inequities affect diagnostic accuracy and timeliness. Design/methodology/approach A structured narrative review of 33 peer-reviewed empirical studies published between 2009 and 2024, with one historical paper from 1992 retained for context. Sources were retrieved from PubMed, Scopus and Web of Science. We used controlled vocabulary and free-text terms. Methodological quality was appraised with critical appraisal skills programme, Joanna Briggs Institute and A Measurement Tool to Assess Systematic Reviews, version 2. Reporting followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020. Findings were synthesised across four domains: gender differences in diagnostic timing, camouflaging and phenotypic variability, systemic barriers and cultural and linguistic factors. Findings Standard diagnostic frameworks (Diagnostic and statistical manual of mental disorders, Fifth Edition, International Classification of D…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1108/aia-06-2025-0062",
-      "title": "Revisiting the experiences and quality of life of autistic patients in high secure psychiatric care",
-      "authors": [
-        "David Murphy",
-        "Freya Walker",
-        "Hannah Lincoln",
-        "Lauren Briscoe"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-26",
-      "doi": "10.1108/aia-06-2025-0062",
-      "url": "https://doi.org/10.1108/aia-06-2025-0062",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose Evidence suggests that autistic individuals are overrepresented within forensic psychiatric settings and present with different difficulties and needs compared to their neurotypical counterparts. With respect to high secure psychiatric care (HSPC), a 2017 survey examining the experiences of autistic patients found most reported both positive and negative aspects associated with their care, and variable quality of life (QoL) ratings. Since this, several significant changes have occurred including moving to a new hospital site, the introduction of the mandatory Oliver McGowan autism awareness training and the national strategy for autistic children, young people and adults outlining the need to improve autistic individuals’ experience of the criminal justice system. This paper describes a repeat survey of patient experiences to see whether they may have changed or improved in light of these changes. Design/methodology/approach Qualitative data about the experiences of autistic individuals detained in a UK HSPC hospital was gathered using semi-structured interviews and the forensic QoL questionnaire. Findings Consistent with the previous survey, the number of autistic patients…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261418948",
@@ -7036,22 +6986,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -7072,6 +7006,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -9813,29 +9763,6 @@
       "abstract": "Objective: ADHD is a common neurodevelopmental disorder of childhood characterized by altered projections of dopaminergic neurons and connectivity issues in various brain regions. In our study, we aim to investigate the potential effects of axon guidance molecules, Netrin-1 and Semaphorins 3A, 4D, and 7A, on these connectivity problems by examining the levels of these molecules in the peripheral blood of children with ADHD compared to healthy controls. Methods: A total of 43 children with ADHD and 40 healthy controls 6 to 12 years of age were included in the study. The K-SADS-PL was administered to exclude any additional psychopathologies (excluding ODD in the ADHD group). The Revised Child Anxiety and Depression Scale was provided to the children, while parents completed the revised Conners’ Parent Rating Scale (CPRS-R), the Social Responsiveness Scale (SRS), and the Behavior Rating Inventory for Executive Functioning (BRIEF). Additionally, teachers of the ADHD group were given the Conners’ Teacher Rating Scale. Furthermore, the WISC-4 was administered to assess the IQ profile of 35 children in the ADHD group. Results: Netrin-1 was found to be statistically higher in the ADHD grou…"
     },
     {
-      "id": "10.1108/aia-06-2025-0065",
-      "title": "Cultural adaptation and psychometric evaluation of the quality of life for children with autism spectrum disorder scale",
-      "authors": [
-        "Laura Claudia Chezan",
-        "Jin Liu",
-        "Cristina Anamaria Costescu",
-        "Adrian Rosan"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-02",
-      "doi": "10.1108/aia-06-2025-0065",
-      "url": "https://doi.org/10.1108/aia-06-2025-0065",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Purpose Cross-cultural adaptation of psychometric measures requires a systematic translation and adaptation process to ensure equivalence between the original measure and the target version for use in a different culture. The purpose in this study is to adapt and validate the quality of life (QOL) for children with autism spectrum disorder (QOLASD-C) scale for use with Romanian children with autism spectrum disorder (ASD). Design/methodology/approach A sample of 102 parents of children with ASD in Romania completed the QOLASD-C scale and the strengths and difficulties questionnaire (SDQ). The authors used confirmatory factor analysis (CFA) to determine the optimal model and Pearson correlations to examine the divergent and convergent validity. A multivariate analysis of variance (MANOVA) was conducted to examine the differences in the QOLASD-C subscales across ASD levels of severity. Findings Factor analysis supported a correlated three-factor model as the optimal solution for the QOLASD-C scale and indicated high internal consistency of the items comprising the scale. Results also suggested good convergent and divergent validity with the SDQ. The analysis of variance showed that c…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1108/aia-08-2025-0088",
       "title": "Communicating autism: a qualitative analysis of daily challenges and adaptations",
       "authors": [
@@ -10823,129 +10750,6 @@
       ],
       "abstract": "Best practices in early intervention include empowering parents to embed evidence-based practices within regular routines with their child, such as Naturalistic Developmental Behavioral Interventions (NDBIs). However, very little research has explicitly evaluated intervention approaches that may lead to increased parent self-efficacy for parents of young children with autism. The current study is a mixed-methods evaluation of parent self-reported self-efficacy and perceptions following an NDBI that included strength-based video feedback coaching. We explored (a) parent perceptions of the intervention using a social validity questionnaire and (b) parent self-efficacy using non-parametric Wilcoxon signed-rank test. All parents rated the feasibility and effectiveness of the intervention favorably with strong probability of the parents continuing the intervention in the home. While pre-post results were approaching significance, no statistically significant differences on parent self-efficacy ratings were present ( z = -1.841; p = .066). Parent responses to open-ended questions revealed that video feedback allowed parents to observe the successes of their child in ways that were not po…",
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07155-6",
-      "title": "Early Parent-Mediated Training for Social-Communication Skills in Toddlers and Preschoolers With ASD: A Systematic Review and Meta-analysis",
-      "authors": [
-        "Eunhye Seo",
-        "Yaena Ha",
-        "Pureum Jeon",
-        "Eunyoung Yoo"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-12",
-      "doi": "10.1007/s10803-025-07155-6",
-      "url": "https://doi.org/10.1007/s10803-025-07155-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07175-2",
-      "title": "Association Between Age-Specific Sleep Sufficiency and Autism Spectrum Disorder in U.S. Children",
-      "authors": [
-        "Md Roungu Ahmmad",
-        "Harry Pantazopoulos",
-        "Fazlay Faruque",
-        "Xiaoli Zhang",
-        "Reecha Puri"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-12",
-      "doi": "10.1007/s10803-025-07175-2",
-      "url": "https://doi.org/10.1007/s10803-025-07175-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07173-4",
-      "title": "Higher Intraindividual Gait Variability in Autistic Toddlers: A Pilot Study",
-      "authors": [
-        "Joana M. Almeida Osório",
-        "Baptiste Ulrich-Ischer",
-        "Laura F. Mendes",
-        "Sonia Richetin",
-        "Vincent Junod",
-        "Borja Rodríguez-Herreros",
-        "Anne M. Maillard",
-        "Julien Favre",
-        "Marine Jequier Gygax",
-        "Nadia Chabane"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-12",
-      "doi": "10.1007/s10803-025-07173-4",
-      "url": "https://doi.org/10.1007/s10803-025-07173-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose Motor impairments are pervasive in Autism Spectrum Disorder (ASD), with atypical gait patterns often observed but understudied in early development. The aim of this pilot study was to analyze spatiotemporal gait parameters and variability in toddlers with ASD compared to typically developing (TD) peers. Methods The study included 12 ASD and 9 TD male toddlers, aged 18–30 months, walking independently. We extracted spatiotemporal gait parameters from laboratory recordings of walking. Gait variability was assessed via coefficients of variation for each parameter. Group differences were tested and exploratory correlations between gait parameters and motor skills were assessed. Results Results indicated increased gait variability in the ASD group across parameters, suggesting less consistent motor control. Significant differences in variability were observed in stride length, step length, stance time, and stride time. Conclusion This pilot study confirms that an objective assessment of gait is feasible in toddlers with ASD. Future research is needed to replicate the results in a larger sample, to explore underlying neurological mechanisms, as well as the impact of atyp…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07166-3",
-      "title": "An Exploratory Study of Internet Use and Safety Concerns for Adults With Intellectual and Developmental Disabilities",
-      "authors": [
-        "Anthony Osuna",
-        "Micah Pepper",
-        "Fallon Zollars",
-        "Sharon Kiche",
-        "John Wennberg",
-        "Bianca Rodriguez",
-        "Tumaini R. Coker",
-        "Dimitri Christakis",
-        "Frederick Shic",
-        "Karen Bearss"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-12",
-      "doi": "10.1007/s10803-025-07166-3",
-      "url": "https://doi.org/10.1007/s10803-025-07166-3",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/10883576251396819",
-      "title": "Caregiver-Mediated NDBI for Latine Mothers of Young Autistic Children: Assessment of Parent Fidelity and Social Communication",
-      "authors": [
-        "Ana D. Dueñas",
-        "Sophia R. D’Agostino",
-        "Marisa Solé",
-        "Alyssa Blasko"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-12-12",
-      "doi": "10.1177/10883576251396819",
-      "url": "https://doi.org/10.1177/10883576251396819",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Service design"
-      ],
-      "tags": [
-        "communication",
-        "service improvement"
-      ],
-      "abstract": "Limited caregiver-mediated naturalistic developmental behavioral interventions’ (NDBIs) research exists with the Latine community. To understand the effectiveness of caregiver-mediated NDBI, we must investigate feasibility and effectiveness with marginalized populations to assure family-centered and culturally sensitive care. This study examined the effects of a caregiver-mediated NDBI with three caregiver–child dyads using single-case design (SCD) research informed by a brief priori cultural adaptation. Caregivers demonstrated improved implementation fidelity of NDBI strategies with empowerment-based coaching. We discuss Latine caregiving practices and make recommendations for culturally congruent NDBI caregiver coaching.",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
