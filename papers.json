@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T07:45:08Z",
+  "generated_at": "2026-04-13T08:25:22Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -132,6 +132,78 @@
         "Education"
       ],
       "abstract": "Purpose Research shows that autistic individuals often experience stigma and discrimination in various areas of daily life, which can lead to the internalisation of stigma by concurring with the stereotypes and prejudices attributed to them by society. Discrimination can also manifest through subtle and often unintentional forms of microaggressions (e.g. statements, actions or thoughts). This study aims to explore the experiences of adults with autism from Slovenia – a largely overlooked population – with discrimination, self-stigmatisation and microaggressions. Design/methodology/approach The research was conducted through an online questionnaire completed by 49 adults with an autism diagnosis, incorporating items adapted from established scales measuring discrimination, self-stigma and microaggressions. The collected data were statistically analysed using appropriate non-parametric methods. Findings Preliminary findings suggest that in Slovenia, adults with autism most often experience microaggressions, mainly in the form of minimisation of autism. Participants also reported occasional experiences of discrimination and unfair treatment in personal relationships and in education a…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07322-3",
+      "title": "Co-occurring Psychiatric Symptoms in Verbal, School-Aged Children With Autism Spectrum Disorder and at Least Average IQ",
+      "authors": [
+        "Fritz Linnenbank",
+        "Marie Linnenbank",
+        "Stefan Beimdiek",
+        "Stephan Bender",
+        "Jasper Vöckel"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-13",
+      "doi": "10.1007/s10803-026-07322-3",
+      "url": "https://doi.org/10.1007/s10803-026-07322-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Increased levels of co-occurring psychiatric symptoms are observed in children and adolescents with autism spectrum disorder (ASD). Former research often investigated heterogeneous samples of youth with ASD. However, concurrent symptom presentation appears to differ with individual characteristics such as intellectual abilities. Method The present study investigated verbal, school-aged children and adolescents ( n = 103) with ASD and at least average intellectual abilities (i.e., full-scale intelligence quotient, FSIQ). Co-occurring psychiatric symptomatology was assessed with the Child Behavior Checklist (CBCL). Path analyses were conducted to investigate whether autistic characteristics or intellectual abilities predicted co-occurring psychiatric symptoms. Results In the investigated youth with ASD the extent of co-existing symptoms was elevated in all CBCL syndrome domains. Few associations of Autism Diagnostic Observation Schedule (ADOS-2), Autism Diagnostic Interview (ADI-R), and FSIQ scores with concurrent psychiatric symptomatology were found, limited to small effect sizes. Conclusion Within the investigated youth with ASD likelihood of experiencing elevated…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70253",
+      "title": "Associations Between Comorbidities, Developmental Status, and Disease Severity in Children With Autism Spectrum Disorder: A Multicenter Cross‐Sectional Study in China",
+      "authors": [
+        "Dizhou Pang",
+        "Guiqin Duan",
+        "Qing Shang",
+        "Huichun Zhang",
+        "Binbin Wang",
+        "Huaili Ding",
+        "Huihui Kang",
+        "Yue Zhao",
+        "Yuxia Lu",
+        "Gai Tian",
+        "Li Zhang",
+        "Wu Jiang",
+        "Ganyu Wang",
+        "Cailing Liang",
+        "Lingling Zhang",
+        "Bingbing Li",
+        "Zhenghua Li",
+        "Chunlan Song",
+        "Yanyan Yang",
+        "Yazhe Wang",
+        "Kaichen Yue",
+        "Yongbin Lang",
+        "Jiatian Liu",
+        "Xiaoli Zhang",
+        "Yiran Xu",
+        "Changlian Zhu"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-13",
+      "doi": "10.1002/aur.70253",
+      "url": "https://doi.org/10.1002/aur.70253",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently present with co‐occurring conditions that can influence autism symptom severity and complicate clinical management. However, studies with clinician‐confirmed diagnoses in non‐Western populations remain limited. In this multicenter cross‐sectional study, 1279 children aged 3–14 years with DSM‐5‐confirmed ASD were recruited from eight medical centers in China. Autism symptom severity was assessed using the Childhood Autism Rating Scale (CARS). Comorbidities were identified through clinical evaluation and specialized assessments, and developmental status was measured using the Gesell Developmental Schedule (GDS) and Wechsler Intelligence Scales. Associations with CARS scores were analyzed using generalized linear regression. Of participants, 96.6% had at least one comorbidity and 71.2% had multiple comorbidities. Common conditions were intellectual developmental disorders (IDD) (87.3%), food selectivity (45.3%), insomnia disorder (16.9%), developmental regression (15.6%), and behavioral problems (14.6%). Patterns differed by sex and age: gastrointestinal problem and sleep‐related interventions were more common in girls,…",
       "framing": "Mixed or transitional framing"
     },
     {
@@ -1816,6 +1888,28 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -1840,28 +1934,6 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
-    },
-    {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261431925",
@@ -4286,6 +4358,31 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -4314,31 +4411,6 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -7119,36 +7191,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -7182,6 +7224,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7489,34 +7561,6 @@
       "url": "https://doi.org/10.1080/20473869.2026.2623086",
       "neurotype": [
         "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07147-6",
-      "title": "Correction: Autism Spectrum Disorder: Sleep Characteristics in Children and Adolescents, and Their Relationship with Probable Sleep Bruxism, Anxiety, and Cortisol and Melatonin Levels—A Cross-Sectional Study of Children in Brazil",
-      "authors": [
-        "Michelle Coelho Ferreira Lotito",
-        "Ana Clara Tapajos Pinto",
-        "Leticia Carolina Alves",
-        "Mainara Alves Barbosa",
-        "Dennis Carvalho Ferreira",
-        "Maristela Barbosa Portela",
-        "Antônio Ferreira Pereira",
-        "Claudia Maria Tavares-Silva",
-        "Giuseppe Pastura",
-        "Gloria Fernanda Barbosa de Araújo Castro"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1007/s10803-025-07147-6",
-      "url": "https://doi.org/10.1007/s10803-025-07147-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
       ],
       "framing": "Medical or diagnostic framing"
     },
@@ -10558,198 +10602,6 @@
       ],
       "abstract": "Abstract Purpose Research on Autism spectrum disorder (ASD) trends and risk factors, particularly relating to by intellectual disability (ID), is limited. This study examined the incidence, sociodemographic risk factors and co-occurrence conditions of ASD, including categorization by ID, using national registers. Methods This study included singletons born in Finland between 1998 and 2015 who had been diagnosed with ASD by 2018, with cases categorized into ASD with ID and ASD without ID. We divided the study sample into four birth cohorts (1998–2002, 2003–2007, 2008–2011 and 2012–2015) to analyze changes in incidence over time. Cases ( n = 10,171) were matched with controls ( n = 49,391) by age, gender, and birthplace. Associations between sociodemographic risk factors and ASD were analyzed using conditional logistic regression. Co-occurrence with other psychiatric disorders was examined only in the oldest cohort (1992–2002). Results The cumulative incidence of ASD without ID increased from 0.52 to 0.89% by age 10, while ASD with ID remained stable at 0.17%. Several socio-demographic risk factors were associated with both groups, while parental immigration status was only associate…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07176-1",
-      "title": "Enhancing Developmental Language Disorder Identification with Artificial Intelligence: Development of an Explainable Screening App Using Real and Synthetic Data",
-      "authors": [
-        "Georgios P. Georgiou"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1007/s10803-025-07176-1",
-      "url": "https://doi.org/10.1007/s10803-025-07176-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07162-7",
-      "title": "Diagnostic Procedures and Treatments for Autistic Children in the Netherlands: A Scoping Review",
-      "authors": [
-        "Rosanne J. Hiemstra",
-        "Novika Purnama Sari"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1007/s10803-025-07162-7",
-      "url": "https://doi.org/10.1007/s10803-025-07162-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07174-3",
-      "title": "Preferences for Identity-First and Person-First Language: A Systematic Review of Research With Autistic Adults/Adults With Autism",
-      "authors": [
-        "Rachel K. Schuck",
-        "Lacey Chetcuti",
-        "Patrick Dwyer",
-        "Katarina Milosavljevic",
-        "Simon M. Bury",
-        "Darren Hedley",
-        "Sander Begeer",
-        "Giacomo Vivanti",
-        "Mirko Uljarevic"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1007/s10803-025-07174-3",
-      "url": "https://doi.org/10.1007/s10803-025-07174-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07178-z",
-      "title": "Distinct Patterns of Cognitive and Emotional Empathy in Parents of Children With Autism Spectrum Disorder: A Behavioral and Self-Report Study",
-      "authors": [
-        "Yina Fan",
-        "Litao Shu",
-        "Shunhua Zhang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1007/s10803-025-07178-z",
-      "url": "https://doi.org/10.1007/s10803-025-07178-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07172-5",
-      "title": "Gender and Medication-Related Patterns of Sensory Reactivity, Repetitive Behaviors, Severity and Motor Coordination in Children With Autism Spectrum Disorder",
-      "authors": [
-        "Öznur Özge Özcan",
-        "Burcu Çevreli",
-        "Mehmet Kamalı",
-        "Türker Tekin Ergüzel",
-        "Barış Metin"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1007/s10803-025-07172-5",
-      "url": "https://doi.org/10.1007/s10803-025-07172-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07161-8",
-      "title": "Effectiveness of a Therapist-Managed Video-Modeling Smartphone Application for Self-Care Training for Children With Autism and Their Parents: A Randomized Controlled Trial",
-      "authors": [
-        "Samane Zohrabi",
-        "Samaneh Karamali Esmaili",
-        "Abbas Sheikhtaheri",
-        "Farid Zayeri"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1007/s10803-025-07161-8",
-      "url": "https://doi.org/10.1007/s10803-025-07161-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07025-1",
-      "title": "A Systematic Review of Autistic Adults’ Experiences of Anxiety From a Qualitative Perspective",
-      "authors": [
-        "Andrea Bianca Da Silva",
-        "Emma Berry",
-        "Saskia Craig",
-        "Michail Doumas"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1007/s10803-025-07025-1",
-      "url": "https://doi.org/10.1007/s10803-025-07025-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2025.2597843",
-      "title": "Can artificial intelligence guide parents of children with autism? The digital path to knowledge through comparative analysis of ChatGPT and DeepSeek models",
-      "authors": [
-        "Alperen Avcı",
-        "Esra Nur Türkmen",
-        "Duygu Yalman Polatlar"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1080/20473869.2025.2597843",
-      "url": "https://doi.org/10.1080/20473869.2025.2597843",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1177/10883576251396804",
-      "title": "“I Became More Confident and Comfortable When Playing With My Son”: Parent Perspectives Following a Strength-Based Video Feedback Intervention",
-      "authors": [
-        "Ciara L. Ousley",
-        "Tracy J. Raulston"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-12-13",
-      "doi": "10.1177/10883576251396804",
-      "url": "https://doi.org/10.1177/10883576251396804",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Best practices in early intervention include empowering parents to embed evidence-based practices within regular routines with their child, such as Naturalistic Developmental Behavioral Interventions (NDBIs). However, very little research has explicitly evaluated intervention approaches that may lead to increased parent self-efficacy for parents of young children with autism. The current study is a mixed-methods evaluation of parent self-reported self-efficacy and perceptions following an NDBI that included strength-based video feedback coaching. We explored (a) parent perceptions of the intervention using a social validity questionnaire and (b) parent self-efficacy using non-parametric Wilcoxon signed-rank test. All parents rated the feasibility and effectiveness of the intervention favorably with strong probability of the parents continuing the intervention in the home. While pre-post results were approaching significance, no statistically significant differences on parent self-efficacy ratings were present ( z = -1.841; p = .066). Parent responses to open-ended questions revealed that video feedback allowed parents to observe the successes of their child in ways that were not po…",
-      "framing": "Person-first language used"
     }
   ]
 }
