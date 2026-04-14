@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T08:25:22Z",
+  "generated_at": "2026-04-14T08:05:21Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -160,6 +160,54 @@
       ],
       "abstract": "Abstract Purpose Increased levels of co-occurring psychiatric symptoms are observed in children and adolescents with autism spectrum disorder (ASD). Former research often investigated heterogeneous samples of youth with ASD. However, concurrent symptom presentation appears to differ with individual characteristics such as intellectual abilities. Method The present study investigated verbal, school-aged children and adolescents ( n = 103) with ASD and at least average intellectual abilities (i.e., full-scale intelligence quotient, FSIQ). Co-occurring psychiatric symptomatology was assessed with the Child Behavior Checklist (CBCL). Path analyses were conducted to investigate whether autistic characteristics or intellectual abilities predicted co-occurring psychiatric symptoms. Results In the investigated youth with ASD the extent of co-existing symptoms was elevated in all CBCL syndrome domains. Few associations of Autism Diagnostic Observation Schedule (ADOS-2), Autism Diagnostic Interview (ADI-R), and FSIQ scores with concurrent psychiatric symptomatology were found, limited to small effect sizes. Conclusion Within the investigated youth with ASD likelihood of experiencing elevated…",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2651407",
+      "title": "Unlocking the cognitive puzzle of autism and your implication for education: the intersection of predictive processing, theory of mind, executive functions, and central coherence",
+      "authors": [
+        "Júlio César Claudino dos Santos",
+        "Janaína Aparecida Favero Desio",
+        "Tulia Fernanda Meira Garcia",
+        "Everton Ferreira de Souza",
+        "Silvana Fátima Costa Henkes",
+        "Júlia Cunha de Borba",
+        "Estefania Miranda Borges",
+        "Maiara de Aguiar da Costa",
+        "Luana Stangherlin dos Santos",
+        "Cinara Ludvig Gonçalves"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-04-13",
+      "doi": "10.1080/20473869.2026.2651407",
+      "url": "https://doi.org/10.1080/20473869.2026.2651407",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
+    },
+    {
+      "id": "10.1002/aur.70252",
+      "title": "Exploring Biases in Autism Diagnostic Pathways",
+      "authors": [
+        "Ryan Woolhouse",
+        "Sarah L. Nicholson"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-13",
+      "doi": "10.1002/aur.70252",
+      "url": "https://doi.org/10.1002/aur.70252",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Assessments for autism spectrum disorder are time‐consuming and expensive, and demand has increased over recent decades. Despite improved diagnostic criteria and awareness of autism, there still appear to be disparities in diagnostic rates of autism across age, gender, and ethnicity. Research investigating biases in referrals to, and assessments conducted by, autism diagnostic services is limited, especially in adults, making it difficult to understand these disparities. This clinical service evaluation collected data on demographic characteristics of clients referred and accepted for autism assessments ( N = 350) and fully assessed for autism ( N = 269) by a London‐based adult autism team. Demographic characteristics of clients referred to the service were compared to population prevalences using Census data to investigate potential biases in referring clinicians. Demographic characteristics of clients who received diagnoses of autism were compared to the service's average diagnostic rate to investigate potential biases in assessing clinicians. Participants referred and accepted for autism assessments were significantly more likely to be male, aged 18–34, and from White o…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1002/aur.70253",
@@ -4358,31 +4406,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -4411,6 +4434,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -7058,6 +7106,22 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -7078,22 +7142,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -7191,6 +7239,36 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -7224,36 +7302,6 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -9895,38 +9943,6 @@
       ],
       "abstract": "ABSTRACT This study investigates the associations of peer relationships and teacher–student relationships with aggressive behaviors in Chinese children with autism spectrum disorder (ASD) placed in regular classrooms, with a specific focus on the mediating role of perceived discrimination. Data are collected from multiple sources, involving 189 ASD children and their teachers across 22 regular primary schools in Guangzhou, Guangdong Province, China. Following behavioral experiments, questionnaire assessments, and data analysis using partial least squares structural equation modeling (PLS‐SEM), this study reveals three key findings: (1) both peer relationships and teacher–student relationships negatively affect aggressive behaviors in children with ASD; (2) perceived discrimination positively influences such aggressive behaviors; and (3) both peer and teacher–student relationships indirectly influence aggressive behaviors through the mediation of perceived discrimination. These findings emphasize the need of enhancing on‐campus social connections to reduce perceived discrimination among ASD children, thereby mitigating aggressive behaviors, and highlight the necessity of fostering a…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70153",
-      "title": "Feasibility Study of a Novel App‐Based Anxiety Intervention for Autistic People",
-      "authors": [
-        "Bethany Oakley",
-        "Charlotte A. Boatman",
-        "Saffron Baldoza",
-        "Amy Hearn",
-        "Colin Larkworthy",
-        "Rachel Kent",
-        "Ann Ozsivadjian",
-        "Sophie Doswell",
-        "Antonia Dittner",
-        "Amanda Roestorf",
-        "Dhara Rawal",
-        "Ben Carter",
-        "Emily Simonoff"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-01-01",
-      "doi": "10.1002/aur.70153",
-      "url": "https://doi.org/10.1002/aur.70153",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT At least 50% of autistic people experience clinically relevant anxiety symptoms. However, reasons for elevated rates of anxiety in autism remain poorly understood and there is a high unmet need for novel and adapted therapies for anxiety that are accessible to autistic people. This study aimed to establish the feasibility of a novel app‐based anxiety management tool (“Molehill Mountain”) that has been developed with, and adapted for, autistic people. A single‐centre, single‐arm feasibility study design was employed, whereby autistic people (≥ 16 years) with mild‐to‐severe symptoms of anxiety were recruited to a 13‐week intervention period (King's College London, UK; clinicaltrials.gov identifier NCT05302167). Of 123 prospective participants screened, 100 (81%) participants aged 16–74 years ( n = 69 female) were enrolled within approximately 15 months. n = 76 (76%) completed an anxiety measure at ~15 weeks (Generalized Anxiety Disorder—7 Item Scale; GAD‐7). Most adhered to the full intervention duration: 65% ( n = 47), with most using the app weekly (1–6 days per week; 58%). 73% of participants agreed that they found the app easy to use overall and that an app is a good for…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2025.2608096",
