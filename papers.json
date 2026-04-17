@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T08:04:54Z",
+  "generated_at": "2026-04-17T08:06:22Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -161,6 +161,46 @@
         "lived experience"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07328-x",
+      "title": "Mortality in Autism: A Longitudinal Register-Based Study",
+      "authors": [
+        "Maria Marinopoulou",
+        "Caroline Mårland",
+        "Christopher Gillberg",
+        "Eva Billstedt"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-16",
+      "doi": "10.1007/s10803-026-07328-x",
+      "url": "https://doi.org/10.1007/s10803-026-07328-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose To examine mortality and causes of death in a population-based cohort of adults with autism spectrum disorder (ASD), and to compare findings with a sample drawn from the general population. Methods A population-based cohort of individuals ( N = 113) born 1962–1984 and diagnosed with ASD in childhood during the 1970’s and 1980’s was followed up through register between 2000 and 2023. Most individuals were diagnosed with co-occurring intellectual disability (ID). The group was compared to an age- and sex-matched group ( N = 1130) from the general population. Data for both groups were obtained from the National Cause of Death Register in Sweden. Kaplan-Meier survival analysis was used to calculate the survival distributions of the participants with ASD and the comparison group, and Cox proportional hazards regression to estimate Hazard ratios for mortality. Results During the study period (2000–2023) 9.7% of the ASD group and 2.7% of the comparison group had died, p &lt; .001. The ASD group had a higher risk of mortality than the comparison group (Hazard Ratio = 3.77, 95%CI = 1.89–7.52, p &lt; .001). Mortality did not differ significantly between males and females in…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s40489-026-00554-0",
+      "title": "Understanding the Contextual Variables that Contribute to the School Refusal Behavior of Neurodivergent Adolescents: A Scoping Review",
+      "authors": [
+        "Samantha van der Werff",
+        "Pat Bullen",
+        "Rebecca Sharp"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-16",
+      "doi": "10.1007/s40489-026-00554-0",
+      "url": "https://doi.org/10.1007/s40489-026-00554-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07331-2",
@@ -5260,34 +5300,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251406114",
-      "title": "‘Breaking down a barrier’: Autistic young people see virtual reality as a possible social support, but not a substitute for in-person interactions",
-      "authors": [
-        "Nathan Caruana",
-        "Terry Goetz",
-        "Patrick Nalepka",
-        "Elizabeth Pellicano"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251406114",
-      "url": "https://doi.org/10.1177/13623613251406114",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Autistic people often face challenges in face-to-face social interactions, especially in unfamiliar or high-stakes situations. Virtual reality has been proposed as a tool to support social connection by offering a more controlled and accessible environment. While previous research has focused on virtual reality–based social skills training, little is known about how autistic people experience social interactions in virtual reality. We interviewed 22 autistic young people (aged 9–22 years, M Age = 14.5) after they engaged in a social interaction with a stranger in immersive virtual reality. Using reflexive thematic analysis, we found that participants generally found virtual reality interactions tolerable, engaging and helpful as a low-pressure first step towards more challenging social situations. Virtual reality was valued for reducing sensory overload, increasing confidence and offering novel social opportunities. However, participants did not view virtual reality as a replacement for in-person interaction, which they saw as essential for building meaningful relationships. These findings highlight the potential of virtual reality to support autistic people by modifying the social…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10883576251396515",
       "title": "Parent and Provider Perspectives on Family Navigation for Early Identification of Children With Autism Spectrum Disorder",
       "authors": [
@@ -7266,6 +7278,22 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -7286,22 +7314,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -7399,6 +7411,36 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -7432,36 +7474,6 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7771,62 +7783,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/13623613251393504",
-      "title": "Exploring the autism and functional neurological disorder association: Considerations from biopsychosocial, neuropsychological and computational models",
-      "authors": [
-        "Richard H Cole",
-        "Lily Smythe",
-        "Mark J Edwards",
-        "Francesca Happé",
-        "Timothy R Nicholson"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251393504",
-      "url": "https://doi.org/10.1177/13623613251393504",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Evidence is accumulating regarding an association between autism and functional neurological disorder, a common cause for a wide range of neurological symptoms affecting motor, sensory and cognitive systems. Symptoms can include paralysis, tremors, sensory disturbance, vision loss and dizziness. Functional neurological disorder exists at the complex intersection of physical and mental health, neurology and psychiatry, and body and mind. Despite a recent resurgence in clinical and scientific interest, functional neurological disorder has lagged behind other causes of neurological symptoms in research, service development and acceptance. The nature of the association between autism and functional neurological disorder remains uncertain, but several plausible mechanisms can be identified from overlapping areas of research, highlighting endogenous factors such as atypical interoception, motor function, emotional processing and sensorimotor integration, alongside exogenous influences including adversity, healthcare inequality and stigma. This review first provides an overview of functional neurological disorder through various explanatory frameworks before applying biopsychosocial, neur…"
-    },
-    {
-      "id": "10.1177/13623613251395538",
-      "title": "The impact of individual factors on linguistic alignment of autistic boys and their mothers",
-      "authors": [
-        "Nell Maltman",
-        "Camille J Wynn",
-        "Elizabeth A Wynn",
-        "Audra Sterling"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/13623613251395538",
-      "url": "https://doi.org/10.1177/13623613251395538",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Employment"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Linguistic alignment reflects shared linguistic behaviors (e.g. syntax and lexicon) between interlocutors. Recent work has examined whether autistic children align to the same degree as their non-autistic peers, with current findings inconclusive. This study took an in-depth approach to investigating factors contributing to variation in linguistic alignment among autistic individuals. Eighteen school-age and adolescent autistic male participants, 14 males with fragile X syndrome + autism, and their mothers participated in the study. Dyads engaged in an unstructured conversation for ~12 min. Using Bayesian linear mixed-effect models, we assessed the relationships between alignment and within-individual factors of the participants. Lexical and syntactic alignment were uniquely influenced by within-participant factors. Maternal lexical and syntactic alignment were differentially associated with participant cognitive and expressive language abilities, and according to etiology (fragile X syndrome + autism vs idiopathic autism). This study highlights the complexity of alignment in autistic individuals and their mothers. Results suggest that alignment is a dynamic process that is motivat…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1089/aut.2024.0148",
@@ -10629,68 +10585,6 @@
       ],
       "abstract": "Virtual manipulatives are an evidence-based practice in mathematics for students with autism spectrum disorder (ASD). Yet, to date, most research exploring the effects of the virtual-representational-abstract (VRA) instructional sequence has been conducted in researcher-implemented settings. However, to ensure researchers are able to provide accurate practice recommendations, more research is needed to explore the teacher implementation of this intervention. The purpose of this concurrent multiple probe across participants single-case design study was to examine the effects of a teacher-implemented VRA instructional sequence taught via explicit instruction on the accuracy with which three elementary students with ASD solve addition with regrouping problems. The VRA instructional sequence involved the use of virtual base ten blocks, drawings, and abstract numerical strategies to solve addition with regrouping problems. Researchers found a functional relation between the VRA instructional sequence and student accuracy. All three students were also able to maintain their accuracy after intervention ended. The teacher was able to implement the VRA instructional sequence after only two…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/13623613251395539",
-      "title": "Short report: Autistic adults’ perceptions of gender, autism, and policing in the United States",
-      "authors": [
-        "Meredith Cola",
-        "Aili Hauptmann",
-        "Alison Russell",
-        "Dieu M Truong",
-        "Ashlee Yates Flanagan",
-        "Kimberly G Tena",
-        "Juan Pacheco",
-        "Ashley Zitter",
-        "Azia Knox",
-        "Maggie Rose Pelella",
-        "Lizzy Fulop",
-        "Maxine Covello",
-        "Amanda Lee",
-        "Margaret Lyons",
-        "Sarah Schillinger",
-        "Rita Solórzano",
-        "Sinan Turnacioglu",
-        "Vijay Ravindran",
-        "Judith S Miller",
-        "Joseph P McCleery",
-        "Julia Parish-Morris"
-      ],
-      "journal": "Autism",
-      "year": 2025,
-      "published_date": "2025-12-17",
-      "doi": "10.1177/13623613251395539",
-      "url": "https://doi.org/10.1177/13623613251395539",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "disclosure"
-      ],
-      "abstract": "Autistic individuals face increased risk during police interactions in the United States, including injury and death. Research shows police behave inequitably during interactions with marginalized communities and may behave even more inequitably toward individuals with multiple minoritized identities. Many autistic people also identify as gender diverse. However, it is largely unknown if or how autistic adults’ perceptions of police differ by gender identity. We examined autistic adults’ perceptions of policing, autism, and gender using an online questionnaire. Results revealed significant differences across gender groups (cis women, cis men, gender diverse) in perceptions of justice, comfort in disclosing diagnosis, helpfulness of diagnostic disclosure, influence of gender, and concern that one’s autistic traits would be misperceived as dangerous. These findings align with widespread calls for police reform and suggest current policing practices likely do not meet the needs of all autistic individuals, particularly autistic cis women and gender diverse individuals, who are more likely to report their gender has influenced police interactions and more concerned that their autistic…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10883576251396812",
-      "title": "Comparison of Technology-Based Presentation Modalities in Multi-Stimulus Job Task Preference Assessments",
-      "authors": [
-        "Lauren E. Mucha",
-        "Lisa S. Cushing"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-12-17",
-      "doi": "10.1177/10883576251396812",
-      "url": "https://doi.org/10.1177/10883576251396812",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Employment"
-      ],
-      "abstract": "This study evaluated the effectiveness of video and electronic pictorial presentation modalities in multiple stimulus without replacement (MSWO) job task preference assessments through methods comparison and evaluation of predictive validity. The study was conducted in the school setting with eight transition-age students with ASD and ID. Variations of work task preference assessment, electronic picture-based and video-based MSWO, were compared to an established assessment method, tangible stimulus MSWO. Subsequently, the predictive validity of the assessments was evaluated by observing the task engagement of participants while performing the high- and low-preference work tasks. Results suggest that electronic pictorial and video MSWO assessments of preferences are accurate and effective with some individuals and not as effective as the object modality for others. Findings, limitations, and implications for research and practice are also discussed.",
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
