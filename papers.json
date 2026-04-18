@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T08:06:22Z",
+  "generated_at": "2026-04-18T07:35:37Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -91,6 +91,77 @@
         "Sensory environment"
       ],
       "abstract": "Objective: This study aims to investigate the complex relation between adult ADHD symptoms, procrastination, and mediating factors, in light of leading procrastination theories: the Temporal Motivation Theory (TMT), emotion regulation, and a General Architecture for Modeling the Dynamics of Goal-Directed Motivation and Decision-Making – the GOAL architecture. Method: The study was preregistered. A survey was conducted with 640 adults recruited online to examine the associations between ADHD symptoms, procrastination, and seven mediating factors. Participants completed measures assessing ADHD symptoms, procrastination tendencies, emotion regulation, motivation, and goal-related behaviors. Structural equation modeling (SEM) was used to test the direct and indirect pathways among the variables. Results: A positive association was revealed between ADHD inattention symptoms and procrastination tendencies. The mediating factors that significantly contributed to this relations were sensitivity to delay, perceived low value of the task, and flexible goal adjustment. While ADHD inattention symptoms was associated with all seven variables, three variables directly contributed to increased pr…"
+    },
+    {
+      "id": "10.1007/s10803-026-07330-3",
+      "title": "Validation of the Modified Checklist for Autism in Toddlers (M-CHAT): A Replication Study of Diagnostic Accuracy",
+      "authors": [
+        "Ayonia L. Harper",
+        "Dustin E. Sarver",
+        "Kaye F. Sly"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-17",
+      "doi": "10.1007/s10803-026-07330-3",
+      "url": "https://doi.org/10.1007/s10803-026-07330-3",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07317-0",
+      "title": "The Association Between Neonatal Jaundice and Autism Spectrum Disorder and Attention-Deficit/Hyperactivity Disorder: Findings From the Millennium Cohort Study",
+      "authors": [
+        "Andrea Lee",
+        "Sorcha Higgins",
+        "David O’Driscoll",
+        "Jill M. Mitchell",
+        "Brian H. Walsh",
+        "Gerard W. O’Keeffe",
+        "Ali S. Khashan",
+        "Gillian M. Maher"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-17",
+      "doi": "10.1007/s10803-026-07317-0",
+      "url": "https://doi.org/10.1007/s10803-026-07317-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07333-0",
+      "title": "Multi-View Analysis of Facial Expressions in Minimally Verbal Autism: Preliminary Evidence From Social Communication Observations",
+      "authors": [
+        "Lu Qu",
+        "Tongxin Yin",
+        "Jiabei Zeng",
+        "Yuqi Zhang",
+        "Xuling Han",
+        "Min Liu",
+        "Fei Chang",
+        "Yujian Yuan",
+        "Shiguang Shan",
+        "Hang Zhao",
+        "Qiaoyun Liu"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-17",
+      "doi": "10.1007/s10803-026-07333-0",
+      "url": "https://doi.org/10.1007/s10803-026-07333-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07282-8",
@@ -1817,6 +1888,209 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1002/aur.70223",
+      "title": "Correction to “The Vulnerability Experiences Quotient (\n                    <scp>VEQ</scp>\n                    ): A Study of Vulnerability, Mental Health and Life Satisfaction in Autistic Adults”",
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70223",
+      "url": "https://doi.org/10.1002/aur.70223",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70213",
+      "title": "Autistic Youth Being Ignored by Peers: An Early‐Stage Study",
+      "authors": [
+        "Nicoletta V. Frankenstein",
+        "Julie Lounds Taylor",
+        "Shuting Zheng",
+        "Somer L. Bishop",
+        "Natalie Libster",
+        "Tanya E. Froehlich",
+        "Ryan E. Adams"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70213",
+      "url": "https://doi.org/10.1002/aur.70213",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Autistic youth have been shown to be at risk for negative peer experiences, but experiences of being ignored are rarely examined in this group. This study is an early‐stage examination of the experience of being ignored in autistic youth. Objectives are to test psychometric properties of a measure of being ignored; describe rates of being ignored; identify who is most at risk for being ignored; and test the association of being ignored with other social experiences and psychological health. One hundred and forty‐nine autistic high school students with full scale IQs of 70 or above ( M = 99.86, SD = 16.5) and aged 15–23 years completed self‐reported, online surveys regarding day‐to‐day experiences, well‐being, and psychological health. Parents completed additional measures assessing ASD symptomology and other demographic and clinical characteristics. A confirmatory factor analysis and Cronbach's alpha indicated good psychometric properties for the Ignore factor. While the average score on the Ignore scale was relatively low, ~40% reported often having at least one type of experience of being ignored. Being ignored was associated with having more SRS‐2 Restricted Interests/R…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70214",
+      "title": "Receptive–Expressive Language Phenotypes in Infants and Toddlers With Autism Features",
+      "authors": [
+        "Torrey Cohenour",
+        "Amanda Gulsrud",
+        "Connie Kasari"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70214",
+      "url": "https://doi.org/10.1002/aur.70214",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Children diagnosed with autism often present with an atypical discrepancy between their receptive and expressive language levels, or an atypical receptive–expressive language phenotype. Children with an atypical receptive–expressive phenotype present with a relative receptive language advantage (expressive level &lt; receptive level) or a relative expressive language advantage (expressive level &gt; receptive level), whereas those with a typical phenotype have balanced receptive and expressive language levels. It remains unclear whether atypical receptive–expressive language phenotypes are evident before 24 months in children with autism features or whether they are associated with concurrent child developmental functioning or later language growth. Participants ( N = 80) were drawn from a randomized comparative efficacy intervention study for 12–23‐month‐olds with autism features and elevated scores on an autism diagnostic instrument. Baseline receptive and expressive language age equivalent (AE) scores were used to describe continuous variation in receptive–expressive language phenotypes by quantifying the gap between each child's receptive and expressive language levels…",
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1002/aur.70209",
+      "title": "Beyond Gaze: Affective Synchrony and Sensory‐Linked Interactional Profiles as Early Markers of Autism Risk",
+      "authors": [
+        "Lan Lin",
+        "Qian Li",
+        "Zenghe Yue",
+        "Yaxin Dai",
+        "Haozhen Chen",
+        "Yuheng Chen",
+        "Jinyi Zhu",
+        "Yazhu Han",
+        "Shengjian Yin",
+        "Luyang Guan",
+        "Xiaoyan Ke"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70209",
+      "url": "https://doi.org/10.1002/aur.70209",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Identifying early markers for autism spectrum disorder (ASD) is a clinical priority. This study investigated interpersonal affect synchrony (IAS) as a measure of interactional quality in a longitudinal cohort of 90 high‐risk infants. We aimed to disentangle its contribution from mutual gaze and identify data‐driven social interaction profiles linked to sensory traits. Parent‐infant interactions were recorded at 6–18 months; IAS was quantified using Cross‐Recurrence Quantification Analysis, and ASD outcomes were determined at 18–24 months. Infants later diagnosed with ASD ( n = 25) showed significantly lower IAS ( F (1,84) = 5.89, p FDR = 0.023) and synchrony stability ( F (1,84) = 5.37, p FDR = 0.023) than non‐diagnosed infants ( n = 65), yet the groups did not differ in mutual gaze ( p = 0.200). Logistic regression analysis further showed that IAS (OR = 0.561, p FDR = 0.038) and synchrony stability (OR = 0.013, p FDR = 0.038) both significantly predict clinical outcome. K‐means clustering revealed three profiles: “High Gaze‐High Synchrony,” “Mid Gaze‐Low Synchrony,” and “Low Gaze‐High Synchrony.” The “Mid Gaze‐Low Synchrony” profile was significantly associated with a lat…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70198",
+      "title": "Does the Extreme Male Brain Hypothesis of Autism Apply More to Females Than Males? A Systematic and Meta‐Analytic Approach",
+      "authors": [
+        "Cory Szakal",
+        "Bernard Crespi"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70198",
+      "url": "https://doi.org/10.1002/aur.70198",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT The extreme male brain (EMB) hypothesis posits that autism risk is mediated by high systemizing and low empathizing. This hypothesis has accrued extensive support, but the degree to which it applies in females compared to males, and the relative extent to which autism is associated with empathizing compared to systemizing, is unclear. Systematic review and meta‐analyses of studies measuring the empathy quotient (EQ), the systemizing quotient (SQ), and the autism quotient (AQ), among individuals with autism and neurotypical individuals, were used to address these questions. Analyses of results from 34 studies indicated that: (1) Females show larger proportional differences in EQ and SQ between ASD and NT individuals than do males, (2) EQ shows larger proportional differences between autism spectrum (ASD) and neurotypical (NT) individuals than does SQ, (3) sex differences in EQ and SQ are highly attenuated among individuals with ASD, especially for SQ in females, (4) the regressions of EQ and SQ on AQ show significantly steeper slopes among individuals with ASD than in NT individuals, and (5) across studies, EQ and SQ are inversely associated among individuals with ASD, but…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70196",
+      "title": "How Screening and Diagnostic Tools Shape Autism Prevalence in School‐Aged Children: A Bibliometric‐Systematic Review (2015–2025)",
+      "authors": [
+        "Ahmad Zamir Che Daud",
+        "Noor Aziella Mohd Nayan",
+        "Hasnah Toran",
+        "Kartini Ilias",
+        "Norazlin Kamal Nor",
+        "Khairil Anuar Md Isa",
+        "Wai Wai Yang",
+        "Tengku Amatullah Madeehah Tengku Mohd",
+        "Nizam Baharom",
+        "Sazlina Kamaralzaman"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70196",
+      "url": "https://doi.org/10.1002/aur.70196",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "ABSTRACT Autism spectrum disorder (ASD) prevalence estimates vary widely across countries and over time, partly due to differences in the screening and diagnostic tools used. This study combined bibliometric analysis and systematic review methods to examine global publication trends and evaluate the use of standardized assessment tools in ASD prevalence studies involving school‐aged children (typically 6–12 years). A bibliometric search of the Scopus database (2015–2025) identified 107 publications, which were analyzed for citation patterns, research themes, and geographic distribution. Of these, 18 studies met systematic review inclusion criteria, reporting ASD prevalence in the general population and high‐risk samples across diverse regions. The most frequently used screening tools were the Social Communication Questionnaire (SCQ) and Childhood Autism Spectrum Test (CAST), while gold‐standard diagnostic tools such as the Autism Diagnostic Observation Schedule (ADOS/ADOS‐2) and Autism Diagnostic Interview‐Revised (ADI‐R) were common for diagnostic confirmation. However, psychometric performance and cultural adaptation processes varied, and many tools were not validated for the stu…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70199",
+      "title": "Does Camouflaging Predict Functioning, Distress, and Quality of Life for Autistic Adults?",
+      "authors": [
+        "Bruna B. Roisenberg",
+        "Kelsie A. Boulton",
+        "Emma E. Thomas",
+        "Adam J. Guastella"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70199",
+      "url": "https://doi.org/10.1002/aur.70199",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT It has been proposed that autistic individuals adopt camouflaging strategies to mask their autistic traits and conform to social norms, and that these camouflaging strategies have been linked to adverse mental health outcomes. This study examined whether camouflaging, measured by the Camouflaging Autistic Traits Questionnaire (CAT‐Q), predicted functioning, distress, and quality of life beyond standard clinical measures of social responsiveness and social anxiety. We analysed data from 113 autistic adults experiencing social anxiety who expressed interest in anxiety interventions. Hierarchical regression analyses assessed the unique contribution of camouflaging after accounting for social responsiveness and social anxiety. Results indicated that social responsiveness and social anxiety significantly predicted depression, psychological distress, and disability, whereas camouflaging did not explain additional variance in these outcomes. Although camouflaging correlated with poorer mental health and reduced quality of life, it did not independently predict these outcomes beyond social anxiety and responsiveness. These findings suggest current camouflaging measures may capture…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70177",
+      "title": "Clinical Value of Early Motor Skill Assessment and Intervention in Autism Spectrum Disorder",
+      "authors": [
+        "Xue Yaqi",
+        "Zhang Shuai",
+        "De Ma",
+        "Cui Yinchen",
+        "Zhen Zhiping"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70177",
+      "url": "https://doi.org/10.1002/aur.70177",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s40489-026-00551-3",
       "title": "Play Skills of Children with Autism Spectrum Disorder: A Meta-Analysis of Single-Subject Studies",
       "authors": [
@@ -3417,22 +3691,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1002/aur.70223",
-      "title": "Correction to “The Vulnerability Experiences Quotient (\n                    <scp>VEQ</scp>\n                    ): A Study of Vulnerability, Mental Health and Life Satisfaction in Autistic Adults”",
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-03-20",
-      "doi": "10.1002/aur.70223",
-      "url": "https://doi.org/10.1002/aur.70223",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07228-0",
       "title": "Internal Consistency of Self-report Anxiety Measures for Autistic Adults Without Intellectual Disabilities: A Systematic Review and Meta-analysis",
       "authors": [
@@ -4554,83 +4812,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70213",
-      "title": "Autistic Youth Being Ignored by Peers: An Early‐Stage Study",
-      "authors": [
-        "Nicoletta V. Frankenstein",
-        "Julie Lounds Taylor",
-        "Shuting Zheng",
-        "Somer L. Bishop",
-        "Natalie Libster",
-        "Tanya E. Froehlich",
-        "Ryan E. Adams"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-03-05",
-      "doi": "10.1002/aur.70213",
-      "url": "https://doi.org/10.1002/aur.70213",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Autistic youth have been shown to be at risk for negative peer experiences, but experiences of being ignored are rarely examined in this group. This study is an early‐stage examination of the experience of being ignored in autistic youth. Objectives are to test psychometric properties of a measure of being ignored; describe rates of being ignored; identify who is most at risk for being ignored; and test the association of being ignored with other social experiences and psychological health. One hundred and forty‐nine autistic high school students with full scale IQs of 70 or above ( M = 99.86, SD = 16.5) and aged 15–23 years completed self‐reported, online surveys regarding day‐to‐day experiences, well‐being, and psychological health. Parents completed additional measures assessing ASD symptomology and other demographic and clinical characteristics. A confirmatory factor analysis and Cronbach's alpha indicated good psychometric properties for the Ignore factor. While the average score on the Ignore scale was relatively low, ~40% reported often having at least one type of experience of being ignored. Being ignored was associated with having more SRS‐2 Restricted Interests/R…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70214",
-      "title": "Receptive–Expressive Language Phenotypes in Infants and Toddlers With Autism Features",
-      "authors": [
-        "Torrey Cohenour",
-        "Amanda Gulsrud",
-        "Connie Kasari"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-03-05",
-      "doi": "10.1002/aur.70214",
-      "url": "https://doi.org/10.1002/aur.70214",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Children diagnosed with autism often present with an atypical discrepancy between their receptive and expressive language levels, or an atypical receptive–expressive language phenotype. Children with an atypical receptive–expressive phenotype present with a relative receptive language advantage (expressive level &lt; receptive level) or a relative expressive language advantage (expressive level &gt; receptive level), whereas those with a typical phenotype have balanced receptive and expressive language levels. It remains unclear whether atypical receptive–expressive language phenotypes are evident before 24 months in children with autism features or whether they are associated with concurrent child developmental functioning or later language growth. Participants ( N = 80) were drawn from a randomized comparative efficacy intervention study for 12–23‐month‐olds with autism features and elevated scores on an autism diagnostic instrument. Baseline receptive and expressive language age equivalent (AE) scores were used to describe continuous variation in receptive–expressive language phenotypes by quantifying the gap between each child's receptive and expressive language levels…",
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -4659,6 +4840,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -5300,39 +5506,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/10883576251396515",
-      "title": "Parent and Provider Perspectives on Family Navigation for Early Identification of Children With Autism Spectrum Disorder",
-      "authors": [
-        "Christina Cheung",
-        "Jacqueline Jones",
-        "Kristina Hightshoe",
-        "Jeanette Córdova",
-        "Yurico Gutiérrez",
-        "Jodi K. Dooling-Litfin",
-        "Margaret M. Tomcho",
-        "Silvia Gutiérrez-Raghunath",
-        "Cordelia Robinson Rosenberg",
-        "Steven A. Rosenberg",
-        "Carolyn DiGuiseppi"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10883576251396515",
-      "url": "https://doi.org/10.1177/10883576251396515",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Early intervention (EI) can improve developmental outcomes among children with autism spectrum disorder (ASD), but underdiagnosis and undertreatment are common among low-income families and children of racial/ethnic minorities. The Screening and Linkage to Services for Autism (SaLSA) trial (ClinicalTrials.gov Identifier: NCT02374541) demonstrated that autism family navigation (AFN) improved the likelihood that young children at risk for ASD completed a diagnostic evaluation. In a qualitative descriptive U.S. study, we recruited parent participants, health care and EI providers and staff, and project personnel from the SaLSA trial to participate in semi-structured interviews on acceptability and feasibility of AFN services for families seen in urban safety-net clinical settings (i.e., where care is provided regardless of ability to pay). Iterative theme analysis was performed. A community focus group was conducted for triangulation to improve validity. Results demonstrated four main themes: (1) “It’s all in a name: the risk of engagement”; (2) “Community partnerships require authentic trust”; (3) “System interactions and interrelationships”; and (4) “What is an autism family navigat…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1177/10870547251407731",
       "title": "Parental Stress and Child Irritability in ADHD: A Two-Wave Longitudinal Serial Mediation Model via Experiential Avoidance and Negative Parent–Child Relationship",
       "authors": [
@@ -5725,35 +5898,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1108/aia-07-2025-0069",
-      "title": "Underdiagnosis of autism spectrum disorder: a narrative review of gender differences and systemic barriers",
-      "authors": [
-        "Katarzyna Małgorzata Barabasz",
-        "Jarosław Baran",
-        "Patryk Barczuk",
-        "Dominik Bańkowski",
-        "Kamil Bielak",
-        "Katarzyna Kamińska",
-        "Patrycja Kłaptocz",
-        "Katarzyna Łukoś-Karcz",
-        "Milena Nowak"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-26",
-      "doi": "10.1108/aia-07-2025-0069",
-      "url": "https://doi.org/10.1108/aia-07-2025-0069",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Purpose This paper examines the persistent underdiagnosis of autism spectrum disorder, particularly among women, adults and minority groups. This study aims to identify how gendered symptom expression, camouflaging behaviours, systemic barriers and cultural inequities affect diagnostic accuracy and timeliness. Design/methodology/approach A structured narrative review of 33 peer-reviewed empirical studies published between 2009 and 2024, with one historical paper from 1992 retained for context. Sources were retrieved from PubMed, Scopus and Web of Science. We used controlled vocabulary and free-text terms. Methodological quality was appraised with critical appraisal skills programme, Joanna Briggs Institute and A Measurement Tool to Assess Systematic Reviews, version 2. Reporting followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020. Findings were synthesised across four domains: gender differences in diagnostic timing, camouflaging and phenotypic variability, systemic barriers and cultural and linguistic factors. Findings Standard diagnostic frameworks (Diagnostic and statistical manual of mental disorders, Fifth Edition, International Classification of D…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/13623613261418948",
       "title": "Short report: An examination of behavioral factors linked to picky eating in autistic children",
       "authors": [
@@ -5914,41 +6058,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70209",
-      "title": "Beyond Gaze: Affective Synchrony and Sensory‐Linked Interactional Profiles as Early Markers of Autism Risk",
-      "authors": [
-        "Lan Lin",
-        "Qian Li",
-        "Zenghe Yue",
-        "Yaxin Dai",
-        "Haozhen Chen",
-        "Yuheng Chen",
-        "Jinyi Zhu",
-        "Yazhu Han",
-        "Shengjian Yin",
-        "Luyang Guan",
-        "Xiaoyan Ke"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-23",
-      "doi": "10.1002/aur.70209",
-      "url": "https://doi.org/10.1002/aur.70209",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Identifying early markers for autism spectrum disorder (ASD) is a clinical priority. This study investigated interpersonal affect synchrony (IAS) as a measure of interactional quality in a longitudinal cohort of 90 high‐risk infants. We aimed to disentangle its contribution from mutual gaze and identify data‐driven social interaction profiles linked to sensory traits. Parent‐infant interactions were recorded at 6–18 months; IAS was quantified using Cross‐Recurrence Quantification Analysis, and ASD outcomes were determined at 18–24 months. Infants later diagnosed with ASD ( n = 25) showed significantly lower IAS ( F (1,84) = 5.89, p FDR = 0.023) and synchrony stability ( F (1,84) = 5.37, p FDR = 0.023) than non‐diagnosed infants ( n = 65), yet the groups did not differ in mutual gaze ( p = 0.200). Logistic regression analysis further showed that IAS (OR = 0.561, p FDR = 0.038) and synchrony stability (OR = 0.013, p FDR = 0.038) both significantly predict clinical outcome. K‐means clustering revealed three profiles: “High Gaze‐High Synchrony,” “Mid Gaze‐Low Synchrony,” and “Low Gaze‐High Synchrony.” The “Mid Gaze‐Low Synchrony” profile was significantly associated with a lat…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261418468",
@@ -6412,24 +6521,6 @@
       "abstract": "Purpose There is scant evidence for the treatment of complex emotional needs (difficulties consistent with a diagnosis of personality disorder), when an autism spectrum condition is also present. However, this is an increasingly common clinical picture for mental health services. Design/methodology/approach This paper reports two case studies in which Structured Clinical Management (SCM) was offered to two clients with these co-occurring difficulties. Findings For these clients, following detailed collaborative formulations including informal sensory profiles, evidence-based adaptations were made to standard SCM treatment. This approach resulted in positive quantitative outcomes, and similarly positive qualitative feedback. These case studies provide promising preliminary support for offering SCM, with appropriate adaptations, to this client group. Originality/value The authors understand that these are the first case studies to explore the use of SCM with clients with co-occurring autism, adding to a limited evidence base considering the use of psychological treatments for clients with complex emotional needs and autism."
     },
     {
-      "id": "10.1002/aur.70198",
-      "title": "Does the Extreme Male Brain Hypothesis of Autism Apply More to Females Than Males? A Systematic and Meta‐Analytic Approach",
-      "authors": [
-        "Cory Szakal",
-        "Bernard Crespi"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-16",
-      "doi": "10.1002/aur.70198",
-      "url": "https://doi.org/10.1002/aur.70198",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT The extreme male brain (EMB) hypothesis posits that autism risk is mediated by high systemizing and low empathizing. This hypothesis has accrued extensive support, but the degree to which it applies in females compared to males, and the relative extent to which autism is associated with empathizing compared to systemizing, is unclear. Systematic review and meta‐analyses of studies measuring the empathy quotient (EQ), the systemizing quotient (SQ), and the autism quotient (AQ), among individuals with autism and neurotypical individuals, were used to address these questions. Analyses of results from 34 studies indicated that: (1) Females show larger proportional differences in EQ and SQ between ASD and NT individuals than do males, (2) EQ shows larger proportional differences between autism spectrum (ASD) and neurotypical (NT) individuals than does SQ, (3) sex differences in EQ and SQ are highly attenuated among individuals with ASD, especially for SQ in females, (4) the regressions of EQ and SQ on AQ show significantly steeper slopes among individuals with ASD than in NT individuals, and (5) across studies, EQ and SQ are inversely associated among individuals with ASD, but…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1007/s10803-026-07241-3",
       "title": "Reduced Habituation: A Key to Understanding Sensory Sensitivity in Autism",
       "authors": [
@@ -6712,65 +6803,6 @@
         "Mental health"
       ],
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
-    },
-    {
-      "id": "10.1002/aur.70196",
-      "title": "How Screening and Diagnostic Tools Shape Autism Prevalence in School‐Aged Children: A Bibliometric‐Systematic Review (2015–2025)",
-      "authors": [
-        "Ahmad Zamir Che Daud",
-        "Noor Aziella Mohd Nayan",
-        "Hasnah Toran",
-        "Kartini Ilias",
-        "Norazlin Kamal Nor",
-        "Khairil Anuar Md Isa",
-        "Wai Wai Yang",
-        "Tengku Amatullah Madeehah Tengku Mohd",
-        "Nizam Baharom",
-        "Sazlina Kamaralzaman"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-12",
-      "doi": "10.1002/aur.70196",
-      "url": "https://doi.org/10.1002/aur.70196",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "ABSTRACT Autism spectrum disorder (ASD) prevalence estimates vary widely across countries and over time, partly due to differences in the screening and diagnostic tools used. This study combined bibliometric analysis and systematic review methods to examine global publication trends and evaluate the use of standardized assessment tools in ASD prevalence studies involving school‐aged children (typically 6–12 years). A bibliometric search of the Scopus database (2015–2025) identified 107 publications, which were analyzed for citation patterns, research themes, and geographic distribution. Of these, 18 studies met systematic review inclusion criteria, reporting ASD prevalence in the general population and high‐risk samples across diverse regions. The most frequently used screening tools were the Social Communication Questionnaire (SCQ) and Childhood Autism Spectrum Test (CAST), while gold‐standard diagnostic tools such as the Autism Diagnostic Observation Schedule (ADOS/ADOS‐2) and Autism Diagnostic Interview‐Revised (ADI‐R) were common for diagnostic confirmation. However, psychometric performance and cultural adaptation processes varied, and many tools were not validated for the stu…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70199",
-      "title": "Does Camouflaging Predict Functioning, Distress, and Quality of Life for Autistic Adults?",
-      "authors": [
-        "Bruna B. Roisenberg",
-        "Kelsie A. Boulton",
-        "Emma E. Thomas",
-        "Adam J. Guastella"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-12",
-      "doi": "10.1002/aur.70199",
-      "url": "https://doi.org/10.1002/aur.70199",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "ABSTRACT It has been proposed that autistic individuals adopt camouflaging strategies to mask their autistic traits and conform to social norms, and that these camouflaging strategies have been linked to adverse mental health outcomes. This study examined whether camouflaging, measured by the Camouflaging Autistic Traits Questionnaire (CAT‐Q), predicted functioning, distress, and quality of life beyond standard clinical measures of social responsiveness and social anxiety. We analysed data from 113 autistic adults experiencing social anxiety who expressed interest in anxiety interventions. Hierarchical regression analyses assessed the unique contribution of camouflaging after accounting for social responsiveness and social anxiety. Results indicated that social responsiveness and social anxiety significantly predicted depression, psychological distress, and disability, whereas camouflaging did not explain additional variance in these outcomes. Although camouflaging correlated with poorer mental health and reduced quality of life, it did not independently predict these outcomes beyond social anxiety and responsiveness. These findings suggest current camouflaging measures may capture…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2026.2628973",
@@ -8897,29 +8929,6 @@
       "abstract": "Objective: The American Academy of Pediatrics (AAP) recommends behavioral therapy as first-line evidence-based treatment for young children with ADHD, and in combination with medications for children ages 6 years and older. However, a significant percentage of young children are receiving medication treatment for ADHD rather than behavioral treatment. There is limited research capturing parent experiences of barriers to implementing behavioral health services for young children with ADHD diagnoses. This paper seeks to fill this gap by exploring these perceived barriers among parents of children diagnosed with ADHD. Method: Parents of children with ADHD diagnoses ( N = 29) were invited to participate in four focus groups to discuss their experiences with accessing treatment for their child. Focus group participants were recruited from one Southeast city through an ADHD parental support group and nationally from parents attending a conference on ADHD. Results: Three themes emerged as perceived barriers that impact ADHD treatment. Parents reported barriers that can be conceptualized as (1) misconceptions and stigma; (2) availability of financial and time-related resources; and (3) tre…"
     },
     {
-      "id": "10.1002/aur.70177",
-      "title": "Clinical Value of Early Motor Skill Assessment and Intervention in Autism Spectrum Disorder",
-      "authors": [
-        "Xue Yaqi",
-        "Zhang Shuai",
-        "De Ma",
-        "Cui Yinchen",
-        "Zhen Zhiping"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-01-22",
-      "doi": "10.1002/aur.70177",
-      "url": "https://doi.org/10.1002/aur.70177",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-026-07219-1",
       "title": "Associations Between Features of Employment and Job Satisfaction Among Autistic Adults",
       "authors": [
@@ -10559,32 +10568,6 @@
       "tags": [
         "service improvement"
       ]
-    },
-    {
-      "id": "10.1177/10883576251396807",
-      "title": "Teacher Implementation of the VRA Instructional Sequence to Support Elementary Students With ASD: A Single-Case Study",
-      "authors": [
-        "Holly M. Long",
-        "Emily C. Bouck",
-        "Matthew T. Brodhead"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-12-18",
-      "doi": "10.1177/10883576251396807",
-      "url": "https://doi.org/10.1177/10883576251396807",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "Virtual manipulatives are an evidence-based practice in mathematics for students with autism spectrum disorder (ASD). Yet, to date, most research exploring the effects of the virtual-representational-abstract (VRA) instructional sequence has been conducted in researcher-implemented settings. However, to ensure researchers are able to provide accurate practice recommendations, more research is needed to explore the teacher implementation of this intervention. The purpose of this concurrent multiple probe across participants single-case design study was to examine the effects of a teacher-implemented VRA instructional sequence taught via explicit instruction on the accuracy with which three elementary students with ASD solve addition with regrouping problems. The VRA instructional sequence involved the use of virtual base ten blocks, drawings, and abstract numerical strategies to solve addition with regrouping problems. Researchers found a functional relation between the VRA instructional sequence and student accuracy. All three students were also able to maintain their accuracy after intervention ended. The teacher was able to implement the VRA instructional sequence after only two…",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
