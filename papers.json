@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T07:46:49Z",
+  "generated_at": "2026-04-20T08:29:30Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -91,6 +91,33 @@
         "Sensory environment"
       ],
       "abstract": "Objective: This study aims to investigate the complex relation between adult ADHD symptoms, procrastination, and mediating factors, in light of leading procrastination theories: the Temporal Motivation Theory (TMT), emotion regulation, and a General Architecture for Modeling the Dynamics of Goal-Directed Motivation and Decision-Making – the GOAL architecture. Method: The study was preregistered. A survey was conducted with 640 adults recruited online to examine the associations between ADHD symptoms, procrastination, and seven mediating factors. Participants completed measures assessing ADHD symptoms, procrastination tendencies, emotion regulation, motivation, and goal-related behaviors. Structural equation modeling (SEM) was used to test the direct and indirect pathways among the variables. Results: A positive association was revealed between ADHD inattention symptoms and procrastination tendencies. The mediating factors that significantly contributed to this relations were sensitivity to delay, perceived low value of the task, and flexible goal adjustment. While ADHD inattention symptoms was associated with all seven variables, three variables directly contributed to increased pr…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2655830",
+      "title": "Accruing validity evidence for the Autism in the Context of Education–Kenya Survey",
+      "authors": [
+        "James Soland",
+        "Mandy Rispoli",
+        "Mark Omollo",
+        "Carolyne Boke",
+        "Emmanuel Mwendwa",
+        "Chelagat Saina",
+        "Rujun Xu",
+        "Rebecca McNally Keehn",
+        "Jamie Pearson",
+        "Megan S. McHenry"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-04-19",
+      "doi": "10.1080/20473869.2026.2655830",
+      "url": "https://doi.org/10.1080/20473869.2026.2655830",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07329-w",
@@ -7461,36 +7488,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -7524,6 +7521,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10523,69 +10550,6 @@
       ],
       "abstract": "Abstract There is scarce evidence on how families of autistic children in Sweden create and sustain everyday routines that are meaningful to their goals and values, congruent with all family members’ needs and interests, and fit with the existing resources. This study explored sustainability of daily routines and patterns of accommodations in families of autistic preschool-aged children with or without intellectual disability from culturally, ethnically, and linguistically diverse backgrounds. Eleven parents participated in semi-structured, ecocultural family interviews (EFI). Researchers used the EFI codebook to rate the intensity of family accommodation activities and sustainability of their daily routines, and then conducted a thematic analysis of the results. Findings show that families’ accommodation activities varied in intensity in multiple ecocultural domains – from low levels to high – depending on available resources and children’s needs. For the majority of families, irrespective of their cultural background, three overarching themes of family accommodations were identified: (1) mother involvement and commitment; (2) being socially isolated; and (3) importance of public…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07180-5",
-      "title": "Autism and Hikikomori Risk: A Link Beyond Other Psychopathologies, and Their Relationship to Loneliness and Solitude",
-      "authors": [
-        "Peter Muris",
-        "Franc Donkers",
-        "Anne Deckers",
-        "Frederique Aarts",
-        "Romy Arpots",
-        "Wouter Dewulf",
-        "Ilse Janssen"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-20",
-      "doi": "10.1007/s10803-025-07180-5",
-      "url": "https://doi.org/10.1007/s10803-025-07180-5",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07186-z",
-      "title": "What Do We Know About the Home Literacy and Numeracy Environments of Autistic Preschoolers? A Systematic Review",
-      "authors": [
-        "Sarah Urban",
-        "Herbert Roeyers",
-        "Lien Peters",
-        "Petra Warreyn"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-20",
-      "doi": "10.1007/s10803-025-07186-z",
-      "url": "https://doi.org/10.1007/s10803-025-07186-z",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07152-9",
-      "title": "Sustaining Community Implementation of a Caregiver-Mediated Intervention- Learnings From the WHO-Caregiver Skills Training in India",
-      "authors": [
-        "Koyeli Sengupta",
-        "Disha Zaveri",
-        "Alokananda Rudra",
-        "Shoba Nayar"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-20",
-      "doi": "10.1007/s10803-025-07152-9",
-      "url": "https://doi.org/10.1007/s10803-025-07152-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ]
     }
   ]
 }
