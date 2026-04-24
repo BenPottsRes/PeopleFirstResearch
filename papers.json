@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T08:12:03Z",
+  "generated_at": "2026-04-24T08:24:26Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -187,6 +187,31 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -212,31 +237,6 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -504,6 +504,139 @@
         "Sensory environment"
       ],
       "abstract": "Objective: This study aims to investigate the complex relation between adult ADHD symptoms, procrastination, and mediating factors, in light of leading procrastination theories: the Temporal Motivation Theory (TMT), emotion regulation, and a General Architecture for Modeling the Dynamics of Goal-Directed Motivation and Decision-Making – the GOAL architecture. Method: The study was preregistered. A survey was conducted with 640 adults recruited online to examine the associations between ADHD symptoms, procrastination, and seven mediating factors. Participants completed measures assessing ADHD symptoms, procrastination tendencies, emotion regulation, motivation, and goal-related behaviors. Structural equation modeling (SEM) was used to test the direct and indirect pathways among the variables. Results: A positive association was revealed between ADHD inattention symptoms and procrastination tendencies. The mediating factors that significantly contributed to this relations were sensitivity to delay, perceived low value of the task, and flexible goal adjustment. While ADHD inattention symptoms was associated with all seven variables, three variables directly contributed to increased pr…"
+    },
+    {
+      "id": "10.1177/25739581261444312",
+      "title": "“If the System in Hong Kong Got Enough Support for Us, I Wouldn’t Want so Many People to Pay Attention”: Barriers to Social Support in Autistic University Students",
+      "authors": [
+        "Gary Yu Hin Lam",
+        "Joanne Chi Yan Wong"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-04-23",
+      "doi": "10.1177/25739581261444312",
+      "url": "https://doi.org/10.1177/25739581261444312",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "tags": [
+        "access",
+        "disclosure",
+        "lived experience"
+      ],
+      "abstract": "Background: Autistic students in postsecondary education face diverse challenges, yet institutions vary significantly in their preparedness and investment in providing adequate support. While individual-level resources are increasing, relational and systemic factors impacting social support remain underexplored. This study investigates the challenges and barriers to social support for autistic university students in Hong Kong. Methods: This qualitative study included 30 autistic university students from 14 local higher institutions in Hong Kong. We used semi-structured interviews to gather first-person perspectives on participants’ social support experiences. We used thematic analysis to generate salient themes and subthemes from the interview data. Results: We synthesized four major themes that described the challenges to social support: (1) pervasive misunderstanding and negative treatment by others, (2) juggling disclosure of autism across different contexts, (3) gaps in current support systems and services, and (4) the need for self-development to navigate university life. Participants reported pervasive stereotypes, stigma, and inadequate understanding of autism, leading to so…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261441229",
+      "title": "Psychometric Analysis of the German Version of the Barriers to Healthcare Checklist—Short Form",
+      "authors": [
+        "Judith Peth",
+        "Nicole David",
+        "Sophia Dückert",
+        "Petia Gewohn",
+        "Daniel Schöttle",
+        "Pascal Rahlff",
+        "Alexander Konnopka",
+        "Hannah König",
+        "Kai Vogeley",
+        "Christina Nicolaidis",
+        "Dora M. Raymaker",
+        "Holger Schulz"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-04-23",
+      "doi": "10.1177/25739581261441229",
+      "url": "https://doi.org/10.1177/25739581261441229",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare",
+        "Quality of life",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Background: Autistic people face multiple barriers to health care. To recognize specific barriers in a standardized way, autistic people, health care providers, and researchers need a suitable measure. The Academic Autistic Spectrum Partnership in Research and Education successfully developed the Barriers to Healthcare Checklist—Short Form (BHC-SF). It remains unclear whether (1) a German version of the BHC-SF performs well in terms of psychometric properties and (2) the BHC-SF consists of multiple constructs (i.e., assessing structural validity). Methods: We created a translated and culturally adapted version of the 17-item BHC-SF and used it with 345 autistic people in Germany. Psychometric analyses included calculations to test for internal consistency reliability (Cronbach’s α) and construct validity (i.e., a priori hypothesis tests for correlations with previous treatment termination and statements about barriers to health care in terms of lack of knowledge, participation, autism-specific needs, lack of services, access/financing and collaboration). We conducted an exploratory factor analysis (EFA) to investigate the presence of BHC-SF subscales (i.e., structural validity) and…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261438181",
+      "title": "Associations between ADHD Symptoms and Psychiatric Symptoms in Children: Effects of Functional Impairment and Temperament",
+      "authors": [
+        "James D. Lynch",
+        "Sambridhi Subedi",
+        "Matthew Zimon",
+        "Virginia Peisch",
+        "Anne B. Arnett"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-04-23",
+      "doi": "10.1177/10870547261438181",
+      "url": "https://doi.org/10.1177/10870547261438181",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Objective: ADHD is a highly prevalent neurodevelopmental disorder that is associated with elevated rates of co-occurring psychiatric symptoms. The present study evaluated the role of functional impairment in mediating the association between ADHD symptoms and psychiatric symptoms, as well as the moderating role of temperament traits. Method: Participants included two cohorts: an early childhood longitudinal sample (ages 2–4 years; n = 93) and a middle childhood cross-sectional sample (ages 7–11 years; n = 92). Both cohorts were oversampled for ADHD diagnosis or concerns. ADHD symptom severity, psychiatric symptoms, functional impairment, and temperament were assessed by caregiver report. Linear mediation and moderated mediation models were conducted, with ADHD symptom severity as the independent variable, functional impairment as the mediator, and psychiatric symptoms as the dependent variable; additionally, baseline psychiatric symptoms were covaried in the longitudinal early childhood analysis. Results: Across both samples, we found significant mediation effects for depression and aggression. In the middle childhood sample, functional impairment also fully mediated the associatio…"
+    },
+    {
+      "id": "10.1177/10870547261437608",
+      "title": "Racial and Ethnic Heterogeneity in Grit’s Relations With ADHD Symptom Severity and Impairment: Indications of Decreased Relevance in Asian Versus White College Students",
+      "authors": [
+        "Ashlyn W. W. A. Wong",
+        "Patrick K. Goh",
+        "Grace S. Mellor",
+        "Jacie Tsang",
+        "Meeta Banerjee",
+        "Meisa M. Khaireddin",
+        "Cynthia M. Hartung"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-04-23",
+      "doi": "10.1177/10870547261437608",
+      "url": "https://doi.org/10.1177/10870547261437608",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "Objective: Grit is a potential resilience factor that might help expand ADHD’s conceptualization and inform empowering interventions. Yet, no work has examined how components of grit, particularly consistency of interests (COI), may relate to ADHD symptom severity and impairment. Additionally, it is unclear whether these relations may differ with respect to one’s race and ethnicity. Thus, the current study aimed to examine whether race and ethnicity moderate grit and COI’s relations with ADHD symptom severity and impairment in college students. Methods: Participants, aged 18 to 25 years, were derived from two samples of a multisite college ADHD study: Exploratory Sample ( N = 1,771; M age = 19.21, SD = 1.40) and Confirmatory Sample ( N = 3,809; M age = 19.11, SD = 1.31). All participants self-reported ADHD symptom severity, functional impairment, and levels of grit. Results: Examination of main effects across samples revealed that grit and COI were significantly and negatively associated with ADHD symptom severity. Further, in a sample of participants with five or more ADHD symptoms ( N = 1,153; M age = 19.22, SD = 1.41), follow-up analyses investigating impairment revealed that gr…"
+    },
+    {
+      "id": "10.1177/10870547261437613",
+      "title": "ADHD Symptoms, Internalizing Symptoms, and Friendship Features in Emerging Adults: The Moderating Effect of Cognitive Disengagement Syndrome Symptoms",
+      "authors": [
+        "Nicole F. Greenberg",
+        "Stephen P. Becker",
+        "Aaron M. Luebbe",
+        "Michael J. Kofler",
+        "G. Leonard Burns",
+        "Kristina L. McDonald",
+        "Matthew A. Jarrett"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-04-23",
+      "doi": "10.1177/10870547261437613",
+      "url": "https://doi.org/10.1177/10870547261437613",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: Previous research has revealed that individuals with ADHD exhibit difficulties in social functioning including obtaining and maintaining quality friendships. Cognitive disengagement syndrome (CDS) symptoms and internalizing symptoms frequently co-occur with ADHD symptoms and negatively influence social functioning, yet relatively little is known about how these symptoms uniquely relate to friendship features. Methods: The present study sought to examine associations among these variables in a large, multi-site sample of emerging adults. Participants ( N = 4,756; 18–29 years; 72.7% female; 79.8% White) enrolled in five universities in the United States completed measures of ADHD, CDS, internalizing symptoms, and friendship features. Results: Moderated conditional effects modeling revealed that internalizing symptoms accounted for significant variance in the association between ADHD symptoms and friendship features in all models. CDS symptoms were a significant moderator of the association between ADHD symptoms and friendship features (both positive and negative) such that there was a weaker association between ADHD symptoms and friendship impairment at higher levels of CD…"
     },
     {
       "id": "10.1177/13623613261434571",
@@ -3077,6 +3210,28 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -3101,28 +3256,6 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
-    },
-    {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -5190,31 +5323,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -5243,6 +5351,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -7903,28 +8036,28 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251365916",
-      "title": "Know Me, See Me, Hear Me: A Scoping Review of the Attitudes and Approaches to Relationships and Sexuality Education for Autistic Individuals and Their Families",
+      "id": "10.1177/25739581251366856",
+      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
       "authors": [
-        "Michaela Southby",
-        "Bahareh Afsharnejad",
-        "Ben Milbourn",
-        "Wenn Lawson",
-        "Sven Bölte",
-        "Sonya Girdler"
+        "Hari Srinivasan"
       ],
       "journal": "Autism in Adulthood",
       "year": 2026,
       "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251365916",
-      "url": "https://doi.org/10.1177/25739581251365916",
+      "doi": "10.1177/25739581251366856",
+      "url": "https://doi.org/10.1177/25739581251366856",
       "neurotype": [
         "Autism"
       ],
       "domains": [
-        "Education"
+        "Mental health",
+        "Sensory environment"
       ],
-      "abstract": "Background: Even though evidence shows that Relationships and Sexuality Education (RSE) positively impacts personal and social development, different environments and social contexts see it delivered in varied ways. Autism research has shown autistic people experience more adverse life experiences than their neurotypical peers, with fewer and lower quality relationships and higher rates of violence and abuse. Despite this, neurodivergent learners, including autistic individuals, often miss out completely on RSE or are only offered it in response to risk or problematic sexual behavior. As a result, people do not experience the full potential of RSE as a developmental support system. Method: This scoping review explored the literature on attitudes and approaches to RSE for autistic individuals, focusing on the voices of autistic individuals, parents of autistic children, and allied health professionals (AHPs) supporting them. Researchers searched key health care and education electronic databases for studies undertaken by high-income countries from 1990 to the present date, where non-school RSE targeting autistic individuals was the study focus. The researchers established review par…",
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7954,28 +8087,28 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251366856",
-      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
+      "id": "10.1177/25739581251365916",
+      "title": "Know Me, See Me, Hear Me: A Scoping Review of the Attitudes and Approaches to Relationships and Sexuality Education for Autistic Individuals and Their Families",
       "authors": [
-        "Hari Srinivasan"
+        "Michaela Southby",
+        "Bahareh Afsharnejad",
+        "Ben Milbourn",
+        "Wenn Lawson",
+        "Sven Bölte",
+        "Sonya Girdler"
       ],
       "journal": "Autism in Adulthood",
       "year": 2026,
       "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251366856",
-      "url": "https://doi.org/10.1177/25739581251366856",
+      "doi": "10.1177/25739581251365916",
+      "url": "https://doi.org/10.1177/25739581251365916",
       "neurotype": [
         "Autism"
       ],
       "domains": [
-        "Mental health",
-        "Sensory environment"
+        "Education"
       ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
+      "abstract": "Background: Even though evidence shows that Relationships and Sexuality Education (RSE) positively impacts personal and social development, different environments and social contexts see it delivered in varied ways. Autism research has shown autistic people experience more adverse life experiences than their neurotypical peers, with fewer and lower quality relationships and higher rates of violence and abuse. Despite this, neurodivergent learners, including autistic individuals, often miss out completely on RSE or are only offered it in response to risk or problematic sexual behavior. As a result, people do not experience the full potential of RSE as a developmental support system. Method: This scoping review explored the literature on attitudes and approaches to RSE for autistic individuals, focusing on the voices of autistic individuals, parents of autistic children, and allied health professionals (AHPs) supporting them. Researchers searched key health care and education electronic databases for studies undertaken by high-income countries from 1990 to the present date, where non-school RSE targeting autistic individuals was the study focus. The researchers established review par…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10591,79 +10724,6 @@
         "service improvement"
       ],
       "abstract": "Given the scarcity of resources across child-serving systems, cost analyses can provide a framework for comparing evidence-based interventions, informing resource allocation, and guiding stakeholders to invest resources. The economic impact of autism is significant. One intervention found to be efficacious is social skills training (SST); however, there are few economic studies of SSTs. This study addresses the dearth of cost analyses of SSTs in the literature. An ingredients method was used, with cost data collected through informant interviews, program budgets, and the E$timator Tool Kit . Results revealed the SST implementation cost was lower than other autism-focused Early Intensive Behavioral Interventions; families bear the largest proportion of costs; and optimizing personnel-heavy interventions like SST may be possible through high-quality, intensive training of lower wage personnel by experienced trainers who also provide ongoing support and supervision."
-    },
-    {
-      "id": "10.1007/s10803-025-07187-y",
-      "title": "The Impact of Exercise Interventions on Sustained Attention for Children and Adolescents With ADHD: A Systematic Review and Meta-Analysis",
-      "authors": [
-        "Mengping Zhao",
-        "Jiayue Li",
-        "Richard H. Xu",
-        "Chang Liu",
-        "Chunxiao Li",
-        "Jinxian Guo",
-        "Li Su",
-        "Xiao Liang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-24",
-      "doi": "10.1007/s10803-025-07187-y",
-      "url": "https://doi.org/10.1007/s10803-025-07187-y",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/25739581251378264",
-      "title": "Literary Masking and Unmasking: Reading Neuromixed Love Stories from an Autistic Collective Autoethnographic Literary Approach",
-      "authors": [
-        "Hanna Bertilsdotter Rosqvist",
-        "Anna Nygren"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-24",
-      "doi": "10.1177/25739581251378264",
-      "url": "https://doi.org/10.1177/25739581251378264",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "This article investigates neuromixed love stories in novels that include a named autistic character, are written by autistic authors, or have characters who have been named by paratexts as autistic. In the article, we invoke a collective autoethnographic literary approach, using our reading diaries or letters to each other as source material. From an autistic perspective we explore neurotypical heterosexual neuromixed love stories and autistic counter love stories focusing on how neurotypical and autistic characters are represented. Our main findings are two dichotomies and two happy endings. In neurotypical heterosexual neuromixed love stories, the dichotomy of a female autistic grotesque and the male neurotypical savior is central where the happy ending is curing or masking autism, upholding both heteronormativity and neuronormativity. In autistic counter love stories, the happy ending is rather framed as unmasking and founding a way of life outside of neuro- and heteronormativity for both parties. Community Brief Why is this topic important Autistic people are often told that they can’t communicate their experiences to non-autistic people. A way to counter this assumption is to…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251376162",
-      "title": "Formative Evaluation of PREPARE for Autistic Adults: An Adult Autism Training for Resident Physicians Designed with Autistic Adults and Family Members",
-      "authors": [
-        "Brittany N. Hand",
-        "Daniel Gilmore",
-        "J. Madison Hyer",
-        "Holden DeVassie",
-        "Deondray Radford",
-        "Lisa Juckett",
-        "Christopher Hanks",
-        "Susan M. Havercamp",
-        "Daniel Coury"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-24",
-      "doi": "10.1177/25739581251376162",
-      "url": "https://doi.org/10.1177/25739581251376162",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Efforts are intensifying across the United States to better prepare physicians to deliver high-quality, patient-centered care for adults with disabilities such as autism. To address this need, we partnered with autistic adults and their families to develop a training program for resident physicians called Promoting Residents’ Excellence in Patient-centered cARE (PREPARE) for Autistic Adults. Here, we describe an evaluation of the feasibility, acceptability, and appropriateness of PREPARE for Autistic Adults to inform content and format revisions before efficacy pilot testing. We recruited residents ( n = 14) at one large academic medical center in the Midwestern U.S. to participate in the 8-week virtual training, which included six pre-recorded lectures, six facilitator-led case studies, and two standardized patient encounters. Participants rated the feasibility, acceptability, and appropriateness of the training and participated in qualitative interviews to identify improvement opportunities. We analyzed quantitative data with descriptive statistics and qualitative interviews with an inductive rapid qualitative analysis. Participants’ median completion rate was 76.9% of training c…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
