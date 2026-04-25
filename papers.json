@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-04-24T08:24:26Z",
+  "generated_at": "2026-04-25T07:46:17Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10883576251407601",
+      "title": "Classmates’ Social Interest Toward Included Autistic Peers: Social and Personal Characteristics",
+      "authors": [
+        "Mati Zakai-Mashiach",
+        "Michal Al-Yagon",
+        "Esther Dromi"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1177/10883576251407601",
+      "url": "https://doi.org/10.1177/10883576251407601",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "This study explored the demographic and social characteristics of children in understanding their spontaneous social interest toward autistic classmates. Participants were 193 Israeli children without disabilities, ages 3 to 6 years, in 16 inclusive preschool/kindergarten classrooms. Teachers and educational aides each nominated socially interested students and rated all students’ social interests toward the included classmate. Results indicated that socially interested children were younger, more often boys, had a more advanced social profile (less aggression, more shyness, and more prosocial behaviors), and showed better performance on theory of mind tasks than their peers who were not socially interested in the autistic classmates. Identifying peers without disabilities who show social interest toward the included children can optimize the involvement of peers without disabilities as change agents in inclusive educational environments and promote the social inclusion of autistic students.",
+      "framing": "Neurodiversity-informed"
+    },
     {
       "id": "10.1177/13623613261437916",
       "title": "Grief, Relief, and Belief: A Social Media Study on Late Identification of Neurodivergence",
@@ -504,6 +523,191 @@
         "Sensory environment"
       ],
       "abstract": "Objective: This study aims to investigate the complex relation between adult ADHD symptoms, procrastination, and mediating factors, in light of leading procrastination theories: the Temporal Motivation Theory (TMT), emotion regulation, and a General Architecture for Modeling the Dynamics of Goal-Directed Motivation and Decision-Making – the GOAL architecture. Method: The study was preregistered. A survey was conducted with 640 adults recruited online to examine the associations between ADHD symptoms, procrastination, and seven mediating factors. Participants completed measures assessing ADHD symptoms, procrastination tendencies, emotion regulation, motivation, and goal-related behaviors. Structural equation modeling (SEM) was used to test the direct and indirect pathways among the variables. Results: A positive association was revealed between ADHD inattention symptoms and procrastination tendencies. The mediating factors that significantly contributed to this relations were sensitivity to delay, perceived low value of the task, and flexible goal adjustment. While ADHD inattention symptoms was associated with all seven variables, three variables directly contributed to increased pr…"
+    },
+    {
+      "id": "10.1007/s10803-026-07349-6",
+      "title": "Differences in Prosocial Behaviors of Preschoolers on the Autism Spectrum and Their Non-autistic Peers",
+      "authors": [
+        "Samet Burak Taylan",
+        "Hatice Bakkaloğlu"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-24",
+      "doi": "10.1007/s10803-026-07349-6",
+      "url": "https://doi.org/10.1007/s10803-026-07349-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Prosocial behaviors (PBs) play a significant role in achieving desired outcomes from childhood through adulthood. This necessitates an in-depth examination in children on the autism spectrum (AS), as potential limitations in this area may pose risks for an individual’s entire life. This study aimed to compare PBs of preschoolers on the AS with their non-autistic (NA) peers. Methods 50 Turkish-speaking NA children aged between 48 and 72 months, and 50 Turkish-speaking children on the AS aged between 48 and 80 months participated in the study. The groups were matched in terms of nonverbal cognitive competency (NCC). The Coloured Progressive Matrices Test (CPM) was used to assess NCC, and the Prosocial Assessment Protocol (PAP) was used to assess PBs. Results Differences were found in helping and sharing behaviors, as well as in overall PBs. However, the groups exhibited similar levels of comforting behavior. Additionally, children on the AS needed more social cues to engage in PBs. Discussion The results align with literature, indicating that children on the AS may experience limitations in PBs real-life situations-based assessments, and that they have a marked need…"
+    },
+    {
+      "id": "10.1007/s10803-026-07281-9",
+      "title": "Parent Perspectives on Mobile Health Autism Screeners",
+      "authors": [
+        "Luis Rivas Vazquez",
+        "Gabriella Tangkilisan",
+        "Plyce Fuchu",
+        "Benjamin Sanders",
+        "Jill K. Dolata",
+        "Steven Bedrick",
+        "Eric Fombonne",
+        "Sarabeth Broder-Fingert",
+        "Katharine E. Zuckerman"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-24",
+      "doi": "10.1007/s10803-026-07281-9",
+      "url": "https://doi.org/10.1007/s10803-026-07281-9",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07323-2",
+      "title": "The Unique and Complex Experience of Growing Up With a Sibling Who Exhibits Severe Challenging Behaviors in the Context of a Neurodevelopmental Disability: A Trauma-Based Study",
+      "authors": [
+        "Corinne Rochefort",
+        "Mélina Rivard",
+        "Alison Paradis"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-24",
+      "doi": "10.1007/s10803-026-07323-2",
+      "url": "https://doi.org/10.1007/s10803-026-07323-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261440799",
+      "title": "“Tell Me What My Job Is”: A Qualitative Exploration of the Experiences of Autistic Academic Staff Working in Higher Education in Ireland",
+      "authors": [
+        "Neil Kenny",
+        "Alison Doyle",
+        "Claire O’Neill",
+        "Jessica K. Doyle",
+        "Jane O’Kelly",
+        "Fiona Earley",
+        "Stuart Neilson"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-24",
+      "doi": "10.1177/13623613261440799",
+      "url": "https://doi.org/10.1177/13623613261440799",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Employment",
+        "Mental health"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience",
+        "participatory"
+      ],
+      "abstract": "This co-produced study explores the experiences of autistic staff working in higher education in Ireland, a group largely overlooked in existing research. While much attention has been given to autistic students, little research has explored how autistic academics navigate their professional roles. This study investigates the challenges and strengths autistic staff encounter within academic environments. Eleven autistic participants took part in semi-structured interviews, conducted flexibly to respect individual preferences and communication needs. Data were analysed using the Reflexive Thematic Analysis. Four key themes emerged: (1) Discovering being autistic, (2) Role ambiguity and institutional invisibility, (3) Stress, burnout, and workplace unpredictability, and (4) Autistic strengths. Participants described strengths such as hyper-focus, problem-solving, and deep commitment to teaching while also highlighting barriers such as unclear expectations, a lack of visibility, and high emotional labour. The findings underscore the need for more inclusive institutional practices that reduce the pressure to mask and protect against burnout. Supporting autistic staff through affirming…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261439937",
+      "title": "Exploring Autistic People’s Experiences of and Attitudes Towards Cervical Screening: A Mixed-Methods Study",
+      "authors": [
+        "Shona Murdoch",
+        "Bethany Donaghy",
+        "Aimee Grant",
+        "Kayleigh Sheen",
+        "David John Moore"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-24",
+      "doi": "10.1177/13623613261439937",
+      "url": "https://doi.org/10.1177/13623613261439937",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "sensory"
+      ],
+      "abstract": "Cervical screening can be lifesaving, yet attendance rates are lower than recommended within the general population and even lower within the autistic population. There is currently no published research systematically exploring autistic people’s cervical screening experiences. This research aimed to explore the experience of cervical (“smear”) screening for autistic people in the United Kingdom. Autistic people ( N = 97) completed an online mixed-methods questionnaire about their cervical screening experiences. Questions considered experiences of pain, sensory and communication issues, knowledge of cervical cancer, attitudes towards screening, and experience of sexual assault. Findings suggest that an autistic person’s intention to attend their screening is important to understand their actual attendance at the screening. Quantitatively, pain, sensory and communication issues, or knowledge of cervical cancer were not associated with screening attendance. However, qualitatively, they were. Two themes emerged: “Communication disconnect across the care journey” and” Echoes of the past: the lasting impact of previous care encounters” were discussed as barriers to screening engagement.…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261437500",
+      "title": "Autistic Traits and Camouflaging: A Meta-Analysis",
+      "authors": [
+        "Lachlan Greig",
+        "Sarah P Coundouris",
+        "Julie D Henry"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-24",
+      "doi": "10.1177/13623613261437500",
+      "url": "https://doi.org/10.1177/13623613261437500",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Autistic people sometimes camouflage their behaviour to appear non-autistic. This meta-analysis rigorously tests the relationship between autistic traits and camouflaging, examining contributing person- and study-level variables. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we searched PubMED, PsycINFO, Web of Science, and ProQuest Dissertations in April 2025. All quantitative designs examining autistic traits and camouflaging on a continuum were included. Fifty papers ( N = 16,895; ages 10–90) contributed to a three-level meta-analysis (accounting for dependent effect sizes). Study quality was medium to high with no evidence of publication bias. Results revealed a moderate association between autistic traits and camouflaging ( r = 0.34, 95% CI: 0.30–0.39), comparable across sexes. Depression, but not anxiety or social anxiety, moderated the relationship. Age was not a moderator, but the association was stronger in general population samples (vs diagnosed), with self-reported autism measures (vs observational), and when using the discrepancy method for camouflaging (vs self-report). Among camouflaging subdomains, assimilation sho…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00547-z",
+      "title": "Types of Offences Committed by and Against People with Autism Spectrum Disorder: a Systematic Review",
+      "authors": [
+        "Benyamin Hamid",
+        "Navid Mirzakhany",
+        "Zeinab Gholami",
+        "Marzieh Pashmdarfard"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-04-24",
+      "doi": "10.1007/s40489-026-00547-z",
+      "url": "https://doi.org/10.1007/s40489-026-00547-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2662358",
+      "title": "Effects of modified schema-based instruction on multiplicative problem solving in students with autism spectrum disorder",
+      "authors": [
+        "Irene Polo-Blanco",
+        "Raúl Fernández-Cobos",
+        "Lara González de Cos",
+        "Laura Laso Munitis"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-04-24",
+      "doi": "10.1080/20473869.2026.2662358",
+      "url": "https://doi.org/10.1080/20473869.2026.2662358",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/25739581261444312",
@@ -3210,28 +3414,6 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -3256,6 +3438,28 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
+    },
+    {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -7784,22 +7988,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -7820,6 +8008,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -7917,36 +8121,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251374833",
-      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
-      "authors": [
-        "Emily F. Rothman",
-        "Laura Graham Holmes",
-        "Madeline Mueller",
-        "Julie Cerel",
-        "Deirdre Colburn",
-        "Victoria Banyard",
-        "Kimberly Mitchell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251374833",
-      "url": "https://doi.org/10.1177/25739581251374833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251366048",
       "title": "Psychometric Investigation of Preliminary Item-Set for the Self-Assessment of Autistic Traits",
       "authors": [
@@ -7980,6 +8154,36 @@
         "participatory"
       ],
       "abstract": "Background: This study presents the preliminary psychometrics of the Self-Assessment of Autistic Traits (SAAT) item pool, which is the first comprehensive self-report tool of autism traits for teens and adults coproduced with autistic people. Two autistic researchers led the SAAT item development and leveraged descriptions of autism by autistic people to generate items designed to encompass the internal experience of autism using strength-based accessible language. Methods: Autistic ( N = 500) and non-autistic ( n = 80) people, 16 years or older, completed the SAAT. The sample included community-ascertained autistic adult participants, as well as participants from a large academic medical center-based research network, which broadened the spectrum of participants studied to include more gender-diverse, older, and nonspeaking individuals. Results: Exploratory factor analysis followed by a unidimensional confirmatory factor analysis revealed four factors as follows: Modulation/Social Communication, Strengths/Passions, Brain–Body Disconnect, and Negative Community Context. Three of these factors are sensitive to autism in comparison with non-autistic people across age, gender identity…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251374833",
+      "title": "Autistic US Adolescents and Young Adults’ Opinions About the 988 Suicide &amp; Crisis Lifeline: A Qualitative Analysis of an Open-Ended Survey Question",
+      "authors": [
+        "Emily F. Rothman",
+        "Laura Graham Holmes",
+        "Madeline Mueller",
+        "Julie Cerel",
+        "Deirdre Colburn",
+        "Victoria Banyard",
+        "Kimberly Mitchell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251374833",
+      "url": "https://doi.org/10.1177/25739581251374833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: The 988 Suicide &amp; Crisis Lifeline (“988”) in the United States provides people experiencing suicidal ideation or distress with free access to trained counselors via text messaging, phone calls, or online chats. The present qualitative study investigated the following research questions: (1) What opinions are held by U.S.-based autistic adolescents and young adults ages 13–22 years old about 988; and (2) What have autistic adolescents and young adults experienced when they contacted 988 for help? Methods: Self-report online survey data were collected from English-speaking individuals ages 13–22 years old in the United States between June 2022 and October 2023 as part of a larger, parent study called Project Lift Up. Of the 295 participants who reported that they were autistic, 188 (64%) submitted a write-in response to a question about why they would or would not use 988. We used a content analysis approach to identify themes related to why they would or would not want to use 988. Results: Autistic individuals reported mixed opinions about the U.S. 988 Suicide &amp; Crisis Lifeline. While some liked the idea of talking to a stranger or trained counselor when in crisi…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10303,25 +10507,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1177/10883576251407601",
-      "title": "Classmates’ Social Interest Toward Included Autistic Peers: Social and Personal Characteristics",
-      "authors": [
-        "Mati Zakai-Mashiach",
-        "Michal Al-Yagon",
-        "Esther Dromi"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-01-05",
-      "doi": "10.1177/10883576251407601",
-      "url": "https://doi.org/10.1177/10883576251407601",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "This study explored the demographic and social characteristics of children in understanding their spontaneous social interest toward autistic classmates. Participants were 193 children without disabilities, ages 3 to 6 years, in 16 inclusive preschool/kindergarten classrooms. Teachers and educational aides each nominated socially interested students and rated all students’ social interests toward the included classmate. Results indicated that socially interested children were younger, more often boys, had a more advanced social profile (less aggression, more shyness, and more prosocial behaviors), and showed better performance on theory of mind tasks than their peers who were not socially interested in the autistic classmates. Identifying peers without disabilities who show social interest toward the included children can optimize the involvement of peers without disabilities as change agents in inclusive educational environments and promote the social inclusion of autistic students.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10870547251408127",
       "title": "Increased Serum Netrin-1 Levels Among Children Diagnosed With ADHD",
       "authors": [
@@ -10694,36 +10879,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10883576251396824",
-      "title": "Cost Analysis of a Social Skills Training Program for Autistic Youth",
-      "authors": [
-        "Samantha X. L. Tan",
-        "Milena A. Keller-Margulis",
-        "Sarah S. Mire",
-        "Brandi Timmons",
-        "Wendy Dawson",
-        "Jorge E. Gonzalez",
-        "Hanjoe Kim",
-        "Kristen S. Hassett"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-12-25",
-      "doi": "10.1177/10883576251396824",
-      "url": "https://doi.org/10.1177/10883576251396824",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "lived experience",
-        "service improvement"
-      ],
-      "abstract": "Given the scarcity of resources across child-serving systems, cost analyses can provide a framework for comparing evidence-based interventions, informing resource allocation, and guiding stakeholders to invest resources. The economic impact of autism is significant. One intervention found to be efficacious is social skills training (SST); however, there are few economic studies of SSTs. This study addresses the dearth of cost analyses of SSTs in the literature. An ingredients method was used, with cost data collected through informant interviews, program budgets, and the E$timator Tool Kit . Results revealed the SST implementation cost was lower than other autism-focused Early Intensive Behavioral Interventions; families bear the largest proportion of costs; and optimizing personnel-heavy interventions like SST may be possible through high-quality, intensive training of lower wage personnel by experienced trainers who also provide ongoing support and supervision."
     }
   ]
 }
