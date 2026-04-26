@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T07:46:17Z",
+  "generated_at": "2026-04-26T07:55:08Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -3414,6 +3414,28 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -3438,28 +3460,6 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
-    },
-    {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -6247,27 +6247,6 @@
       "abstract": "ADHD is complex neurodevelopmental disorder that causes considerable individual and social difficulties, creating significant parental stress. This study aimed to examine the indirect associations between parental stress and child irritability through two sequential parenting mechanisms: experiential avoidance and negative parent–child relationship, within a sample of school-aged children with ADHD (ages 6–12). Using a two-wave longitudinal serial path analysis based on parent-reported data collected at two time points 1-month apart (Time 1 and Time 2), the study investigated whether early parental stress predicted subsequent child irritability via its influence on experiential avoidance and the quality of the parent–child relationship. Findings supported the hypothesized model. More precisely, higher parental stress was associated with greater experiential avoidance, which in turn predicted more negative parent–child relationship, ultimately resulting in elevated child irritability. Longitudinal serial mediation effects confirmed that all Time 1 variables significantly predicted corresponding Time 2 outcomes across the proposed sequential pathway. Notably, the model explained 41.1…"
     },
     {
-      "id": "10.1177/10870547251400038",
-      "title": "Changes in ADHD Symptoms and Mood Across the Menstrual Cycle in Females Treated With Stimulants: A Pilot Study",
-      "authors": [
-        "Rebecca Zaritsky",
-        "Stephanie C. Reed",
-        "Suzette M. Evans"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10870547251400038",
-      "url": "https://doi.org/10.1177/10870547251400038",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Females represent a growing proportion of adults with ADHD yet remain understudied in the literature compared to males. An important aspect of the experience of females with ADHD is the impact of the menstrual cycle and ovarian hormones on both the symptoms of ADHD and effects of stimulant medications on treating these symptoms. Method: In the present pilot study, female participants being treated with amphetamine salts for ADHD ( n = 30) were recruited to complete 35 daily online surveys to track ADHD symptoms, mood, and medication use through the menstrual cycle. Results: Results indicated that the degree of ADHD symptoms was significantly associated with menstrual cycle phase with ADHD symptoms being most severe in the menstruation phase and comparatively milder ADHD symptoms in the mid-follicular phase. This difference was positively correlated with subjective changes in negative mood. Conclusion: These results indicate that ADHD symptoms vary across the menstrual cycle among females being treated with amphetamine salts for their ADHD, a finding that could inform clinical and prescribing practices for physicians caring for females with ADHD."
-    },
-    {
       "id": "10.1002/aur.70185",
       "title": "Examining the Relationship Between Social Motivation and Internalizing Symptoms in Autistic People: A Systematic Review and Meta‐Analysis",
       "authors": [
@@ -8868,79 +8847,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70159",
-      "title": "Effects of Cannabidiol on Social Relating, Anxiety, and Parental Stress in Autistic Children: A Randomized Controlled Crossover Trial",
-      "authors": [
-        "Nina‐Francesca Parrella",
-        "Aron T. Hill",
-        "Peter G. Enticott",
-        "Tanita Botha",
-        "Sarah Catchlove",
-        "Luke Downey",
-        "Talitha C. Ford"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1002/aur.70159",
-      "url": "https://doi.org/10.1002/aur.70159",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT Cannabidiol (CBD), a non‐intoxicating compound derived from the cannabis plant, has garnered increasing attention as a potential pharmacological therapeutic for autism. We conducted a randomized, double‐blind, placebo‐controlled, crossover trial to understand whether oral CBD oil containing terpenes can improve outcomes in autistic children. Twenty‐nine children (18 male), aged 5 to 12 years ( M = 9.62 years, SD = 2.05), diagnosed with autism spectrum disorder, completed the study. Participants received weight‐based dosing of CBD oil (10 mg/kg/day) or matched placebo oil over two 12‐week intervention periods (crossover), separated by an 8‐week washout period. Outcome measures included the Social Responsiveness Scale‐2 (SRS‐2; primary outcome), PROMIS Social Relating, Anxiety, and Sleep, Developmental Behavior Checklist‐2 (DBC‐2), Vineland‐3, and Autism Parenting Stress Index (APSI; secondary outcomes). There was no significant effect observed for the primary outcome measure (SRS‐2) for CBD oil relative to placebo oil after 12 weeks ( β = −11.15, SE = 7.19, p = 0.125). Significant improvements were observed in secondary measures of social functioning, including DBC‐2 Social…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70170",
-      "title": "Children With\n                    <scp>ASD</scp>\n                    Do Not Understand Hidden Emotions Before False Belief Attribution",
-      "authors": [
-        "Morgane Burnel",
-        "Stéphanie Durrleman",
-        "Anne Reboul",
-        "Jean Pylouster",
-        "Monica Baciu",
-        "Marcela Perrone‐Bertolotti"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1002/aur.70170",
-      "url": "https://doi.org/10.1002/aur.70170",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "ABSTRACT Previous studies concluded that theory of mind (ToM) development is deviant in autism spectrum disorders (ASD). Typically developing children's ability to understand that one may hide their emotion would be acquired before false belief understanding in children with ASD (e.g., Peterson and Wellman 2019), but with contradictory results (e.g., Zhang et al. 2016). In the current work, we aim to determine whether the order of acquisition of ToM‐related concepts in ASD differs, using methodological improvements compared to previous studies. Our results support the conclusion of a non‐deviant developmental trajectory for ToM in individuals with ASD, with a general ability to understand hidden emotions that is not mastered before false belief attribution.",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70158",
-      "title": "The Impact of Theory of Mind on Real‐Time Social Interactions and Momentary Social Anxiety: A Comparison Between Young Autistic and Neurotypical Children",
-      "authors": [
-        "Yu‐Wei Ryan Chen",
-        "Sarah Wilkes‐Gillan",
-        "Kuan‐Lin Chen"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1002/aur.70158",
-      "url": "https://doi.org/10.1002/aur.70158",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT There is a growing need to examine how Theory of Mind (ToM) abilities impact real‐time social engagement in autistic children. Caregivers of 45 young autistic children (70.7 ± 23.3 months) and those of 36 neurotypical peers (59.2 ± 11.8 months) carried a mobile device for 7 days to repeatedly record their child's social interactions and in‐the‐moment anxiety. They also completed the Social Responsiveness Scale‐2 and the Theory of Mind Inventory‐2 to evaluate their child's severity of autistic symptoms and ToM abilities. Multilevel analyses found that young autistic children with higher ToM abilities were more likely than those with lower abilities to interact with peers (OR = 1.12, 95% CI = 1.01–1.23) but also experienced more anxiety during interactions with both peers and adults (OR = 1.36, 1.28, 95% CI = 1.12–1.67, 1.01–1.63). In contrast, no significant associations between ToM and social interactions or anxiety were found in the neurotypical group. This study highlights the critical role of ToM abilities in the real‐life social engagement of autistic children and emphasizes the importance of understanding real‐time subjective social experiences.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07233-3",
       "title": "Antipsychotic Drug Prescriptions for Transition-Age Youth on the Autism Spectrum",
       "authors": [
@@ -10855,30 +10761,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07183-2",
-      "title": "Rosiglitazone Adjunct to Risperidone for Irritability in Autistic Children: A Randomized, Double-Blind, Placebo-Controlled Trial",
-      "authors": [
-        "Nikoo Bayan",
-        "Negar Bayan",
-        "Faezeh Mokhtari",
-        "Ahmad Shamabadi",
-        "Alireza Hasanzadeh",
-        "Mahdi Hasanzadeh",
-        "Ariana Karkhaneh-Yousefi",
-        "Mohammadreza Mohammadi",
-        "Shahin Akhondzadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2025,
-      "published_date": "2025-12-26",
-      "doi": "10.1007/s10803-025-07183-2",
-      "url": "https://doi.org/10.1007/s10803-025-07183-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
