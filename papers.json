@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T08:35:37Z",
+  "generated_at": "2026-04-30T08:37:28Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -336,31 +336,6 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -386,6 +361,31 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -705,6 +705,29 @@
       "neurotype": [
         "Autism"
       ]
+    },
+    {
+      "id": "10.1177/13623613261441153",
+      "title": "Effects of Diagnostic Information, Autism Knowledge, Contact, and Stigma on People’s Ability to Read Autistic Individuals",
+      "authors": [
+        "Elizabeth Sheppard",
+        "Lara Clifton",
+        "Jessica Massarella",
+        "Georgina Mills Pallares",
+        "Polly Moynihan",
+        "Michaela Warner",
+        "Eleanor Withey"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-28",
+      "doi": "10.1177/13623613261441153",
+      "url": "https://doi.org/10.1177/13623613261441153",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Non-autistic individuals find it difficult to read the behaviour of autistic people in comparison to non-autistic others. We investigated whether non-autistic people’s ability to read autistic individuals is improved by providing diagnostic information, and whether this ability is associated with a person’s knowledge about autism, prior contact with autistic people, and autism stigma. Participants ( N = 128) viewed videos that were taken from a previous study. These showed autistic and non-autistic individuals reacting to events enacted by the researcher, and participants were asked to infer what event had taken place. Videos were presented either with no diagnostic information, a correct diagnostic label, or an incorrect label (autistic individuals labelled as non-autistic and vice versa). Autism knowledge, contact with autistic people, and autism stigma were measured by questionnaires. Participants performed less well for videos of autistic than non-autistic others. Diagnostic information had little impact on performance, although labelling non-autistic individuals as autistic reduced accuracy. Autism knowledge, contact with autistic people, and autism stigma were not associated…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07340-1",
@@ -3740,6 +3763,28 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -3764,28 +3809,6 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
-    },
-    {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -5804,6 +5827,31 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -5832,31 +5880,6 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -6359,33 +6382,6 @@
         "Mental health"
       ],
       "abstract": "Autistic people are known to demonstrate greater difficulties with cognitive flexibility. These difficulties are associated with a range of poor outcomes, including elevated rates of anxiety and depression. Current intervention approaches fail to account for these specific mechanisms. In this study, we address this by piloting a new intervention which aims to specifically target cognitive inflexibility. The ‘Thinking Flexibly’ intervention has been co-designed with autistic youth based on previous work, including cognitive remediation therapy. Twenty autistic adolescents were recruited from clinical services and offered the eight-session intervention. Acceptability was assessed through participant drop-out and session completion. Participants (and their parents) also completed questionnaire measures of cognitive inflexibility, anxiety, depression and functional outcomes before and after the intervention. Our results indicated good acceptability with 19/20 participants completing the intervention and session attendance was high, with a single missed session. We found significant increases in flexibility across both parent- and self-report of a moderate effect. Participants reported…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251403906",
-      "title": "Autistic adults prefer social touch less but engage just as much: The impact of social context, relationship type, sensory responsivity, and psychological factors",
-      "authors": [
-        "Macy Tsz Wing Li",
-        "Manuel Mello",
-        "Keren MacLennan",
-        "Haemy Lee Masson"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251403906",
-      "url": "https://doi.org/10.1177/13623613251403906",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Autistic people face touch-related challenges, yet the factors influencing these difficulties are not well understood. We developed a novel instrument to capture social touch experiences of autistic adults, along with both social and individual factors that influence them. Using a body-painting task and questionnaires, we demonstrated that the perception of touch interactions varies based on social contexts and neurotypes. Autistic adults, on average, prefer touch less, but the type of relationship influences the perceived comfort and meaningfulness of touch similarly in both groups. Regarding the appropriateness, erogeneity, and pleasantness of social touch, the autistic group showed different touch perceptions in professional and friendly scenarios compared to the non-autistic group, whereas touch in intimate scenarios was perceived similarly. Sensory responsivity, touch predictability, social confidence, and touch-related anxiety affect social touch to a greater extent than the non-autistic group. Despite these marked differences in perception, the autistic adults, on average, engage in social touch as frequently as non-autistic adults, and their satisfaction with touch is compa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10636,88 +10632,6 @@
         "Healthcare"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/25739581251406897",
-      "title": "When Lived Experience Becomes Clinical Expertise: Perspectives of Autistic Mental Health Therapists",
-      "authors": [
-        "Jessica Hogan",
-        "Joseph Anderson-Gutierrez",
-        "Illeanna Holmgren",
-        "Megan Anna Neff",
-        "Camille Laksman",
-        "Danielle Mills"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-30",
-      "doi": "10.1177/25739581251406897",
-      "url": "https://doi.org/10.1177/25739581251406897",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Healthcare",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Introduction: Autistic psychotherapists hold a unique and underexplored position within the mental health field. While research on autistic clients is growing, there remains a significant gap in understanding the experiences of autistic clinicians. This study adds to the emerging literature on neurodiversity-affirming care by centering the voices of licensed autistic psychotherapists. Methods: Using a qualitative approach informed by interpretative phenomenological analysis, this study explored the professional identities, challenges, and contributions of eight licensed autistic therapists in the United States. We recruited participants through targeted outreach in online communities and took part in in-depth, semi-structured interviews. Results: Analysis revealed six superordinate themes: (1) Integration of autistic identity into therapeutic practice, (2) challenges in navigating professional environments, (3) adapting therapy for autistic clients, (4) autistic therapist well-being, (5) unique contributions of autistic therapists, and (6) advocacy and systemic change. Participants highlighted the value of authenticity in their clinical work, the therapeutic benefits of shared iden…"
-    },
-    {
-      "id": "10.1177/25739581251404409",
-      "title": "Safety, Connection, and Personal Growth: Experiences of Tabletop Role Play Game Groups Amongst Autistic Adolescents and Emerging Adults",
-      "authors": [
-        "Amy Peters",
-        "Jasmine Woods",
-        "Charissa Aditijo",
-        "Nam Lang",
-        "Raymond Nguyen",
-        "Liz Baird",
-        "Chris Webb",
-        "Belinda McLean",
-        "Megan Hatfield"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-30",
-      "doi": "10.1177/25739581251404409",
-      "url": "https://doi.org/10.1177/25739581251404409",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Introduction: Autistic people often encounter barriers to social connectedness, leading to feelings of loneliness and isolation. Tabletop role play games (TTRPG) groups have shown potential as a neurodiversity-affirming way to enhance the social connectedness of autistic adolescents and young adults. TTRPGs involve interactive collaborative storytelling through player constructed characters, often with involvement of a Game Master, and include games such as Dungeons and Dragons. Our study aimed to explore the experiences of autistic adolescents and young adults participating in socially led TTRPG groups. Method: We employed a qualitative phenomenological design. Thirteen participants (10 males, 1 female, 2 non-binary/diverse gender) with ages ranging between 14 and 29 years from Australia took part in semi-structured interviews, which we analyzed using thematic analysis. Results: We identified four key themes. Theme 1: Safe space that encouraged happiness, self-expression, and escapism; explored how TTRPGs created a safe environment that encouraged participants to unmask and express themselves through escapism and creativity. Theme 2: Learning to manage group dynamics and resolve c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251408623",
-      "title": "Five Key Concepts for Autistic Linguistic Justice: Securitization, Revitalization, Rights, Planning, and Ethics",
-      "authors": [
-        "Gerald Roche"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2025,
-      "published_date": "2025-12-30",
-      "doi": "10.1177/25739581251408623",
-      "url": "https://doi.org/10.1177/25739581251408623",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "This perspective article draws on my own lived experience as an autistic person, combined with my academic research at the intersection of languages and politics. My main aim is to suggest a new interdisciplinary approach to autistic communication that aims to accommodate our different communication styles rather than modify our communication to fit non-autistic communication norms. I call this new interdisciplinary approach ‘autistic linguistic justice’, and introduce five concepts to help initiate research and advocacy on this topic. The concepts I introduce are: the sociolinguistics of securitization, language revitalization, linguistic human rights, language policy and planning, and language ethics. Each concept is briefly introduced, and examples are given of how they can be applied to accommodating autistic communication. In the conclusion, I provide recommendations for how families, practitioners (such as teachers and doctors), autism researchers, and autistic people can use these concepts to help build autistic linguistic justice together. Given that many of the concepts I draw on have been developed by other minoritized communities, I emphasize the need for building respec…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
