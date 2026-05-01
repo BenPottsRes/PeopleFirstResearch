@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T08:37:28Z",
+  "generated_at": "2026-05-01T08:25:15Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -3763,28 +3763,6 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -3809,6 +3787,28 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
+    },
+    {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -6360,31 +6360,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251407294",
-      "title": "Thinking flexibly: A cognitive remediation therapy–informed intervention for autistic youth",
-      "authors": [
-        "Jasmin Dipre",
-        "Lauren Burton",
-        "Kate Tchanturia",
-        "Matthew J Hollocks"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251407294",
-      "url": "https://doi.org/10.1177/13623613251407294",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Autistic people are known to demonstrate greater difficulties with cognitive flexibility. These difficulties are associated with a range of poor outcomes, including elevated rates of anxiety and depression. Current intervention approaches fail to account for these specific mechanisms. In this study, we address this by piloting a new intervention which aims to specifically target cognitive inflexibility. The ‘Thinking Flexibly’ intervention has been co-designed with autistic youth based on previous work, including cognitive remediation therapy. Twenty autistic adolescents were recruited from clinical services and offered the eight-session intervention. Acceptability was assessed through participant drop-out and session completion. Participants (and their parents) also completed questionnaire measures of cognitive inflexibility, anxiety, depression and functional outcomes before and after the intervention. Our results indicated good acceptability with 19/20 participants completing the intervention and session attendance was high, with a single missed session. We found significant increases in flexibility across both parent- and self-report of a moderate effect. Participants reported…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10870547251407731",
       "title": "Parental Stress and Child Irritability in ADHD: A Two-Wave Longitudinal Serial Mediation Model via Experiential Avoidance and Negative Parent–Child Relationship",
       "authors": [
@@ -6684,61 +6659,6 @@
       ],
       "abstract": "Purpose This study aims to understand the lived experiences of culturally and linguistically diverse (CaLD) parents of autistic children who participated in a longitudinal self-directed (without clinical coaching) parent-led therapy (PLT) programme targeting social-communication skills, or who were unable to complete participation in the longitudinal study coached group sessions. This work explores how each participant’s specific context impacted their engagement with online PLT. Design/methodology/approach Five mothers from a range of CaLD backgrounds participated in this study from different countries. Semi-structured online interviews were conducted. Interpretative phenomenological analysis was used to analyse data, focusing on understanding each participant’s lived experience. Findings Two superordinate themes were developed: (1) cultural differences amplify barriers to online PLT; (2) linguistic adaptations of therapeutic strategies need to be contextualised for each CaLD environment. Research limitations/implications Participants had high English proficiency and academic backgrounds, which may not represent the CaLD population struggling most with PLT engagement. Further inve…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-10-2025-0105",
-      "title": "“We were happy to just get an autism diagnosis”: a mixed-methods study of parents’ experience with the autism assessment protocol",
-      "authors": [
-        "Jade Daly",
-        "Damien Rushe",
-        "Kate Rabbitte",
-        "Graham Connon",
-        "Olive Healy"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-26",
-      "doi": "10.1108/aia-10-2025-0105",
-      "url": "https://doi.org/10.1108/aia-10-2025-0105",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience",
-        "service improvement"
-      ],
-      "abstract": "Purpose Despite increasing autism prevalence, delays in diagnostic assessments persist, likely impeding access to effective early interventions. In 2022, Ireland’s Health Service Executive piloted new, three-tiered Autism Assessment and Pathways Protocol in the Republic of Ireland. Design/methodology/approach An online survey was completed by six parents of autistic children assessed through the novel, Tier 1 Assessment Pathway Protocol, and 25 parents of autistic children assessed through the standard Assessment of Need Pathway participated in this study. All respondents provided quantitative and qualitative data on their experience of the diagnostic assessment pathway, including satisfaction, self-reported stress and perceived child stress. Parental satisfaction and stress were compared between pathways. Findings Some 65% of parents were satisfied with the diagnostic process overall. The process was stressful for both parents and children. There were no significant differences in parents’ satisfaction, stress levels or participant characteristics between the diagnostic assessment pathways. Time to assessment displayed negative correlations with parents’ satisfaction with the over…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-06-2024-0043",
-      "title": "Psychological distress among mothers of autistic children in Palestine: a cross-sectional study",
-      "authors": [
-        "Mohammad Altamimi",
-        "Monia Kittana",
-        "Safaa Muhanna",
-        "Ali Shakhshir",
-        "May Hamdan",
-        "Manal Badrasawi"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-26",
-      "doi": "10.1108/aia-06-2024-0043",
-      "url": "https://doi.org/10.1108/aia-06-2024-0043",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Purpose Psychological distress has been documented among parents and caregivers of autistic children. This study aims to assess the levels of psychological distress experienced by mothers of children with autism and the associated factors in Palestine. Design/methodology/approach A cross-sectional study was conducted among 133 mothers, with 65 mothers of autistic children, and 68 mothers serving as controls. Self-administered questionnaires were used for data collection. Psychological distress was assessed by administering the Arabic version of the 12-item General Health Questionnaire. Findings A significantly higher level of psychological distress in mothers of autistic children was found. Social dysfunction and depression and anxiety subscales were significantly higher in mothers of autistic children. Loss of confidence score was significantly lower in mothers of autistic children. Originality/value A significant elevation in psychological distress among mothers of autistic children in the West Bank, emphasising the need for targeted interventions.",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/13623613261418948",
@@ -8207,33 +8127,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -8261,6 +8154,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8383,6 +8303,31 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/25739581251366856",
+      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
+      "authors": [
+        "Hari Srinivasan"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251366856",
+      "url": "https://doi.org/10.1177/25739581251366856",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/25739581251359076",
       "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
       "authors": [
@@ -8431,31 +8376,6 @@
         "Education"
       ],
       "abstract": "Background: Even though evidence shows that Relationships and Sexuality Education (RSE) positively impacts personal and social development, different environments and social contexts see it delivered in varied ways. Autism research has shown autistic people experience more adverse life experiences than their neurotypical peers, with fewer and lower quality relationships and higher rates of violence and abuse. Despite this, neurodivergent learners, including autistic individuals, often miss out completely on RSE or are only offered it in response to risk or problematic sexual behavior. As a result, people do not experience the full potential of RSE as a developmental support system. Method: This scoping review explored the literature on attitudes and approaches to RSE for autistic individuals, focusing on the voices of autistic individuals, parents of autistic children, and allied health professionals (AHPs) supporting them. Researchers searched key health care and education electronic databases for studies undertaken by high-income countries from 1990 to the present date, where non-school RSE targeting autistic individuals was the study focus. The researchers established review par…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251366856",
-      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
-      "authors": [
-        "Hari Srinivasan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251366856",
-      "url": "https://doi.org/10.1177/25739581251366856",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8979,35 +8899,6 @@
         "Quality of life"
       ],
       "abstract": "ABSTRACT Social relationships are a key component of quality of life, a high‐priority outcome for autistic people, and family relationships are critical in adolescence. The PROMIS Family Relationships scale has been well validated for use with the general population, but psychometric validation in the autistic population is lacking. This study investigated measurement invariance of the PROMIS Family Relationships among autistic and general population adolescents. The scale demonstrated scalar invariance between the groups, providing evidence that it measures the same construct equivalently and scores can be meaningfully compared between groups. With a well‐validated self‐report measure, researchers can ask autistic teens directly about their experiences of their family relationships, rather than relying solely on parent proxy report.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70168",
-      "title": "Mother–Child Biobehavioral Synchrony and Its Association With Social Functioning in Autistic School‐Aged Children",
-      "authors": [
-        "Carly Moser",
-        "Chih‐Hsiang Yang",
-        "Abigail L. Hogan",
-        "Amanda Fairchild",
-        "Jane Roberts",
-        "Jessica Klusek"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1002/aur.70168",
-      "url": "https://doi.org/10.1002/aur.70168",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Parent–child biobehavioral synchrony, or the concordance of behavior and physiological indicators between individuals, is theorized to support children's social development; however, this relationship has yet to be investigated in autistic children. This study examined whether moment‐to‐moment physiological synchrony—indexed via respiratory sinus arrhythmia (RSA)—and its interface with global levels of behavioral synchrony was associated with the pragmatic language skills and friendship quality of school‐aged autistic children in 40 mother–child dyads. Mother–child dyads participated in a collaborative task, from which RSA synchrony and behavioral synchrony were assessed. Mothers and their autistic children demonstrated negative RSA synchrony, such that when one partner displayed an increase in RSA, the other partner showed a decrease in RSA. The extent of behavioral synchrony between mothers and their children did not moderate the strength of concordance between mother and child RSA. Negative RSA synchrony was associated with better pragmatic language skills in autistic children from mother–child dyads who displayed high levels of behavioral synchrony. These findings high…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10593,45 +10484,6 @@
       ],
       "abstract": "ABSTRACT Early Intensive Behavioral Intervention (EIBI) is widely recommended for children with Autism Spectrum Disorder (ASD). However, the treatment intensity and effectiveness have been debated. We conducted a meta‐analysis and examined individual participant data to evaluate the effectiveness and clinical significance of the outcomes on adaptive behavior, intellectual functioning, and autism severity. We included studies of children with ASD aged 2–6 years who received EIBI for at least 12 months. The final literature search was conducted on September 26, 2024. The GRADE tool was used to assess the risk of bias. Across the 17 identified studies, we obtained participant data from 15 studies: 341 children received EIBI and 280 were in comparison‐groups. All studies had a serious risk of bias due to the lack of random assignment. Our meta‐analysis yielded effect sizes of 0.66 for improvement in adaptive behavior, 0.87 for improvement in intellectual functioning and 1.36 for reductions in ASD severity. A significantly higher percentage of children in the EIBI‐group met the criteria for statistically reliable change and scored in the non‐clinical range post‐intervention with a Numbe…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2025.2608096",
-      "title": "Adaptation and validation of the Autism Spectrum Screening Questionnaire into Kannada",
-      "authors": [
-        "Suma Raju",
-        "Sahana Kashyap",
-        "Srirangam Vijayakumar Narasimhan",
-        "Vaishnavi Kittur Umashankar"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-12-31",
-      "doi": "10.1080/20473869.2025.2608096",
-      "url": "https://doi.org/10.1080/20473869.2025.2608096",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2025.2605582",
-      "title": "A clinic model for evaluation and care coordination for toddlers suspected of having autism spectrum disorder",
-      "authors": [
-        "Van Ma",
-        "Robin Stewart",
-        "Carrie Silver"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2025,
-      "published_date": "2025-12-31",
-      "doi": "10.1080/20473869.2025.2605582",
-      "url": "https://doi.org/10.1080/20473869.2025.2605582",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
