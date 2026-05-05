@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T08:42:52Z",
+  "generated_at": "2026-05-05T08:29:09Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -127,6 +127,209 @@
         "service improvement"
       ],
       "abstract": "Objective: While individual nutrients have shown effects on inflammatory mechanisms, the effects of multinutrients (vitamins + minerals, antioxidants, and amino acids) on inflammation are unknown. We investigated whether 8 weeks of multinutrient supplementation, in a randomized controlled trial of 83 children with ADHD, would alter immune factors compared to placebo. Methods: Multiplex technology was used to measure 25 immune factors in blood samples collected at baseline and week 8. Immune factors were compared between multinutrient and placebo groups using the Mann-Whitney test. Linear mixed effects models evaluated immune factor change over time. To understand the functional relevance of the immune factors affected by multinutrient supplementation, pathway analysis was performed using the Database for Annotation, Visualization, and Integrated Discovery (DAVID) v6.7 Bioinformatics Resources. Results: Interleukin (IL)-5 and IL-13 levels differed following multinutrient supplementation versus placebo ( p = .005 and .03, respectively). IL-5 decreased by 1.3% in the multinutrient group (95% CI [−8.6%, 6.7%]) and increased by 17.5% in the placebo group (95% CI [6.9%, 29.2%]). IL-13 de…"
+    },
+    {
+      "id": "10.1177/13623613261439930",
+      "title": "Daily Mindfulness and Depressive Symptoms Among Parents of Autistic Children: A Dynamic Structural Equation Modelling Study",
+      "authors": [
+        "Lin Wang",
+        "Meng Hua",
+        "Xinyi Hu",
+        "Yifan Wang",
+        "Qinxing Xie",
+        "Guang Yang",
+        "Yuan Chen"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-04",
+      "doi": "10.1177/13623613261439930",
+      "url": "https://doi.org/10.1177/13623613261439930",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Elevated depressive symptoms among parents of autistic children are well documented and associated with poorer mental health. Mindfulness has been identified as a protective factor against mental health difficulties, but its day-to-day associations with depressive symptoms in this population remain unclear. A total of 210 Chinese parents of autistic children participated in this 15-day diary study, during which they completed daily measures of mindfulness and depressive symptoms. The data were analysed using dynamic structural equation modelling. Results indicated that (1) parents’ daily mindfulness and depressive symptoms exhibited autoregressive stability and showed significant negative reciprocal cross-lagged associations at the within-person level. At the between-person level, (2) higher perceived social support was associated with lower mean depressive symptoms and higher mean mindfulness, and it strengthened the negative cross-lagged effect of daily mindfulness on next-day depressive symptoms; and (3) child externalising problems were positively associated with parents’ overall mean depressive symptoms and negatively associated with both parents’ overall mean daily mindfulnes…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00558-w",
+      "title": "Evidence Synthesis for Reconceptualizing Learning Disabilities in Children with Autism and Neurodevelopmental Conditions: a Brief Narrative Review",
+      "authors": [
+        "John Hite"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-04",
+      "doi": "10.1007/s40489-026-00558-w",
+      "url": "https://doi.org/10.1007/s40489-026-00558-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1007/s10882-026-10064-w",
+      "title": "A Systematic Review of the Effects of Exercise Interventions on Emotional Dysregulation in Children and Adolescents with Autism Spectrum Disorder",
+      "authors": [
+        "Honghong Lai",
+        "Xiaomei Zhan",
+        "Tonglin Shi",
+        "Ziwei Kuang",
+        "Xiaoxin Peng",
+        "Bangning Wang",
+        "Lin Zeng",
+        "Xiafang Li"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-05-04",
+      "doi": "10.1007/s10882-026-10064-w",
+      "url": "https://doi.org/10.1007/s10882-026-10064-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261443728",
+      "title": "Participatory Development and Psychometric Evaluation of the Introspective Predictive Processing Inventory: A Self-Report Measure for Autistic and Non-Autistic Adults",
+      "authors": [
+        "Marik Roos",
+        "Hannah Storm",
+        "Lucie Zimmer",
+        "Tobias Schuwerk"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-03",
+      "doi": "10.1177/13623613261443728",
+      "url": "https://doi.org/10.1177/13623613261443728",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "participatory"
+      ],
+      "abstract": "Traditional self-report autism measures are often constructed from an “outside view” by non-autistic researchers rather than reflecting authentic autistic experiences. Predictive processing theory offers a framework for understanding autism, but comprehensive tools assessing the subjective manifestations of predictive processing differences and associated challenges have been lacking. This study aimed to develop and validate the Introspective Predictive Processing Inventory (IPPI), a self-report measure assessing predictive processing characteristics and their subjective consequences in everyday life. Through community-led, participatory research, we developed an initial 65-item version in German and English, and employed a five-stage validation approach across three samples ( N = 790). We used network-based item optimization, exploratory and confirmatory factor analyses, measurement invariance testing, and convergent validity assessment. Network optimization reduced the scale to 18 items while maintaining excellent reliability and improved discriminative power. Exploratory factor analysis revealed a stable two-factor structure: “Prediction Integration and Interpretation” and “Pred…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261446718",
+      "title": "Evaluating the Effect of ADHD on Occupational Outcomes in the U.S. Marine Corps",
+      "authors": [
+        "Nathan Carnes",
+        "Jennifer McAnany",
+        "Zeina Khodr",
+        "Adam Biggs",
+        "James Bonkowski",
+        "Wisam Barkho"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-03",
+      "doi": "10.1177/10870547261446718",
+      "url": "https://doi.org/10.1177/10870547261446718",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) can potentially disqualify individuals for military service. However, some past research suggests the performance of individuals with ADHD in military service may be comparable to individuals without ADHD. The objective of the present research is to evaluate the effect of ADHD on occupational outcomes in the first enlistment term. We hypothesized that ADHD would be associated with weak or small performance decrements. Method: Study 1 ( N = 51,845) linked Recruit Assessment Program (RAP) survey data collected from U.S. Marine recruits between 2013 and 2018 with up to 4-years of active duty career records from the Defense Manpower Data Center. The RAP survey is a cross-sectional, baseline survey of mental, physical, and behavioral health—including self-reported ADHD diagnosis. Study 2 ( N = 161,507) utilized the Career History Archival Medical and Personnel System (CHAMPS) to obtain a study population of all active duty U.S. Marine Corps enlistees who accessed between 2013 and 2018 with follow-up through 2023. ADHD cases were identified by diagnoses and prescriptions captured in CHAMPS medical data. Estimated propensity score…"
+    },
+    {
+      "id": "10.1007/s10803-026-07345-w",
+      "title": "Coping Profiles of Parents at the Time of Their Child’s Autism Diagnosis: Differences Between Mothers and Fathers, and Associations With Family Mental Health",
+      "authors": [
+        "Maëva Monnier",
+        "Cécile Michelon",
+        "Cécile Rattaz",
+        "Fanny Redlinger",
+        "Hugo Peyre",
+        "Amaria Baghdadli"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-02",
+      "doi": "10.1007/s10803-026-07345-w",
+      "url": "https://doi.org/10.1007/s10803-026-07345-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Abstract Purpose Given theoretical and methodological criticisms surrounding coping strategies, this study examines coping profiles and differences between mothers and fathers at the time of their child’s autism diagnosis. Methods Multi-group confirmatory factor analyses (MG-CFAs) were conducted to improve construct validity of the French Ways of Coping Checklist-Revised in 554 parents in France and to test measurement invariance between mothers and fathers. Linear mixed models were performed to examine parental status (mother vs. father) differences in coping strategies. Dyadic latent profile analysis (LPA) was used to identify distinct coping profiles and the R3STEP approach to examine differences in latent profile membership by parental status. Results MG - CFAs supported four coping dimensions (problem solving-positive reappraisal, seeking social support, wishful thinking, and self-blame) and demonstrated configural and metric invariances, with partial scalar invariance between mothers and fathers. Fathers reported a significantly lower use of all coping strategies except wishful thinking. LPA identified three coping profiles — Varied Coping , Adaptive-Dominant Coping , and Mal…"
+    },
+    {
+      "id": "10.1007/s10803-026-07325-0",
+      "title": "A Telehealth Diagnostic Tool for Autistic Children With Phrased and Fluent Speech: Comparison to In-person Diagnosis",
+      "authors": [
+        "Katherine K. Meltzoff",
+        "Cameron Alexander",
+        "Amy Hoffman",
+        "Jan Blacher"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-02",
+      "doi": "10.1007/s10803-026-07325-0",
+      "url": "https://doi.org/10.1007/s10803-026-07325-0",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Healthcare"
+      ],
+      "tags": [
+        "access",
+        "communication"
+      ],
+      "abstract": "Abstract Purpose Given the existing barriers to timely ASD diagnosis and the potential of telehealth to mitigate these barriers, it is critical to create and validate telehealth autism diagnostic instruments. Existing instruments largely focus on children under 3 and/or those with minimal verbal speech. We created and investigated the accuracy and validity for two novel instruments: Tele-ASD-KIDS, phrased speech (TAK-PS), and Tele-ASD-KIDS, fluent speech (TAK-FS) alongside an existing measure for minimally verbal children –the Tele-ASD-PEDS (TAP). Methods We assessed 39 children for autism in a university-based free clinic, both in-person and using telehealth, with blinded assessment teams– TAP ( n = 10; M = 47.5 months), TAK-PS ( n = 7, M = 74 months), TAK-FS ( n = 22, M = 102.77 months). Data were analyzed for diagnostic accuracy and social validity for each telehealth instrument separately. Results Our findings suggest that the TAK-PS is highly accurate, whereas the TAK-FS is accurate for some children but not others. Older children, those with behaviors unrelated to ASD that may affect social-communication abilities, and those with ADHD appear least likely to benefit from teleh…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/25739581261447233",
+      "title": "Lived Experiences of Ableist Microaggressions Among Japanese Autistic Adults",
+      "authors": [
+        "Takeo Kato",
+        "Nora Choque Olsson",
+        "Masamitsu Kawashima",
+        "Yasuo Kawaguchi",
+        "Siqing Guan",
+        "Masaki Tamura",
+        "Fumito Takahashi",
+        "Hikari Takashina",
+        "Makoto Wada",
+        "Shinichiro Ogawa",
+        "Kenji J. Tsuchiya",
+        "Fumiyo Oshima"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-05-02",
+      "doi": "10.1177/25739581261447233",
+      "url": "https://doi.org/10.1177/25739581261447233",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Microaggressions—subtle insults, invalidations, or slights directed at marginalized groups—negatively affect mental health and identity. However, little is known about how autistic people experience microaggressions across their daily lives in Japan. To the beast of our knowledge, this is the first qualitative study examining how Japanese autistic people experience microaggressions related to or attributed to their autism. Methods: We conducted an online cross-sectional survey in March 2023. A total of 330 autistic individuals (aged 18–39 years) responded to two open-ended questions about direct and indirect microaggressions in their daily lives. We analyzed 288 microaggressive experiences related to or attributed to participants’ autism using codebook thematic analysis. Three researchers generated the initial codes and preliminary themes, which the full team then refined through iterative discussion. Results: We identified four themes describing how autistic people in Japan encounter microaggressions in their daily lives. Theme 1: Living with fluctuating standpoints reflects how others position autistic people as either inferior or unrealistically gifted. Theme 2: Livi…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261437916",
@@ -629,6 +832,51 @@
         "Sensory environment"
       ],
       "abstract": "Objective: This study aims to investigate the complex relation between adult ADHD symptoms, procrastination, and mediating factors, in light of leading procrastination theories: the Temporal Motivation Theory (TMT), emotion regulation, and a General Architecture for Modeling the Dynamics of Goal-Directed Motivation and Decision-Making – the GOAL architecture. Method: The study was preregistered. A survey was conducted with 640 adults recruited online to examine the associations between ADHD symptoms, procrastination, and seven mediating factors. Participants completed measures assessing ADHD symptoms, procrastination tendencies, emotion regulation, motivation, and goal-related behaviors. Structural equation modeling (SEM) was used to test the direct and indirect pathways among the variables. Results: A positive association was revealed between ADHD inattention symptoms and procrastination tendencies. The mediating factors that significantly contributed to this relations were sensitivity to delay, perceived low value of the task, and flexible goal adjustment. While ADHD inattention symptoms was associated with all seven variables, three variables directly contributed to increased pr…"
+    },
+    {
+      "id": "10.1002/aur.70267",
+      "title": "Psychological Impact of Autism Screening on Caregivers",
+      "authors": [
+        "Ramkumar Aishworiya",
+        "Devon Gangi",
+        "Van Kim Ma",
+        "Chandni Parikh",
+        "Nor Azyati Yusoff",
+        "Narueporn Likhitweerawong",
+        "Sally Ozonoff"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-30",
+      "doi": "10.1002/aur.70267",
+      "url": "https://doi.org/10.1002/aur.70267",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Autism screening in childhood is common, yet little is known about its potential psychological impact on caregivers. The U.S. Preventive Services Task Force, an independent national panel of disease prevention experts, stated that this gap in knowledge limited their ability to endorse universal autism screening. This study examined the psychological impact of autism screening, using data from a large community‐based sample ( n = 1272) involving online caregiver‐completed autism screeners at child age 6, 9, 12, 18, and 24 months. Caregivers completed the Participation Impact Questionnaire retrospectively (mean child age at completion 37.2 ± 4.8 months) to measure feelings about screening. A minority (34.7%) of the sample reported presence of ≥ 1 negative feeling; the most commonly endorsed was “worried”. Among this subset, negative feelings were of short duration (lasted for &lt; 1 day in 56.9%), were mild in severity (86.4%), and did not affect functioning (85.3%). A majority (86.2%) also reported ≥ 1 positive feeling. Our findings address a critical evidence gap regarding potential harms of autism screening and support universal screening, given that psychological harms a…"
+    },
+    {
+      "id": "10.1177/13623613261435994",
+      "title": "Social Isolation or Autistic Homophily: An Exploration of the Social Networks of Autistic College Students",
+      "authors": [
+        "George W Wolford",
+        "Gabriel Varela",
+        "Robert E Freeland",
+        "Monica L Bellon-Harn"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-04-29",
+      "doi": "10.1177/13623613261435994",
+      "url": "https://doi.org/10.1177/13623613261435994",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Our understanding of autistic socialization using social network analysis has focused on autistic children and understanding support systems. The purpose of this study is to examine autistic friendship networks in adulthood without focusing on support systems. We broadly recruited autistic and nonautistic college students ( n = 592 students). Students provided ego-network information, including demographics, satisfaction with their social relationships, and perceptions of their friends (e.g. perceived neurotype and demographics). Autistic college students reported similar network structure metrics (e.g. density, number of friends) as nonautistic college students. Participants of all neurotypes reported similar friendship closeness, social satisfaction, and close mixed-neurotype friendships. However, on average, autistic college students had a higher proportion of autistic and neurodivergent friends than nonautistic college students. To a lesser extent, nonautistic students reported a greater preference for neurotypical friendships. These quantitative results suggest that autistic college students prefer building friendships with other autistic or neurodivergent peers (i.e. autistic…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10870547261438171",
@@ -5850,6 +6098,31 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -5878,31 +6151,6 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
     },
     {
       "id": "10.1177/25739581261426636",
