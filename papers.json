@@ -1,27 +1,8 @@
 {
-  "generated_at": "2026-05-05T08:29:09Z",
+  "generated_at": "2026-05-07T08:49:46Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
-    {
-      "id": "10.1177/10883576251407601",
-      "title": "Classmates’ Social Interest Toward Included Autistic Peers: Social and Personal Characteristics",
-      "authors": [
-        "Mati Zakai-Mashiach",
-        "Michal Al-Yagon",
-        "Esther Dromi"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/10883576251407601",
-      "url": "https://doi.org/10.1177/10883576251407601",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "This study explored the demographic and social characteristics of children in understanding their spontaneous social interest toward autistic classmates. Participants were 193 Israeli children without disabilities, ages 3 to 6 years, in 16 inclusive preschool/kindergarten classrooms. Teachers and educational aides each nominated socially interested students and rated all students’ social interests toward the included classmate. Results indicated that socially interested children were younger, more often boys, had a more advanced social profile (less aggression, more shyness, and more prosocial behaviors), and showed better performance on theory of mind tasks than their peers who were not socially interested in the autistic classmates. Identifying peers without disabilities who show social interest toward the included children can optimize the involvement of peers without disabilities as change agents in inclusive educational environments and promote the social inclusion of autistic students.",
-      "framing": "Neurodiversity-informed"
-    },
     {
       "id": "10.1177/10870547261426094",
       "title": "Association between Attention Deficit Hyperactivity Disorder and Obstructive Sleep Apnea in Children: A Systematic Review and Meta-Analysis",
@@ -127,6 +108,250 @@
         "service improvement"
       ],
       "abstract": "Objective: While individual nutrients have shown effects on inflammatory mechanisms, the effects of multinutrients (vitamins + minerals, antioxidants, and amino acids) on inflammation are unknown. We investigated whether 8 weeks of multinutrient supplementation, in a randomized controlled trial of 83 children with ADHD, would alter immune factors compared to placebo. Methods: Multiplex technology was used to measure 25 immune factors in blood samples collected at baseline and week 8. Immune factors were compared between multinutrient and placebo groups using the Mann-Whitney test. Linear mixed effects models evaluated immune factor change over time. To understand the functional relevance of the immune factors affected by multinutrient supplementation, pathway analysis was performed using the Database for Annotation, Visualization, and Integrated Discovery (DAVID) v6.7 Bioinformatics Resources. Results: Interleukin (IL)-5 and IL-13 levels differed following multinutrient supplementation versus placebo ( p = .005 and .03, respectively). IL-5 decreased by 1.3% in the multinutrient group (95% CI [−8.6%, 6.7%]) and increased by 17.5% in the placebo group (95% CI [6.9%, 29.2%]). IL-13 de…"
+    },
+    {
+      "id": "10.1007/s10803-026-07346-9",
+      "title": "IQ Profiles in Bilingual Children With Developmental Language Disorder: The Role of Maternal Education",
+      "authors": [
+        "Eleni Peristeri",
+        "Silvia Silleresi",
+        "Ianthi Maria Tsimpli"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-06",
+      "doi": "10.1007/s10803-026-07346-9",
+      "url": "https://doi.org/10.1007/s10803-026-07346-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose The intellectual profile of monolingual children with Developmental Language Disorder is typically characterized by below-average verbal IQ (VIQ) and average Performance IQ (hence, PIQ) scores. Our knowledge of IQ functioning in bilingual children with Developmental Language Disorder is still very limited. Furthermore, previous research in IQ functioning in children with Developmental Language Disorder has not addressed maternal education as a possible alternative exploratory variable affecting children’s performance in IQ tests. Here, we aimed to investigate if intellectual functioning of children with Developmental Language Disorder is affected by bilingualism, and whether this relation is affected by the children’s socioeconomic characteristics, including maternal and parental education, and family income. Methods We focused on IQ profile comparisons between 125 bilingual children and 109 monolingual children with Developmental Language Disorder. Results We found that the bilingual children exhibited ‘normalized’ performance in those VIQ tests that tapped into metalinguistic knowledge and social understanding. The bilingual children were also more likely to exhi…"
+    },
+    {
+      "id": "10.1007/s10803-026-07334-z",
+      "title": "Socio-Demographic Associations and Frequencies of Physical Activity Participation of Autistic Adolescents Reported by Parents in Ontario, Canada",
+      "authors": [
+        "Marina Charalampopoulou",
+        "Antoine Beauchamp",
+        "Evdokia Anagnostou",
+        "Patrick Jachyra"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-06",
+      "doi": "10.1007/s10803-026-07334-z",
+      "url": "https://doi.org/10.1007/s10803-026-07334-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "Abstract Purpose This study explored socio-demographic associations and physical activity (PA) participation of autistic adolescents reported by parents. Parents also reported the patterns and frequencies of PA participation, as there is a limited understanding of the activities they engage in Ontario, Canada. There is a need for this research as autistic adolescents are less likely to participate in PA. Studying socio-demographic characteristics and understanding the activities adolescents engage in can inform policies and practice to support participation. Methods A cross-sectional survey was mailed to parents of 525 autistic adolescents aged 12–19 years about PA participation for the preceding year. Parents provided data about free play and organized PA activities of adolescents ( n = 306; 63.7% male; M age = 15.1 years), and demographic information. Multiple linear regression was used to evaluate the relationships between PA scores, activities reported and the six demographic variables. The relationship between the sedentary scores, tallied frequency scores and number of activities was also assessed using linear regression. Results Overall, 85% of autistic adolescents participa…"
+    },
+    {
+      "id": "10.1007/s10803-026-07339-8",
+      "title": "Virtual Reality Intervention to Empower Autistic People to Interact With Police: A Randomized Controlled Clinical Trial for Autistic Teens and Adults",
+      "authors": [
+        "Joseph P. McCleery",
+        "Ashley Zitter",
+        "Lucero Cordero",
+        "Alison Russell",
+        "Meredith Cola",
+        "Manisha Udhnani",
+        "Kimberly G Tena",
+        "Ashlee Yates Flanagan",
+        "Sinan Turnacioglu",
+        "Rita Solórzano",
+        "Judith S Miller",
+        "Vijay Ravindran",
+        "Julia Parish-Morris"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-06",
+      "doi": "10.1007/s10803-026-07339-8",
+      "url": "https://doi.org/10.1007/s10803-026-07339-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07320-5",
+      "title": "Correction: Autism Screening Using Parent’s Observations of Social Interactions (POSI) in High-Risk Infants",
+      "authors": [
+        "Lydia Vielmetti",
+        "Aarabhi Rajagopal",
+        "Robin Manus",
+        "Sharon Veis",
+        "Raye-Ann deRegnier"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-06",
+      "doi": "10.1007/s10803-026-07320-5",
+      "url": "https://doi.org/10.1007/s10803-026-07320-5",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s40489-026-00556-y",
+      "title": "Attachment-Based Interventions in Children with Autism Spectrum Disorders: A Systematic Review",
+      "authors": [
+        "Cristina Fernández-Cuenca",
+        "Itziar Alonso-Arbiol"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-06",
+      "doi": "10.1007/s40489-026-00556-y",
+      "url": "https://doi.org/10.1007/s40489-026-00556-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Autism spectrum disorders (ASD) significantly impact children’s development, making early intervention necessary for improving social communication and reducing symptom severity. Autistic children often exhibit less secure attachment styles due to challenges in reciprocity and joint attention, among others. Therefore, interventions aimed at enhancing attachment quality may strengthen caregiver-child interactions, and positively influence core autism symptoms by improving socioemotional outcomes. We conducted a systematic review to synthesize the evidence derived from attachment-based interventions for autistic children. Seventeen articles (15 studies) met the inclusion criteria. Reviewed findings showed that promoting caregivers’ sensitivity and reflective function improves the relationship quality and enhances children’s joint attention along with the suitable use of parents as a safe haven. Moreover, changes in parent-child interaction were explained mainly by modifications in maternal responses. The reviewed treatments enhanced children’s adaptive behavior, language expression, and communication skills. The role of caregivers is discussed, highlighting that attachment-b…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2663976",
+      "title": "The effects of least restrictive classroom placement on school and post-high school outcomes of students with autism",
+      "authors": [
+        "Scott H. Yamamoto"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-05-06",
+      "doi": "10.1080/20473869.2026.2663976",
+      "url": "https://doi.org/10.1080/20473869.2026.2663976",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1007/s10803-026-07324-1",
+      "title": "Prevalence of Co-occurring Mental, Neurodevelopmental and Neurological Conditions in Medicaid Beneficiaries With Autism",
+      "authors": [
+        "Carolyn DiGuiseppi",
+        "Caleb Ing",
+        "Ashley Blanchard",
+        "Matthew T. Russell",
+        "Guohua Li"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-05",
+      "doi": "10.1007/s10803-026-07324-1",
+      "url": "https://doi.org/10.1007/s10803-026-07324-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/25739581261449193",
+      "title": "Facial and Bodily Emotion Recognition in Autism: The Role of Alexithymia",
+      "authors": [
+        "Andrei Zarie",
+        "Jessica Loudon",
+        "Petra M.J. Pollux",
+        "Niko Kargas"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-05-05",
+      "doi": "10.1177/25739581261449193",
+      "url": "https://doi.org/10.1177/25739581261449193",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Background: There is a general belief in the scientific community that autistic people have emotion recognition (ER) difficulties. Despite this, the research is inconclusive, with roughly half of the studies showing that autistic people have similar ER ability to non-autistic people. The alexithymia hypothesis posits that ER differences found in some autistic individuals might be due to concurrent alexithymia, with some incipient research backing this claim. One limitation of past literature is the focus on facial expressions, with ER from body language remaining understudied, especially in relation to autism and alexithymia. Methods: Adults ( N = 364) completed a face and body ER task containing video expressions of all basic emotions, during which we measured their accuracy, confidence, and intensity ratings. Participants also completed Alexithymia (PAQ) and autism traits (AQ-10) questionnaires. After data cleaning, we split participants into an autistic group ( n = 71) and non-autistic group ( n = 279). We used alexithymia scores to further split the two autism groups into high and low alexithymia categories. We investigated the effects of autism and alexithymia on body and face…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261440452",
+      "title": "An Exploratory Study of Functional Outcome in Stimulant Treatment of ADHD in Adults",
+      "authors": [
+        "Margaret D. Weiss",
+        "Jeffrey H. Newcorn",
+        "Pratap Chokka",
+        "Marc Cataldo",
+        "Sailaja Bhaskar",
+        "Graeme A. E. Donnelly"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-05",
+      "doi": "10.1177/10870547261440452",
+      "url": "https://doi.org/10.1177/10870547261440452",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Employment",
+        "Healthcare"
+      ],
+      "abstract": "Objective: The objective of this analysis was to describe the effects of methylphenidate-mediated symptom improvement on functional impairments in adults with ADHD. Methods: This is an exploratory study of self-reported functional impairment on the Weiss Functional Impairment Rating Scale (WFIRS-S) in 351 ADHD adults treated in a forced dose, double blind (DB), randomized, parallel clinical trial of a 16-hr methylphenidate stimulant (PRC-063) for 4 weeks followed by open-label (OL; N = 147) for 6 months. Results: During the 4-week DB period, there was a statistically significant response to medication versus placebo in the WFIRS-S domain of “work.” Forty percent of DB subjects, assigned a random dose of medication, showed functional improvement as defined by the Minimal Clinical Important Differences (MCID) of the WFIRS. At the end of DB, one third of subjects had scores below symptomatic and functional impairment thresholds and two thirds by the end of OL. Although the OL period was uncontrolled, when all subjects had been dose optimized with sufficient time for functional impairment to manifest, all WFIRS functional domains showed clinically-relevant improvements from baseline to…"
+    },
+    {
+      "id": "10.1177/10870547261440604",
+      "title": "Randomized Controlled Trial of a Peer-Delivered High School Preparatory Intervention for ADHD",
+      "authors": [
+        "Margaret H. Sibley",
+        "Shauntal Van Dreel",
+        "Stefany J. Coxe",
+        "Mercedes Ortiz",
+        "Benjamin Aaronson",
+        "Alexa Matlack",
+        "Taylor Rainwater",
+        "Brooke E. Kircher",
+        "Joshua Langberg",
+        "Aaron Lyon",
+        "Autumn Yi",
+        "Carlos E. Yeguez"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-05",
+      "doi": "10.1177/10870547261440604",
+      "url": "https://doi.org/10.1177/10870547261440604",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Objective: The high school transition is a period of academic and socioemotional vulnerability for adolescents with ADHD. Standard high school interventions for ADHD typically demonstrate access and engagement challenges. Peer-delivered interventions may overcome staff time and resource shortages while increasing adolescent engagement. A previously tested peer-delivered model (STRIPES;16 weekly psychosocial sessions with a peer) showed promising effects but suboptimal engagement. Method: This development trial evaluates enhancements to STRIPES (STRIPES+) adding a 1-week peer-led school orientation and six parent training sessions. Ninth grade students meeting current ADHD symptom and impairment criteria ( N = 72) were randomized to STRIPES+ versus school services as usual (SSU). Engagement metrics were evaluated and group × time 1-year outcome trajectories were compared using Linear Mixed Models. Results: Student and peer, but not parent, attendance was strong. STRIPES+ was feasible and acceptabled to students and peers. Compared to SSU, STRIPES+ demonstrated significant gains for school materials organization ( b = 0.01, SE = 0.01, p = .040, d = 0.51), use of a daily planner ( b =…"
     },
     {
       "id": "10.1177/13623613261439930",
@@ -6098,31 +6323,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07279-3",
-      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
-      "authors": [
-        "Sofronia M. Ringold",
-        "Sharon A. Cermak",
-        "Jennifer S. Labus",
-        "Emeran A. Mayer",
-        "Lisa Aziz-Zadeh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-04",
-      "doi": "10.1007/s10803-026-07279-3",
-      "url": "https://doi.org/10.1007/s10803-026-07279-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07261-z",
       "title": "Child Quality of Life as an Outcome Following Pivotal Response Treatment: Findings From Four Randomized Controlled Trials With Autistic Children",
       "authors": [
@@ -6151,6 +6351,31 @@
         "Quality of life"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07279-3",
+      "title": "Sensory Over-Responsivity in Autism: A Bidirectional Brain–Gut–Microbiome Model",
+      "authors": [
+        "Sofronia M. Ringold",
+        "Sharon A. Cermak",
+        "Jennifer S. Labus",
+        "Emeran A. Mayer",
+        "Lisa Aziz-Zadeh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-03-04",
+      "doi": "10.1007/s10803-026-07279-3",
+      "url": "https://doi.org/10.1007/s10803-026-07279-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/25739581261426636",
@@ -10590,89 +10815,6 @@
         "lived experience"
       ],
       "abstract": "Background: Inclusive health and education services require diverse professionals to inform service delivery, which meet the needs of a diverse population. There is a need to reduce inequalities in employment, and to develop neuro-affirming public services. This requires enhanced understanding of the challenges facing neurodivergent professionals, and solutions informed by lived experience. Methods: This systematic review explored peer-reviewed literature describing the training, recruitment, and employment experiences of autistic professionals working in health and education services. Researchers followed the Preferred Reporting Items for Systematic Review and Meta-Analysis guidelines. Researchers last searched databases, which included Medline, CINAHL, and PsycINFO, in October 2024. Eligible studies presented data describing the experiences of autistic health or education professionals in employment or training, published in English within the last 15 years. Researchers appraised study quality using the Mixed Methods Appraisal Tool. Researchers synthesized data using a narrative approach. The research team received funding from the Scottish Government. Researchers registered the…"
-    },
-    {
-      "id": "10.1007/s10803-025-07188-x",
-      "title": "Relative Complexity in Repetitive Structure and Visual Preference for Geometric Figures in Autistic Individuals: A Pilot Study",
-      "authors": [
-        "Momoka Suda",
-        "Motofumi Sumiya",
-        "Toshiki Iwabuchi",
-        "Kosuke Asada",
-        "Hironori Akechi",
-        "Atsushi Senju"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-06",
-      "doi": "10.1007/s10803-025-07188-x",
-      "url": "https://doi.org/10.1007/s10803-025-07188-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07195-y",
-      "title": "The Effects of Joint Attention Interventions for Young Children With Autism Spectrum Disorder: A Meta-analysis",
-      "authors": [
-        "Jinwei Song",
-        "Brian Reichow",
-        "Jason Chow",
-        "Mary Beth Bruder",
-        "Brandi Simonsen"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-06",
-      "doi": "10.1007/s10803-025-07195-y",
-      "url": "https://doi.org/10.1007/s10803-025-07195-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07191-2",
-      "title": "From Toddlers to Late Childhood: Age-Related Patterns in Parental Concerns About Autism",
-      "authors": [
-        "Einat Avni",
-        "Ditza A. Zachor",
-        "Esther Ben-Itzchak",
-        "Ronit Saban-Bezalel"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-06",
-      "doi": "10.1007/s10803-025-07191-2",
-      "url": "https://doi.org/10.1007/s10803-025-07191-2",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07190-3",
-      "title": "Exploring the Association Between Parental Age and Autism Spectrum Disorder Risk in Qatar",
-      "authors": [
-        "Fouad AlShaban",
-        "Éric Fombonne",
-        "Iman Ghazal",
-        "Fatema Al-Faraj",
-        "Sarah Aqel",
-        "I. Richard Thompson",
-        "Hawraa Al-Shammari",
-        "Saba El-Hag",
-        "Bisher Nasir"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-05",
-      "doi": "10.1007/s10803-025-07190-3",
-      "url": "https://doi.org/10.1007/s10803-025-07190-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
