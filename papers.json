@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T08:49:46Z",
+  "generated_at": "2026-05-08T08:00:15Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -108,6 +108,137 @@
         "service improvement"
       ],
       "abstract": "Objective: While individual nutrients have shown effects on inflammatory mechanisms, the effects of multinutrients (vitamins + minerals, antioxidants, and amino acids) on inflammation are unknown. We investigated whether 8 weeks of multinutrient supplementation, in a randomized controlled trial of 83 children with ADHD, would alter immune factors compared to placebo. Methods: Multiplex technology was used to measure 25 immune factors in blood samples collected at baseline and week 8. Immune factors were compared between multinutrient and placebo groups using the Mann-Whitney test. Linear mixed effects models evaluated immune factor change over time. To understand the functional relevance of the immune factors affected by multinutrient supplementation, pathway analysis was performed using the Database for Annotation, Visualization, and Integrated Discovery (DAVID) v6.7 Bioinformatics Resources. Results: Interleukin (IL)-5 and IL-13 levels differed following multinutrient supplementation versus placebo ( p = .005 and .03, respectively). IL-5 decreased by 1.3% in the multinutrient group (95% CI [−8.6%, 6.7%]) and increased by 17.5% in the placebo group (95% CI [6.9%, 29.2%]). IL-13 de…"
+    },
+    {
+      "id": "10.1007/s10803-026-07315-2",
+      "title": "Cognitive Empathy, Affective Empathy and Empirical Research on the Double Empathy Problem: A Critical Methodology Review",
+      "authors": [
+        "Sam Fellowes"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-08",
+      "doi": "10.1007/s10803-026-07315-2",
+      "url": "https://doi.org/10.1007/s10803-026-07315-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "abstract": "Abstract Purpose The double empathy problem posits that autistic people and non-autistic people both lack empathy with the other side rather than the lack of empathy solely residing in one side. There have been empirical studies which lend support for the double empathy problem. I show that these studies are largely not engaging with cognitive nor affective empathy. Methods Twenty different papers are assessed on measurement made, set-up of the interaction employed and duration of the interaction to establish whether the evidence those studies generate is applicable to cognitive and affective empathy. Results Firstly the experimental measures in these studies are largely not making measurements that would detect cognitive or affective empathy. Secondly, many use setups which do not encourage or are not conducive towards cognitive or affective empathy occurring. Thirdly, many involve a short period of interaction for cognitive or affective empathy to occur. Conclusion These studies are largely not generating data about whether the double empathy problem is applicable to cognitive or affective empathy. Which aspects of empathy the evidence supporting the double empathy problem is rel…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07352-x",
+      "title": "Long-Term Stability of IQ Scores for Children With Neurodevelopmental Disabilities: Stable Global IQ But Unstable Index, Subtest, and Profile IQ Scores",
+      "authors": [
+        "Kevin G. Stephenson",
+        "Megan Norris",
+        "Soo Youn Kim",
+        "Nicholas C. C. Russell",
+        "Ann Levine",
+        "Caroline Murphy",
+        "Eric A. Youngstrom",
+        "Eric M. Butter"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-07",
+      "doi": "10.1007/s10803-026-07352-x",
+      "url": "https://doi.org/10.1007/s10803-026-07352-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Abstract Purpose Intelligence testing is an important tool for clinicians to help in diagnosis and treatment planning for children with neurodevelopmental disabilities. Although interpreting IQ profiles is a common clinical practice, there are concerns regarding the validity and reliability of such scores. Previous research has shown relatively stable global measures of IQ, but less stable scores within index or subtest score. More research is needed to better understand the long-term stability of IQ scores within autistic and other neurodevelopmental populations who may have more instability in their scores over time. Methods We tested the long-term stability of IQ scores using the same test over time (Stanford-Binet, Fifth Edition; SB-5) in a large clinical sample of 650 youth with autism ( n = 236) or other neurodevelopmental disabilities ( n = 414), over a period of 4 months to 11 years. In addition to IQ scores, we also tested consistency of scatter scores, overall profiles, and strengths and weaknesses using linear mixed effects models. Results Results indicated overall consistency of FSIQ scores (ICC = 0.86), slightly less stability for VIQ and NVIQ, and low stability for ab…"
+    },
+    {
+      "id": "10.1007/s10803-026-07355-8",
+      "title": "Concurrent Assessment of Neurotrophic Factors and HPA-Axis Hormones in Early Childhood Autism Spectrum Disorder",
+      "authors": [
+        "Hurşit Ferahkaya",
+        "Ayşegül Tuğba Hira Selen",
+        "Şeyma Tezer",
+        "Ömer Faruk Akça",
+        "Abdullah Akkuş",
+        "İbrahim Kılınç",
+        "Fatma Coşkun"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-07",
+      "doi": "10.1007/s10803-026-07355-8",
+      "url": "https://doi.org/10.1007/s10803-026-07355-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Abstract Purpose Neurotrophic pathways and hypothalamic–pituitary–adrenal (HPA) axis regulation have been implicated in autism spectrum disorder (ASD), yet peripheral findings—particularly in early childhood—remain inconsistent. We examined peripheral neurotrophic factors and HPA-axis hormones in medication-naïve young children with ASD and evaluated their associations with clinical severity. Methods This cross-sectional study included 45 medication-naïve children with ASD (18–72 months) and 52 age-matched healthy controls. ASD diagnosis was established per DSM-5, supported by the Childhood Autism Rating Scale (CARS) and the Autism Behavior Checklist (ABC). Morning samples (08:30–09:30) were assayed for serum BDNF, GDNF, NT-3, VEGF, cortisol, and plasma ACTH. Group comparisons used ANCOVA adjusted for age, sex, and BMI-for-age z score (BAZ), with Benjamini–Hochberg false discovery rate (FDR) correction. Within-ASD associations were tested using covariate-adjusted partial Spearman correlations. Results BDNF was significantly lower in ASD than controls and remained significant after covariate adjustment and FDR correction. No between-group differences were observed for GDNF, NT-3, VE…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07348-7",
+      "title": "Relationship of the Persistent Primitive Reflexes to Emotional and Behavioral Problems in Autistic and Typically Developing Children",
+      "authors": [
+        "Marwa A. Alsaman",
+        "Reem H. M. Elghity"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-07",
+      "doi": "10.1007/s10803-026-07348-7",
+      "url": "https://doi.org/10.1007/s10803-026-07348-7",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/10870547261445680",
+      "title": "Inattention in Pediatric Attention-Deficit/Hyperactivity Disorder and Anxiety: Neurophysiological Evidence for Distinct and Overlapping Cognitive Mechanisms",
+      "authors": [
+        "Marija Pranjić",
+        "Virginia Peisch",
+        "Yena Li",
+        "Mary Troxel",
+        "Kristine Lee",
+        "Anne B. Arnett"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-07",
+      "doi": "10.1177/10870547261445680",
+      "url": "https://doi.org/10.1177/10870547261445680",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Background: Although inattention characterizes both pediatric attention deficit hyperactivity disorder (ADHD) and anxiety disorders, it is unclear whether the underlying neurocognitive mechanisms are shared or distinct. We compared behavioral performance and event-related potentials (ERPs) indexing discrete stages of attention across children with ADHD-only, Anxiety-only, co-occurring ADHD+Anxiety, and typically developing (TD) peers. Methods: One hundred eleven children (7–11 years) completed three computerized attention tasks while high-density electroencephalography (EEG) was recorded. Behavioral indices (accuracy, reaction time, post-error slowing) and ERP/EEG markers of attentional engagement (aperiodic exponent), stimulus discrimination (N2), action selection (P3), performance monitoring (error-related negativity; ERN) and evaluation (error positivity; Pe) were analyzed. Results: Relative to TD children, all clinical groups showed reduced modulation of the pre-stimulus aperiodic exponent by cognitive load and attenuated N2 amplitudes across tasks, indicating shared alterations in dynamic arousal and stimulus discrimination. Distinct patterns between the ADHD and Anxiety group…"
+    },
+    {
+      "id": "10.1177/10870547261448262",
+      "title": "Behavioral and Self-Report Measures of Spontaneous Mind Wandering Predict Different Aspects of ADHD in Adults",
+      "authors": [
+        "Takehiro Minamoto",
+        "Takuma Hayashi",
+        "Md Abdullah Al-Mamun"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-07",
+      "doi": "10.1177/10870547261448262",
+      "url": "https://doi.org/10.1177/10870547261448262",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: Studies have provided evidence that mind wandering (MW) is involved in the symptomatology of attention deficit/hyperactivity disorder (ADHD). One of the notable categorizations of MW is based on the dimension of intentionality, in which intentional MW is labeled as deliberate MW (D-MW) while the unintentional form is called spontaneous MW (S-MW). S-MW has been reported to be associated with lapses of attention or impulsive behaviors in individuals with ADHD. Using self-report and behavioral measures, the present study aimed to replicate the finding that scores on the S-MW scale predict those on the ADHD Self-Report Scale (ASRS) and to examine whether task performance under the S-MW state similarly predicts the scores on the ASRS scores. Method: The participants completed the ASRS and the D-MW and S-MW scales several days before performing the laboratory task (i.e., the continuous counting Stroop task). During the Stroop task (576 trials × 2 blocks), experience sampling probes were presented (20/block), which requested the participants to report their attentional state (i.e., concentrated, D-MW, S-MW, or other). Results: A univariate analysis showed that the accuracy of t…"
     },
     {
       "id": "10.1007/s10803-026-07346-9",
@@ -740,6 +871,31 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -765,31 +921,6 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6823,65 +6954,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251407310",
-      "title": "Profiles of parent–teacher discrepancy on autistic children’s adaptive functioning",
-      "authors": [
-        "Rachel Lees Thorne",
-        "Nicky Wright",
-        "Andres De Los Reyes",
-        "Isabel M Smith",
-        "Anat Zaidman-Zait",
-        "Lonnie Zwaigenbaum",
-        "Tracy Vaillancourt",
-        "Peter Szatmari",
-        "Teresa A Bennett",
-        "Eric Duku",
-        "Annie E Richard",
-        "Connor Kerns",
-        "Rachael Bedford"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251407310",
-      "url": "https://doi.org/10.1177/13623613251407310",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "Clinical guidelines recommend collecting reports from multiple informants when identifying and diagnosing challenges in children. The current study examined parent–teacher discrepancies in rating of autistic children’s adaptive functioning and how these related to children’s executive functions. Participants ( n = 194) were a subsample of autistic children (mean age = 9.2 years; 86% male) from the Pathways in ASD cohort. We used latent profile analysis to characterise profiles based on both parent and teacher reports of adaptive functioning levels. We tested links between these profiles and indices of children’s executive function and other clinical correlates. Four profiles were characterised: a lower adaptive functioning-parent higher profile, in which parents reported relatively higher scores than teachers ( n = 45), an intermediate adaptive functioning profile ( n = 70) and a higher adaptive functioning profile ( n = 39; both characterised by similar ratings between informants) and finally, a higher adaptive functioning-teacher higher profile, in which teachers reported relatively higher scores than parents ( n = 40). The higher adaptive functioning-teacher higher profile showe…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547251407731",
-      "title": "Parental Stress and Child Irritability in ADHD: A Two-Wave Longitudinal Serial Mediation Model via Experiential Avoidance and Negative Parent–Child Relationship",
-      "authors": [
-        "Armagan Aral",
-        "Gizem Gerdan",
-        "Yılmaz Orhun Gürlük"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/10870547251407731",
-      "url": "https://doi.org/10.1177/10870547251407731",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "ADHD is complex neurodevelopmental disorder that causes considerable individual and social difficulties, creating significant parental stress. This study aimed to examine the indirect associations between parental stress and child irritability through two sequential parenting mechanisms: experiential avoidance and negative parent–child relationship, within a sample of school-aged children with ADHD (ages 6–12). Using a two-wave longitudinal serial path analysis based on parent-reported data collected at two time points 1-month apart (Time 1 and Time 2), the study investigated whether early parental stress predicted subsequent child irritability via its influence on experiential avoidance and the quality of the parent–child relationship. Findings supported the hypothesized model. More precisely, higher parental stress was associated with greater experiential avoidance, which in turn predicted more negative parent–child relationship, ultimately resulting in elevated child irritability. Longitudinal serial mediation effects confirmed that all Time 1 variables significantly predicted corresponding Time 2 outcomes across the proposed sequential pathway. Notably, the model explained 41.1…"
-    },
-    {
       "id": "10.1002/aur.70185",
       "title": "Examining the Relationship Between Social Motivation and Internalizing Symptoms in Autistic People: A Systematic Review and Meta‐Analysis",
       "authors": [
@@ -8592,33 +8664,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251369452",
-      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
-      "authors": [
-        "Aimee Grant",
-        "Harriet Axbey",
-        "Willow Holloway",
-        "Selena Caemawr",
-        "Monique Craine",
-        "Hazel Lim",
-        "Sebastian C.K. Shaw",
-        "Rebecca Ellis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251369452",
-      "url": "https://doi.org/10.1177/25739581251369452",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359894",
       "title": "Stories of Competence, Challenges, and Coping: The Experiences of Australian Autistic People During Pregnancy and Early Parenthood",
       "authors": [
@@ -8646,6 +8691,33 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic people often face significant challenges in navigating health care systems, particularly during the vulnerable perinatal period. Many report inadequate care, feeling misunderstood, and being unsupported in addressing their health needs. We explored the pregnancy and early parenthood experiences of Autistic individuals in Australia, addressing the unique health care barriers they may face. Methods: To address the study aims, we interviewed 19 Autistic participants living in Australia about their pregnancy and early parenthood experiences. We conducted interviews using multiple modes, including written responses, virtual meetings, or phone calls to ensure accessibility. We analyzed the data using reflexive thematic analysis. Results: We constructed four key themes from the data. The first theme, “Pregnancy was good for me,” reflected feelings of body positivity and empowerment during pregnancy. Theme 2, “Hyperfocus as an understatement,” illustrated participants’ intense desire to gather information on every aspect of pregnancy and parenthood, which both facilitated and hindered their well-being. The third theme, “Lost in the system,” described the social drain c…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251369452",
+      "title": "Autism and the Menopause Transition: A Mixed-Methods Systematic Review",
+      "authors": [
+        "Aimee Grant",
+        "Harriet Axbey",
+        "Willow Holloway",
+        "Selena Caemawr",
+        "Monique Craine",
+        "Hazel Lim",
+        "Sebastian C.K. Shaw",
+        "Rebecca Ellis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251369452",
+      "url": "https://doi.org/10.1177/25739581251369452",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: The menopause transition commonly occurs between the ages of 45 and 55 years. In a general population, hormonal shifts result in a range of biological, psychological, and social changes. Recently, research has begun to focus on Autistic people’s experiences of the menopause. Methods: We undertook a prospectively registered (PROSPERO: CRD42023450736) systematic review of research and firsthand accounts from grey literature related to Autism and menopause. We utilized the Joanna Briggs Institute convergent integrated synthesis approach. Results: Our search identified eight studies and seven pieces of grey literature, primarily comprising Autistic people. No studies evaluated interventions or provided data from those supporting Autistic people. We developed three themes. First, “knowledge of the menopause transition and peer support” focused on Autistic people’s lack of knowledge of menopause symptoms, including differences for Autistic people, and the role of peer support in obtaining knowledge. Second, “Autistic people’s experiences of menopausal symptoms” describes a broad range of negative symptoms, which sometimes had significant impacts on mental health and daily act…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8768,31 +8840,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581251366856",
-      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
-      "authors": [
-        "Hari Srinivasan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-02",
-      "doi": "10.1177/25739581251366856",
-      "url": "https://doi.org/10.1177/25739581251366856",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581251359076",
       "title": "Implicit and Explicit Attitudes Toward Autistic Individuals: A Review",
       "authors": [
@@ -8841,6 +8888,31 @@
         "Education"
       ],
       "abstract": "Background: Even though evidence shows that Relationships and Sexuality Education (RSE) positively impacts personal and social development, different environments and social contexts see it delivered in varied ways. Autism research has shown autistic people experience more adverse life experiences than their neurotypical peers, with fewer and lower quality relationships and higher rates of violence and abuse. Despite this, neurodivergent learners, including autistic individuals, often miss out completely on RSE or are only offered it in response to risk or problematic sexual behavior. As a result, people do not experience the full potential of RSE as a developmental support system. Method: This scoping review explored the literature on attitudes and approaches to RSE for autistic individuals, focusing on the voices of autistic individuals, parents of autistic children, and allied health professionals (AHPs) supporting them. Researchers searched key health care and education electronic databases for studies undertaken by high-income countries from 1990 to the present date, where non-school RSE targeting autistic individuals was the study focus. The researchers established review par…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581251366856",
+      "title": "Beyond Common Reassurances of “It’s OK”—The Reality of Anxiety in Autism",
+      "authors": [
+        "Hari Srinivasan"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-02",
+      "doi": "10.1177/25739581251366856",
+      "url": "https://doi.org/10.1177/25739581251366856",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "Anxiety in autism is often misunderstood when compared with neurotypical experiences. It is not as simple as saying, “It’s okay, everyone gets anxious.” Anxiety in autism is not merely a transient experience but often a persistent and pervasive challenge shaped by both neurobiological differences and societal structures. While transient (state) anxiety is common in the general population, many autistic individuals can experience chronic (trait) anxiety, deeply intertwined with sensory sensitivities, social challenges, and the cumulative weight of past traumas. This article examines the complex nature of anxiety in autism, emphasizing how systemic barriers, stigma, and learned coping mechanisms contribute to sustained distress. It explores how societal pressures and internalized responses create self-reinforcing anxiety cycles, supported by psychological and neurobiological mechanisms. The article offers multilevel suggestions—spanning societal, community, professional, research, and individual levels—highlighting the need for inclusive, flexible approaches that account for the diversity of the autistic experience. Addressing both external barriers and internal challenges, these sug…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10753,68 +10825,6 @@
         "Education"
       ],
       "abstract": "Objective: Cognitive Disengagement Syndrome (CDS) is increasingly viewed as a distinct childhood condition. Although it overlaps with ADHD in some features, emerging evidence suggests a unique behavioral and cognitive profile. However, research examining social functioning and emotion recognition in children with pure CDS remains limited. Methods: This study compared social competence and facial emotion recognition abilities among children aged 8 to 12 years across three groups: those with elevated CDS symptoms (n = 43), those with ADHD (n = 40), and healthy controls (n = 43). Social functioning and peer relationships were evaluated using parent- and child-report social skills scales and peer interaction questionnaires. Emotion recognition was measured with the Reading the Mind in the Eyes Test (RMET). Results: Children with CDS showed significantly lower social skills and RMET scores than both ADHD and control groups (p &lt; .001). Teachers reported fewer school friendships for the CDS group compared to ADHD and controls (p &lt; .001), and CDS children also reported fewer out-of-school friendships than peers in the other groups (p = .035). Both child and teacher reports noted grea…"
-    },
-    {
-      "id": "10.1177/25739581251406751",
-      "title": "Validating the German Translation of the Revised Comprehensive Autistic Trait Inventory",
-      "authors": [
-        "Friederike Charlotte Hechler",
-        "Nathan Caruana",
-        "Frank Fahr",
-        "Bodie Karlek",
-        "Marie Maroske",
-        "Meike Misia",
-        "Outi Tuomainen"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-01-07",
-      "doi": "10.1177/25739581251406751",
-      "url": "https://doi.org/10.1177/25739581251406751",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Employment"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Background: This project evaluates the psychometric properties of a German translation of the Revised Comprehensive Autistic Trait Inventory (CATI-R). Previous measures of autistic traits are often based on a male-referenced conceptualization of autism, which may underestimate autistic traits in other genders. In addition, these measures tend to rely on neurotypical language, which can make it difficult for autistic people to respond and may reinforce stigma. To address these shortcomings, the CATI was originally developed as an alternative to traditional measures, including subscales that capture traits particularly relevant to autistic women. Building on this, we collaborated in an earlier work with members of the autism community to revise the CATI (CATI-R), ensuring more inclusive, respectful, and accessible language and concepts across all genders. In the present study, we translated this revised measure into German and validated it in a large sample of female, male, and non-binary participants. This study explores if the German translation of the CATI-R measures autistic traits fairly across genders and identifies potential differences in trait expression. Methods: To validat…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251392464",
-      "title": "The Experience of Autistic Professionals Working in Health and Education: A Systematic Review",
-      "authors": [
-        "Eleanor Curnow",
-        "Donald Maciver",
-        "Tamsin Meff",
-        "Joshua Muggleton",
-        "Lorna Johnston",
-        "Anna Gray",
-        "Helen Day",
-        "Marianthi Kourti",
-        "Izy Utley",
-        "Marion Rutherford"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-01-07",
-      "doi": "10.1177/25739581251392464",
-      "url": "https://doi.org/10.1177/25739581251392464",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Employment"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Inclusive health and education services require diverse professionals to inform service delivery, which meet the needs of a diverse population. There is a need to reduce inequalities in employment, and to develop neuro-affirming public services. This requires enhanced understanding of the challenges facing neurodivergent professionals, and solutions informed by lived experience. Methods: This systematic review explored peer-reviewed literature describing the training, recruitment, and employment experiences of autistic professionals working in health and education services. Researchers followed the Preferred Reporting Items for Systematic Review and Meta-Analysis guidelines. Researchers last searched databases, which included Medline, CINAHL, and PsycINFO, in October 2024. Eligible studies presented data describing the experiences of autistic health or education professionals in employment or training, published in English within the last 15 years. Researchers appraised study quality using the Mixed Methods Appraisal Tool. Researchers synthesized data using a narrative approach. The research team received funding from the Scottish Government. Researchers registered the…"
     }
   ]
 }
