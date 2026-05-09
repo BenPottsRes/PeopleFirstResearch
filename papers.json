@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T08:00:15Z",
+  "generated_at": "2026-05-09T08:13:15Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -110,6 +110,174 @@
       "abstract": "Objective: While individual nutrients have shown effects on inflammatory mechanisms, the effects of multinutrients (vitamins + minerals, antioxidants, and amino acids) on inflammation are unknown. We investigated whether 8 weeks of multinutrient supplementation, in a randomized controlled trial of 83 children with ADHD, would alter immune factors compared to placebo. Methods: Multiplex technology was used to measure 25 immune factors in blood samples collected at baseline and week 8. Immune factors were compared between multinutrient and placebo groups using the Mann-Whitney test. Linear mixed effects models evaluated immune factor change over time. To understand the functional relevance of the immune factors affected by multinutrient supplementation, pathway analysis was performed using the Database for Annotation, Visualization, and Integrated Discovery (DAVID) v6.7 Bioinformatics Resources. Results: Interleukin (IL)-5 and IL-13 levels differed following multinutrient supplementation versus placebo ( p = .005 and .03, respectively). IL-5 decreased by 1.3% in the multinutrient group (95% CI [−8.6%, 6.7%]) and increased by 17.5% in the placebo group (95% CI [6.9%, 29.2%]). IL-13 de…"
     },
     {
+      "id": "10.1108/aia-05-2025-0047",
+      "title": "Analysis of the impact of socio-demographic or clinical factors on wait times for neurodevelopmental assessments in children, across the Northwest",
+      "authors": [
+        "Christine Wee",
+        "Lisa Marie Thompson",
+        "Gwendolyn Cowley",
+        "Jasmine Jane Wood",
+        "Joanne Bradburn",
+        "Fiona Pender",
+        "Sujeet Jaydeokar"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-05-12",
+      "doi": "10.1108/aia-05-2025-0047",
+      "url": "https://doi.org/10.1108/aia-05-2025-0047",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Emergency care",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Purpose This study looked at the impact of socio- demographic factors on the waiting times for children and young people waiting for neurodevelopmental assessments in a region of England. Neurodevelopmental conditions are defined as Autism, ADHD, Foetal Alcohol spectrum disorder, Intellectual disability and Tics/Tourette’s 2019. This study aims to consider what influences wait times to manage demand. Design/methodology/approach This retrospective cohort study was conducted on all Children and Young People (CYP) (aged 0–19) in Cheshire and Merseyside between September 2021 and October 2023. Individual-level data on CYP was captured from routine health-care datasets from NHS Digital Emergency Care Data Sets (ECDS), Secondary Uses Services (SUS) and Mental Health Services Data Set (MHSDS). All data was processed in R (version 3.6.1) for statistical analysis. The relationship between referrals to mental health services, patient demographics and variables (as described above) was evaluated to determine potential risk factors on wait times and additional mental health planned and unplanned events. Findings Girls were found to be referred at a later age for neurodevelopmental assessmentco…"
+    },
+    {
+      "id": "10.1108/aia-07-2025-0076",
+      "title": "Mapping the age of autistic spectrum condition diagnosis, affected by sex and intellectual disability",
+      "authors": [
+        "Heather E. Burns",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-05-12",
+      "doi": "10.1108/aia-07-2025-0076",
+      "url": "https://doi.org/10.1108/aia-07-2025-0076",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Purpose Autism is a complex neurodevelopmental condition thought to affect 1 in 100 children globally. More commonly diagnosed in males, and during childhood, diagnoses are increasingly being made throughout adulthood. This study aims to establish what age autistic people receive their diagnosis, and whether the age of diagnosis was influenced by their sex and by the presence of intellectual disability. Design/methodology/approach A quantitative, cross-sectional, retrospective study. Data was collected from the Primary Care records of six GP Practices covering Ellesmere Port, a large town in Northwest England with 71,210 people registered. Mean age of diagnosis was calculated for the group then for each subgroup, to allow comparison between males and females, and those with and without a documented intellectual disability. Findings Data from 1,130 autistic participants were analysed. Age of participants was between 3 and 81 years with an age of autism diagnosis of 1–72 years. In total, 85.6% of participants were diagnosed with autism by the age of 25 years, most commonly at 3 years of age (11.9%). The average age of diagnosis was 2.48 years later for females diagnosed across the li…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1108/aia-05-2025-0040",
+      "title": "Metaphor comprehension in Jordanian–Arabic speaking children with ASD compared to typically developing children",
+      "authors": [
+        "Ghayda Mustafa",
+        "Aseel Zibin"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-05-12",
+      "doi": "10.1108/aia-05-2025-0040",
+      "url": "https://doi.org/10.1108/aia-05-2025-0040",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication"
+      ],
+      "abstract": "Purpose This study aims to investigate the comprehension of spatial, container and socio-cultural metaphors among Jordanian–Arabic speaking children with autism spectrum disorder (ASD) and typically developing (TD) children. Design/methodology/approach Thirty Jordanian–Arabic speaking children participated, divided into two groups: 15 TD children from a private school in Amman and 15 children with ASD from two autism centers. A 12-item multiple-choice test with dynamic pictures assessed metaphor comprehension. Results showed significant differences between the two groups across all metaphor types, with TD children outperforming those with ASD. Findings Both groups found container metaphors easiest, while socio-cultural metaphors were the most challenging. The study suggests TD children access a broader range of experiences, enhancing their metaphor comprehension through contextual and analogical reasoning. Children with ASD struggle with abstract thinking and social interaction, limiting their understanding of figurative language. Container metaphors were easier for both groups due to their clear physical boundaries, whereas socio-cultural metaphors were difficult, requiring comple…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1108/aia-10-2025-0102",
+      "title": "Invisible scaffolding: families as a hidden public health workforce in autism services in India",
+      "authors": [
+        "Shaoli Dutta"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-05-12",
+      "doi": "10.1108/aia-10-2025-0102",
+      "url": "https://doi.org/10.1108/aia-10-2025-0102",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "Purpose The purpose of this paper is to examine how families, particularly mothers, function as a hidden workforce in autism care systems struggling to meet demand. This paper highlights the risks of treating caregivers as substitutes for professional staff and underscores the need to recognise their contributions within inclusive practice. Design/methodology/approach This reflective essay draws on practice insights and field experiences of families navigating autism care. This study interprets how unpaid caregiving becomes central to sustaining children’s progress when formal services are unavailable or inaccessible. Findings Caregivers sustain essential continuity of care but at significant personal cost. Mothers frequently reduce or leave employment, leading to financial strain, emotional burnout and social isolation. These burdens remain largely invisible to practitioners and policymakers, yet they directly affect the sustainability of inclusive systems. Practical implications For practitioners and policymakers, inclusive practice requires acknowledging caregiver labour, providing structured training and emotional support and defining limits to what unpaid caregiving can sustai…"
+    },
+    {
+      "id": "10.1108/aia-05-2025-0045",
+      "title": "Exploring the impact of technology-based interventions on the mental health of children with autism",
+      "authors": [
+        "Leona Cilar Budler",
+        "Vanesa Kovac"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-05-12",
+      "doi": "10.1108/aia-05-2025-0045",
+      "url": "https://doi.org/10.1108/aia-05-2025-0045",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Purpose Children with autism spectrum disorder (ASD) frequently experience mental health challenges, including anxiety, emotional dysregulation and difficulties in social interactions. This study aims to explore the effectiveness of technology-based interventions, such as mobile applications, virtual reality, serious games and telehealth programs, in improving the mental well-being of children with ASD. Design/methodology/approach A comprehensive literature search was conducted across PubMed, CINAHL and the Cochrane Library, adhering to the preferred reporting items for systematic reviews and meta-analyses framework to ensure methodological rigor. Findings The findings indicate that digital interventions can significantly reduce anxiety, enhance emotional regulation and promote social engagement. However, inconsistencies in study designs, small sample sizes and limited longitudinal research highlight the need for further investigation. Originality/value This review underscores the potential of digital technologies as accessible and scalable therapeutic tools while emphasizing the necessity of standardized guidelines to optimize their implementation in clinical and educational setti…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07350-z",
+      "title": "The Protective Role of Trait Mindfulness Against Affiliate Stigma among Parents of Children With Neurodevelopmental Disorders: A Serial Mediation of Perceived Problem Behaviors and Parenting Stress",
+      "authors": [
+        "Ziwei Chen",
+        "Ying Zhao",
+        "Zhanhong Xiao",
+        "Yongning Song"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-09",
+      "doi": "10.1007/s10803-026-07350-z",
+      "url": "https://doi.org/10.1007/s10803-026-07350-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
+      "id": "10.1007/s40489-026-00560-2",
+      "title": "Care Burden in Caregivers of Children with Autism Spectrum Disorder Based on Zarit Burden Interview (ZBI) Questionnaire: A Systematic Review and Meta-analysis",
+      "authors": [
+        "Nader Salari",
+        "Reza Abdollahi",
+        "Reza Nematollahi Maleki",
+        "Amir Abdolmaleki",
+        "Shabnam Rasoulpoor",
+        "Mahan Beiromvand",
+        "Masoud Mohammadi"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-09",
+      "doi": "10.1007/s40489-026-00560-2",
+      "url": "https://doi.org/10.1007/s40489-026-00560-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1007/s10803-026-07315-2",
       "title": "Cognitive Empathy, Affective Empathy and Empirical Research on the Double Empathy Problem: A Critical Methodology Review",
       "authors": [
@@ -127,6 +295,118 @@
         "Communication"
       ],
       "abstract": "Abstract Purpose The double empathy problem posits that autistic people and non-autistic people both lack empathy with the other side rather than the lack of empathy solely residing in one side. There have been empirical studies which lend support for the double empathy problem. I show that these studies are largely not engaging with cognitive nor affective empathy. Methods Twenty different papers are assessed on measurement made, set-up of the interaction employed and duration of the interaction to establish whether the evidence those studies generate is applicable to cognitive and affective empathy. Results Firstly the experimental measures in these studies are largely not making measurements that would detect cognitive or affective empathy. Secondly, many use setups which do not encourage or are not conducive towards cognitive or affective empathy occurring. Thirdly, many involve a short period of interaction for cognitive or affective empathy to occur. Conclusion These studies are largely not generating data about whether the double empathy problem is applicable to cognitive or affective empathy. Which aspects of empathy the evidence supporting the double empathy problem is rel…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261446876",
+      "title": "Extending the Minority Stress Model of Autism: Internalized Stigma and Loneliness as Predictors of Stress and Life Satisfaction",
+      "authors": [
+        "Alvin van Asselt",
+        "Yvette Roke",
+        "Sander Begeer",
+        "Anke M Scheeren"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-08",
+      "doi": "10.1177/13623613261446876",
+      "url": "https://doi.org/10.1177/13623613261446876",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Autistic people’s minority status makes them more vulnerable to minority stressors, such as stigmatization and victimization, which are linked to greater stress and lower life satisfaction. The Psychological Mediation Framework (PMF) proposes that cognitive, affective, and social-psychological processes help explain the relationships between these stressors and adverse outcomes. This cross-sectional study tested the PMF in autistic adults by examining how two of its key processes, internalized stigma and loneliness, are associated with stress and life satisfaction. Using self-report survey data from 831 autistic participants enrolled in the Netherlands Autism Register (NAR), aged 18–87 years ( M age = 47.5; SD = 12.5; 408 women, 309 men, and 114 gender-diverse individuals), multiple regression analyses showed that internalized autism-related stigma, emotional loneliness, and social loneliness were each positively associated with stress and negatively associated with life satisfaction. Mediation analyses indicated that both types of loneliness partially mediated the relationship between internalized autism-related stigma and these outcomes. Supporting the PMF, the findings suggest t…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/1034912x.2026.2667966",
+      "title": "Awareness Level of Teachers of Students with Autism Spectrum Disorder of the Video Modelling Strategy in Saudi Arabia",
+      "authors": [
+        "Reda Ebrahim Mohamed Elashram"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-05-08",
+      "doi": "10.1080/1034912x.2026.2667966",
+      "url": "https://doi.org/10.1080/1034912x.2026.2667966",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/1034912x.2026.2666512",
+      "title": "Not Looking Away: Using “Gaze Fingerprints” from Virtual Reality Environments to Understand Visual Behavior towards Social Threats of Students with Autism Spectrum Disorder on College Campus",
+      "authors": [
+        "Cedomir Stanojevic",
+        "Casey Bennett",
+        "Swetha Manupati",
+        "Yuan Shuai",
+        "Sai Moothkuri",
+        "Nikki Abbott",
+        "Fu Li",
+        "Andrew Murphy",
+        "Farwah Zaidi"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-05-08",
+      "doi": "10.1080/1034912x.2026.2666512",
+      "url": "https://doi.org/10.1080/1034912x.2026.2666512",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/1034912x.2026.2667971",
+      "title": "“Unwritten Rules are Everywhere”: Autistic Adults’ Social Experiences in the Transition to Adulthood",
+      "authors": [
+        "Samara M. Wolpe",
+        "Ingrid S. Tien"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-05-08",
+      "doi": "10.1080/1034912x.2026.2667971",
+      "url": "https://doi.org/10.1080/1034912x.2026.2667971",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1186/s11689-026-09704-1",
+      "title": "Emotion regulation and self-inhibition’s association with mental health outcomes, caregiver strain, and well-being in parents of autistic children: a dyadic analysis",
+      "authors": [
+        "Leonardo Dominguez Ortega",
+        "Alexandra Sturm",
+        "Meghan M. Krushena",
+        "Amanda C. Gulsrud"
+      ],
+      "journal": "Journal of Neurodevelopmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-08",
+      "doi": "10.1186/s11689-026-09704-1",
+      "url": "https://doi.org/10.1186/s11689-026-09704-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Abstract Background Parents of autistic children report more depression, anxiety, and caregiver strain, and poorer well-being than parents of non-autistic children. Though more research has begun to investigate how parent-specific factors may influence these outcomes, few consider cognitive factors like emotion regulation or self-inhibition. These skills may be particularly relevant given their documented benefits and associations with mental health and well-being in the general population. An important consideration when investigating the needs of parents is the interconnectedness of the family unit. Thus, methodologies that consider this shared context are essential to appropriately support resilience of parents of autistic children. Methods Our sample consisted of 263 different-sex parent dyads with at least one child formally diagnosed with autism spectrum disorder. Using the Actor-Partner Interdependence Model, we assessed the links between parents’ emotion regulation and self-inhibition and their own and their partner’s depression and anxiety symptoms, caregiver strain, and well-being. Interdependence was established using correlations given the distinguishable nature of our…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -5053,34 +5333,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-05-2025-0047",
-      "title": "Analysis of the impact of socio-demographic or clinical factors on wait times for neurodevelopmental assessments in children, across the Northwest",
-      "authors": [
-        "Christine Wee",
-        "Lisa Marie Thompson",
-        "Gwendolyn Cowley",
-        "Jasmine Jane Wood",
-        "Joanne Bradburn",
-        "Fiona Pender",
-        "Sujeet Jaydeokar"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-03-25",
-      "doi": "10.1108/aia-05-2025-0047",
-      "url": "https://doi.org/10.1108/aia-05-2025-0047",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Emergency care",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Purpose This study looked at the impact of socio- demographic factors on the waiting times for children and young people waiting for neurodevelopmental assessments in a region of England. Neurodevelopmental conditions are defined as Autism, ADHD, Foetal Alcohol spectrum disorder, Intellectual disability and Tics/Tourette’s 2019. This study aims to consider what influences wait times to manage demand. Design/methodology/approach This retrospective cohort study was conducted on all Children and Young People (CYP) (aged 0–19) in Cheshire and Merseyside between September 2021 and October 2023. Individual-level data on CYP was captured from routine health-care datasets from NHS Digital Emergency Care Data Sets (ECDS), Secondary Uses Services (SUS) and Mental Health Services Data Set (MHSDS). All data was processed in R (version 3.6.1) for statistical analysis. The relationship between referrals to mental health services, patient demographics and variables (as described above) was evaluated to determine potential risk factors on wait times and additional mental health planned and unplanned events. Findings Girls were found to be referred at a later age for neurodevelopmental assessmentco…"
-    },
-    {
       "id": "10.1002/aur.70236",
       "title": "Language and Repetition Performance in Autism Spectrum Disorder Versus Developmental Language Disorder: Evidence From Turkish‐Speaking Children",
       "authors": [
@@ -7705,28 +7957,6 @@
       ]
     },
     {
-      "id": "10.1108/aia-07-2025-0076",
-      "title": "Mapping the age of autistic spectrum condition diagnosis, affected by sex and intellectual disability",
-      "authors": [
-        "Heather E. Burns",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-18",
-      "doi": "10.1108/aia-07-2025-0076",
-      "url": "https://doi.org/10.1108/aia-07-2025-0076",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Purpose Autism is a complex neurodevelopmental condition thought to affect 1 in 100 children globally. More commonly diagnosed in males, and during childhood, diagnoses are increasingly being made throughout adulthood. This study aims to establish what age autistic people receive their diagnosis, and whether the age of diagnosis was influenced by their sex and by the presence of intellectual disability. Design/methodology/approach A quantitative, cross-sectional, retrospective study. Data was collected from the Primary Care records of six GP Practices covering Ellesmere Port, a large town in Northwest England with 71,210 people registered. Mean age of diagnosis was calculated for the group then for each subgroup, to allow comparison between males and females, and those with and without a documented intellectual disability. Findings Data from 1,130 autistic participants were analysed. Age of participants was between 3 and 81 years with an age of autism diagnosis of 1–72 years. In total, 85.6% of participants were diagnosed with autism by the age of 25 years, most commonly at 3 years of age (11.9%). The average age of diagnosis was 2.48 years later for females diagnosed across the li…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07234-2",
       "title": "Brief Report: Psychological Flexibility, Perceived Stress and Emotion Regulation in Transitional-Age Youth (TAY) With Autism Spectrum Disorder (ASD)",
       "authors": [
@@ -8007,33 +8237,6 @@
       ],
       "abstract": "Background: Autistic adults experience disproportionately high rates of depression, yet Diagnostic and Statistical Manual of Mental Disorders , 5th ed., text rev. (DSM-5-TR ) diagnostic criterion descriptions may not fully reflect their lived experiences, impacting opportunities for identification and support. Autism-related differences, such as alexithymia, interoception, cognitive styles, and sensory processing, may influence how autistic adults perceive, experience, and describe depression. This study examines whether autistic adults’ descriptions of depressive symptoms align with, or diverge from, DSM-5-TR criteria descriptions, to inform more accurate diagnostic practices. Methods: We conducted an exploratory qualitative study with 109 autistic adults and 13 caregivers, who reported on the autistic adult they support. Participants described depressive symptoms relative to their typical autistic baseline via an online survey ( n = 112) or semi-structured interview ( n = 10). Using direct content analysis, we identified symptoms consistent with DSM-5-TR symptom descriptions, and through inductive analysis, we identified additional features outside DSM-5-TR criteria. Results: Par…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-05-2025-0040",
-      "title": "Metaphor comprehension in Jordanian–Arabic speaking children with ASD compared to typically developing children",
-      "authors": [
-        "Ghayda Mustafa",
-        "Aseel Zibin"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-12",
-      "doi": "10.1108/aia-05-2025-0040",
-      "url": "https://doi.org/10.1108/aia-05-2025-0040",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "communication"
-      ],
-      "abstract": "Purpose This study aims to investigate the comprehension of spatial, container and socio-cultural metaphors among Jordanian–Arabic speaking children with autism spectrum disorder (ASD) and typically developing (TD) children. Design/methodology/approach Thirty Jordanian–Arabic speaking children participated, divided into two groups: 15 TD children from a private school in Amman and 15 children with ASD from two autism centers. A 12-item multiple-choice test with dynamic pictures assessed metaphor comprehension. Results showed significant differences between the two groups across all metaphor types, with TD children outperforming those with ASD. Findings Both groups found container metaphors easiest, while socio-cultural metaphors were the most challenging. The study suggests TD children access a broader range of experiences, enhancing their metaphor comprehension through contextual and analogical reasoning. Children with ASD struggle with abstract thinking and social interaction, limiting their understanding of figurative language. Container metaphors were easier for both groups due to their clear physical boundaries, whereas socio-cultural metaphors were difficult, requiring comple…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/10870547261419885",
@@ -9388,57 +9591,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70164",
-      "title": "The Impact of Inclusive Education Practices on Students With\n                    <scp>ASD</scp>\n                    'S Outcomes: Report From the\n                    <scp>ELENA</scp>\n                    French Cohort Study",
-      "authors": [
-        "Cécile Rattaz",
-        "Marianne Peries",
-        "Andrew Pickles",
-        "Amaria Baghdadli"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1002/aur.70164",
-      "url": "https://doi.org/10.1002/aur.70164",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Inclusive education is largely promoted in the field of autism spectrum disorders (ASD), but scientific and empiric studies about the impact of school inclusion on the children's outcome are lacking. We studied the effect of the type of inclusion (regular classroom vs. special education classroom) in a sample of 356 children with ASD over a three‐years period. Results first showed that, when comparing both groups at baseline, children in special education classes were older, had a higher level of challenging behaviors and came from lower socioeconomic status families. Once matched through propensity score, children in special classrooms had significantly lower communication and daily living skills than children in ordinary classrooms after 3 years, whereas there was no significant difference in socialization skills and in IQ. Overall, placement in a regular education classroom was positive for most children, however there is a high inter‐individual variability and it is very unlikely that inclusive settings are by default superior for all children with special needs. These results, emphasizing the crucial role of the mainstream milieu, cannot be considered definitive and f…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70161",
-      "title": "Measurement Invariance of the\n                    <scp>PROMIS</scp>\n                    Family Relationships Scale Among Autistic and General Population Adolescents",
-      "authors": [
-        "Rachel M. Benecke",
-        "Zachary J. Williams",
-        "Laura Graham Holmes",
-        "Judith S. Miller",
-        "Elizabeth A. Kaplan‐Kahn"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1002/aur.70161",
-      "url": "https://doi.org/10.1002/aur.70161",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "ABSTRACT Social relationships are a key component of quality of life, a high‐priority outcome for autistic people, and family relationships are critical in adolescence. The PROMIS Family Relationships scale has been well validated for use with the general population, but psychometric validation in the autistic population is lacking. This study investigated measurement invariance of the PROMIS Family Relationships among autistic and general population adolescents. The scale demonstrated scalar invariance between the groups, providing evidence that it measures the same construct equivalently and scores can be meaningfully compared between groups. With a well‐validated self‐report measure, researchers can ask autistic teens directly about their experiences of their family relationships, rather than relying solely on parent proxy report.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07233-3",
       "title": "Antipsychotic Drug Prescriptions for Transition-Age Youth on the Autism Spectrum",
       "authors": [
@@ -10533,25 +10685,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-10-2025-0102",
-      "title": "Invisible scaffolding: families as a hidden public health workforce in autism services in India",
-      "authors": [
-        "Shaoli Dutta"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-12",
-      "doi": "10.1108/aia-10-2025-0102",
-      "url": "https://doi.org/10.1108/aia-10-2025-0102",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "Purpose The purpose of this paper is to examine how families, particularly mothers, function as a hidden workforce in autism care systems struggling to meet demand. This paper highlights the risks of treating caregivers as substitutes for professional staff and underscores the need to recognise their contributions within inclusive practice. Design/methodology/approach This reflective essay draws on practice insights and field experiences of families navigating autism care. This study interprets how unpaid caregiving becomes central to sustaining children’s progress when formal services are unavailable or inaccessible. Findings Caregivers sustain essential continuity of care but at significant personal cost. Mothers frequently reduce or leave employment, leading to financial strain, emotional burnout and social isolation. These burdens remain largely invisible to practitioners and policymakers, yet they directly affect the sustainability of inclusive systems. Practical implications For practitioners and policymakers, inclusive practice requires acknowledging caregiver labour, providing structured training and emotional support and defining limits to what unpaid caregiving can sustai…"
-    },
-    {
       "id": "10.1002/aur.70176",
       "title": "Why We Need to Study Assisted Methods to Teach Typing to Nonspeaking Autistic People",
       "authors": [
@@ -10775,56 +10908,6 @@
       ],
       "abstract": "Abstract Purpose Applied behavioral analysis is the most common intervention for autistic children. It has long been proposed that more hours per week in ABA produce better outcomes. ABA practice guidelines typically recommend 30–40 h per week for young autistic children. While some studies support a dosage effect, other studies find no predictive relationship between ABA treatment hours and a range of child outcomes. Thus, the dosage question remains open, leaving parents and providers unsure of the ideal dosage of ABA for an autistic child to make meaningful progress. Real world data (RWD) can fill the gap between community treatment and controlled research often conducted by universities. Methods In this study, we examined the RWD data from 725 autistic children receiving ABA as part of community-based care. Using longitudinal multilevel modeling, we examined the relationship between average hours of ABA per month and change on proximal and distal measures: adaptive behavior, goal attainment, and dangerous behavior. Results Dosage was a significant predictor of goal attainment, indicating that clients who spent more time in treatment met more goals. Conversely, the relationship…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-05-2025-0045",
-      "title": "Exploring the impact of technology-based interventions on the mental health of children with autism",
-      "authors": [
-        "Leona Cilar Budler",
-        "Vanesa Kovac"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-01-09",
-      "doi": "10.1108/aia-05-2025-0045",
-      "url": "https://doi.org/10.1108/aia-05-2025-0045",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "Purpose Children with autism spectrum disorder (ASD) frequently experience mental health challenges, including anxiety, emotional dysregulation and difficulties in social interactions. This study aims to explore the effectiveness of technology-based interventions, such as mobile applications, virtual reality, serious games and telehealth programs, in improving the mental well-being of children with ASD. Design/methodology/approach A comprehensive literature search was conducted across PubMed, CINAHL and the Cochrane Library, adhering to the preferred reporting items for systematic reviews and meta-analyses framework to ensure methodological rigor. Findings The findings indicate that digital interventions can significantly reduce anxiety, enhance emotional regulation and promote social engagement. However, inconsistencies in study designs, small sample sizes and limited longitudinal research highlight the need for further investigation. Originality/value This review underscores the potential of digital technologies as accessible and scalable therapeutic tools while emphasizing the necessity of standardized guidelines to optimize their implementation in clinical and educational setti…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/10870547251408128",
-      "title": "Social Skills and Emotion Recognition in Children With Elevated Cognitive Disengagement Syndrome Symptoms: A Comparative Study With Children Diagnosed With ADHD and Typically Developing Peers",
-      "authors": [
-        "Utku Kaçmaz",
-        "Nagihan Cevher Binici",
-        "Eyüp Sabri Ercan",
-        "Fatma Sibel Durak",
-        "Ali Evren Tufan"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-08",
-      "doi": "10.1177/10870547251408128",
-      "url": "https://doi.org/10.1177/10870547251408128",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "abstract": "Objective: Cognitive Disengagement Syndrome (CDS) is increasingly viewed as a distinct childhood condition. Although it overlaps with ADHD in some features, emerging evidence suggests a unique behavioral and cognitive profile. However, research examining social functioning and emotion recognition in children with pure CDS remains limited. Methods: This study compared social competence and facial emotion recognition abilities among children aged 8 to 12 years across three groups: those with elevated CDS symptoms (n = 43), those with ADHD (n = 40), and healthy controls (n = 43). Social functioning and peer relationships were evaluated using parent- and child-report social skills scales and peer interaction questionnaires. Emotion recognition was measured with the Reading the Mind in the Eyes Test (RMET). Results: Children with CDS showed significantly lower social skills and RMET scores than both ADHD and control groups (p &lt; .001). Teachers reported fewer school friendships for the CDS group compared to ADHD and controls (p &lt; .001), and CDS children also reported fewer out-of-school friendships than peers in the other groups (p = .035). Both child and teacher reports noted grea…"
     }
   ]
 }
