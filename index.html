@@ -36,7 +36,7 @@
       </div>
 
       <div class="hero-card">
-        <p class="lead">Autistic and ADHD people are commonly the subjects of research, in which the vast majority treats neurodivergence as a problem to be solved, focusing on causes, genetics and “cures”. <strong>This website was created to oppose this.</strong><br><br>There’s a wave of neurodivergent-led research and examples of studies carried out in collaboration with neurodivergent people. This work centres on what neurodivergent people want and need, and improving neurodivergent lives. This webpage seeks to highlight this research.<br><a href="#about" onclick="document.getElementById('techDetails').open=true;">See technical details at the bottom of the page ↓</a>
+        <p class="lead">Autistic and ADHD people are commonly the subjects of research, in which the vast majority treats neurodivergence as a problem to be solved, focusing on causes, genetics and "cures". <strong>This website was created to oppose this.</strong><br><br>There's a wave of neurodivergent-led research and examples of studies carried out in collaboration with neurodivergent people. This work centres on what neurodivergent people want and need, and improving neurodivergent lives. This webpage seeks to highlight this research.<br><a href="#about" onclick="document.getElementById('techDetails').open=true;">See technical details below ↓</a></p>
 
         <div class="info-cols">
           <div class="info-col">
@@ -81,14 +81,12 @@
         </div>
       </div>
 
-         <div class="controls" role="region" aria-label="Search and filter papers">
-      
-        <!-- Domain quick buttons (hard-coded) -->
+      <div class="controls" role="region" aria-label="Search and filter papers">
+
         <div class="quick-wrap">
           <span class="label">Research Focus</span>
           <div id="domainQuick" class="quick-row" role="group" aria-label="Domain focus buttons">
             <button type="button" class="chip-btn" data-domain="All" aria-pressed="true">All</button>
-      
             <button type="button" class="chip-btn" data-domain="Education and learning">Education and learning</button>
             <button type="button" class="chip-btn" data-domain="Work and employment">Work and employment</button>
             <button type="button" class="chip-btn" data-domain="Housing and built environment">Housing and built environment</button>
@@ -100,29 +98,26 @@
           </div>
           <div id="domainEmptyNote" class="muted" style="margin-top:6px;"></div>
         </div>
-      
-        <!-- Search -->
+
         <div class="search-wrap">
           <label class="label" for="search">Search</label>
           <input id="search" type="text" placeholder="Search titles, journals, authors, tags and focus" autocomplete="off" />
         </div>
-      
-        <!-- Hidden domain select kept for JS state (not shown to users) -->
+
         <div class="select-wrap hidden" aria-hidden="true" hidden style="display:none;">
           <label class="label" for="domain">Domain</label>
           <select id="domain">
             <option value="All">All</option>
           </select>
         </div>
-      
-        <!-- Other filters kept visible -->
+
         <div class="select-wrap">
           <label class="label" for="neurotype">Neurotype</label>
           <select id="neurotype">
             <option value="All">All</option>
           </select>
         </div>
-      
+
         <div class="select-wrap">
           <label class="label" for="framing">
             Language framing
@@ -152,7 +147,7 @@
             <option value="journal_asc">Journal (A to Z)</option>
           </select>
         </div>
-      
+
         <div class="select-wrap">
           <label class="label" for="pageSize">Papers shown</label>
           <select id="pageSize">
@@ -162,7 +157,7 @@
             <option value="100">100</option>
           </select>
         </div>
-      
+
         <div class="controls-actions">
           <button class="btn btn-secondary" id="resetBtn" type="button">Reset</button>
           <button class="btn btn-ghost" id="toggleAbstracts" type="button">Show abstracts</button>
@@ -187,7 +182,7 @@
         <div class="details-body">
           <p class="muted">Papers are retrieved daily from 15 curated journals via the Crossref API. Each paper is screened automatically: it must mention autism, ADHD, or neurodivergence, and must contain person-focused terms (lived experience, quality of life, access, services, outcomes). Papers focused primarily on genetics, neuroimaging, biomarkers, or animal models are excluded.</p>
           <p class="muted">Topic tags, neurotype tags, and <a href="#" data-modal="framing">language framing tags</a> are assigned automatically and are descriptive only. Articles are not manually reviewed. Inclusion does not imply endorsement.</p>
-          <p class="muted">The search strategy is open and always seeking to improve. <a href="https://github.com/BenPottsRes/PeopleFirstResearch" target="_blank">View the code on GitHub</a>.</p>
+          <p class="muted">The search strategy is open and improvable. <a href="https://github.com/BenPottsRes/PeopleFirstResearch" target="_blank">View the code on GitHub</a>.</p>
         </div>
       </details>
     </section>
@@ -244,7 +239,7 @@
         const papers = Array.isArray(data.papers) ? data.papers : [];
         const generatedAt = data.generated_at || null;
         const sourceSummary = data.source_summary || null;
-        
+
         let activeDomain = "All";
 
         const DOMAIN_ALIASES = {
@@ -257,7 +252,7 @@
           "Policy and public services": ["Service design", "Policy", "Public services"],
           "Healthcare": ["Healthcare", "Mental health", "Emergency care", "Sensory environment", "Communication"]
         };
-  
+
         const papersEl = document.getElementById("papers");
         const searchEl = document.getElementById("search");
         const neuroEl = document.getElementById("neurotype");
@@ -279,48 +274,56 @@
         let showAbstracts = false;
         let currentPage = 1;
 
-        function setupDomainButtons(allPapers) {
+        function setDomainPressed(active) {
+          const wrap = document.getElementById("domainQuick");
+          if (!wrap) return;
+          Array.from(wrap.querySelectorAll("button[data-domain]")).forEach(b => {
+            b.setAttribute("aria-pressed", b.dataset.domain === active ? "true" : "false");
+          });
+        }
+
+        function updateDomainCounts(papers) {
           const wrap = document.getElementById("domainQuick");
           if (!wrap) return;
           const counts = {};
           Object.keys(DOMAIN_ALIASES).forEach(k => (counts[k] = 0));
-          allPapers.forEach(p => {
+          papers.forEach(p => {
             const paperDomains = Array.isArray(p.domains) ? p.domains : [];
             Object.entries(DOMAIN_ALIASES).forEach(([buttonDomain, aliases]) => {
               if (aliases.some(a => paperDomains.includes(a))) counts[buttonDomain] += 1;
             });
           });
-          const btns = Array.from(wrap.querySelectorAll("button[data-domain]"));
-          function setPressed(active) {
-            btns.forEach(b => b.setAttribute("aria-pressed", b.dataset.domain === active ? "true" : "false"));
-          }
-          btns.forEach(btn => {
+          Array.from(wrap.querySelectorAll("button[data-domain]")).forEach(btn => {
             const domain = btn.dataset.domain;
-            if (!domain) return;
-            if (domain === "All") { btn.disabled = false; btn.title = "Show all domains"; return; }
+            if (!domain || domain === "All") return;
             const n = counts[domain] || 0;
             const baseLabel = btn.textContent.replace(/\s*\(\d+\)\s*$/, "");
             btn.textContent = `${baseLabel} (${n})`;
             btn.disabled = n === 0;
             btn.title = n === 0 ? "No papers currently surfaced for this domain" : `Show ${domain} papers`;
           });
-          btns.forEach(btn => {
+        }
+
+        function setupDomainButtons() {
+          const wrap = document.getElementById("domainQuick");
+          if (!wrap) return;
+          Array.from(wrap.querySelectorAll("button[data-domain]")).forEach(btn => {
             btn.addEventListener("click", () => {
               const dom = btn.dataset.domain;
               if (!dom) return;
               activeDomain = dom;
               currentPage = 1;
               applyFilters();
-              setPressed(dom);
+              setDomainPressed(dom);
             });
           });
-          setPressed(activeDomain || "All");
+          setDomainPressed(activeDomain || "All");
         }
-      
+
         const neurotypes = uniq(papers.flatMap(p => (p.neurotype || [])));
         const domains = uniq(papers.flatMap(p => (p.domains || [])));
         const framings = uniq(papers.map(p => p.framing).filter(Boolean));
-        
+
         framings.sort((a, b) => a.localeCompare(b)).forEach(f => {
           const opt = document.createElement("option");
           opt.value = f; opt.textContent = f;
@@ -354,9 +357,9 @@
         }
 
         const baseList = [...papers];
-        setupDomainButtons(baseList);
+        setupDomainButtons();
         applyFilters();
-        
+
         function updateOrderHint() {
           const map = {
             date_desc: "Ordered by publish date (newest first).",
@@ -435,10 +438,14 @@
           const n = neuroEl.value;
           const d = activeDomain;
           const f = framingEl.value;
+
           const days = parseInt(dateRangeEl.value, 10);
           const cutoff = days > 0 ? Date.now() - days * 24 * 60 * 60 * 1000 : 0;
 
-          const filtered = baseList.filter(p => {
+          const dateFiltered = cutoff === 0 ? baseList : baseList.filter(p => parseDateForSort(p) >= cutoff);
+          updateDomainCounts(dateFiltered);
+
+          const filtered = dateFiltered.filter(p => {
             const hay = normalise([p.title, p.journal, safeAuthors(p.authors), (p.tags || []).join(" "), (p.domains || []).join(" ")].join(" "));
             const matchQ = !q || hay.includes(q);
             const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
@@ -448,10 +455,9 @@
               return aliases.some(a => paperDomains.includes(a));
             })();
             const matchF = (f === "All") || (p.framing === f);
-            const matchDate = cutoff === 0 || parseDateForSort(p) >= cutoff;
-            return matchQ && matchN && matchD && matchF && matchDate;
+            return matchQ && matchN && matchD && matchF;
           });
-        
+
           const sorted = applySort(filtered);
           updateOrderHint();
           const pageSize = parseInt(pageSizeEl.value, 10) || 20;
@@ -487,7 +493,8 @@
           searchEl.value = ""; neuroEl.value = "All"; framingEl.value = "All";
           sortOrderEl.value = "date_desc"; pageSizeEl.value = "10"; dateRangeEl.value = "14";
           activeDomain = "All"; currentPage = 1;
-          setupDomainButtons(baseList); applyFilters();
+          setDomainPressed("All");
+          applyFilters();
         });
 
         toggleAbsBtn.addEventListener("click", () => {
