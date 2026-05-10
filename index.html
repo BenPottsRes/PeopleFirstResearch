@@ -31,19 +31,40 @@
           </div>
         </div>
         <div class="hero-actions">
-          <a class="btn btn-secondary" href="#latest">View latest papers</a>
-          <a class="btn btn-ghost" href="#about">About this page</a>
+          <a class="btn btn-secondary" href="#latest">Search papers</a>
         </div>
       </div>
 
       <div class="hero-card">
-        <p class="lead"><strong>This page exists to centre people.</strong></p>
-        <p class="muted">
-        Autistic, ADHD and AuDHD people are frequently the subject of research, yet much of this work continues to prioritise deficit, pathology, or the pursuit of normalisation or cure. This often overlooks the everyday experiences of neurodivergent people, including living, accessing services, communicating, learning, working, and achieving a meaningful quality of life. <strong>NeuroPeople</strong> curates research that centres lived experience and adopts neurodiversity-informed approaches, prioritising work grounded in real-world needs, access, equity, and improved outcomes.
-        </p>
-        <p class="lead">
-          <strong>This page highlights peer-reviewed research that aims to understand and improve people’s lives.</strong>
-        </p>
+        <p class="lead">Autistic and ADHD people are commonly the subjects of research, in which the vast majority treats neurodivergence as a problem to be solved, focusing on causes, genetics and “cures”. <strong>This website was created to oppose this.</strong><br><br>There’s a wave of neurodivergent-led research and examples of studies carried out in collaboration with neurodivergent people. This work centres on what neurodivergent people want and need, and improving neurodivergent lives. This webpage seeks to highlight this research.<br><a href="#about">See technical details below ↓</a></p>
+
+        <div class="info-cols">
+          <div class="info-col">
+            <p class="info-heading">What's included</p>
+            <ul>
+              <li>Lived experience, quality of life, and wellbeing</li>
+              <li>Access to healthcare, education, employment, and housing</li>
+              <li>Person-centred supports and real-world outcomes</li>
+              <li>Participatory and co-produced approaches</li>
+            </ul>
+          </div>
+          <div class="info-col">
+            <p class="info-heading">What's not included</p>
+            <ul>
+              <li>Genetics, biomarkers, and neuroimaging studies</li>
+              <li>Animal models and pre-clinical research</li>
+              <li>Deficit or cure framing without lived-experience relevance</li>
+            </ul>
+          </div>
+          <div class="info-col">
+            <p class="info-heading">How it works</p>
+            <ul>
+              <li>15 curated journals checked automatically every morning</li>
+              <li>Papers filtered against people-centred inclusion criteria</li>
+              <li>Each paper tagged by topic, neurotype, and language style</li>
+            </ul>
+          </div>
+        </div>
 
         <div class="meta-row" id="metaRow" aria-live="polite"></div>
       </div>
@@ -54,7 +75,7 @@
     <section id="latest" class="section">
       <div class="section-head">
         <div>
-          <h2>Today's Search Results</h2>
+          <h2>Research papers</h2>
           <p class="muted" id="countLine">Loading papers…</p>
           <p class="muted" id="orderHint">Ordered by publish date (newest first).</p>
         </div>
@@ -111,7 +132,17 @@
             <option value="All">All</option>
           </select>
         </div>
-      
+
+        <div class="select-wrap">
+          <label class="label" for="dateRange">Time period</label>
+          <select id="dateRange">
+            <option value="14" selected>Last 14 days</option>
+            <option value="30">Last 30 days</option>
+            <option value="90">Last 90 days</option>
+            <option value="0">All time</option>
+          </select>
+        </div>
+
         <div class="select-wrap">
           <label class="label" for="sortOrder">Order by</label>
           <select id="sortOrder">
@@ -140,7 +171,6 @@
 
       <div id="papers" class="papers" aria-live="polite"></div>
 
-      <!-- NEW: pager -->
       <div class="pager" id="pager" aria-label="Pagination controls" style="display:none;">
         <button class="btn btn-ghost" id="prevPage" type="button">Previous</button>
         <span class="muted" id="pageInfo"></span>
@@ -149,98 +179,17 @@
     </section>
 
     <section id="about" class="section">
-      <details class="details" open>
+      <details class="details">
         <summary>
-          <span>ABOUT</span>
-          <span class="muted">Purpose, ethos, scope, and selection criteria</span>
+          <span>Technical details</span>
+          <span class="muted">How the automated selection works</span>
         </summary>
-
         <div class="details-body">
-          <div class="grid">
-            <div class="card">
-              <h3>What this page includes</h3>
-              <ul>
-              Research centred on:<br>
-                <li>lived experience, quality of life, wellbeing, participation, and equity</li>
-                <li>Access to services and environments, including healthcare, education, employment, housing, and community support</li>
-                <li>Communication, sensory experience, and person-centred practice</li>
-                <li>Service design, service improvement, and accessible pathways of care</li>
-                <li>Supports, adjustments, or interventions with meaningful real-world outcomes</li>
-                <li>Participatory, co-produced, and neurodiversity-informed research approaches</li>
-              </ul>
-            </div>
-            <div class="card">
-              <h3>What this page does not include</h3>
-              <ul>
-                <li>Genetic, molecular, or biochemical mechanisms as the primary focus</li>
-                <li>Neuroimaging or biomarker discovery as the primary focus</li>
-                <li>Animal models or pre-clinical studies</li>
-                <li>Work primarily framed around deficit, normalisation, or cure without clear relevance to lived experience, access, or equity</li>
-              </ul>
-            </div>
-            <div class="card wide">
-              <h3>How the research is selected</h3>
-              
-              <p class="muted">
-                This page is updated using an automated process that monitors selected journals and applies transparent inclusion and exclusion criteria to prioritise people-centred, lived-experience research, including work that is relevant to access, equity, and real-world outcomes. The process may miss some relevant work and may include borderline cases.
-              </p>
-              
-              <p class="muted">
-                Articles are not manually checked. Therefore, inclusion does not imply endorsement of methods, conclusions, language, or framing.
-              </p>
-              
-              <p class="muted">
-                This page also includes <a href="#" class="modal-link" data-modal="framing">language framing tags</a>. These indicate the language used in article titles and abstracts (for example, identity-first or person-first language) and are generated automatically. They reflect wording only and do not represent judgements about authors, research quality, or underlying theoretical approaches.
-              </p>
-              
-              <details class="details" style="margin-top:12px;">
-                <summary>
-                  <span>How the automated selection works</span>
-                  <span class="muted">Plain-language overview for researchers</span>
-                </summary>
-              
-                <div class="details-body">
-                  <div class="grid">
-                    <div class="card">
-                      <h3>1) Sources monitored</h3>
-                      <p class="muted">
-                        The updater checks a curated list of journals and retrieves recent article metadata (title, authors, abstract where available, journal, date, DOI and link).
-                      </p>
-                    </div>
-              
-                    <div class="card">
-                      <h3>2) Focus areas and keyword matching</h3>
-                      <p class="muted">
-                        Each paper is screened against multiple focus areas (for example, education, employment, housing, justice, technology, community, policy, healthcare). A paper can match more than one focus area.
-                      </p>
-                      <p class="muted">
-                        Matching uses keyword families and related terms rather than a single phrase, to reduce false negatives. Focus areas with (0) indicate that the current automated search has not surfaced matching papers yet.
-                      </p>
-                    </div>
-              
-                    <div class="card">
-                      <h3>3) Inclusion and exclusion rules</h3>
-                      <p class="muted">
-                        The process prioritises research that is relevant to lived experience, participation, access, equity, environments, services, supports, adjustments and real-world outcomes. It deprioritises primarily biological mechanism work where lived experience and practical implications are not the focus.
-                      </p>
-                    </div>
-              
-                    <div class="card">
-                      <h3>4) Labelling and presentation</h3>
-                      <p class="muted">
-                        Focus areas and language framing tags are added automatically. These are descriptive labels intended to support navigation. They can be imperfect and should be treated as aids, not as definitive classifications.
-                      </p>
-                    </div>
-                  </div>
-              
-                  <p class="muted" style="margin-top:12px;">
-                    <strong>Transparency note:</strong> the search strategy is designed to be open and improvable. If you notice consistent gaps (missing journals, missing focus areas, systematic false positives), please share an example paper and the focus area you expected it to appear under.<br><br>
-                  </p>
-                  <p class="muted" style="margin-top:10px;">
-                    Interested in the code? <a href="https://github.com/BenPottsRes/PeopleFirstResearch" target="_blank">GitHub Repository</a>.
-                  </p>
-                </div>
-              </details>
+          <p class="muted">Papers are retrieved daily from 15 curated journals via the Crossref API. Each paper is screened automatically: it must mention autism, ADHD, or neurodivergence, and must contain person-focused terms (lived experience, quality of life, access, services, outcomes). Papers focused primarily on genetics, neuroimaging, biomarkers, or animal models are excluded.</p>
+          <p class="muted">Topic tags, neurotype tags, and <a href="#" data-modal="framing">language framing tags</a> are assigned automatically and are descriptive only. Articles are not manually reviewed. Inclusion does not imply endorsement.</p>
+          <p class="muted">The search strategy is open and improvable. <a href="https://github.com/BenPottsRes/PeopleFirstResearch" target="_blank">View the code on GitHub</a>.</p>
+        </div>
+      </details>
     </section>
 
     <footer class="footer">
@@ -253,7 +202,7 @@
 
   <script>
     function normalise(str) {
-      return (str || "").toLowerCase().replace(/\\s+/g, " ").trim();
+      return (str || "").toLowerCase().replace(/\s+/g, " ").trim();
     }
 
     function uniq(arr) {
@@ -267,7 +216,6 @@
     }
 
     function formatDate(p) {
-      // Supports either year or published_date (ISO string)
       if (p.published_date) {
         const d = new Date(p.published_date);
         if (!Number.isNaN(d.getTime())) {
@@ -299,19 +247,17 @@
         
         let activeDomain = "All";
 
-          // Domain button labels → paper domain tags
-    const DOMAIN_ALIASES = {
-      "Education and learning": ["Education"],
-      "Work and employment": ["Employment"],
-      "Housing and built environment": ["Housing", "Built environment"],
-      "Justice and rights": ["Justice", "Rights"],
-      "Technology and digital life": ["Technology", "Digital life"],
-      "Social life and community": ["Quality of life", "Social life", "Community"],
-      "Policy and public services": ["Service design", "Policy", "Public services"],
-      "Healthcare": ["Healthcare", "Mental health", "Emergency care", "Sensory environment", "Communication"]
-    };
+        const DOMAIN_ALIASES = {
+          "Education and learning": ["Education"],
+          "Work and employment": ["Employment"],
+          "Housing and built environment": ["Housing", "Built environment"],
+          "Justice and rights": ["Justice", "Rights"],
+          "Technology and digital life": ["Technology", "Digital life"],
+          "Social life and community": ["Quality of life", "Social life", "Community"],
+          "Policy and public services": ["Service design", "Policy", "Public services"],
+          "Healthcare": ["Healthcare", "Mental health", "Emergency care", "Sensory environment", "Communication"]
+        };
   
-        // Elements
         const papersEl = document.getElementById("papers");
         const searchEl = document.getElementById("search");
         const neuroEl = document.getElementById("neurotype");
@@ -321,12 +267,10 @@
         const toggleAbsBtn = document.getElementById("toggleAbstracts");
         const countLine = document.getElementById("countLine");
         const metaRow = document.getElementById("metaRow");
-
-        // NEW elements
         const sortOrderEl = document.getElementById("sortOrder");
         const pageSizeEl = document.getElementById("pageSize");
         const orderHintEl = document.getElementById("orderHint");
-
+        const dateRangeEl = document.getElementById("dateRange");
         const pagerEl = document.getElementById("pager");
         const prevPageBtn = document.getElementById("prevPage");
         const nextPageBtn = document.getElementById("nextPage");
@@ -335,99 +279,66 @@
         let showAbstracts = false;
         let currentPage = 1;
 
-           function setupDomainButtons(allPapers) {
-        const wrap = document.getElementById("domainQuick");
-        if (!wrap) return;
-      
-        const note = document.getElementById("domainEmptyNote");
-      
-        // Count papers per button domain using the global DOMAIN_ALIASES
-        const counts = {};
-        Object.keys(DOMAIN_ALIASES).forEach(k => (counts[k] = 0));
-      
-        allPapers.forEach(p => {
-          const paperDomains = Array.isArray(p.domains) ? p.domains : [];
-          Object.entries(DOMAIN_ALIASES).forEach(([buttonDomain, aliases]) => {
-            if (aliases.some(a => paperDomains.includes(a))) {
-              counts[buttonDomain] += 1;
-            }
+        function setupDomainButtons(allPapers) {
+          const wrap = document.getElementById("domainQuick");
+          if (!wrap) return;
+          const counts = {};
+          Object.keys(DOMAIN_ALIASES).forEach(k => (counts[k] = 0));
+          allPapers.forEach(p => {
+            const paperDomains = Array.isArray(p.domains) ? p.domains : [];
+            Object.entries(DOMAIN_ALIASES).forEach(([buttonDomain, aliases]) => {
+              if (aliases.some(a => paperDomains.includes(a))) counts[buttonDomain] += 1;
+            });
           });
-        });
-      
-        const btns = Array.from(wrap.querySelectorAll("button[data-domain]"));
-      
-        function setPressed(active) {
-          btns.forEach(b => {
-            const pressed = b.dataset.domain === active;
-            b.setAttribute("aria-pressed", pressed ? "true" : "false");
+          const btns = Array.from(wrap.querySelectorAll("button[data-domain]"));
+          function setPressed(active) {
+            btns.forEach(b => b.setAttribute("aria-pressed", b.dataset.domain === active ? "true" : "false"));
+          }
+          btns.forEach(btn => {
+            const domain = btn.dataset.domain;
+            if (!domain) return;
+            if (domain === "All") { btn.disabled = false; btn.title = "Show all domains"; return; }
+            const n = counts[domain] || 0;
+            const baseLabel = btn.textContent.replace(/\s*\(\d+\)\s*$/, "");
+            btn.textContent = `${baseLabel} (${n})`;
+            btn.disabled = n === 0;
+            btn.title = n === 0 ? "No papers currently surfaced for this domain" : `Show ${domain} papers`;
           });
+          btns.forEach(btn => {
+            btn.addEventListener("click", () => {
+              const dom = btn.dataset.domain;
+              if (!dom) return;
+              activeDomain = dom;
+              currentPage = 1;
+              applyFilters();
+              setPressed(dom);
+            });
+          });
+          setPressed(activeDomain || "All");
         }
       
-        // Initialise buttons (labels + disabled state)
-        btns.forEach(btn => {
-          const domain = btn.dataset.domain;
-          if (!domain) return;
-      
-          if (domain === "All") {
-            btn.disabled = false;
-            btn.title = "Show all domains";
-            return;
-          }
-      
-          const n = counts[domain] || 0;
-          const baseLabel = btn.textContent.replace(/\s*\(\d+\)\s*$/, "");
-          btn.textContent = `${baseLabel} (${n})`;
-          btn.disabled = n === 0;
-          btn.title = n === 0 ? "No papers currently surfaced for this domain" : `Show ${domain} papers`;
-        });
-      
-        // Click handling
-        btns.forEach(btn => {
-          btn.addEventListener("click", () => {
-            const dom = btn.dataset.domain;
-            if (!dom) return;
-      
-            activeDomain = dom;      // uses your global state
-            currentPage = 1;
-            applyFilters();
-            setPressed(dom);
-          });
-        });
-      
-        // Sync pressed state on load
-        setPressed(activeDomain || "All");
-      }
-      
-        // Build select options from data if present
         const neurotypes = uniq(papers.flatMap(p => (p.neurotype || [])));
         const domains = uniq(papers.flatMap(p => (p.domains || [])));
         const framings = uniq(papers.map(p => p.framing).filter(Boolean));
         
-        // Populate framing select
         framings.sort((a, b) => a.localeCompare(b)).forEach(f => {
           const opt = document.createElement("option");
-          opt.value = f;
-          opt.textContent = f;
+          opt.value = f; opt.textContent = f;
           framingEl.appendChild(opt);
         });
 
-
-        // Populate selects
         neurotypes.forEach(n => {
           const opt = document.createElement("option");
-          opt.value = n;
-          opt.textContent = n;
+          opt.value = n; opt.textContent = n;
           neuroEl.appendChild(opt);
         });
 
         domains.sort((a, b) => a.localeCompare(b)).forEach(d => {
           const opt = document.createElement("option");
-          opt.value = d;
-          opt.textContent = d;
+          opt.value = d; opt.textContent = d;
           domainEl.appendChild(opt);
         });
 
-        // Meta line
         const metaParts = [];
         if (generatedAt) {
           const d = new Date(generatedAt);
@@ -447,78 +358,62 @@
         applyFilters();
         
         function updateOrderHint() {
-          const mode = sortOrderEl.value;
           const map = {
             date_desc: "Ordered by publish date (newest first).",
             date_asc: "Ordered by publish date (oldest first).",
             title_asc: "Ordered by title (A to Z).",
             journal_asc: "Ordered by journal (A to Z)."
           };
-          orderHintEl.textContent = map[mode] || "Ordered list.";
+          orderHintEl.textContent = map[sortOrderEl.value] || "Ordered list.";
         }
 
         function applySort(list) {
           const mode = sortOrderEl.value;
-          const sorted = [...list].sort((a, b) => {
+          return [...list].sort((a, b) => {
             if (mode === "date_desc") return parseDateForSort(b) - parseDateForSort(a);
             if (mode === "date_asc") return parseDateForSort(a) - parseDateForSort(b);
-            if (mode === "title_asc") {
-              return (a.title || "").localeCompare((b.title || ""), "en", { sensitivity: "base" });
-            }
-            if (mode === "journal_asc") {
-              return (a.journal || "").localeCompare((b.journal || ""), "en", { sensitivity: "base" });
-            }
+            if (mode === "title_asc") return (a.title || "").localeCompare((b.title || ""), "en", { sensitivity: "base" });
+            if (mode === "journal_asc") return (a.journal || "").localeCompare((b.journal || ""), "en", { sensitivity: "base" });
             return 0;
           });
-          return sorted;
         }
 
         function render(list) {
           papersEl.innerHTML = "";
-
           if (list.length === 0) {
             papersEl.innerHTML = `<div class="empty card"><p class="muted">No papers match your filters.</p></div>`;
             return;
           }
-
           list.forEach(p => {
             const title = p.title || "Untitled";
             const url = p.url || (p.doi ? `https://doi.org/${p.doi}` : "#");
             const journal = p.journal || "";
             const dateStr = formatDate(p);
-
             const card = document.createElement("article");
             card.className = "paper-card";
-
             const chips = [];
 
-                        // NEW: framing chip (language-based)
             if (p.framing) {
-              chips.push(`<span class="chip chip-framing">
+              const framingColour = {
+                "Neurodiversity-informed": "chip-framing-green",
+                "Person-first language used": "chip-framing-amber",
+                "Mixed or transitional framing": "chip-framing-amber",
+                "Medical or diagnostic framing": "chip-framing-red"
+              }[p.framing] || "chip-framing-amber";
+              chips.push(`<span class="chip chip-framing ${framingColour}">
                   ${p.framing}
                   <button class="info-btn" type="button" aria-label="What do framing tags mean?" data-modal="framing">i</button>
-                </span>
-              `);
+                </span>`);
             }
-            if (hasArray(p, "neurotype")) {
-              p.neurotype.slice(0, 3).forEach(n => chips.push(`<span class="chip">${n}</span>`));
-            }
-            if (hasArray(p, "domains")) {
-              p.domains.slice(0, 3).forEach(d => chips.push(`<span class="chip chip-outline">${d}</span>`));
-            }
-            if (hasArray(p, "tags")) {
-              p.tags.slice(0, 4).forEach(t => chips.push(`<span class="chip chip-outline">${t}</span>`));
-            }
+            if (hasArray(p, "neurotype")) p.neurotype.slice(0, 3).forEach(n => chips.push(`<span class="chip">${n}</span>`));
+            if (hasArray(p, "domains")) p.domains.slice(0, 3).forEach(d => chips.push(`<span class="chip chip-outline">${d}</span>`));
+            if (hasArray(p, "tags")) p.tags.slice(0, 4).forEach(t => chips.push(`<span class="chip chip-outline">${t}</span>`));
 
-            const abstractHtml = (showAbstracts && p.abstract)
-              ? `<div class="abstract"><p>${p.abstract}</p></div>`
-              : "";
+            const abstractHtml = (showAbstracts && p.abstract) ? `<div class="abstract"><p>${p.abstract}</p></div>` : "";
 
             card.innerHTML = `
               <div class="paper-main">
-                <h3 class="paper-title">
-                  <a href="${url}" target="_blank" rel="noopener">${title}</a>
-                </h3>
+                <h3 class="paper-title"><a href="${url}" target="_blank" rel="noopener">${title}</a></h3>
                 <p class="paper-meta">
                   ${safeAuthors(p.authors)}
                   ${journal ? ` · ${journal}` : ""}
@@ -527,64 +422,47 @@
                 ${chips.length ? `<div class="chips">${chips.join("")}</div>` : ""}
                 ${abstractHtml}
               </div>
-
               <div class="paper-side">
-                <a class="btn btn-secondary btn-small" href="${url}" target="_blank" rel="noopener">
-                  Open
-                </a>
+                <a class="btn btn-secondary btn-small" href="${url}" target="_blank" rel="noopener">Open</a>
                 ${p.doi ? `<p class="doi muted">DOI: ${p.doi}</p>` : ""}
-              </div>
-            `;
-
+              </div>`;
             papersEl.appendChild(card);
           });
         }
 
-        
         function applyFilters() {
           const q = normalise(searchEl.value);
           const n = neuroEl.value;
-          const d = activeDomain;         // IMPORTANT: this was missing
+          const d = activeDomain;
           const f = framingEl.value;
-        
+          const days = parseInt(dateRangeEl.value, 10);
+          const cutoff = days > 0 ? Date.now() - days * 24 * 60 * 60 * 1000 : 0;
+
           const filtered = baseList.filter(p => {
-            const hay = normalise(
-              [p.title, p.journal, safeAuthors(p.authors), (p.tags || []).join(" "), (p.domains || []).join(" ")].join(" ")
-            );
-        
+            const hay = normalise([p.title, p.journal, safeAuthors(p.authors), (p.tags || []).join(" "), (p.domains || []).join(" ")].join(" "));
             const matchQ = !q || hay.includes(q);
             const matchN = (n === "All") || (Array.isArray(p.neurotype) && p.neurotype.includes(n));
-        
-            // Alias-aware domain match
             const matchD = (!d || d === "All") || (() => {
-            const paperDomains = Array.isArray(p.domains) ? p.domains : [];
-            const aliases = DOMAIN_ALIASES[d] || [d];
-            return aliases.some(a => paperDomains.includes(a));
-          })();
-        
+              const paperDomains = Array.isArray(p.domains) ? p.domains : [];
+              const aliases = DOMAIN_ALIASES[d] || [d];
+              return aliases.some(a => paperDomains.includes(a));
+            })();
             const matchF = (f === "All") || (p.framing === f);
-        
-            return matchQ && matchN && matchD && matchF;
+            const matchDate = cutoff === 0 || parseDateForSort(p) >= cutoff;
+            return matchQ && matchN && matchD && matchF && matchDate;
           });
         
           const sorted = applySort(filtered);
           updateOrderHint();
-        
           const pageSize = parseInt(pageSizeEl.value, 10) || 20;
           const total = sorted.length;
           const totalPages = Math.max(1, Math.ceil(total / pageSize));
-        
           if (currentPage > totalPages) currentPage = totalPages;
           if (currentPage < 1) currentPage = 1;
-        
           const start = (currentPage - 1) * pageSize;
-          const end = start + pageSize;
-          const pageItems = sorted.slice(start, end);
-        
+          const pageItems = sorted.slice(start, start + pageSize);
           render(pageItems);
-        
           countLine.textContent = `Showing ${pageItems.length} of ${total} papers (page ${currentPage} of ${totalPages})`;
-        
           if (total > pageSize) {
             pagerEl.style.display = "flex";
             prevPageBtn.disabled = currentPage === 1;
@@ -596,34 +474,20 @@
           }
         }
 
-        // Events
         searchEl.addEventListener("input", () => { currentPage = 1; applyFilters(); });
         neuroEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
         framingEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
-
         sortOrderEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
         pageSizeEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
-
-        prevPageBtn.addEventListener("click", () => {
-          currentPage = Math.max(1, currentPage - 1);
-          applyFilters();
-        });
-
-        nextPageBtn.addEventListener("click", () => {
-          currentPage = currentPage + 1;
-          applyFilters();
-        });
+        dateRangeEl.addEventListener("change", () => { currentPage = 1; applyFilters(); });
+        prevPageBtn.addEventListener("click", () => { currentPage = Math.max(1, currentPage - 1); applyFilters(); });
+        nextPageBtn.addEventListener("click", () => { currentPage = currentPage + 1; applyFilters(); });
 
         resetBtn.addEventListener("click", () => {
-          searchEl.value = "";
-          neuroEl.value = "All";
-          framingEl.value = "All";
-          sortOrderEl.value = "date_desc";
-          pageSizeEl.value = "10";
-          activeDomain = "All";
-          currentPage = 1;
-          setupDomainButtons(baseList);
-          applyFilters();
+          searchEl.value = ""; neuroEl.value = "All"; framingEl.value = "All";
+          sortOrderEl.value = "date_desc"; pageSizeEl.value = "10"; dateRangeEl.value = "14";
+          activeDomain = "All"; currentPage = 1;
+          setupDomainButtons(baseList); applyFilters();
         });
 
         toggleAbsBtn.addEventListener("click", () => {
@@ -632,62 +496,40 @@
           applyFilters();
         });
 
-        // Initial render
         applyFilters();
       })
-        .catch((err) => {
-          console.error("Failed to initialise page:", err);
+      .catch((err) => {
+        console.error("Failed to initialise page:", err);
         document.getElementById("countLine").textContent = "Unable to load papers.";
-        document.getElementById("papers").innerHTML =
-          "<div class='empty card'><p class='muted'>Unable to load the research list. Please check that papers.json exists and is valid JSON.</p></div>";
+        document.getElementById("papers").innerHTML = "<div class='empty card'><p class='muted'>Unable to load the research list. Please check that papers.json exists and is valid JSON.</p></div>";
       });
-        document.addEventListener("click", (e) => {
-          const trigger = e.target.closest("[data-modal='framing']");
-          if (trigger) {
-            e.preventDefault();
-            document.getElementById("framingModal").hidden = false;
-            return;
-          }
-        
-          if (e.target && (e.target.id === "closeFramingModal" || e.target.id === "framingModal")) {
-            document.getElementById("framingModal").hidden = true;
-          }
-        });
-          // Close framing modal when clicking the overlay
-        document.addEventListener("click", (e) => {
-          if (e.target && e.target.id === "framingModal") {
-            document.getElementById("framingModal").hidden = true;
-          }
-        });
 
-
+    document.addEventListener("click", (e) => {
+      const trigger = e.target.closest("[data-modal='framing']");
+      if (trigger) { e.preventDefault(); document.getElementById("framingModal").hidden = false; return; }
+      if (e.target && (e.target.id === "closeFramingModal" || e.target.id === "framingModal")) {
+        document.getElementById("framingModal").hidden = true;
+      }
+    });
   </script>
 
-        <!-- NEW: framing info modal -->
-      <div id="framingModal" class="modal" hidden>
-        <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="framingTitle">
-          <h3 id="framingTitle">Framing tags</h3>
-          <p class="muted">
-            These tags are assigned automatically based on language used in titles and abstracts. They describe wording only. They do not indicate author intent, study quality, or endorsement of any particular model.
-          </p>
-          <ul class="modal-list">
-            <li><strong>Neurodiversity-informed</strong>: Uses identity-first language such as “autistic people”.</li>
-            <li><strong>Person-first language used</strong>: Uses wording such as “people with autism”.</li>
-            <li><strong>Medical or diagnostic framing</strong>: Uses terms such as “autism spectrum disorder” or “ASD”.</li>
-            <li><strong>Mixed or transitional framing</strong>: Uses a mixture of the above language forms.</li>
-          </ul><br>
-          <p class="muted">
-          <strong>Further reading</strong><br>
-            For readers interested in a more detailed discussion of language use in autism research, including the implications of identity-first and person-first terminology, a short open-access letter on this topic is available here:
-            <a href="https://openaccess.city.ac.uk/id/eprint/32461/1/Letter%20to%20Radiography%20EiC%20Autism%20Language_CM_BP_CM_BP%200.pdf"
-               target="_blank" rel="noopener">
-              Letter on language in autism research (PDF)
-            </a>.
-            </p>
-
-          <button class="btn btn-secondary btn-small" id="closeFramingModal" type="button">Close</button>
-        </div>
-      </div>
+  <div id="framingModal" class="modal" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="framingTitle">
+      <h3 id="framingTitle">Framing tags</h3>
+      <p class="muted">These tags are assigned automatically based on language used in titles and abstracts. They describe wording only. They do not indicate author intent, study quality, or endorsement of any particular model.</p>
+      <ul class="modal-list">
+        <li><strong>Neurodiversity-informed</strong>: Uses identity-first language such as "autistic people".</li>
+        <li><strong>Person-first language used</strong>: Uses wording such as "people with autism".</li>
+        <li><strong>Medical or diagnostic framing</strong>: Uses terms such as "autism spectrum disorder" or "ASD".</li>
+        <li><strong>Mixed or transitional framing</strong>: Uses a mixture of the above language forms.</li>
+      </ul><br>
+      <p class="muted"><strong>Further reading</strong><br>
+        For readers interested in a more detailed discussion of language use in autism research, including the implications of identity-first and person-first terminology, a short open-access letter on this topic is available here:
+        <a href="https://openaccess.city.ac.uk/id/eprint/32461/1/Letter%20to%20Radiography%20EiC%20Autism%20Language_CM_BP_CM_BP%200.pdf" target="_blank" rel="noopener">Letter on language in autism research (PDF)</a>.
+      </p>
+      <button class="btn btn-secondary btn-small" id="closeFramingModal" type="button">Close</button>
+    </div>
+  </div>
 
 </body>
 </html>
