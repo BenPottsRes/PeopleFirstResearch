@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T08:13:15Z",
+  "generated_at": "2026-05-10T08:22:13Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -206,30 +206,41 @@
       "abstract": "Purpose The purpose of this paper is to examine how families, particularly mothers, function as a hidden workforce in autism care systems struggling to meet demand. This paper highlights the risks of treating caregivers as substitutes for professional staff and underscores the need to recognise their contributions within inclusive practice. Design/methodology/approach This reflective essay draws on practice insights and field experiences of families navigating autism care. This study interprets how unpaid caregiving becomes central to sustaining children’s progress when formal services are unavailable or inaccessible. Findings Caregivers sustain essential continuity of care but at significant personal cost. Mothers frequently reduce or leave employment, leading to financial strain, emotional burnout and social isolation. These burdens remain largely invisible to practitioners and policymakers, yet they directly affect the sustainability of inclusive systems. Practical implications For practitioners and policymakers, inclusive practice requires acknowledging caregiver labour, providing structured training and emotional support and defining limits to what unpaid caregiving can sustai…"
     },
     {
-      "id": "10.1108/aia-05-2025-0045",
-      "title": "Exploring the impact of technology-based interventions on the mental health of children with autism",
+      "id": "10.1177/13623613261430914",
+      "title": "How can we improve the timeliness and quality of diagnostic assessment for children with possible autism? Qualitative findings and recommendations from a Realist Evaluation of Autism Service delivery in the United Kingdom",
       "authors": [
-        "Leona Cilar Budler",
-        "Vanesa Kovac"
+        "Ian Male",
+        "William Farr",
+        "Sophie McGrevey",
+        "Vanessa Abrahamson",
+        "Sarah Wigham",
+        "Venkat Reddy",
+        "Amanda Allard",
+        "Victoria Grahame",
+        "Jessica Maxwell",
+        "Grainne Saunders",
+        "Anna Walker",
+        "Nic King",
+        "Seema Islam",
+        "Zamir Akhtar",
+        "Jeremy Parr",
+        "Patricia Wilson"
       ],
-      "journal": "Advances in Autism",
+      "journal": "Autism",
       "year": 2026,
-      "published_date": "2026-05-12",
-      "doi": "10.1108/aia-05-2025-0045",
-      "url": "https://doi.org/10.1108/aia-05-2025-0045",
+      "published_date": "2026-05-10",
+      "doi": "10.1177/13623613261430914",
+      "url": "https://doi.org/10.1177/13623613261430914",
       "neurotype": [
         "Autism"
       ],
       "domains": [
-        "Healthcare",
-        "Mental health",
-        "Service design"
+        "Employment"
       ],
       "tags": [
-        "service improvement"
+        "lived experience"
       ],
-      "abstract": "Purpose Children with autism spectrum disorder (ASD) frequently experience mental health challenges, including anxiety, emotional dysregulation and difficulties in social interactions. This study aims to explore the effectiveness of technology-based interventions, such as mobile applications, virtual reality, serious games and telehealth programs, in improving the mental well-being of children with ASD. Design/methodology/approach A comprehensive literature search was conducted across PubMed, CINAHL and the Cochrane Library, adhering to the preferred reporting items for systematic reviews and meta-analyses framework to ensure methodological rigor. Findings The findings indicate that digital interventions can significantly reduce anxiety, enhance emotional regulation and promote social engagement. However, inconsistencies in study designs, small sample sizes and limited longitudinal research highlight the need for further investigation. Originality/value This review underscores the potential of digital technologies as accessible and scalable therapeutic tools while emphasizing the necessity of standardized guidelines to optimize their implementation in clinical and educational setti…",
-      "framing": "Mixed or transitional framing"
+      "abstract": "Families face long waits for their child to undergo a diagnostic assessment for possible autism. This study explored the experiences of parents and children/young people (CYP) accessing and professionals providing autism diagnostic assessments in the United Kingdom. This realist evaluation was conducted in three phases: (1) interviews and focus groups with parents, CYP and professionals from six U.K. National Health Service (NHS) childhood autism assessment and diagnosis services; (2) resulting qualitative data were analysed, and programme theories (PTs) explaining how, why and in what contexts childhood autism assessment and diagnosis pathways work well were tested and refined; and (3) recommendations for change were developed by the research team and presented to delegates at six dissemination events including 250 clinicians, managers, parents/carers, commissioners and academics involved in autism assessment and diagnosis. Delegates were invited to select and rank the most important recommendations. There were 121 participants in Phase 1 (18 CYP, 34 parents, 69 professionals). In Phase 2, both families and clinicians confirmed challenges in the assessment and diagnostic process,…"
     },
     {
       "id": "10.1007/s10803-026-07350-z",
@@ -251,6 +262,81 @@
       "domains": [
         "Mental health"
       ]
+    },
+    {
+      "id": "10.1007/s10803-026-07343-y",
+      "title": "Examining the Lived Experiences of Older Autistic Adults: A Synthesis Review of Qualitative Literature",
+      "authors": [
+        "David B. Nicholas",
+        "Hilary Nelson",
+        "Fakhri Shafai",
+        "Stephen M. Edelson",
+        "Vanessa Bal",
+        "Wenn Lawson",
+        "Margaret Bauman",
+        "Robert Hendren",
+        "Julian N. Trollor"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-09",
+      "doi": "10.1007/s10803-026-07343-y",
+      "url": "https://doi.org/10.1007/s10803-026-07343-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261433100",
+      "title": "Barriers to Mental Healthcare for Autistic and Non-Autistic Adults: An Investigation of Number, Severity and Type of Barriers Encountered",
+      "authors": [
+        "Robyn C Ball",
+        "Amanda L Richdale",
+        "Lauren P Lawson",
+        "Eric MJ Morris"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-09",
+      "doi": "10.1177/13623613261433100",
+      "url": "https://doi.org/10.1177/13623613261433100",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "Many autistic people experience poor mental health but often face barriers to accessing appropriate care. This study examined whether autistic adults encounter more or different barriers to mental healthcare compared to non-autistic adults. Participants (non-autistic n = 173; diagnosed autistic n = 173; self-identified autistic n = 158) completed an online survey assessing 29 barriers adapted from the Barriers to Healthcare Checklist, rated by presence and severity. Barriers were categorised as person, provider or system related. Analyses of variance compared groups on the mean number and severity of barriers, and chi-square tests compared group incidence of each barrier. Overall, systemic barriers (e.g. cost) and difficulties with system navigation (e.g. finding services) were the most commonly reported barriers and rated as the most severe. Autistic participants experienced a significantly higher number and severity of barriers than non-autistic participants. Provider-related barriers (practitioners’ knowledge, attitudes and skills) were particularly severe for autistic groups. In contrast, person-level barriers (e.g. sensory sensitivities), though often reported in general healt…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00561-1",
+      "title": "Autism Training Programs for Providers Supporting Autistic Adults: A Scoping Review",
+      "authors": [
+        "Hannah Karsting",
+        "Cai Zhen",
+        "David James",
+        "Lawrence K. Fung"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-09",
+      "doi": "10.1007/s40489-026-00561-1",
+      "url": "https://doi.org/10.1007/s40489-026-00561-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00560-2",
@@ -10862,51 +10948,6 @@
         "lived experience"
       ],
       "abstract": "Introduction: Research exploring the contextual factors influencing the rare instances of autistic people engaging with extreme ideologies is limited. This article explores factors that affected autistic people who engaged with extreme ideologies, from the perspectives of close contacts and clinicians. Methods: This article presents findings from interviews with two participant groups: family and friends, and clinicians. We recruited participants through a gatekeeper, professional networks, and social media. We used reflexive thematic analysis to analyze the data. Results: Participants included seven family members and one friend in the first group and five clinicians in the second. Across both groups, we identified four themes: (1) experiences of social vulnerability; (2) autistic and neurodivergent characteristics in the context of risk; (3) negotiating a complex identity; and (4) a slippery rabbit hole. Social vulnerabilities including lack of secure attachments in childhood and social rejection led to a sense of persecution. System-level marginalization compounded the sense of exclusion. A negative autistic self-image was an important factor. Inflexible thinking, differences in…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07193-0",
-      "title": "Validating the Brief Autism Mealtime Behavior Inventory (BAMBI) in Persian and Kurdish for Use in Iran and the Kurdistan Region of Iraq",
-      "authors": [
-        "Sayyed Ali Samadi",
-        "Ghasem Abdollahi Boghrabadi",
-        "Saman Haji Nori",
-        "Ameneh Mahmoodizadeh",
-        "Mehdi Foladgar",
-        "Shahnaz Bakhshalizadeh Moradi",
-        "Baran Lotfi"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-09",
-      "doi": "10.1007/s10803-025-07193-0",
-      "url": "https://doi.org/10.1007/s10803-025-07193-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose Eating problems are prevalent among children with Autism. Early identification is crucial for intervention. This study aimed to validate the Brief Autism Mealtime Behavior Inventory (BAMBI) for use in Iran and the Kurdistan Region of Iraq (KRI). Methods The study involved a sample of 873 children, including 540 with autism and 333 neurotypically developing children, with a mean age of 7.09 years. The translation process followed a rigorous methodology, including obtaining official permission, translation, back-translation, and pilot testing to ensure cultural relevance and accuracy. Results The BAMBI, a mealtime behavior scale, showed strong internal consistency (α = 0.832) and a stable three-factor structure in 873 children (540 autistic, 333 neurotypical) aged 2–14 in Iran and the KRI. The BAMBI demonstrated good discriminant and convergent validity, correlating strongly with autism diagnostic measures. Conclusion The BAMBI questionnaire has been successfully translated and validated for both Persian and Kurdish languages, enabling the evaluation of mealtime behaviors in clinical settings in Iran and the Kurdistan Region of Iraq.",
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07203-1",
-      "title": "Dosage in Applied Behavior Analysis: Effect on Adaptive Behavior, Goal Attainment, and Dangerous Behavior",
-      "authors": [
-        "Doreen Samelson",
-        "Ben Pfingston",
-        "Lindsey Sneed"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-09",
-      "doi": "10.1007/s10803-025-07203-1",
-      "url": "https://doi.org/10.1007/s10803-025-07203-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose Applied behavioral analysis is the most common intervention for autistic children. It has long been proposed that more hours per week in ABA produce better outcomes. ABA practice guidelines typically recommend 30–40 h per week for young autistic children. While some studies support a dosage effect, other studies find no predictive relationship between ABA treatment hours and a range of child outcomes. Thus, the dosage question remains open, leaving parents and providers unsure of the ideal dosage of ABA for an autistic child to make meaningful progress. Real world data (RWD) can fill the gap between community treatment and controlled research often conducted by universities. Methods In this study, we examined the RWD data from 725 autistic children receiving ABA as part of community-based care. Using longitudinal multilevel modeling, we examined the relationship between average hours of ABA per month and change on proximal and distal measures: adaptive behavior, goal attainment, and dangerous behavior. Results Dosage was a significant predictor of goal attainment, indicating that clients who spent more time in treatment met more goals. Conversely, the relationship…",
       "framing": "Neurodiversity-informed"
     }
   ]
