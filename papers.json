@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T09:21:54Z",
+  "generated_at": "2026-05-14T09:10:56Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -110,6 +110,54 @@
       "abstract": "Objective: While individual nutrients have shown effects on inflammatory mechanisms, the effects of multinutrients (vitamins + minerals, antioxidants, and amino acids) on inflammation are unknown. We investigated whether 8 weeks of multinutrient supplementation, in a randomized controlled trial of 83 children with ADHD, would alter immune factors compared to placebo. Methods: Multiplex technology was used to measure 25 immune factors in blood samples collected at baseline and week 8. Immune factors were compared between multinutrient and placebo groups using the Mann-Whitney test. Linear mixed effects models evaluated immune factor change over time. To understand the functional relevance of the immune factors affected by multinutrient supplementation, pathway analysis was performed using the Database for Annotation, Visualization, and Integrated Discovery (DAVID) v6.7 Bioinformatics Resources. Results: Interleukin (IL)-5 and IL-13 levels differed following multinutrient supplementation versus placebo ( p = .005 and .03, respectively). IL-5 decreased by 1.3% in the multinutrient group (95% CI [−8.6%, 6.7%]) and increased by 17.5% in the placebo group (95% CI [6.9%, 29.2%]). IL-13 de…"
     },
     {
+      "id": "10.1007/s40489-026-00574-w",
+      "title": "Autism and Education Research in Sub-Saharan Africa: A Systematic Literature Review",
+      "authors": [
+        "Stephanie Katharina Nowack",
+        "Jenny Louise Gibson",
+        "Nidhi Singal"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-14",
+      "doi": "10.1007/s40489-026-00574-w",
+      "url": "https://doi.org/10.1007/s40489-026-00574-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "tags": [
+        "participatory"
+      ],
+      "abstract": "Abstract This systematic review synthesizes literature published between 2016 and 2025 on autism research in formal early childhood and primary school settings in Sub-Saharan Africa. Forty-one studies met the inclusion criteria. We critically analysed key study characteristics, including methodologies, geographical foci, and funding patterns. We also examined ongoing educational provisions in the region, focusing on pedagogical practices and playful learning. The findings show no studies explored playful learning in the classroom. While autism research in educational settings is increasing, it remains largely grounded in Northern epistemologies. Although teachers are consulted in most studies, we emphasize the need to recognize them as active agents through participatory designs. Finally, we argue for the ethical and methodological inclusion of autistic learners' voices in research."
+    },
+    {
+      "id": "10.1177/13623613261446878",
+      "title": "Longitudinal Association Between Social Support and Quality of Life Among Middle-Aged and Older Autistic Adults",
+      "authors": [
+        "Wei Song",
+        "Goldie A. McQuaid",
+        "Rebecca A. Charlton",
+        "Gregory L. Wallace"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-13",
+      "doi": "10.1177/13623613261446878",
+      "url": "https://doi.org/10.1177/13623613261446878",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Quality of life"
+      ],
+      "abstract": "Social support is positively associated with quality of life (QoL) in autistic people, yet almost all evidence is cross-sectional and focused on younger adults. We examined 2-year longitudinal survey data from 209 autistic adults aged ⩾40 years living in the United States, all recruited via the Research Match service of Simons Powering Autism Research for Knowledge. Participants self-reported their general QoL, autism-specific QoL, and social support (subjective support, instrumental support, and social interaction). Cross-lagged panel models tested bidirectional associations. Mean scores increased from Time 1 to Time 2 for the general QoL and autism-specific QoL, while social support was mostly stable. Higher baseline general QoL predicted greater subjective support later, whereas baseline subjective support did not predict later general QoL. A reciprocal relationship emerged between autism-specific QoL and subjective support. Unexpectedly, baseline instrumental support predicted lower subsequent general QoL. Among autistic adults in mid-to-later life, QoL appears to drive subsequent social support more strongly than support drives QoL, with the clearest reciprocity observed for a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s40489-026-00567-9",
       "title": "Grief, Bereavement, and Related Care for People With Autism: a Scoping Review",
       "authors": [
@@ -174,6 +222,61 @@
       "tags": [
         "access"
       ]
+    },
+    {
+      "id": "10.1002/aur.70260",
+      "title": "Change Trajectories During Parent–Child Interaction Therapy for Autistic Children and Their Caregivers",
+      "authors": [
+        "Catherine A. Burrows",
+        "William Andrew Rothenberg",
+        "Dainelys Garcia",
+        "Abigail Peskin",
+        "Maria Jimenez‐Muñoz",
+        "Eileen Davis",
+        "Jason F. Jent",
+        "Meaghan V. Parladé"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-05-13",
+      "doi": "10.1002/aur.70260",
+      "url": "https://doi.org/10.1002/aur.70260",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT Disruptive behaviors (non‐compliance, aggression) are common in autistic children. Parent–Child Interaction Therapy (PCIT) is a caregiver‐mediated intervention utilizing in vivo caregiver coaching that reduces disruptive behaviors and has been shown to be effective for young autistic children. This study sought to identify child and caregiver factors that relate to session‐level progress among autistic children and their caregivers. Participants included 98 autistic children aged 2–8 years (91% male) who received PCIT in a university‐affiliated clinic. Session‐level change was examined using iterative multilevel modeling to examine change in child disruptive behaviors, as measured on the Eyberg Child Behavior Inventory (ECBI), caregiver positive attending skills (Do‐skills), and caregiver negative statements (Avoid‐skills). Optimal fitting trajectories revealed quadratic change in ECBI scores, Do‐skills, and Avoid‐skills. The effectiveness of PCIT did not differ based on participants' level of autistic traits or caregiver demographics. Improvements in child disruptive behavior were associated with child adaptability and parenting stress pre‐treatment; higher adaptability a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70277",
+      "title": "Disparities in Physical Activity and Sport Participation Among Transition‐Age Youth With Autism and Intellectual Disability",
+      "authors": [
+        "Daniel E. Lidstone"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-05-13",
+      "doi": "10.1002/aur.70277",
+      "url": "https://doi.org/10.1002/aur.70277",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Physical activity is critical for health, yet many adolescents do not engage in regular activity. Youth with autism spectrum disorder (ASD) and intellectual disability (ID) may be at heightened risk due to motor, sensory, and social barriers, but less is known about complete disengagement. Using nationally representative data from the 2021–2023 National Survey of Children's Health, this study examined disparities in (1) any weekly physical activity and (2) participation in organized sport among transition‐age youth (14–17 years) with ASD only, ID only, or ASD + ID, compared with youth without ASD or ID. Survey‐weighted multiple logistic regression models estimated adjusted odds ratios (aORs) for each outcome, controlling for sex, race, household poverty ratio, metropolitan residence, and age. Compared to youth without ASD or ID, all diagnostic groups had significantly lower odds of engaging in any weekly physical activity (ASD only: aOR = 0.32, 95% CI: 0.24–0.44; ID only: aOR = 0.49, 95% CI: 0.31–0.76; ASD + ID: aOR = 0.51, 95% CI: 0.30–0.88; all p ≤ 0.02) and organized sport (ASD only: aOR = 0.20, 95% CI: 0.15–0.27; ID only: aOR = 0.31, 95% CI: 0.19–0.51; ASD + ID: aOR =…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s40489-026-00573-x",
@@ -7484,24 +7587,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251401049",
-      "title": "Emotion regulation in families of autistic children and adolescents: A longitudinal study",
-      "authors": [
-        "Yuting Tan",
-        "Kevin Ka Shing Chan"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251401049",
-      "url": "https://doi.org/10.1177/13623613251401049",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "This study investigated whether parental emotion-regulation difficulties are prospectively associated with increased emotion-regulation challenges in autistic children and adolescents and explored the underlying mechanisms and behavioral implications of these potential intergenerational associations. Over three time points (T1, T2, T3) spanning 2 years, 363 parents of autistic children and adolescents from Hong Kong provided questionnaire data. Path analyses revealed that parental emotion-regulation difficulties at T1 were associated with greater negative emotional expressiveness at T2, which in turn was linked to increased emotion-regulation difficulties and more internalizing and externalizing problems in autistic children and adolescents at T3. Importantly, these findings indicate that when parents have difficulty regulating their emotions and express negativity, their autistic children and adolescents are more likely to face emotion-regulation challenges and exhibit behavior problems. This underscores the need to support parents in regulating their emotions and optimizing their emotional expressiveness. Clinicians and policymakers should help parents strengthen their emotion re…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70185",
       "title": "Examining the Relationship Between Social Motivation and Internalizing Symptoms in Autistic People: A Systematic Review and Meta‐Analysis",
       "authors": [
@@ -10909,55 +10994,6 @@
         "Education",
         "Mental health"
       ]
-    },
-    {
-      "id": "10.1177/25739581251414545",
-      "title": "Interoception in Autism, Pitfalls, and Promise: A Participatory Research Perspective",
-      "authors": [
-        "Eleanor R. Palser",
-        "Wenn B. Lawson",
-        "Emma Goodall",
-        "Elizabeth Pellicano"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-01-13",
-      "doi": "10.1177/25739581251414545",
-      "url": "https://doi.org/10.1177/25739581251414545",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "tags": [
-        "participatory"
-      ],
-      "abstract": "Bodily autonomy is essential to Autistic well-being. Interoception supports bodily autonomy through guiding behavior in support of homeostasis. Promoting adaptive interoceptive skills is therefore crucial to improving Autistic well-being. To date, research on interoception in Autistic people has been poorly informed by the experiences and goals of Autistic people, has had a narrow focus on comparison with non-autistic norms in search of deficits, and has had limited impact on Autistic quality of life. In this perspective piece, a team of Autistic and non-autistic researchers review findings to date and make recommendations for future research directions. We argue that participatory research is needed to comprehensively map the varied interoceptive landscape of Autistic people, ensure that new interoceptive measures are autism-relevant, and guide interventions designed to improve the interoceptive and broader well-being of Autistic people. We believe that if interoception research is conducted in partnership with the autism community, the understanding of interoceptive processing and the full range of interpretive differences that result will be impactful and informative.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251414516",
-      "title": "Systematic COSMIN Review of Neurodiversity Attitudes and Knowledge Measures",
-      "authors": [
-        "Kristen Bottema-Beutel",
-        "Ruoxi Guo",
-        "Jessica Hinson-Williams",
-        "Yueyang Shen",
-        "Caroline Braun"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-01-13",
-      "doi": "10.1177/25739581251414516",
-      "url": "https://doi.org/10.1177/25739581251414516",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Background: Many researchers seek to measure people’s knowledge of and attitudes toward neurodiversity concepts and advocacy. In this systematic literature review, we characterize measures of neurodiversity knowledge and attitudes and summarize studies that have used such measures. Methods: This study was funded by a Boston College Ignite grant aandwas preregistered on Prospero, ID# CRD420251013298. We searched ERIC, Education Source, PsycINFO, Scopus, Web of Science, and Sociological Abstracts databases on March 11, 2025. We hand searched the journal Neurodiversity on June 11, 2025. Inclusion criteria were that studies were peer-reviewed, published in English, and included a neurodiversity knowledge or attitudes measure. For formal validation studies, we follow the COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN) guidelines for describing and evaluating measurement properties and study quality. Procedures include the COSMIN Risk of Bias checklist, the COSMIN Good Measurement Properties to rate study results, and the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system for synthesis and presentation. For studies in…"
     }
   ]
 }
