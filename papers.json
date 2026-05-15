@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T09:10:56Z",
+  "generated_at": "2026-05-15T09:24:52Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -132,6 +132,31 @@
         "participatory"
       ],
       "abstract": "Abstract This systematic review synthesizes literature published between 2016 and 2025 on autism research in formal early childhood and primary school settings in Sub-Saharan Africa. Forty-one studies met the inclusion criteria. We critically analysed key study characteristics, including methodologies, geographical foci, and funding patterns. We also examined ongoing educational provisions in the region, focusing on pedagogical practices and playful learning. The findings show no studies explored playful learning in the classroom. While autism research in educational settings is increasing, it remains largely grounded in Northern epistemologies. Although teachers are consulted in most studies, we emphasize the need to recognize them as active agents through participatory designs. Finally, we argue for the ethical and methodological inclusion of autistic learners' voices in research."
+    },
+    {
+      "id": "10.1186/s13229-026-00719-y",
+      "title": "Mapping sensory sensitivity in autism",
+      "authors": [
+        "Bat-Sheva Hadad",
+        "Inbar Leon",
+        "Marissa Hartston",
+        "Erez Freud",
+        "Ahmad Abu-Akel"
+      ],
+      "journal": "Molecular Autism",
+      "year": 2026,
+      "published_date": "2026-05-14",
+      "doi": "10.1186/s13229-026-00719-y",
+      "url": "https://doi.org/10.1186/s13229-026-00719-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
     },
     {
       "id": "10.1177/13623613261446878",
@@ -10931,69 +10956,6 @@
       ],
       "abstract": "Adapting and combining evidence-based practices (EBPs) for use in high school special and general education in support of autistic youth can be a daunting process for researchers and practitioners alike. Ensuring the process is informed by autistic voices, is strengths-based, and addresses outcomes identified as priorities for autistic youth can pose additional challenges. This paper provides a description of the activities undertaken to combine two EBPs for use in inclusive high school settings, the Self-Determined Learning Model of Instruction (SDLMI), and Peer Supports. Points where the autistic voice was embedded in the process are highlighted, along with initial feedback from high school teachers and students. Challenges to the EBP adaptation and combination process, as well as barriers to implementation and next steps, are also discussed.",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07199-8",
-      "title": "Telehealth-Based Parent-Mediated Pivotal Response Treatment for Preschool Children With Autism Spectrum Disorder: A Pilot Randomized Controlled Study",
-      "authors": [
-        "Pou-Leng Cheong",
-        "Ming-Chen Lin",
-        "Chien-Heng Lin",
-        "Yen-Chin Wang",
-        "Yen-Ting Lai",
-        "Lin-Ju Kang",
-        "Hsiao-I Kuo",
-        "Yen-Tzu Wu",
-        "Tzu-Chun Hsu"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-14",
-      "doi": "10.1007/s10803-025-07199-8",
-      "url": "https://doi.org/10.1007/s10803-025-07199-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07196-x",
-      "title": "Parental Resolution of Children’s Neurodevelopmental Disorders Among Asylum Seekers: Associations with Trauma, Stress, and Protective Factors",
-      "authors": [
-        "Mai Leshem",
-        "Efrat Sher-Censor"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-14",
-      "doi": "10.1007/s10803-025-07196-x",
-      "url": "https://doi.org/10.1007/s10803-025-07196-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
-      "id": "10.1080/1034912x.2025.2605017",
-      "title": "Teacher Perceptions of Anxiety in Autistic Vs. Non-Autistic Vignettes",
-      "authors": [
-        "Nicole Dargue",
-        "Dawn Adams"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2026,
-      "published_date": "2026-01-14",
-      "doi": "10.1080/1034912x.2025.2605017",
-      "url": "https://doi.org/10.1080/1034912x.2025.2605017",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Mental health"
-      ]
     }
   ]
 }
