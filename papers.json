@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T09:24:52Z",
+  "generated_at": "2026-05-16T08:20:37Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -108,6 +108,27 @@
         "service improvement"
       ],
       "abstract": "Objective: While individual nutrients have shown effects on inflammatory mechanisms, the effects of multinutrients (vitamins + minerals, antioxidants, and amino acids) on inflammation are unknown. We investigated whether 8 weeks of multinutrient supplementation, in a randomized controlled trial of 83 children with ADHD, would alter immune factors compared to placebo. Methods: Multiplex technology was used to measure 25 immune factors in blood samples collected at baseline and week 8. Immune factors were compared between multinutrient and placebo groups using the Mann-Whitney test. Linear mixed effects models evaluated immune factor change over time. To understand the functional relevance of the immune factors affected by multinutrient supplementation, pathway analysis was performed using the Database for Annotation, Visualization, and Integrated Discovery (DAVID) v6.7 Bioinformatics Resources. Results: Interleukin (IL)-5 and IL-13 levels differed following multinutrient supplementation versus placebo ( p = .005 and .03, respectively). IL-5 decreased by 1.3% in the multinutrient group (95% CI [−8.6%, 6.7%]) and increased by 17.5% in the placebo group (95% CI [6.9%, 29.2%]). IL-13 de…"
+    },
+    {
+      "id": "10.1080/1034912x.2026.2667965",
+      "title": "Family Quality of Life in Chinese Families of Children with Autism Spectrum Disorder",
+      "authors": [
+        "Shulan Zeng",
+        "Imran Riaz Chohan"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-05-15",
+      "doi": "10.1080/1034912x.2026.2667965",
+      "url": "https://doi.org/10.1080/1034912x.2026.2667965",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Quality of life"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s40489-026-00574-w",
@@ -1596,31 +1617,6 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -1646,6 +1642,31 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10928,34 +10949,6 @@
         "Quality of life"
       ],
       "abstract": "Abstract Background In traditional societies, fathers are often viewed as authority figures with limited involvement in child development. This study examined the parenting attitudes and participation levels of fathers of children aged 3–6 with developmental disabilities in Türkiye. Method The sample consisted of 134 fathers who voluntarily participated. Data were collected using a demographic form, the Parental Attitude Scale (PAS), and the Father Involvement Scale (FIS) and analyzed with SPSS. Results and Conclusions Parenting attitudes did not significantly vary by the child’s gender, diagnosis, preschool attendance, or number of children. Non-working fathers showed more authoritarian attitudes than working fathers. Fathers of daughters scored higher on interest and closeness, while fathers in single-child families scored higher on caregiving and participation. A moderate positive relationship was observed between democratic parenting attitudes and FIS subdimensions. Authoritarian and permissive attitudes showed weaker positive relationships with specific FIS subdimensions, including caregiving and participation."
-    },
-    {
-      "id": "10.1177/10883576251407633",
-      "title": "Combining Evidence-Based Practices to Enhance Outcomes for Autistic Students: Considerations and Challenges",
-      "authors": [
-        "Karrie A. Shogren",
-        "Kara A. Hume",
-        "Lindsay F. Rentschler",
-        "Brian Boyd"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-01-15",
-      "doi": "10.1177/10883576251407633",
-      "url": "https://doi.org/10.1177/10883576251407633",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "service improvement"
-      ],
-      "abstract": "Adapting and combining evidence-based practices (EBPs) for use in high school special and general education in support of autistic youth can be a daunting process for researchers and practitioners alike. Ensuring the process is informed by autistic voices, is strengths-based, and addresses outcomes identified as priorities for autistic youth can pose additional challenges. This paper provides a description of the activities undertaken to combine two EBPs for use in inclusive high school settings, the Self-Determined Learning Model of Instruction (SDLMI), and Peer Supports. Points where the autistic voice was embedded in the process are highlighted, along with initial feedback from high school teachers and students. Challenges to the EBP adaptation and combination process, as well as barriers to implementation and next steps, are also discussed.",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
