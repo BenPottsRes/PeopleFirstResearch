@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T08:20:37Z",
+  "generated_at": "2026-05-17T08:33:31Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -10928,27 +10928,6 @@
         "communication"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07220-8",
-      "title": "The Relationship Between Parenting Attitudes and Participation of Fathers of Children With Developmental Disabilities",
-      "authors": [
-        "Alper Yusuf Köroğlu",
-        "Özlem Yilmaz Demirel",
-        "Kevser Kiliç"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-16",
-      "doi": "10.1007/s10803-026-07220-8",
-      "url": "https://doi.org/10.1007/s10803-026-07220-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Abstract Background In traditional societies, fathers are often viewed as authority figures with limited involvement in child development. This study examined the parenting attitudes and participation levels of fathers of children aged 3–6 with developmental disabilities in Türkiye. Method The sample consisted of 134 fathers who voluntarily participated. Data were collected using a demographic form, the Parental Attitude Scale (PAS), and the Father Involvement Scale (FIS) and analyzed with SPSS. Results and Conclusions Parenting attitudes did not significantly vary by the child’s gender, diagnosis, preschool attendance, or number of children. Non-working fathers showed more authoritarian attitudes than working fathers. Fathers of daughters scored higher on interest and closeness, while fathers in single-child families scored higher on caregiving and participation. A moderate positive relationship was observed between democratic parenting attitudes and FIS subdimensions. Authoritarian and permissive attitudes showed weaker positive relationships with specific FIS subdimensions, including caregiving and participation."
     }
   ]
 }
