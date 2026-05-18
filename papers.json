@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T08:33:31Z",
+  "generated_at": "2026-05-18T10:42:01Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -108,6 +108,76 @@
         "service improvement"
       ],
       "abstract": "Objective: While individual nutrients have shown effects on inflammatory mechanisms, the effects of multinutrients (vitamins + minerals, antioxidants, and amino acids) on inflammation are unknown. We investigated whether 8 weeks of multinutrient supplementation, in a randomized controlled trial of 83 children with ADHD, would alter immune factors compared to placebo. Methods: Multiplex technology was used to measure 25 immune factors in blood samples collected at baseline and week 8. Immune factors were compared between multinutrient and placebo groups using the Mann-Whitney test. Linear mixed effects models evaluated immune factor change over time. To understand the functional relevance of the immune factors affected by multinutrient supplementation, pathway analysis was performed using the Database for Annotation, Visualization, and Integrated Discovery (DAVID) v6.7 Bioinformatics Resources. Results: Interleukin (IL)-5 and IL-13 levels differed following multinutrient supplementation versus placebo ( p = .005 and .03, respectively). IL-5 decreased by 1.3% in the multinutrient group (95% CI [−8.6%, 6.7%]) and increased by 17.5% in the placebo group (95% CI [6.9%, 29.2%]). IL-13 de…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2671192",
+      "title": "Psychotropic medication use and health-related behaviors in adults with autism spectrum disorder",
+      "authors": [
+        "Malu Ribeiro Drumond",
+        "Juliane Duarte Santos",
+        "Mônica T. Soares Macedo",
+        "Thais de Oliveira Faria Baldo",
+        "Marcelo Perim Baldo"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-05-18",
+      "doi": "10.1080/20473869.2026.2671192",
+      "url": "https://doi.org/10.1080/20473869.2026.2671192",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70281",
+      "title": "<scp>ShopAutiPlan</scp>\n                    : Validating a Serious Game for Assessing Executive Planning in Autism",
+      "authors": [
+        "Athmar N. M. Shamhan",
+        "Marrianna Constantinou",
+        "Howraa Hajaig",
+        "Marwa Qaraqe",
+        "Dena Al‐Thani"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-05-17",
+      "doi": "10.1002/aur.70281",
+      "url": "https://doi.org/10.1002/aur.70281",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently experience difficulties in executive functions, particularly planning and goal‐directed behavior, yet traditional assessments such as the Tower of London and Zoo Map offer limited ecological validity and do not capture how planning challenges manifest in everyday contexts. This study introduces and validates ShopAutiPlan, a supermarket‐based serious game designed to assess planning skills through naturalistic, multistep tasks. A total of 57 children aged 7–10 years (27 ASD and 30 neurotypical), matched on age and IQ, completed both the game and conventional EF assessments, including the BRIEF‐2 and two BADS‐C subtests (Zoo Map and Key Search). ShopAutiPlan automatically recorded behavioral indicators related to task completion and efficiency. Group comparisons revealed that neurotypical children outperformed those with ASD across all standardized measures, and autistic participants exhibited reduced in‐game efficiency—demonstrated by longer completion times, greater distances traveled, and more pauses—despite achieving similar item completion. Significant correlations between game‐derived metrics and traditional plann…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70275",
+      "title": "Auditory Sensitivity in Autism: A Systematic Review of Mismatch Negativity and Mismatch Field Responses",
+      "authors": [
+        "Sara Cacciato‐Salcedo",
+        "Shreya Jaokar",
+        "Neil J. Ingham",
+        "Manuel S. Malmierca",
+        "Marija M. Petrinovic"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-05-17",
+      "doi": "10.1002/aur.70275",
+      "url": "https://doi.org/10.1002/aur.70275",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Auditory mismatch responses—mismatch negativity (MMN) and mismatch fields (MMF)—are well established electrophysiological markers of automatic auditory discrimination supported by short‐term sensory memory. These responses, typically elicited using passive oddball paradigms, are increasingly used to investigate sensory and language processing in autism. This systematic review synthesizes findings from 55 studies comparing MMN and MMF responses in autistic and typically developing (TD) individuals across childhood, adolescence, and adulthood. Using the Synthesis Without Meta‐analysis (SWiM) framework, we identified consistent evidence for smaller MMN amplitudes and reduced MMF power in autistic children and adolescents relative to TD peers, particularly in response to frequency, duration, and speech‐based deviants. Studies also frequently reported longer mismatch latencies in autistic participants and associated these delays with language difficulties and heightened auditory sensitivity. Although some studies reported age‐related convergence in MMN and MMF measures between autistic and TD groups in later childhood or adolescence, greater right‐hemisphere lateralization in a…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/1034912x.2026.2667965",
@@ -10829,105 +10899,6 @@
         "Employment"
       ],
       "abstract": "This study explores the integration of augmented reality (AR) technology into supported employment programs to enhance employment outcomes for individuals with intellectual and developmental disabilities (IDD). The research aimed to evaluate the effectiveness of a novel AR-based application functioning as a virtual job coach, providing real-time, context-specific guidance on completing complex job tasks. Employing a single subject multiple probe across participants design, data were collected from four young adults with IDD. The results showed significant improvements in job task performance; participants’ accuracy rose from an average of 12% during the baseline phase to 94% with the AR intervention. All participants reached mastery criteria, defined as completing at least 90% of steps correctly and independently across four sessions. The study highlights the potential of AR to improve training efficiency, reduce the demand for in-person job coaching, and broaden employment opportunities for individuals with IDD."
-    },
-    {
-      "id": "10.1007/s10803-026-07216-4",
-      "title": "Parental External Shame and Family Functioning in Households of Children With Autism Spectrum Disorder",
-      "authors": [
-        "Aikaterini Sousamli",
-        "Dimitra Metallinou",
-        "Dimitrios Anagnostopoulos",
-        "Antigoni Sarantaki"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-17",
-      "doi": "10.1007/s10803-026-07216-4",
-      "url": "https://doi.org/10.1007/s10803-026-07216-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose This study investigates the relationship between maternal external shame and family functioning in families raising a child with autism spectrum disorder (ASD). The objective is to explore the association between parental feelings of shame, perceived inferiority, and the overall functioning of families raising children with ASD. Methods A cross-sectional study was conducted with 517 families across Greece. Parents completed validated questionnaires, including the External Shame Scale and subscales measuring family functioning (e.g., communication, problem-solving, personal goals). Statistical analyses included Pearson/Spearman correlations, as well as multivariate linear regressions, to identify predictive relationships. Results The findings revealed a significant negative association between maternal external shame and key aspects of family functioning, including problem solving, communication, and personal goals. Higher levels of external shame were linked to more dysfunctional family patterns, underscoring the emotional and relational burden experienced by mothers of children with ASD. Conclusion Parental external shame significantly impacts family functioning i…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07213-z",
-      "title": "Reduced Gaze-Stimulus Synchrony to a Rhythmic Children’s Song in Young Children With Autism: A Recurrence Quantification Analysis Approach",
-      "authors": [
-        "Zhong Zhao",
-        "Zeqin Zheng",
-        "Chengquan Lin",
-        "Xiaobin Zhang",
-        "Xinyao Hu",
-        "Xin Zhang",
-        "Qiongling Peng",
-        "Xingda Qu"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-17",
-      "doi": "10.1007/s10803-025-07213-z",
-      "url": "https://doi.org/10.1007/s10803-025-07213-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-025-07212-0",
-      "title": "Differential Associations of Pitch Discrimination and Rapid Auditory Processing With Emotional Prosody Recognition in Autistic and Non-autistic Children",
-      "authors": [
-        "Ming Lui",
-        "Gilbert K. B. Lau",
-        "Wing-Chee So",
-        "Staci M. Weiss",
-        "Simpson W. L. Wong"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-17",
-      "doi": "10.1007/s10803-025-07212-0",
-      "url": "https://doi.org/10.1007/s10803-025-07212-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Abstract Purpose Vocal cues embed speech with crucial emotional expression. Recognizing subtle changes in intonation, pitch and prosody provides rich social information and cues for responding in everyday interactions — cues that may be missed by individuals with differences in sensory processing and social development, such as those with autism. Although atypical auditory processing in autism is well-established in the literature, the contribution of these sensory differences to emotional prosody recognition requires further investigation. This study examined whether the associations of auditory abilities and social cognition with emotional prosody recognition differ between autistic and non-autistic children. Methods Twenty-eight autistic children and twenty-eight non-autistic children completed tasks assessing rapid auditory processing (RAP), pitch discrimination, social cognition (SC), and emotional prosody recognition (EPR) of spoken words and sentences. Results Autistic children demonstrated better RAP but lower SC performances compared to non-autistic children. No group differences were found in pitch discrimination or emotional prosody recognition. Across both groups, bette…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07215-5",
-      "title": "Social Communication Difficulties in Children with Autism Spectrum Disorder (ASD Level 1): The Mediating Role of Cognitive Disengagement Syndrome",
-      "authors": [
-        "Burçin Şeyda Karaca",
-        "Gonca Özyurt"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-17",
-      "doi": "10.1007/s10803-026-07215-5",
-      "url": "https://doi.org/10.1007/s10803-026-07215-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
