@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T10:08:50Z",
+  "generated_at": "2026-05-20T09:55:39Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -108,6 +108,34 @@
         "service improvement"
       ],
       "abstract": "Objective: While individual nutrients have shown effects on inflammatory mechanisms, the effects of multinutrients (vitamins + minerals, antioxidants, and amino acids) on inflammation are unknown. We investigated whether 8 weeks of multinutrient supplementation, in a randomized controlled trial of 83 children with ADHD, would alter immune factors compared to placebo. Methods: Multiplex technology was used to measure 25 immune factors in blood samples collected at baseline and week 8. Immune factors were compared between multinutrient and placebo groups using the Mann-Whitney test. Linear mixed effects models evaluated immune factor change over time. To understand the functional relevance of the immune factors affected by multinutrient supplementation, pathway analysis was performed using the Database for Annotation, Visualization, and Integrated Discovery (DAVID) v6.7 Bioinformatics Resources. Results: Interleukin (IL)-5 and IL-13 levels differed following multinutrient supplementation versus placebo ( p = .005 and .03, respectively). IL-5 decreased by 1.3% in the multinutrient group (95% CI [−8.6%, 6.7%]) and increased by 17.5% in the placebo group (95% CI [6.9%, 29.2%]). IL-13 de…"
+    },
+    {
+      "id": "10.1177/13623613261444800",
+      "title": "“Autism Diagnosis as a Guide”: Taiwanese Adolescents’ Own Experiences of Receiving Autism Diagnoses",
+      "authors": [
+        "Chun-Hao Liu",
+        "Wei-Cheng Lin",
+        "Louisa Lok Yee Man",
+        "Chih-Ju Wu",
+        "Romin W. Tafarodi",
+        "Lin Fang",
+        "Melanie Penner",
+        "Hsing-Chang Ni",
+        "Meng-Chuan Lai"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-19",
+      "doi": "10.1177/13623613261444800",
+      "url": "https://doi.org/10.1177/13623613261444800",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Receiving an autism diagnosis can significantly contribute to adolescent identity formation via different processes, such as coping with stigmatization and/or reframing the diagnosis as a foundation for self-understanding and self-acceptance. Despite the presumed importance of cultural context in this regard, little is known about how autistic adolescents experience their autism diagnoses in non-Western countries. We aimed to understand the experiences of Taiwanese autistic adolescents receiving autism diagnoses in a relationship-oriented, non-Western culture. Eight autistic adolescents aged 14–18 years (three assigned-male, five assigned-female) participated in in-depth individual interviews, with data analyzed by reflexive thematic analysis. These Taiwanese autistic adolescents used their autism diagnoses to gain self-understanding and guide social interactions, specifically, (a) to explain past experiences in relation to both positive and negative stereotypes about autism; (b) as a guide to autism knowledge and to provide a framework for modifying one’s own behaviors; (c) to seek connections with autistic peers and to be understood by non-autistic people; and (d) to negotiate wi…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00564-y",
@@ -9485,6 +9513,22 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -9505,22 +9549,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -11002,75 +11030,6 @@
       "tags": [
         "communication"
       ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07221-7",
-      "title": "Examining Depression Among Mothers of Autistic People in South Korea: A Mixed-Methods Approach",
-      "authors": [
-        "Chung Eun Lee",
-        "Kyung Mee Kim",
-        "In Young Cho",
-        "Yong-Moon Mark Park",
-        "Kyungdo Han"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-19",
-      "doi": "10.1007/s10803-026-07221-7",
-      "url": "https://doi.org/10.1007/s10803-026-07221-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07207-x",
-      "title": "Child and Family Characteristics as Predictors of the Severity of Self-injurious Behaviours in Autistic Children and Adolescents",
-      "authors": [
-        "Terence Jiang",
-        "Marc Wilson",
-        "Andrew J. O. Whitehouse",
-        "Willow Sainsbury",
-        "Hannah Waddington"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-19",
-      "doi": "10.1007/s10803-025-07207-x",
-      "url": "https://doi.org/10.1007/s10803-025-07207-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-025-07205-z",
-      "title": "Bridging the Gap: Evaluating the Efficacy of Low-Intensity Developmental Behavioral Intervention and Parent Education on Skill Acquisition in Children With Developmental Disorders Including Autism Spectrum Disorder",
-      "authors": [
-        "Eldin Dzanko",
-        "Nirvana Pistoljevic",
-        "Mihela Erjavec"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-19",
-      "doi": "10.1007/s10803-025-07205-z",
-      "url": "https://doi.org/10.1007/s10803-025-07205-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Abstract Purpose In low- and middle-income countries (LMICs), where the majority of children with developmental disorders live, access to early, specialized interventions is highly limited. While studies from high-income countries show that tailored early intervention can be effective in learning new skills, there remains a lack of evidence-based approaches specifically designed for the realities of LMICs. Methods The study included 50 preschoolers, 25 of whom (mean age = 52.4 months) participated in an individualized developmental and behavioral program combined with parent education in addition to preschool attendance over a six-month period. The remaining 25 children (mean age = 50.5 months) attended only preschool. The intervention averaged 2.9 h per week (range: 2.1–4 h) and targeted age-appropriate developmental goals. Additionally, parents received an average of 0.6 h per week (range: 0.2–0.7 h) of education to support the generalization of skills to daily life. Results Children who received the individualized developmental and behavioral intervention combined with parent education in addition to preschool made statistically significant progress across all developmental area…",
       "framing": "Medical or diagnostic framing"
     }
   ]
