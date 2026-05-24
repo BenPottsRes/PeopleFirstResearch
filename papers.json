@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T08:31:24Z",
+  "generated_at": "2026-05-24T08:44:37Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -2514,6 +2514,31 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -2539,31 +2564,6 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7849,36 +7849,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1007/s10803-026-07222-6",
-      "title": "Correction: Preferences for Identity-First and Person-First Language: A Systematic Review of Research with Autistic Adults/Adults with Autism",
-      "authors": [
-        "Rachel K. Schuck",
-        "Lacey Chetcuti",
-        "Patrick Dwyer",
-        "Katarina Milosavljevic",
-        "Simon M. Bury",
-        "Darren Hedley",
-        "Sander Begeer",
-        "Giacomo Vivanti",
-        "Mirko Uljarevic"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1007/s10803-026-07222-6",
-      "url": "https://doi.org/10.1007/s10803-026-07222-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1177/13623613251414902",
       "title": "A double-masked randomised actively controlled trial of KONTAKT™ social skills toolbox for Australian autistic children",
       "authors": [
@@ -9579,6 +9549,22 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -9599,22 +9585,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -10691,74 +10661,6 @@
       ],
       "domains": [
         "Education"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07227-1",
-      "title": "Machine Learning–Assisted Autism Risk Stratification in Toddlers Using the Vietnamese M-CHAT-R and Perinatal Predictors: A Cross-Sectional Study in Vietnam",
-      "authors": [
-        "Thi Van Vo",
-        "Phuong Minh Nguyen",
-        "Duy Nhat Nguyen",
-        "Trinh Van Nguyen",
-        "Dien Minh Thai",
-        "Hung Huynh Vinh Ly",
-        "Trinh Nguyen Ngoc Luu"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-23",
-      "doi": "10.1007/s10803-026-07227-1",
-      "url": "https://doi.org/10.1007/s10803-026-07227-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07224-4",
-      "title": "Association of the Observer-Reported Communication Ability (ORCA) Measure with Established Communication Measures: Insights From the Angelman Syndrome Natural History Study",
-      "authors": [
-        "Abigail Rader",
-        "Li Lin",
-        "Harrison N. Jones",
-        "Wen-Hann Tan",
-        "Anjali Sadhwani",
-        "Allyson Berent",
-        "Batsheva Friedman",
-        "Nicole Lucas",
-        "Kelly Gordon",
-        "Bryce B. Reeve"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-23",
-      "doi": "10.1007/s10803-026-07224-4",
-      "url": "https://doi.org/10.1007/s10803-026-07224-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2026.2616734",
-      "title": "The effect of motivational training on memory in the children with autism spectrum disorder",
-      "authors": [
-        "Javad Afshari",
-        "Nahideh Afshari"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-01-23",
-      "doi": "10.1080/20473869.2026.2616734",
-      "url": "https://doi.org/10.1080/20473869.2026.2616734",
-      "neurotype": [
-        "Autism"
       ],
       "framing": "Mixed or transitional framing"
     }
