@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T10:19:01Z",
+  "generated_at": "2026-05-27T10:30:33Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -705,6 +705,101 @@
       "domains": [
         "Emergency care"
       ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2676148",
+      "title": "The effect of body percussion training on anxiety, sleep problems, and social interactions of children with autism spectrum disorder",
+      "authors": [
+        "Fatemeh Soleamani",
+        "Maryam Nezakat Alhosseini",
+        "Mehdi Rafei Boroujeni",
+        "Zahra Khalaji",
+        "Monika Geretsegger"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-05-26",
+      "doi": "10.1080/20473869.2026.2676148",
+      "url": "https://doi.org/10.1080/20473869.2026.2676148",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2671185",
+      "title": "A systematic review and meta-analysis of the relationship between social support and post-traumatic growth in caregivers of autistic children",
+      "authors": [
+        "April Lloyd",
+        "Jac Airdrie",
+        "Cerith Waters"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-05-26",
+      "doi": "10.1080/20473869.2026.2671185",
+      "url": "https://doi.org/10.1080/20473869.2026.2671185",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261453645",
+      "title": "Effectiveness of Usual-Care Multimodal Cognitive Behavioral Therapy for Adolescents With Attention-Deficit/Hyperactivity Disorder Rated by Parents and Patients",
+      "authors": [
+        "Daniel Walter",
+        "Eva Katharina Matthias",
+        "Elena von Wirth",
+        "Lydia Dachs",
+        "Anja Goertz-Dorten",
+        "Christiane Rademacher",
+        "Stephanie Schuermann",
+        "Katrin Woitecki",
+        "Tanja Wolff Metternich-Kaizman",
+        "Manfred Doepfner"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-05-26",
+      "doi": "10.1177/10870547261453645",
+      "url": "https://doi.org/10.1177/10870547261453645",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "Objective: Highly controlled, randomized controlled trials (RCTs) have provided evidence of the efficacy of multimodal cognitive behavioral therapy (CBT) including pharmacotherapy in adolescents with attention-deficit/hyperactivity disorder (ADHD). However, the effectiveness under routine care conditions has not been sufficiently evaluated. The present study investigates this transfer of evidence from randomized controlled trials to routine clinical practice investigating a large clinically referred sample of adolescents with ADHD receiving a CBT treatment under routine care conditions. Methods: In a sample of N = 420 adolescents with ADHD, we analyzed changes in parent- and self-rated emotional and behavioral symptoms during routine treatment at a university outpatient clinic using paired t -tests, effect sizes, and comparisons to a historical waitlist control group. The treatment included multimodal CBT for all patients and pharmacotherapy for about a quarter of patients. Results were compared to a historical waitlist control group. Results: In the total sample, small to medium pre-post effect sizes emerged for parent-rated ( d = 0.47–0.68) and self-rated ( d = 0.37–0.47) emotion…"
+    },
+    {
+      "id": "10.1002/aur.70282",
+      "title": "The Effectiveness of Acceptance and Commitment Therapy Group Intervention (Navigator\n                    <scp>ACT</scp>\n                    ) for Parents of Children With Neurodevelopmental Disabilities: A Randomized Controlled Trial",
+      "authors": [
+        "T. Holmberg Bergman",
+        "P. Lappalainen",
+        "A. Ghaderi",
+        "T. Hirvikoski"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-05-26",
+      "doi": "10.1002/aur.70282",
+      "url": "https://doi.org/10.1002/aur.70282",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT High levels of parental stress and psychological inflexibility are common among caregivers raising children with neurodevelopmental disabilities. Navigator ACT is a group‐based treatment developed to increase psychological flexibility and reduce the impact of stress among parents of children with various disabilities (e.g., autism spectrum disorder, ADHD, intellectual disability, acquired brain injury). This two‐arm randomized controlled trial ( n = 137) was conducted in Sweden within outpatient disability services setting, and pre‐registered in the clinical trials register. To compare conditions, stressed and distressed parents were randomly assigned to either the ACT group ( n = 70) or treatment‐as‐usual (TAU, n = 67). In the ACT group, 83.3% completed the full course of treatment. Mixed‐model linear regression analyses indicated that ACT was significantly more effective than TAU in reducing self‐reported psychological inflexibility ( p &lt; 0.002, d = 0.84) and parenting stress (p &lt; 0.001, d = 0.38). These improvements were maintained at four‐month follow‐up. Parents in the ACT group also reported significantly greater improvements in their children's prosocial behav…",
       "framing": "Medical or diagnostic framing"
     },
     {
@@ -8146,66 +8241,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613251406094",
-      "title": "Community views on the assessment and diagnosis of autism: Principles to guide clinical practice",
-      "authors": [
-        "Rhylee Sulek",
-        "Rachelle Wicks",
-        "Emma Hinze",
-        "Nicole Dargue",
-        "Briohny Dempsey",
-        "Emma Goodall",
-        "Libby Groves",
-        "David Trembath",
-        "Hannah Waddington",
-        "Andrew JO Whitehouse",
-        "Kandice J Varcin"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251406094",
-      "url": "https://doi.org/10.1177/13623613251406094",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "This study aimed to identify guiding principles to underpin assessment and diagnosis of autism to improve the quality, consistency and accuracy of services provided to individuals and their families. An online survey and focus groups were used to capture community perspectives of members of the Australian autistic and autism communities. A total of 871 individuals participated across the research activities, including autistic individuals ( n = 253), parents of autistic individuals ( n = 344), practitioners ( n = 325) and members of organisations with an interest in the assessment and/or diagnosis of autism ( n = 115). Three overarching themes, encompassing 15 codes, representing the principles that should underpin practice across the assessment and diagnostic process were developed (a) placing the person at the centre of the process; (b) understanding and valuing the whole person and (c) improving quality and access. Assessment and diagnosis for autism should go beyond diagnostic decision-making to include understanding of individual needs and identifying support pathways. The principles identified serve as a first step to guiding practitioners in their approach, ensuring they wor…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613251412722",
-      "title": "‘It’s not fair, this isn’t what an autistic person should go through’: Experiences of autistic adults on inpatient mental health wards",
-      "authors": [
-        "Rhiannon Williams"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251412722",
-      "url": "https://doi.org/10.1177/13623613251412722",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "When an autistic person requires inpatient mental health support, they should be supported in mainstream services with reasonable adjustments. However, there is a lack of research into how autistic service users find their admissions to mental health wards. Ten United Kingdom-based autistic adults took part in semi-structured interviews to explore their experiences of being a mental health inpatient. These results were analysed using reflexive thematic analysis (RTA) and four themes were developed: ‘I’m not mental health, I’m not autism, I’m just me’, ‘All the noise. All the people. All the unpredictability’, ‘You work out how to survive’, and ‘It’s the usual set up, all the decisions had been made’. Results highlighted a negative overall appraisal of inpatient admissions, with specific difficulties in a lack of nuanced autism understanding, sensory environments, unpredictability and a felt sense of powerlessness. Findings indicate further autism training is required for staff working on inpatient wards, as well as changes to sensory environments that could benefit neurodivergent populations. These changes should detail how to put in place reasonable adjustments throughout a person…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70185",
       "title": "Examining the Relationship Between Social Motivation and Internalizing Symptoms in Autistic People: A Systematic Review and Meta‐Analysis",
       "authors": [
@@ -9635,22 +9670,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -9671,6 +9690,22 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -10659,28 +10694,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547251415431",
-      "title": "Gender Differences in Cognitive Behavioral Therapy Outcomes for Adolescents With ADHD: Examining the Impact of Internalizing Symptoms",
-      "authors": [
-        "Taylor K. Hanes",
-        "Ann Christin Andersen",
-        "Bianca E. Boyer",
-        "Kyle Wagner"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-01-26",
-      "doi": "10.1177/10870547251415431",
-      "url": "https://doi.org/10.1177/10870547251415431",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Objective: This study investigates the effectiveness of Cognitive Behavioral Therapy (CBT) for adolescents with ADHD, while focusing on gender differences and comorbid internalizing symptoms. Method: A quantitative secondary data analysis was performed on 200 adolescents aged 12 to 18 years who participated in randomized control trials in either the Netherlands or Norway. Results: Overall, CBT significantly reduced ADHD symptoms from pretest to posttest on parent measures; however, treatment response varied based on gender, internalizing symptoms, and treatment formats. Girls with elevated depression showed significantly smaller reductions in ADHD symptoms compared to boys with similar depressive profiles ( p = .02), even after controlling for baseline ADHD severity. Effect size analyses revealed that girls benefited from both CBT delivery formats, but symptom improvement was nearly twice as large in individual CBT ( d = 0.90, large effect) compared to group CBT ( d = 0.49, moderate effect). Conclusion: These findings suggest that depression may impact treatment response among girls, and that individual CBT may offer enhanced benefits for adolescent girls with ADHD."
     }
   ]
 }
