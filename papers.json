@@ -1,8 +1,33 @@
 {
-  "generated_at": "2026-05-28T10:34:14Z",
+  "generated_at": "2026-05-29T10:14:37Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1108/aia-12-2025-0128",
+      "title": "The relationship between cognitive function and narrative speech in attention-deficit/hyperactivity disorder and autism spectrum disorder",
+      "authors": [
+        "Hoorieh Darvishi",
+        "Mohammad Rezaei"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-06-02",
+      "doi": "10.1108/aia-12-2025-0128",
+      "url": "https://doi.org/10.1108/aia-12-2025-0128",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to compare cognitive functions and narrative speech abilities in Persian-speaking adolescents with autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD) and typically developing (TD) peers. It also examined the relationships between these cognitive functions and narrative speech within each group. Design/methodology/approach A cross-sectional comparative design was used with 90 children aged 12–14 years (25 ASD, 25 ADHD, 40 TD). Cognitive assessment included the Stroop task for attention and the Auditory Verbal Learning Test for memory. Narrative speech was evaluated with a standardized Persian test. Findings Significant differences were found in memory recall, narrative speech and memory recognition, but not in attention. The TD group outperformed both clinical groups. The ADHD group performed better than the ASD group in these domains. Attention did not differ between clinical groups. No significant correlations were found between cognitive functions and narrative speech within the clinical groups. Research limitations/implications Findings indicate narrative deficits in ASD and ADHD stem from disorder-specific factors beyond basi…",
+      "framing": "Medical or diagnostic framing"
+    },
     {
       "id": "10.1177/13623613261446878",
       "title": "Longitudinal Association Between Social Support and Quality of Life Among Middle-Aged and Older Autistic Adults",
@@ -617,6 +642,105 @@
       "abstract": "Objective: There is limited knowledge about how female specific factors such as fluctuating sex hormones influence symptom display and health-related conditions that are unique to, or more prevalent in females with ADHD. This study aims to investigate how women of reproductive age with ADHD experience their ADHD symptoms and well-being in relation to hormonal fluctuations, and secondly, how they perceive hormonal and reproductive counseling in healthcare. Method: Semi-structured interviews were conducted with 14 women with ADHD and analyzed using inductive thematic analysis. Results: Three main themes emerged from the analysis; (1) Controlled by female hormones, (2) Frustration with lack of knowledge/understanding, and (3) Living with ADHD and comorbidities. Many women have experienced challenges and fluctuations related to hormonal changes during their menstrual cycles and in different stages of life. Using hormones to stabilize mood and impulsivity and adjusting stimulant doses were suggested as potential solutions. Participants expressed frustration about the lack of knowledge, interest, and understanding from healthcare professionals regarding ADHD and how hormones influenced s…"
     },
     {
+      "id": "10.1007/s10803-026-07341-0",
+      "title": "Calendar Calculation Savant Syndrome in Autism Spectrum Disorder: Cognitive Function Measured by the Wechsler Intelligence Scale",
+      "authors": [
+        "Yoko Kawasaki",
+        "Mieko Shinomiya",
+        "Takao Mishima",
+        "Tamiko Ino",
+        "Rie Ishida",
+        "Kazuko Sakai",
+        "Kaoru Mizuno",
+        "Mizuho Takayanagi",
+        "Yu Hamamoto",
+        "Hideo Honda",
+        "Shin-ichi Niwa"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-29",
+      "doi": "10.1007/s10803-026-07341-0",
+      "url": "https://doi.org/10.1007/s10803-026-07341-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s40489-025-00537-7",
+      "title": "The Lived Experience of Time in Autism. A Narrative Review",
+      "authors": [
+        "Maciej Wodziński",
+        "Marcin Moskalewicz"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-29",
+      "doi": "10.1007/s40489-025-00537-7",
+      "url": "https://doi.org/10.1007/s40489-025-00537-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ]
+    },
+    {
+      "id": "10.1186/s11689-026-09698-w",
+      "title": "Early developmental trajectories associated with different styles and intensities of ESDM-based community intervention",
+      "authors": [
+        "Liliana Ruta",
+        "Elisa Leonardi",
+        "Cristina Carrozza",
+        "Francesca I. Famà",
+        "Agrippina Campisi",
+        "Stefania Aiello",
+        "C Blandino",
+        "I Boccafoschi",
+        "M Boncoddo",
+        "M Bruschetta",
+        "I Crimi",
+        "F Di Bella",
+        "G Lazzaro",
+        "S Martines",
+        "A Orsina",
+        "M.G. Rosano",
+        "Flavia Marino",
+        "Alfia Ruggieri",
+        "Sabrina Baieli",
+        "Daniela Mangiapane",
+        "Gaetano Vivona",
+        "Sebastiano Marciante",
+        "Gaspare Cusimano",
+        "Antonio Narzisi",
+        "Filippo Muratori",
+        "Antonella Gagliano",
+        "Costanza Colombi",
+        "Gennaro Tartarisco",
+        "Marilina Mastrogiuseppe",
+        "Sally J. Rogers",
+        "Michael V. Lombardo",
+        "Giovanni Pioggia"
+      ],
+      "journal": "Journal of Neurodevelopmental Disorders",
+      "year": 2026,
+      "published_date": "2026-05-29",
+      "doi": "10.1186/s11689-026-09698-w",
+      "url": "https://doi.org/10.1186/s11689-026-09698-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Background The Early Start Denver Model (ESDM) is a naturalistic developmental behavioral intervention (NDBI) widely used to support early development in young autistic children. This study examines early developmental trajectories associated with different styles and intensities of ESDM-based intervention compared with community Therapy as Usual (TAU) over a 6-month period. It also explores predictors of individual language development based on the intervention style. Methods A total of 112 autistic children participated in the study and were assessed longitudinally while receiving either higher (6 h a week) or lower (3 h a week) intensity ESDM, or TAU at higher (6 h a week) intensity ( N = 29, 32, and 51 participants in each group, respectively). Results The primary findings show that children receiving higher-intensity ESDM exhibited steeper developmental trajectories than children receiving TAU in all the developmental areas such as Language, Personal-Social skills, Performance, Eye-Hand coordination and the General score. Notably, lower-intensity ESDM was associated with steeper developmental gains in individual general development, language, personal social skills, a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07353-w",
       "title": "First Impressions Count: A Systematic Literature Review Exploring Parents of Autistic Children’s First Encounters With Healthcare Professionals",
       "authors": [
@@ -683,6 +807,62 @@
         "Mental health"
       ],
       "abstract": "Abstract Purpose Mental health (MH) challenges in autistic youth are often under-identified due in part to limited availability of assessment tools developed or adapted for the autism population. The K-CAT ® , a battery of computerized adaptive tests assessing up to nine MH domains in the general population, shows promise in addressing this need. Because these general instruments may not be valid or acceptable for use with autistic individuals, we evaluated the K-CAT ® ’s content validity for autistic youth with input from the autism community. Methods Feedback was obtained from autistic youth, caregivers, and clinicians on the K-CAT ® through a mixed methods research design. One-hundred-fifty-one youth and caregivers provided feedback on ease of administration, relevance, comprehensiveness, and comprehensibility of the K-CAT ® overall. Thirty youth/caregiver dyads and 15 clinicians then participated in the mixed methods study of the K-CAT ® at the module- and item-level. Results While participants had positive impressions of the K-CAT ® overall, weaknesses were identified by most participants and several recommendations for change were provided. The modules identified as most chal…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261445633",
+      "title": "Capturing Phenotypic Heterogeneity in Differentiated Sensory Processing Profiles: Non-Syndromic Autism and Fragile X Syndrome",
+      "authors": [
+        "Chandler E. Knott",
+        "Jane E. Roberts",
+        "Elizabeth A. Will"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-28",
+      "doi": "10.1177/13623613261445633",
+      "url": "https://doi.org/10.1177/13623613261445633",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Proficient sensory processing affords adaptive responses required for daily functioning. Sensory processing differences are common across neurodevelopmental disabilities (NDDs), including autism and fragile X syndrome (FXS), and, in some cases, associated with challenging behaviors. Although sensory processing differences are common in both autism and FXS, little is known about possible variation as a function of genetic etiology, or autism classification. This study characterized sensory processing features and examined associations between these features and challenging behavior in 102 male participants—non-syndromic autism ( n = 37), FXS-only ( n = 15), FXS + ASD ( n = 20), and neurotypical (NT) children ( n = 30). Autistic children demonstrated the highest levels of sensory processing differences; however, nuanced group differences were also identified. The autistic groups (autism and FXS + ASD) were similar on hypo-responsivity and sensory seeking, and the FXS groups (FXS-only and FXS + ASD) were similar on hyper-responsivity and sensory seeking. Within-group associations between sensory differences and challenging behavior were relatively similar across groups. Findings have…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613261447759",
+      "title": "The Association Between Motor and Social Skills in Young Autistic Children Enrolled in the Study to Explore Early Development",
+      "authors": [
+        "Olivia M. Pokoski",
+        "Hideko Engel",
+        "Sarah M. Furnier",
+        "Ronald Gangnon",
+        "Patrick Powell",
+        "Nuri Reyes",
+        "Brittany G. Travers",
+        "Lisa D. Wiggins",
+        "Maureen S. Durkin"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-28",
+      "doi": "10.1177/13623613261447759",
+      "url": "https://doi.org/10.1177/13623613261447759",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Motor difficulties are common in autistic individuals and may contribute to challenges in social development. Understanding the association between motor and social skills could inform interventions to improve developmental outcomes. Using data from the Study to Explore Early Development—a large, diverse sample of rigorously characterized preschool-aged autistic children in the United States—we aimed to (a) describe the frequency of motor challenges using multiple standardized instruments; and (b) evaluate associations between motor and social skills. Children were identified from health and education organizations and birth records. Caregivers completed standardized interviews and questionnaires, and children completed comprehensive developmental evaluations to determine autism status. Among 2,039 children meeting the study autism criteria, 67.3% exhibited motor scores ⩾2 standard deviations below the mean on at least one measure. Motor difficulties were more prevalent in the fine motor (up to 63.4%) than gross motor (14.2%) domain and among children with significant visual reception delays (up to 92.8%) than those without these delays (up to 32.0%). After adjusting for covariates…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6135,28 +6315,6 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -6181,6 +6339,28 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
+    },
+    {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -10840,76 +11020,6 @@
       "tags": [
         "communication"
       ]
-    },
-    {
-      "id": "10.1007/s10803-025-07204-0",
-      "title": "Distinguishing Behavioral Comorbidities in Autism: The Predominant Role of Attention and Thought Problems in Social Skills Difficulties",
-      "authors": [
-        "Tanin Adl Parvar",
-        "Keyvan Karimi",
-        "Pegah Rasoulian",
-        "Sina Dolatshahi",
-        "Sara Asgarian",
-        "Khashayar Danandeh",
-        "Tina Taherkhani",
-        "AmirHossein Memari",
-        "Mohammad Ali Mansournia"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-28",
-      "doi": "10.1007/s10803-025-07204-0",
-      "url": "https://doi.org/10.1007/s10803-025-07204-0",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07225-3",
-      "title": "The Role of Demographic and Autism Specific Factors on the Level of Depression in Autistic Adults",
-      "authors": [
-        "Ayşesu Sicimoğlu",
-        "Leonore de Wit",
-        "Sander Begeer"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-28",
-      "doi": "10.1007/s10803-026-07225-3",
-      "url": "https://doi.org/10.1007/s10803-026-07225-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Abstract Purpose Autistic adults often face co-occurring depressive symptoms. While previous studies have focused primarily on depression in children with autism, this study aims to investigate the factors associated with depressive syptoms in autistic adults. By examining a broader range of variables including sociodemographic factors and autistic traits like sensory sensitivity and restricted and repetitive behaviors, we seek to gain a more comprehensive understanding of the elevated levels of depression within this population. Methods This quantitative study utilized a cross-sectional design. Two hierarchical regression analyses were conducted. The first analysis included all participants (N=438), focusing on demographic factors such as age, gender, income, in the first model and autistic traits such as repetitive behaviors, and depressive symptoms in the second model. The second analysis included a reduced sample (N=305) that additionally incorporated sensory sensitivity data. Results Older age, lower income, and a greater number of co-occurring psychosocial problems were significantly associated with higher levels of depressive symptoms. Conclusions Our research, unique by its…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-025-07165-4",
-      "title": "Ability to Defer Gratification Attenuates the Negative Association Between Autistic Symptoms and Adaptive Functions in Young Children at Elevated Likelihood of Autism",
-      "authors": [
-        "Linn Andersson Konke",
-        "Terje Falck-Ytter",
-        "Ingrid Shragge",
-        "Sven Bölte",
-        "Karin Brocki"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-01-28",
-      "doi": "10.1007/s10803-025-07165-4",
-      "url": "https://doi.org/10.1007/s10803-025-07165-4",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose The aim of the study is to examine (i) if young children with a family history of autism and/or ADHD differ on executive functions and deferred gratification in comparison to peers with no family history of autism or ADHD, (ii) the specificity of these domains in relation to early-life autistic and ADHD symptoms and adaptive functioning, and (iii) if deferred gratification and strong EF skills may function as protective factors in the association between symptoms and adaptive behaviour. Methods A total of 77 infant siblings at 3 years of age with a family history of autism only, autism and co-occurring ADHD, or no family history of these conditions (FH-TL) were assessed on behavioural lab-tasks (EF and deferred gratification), parent-rated adaptive behaviour using Vineland, and clinician ratings using ADOS-2 (autistic symptoms) and ADHD DSM-5 symptom rating scale (ADHD RS). Results Group comparisons showed that FH-autism and FH-autism + ADHD groups received lower scores on common EF, but not on deferred gratification in comparison to the FH-TL group. Lower levels of deferred gratification related to autistic symptoms, while lower level on EF was specific to ADHD sy…"
     }
   ]
 }
