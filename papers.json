@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T12:09:46Z",
+  "generated_at": "2026-06-02T10:56:30Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -27,6 +27,56 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1007/s10803-026-07380-7",
+      "title": "Sensory Processing in Sexuality-Based Services for Autistic Individuals: A Cross-Sectional Survey",
+      "authors": [
+        "Sarah Gray",
+        "Jennifer Fortuna",
+        "Brittany Jones",
+        "Derek Lilley",
+        "Jillian Maginn"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-02",
+      "doi": "10.1007/s10803-026-07380-7",
+      "url": "https://doi.org/10.1007/s10803-026-07380-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07389-y",
+      "title": "Correction: Altered Higher-Order Structural and Functional Connectivity Coupling in Autism Spectrum Disorder",
+      "authors": [
+        "Zhen Dai",
+        "Lan Yang",
+        "Zhifeng Li",
+        "Xi Zhang",
+        "Jiayu Lu",
+        "Wei Wang",
+        "Ying Wang",
+        "Shuo Zhao",
+        "Bin Wang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-02",
+      "doi": "10.1007/s10803-026-07389-y",
+      "url": "https://doi.org/10.1007/s10803-026-07389-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1108/aia-12-2025-0128",
       "title": "The relationship between cognitive function and narrative speech in attention-deficit/hyperactivity disorder and autism spectrum disorder",
       "authors": [
@@ -50,6 +100,61 @@
       ],
       "abstract": "Purpose This study aims to compare cognitive functions and narrative speech abilities in Persian-speaking adolescents with autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD) and typically developing (TD) peers. It also examined the relationships between these cognitive functions and narrative speech within each group. Design/methodology/approach A cross-sectional comparative design was used with 90 children aged 12–14 years (25 ASD, 25 ADHD, 40 TD). Cognitive assessment included the Stroop task for attention and the Auditory Verbal Learning Test for memory. Narrative speech was evaluated with a standardized Persian test. Findings Significant differences were found in memory recall, narrative speech and memory recognition, but not in attention. The TD group outperformed both clinical groups. The ADHD group performed better than the ASD group in these domains. Attention did not differ between clinical groups. No significant correlations were found between cognitive functions and narrative speech within the clinical groups. Research limitations/implications Findings indicate narrative deficits in ASD and ADHD stem from disorder-specific factors beyond basi…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70280",
+      "title": "Limited Discrepancy Between Cognitive Ability and Daily Living Skills in Autism: A Longitudinal Study From Ages 2–25",
+      "authors": [
+        "Elaine B. Clarke",
+        "Catherine Lord",
+        "Vanessa H. Bal"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-02",
+      "doi": "10.1002/aur.70280",
+      "url": "https://doi.org/10.1002/aur.70280",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "ABSTRACT Many autistic individuals with average or higher cognitive abilities (also referred to as intelligence quotient; IQ) exhibit weaker than expected daily living skills (DLS). However, existing evidence is primarily cross‐sectional. This study examined: (1) how IQ‐DLS discrepancies develop from early childhood through early adulthood, (2) whether childhood factors (e.g., autism features, non‐verbal IQ) predict these developmental pathways, and (3) how IQ‐DLS discrepancy trajectories relate to adult experiences (e.g., employment, well‐being, relationships). Analyses included 92 individuals from the Longitudinal Study of Autism with average or better IQ and repeated assessments of IQ and DLS from ages 2–25 years. Developmental patterns in IQ‐DLS discrepancy scores were identified using group‐based trajectory modeling. Two trajectory groups were identified: IQ = DLS (commensurate cognitive and daily living skills) and IQ &gt; DLS (weaker DLS than expected for IQ). Most participants had commensurate IQ and DLS across development. When discrepancies emerged, they did so gradually, becoming apparent by mid‐childhood. White participants were more likely to be in the IQ &gt; DLS grou…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261442618",
+      "title": "Assess the Fidelity, Validity and Responsiveness of the Brief Observation of Social Communication Change (BOSCC) to Measure Changes in the Social Interactions of Preschool Children With Autism Spectrum Disorder",
+      "authors": [
+        "Agathe Jay",
+        "Lucie Jurek",
+        "Riham Hamadeh",
+        "Marie-Joelle Oreve",
+        "Carmen M. Schröder",
+        "Veronique Delvenne",
+        "Sandrine Sonie",
+        "Bruno Falissard",
+        "Olivia Febvey-Combes",
+        "Mario Speranza",
+        "Marie-Maude Geoffray"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1177/13623613261442618",
+      "url": "https://doi.org/10.1177/13623613261442618",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Accurately measuring changes in core autism symptoms following early intervention is challenging. The Brief Observation of Social Communication Change (BOSCC) is a promising tool for assessing social interactions in preschoolers with autism spectrum disorder (ASD). However, data on its responsiveness remain limited, warranting validation to support its use in evaluating treatment-related changes. This study aimed to assess the reliability, validity, and sensitivity to change of the BOSCC based on international recommendations from the COSMIN expert group. The BOSCC was rated using 414 video observations from a large multicenter randomized controlled trial including 177 preschoolers with ASD between 19 and 36 months. Videos were coded using the original BOSCC protocol by trained, blinded raters. Analyses addressed reliability, structural and convergent validity, and responsiveness over a 2-year follow-up. Interrater, intrarater, and test–retest reliability were consistently high, with good internal consistency (Cronbach’s α = 0.88–0.98). Factor analysis supported a three-factor structure. Convergent validity was modest with Autism Diagnostic Observation Scale (ADOS) change scores (r…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/13623613261446878",
@@ -3396,31 +3501,6 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -3446,6 +3526,31 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -9550,7 +9655,7 @@
       "id": "10.1007/s10803-026-07259-7",
       "title": "Altered Higher-Order Structural and Functional Connectivity Coupling in Autism Spectrum Disorder",
       "authors": [
-        "Zheng Dai",
+        "Zhen Dai",
         "Lan Yang",
         "Zhifeng Li",
         "Xi Zhang",
@@ -10278,6 +10383,22 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261421101",
+      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
+      "authors": [
+        "Lauren Powell"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-02-03",
+      "doi": "10.1177/25739581261421101",
+      "url": "https://doi.org/10.1177/25739581261421101",
+      "neurotype": [
+        "AuDHD",
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/25739581261419378",
       "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
       "authors": [
@@ -10298,22 +10419,6 @@
       ],
       "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/25739581251371874",
@@ -10760,303 +10865,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1089/aut.2024.0148",
-      "title": "Reacting, Retreating, Regulating, and Reconnecting: How Autistic Adults in the United Kingdom Use Time Alone for Well-Being",
-      "authors": [
-        "Florence Neville",
-        "Felicity Sedgewick",
-        "Stuart McClean",
-        "Jo White",
-        "Isabelle Bray"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2024.0148",
-      "url": "https://doi.org/10.1089/aut.2024.0148",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Background: Firsthand accounts by autistic people describe a need for regular time alone. However, there is little in the literature that explores (1) why time alone is desired, (2) how that time is spent, or (3) where that time is spent. This article describes a neurodiversity-informed, qualitative study that demonstrates the importance and purpose of “alone-time” for autistic adults. Methods: We interviewed 16 autistic adults living in the United Kingdom about how and where they spent their “alone-time” and the benefits experienced from this time. We conducted the interviews online, some using a video link, and some using a synchronously accessed text-based document, according to the participants’ preferences. Results: We used Reflexive Thematic Analysis with the interview data to generate four qualitative themes as follows: (1) reacting to social and sensory overwhelm; (2) retreating from social and sensory overwhelm; (3) regulating, recovering, and recharging; and (4) ready to reconnect with others. Conclusions: These themes highlight a need for balancing social activities and spaces with time and space alone and the benefits of creating or protecting spaces, which encourage re…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1089/aut.2023.0198",
-      "title": "Relationships Between Autistic Trait Dimensions and Speech Understanding, Affective Sound Intolerance, and Self-Reported Hearing Difficulties",
-      "authors": [
-        "Peter Bang",
-        "Kajsa Igelström"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2023.0198",
-      "url": "https://doi.org/10.1089/aut.2023.0198",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Background: Decreased sound tolerance (DST) is a disabling transdiagnostic phenomenon with high clinical relevance in autism. Neurodevelopmental DST is often studied as part of a general multisensory construct that includes both hyper- and hyposensitivity. Therefore, knowledge about the potential relevance of individual differences in the auditory modality is lacking. The purpose of the study was to begin to differentiate between commonly pooled auditory functions, by incorporating psychometric tools from the field of audiology. Methods: In a pilot sample ( N = 520 adults, 23% autistic), we used Bayesian correlations to quantify the contribution of individual auditory items from the Glasgow Sensory Questionnaire to the degree of social, communicative, and rigid autistic traits measured with the Broad Autism Phenotype Questionnaire (BAPQ) subscales. Then, we recruited an independent sample ( N = 175 adults, 18% autistic) to measure, more specifically, (1) emotional reactions to sounds (affective DST), (2) speech understanding difficulties, and (3) nonsocial auditory processing (spatial perception and stream segregation), using self-report questionnaires. We used multiple regression…"
-    },
-    {
-      "id": "10.1089/aut.2023.0172",
-      "title": "What Are the Lived Experiences of Strengths in Autistic Individuals? A Systematic Review and Thematic Synthesis",
-      "authors": [
-        "Claudia Chow",
-        "Kate Cooper"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2023.0172",
-      "url": "https://doi.org/10.1089/aut.2023.0172",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Research about strengths in autistic individuals has often been based on informant perspectives. These may not align with the subjective experiences and perspectives of autistic people themselves. This study therefore aimed to center the perspectives of autistic people through a qualitative synthesis investigating the lived experiences of strengths in autistic individuals. Methods: A systematic search identified 26 qualitative articles that met the inclusion criteria, out of articles that used qualitative methods to understand autistic participants’ perspectives on strengths in autism. Results: A thematic synthesis approach generated four themes as follows: wired differently, focused interests enrich life, embracing an autism identity, and context-dependent strengths. The review findings showed that autistic individuals value abilities and attributes that they can use to help them thrive in their daily lives, for example, by enhancing their performance at work, enjoyment during an activity, or helping others. Participants had differing views about whether their strengths were attributable to their autism. Autistic strengths extended beyond abilities to pride in having a…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1089/aut.2023.0167",
-      "title": "Meta-Synthesis of Autistic Adults’ First-Person Perspectives About Mental Health-Related Services",
-      "authors": [
-        "Lana Andoni",
-        "Abbey Eisenhower",
-        "Juliette Gudknecht",
-        "Heidi M. Levitt"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2023.0167",
-      "url": "https://doi.org/10.1089/aut.2023.0167",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Autistic adults are at high risk of co-occurring mental health disorders, including depression, anxiety, nonsuicidal self-injury, and suicidality. Existing services are not adequately meeting autistic adults’ mental health needs. To better inform evidence-based care, there is a need to synthesize and integrate autistic people’s perspectives about the mental health-related services they receive. Methods: Using the PRISMA method, 40 studies of first-person experiences for autistic adults about mental health-related services met inclusion for this systematic review. Electronic database searches in PsycINFO and PubMed were conducted up to July 2023. Studies needed to be published, qualitative or mixed-methods, and had to include self-report of autistic adults who had experiences with mental health-related services. Original articles were reviewed, coded, and analyzed in line with a modified critical constructivist grounded theory approach. Results: Twelve studies inquired about participants’ experiences and needs with general services, and 28 studies explored participants’ experiences with specific services such as specific mental health interventions, support groups, or so…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1089/aut.2024.0085",
-      "title": "“Going Through Life on Hard Mode”—The Experience of Late Diagnosis of Autism and/or ADHD: A Qualitative Study",
-      "authors": [
-        "Blandine French",
-        "Sarah Cassidy"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2024.0085",
-      "url": "https://doi.org/10.1089/aut.2024.0085",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: In the United Kingdom, more than 2.5 million adults with undiagnosed neurodevelopmental conditions, such as autism and attention-deficit/hyperactivity disorder (ADHD), can face difficulties accessing diagnosis and support. Our qualitative study explores people’s experiences of receiving a diagnosis in adulthood and its impact on their lives. Methods: We conducted semi-structured interviews with seven health care professionals and 13 late-diagnosed adults (5 autistic, 5 with ADHD, and 3 with dual diagnoses) using reflexive thematic analysis. Results: We developed five themes from the analysis representing the journey and factors influencing participants’ experiences of receiving a late diagnosis: (1) the key role of relationships and mental well-being; (2) the wider impact on well-being and lifelong mental health; (3) understanding—the answer to postdiagnosis changes; (4) the flip side of diagnosis—the burden of a label; and (5) are you ready—the importance of timing. Conclusion: Our study demonstrates the multiple impacts a lack of diagnosis has and the many benefits experienced from receiving one. Although a lack of diagnosis can at times have some negative effects, th…"
-    },
-    {
-      "id": "10.1089/aut.2023.0099",
-      "title": "Why We Need More Autistic Health Care Professionals and How to Support Them",
-      "authors": [
-        "Sara Eileen O’Neil Woods"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2023.0099",
-      "url": "https://doi.org/10.1089/aut.2023.0099",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Many autistic characteristics (especially attention to detail, social nonconformity, monotropism, and knowledge of autism) set autistic health care professionals apart as especially well-suited for their fields. Increasing the number of autistic health care professionals will benefit their clients, colleagues, and health care fields as a whole. Autistic health care professionals face many challenges, including being misunderstood and discouraged from participating in their fields. Despite the challenges, many health care professionals are thriving. Autistic connections and solidarity are an important part of helping autistic health care professionals overcome obstacles and succeed. Suggestions for making health care more accommodating of autistic people are offered. Recommendations are also provided for autistic health care professionals looking to find community and meet others in the same position.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1089/aut.2023.0192",
-      "title": "Neurodivergence and the Rabbit Hole of Extremism: Uncovering Lived Experience",
-      "authors": [
-        "Sachindri Wijekoon",
-        "John Robison",
-        "Christie Welch",
-        "Alexander Westphal",
-        "Rachel Loftin",
-        "Barbara Perry",
-        "Victoria Rombos",
-        "Christian Picciolini",
-        "Catherine Bosyj",
-        "Lili Senman",
-        "Patrick Jachyra",
-        "Simon Baron-Cohen",
-        "Melanie Penner"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2023.0192",
-      "url": "https://doi.org/10.1089/aut.2023.0192",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: There have been sporadic and disturbing media accounts of autistic people engaging with extreme ideologies, with comparatively little systematic exploration of this suggested association. Existing research has failed to consider the contextual factors that could influence these rare occurrences of engagement with extreme ideologies. This study explores how autistic individuals involved in extreme ideologies describe personal and contextual factors affecting their participation. Methods: Twelve individuals from Canada and the United States who were either diagnosed or self-identified as autistic and have engaged with extreme ideologies participated in semistructured interviews. The research approach and analysis of the data were informed by interpretative phenomenological analysis. Our interdisciplinary team met regularly to collectively examine initial assumptions and interpretations, while maintaining a central focus on the perspectives of the participants. Results: We identified the following three key themes: (1) early wounds, (2) missed formative opportunities, and (3) finding a fit for neurodivergence. Traumatic experiences, disenfranchisement, learned hatred from…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251410707",
-      "title": "Acknowledgment of Reviewers 2025",
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1177/25739581251410707",
-      "url": "https://doi.org/10.1177/25739581251410707",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1089/aut.2023.0117",
-      "title": "Autistic and Non-Autistic Experiences of Decreased Sound Tolerance and Their Association with Mental Health and Quality of Life",
-      "authors": [
-        "Nichole E. Scheerer",
-        "Troy Q. Boucher",
-        "Siamak Arzanpour",
-        "Grace Iarocci",
-        "Elina Birmingham"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2023.0117",
-      "url": "https://doi.org/10.1089/aut.2023.0117",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "Background: Decreased sound tolerance (DST) is an increased sensitivity to sound at levels that would not bother most people. DST is highly prevalent in autistic adults; however, the extent to which DST differs across autistic and non-autistic adults is uncertain. This study explores multiple domains of DST symptoms and the severity of DST symptoms, as well as the behavioral reactions and coping strategies adopted to manage DST in both autistic and non-autistic adults. Lastly relationships between DST, autism characteristics, mental health, and quality of life were explored. Methods: This study used online surveys to investigate the characteristics of DST in 77 autistic and 128 non-autistic adults who self-report DST, as well as the relationship between DST and autistic characteristics, mental health, and quality of life. Results: The results of this study indicated that clinically relevant misophonia, an aversion to specific sounds, was more prevalent in the sample of autistic adults who self-reported DST. Similarly, clinically relevant hyperacusis, a reduced tolerance to everyday sounds at volumes that would not be distressing to most people, was also more prevalent in the sample…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1089/aut.2023.0111",
-      "title": "Self-Report of Restricted Repetitive Behaviors in Autistic Adults: A Systematic Review",
-      "authors": [
-        "Emma Collis",
-        "Elizabeth Dark",
-        "Ailsa Russell",
-        "Mark Brosnan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2023.0111",
-      "url": "https://doi.org/10.1089/aut.2023.0111",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Background: Autism research has relatively neglected restricted repetitive behaviors (RRB) and autistic adults compared with the social domain of autism and autistic children. With this review, we aimed to synthesize what is currently known about autistic adult’s self-reported RRB, researcher’s use of methods, and consideration of masking and gender, and to highlight gaps in our knowledge to inform future research. Methods: We conducted a systematic search of five databases that we last ran in February 2023. We included studies where autistic adults self-reported on one or more subtypes of their repetitive behaviors. We conducted a narrative synthesis to summarize results. We used the Mixed Methods Appraisal Tool to assess the quality of included studies. Results: Our database search identified 35 studies to include for review. The majority of included studies focused on the sensory domain of RRB with other subtypes comparatively neglected. The narrative synthesis identified subject areas of stimuli characteristics, internal reactions, moderators, recovery, self-regulation, and social pressure. We uncovered a narrative where most autistic adults experience hypersensitivity to some…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1089/aut.2023.0214",
-      "title": "“The World’s Really Not Set Up for the Neurodivergent Person”: Understanding Emotion Dysregulation from the Perspective of Autistic Adults",
-      "authors": [
-        "Kelly B. Beck",
-        "Kristen T. MacKenzie",
-        "Tanvi Kumar",
-        "Kaitlyn E. Breitenfeldt",
-        "Judy C. Chang",
-        "Caitlin M. Conner",
-        "David L. Mandell",
-        "Susan W. White",
-        "Carla A. Mazefsky"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1089/aut.2023.0214",
-      "url": "https://doi.org/10.1089/aut.2023.0214",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Background: Emotion dysregulation is associated with mental health challenges and suicidality in autistic adults. Little is known about how emotion dysregulation manifests in adulthood and whether current services adequately support their needs. We explored autistic adults’ experiences of emotion dysregulation and identified key contributors to emotion dysregulation to inform future service development. Methods: We performed qualitative semi-structured interviews with autistic adults, in which they shared emotion dysregulation stories. Three researchers developed the codebook using a consensus approach, coded interviews, and completed thematic analyses. Autistic adults were part of our study team and involved at every step. Results: Fifteen autistic adults participated in the interviews. Emotion dysregulation was described in the context of a pervasive lack of control in various settings, most often experienced in health care settings. Limited awareness of internal states (i.e., emotions, sensory) until it was too late was a prominent theme. Many participants described emotion dysregulation as indistinguishable from sensory overload. Interpersonal conflict, largely social rejection…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2026.2616729",
-      "title": "Digital training for teachers on the inclusion of students with autism spectrum disorder in secondary school, sixth form and vocational training",
-      "authors": [
-        "José María Fernández Batanero",
-        "Pedro Román Graván",
-        "José Fernández Cerero",
-        "Marta Montenegro Rueda"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-02-01",
-      "doi": "10.1080/20473869.2026.2616729",
-      "url": "https://doi.org/10.1080/20473869.2026.2616729",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
