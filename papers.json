@@ -1,8 +1,150 @@
 {
-  "generated_at": "2026-06-03T11:23:10Z",
+  "generated_at": "2026-06-04T10:13:17Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-026-07376-3",
+      "title": "Autism and ADHD Strengths and Needs in a Nutshell – Parental Evaluation of a Digital ICF-Based Assessment Summary Report",
+      "authors": [
+        "John Hasslinger",
+        "Lovisa Alehagen",
+        "Karolina Bilir",
+        "Sven Bölte"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-04",
+      "doi": "10.1007/s10803-026-07376-3",
+      "url": "https://doi.org/10.1007/s10803-026-07376-3",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Returning results from psychological assessments is increasingly viewed as an ethical duty and a way to strengthen engagement and trust. The WHO International Classification of Functioning, Disability and Health (ICF) offers a framework to describe functioning across strengths, challenges, and contextual facilitators/barriers. Although ICF-based approaches map functioning in autism and ADHD, their use for individualized feedback to caregivers is underexamined. We evaluated caregivers’ perceptions of a digital summary report derived from a proxy-rated ICF-based assessment for children and adolescents with autism and/or ADHD. Methods A multiple-methods survey was sent to 707 caregivers from a prior ICF Core Sets study; 357 provided valid responses. Items covered perceived accuracy, changes in awareness and agency, and perceived usefulness in healthcare, education, and social services. Quantitative data were analysed with nonparametric statistics; qualitative responses were thematically categorized. Results Caregivers rated the report accurate for their child’s strengths (91.3%) and challenges (92.2%). About half reported increased awareness of strengths (49.9%), chal…"
+    },
+    {
+      "id": "10.1007/s10803-026-07370-9",
+      "title": "Preliminary Evidence for Differentiating Functional Performance in Preschool Children on the Autism Spectrum Using the Basic Activities of Daily Living Evaluation—Preschool Version",
+      "authors": [
+        "Sabina Barrios Fernández",
+        "Diana Salas-Gómez",
+        "Dulce Romero-Ayuso",
+        "Margarita Gozalo-Delgado"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-04",
+      "doi": "10.1007/s10803-026-07370-9",
+      "url": "https://doi.org/10.1007/s10803-026-07370-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "Abstract Purpose The ability to perform basic activities of daily living is a core component of child development and participation. Despite its relevance, the availability of tools to assess these activities in preschoolers on the autism spectrum remains limited, particularly in the Spanish context. This study examined the psychometric properties and explored preliminary reference thresholds for interpreting functional performance of the Basic Activities of Daily Living Evaluation – Preschool Version (BADL-P) , a culturally relevant and context-sensitive tool. Methods A total of 281 children (241 from the general population and 40 on the autism spectrum), aged 3–6 years, participated. The BADL-P Includes Four Scales Eating, Personal Hygiene, Dressing, and Daily Functioning (executive functioning during daily activities), comprising 84 items. Group differences, internal consistency, inter-scale correlations, and receiver operating characteristic (ROC) analyses were conducted to assess the instrument's discriminative validity as a measure of functional performance in preschool children, and to explore normative reference thresholds for differentiating between groups. Results Signifi…"
+    },
+    {
+      "id": "10.1007/s10803-026-07386-1",
+      "title": "Sleep Disturbances Differentially Associated With First and Second Language Receptive Vocabulary in Autistic Children",
+      "authors": [
+        "Caicai Zhang",
+        "Lu Li",
+        "Ruofan Wu",
+        "Haoyan Ge"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-03",
+      "doi": "10.1007/s10803-026-07386-1",
+      "url": "https://doi.org/10.1007/s10803-026-07386-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07382-5",
+      "title": "Addressing Social Skills in Autistic Children: Feasibility and Parental Insights on Hanen’s More Than Words",
+      "authors": [
+        "Adel Mohamadzade",
+        "Saeid Hassanzadeh",
+        "Salar Faramarzi",
+        "Mohsen Shokoohi-Yekta"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-03",
+      "doi": "10.1007/s10803-026-07382-5",
+      "url": "https://doi.org/10.1007/s10803-026-07382-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261448948",
+      "title": "How Do Speech-Language Pathology Social Communication Interventions Incorporate the Strengths and Perspectives of Autistic Children and Their Families: A Scoping Review",
+      "authors": [
+        "Maya Albin",
+        "Peter Rosenbaum",
+        "Eniola Bode-Akinboye",
+        "Yani Hamdani",
+        "Michelle Phoenix"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-06-03",
+      "doi": "10.1177/13623613261448948",
+      "url": "https://doi.org/10.1177/13623613261448948",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Purpose: It is important to understand how social communication interventions for autistic people align with neurodiversity-affirming approaches, including strength-based and family-centered care principles. In this scoping review, we explored how the strengths and perspectives of autistic children and their families are included in speech-language pathology social communication interventions. We searched OVID Medline, Embase, PsycINFO, and Web of Science databases, used supplementary search methods, and conducted a gray literature search. Data were extracted using the Population, Concept, and Context framework for scoping reviews. Major findings: 26 articles were included in our analysis. Most studies described only deficits associated with autism. Most studies explicitly reported parents’ perspectives on intervention goals, activities, or outcome measures; children’s perspectives were rarely included. Most speech-language pathology documents from the gray literature recommended strength-based, and family-centered service delivery. Conclusion: Strength-based and family-centered values have been recommended in speech-language pathology practice for decades yet were not consistently…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261445631",
+      "title": "Social Motivation in Autism Spectrum Disorder: A Mixed-Methods Exploration Using Eye-Tracking, Behavioral Tasks, Self- and Parent-Reports, and Qualitative Insights",
+      "authors": [
+        "Jiaxi Li",
+        "Kathy Kar-man Shum"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-06-03",
+      "doi": "10.1177/13623613261445631",
+      "url": "https://doi.org/10.1177/13623613261445631",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Social motivation diminishment is a core autism feature, yet prior research has been inconsistent, focusing on single dimensions and overlooking heterogeneity in motivational expressions among autistic individuals. This mixed-methods study compared social motivation in 104 individuals with autism (male: 74, M age = 18.55 years) and 192 non-autistic peers (male: 101, M age = 16.65 years), using eye-tracking and behavioral tasks, self-/parent-reports, and qualitative analysis of open-ended responses. Quantitative analyses revealed autistic participants had lower self-determined motivation, driven by reduced intrinsic motivation and identified regulation. Parent-report results corroborated lower perceived social motivation in the autistic group. The eye-tracking task showed decreased orientation to social stimuli, and behavioral task indicated reduced willingness to exert effort for social rewards, with no significant associations with age or autistic trait. Qualitative data highlighted that despite challenges, many autistic participants valued friendship and sought connection through shared activities, often preferring compact, stable social networks. The group-level quantitative fin…",
+      "framing": "Mixed or transitional framing"
+    },
     {
       "id": "10.1108/aia-07-2025-0068",
       "title": "The utility of multi-informant approaches when working with autistic adults",
@@ -3527,6 +3669,31 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -3552,31 +3719,6 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6395,28 +6537,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613251415129",
-      "title": "Discrepancies between feeling and expressing: Perceptions of autistic and non-autistic emotional expressions by non-autistic observers",
-      "authors": [
-        "Sarah J Foster",
-        "Danny Dunn",
-        "Siddhi Patel",
-        "Amy E Pinkham",
-        "Robert A Ackerman",
-        "Noah J Sasson"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613251415129",
-      "url": "https://doi.org/10.1177/13623613251415129",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Non-autistic observers often interpret autistic emotional expressions more negatively, though it is unclear whether this reflects observer bias or genuine differences in autistic people’s emotional experience and expression. To examine this, 20 autistic and 20 non-autistic adults reported the intensity of their felt emotion while re-experiencing video-recorded events eliciting mild and strong happiness, sadness, and anger. A total of 379 non-autistic observers, half blind to diagnostic status, viewed the recordings and identified the emotion and its intensity. iMotions emotion recognition software also classified the emotional valence of the expressions. Overall, autistic and non-autistic participants reported comparable levels of felt emotion, although differences emerged in how their expressions were perceived. Observers more accurately identified happiness in non-autistic participants and sadness and anger in autistic participants. They also judged autistic participants as expressing sadness and anger more intensely. Informing observers of the diagnostic status of participants largely did not modulate effects. iMotions more often classified mild autistic expressions as neutral a…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s40489-026-00550-4",
       "title": "Comparative Analysis of Heart Rate Variability Across Cognitive Domains in Individuals with Autism and ADHD: A Systematic Review and Meta-Analysis",
       "authors": [
@@ -6960,28 +7080,6 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -7006,6 +7104,28 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
+    },
+    {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -10358,44 +10478,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/25739581261419378",
-      "title": "Associations Between LGBTQIA+ Personal and Social Identity Dimensions and Well-Being in an International Sample of Autistic Adolescents and Adults",
-      "authors": [
-        "Eric K. Layland",
-        "Lux K. Barton",
-        "Sarah L. Curtiss",
-        "Tia N. Barnes",
-        "August X. Wei",
-        "Ilana Seager van Dyk"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261419378",
-      "url": "https://doi.org/10.1177/25739581261419378",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Background: Sexual and gender diversity is greater in Autistic populations than in non-autistic populations, yet little research has been conducted to understand what resources related to sexual and gender identity may promote well-being and flourishing among lesbian, gay, bisexual, transgender, queer, intersex, and asexual (LGBTQIA+) Autistic people. We characterized sample sexual and gender diversity and tested associations of LGBTQIA+ personal and social identity dimensions with well-being outcomes using a strengths-based approach. Methods: Using a subsample of Autistic participants ( n = 98; ages 16–54) of the Queer Joy Project conducted in Aotearoa New Zealand and the United States (2023–2024), linear regression tested associations between LGBTQIA+ identity dimensions (centrality, cognitive clarity, affective pride, behavioral engagement, and interpersonal closeness) and holistic well-being, flourishing, and life satisfaction. Results: The sample was 72% transgender, 40% nonbinary, 33% asexual spectrum, and 26% Black, Indigenous, and other People of Color. LGBTQIA+ personal and social identity dimensions significantly predicted well-being ( β = 0.30), flourishing ( β s = 0.25–…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261421101",
-      "title": "The Neurodivergent Lens: Surviving and Thriving in Academia as an AuDHD Woman",
-      "authors": [
-        "Lauren Powell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-02-03",
-      "doi": "10.1177/25739581261421101",
-      "url": "https://doi.org/10.1177/25739581261421101",
-      "neurotype": [
-        "AuDHD",
-        "Autism"
-      ]
     }
   ]
 }
