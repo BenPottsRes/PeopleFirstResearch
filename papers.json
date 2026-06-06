@@ -1,8 +1,190 @@
 {
-  "generated_at": "2026-06-05T10:17:16Z",
+  "generated_at": "2026-06-06T08:46:53Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10870547261427102",
+      "title": "Understanding the Relationship Between Early Elementary Children’s ADHD Symptoms and Teachers’ Needs Supportive Practices",
+      "authors": [
+        "Melissa Kang",
+        "Anne-Claude V. Bédard",
+        "Angela Pyle",
+        "Frédéric Guay",
+        "Rhonda Martinussen",
+        "André Plamondon"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-01",
+      "doi": "10.1177/10870547261427102",
+      "url": "https://doi.org/10.1177/10870547261427102",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Objective: Many children with diagnosed and subclinical ADHD struggle with low academic motivation in early elementary. Fortunately, teachers’ needs’ supportive practices (NSPs) can mitigate motivational challenges and protect against disengagement and underachievement. Teachers’ NSPs include autonomy support, structure, and positive student-teacher relationships that target children’s motivational resources (i.e., autonomy, competency, and relatedness) needed to engage with school materials. Particularly, autonomy support practices fuel children’s feelings of autonomy, structure caters to feelings of competency, and positive student-teacher relationships provide feelings of belonging. Yet, it is unknown how ADHD symptoms in early elementary are associated with teachers’ NSPs. Methods: One hundred and fifty-four first-grade students and 25 teachers from three school boards participated. We assessed children’s perception of their teachers’ autonomy support and structure and their standardised achievement. We also assessed teachers’ perceptions of students’ ADHD symptoms, student-teacher relationship quality, and conduct problems. Three linear regression analyses were performed with…"
+    },
+    {
+      "id": "10.1177/10870547261433489",
+      "title": "Impact of Medication Therapy on Social, Behavioral, and Employment Outcomes in Adults With ADHD",
+      "authors": [
+        "Maryam Pathan",
+        "Ki Jin Jeun",
+        "Mohammad A. Al-Mamun"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-01",
+      "doi": "10.1177/10870547261433489",
+      "url": "https://doi.org/10.1177/10870547261433489",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "Objective: Limited studies have explored the association between pharmacotherapy treatment and socio-behavioral and employment-related difficulties among adults with ADHD in U.S. This study aimed to evaluate and compare socio-behavioral and employment outcomes among adults with ADHD who were receiving stimulant treatment versus those who were not. Methods: A retrospective cross-sectional study was conducted using the Medical Expenditure Panel Survey data from 2013-2019. Adults with ADHD were categorized into stimulant-treated versus not stimulant-treated groups. Multivariable logistic regression was utilized to assess the association between stimulant use and outcomes of interest (e.g., social, behavioral, and employment outcomes) and was reported using odds ratio (ORs). Propensity score matching was used to control for confounding and sub-group analyses were conducted by adherence to CNS stimulants. Results: Among 1,290 (2,468,186 weighted) patients, 80.67% were stimulant-treated, and 19.33% were not treated with stimulants. No significant differences were found in the employment outcomes between the two groups in adjusted models. Sub-group analyses showed that adherent users of s…"
+    },
+    {
+      "id": "10.1177/10870547261433741",
+      "title": "Providers of ADHD Care for Children: Factors Associated With Coordination of ADHD Services With Schools",
+      "authors": [
+        "Angelika H. Claussen",
+        "Samuel M. Katz",
+        "Kimberly Newsome",
+        "George J. DuPaul"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-01",
+      "doi": "10.1177/10870547261433741",
+      "url": "https://doi.org/10.1177/10870547261433741",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Healthcare"
+      ],
+      "tags": [
+        "access",
+        "communication"
+      ],
+      "abstract": "Objective: Coordination between healthcare providers and schools may improve ADHD diagnosis and treatment but is often insufficient. This descriptive survey study examined factors associated with provider coordination with schools. Method: Data were from child-serving U.S. primary care providers who completed the Porter Novelli Fall 2023 DocStyles ADHD survey module ( n = 1,047); grouped into three levels of school coordination: (1) no school communication; (2) use school information without direct coordination; or (3) school intervention coordination. Level of coordination was compared by provider and practice characteristics, barriers to diagnosis and treatment, and training needs. Result: Among providers, 20.5% offered no school communication, 55.8% used school information without direct coordination, and 23.7% offered school intervention coordination. Pediatricians least often reported no school communication; nurse practitioners most often reported school intervention coordination. Multiple factors were significantly associated with level of school coordination ( p &lt; .046–.001). Barriers to ADHD care such as provider lack of knowledge and training needs, and family resistan…"
+    },
+    {
+      "id": "10.1177/10870547261428660",
+      "title": "Randomised Controlled Trial of Gaze-Based Attention Training Intervention for Infants With a Family History of Attention Deficit Hyperactivity Disorder: Follow-up Outcomes at 2 and 3 Years",
+      "authors": [
+        "Amy Goodwin",
+        "Emily JH Jones",
+        "Tony Charman",
+        "Jannath Begum-Ali",
+        "Greg Pasco",
+        "Luke Mason",
+        "Rebecca Holman",
+        "Simona Salomone",
+        "Alexandra Hendry",
+        "Tessel Bazelmans",
+        "Tim J Smith",
+        "Edmund JS Sonuga-Barke",
+        "Patrick Bolton",
+        "Sam Wass",
+        "Andrew Pickles",
+        "Mark H Johnson"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-01",
+      "doi": "10.1177/10870547261428660",
+      "url": "https://doi.org/10.1177/10870547261428660",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
+    },
+    {
+      "id": "10.1177/10870547261416173",
+      "title": "Treatment Patterns and Clinical Outcomes in Youth with Comorbid ADHD and PTSD: Insights from Real-World Data",
+      "authors": [
+        "Raman Baweja",
+        "Fabiana Lopes",
+        "Felix M Padilla",
+        "Ritika Baweja",
+        "Lisa Amaya-Jackson",
+        "Daniel A. Waschbusch",
+        "James G. Waxmonsky"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-01",
+      "doi": "10.1177/10870547261416173",
+      "url": "https://doi.org/10.1177/10870547261416173",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Emergency care",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
+    },
+    {
+      "id": "10.1177/10870547251415434",
+      "title": "ROAR-Early Childhood: Pilot Testing a Brief Telemedicine Parent Training Program for Rural Children Diagnosed with ADHD",
+      "authors": [
+        "James T. Craig",
+        "Michael T. Sanders",
+        "Christina C. Moore",
+        "Erin Barnett",
+        "Kady F. Sternberg",
+        "Nicole L. Breslend",
+        "Lauren C. Vazquez",
+        "Nina Sand-Loud",
+        "Mary K. Jankowski"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-01",
+      "doi": "10.1177/10870547251415434",
+      "url": "https://doi.org/10.1177/10870547251415434",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Quality of life",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Objective: Attention Deficit/Hyperactivity Disorder (ADHD) is a chronic and impairing neurodevelopmental disorder diagnosed in approximately 2% to 4% of preschool-age children and 9% of all children. Behavioral parent training (BPT) and high-quality education are effective treatments for young children with ADHD; however, poor rates of treatment access and participation limit the reach of BPTs to rural and underserved communities. In this study, we tested the newly developed Rural Outreach and ADHD Research-Early Childhood (ROAR-EC) program, a clinician-led, 7-session education and parent training program designed for delivery over telemedicine. Method: We conducted a pilot RCT to assess the feasibility, acceptability, engagement of mechanism, and exploratory group × time effects of the ROAR-EC program compared to a control group in a sample of 44 children diagnosed with ADHD from a predominantly rural area (ages 3–7; M age = 4.8; 62% male; 96% White; 89% non-Hispanic/Latinx). Families were randomized into either ROAR-EC or treatment as usual through developmental pediatrics and followed for 24 weeks. Assessed were metrics of feasibility, acceptability, parenting practices, caregiv…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2679725",
+      "title": "Beyond the clinic: a critical review of ecological, technology-driven, and neurodiversity-affirming interventions for autism in children",
+      "authors": [
+        "Kanwaljit Kaur",
+        "Jasvinder Singh Bhatti"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-05",
+      "doi": "10.1080/20473869.2026.2679725",
+      "url": "https://doi.org/10.1080/20473869.2026.2679725",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ]
+    },
     {
       "id": "10.1007/s10803-026-07376-3",
       "title": "Autism and ADHD Strengths and Needs in a Nutshell – Parental Evaluation of a Digital ICF-Based Assessment Summary Report",
@@ -5367,30 +5549,6 @@
       ]
     },
     {
-      "id": "10.1177/10870547261427102",
-      "title": "Understanding the Relationship Between Early Elementary Children’s ADHD Symptoms and Teachers’ Needs Supportive Practices",
-      "authors": [
-        "Melissa Kang",
-        "Anne-Claude V. Bédard",
-        "Angela Pyle",
-        "Frédéric Guay",
-        "Rhonda Martinussen",
-        "André Plamondon"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-04-15",
-      "doi": "10.1177/10870547261427102",
-      "url": "https://doi.org/10.1177/10870547261427102",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Objective: Many children with diagnosed and subclinical ADHD struggle with low academic motivation in early elementary. Fortunately, teachers’ needs’ supportive practices (NSPs) can mitigate motivational challenges and protect against disengagement and underachievement. Teachers’ NSPs include autonomy support, structure, and positive student-teacher relationships that target children’s motivational resources (i.e., autonomy, competency, and relatedness) needed to engage with school materials. Particularly, autonomy support practices fuel children’s feelings of autonomy, structure caters to feelings of competency, and positive student-teacher relationships provide feelings of belonging. Yet, it is unknown how ADHD symptoms in early elementary are associated with teachers’ NSPs. Methods: One hundred and fifty-four first-grade students and 25 teachers from three school boards participated. We assessed children’s perception of their teachers’ autonomy support and structure and their standardised achievement. We also assessed teachers’ perceptions of students’ ADHD symptoms, student-teacher relationship quality, and conduct problems. Three linear regression analyses were performed with…"
-    },
-    {
       "id": "10.1002/aur.70251",
       "title": "Occurrence and Correlates of Suicidal Thoughts Among Young Autistic Users of a Mental Health App",
       "authors": [
@@ -6896,27 +7054,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/10870547261433489",
-      "title": "Impact of Medication Therapy on Social, Behavioral, and Employment Outcomes in Adults With ADHD",
-      "authors": [
-        "Maryam Pathan",
-        "Ki Jin Jeun",
-        "Mohammad A. Al-Mamun"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-31",
-      "doi": "10.1177/10870547261433489",
-      "url": "https://doi.org/10.1177/10870547261433489",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "Objective: Limited studies have explored the association between pharmacotherapy treatment and socio-behavioral and employment-related difficulties among adults with ADHD in U.S. This study aimed to evaluate and compare socio-behavioral and employment outcomes among adults with ADHD who were receiving stimulant treatment versus those who were not. Methods: A retrospective cross-sectional study was conducted using the Medical Expenditure Panel Survey data from 2013-2019. Adults with ADHD were categorized into stimulant-treated versus not stimulant-treated groups. Multivariable logistic regression was utilized to assess the association between stimulant use and outcomes of interest (e.g., social, behavioral, and employment outcomes) and was reported using odds ratio (ORs). Propensity score matching was used to control for confounding and sub-group analyses were conducted by adherence to CNS stimulants. Results: Among 1,290 (2,468,186 weighted) patients, 80.67% were stimulant-treated, and 19.33% were not treated with stimulants. No significant differences were found in the employment outcomes between the two groups in adjusted models. Sub-group analyses showed that adherent users of s…"
-    },
-    {
       "id": "10.1177/10870547261432427",
       "title": "ADHD Characteristics Are Linked to Divergent Risk-Taking Behaviors",
       "authors": [
@@ -7115,34 +7252,6 @@
       ],
       "abstract": "Purpose This study aimed to investigate special education teachers’ familiarity with, perceptions of and recommendations for evidence-based practices (EBPs) and complementary and alternative practices (CAMs) for autistic individuals. Design/methodology/approach A descriptive research design was employed, and data were collected from 100 special education teachers across Türkiye through an online survey. The survey measured teachers’ familiarity, credibility perceptions and recommendations for EBPs and CAMs. Quantitative data were analyzed using nonparametric tests, while qualitative data were examined through descriptive analysis. Findings Teachers were significantly more familiar with, found more credible and recommended EBPs more frequently than CAMs. However, some teachers still perceived CAMs as credible and recommended them, despite the lack of scientific support. Familiarity and credibility were highly correlated with teachers’ own knowledge and skills. Teachers with graduate-level education rated EBPs and CAMs as more credible compared to those with an undergraduate degree. The most common reasons for recommending practices were perceived effectiveness, knowledge and scienti…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/10870547261433741",
-      "title": "Providers of ADHD Care for Children: Factors Associated With Coordination of ADHD Services With Schools",
-      "authors": [
-        "Angelika H. Claussen",
-        "Samuel M. Katz",
-        "Kimberly Newsome",
-        "George J. DuPaul"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261433741",
-      "url": "https://doi.org/10.1177/10870547261433741",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Healthcare"
-      ],
-      "tags": [
-        "access",
-        "communication"
-      ],
-      "abstract": "Objective: Coordination between healthcare providers and schools may improve ADHD diagnosis and treatment but is often insufficient. This descriptive survey study examined factors associated with provider coordination with schools. Method: Data were from child-serving U.S. primary care providers who completed the Porter Novelli Fall 2023 DocStyles ADHD survey module ( n = 1,047); grouped into three levels of school coordination: (1) no school communication; (2) use school information without direct coordination; or (3) school intervention coordination. Level of coordination was compared by provider and practice characteristics, barriers to diagnosis and treatment, and training needs. Result: Among providers, 20.5% offered no school communication, 55.8% used school information without direct coordination, and 23.7% offered school intervention coordination. Pediatricians least often reported no school communication; nurse practitioners most often reported school intervention coordination. Multiple factors were significantly associated with level of school coordination ( p &lt; .046–.001). Barriers to ADHD care such as provider lack of knowledge and training needs, and family resistan…"
     },
     {
       "id": "10.1177/10870547261432423",
@@ -7647,37 +7756,6 @@
         "lived experience"
       ],
       "abstract": "Objectives: Increasingly, people with attention deficit/hyperactivity disorder (ADHD), their clinicians, and others have called for strengths-based approaches in the understanding of ADHD. A comprehensive and systematic review of ADHD-related strengths has not previously been published. Therefore, this study aimed to conduct a scoping review to determine the extent and type of empirical qualitative and quantitative research about strengths that may be related to ADHD in adults. Methods: MEDLINE, Embase, PsycINFO, and Scopus were searched for published research. ProQuest Dissertations &amp; Theses Global, PsyArXiv, and other websites were searched for unpublished studies or grey literature. Results: A total of 125 studies were included (61 qualitative studies, 59 quantitative studies, 5 mixed methods studies). Most studies examined ADHD-related strengths a-priori ( n = 88; 70%). The majority studied ADHD strengths or experiences in general terms ( n = 68; 54%), rather than focussing on a specific strength or characteristic. It was observed that typical ADHD characteristics were sometimes perceived or redefined as strengths: interest-based attention or positive differences in attenti…"
-    },
-    {
-      "id": "10.1177/10870547261428660",
-      "title": "Randomised Controlled Trial of Gaze-Based Attention Training Intervention for Infants With a Family History of Attention Deficit Hyperactivity Disorder: Follow-up Outcomes at 2 and 3 Years",
-      "authors": [
-        "Amy Goodwin",
-        "Emily JH Jones",
-        "Tony Charman",
-        "Jannath Begum-Ali",
-        "Greg Pasco",
-        "Luke Mason",
-        "Rebecca Holman",
-        "Simona Salomone",
-        "Alexandra Hendry",
-        "Tessel Bazelmans",
-        "Tim J Smith",
-        "Edmund JS Sonuga-Barke",
-        "Patrick Bolton",
-        "Sam Wass",
-        "Andrew Pickles",
-        "Mark H Johnson"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-26",
-      "doi": "10.1177/10870547261428660",
-      "url": "https://doi.org/10.1177/10870547261428660",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
     },
     {
       "id": "10.1007/s10803-026-07306-3",
@@ -9170,41 +9248,6 @@
       ]
     },
     {
-      "id": "10.1177/13623613251413538",
-      "title": "Sleep and activity patterns in autism",
-      "authors": [
-        "J Dylan Weissenkampen",
-        "Arpita Ghorai",
-        "Thaise NR Carneiro",
-        "Maria Fasolino",
-        "Brielle N Gehringer",
-        "Maya Rajan",
-        "Holly C Dow",
-        "Shriya Kunatharaju",
-        "Till Roenneberg",
-        "Ronnie Sebro",
-        "Daniel J Rader",
-        "Brendan T Keenan",
-        "Laura Almasy",
-        "Edward S Brodkin",
-        "Maja Bućan"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251413538",
-      "url": "https://doi.org/10.1177/13623613251413538",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Sensory environment"
-      ],
-      "abstract": "Autism is a heritable neurodevelopmental condition marked by impaired social interaction, repetitive behavior, and co-occurring conditions. Sleep disturbances are common in autism. This study uses low-cost wearable devices to compare sleep, physical activity, and circadian behavior in autistic adults and their non-autistic relatives. We recruited 318 autistic individuals and 130 family members, collecting accelerometer data over 3 weeks (8249 days). Using a data-driven approach, we identified actimetry-derived features associated with autism. We examined 308 traits using the elastic net algorithm and linear mixed effects regressions. We identified 52 actimetry measures associated with autism (area under the curve: 0.812; confidence interval: 0.761–0.862), validated in a test set (area under the curve: 0.756; confidence interval: 0.700–0.813). Both mean and day-to-day variability in several measures (e.g., time spent sedentary, total light physical activity) were associated with autism. In autistic individuals, reduced physical activity during wake was more strongly associated with shorter sleep time than in non-autistic relatives (likelihood ratio: 41.6; p = 1.13e−10). Reduced phys…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70185",
       "title": "Examining the Relationship Between Social Motivation and Internalizing Symptoms in Autistic People: A Systematic Review and Meta‐Analysis",
       "authors": [
@@ -10123,33 +10166,6 @@
       "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) is associated not only with cognitive impairments but also with deficits in social cognitive abilities, including empathy. Although attention and empathy have been individually studied in children with ADHD, the link between performance-based attention measures and empathy remains underexplored. Thus, this study examined the relationship between attention performance and empathy in children diagnosed with ADHD. Method: The sample included 53 children aged 7 to 12, consisting of 27 children diagnosed with ADHD and 26 typically developing control group. All participants were recruited from educational and clinical settings. Attention was measured using a computer-based Go/No-Go task, and empathy was assessed using the Reading the Mind in the Eyes Test (RMET). ADHD symptom severity was assessed using the Turgay DSM-IV-Based Disruptive Behavior Disorders Rating Scale (T-DSM-IV-S). Results: Children with ADHD made significantly more omission errors and scored lower on RMET than typically developing group. Significant negative correlations were found between RMET total score and omission errors and inattention scores. Regression…"
     },
     {
-      "id": "10.1177/10870547261416173",
-      "title": "Treatment Patterns and Clinical Outcomes in Youth with Comorbid ADHD and PTSD: Insights from Real-World Data",
-      "authors": [
-        "Raman Baweja",
-        "Fabiana Lopes",
-        "Felix M Padilla",
-        "Ritika Baweja",
-        "Lisa Amaya-Jackson",
-        "Daniel A. Waschbusch",
-        "James G. Waxmonsky"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-12",
-      "doi": "10.1177/10870547261416173",
-      "url": "https://doi.org/10.1177/10870547261416173",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Emergency care",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
-    },
-    {
       "id": "10.1080/20473869.2026.2628973",
       "title": "Effect of physical activity interventions on restricted and repetitive behaviors in children with autism spectrum disorder: a systematic review",
       "authors": [
@@ -10461,81 +10477,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1177/10870547251415434",
-      "title": "ROAR-Early Childhood: Pilot Testing a Brief Telemedicine Parent Training Program for Rural Children Diagnosed with ADHD",
-      "authors": [
-        "James T. Craig",
-        "Michael T. Sanders",
-        "Christina C. Moore",
-        "Erin Barnett",
-        "Kady F. Sternberg",
-        "Nicole L. Breslend",
-        "Lauren C. Vazquez",
-        "Nina Sand-Loud",
-        "Mary K. Jankowski"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-06",
-      "doi": "10.1177/10870547251415434",
-      "url": "https://doi.org/10.1177/10870547251415434",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: Attention Deficit/Hyperactivity Disorder (ADHD) is a chronic and impairing neurodevelopmental disorder diagnosed in approximately 2% to 4% of preschool-age children and 9% of all children. Behavioral parent training (BPT) and high-quality education are effective treatments for young children with ADHD; however, poor rates of treatment access and participation limit the reach of BPTs to rural and underserved communities. In this study, we tested the newly developed Rural Outreach and ADHD Research-Early Childhood (ROAR-EC) program, a clinician-led, 7-session education and parent training program designed for delivery over telemedicine. Method: We conducted a pilot RCT to assess the feasibility, acceptability, engagement of mechanism, and exploratory group × time effects of the ROAR-EC program compared to a control group in a sample of 44 children diagnosed with ADHD from a predominantly rural area (ages 3–7; M age = 4.8; 62% male; 96% White; 89% non-Hispanic/Latinx). Families were randomized into either ROAR-EC or treatment as usual through developmental pediatrics and followed for 24 weeks. Assessed were metrics of feasibility, acceptability, parenting practices, caregiv…"
-    },
-    {
-      "id": "10.1007/s10803-026-07232-4",
-      "title": "Autistic Adults and Loved Ones’ Experiences of a Later Life Diagnosis",
-      "authors": [
-        "Nicole Ward",
-        "Cathy Randle-Phillips",
-        "Rona Aldridge"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-05",
-      "doi": "10.1007/s10803-026-07232-4",
-      "url": "https://doi.org/10.1007/s10803-026-07232-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-025-00536-8",
-      "title": "Empathy in Children and Adolescents with Autism Spectrum Disorder: A Systematic Review",
-      "authors": [
-        "David Lemos",
-        "Tânia Brandão",
-        "Eva Diniz"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-05",
-      "doi": "10.1007/s40489-025-00536-8",
-      "url": "https://doi.org/10.1007/s40489-025-00536-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "Abstract Research examining empathy in autism spectrum disorder (ASD) has primarily focused on its cognitive component, neglecting the affective one. Moreover, there is a lack of systematic knowledge about empathy in children and adolescents with ASD. This will be addressed by the current systematic review. In accordance with PRISMA guidelines, 15 studies were selected from an initial pool of 1,081 records. They mostly included adolescent boys and involved comparisons with typically developing peers. Most studies ( n = 10) reported intact affective empathy but deficits in cognitive empathy; a subset of studies ( n = 5) found impairments in both domains. These findings contribute to a more nuanced understanding of empathy development in ASD during childhood and adolescence. Findings contribute to the conceptualization and assessment of empathy, ultimately informing the design and implementation of evidence-based interventions.",
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
