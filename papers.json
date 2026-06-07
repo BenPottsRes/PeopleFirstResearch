@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T08:46:53Z",
+  "generated_at": "2026-06-07T09:40:31Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -133,38 +133,6 @@
         "Mental health"
       ],
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
-    },
-    {
-      "id": "10.1177/10870547251415434",
-      "title": "ROAR-Early Childhood: Pilot Testing a Brief Telemedicine Parent Training Program for Rural Children Diagnosed with ADHD",
-      "authors": [
-        "James T. Craig",
-        "Michael T. Sanders",
-        "Christina C. Moore",
-        "Erin Barnett",
-        "Kady F. Sternberg",
-        "Nicole L. Breslend",
-        "Lauren C. Vazquez",
-        "Nina Sand-Loud",
-        "Mary K. Jankowski"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/10870547251415434",
-      "url": "https://doi.org/10.1177/10870547251415434",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: Attention Deficit/Hyperactivity Disorder (ADHD) is a chronic and impairing neurodevelopmental disorder diagnosed in approximately 2% to 4% of preschool-age children and 9% of all children. Behavioral parent training (BPT) and high-quality education are effective treatments for young children with ADHD; however, poor rates of treatment access and participation limit the reach of BPTs to rural and underserved communities. In this study, we tested the newly developed Rural Outreach and ADHD Research-Early Childhood (ROAR-EC) program, a clinician-led, 7-session education and parent training program designed for delivery over telemedicine. Method: We conducted a pilot RCT to assess the feasibility, acceptability, engagement of mechanism, and exploratory group × time effects of the ROAR-EC program compared to a control group in a sample of 44 children diagnosed with ADHD from a predominantly rural area (ages 3–7; M age = 4.8; 62% male; 96% White; 89% non-Hispanic/Latinx). Families were randomized into either ROAR-EC or treatment as usual through developmental pediatrics and followed for 24 weeks. Assessed were metrics of feasibility, acceptability, parenting practices, caregiv…"
     },
     {
       "id": "10.1080/20473869.2026.2679725",
@@ -7283,28 +7251,6 @@
       "abstract": "Background: Children with attention deficit hyperactivity disorder (ADHD) are vulnerable to the psychological impact of traumatic events due to inherent difficulties in emotion regulation and executive functioning. This study examines the predictive roles of attachment styles and family functioning on depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms in children with ADHD following the 2023 Türkiye earthquakes. Methods: A longitudinal design was employed with 124 children diagnosed with ADHD, assessed at 3 months (T1) and 12 months (T2) after the earthquakes. Attachment styles were evaluated using the Three-Dimensional Attachment Styles Scale, and family functioning was assessed via the Family Assessment Device. Psychological symptoms were measured using the Children’s Depression Inventory, State-Trait Anxiety Inventory, and Children’s Revised Impact of Event Scale-13. Hierarchical multiple regression analyses were conducted to identify predictors of T2 emotional outcomes. Results: Significant reductions were observed in depressive, state anxiety, and PTSD symptoms between T1 and T2, while trait anxiety remained stable. Poor family functioning and insecure atta…"
     },
     {
-      "id": "10.1177/10870547261430420",
-      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
-      "authors": [
-        "Giulia Crisci",
-        "Irene Cristina Mammarella"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/10870547261430420",
-      "url": "https://doi.org/10.1177/10870547261430420",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/10870547261430076",
       "title": "Characterizing Attention and Cognitive Control Profiles of Children With ADHD and Anxiety",
       "authors": [
@@ -7329,6 +7275,28 @@
         "Mental health"
       ],
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
+    },
+    {
+      "id": "10.1177/10870547261430420",
+      "title": "When Self and Others Disagree: Informant Discrepancies in ADHD and ASD and Psychosocial Outcomes",
+      "authors": [
+        "Giulia Crisci",
+        "Irene Cristina Mammarella"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-03-30",
+      "doi": "10.1177/10870547261430420",
+      "url": "https://doi.org/10.1177/10870547261430420",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: Informant discrepances are frequently observed in self- and proxy-report in dyads involving children with ADHD. However, it remains unclear whether these discrepances are specific to ADHD or are also present in other clinical groups, as Autism Spectrum Disorder (ASD). Moreover, it is not fully understood whether these children hold a fundamentally different perception of their own abilities, or whether they tend to underestimate the severity of their difficulties compared to their parents. Additionally, the relation between informant discrepancies and psychological outcomes remains underexplored. This research aimed to address these questions through two separate studies. Methods: Study 1 involved 50 children with ADHD, 49 ASD, and 121 non-diagnosed (ND) peers to investigate whether informant discrepancies is specific to ADHD. Based on its findings, Study 2 focused on 47 children with ADHD and 47 ND peers to analyze the psychological outcomes. In both studies, children and their parents completed parallel questionnaires assessing social abilities. Study 1 also assessed behavioral issues, while Study 2 examined self-confidence and internalizing/externalizing symptoms. Res…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07300-9",
@@ -10355,128 +10323,6 @@
         "Education"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07242-2",
-      "title": "Cross-Cultural Differences in the Interpretation of Autistic Traits: A Comparison Between Iran, Malaysia, Morocco, and The Netherlands",
-      "authors": [
-        "Omid R. Fani",
-        "Maretha V. de Jonge",
-        "Steve M. J. Janssen",
-        "Ahmed O. T. Ahami",
-        "Marieke de Vries"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-06",
-      "doi": "10.1007/s10803-026-07242-2",
-      "url": "https://doi.org/10.1007/s10803-026-07242-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose The diagnosis of Autism relies partly on the evaluation of social behavior. What is perceived as “appropriate” (social) behavior is influenced by culture, as culture shapes norms and beliefs about behavior. Culture might thus influence the interpretation of autistic traits and the diagnostic process. We aimed to study whether culture affects the interpretation and reporting of autistic traits and how autism knowledge is associated with these relations. Methods To do so, we investigated cross-cultural differences in self-reported autistic traits (autism-spectrum Quotient) and the commonness of these traits in Iran ( n = 88), Malaysia ( n = 181), Morocco ( n = 94), and the Netherlands ( n = 113). Additionally, we explored the relationship between (the commonness of) autistic traits and autism knowledge (Revised Autism Knowledge Survey) across these countries. Results The results indicated, consistent with previous studies, cross-cultural differences in both self-reported autistic traits and the commonness of these traits. Cross-cultural differences in reporting autistic traits showed that cultural background might affect their interpretation. There was a relationship…"
-    },
-    {
-      "id": "10.1007/s10803-026-07229-z",
-      "title": "A Mixed Methods Exploration of Emergency Service Use Among Autistic Youth",
-      "authors": [
-        "Rebecca S. Bradley",
-        "Lauren Quetsch",
-        "Emily-Anne del Rosario",
-        "Katri Shields"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-06",
-      "doi": "10.1007/s10803-026-07229-z",
-      "url": "https://doi.org/10.1007/s10803-026-07229-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Emergency care"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Autistic youth are at increased risk for needing emergency services compared to their non-autistic peers. While research has begun to explore the nature of emergency service use in this group, researchers have not yet assessed important individual-, family-, and community-level factors that may be associated with these encounters. This study aimed to address this gap in the field via a mixed methods design by characterizing families of autistic children who have utilized emergency services, examining factors accounting for significant differences in service utilization, and exploring family experiences and satisfaction with emergency service encounters. Method 77 caregivers of autistic individuals who endorsed current child challenging behavior completed measures assessing child, family, and community variables. 38 caregivers had used emergency services in recent years; a subset of caregivers ( n = 8) completed interviews about their experiences with emergency services. Results Bivariate analyses and a multivariate analysis of variance were conducted with individual, family, and community variables to determine group differences for families with and without recent…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07236-0",
-      "title": "Measuring Theory of Mind: A Multiple-Choice Response Format Version of the Short Story Task",
-      "authors": [
-        "Stephanie C. Goodhew",
-        "Mark Edwards"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-06",
-      "doi": "10.1007/s10803-026-07236-0",
-      "url": "https://doi.org/10.1007/s10803-026-07236-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose Theory of mind is the capacity to understand others’ mental states, such as their thoughts, beliefs, and feelings, even when they differ from one’s own. The Short Story Task is a measure of individual differences in theory of mind in adults, where respondents are scored on the accuracy of their mental state inferences about characters in the story. However, it collects open-ended responses and thus requires labour-intensive subjective scoring. The present study tested the validity of a new multiple-choice response format of the Short Story Task (SST-MCQ). Method People on the Autism Spectrum can have difficulty with theory of mind. Therefore, a common validation approach for theory of mind measures is to demonstrate reduced task performance for those on the Autism Spectrum and/or those higher in autistic traits. Here, participants with an Autism Spectrum diagnosis and neurotypical participants were recruited for two studies, and participants completed the SST-MCQ and Autism Quotient (AQ-10). Results A combined analysis of the two studies (256 Autism Spectrum participants and 263 neurotypical) showed higher autistic traits as measured by the AQ-10 were associated wi…"
-    },
-    {
-      "id": "10.1007/s10803-025-07210-2",
-      "title": "A Scale Development and Examination of Neurotypical College Students’ Perceived Barriers to Interacting With Peers on the Autism Spectrum",
-      "authors": [
-        "Zachary H. Chagnon",
-        "Deborah M. Casper",
-        "Tricia H. Witte",
-        "Theodore S. Tomeny"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-06",
-      "doi": "10.1007/s10803-025-07210-2",
-      "url": "https://doi.org/10.1007/s10803-025-07210-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07235-1",
-      "title": "Too Tired, Too Busy, Still Trying: Perspectives on Exercise Participation Among Latino Parents of Children with Developmental Disabilities",
-      "authors": [
-        "Jamie Lee Jaime Concepción",
-        "Tanu Shree Yadav",
-        "Kristen A. Pickett",
-        "Kecia L. Doyle",
-        "María Carmen Ocete del Calvo",
-        "Luis Columna"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-06",
-      "doi": "10.1007/s10803-026-07235-1",
-      "url": "https://doi.org/10.1007/s10803-026-07235-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07240-4",
-      "title": "Emotional Contagion and Autistic Traits: Disentangling Components of Social-Emotional Processing",
-      "authors": [
-        "Lars-Olov Lundqvist"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-06",
-      "doi": "10.1007/s10803-026-07240-4",
-      "url": "https://doi.org/10.1007/s10803-026-07240-4",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
