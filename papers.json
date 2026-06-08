@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T09:40:31Z",
+  "generated_at": "2026-06-08T11:22:48Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -133,6 +133,46 @@
         "Mental health"
       ],
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
+    },
+    {
+      "id": "10.1007/s10882-026-10074-8",
+      "title": "The Effectiveness of Video Modeling on Teaching Physically Active Cooperative Play to Children with Autism Spectrum Disorder",
+      "authors": [
+        "Satı Ergin",
+        "Onur Emre Kocaoz"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-08",
+      "doi": "10.1007/s10882-026-10074-8",
+      "url": "https://doi.org/10.1007/s10882-026-10074-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Abstract The purpose of this study was to investigate the effectiveness of a video modeling–based intervention package for teaching physically active cooperative playground games to preschool children diagnosed with autism spectrum disorder (ASD). Specifically, this study examined whether the intervention package improved the game performance of three preschool-aged children with ASD. A multiple probe design across participants was employed to assess the effects of the intervention on two traditional playground singing games (i.e., Kutu Kutu Pense and Benim Bir Atım Var). Participants were three preschool children with ASD (two boys and one girl), aged 4–5 years, recruited from an inclusive preschool. The dependent variable was the number of correct task-analysis steps performed during game play while the song/chanted rhyme was ongoing. The independent variable was a teacher-created video modeling–based intervention package that featured age-matched peer models and included visual supports, prompting, and reinforcement. Results indicated that all three children increased the number of correct steps for each game after the intervention package was introduced. Furthermore, during the…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2683890",
+      "title": "The intervention effects on facial expression recognition in children with autism spectrum disorder: a meta-analysis of single-subject design studies",
+      "authors": [
+        "Zhi Wang",
+        "Shuyuan Chen",
+        "Baoxin Feng",
+        "Zhe Chen"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-07",
+      "doi": "10.1080/20473869.2026.2683890",
+      "url": "https://doi.org/10.1080/20473869.2026.2683890",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1080/20473869.2026.2679725",
@@ -10257,72 +10297,6 @@
         "Autism"
       ],
       "abstract": "Abstract Purpose Previous research has documented disparities in autism prevalence and the co-occurrence of intellectual disability (ID) with autism for children from immigrant communities. The current study compared autism prevalence and co-occurrence of ID in 8-year-olds across racial/ethnic groups using data from the Minnesota site of the CDC Autism and Developmental Disabilities Monitoring Network, with a focus on two large racial/ethnic groups: Somali and Hmong. Methods Systematic review of health and educational records was performed within a defined geographic area, and data were combined from 2014 to 2016 surveillance years to obtain adequate sample sizes to compare prevalence and co-occurrence of ID across race/ethnicity. Results Somali children had a higher autism prevalence compared to Hispanic, Hmong, and non-Hmong Asian children, with prevalence ratios (PR) of 1.8, 2.1, and 2.1, respectively. Hmong children had a significantly lower autism prevalence compared to White (PR 0.6) and non-Somali Black (PR 0.7) children. Significant differences in co-occurring ID status were found by race/ethnicity. Conclusion Identifying subgroups of children with higher prevalence of auti…"
-    },
-    {
-      "id": "10.1007/s10803-026-07244-0",
-      "title": "Associations Between Autistic Adolescents’ Biological and Behavioral Characteristics and Sympathetic and Parasympathetic Functioning",
-      "authors": [
-        "Abbie Heidenreich",
-        "Whitney Sullivan",
-        "Chrystyna D. Kouros",
-        "Mary Bubb",
-        "Naomi V. Ekas"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-07",
-      "doi": "10.1007/s10803-026-07244-0",
-      "url": "https://doi.org/10.1007/s10803-026-07244-0",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07200-4",
-      "title": "Factors Associated With Psychiatric Emergency Visits of Children and Adolescents With Autism Spectrum Disorder in an Upper-Middle-Income Country",
-      "authors": [
-        "Maria Carolina Lobato Machado",
-        "Ana Clara Brant Moreira Ferreira",
-        "Amanda Carvalho Mitre Chaves",
-        "Flávia da Mata Chiachio Leite",
-        "Bernardo de Mattos Viana",
-        "Debora Marques de Miranda"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-07",
-      "doi": "10.1007/s10803-025-07200-4",
-      "url": "https://doi.org/10.1007/s10803-025-07200-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Emergency care",
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose This study aimed to characterize the epidemiological and clinical profile of children and adolescents with Autism Spectrum Disorder (ASD) evaluated at a regional Youth Psychiatric Emergency Unit, and to explore factors leading families to seek emergency psychiatric care. Methods A cross-sectional, descriptive study was conducted through retrospective chart review of patients seen in the emergency service over a one-year period. Patients with a confirmed ASD diagnosis were included. Categorical variables were compared using Pearson’s chi-square or Fisher’s exact test, and continuous variables were analyzed using independent samples Student’s t-test. Results During the study period, 112 patients with ASD (6.7% of total visits) were seen, and 26 (23.2%) received their first ASD diagnosis at the emergency service. The majority were male (83%) with a mean age of 10 ± 4 years. The mean age at diagnosis among those identified for the first time in the emergency setting was 8.86 ± 4.7 years, indicating a late diagnosis. The most frequent presenting complaints were agitation, aggression, and irritability. Compared to the non-ASD group, ASD patients had significantly higher…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2625193",
-      "title": "Depressive symptoms in children and adolescents with autism spectrum disorder: application of cognitive behavioral therapy in school",
-      "authors": [
-        "Christine K. Syriopoulou-Delli",
-        "Areti-Eirini Filiou"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-02-07",
-      "doi": "10.1080/20473869.2026.2625193",
-      "url": "https://doi.org/10.1080/20473869.2026.2625193",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
