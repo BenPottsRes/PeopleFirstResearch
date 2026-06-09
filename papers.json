@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T11:22:48Z",
+  "generated_at": "2026-06-09T10:06:29Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -135,6 +135,128 @@
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
     },
     {
+      "id": "10.1007/s40489-026-00562-0",
+      "title": "Sex/Gender Differences in Co-occurring Neurodevelopmental and Mental Health Conditions of Autistic Adults: a Systematic Review and Meta-analysis",
+      "authors": [
+        "Janina Brede",
+        "Rachel Loomes",
+        "Will Mandy"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-09",
+      "doi": "10.1007/s40489-026-00562-0",
+      "url": "https://doi.org/10.1007/s40489-026-00562-0",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Abstract To investigate sex/gender differences in co-occurring neurodevelopmental and mental health conditions among autistic adults, we conducted a systematic review and meta-analyses of studies reporting prevalence rates separately for autistic people referred to as female (PRF) and autistic people referred to as male (PRM). Autistic PRF exhibited higher rates of anxiety, eating disorders and trauma-related conditions. Autistic PRM showed elevated rates of certain neurodevelopmental and externalising conditions. No sex/gender differences were found for obsessive-compulsive disorder, attention deficit/hyperactive disorder, and schizophrenia/psychotic disorders. This review highlights gaps in the evidence base. Findings underscore the need for heightened clinical attention to co-occurring neurodevelopmental and mental health conditions in autistic adults, particularly PRF, and can inform more targeted screening efforts and tailoring of treatment.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/1034912x.2026.2678838",
+      "title": "Are Women with Autism Represented Online? A Content Analysis of the Websites of Non-Profit Organizations",
+      "authors": [
+        "Irene Lacruz-Pérez",
+        "Pilar Sanz-Cervera",
+        "M. Isabel Vidal-Esteve",
+        "Amparo Tijeras-Iborra"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-06-09",
+      "doi": "10.1080/1034912x.2026.2678838",
+      "url": "https://doi.org/10.1080/1034912x.2026.2678838",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
+    },
+    {
+      "id": "10.1007/s10882-026-10076-6",
+      "title": "Associations Among Discrimination Experiences and Depression and Anxiety in Autistic Youth",
+      "authors": [
+        "Michelle Menezes",
+        "Mya Howard",
+        "Jessica Smith",
+        "Jessica Pappagianopoulos",
+        "Jocelyn Kuhn",
+        "Micah Mazurek"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-09",
+      "doi": "10.1007/s10882-026-10076-6",
+      "url": "https://doi.org/10.1007/s10882-026-10076-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261451897",
+      "title": "Inferring Thoughts by and of Individuals With and Without Autism: An Empathic Accuracy Study",
+      "authors": [
+        "Hannah De Laet",
+        "Annabel D. Nijhof",
+        "Jan R. Wiersema"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-06-08",
+      "doi": "10.1177/13623613261451897",
+      "url": "https://doi.org/10.1177/13623613261451897",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "While prevailing theories suggest social interaction difficulties are inherent to autism, the theory of the double empathy problem (DEP) proposes these difficulties arise from a mismatch between different neurotypes. The theory predicts more challenging communication between individuals with and without autism, but better communication among individuals with autism. While individuals with autism indeed report better communication, experimental studies testing the theory are largely lacking. In this study, 106 adults (55 with autism) completed an empathic accuracy task in which they watched video clips of an interaction between an individual with and without autism and inferred the individuals’ thoughts. Contrary to our hypothesis, adults with autism were not better at estimating the thoughts of other adults with autism. Instead, they were generally less accurate than adults without autism. Individuals with autism were also perceived as more difficult to estimate. In conclusion, this study did not find support for the DEP theory. Further research is needed to understand the reported ease of communication among individuals with autism. Lay abstract Autism is associated with social in…",
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1177/13623613261447926",
+      "title": "Exploring Patterns of Self-Harm in Autistic Adults Using the Card Sort Task for Self-Harm",
+      "authors": [
+        "Mirabel Pelton",
+        "Victoria Newell",
+        "Blandine French",
+        "Ruth Wadman",
+        "Ellen Townsend",
+        "Sarah Cassidy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-06-08",
+      "doi": "10.1177/13623613261447926",
+      "url": "https://doi.org/10.1177/13623613261447926",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Autistic adults self-harm more often than non-autistic adults, but there are no tools to assess patterns of self-harm in autistic people. This study aimed to (1) review the accessibility of a novel visual task – the Card Sort Task for Self-Harm (CaTS) – to explore self-harm with autistic adults and (2) to pilot the CaTS to identify proximal and distal contributing factors leading to self-harm and experiences following self-harm. First, autistic adults ( n = 5) with lived experience of self-harm reviewed the CaTS for clarity and accessibility. Second, we undertook a pilot administration of the CaTS and used sequence analysis to explore significant transitions between factors before and after self-harm. Participants ( n = 29, autistic or possibly autistic, female = 82%, mean age = 41.62) selected, on average, 42 cards to describe self-harm. Most frequently selected cards described agitation ( n = 25), mental pain ( n = 22) and depression ( n = 22), while most infrequently collected cards included being in a gang and talking to a teacher ( n = 0). Agitation and acting on impulse preceded self-harm. Feeling better, worse, exhausted and hopeless followed self-harm. Improving emotion reg…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10882-026-10074-8",
       "title": "The Effectiveness of Video Modeling on Teaching Physically Active Cooperative Play to Children with Autism Spectrum Disorder",
       "authors": [
@@ -154,6 +276,32 @@
       ],
       "abstract": "Abstract The purpose of this study was to investigate the effectiveness of a video modeling–based intervention package for teaching physically active cooperative playground games to preschool children diagnosed with autism spectrum disorder (ASD). Specifically, this study examined whether the intervention package improved the game performance of three preschool-aged children with ASD. A multiple probe design across participants was employed to assess the effects of the intervention on two traditional playground singing games (i.e., Kutu Kutu Pense and Benim Bir Atım Var). Participants were three preschool children with ASD (two boys and one girl), aged 4–5 years, recruited from an inclusive preschool. The dependent variable was the number of correct task-analysis steps performed during game play while the song/chanted rhyme was ongoing. The independent variable was a teacher-created video modeling–based intervention package that featured age-matched peer models and included visual supports, prompting, and reinforcement. Results indicated that all three children increased the number of correct steps for each game after the intervention package was introduced. Furthermore, during the…",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70264",
+      "title": "Conceptualizing Functioning Levels of Theory of Mind Ability and Performance in Preschool to School‐Aged Autistic and Neurotypical Children",
+      "authors": [
+        "Shih‐Chieh Lee",
+        "Chien‐Yu Huang",
+        "Tzu‐Yun Huang",
+        "Wei‐Chun Hsu",
+        "Cian‐Ya Lan",
+        "Kuan‐Lin Chen"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-08",
+      "doi": "10.1002/aur.70264",
+      "url": "https://doi.org/10.1002/aur.70264",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Autistic children often show reduced theory of mind (ToM). However, existing ToM measures neither sufficiently distinguish ToM ability from performance nor interpret both scores effectively, limiting their interpretability and clinical utility. To resolve these limitations, we characterized the measurement‐based functioning levels and correspondence between ToM ability and performance among preschool to school‐aged children. Data from 288 autistic and 168 neurotypical children were analyzed using a multidimensional Rasch model. The functioning levels and correspondence were established using expected responses across statistically distinguishable ToM levels. The results revealed three levels of ToM ability—Early (failure on all items), Basic (success on desire‐based emotion), and Advanced (success on all items)—and five levels of ToM performance: Pre‐ToM (understanding needs and wants), Emerging (simple emotion recognition), Transition (first‐order false belief), Premature (contextual understanding), and Mature (pragmatic understanding). Importantly, while ToM performance tended to improve with ToM ability, only 20% of the items were comparable with neurotypical children.…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2026.2683890",
