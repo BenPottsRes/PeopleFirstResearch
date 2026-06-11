@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T10:33:52Z",
+  "generated_at": "2026-06-11T10:58:58Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -133,6 +133,74 @@
         "Mental health"
       ],
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
+    },
+    {
+      "id": "10.1108/aia-01-2026-0003",
+      "title": "“I’m hoping the environment is supportive”: a qualitative analysis of environmental influences on the well-being of autistic young people",
+      "authors": [
+        "Emma Resendes",
+        "Jessica Klein",
+        "Marina Charalampopoulou",
+        "Jonathan A. Weiss"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-06-12",
+      "doi": "10.1108/aia-01-2026-0003",
+      "url": "https://doi.org/10.1108/aia-01-2026-0003",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Purpose Positive well-being is often understood as resulting from a combination of individual strengths and physical, social and psychological environmental characteristics. Limited research has explored the impact of environmental factors that promote high levels of well-being from autistic youth perspectives. The current study aims to identify the environmental characteristics that support well-being among autistic youth. Design/methodology/approach The current study used secondary data from a study of therapeutic photography with autistic youth. Participants aged 16–25 (n = 20) captured photos of environments that supported their well-being, reflected on each photo and participated in a qualitative interview. Data were analysed thematically within a social constructionist framework, supplemented by qualitative photo analysis. Findings Seven resulting themes emerged. Thriving is found within environments that enable self-determination, identity affirmation and reflectivity; provide an optimal level of challenge and sensory comfort; and present opportunities to pursue interpersonal connection and personal interests. Originality/value The results of the current study emphasise the…"
+    },
+    {
+      "id": "10.1007/s40489-026-00557-x",
+      "title": "The Acceptability of Cognitive Behavioural Therapy for Autistic Adults: A Scoping Review",
+      "authors": [
+        "Chloe Kennedy",
+        "Anna Bak-Klimek",
+        "Alison Porter-Armstrong",
+        "Lisa O’Leary",
+        "Louise Allan"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-11",
+      "doi": "10.1007/s40489-026-00557-x",
+      "url": "https://doi.org/10.1007/s40489-026-00557-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Cognitive Behavioural Therapy (CBT) is a ‘gold-standard’ treatment in the general population but may be less effective for autistic adults. Intervention acceptability can impact its effectiveness. Using the Theoretical Framework of Acceptability, we explored and synthesised available literature on CBT acceptability for autistic adults. Seventy studies were included in this review. Analysis shows heterogeneous terminology and measures related to acceptability, rare use of acceptability definitions or theory and rare prioritisation of acceptability as a study focus. All TFA constructs have been reported on to varying degrees, though no study reports on all constructs. The review suggests need for further attention on acceptability of real-world practice for autistic adults and focus on specific acceptability constructs.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261459222",
+      "title": "Can the Neurodiversity Approach Apply to ADHD? Exploring the Lived Experience of ADHD as Neurodivergence",
+      "authors": [
+        "Saskia van der Oord",
+        "Gert-Jan Vanaken",
+        "Blandine French"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-06-11",
+      "doi": "10.1177/10870547261459222",
+      "url": "https://doi.org/10.1177/10870547261459222",
+      "neurotype": [
+        "ADHD"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Introduction: Neurodiversity proponents claim ADHD is a value-neutral, minority neurotype subject to marginalization and discrimination. This paper explores, guided by lived-experiences it’s applicability to ADHD and contrasts it with the medical model and the overmedicalization critique. Here, ADHD is respectively considered as a deficit-to-be-cured or a societal problem compromising identity, fostering stigma and inducing medication use. Methods: We conducted a narrative review of in-depth interview studies with ADHD adolescents and adults focused on experiencing: core ADHD characteristics, disablement, diagnosis and medication and evaluated which approach to ADHD matches best the lived experience of ADHD. Results: In these lived experiences (1) ADHD characteristics are generally not experienced as universal deficits (2) disability primarily stems from an invalidating mismatch between the ADHD person and their neuronormative environment (3) the ADHD diagnostic label brings both beneficial and disadvantageous consequences and (4) using medication requires balancing its bodily and identity impact, while needing it to navigate unaccommodating environments and meeting self-determined…"
     },
     {
       "id": "10.1177/13623613261452693",
@@ -1240,47 +1308,6 @@
       ],
       "abstract": "Eating difficulties are highly prevalent among autistic children and are linked to negative health consequences. While many mechanisms are thought to underly these behaviors, we know less about how internalizing and externalizing behaviors relate to eating difficulties in autism. The purpose of this study was to examine how internalizing and externalizing behaviors differ between autistic children (3–6 years of age) with parent-reported picky eating ( n = 80) and without picky eating ( n = 30). Data was drawn from intake paperwork and assessments completed as part of an autism diagnostic evaluation at a large medical center. Results suggested that picky eaters, when compared to non-picky eaters, had significantly more difficulties with aggression and withdrawal. Our study findings suggest that understanding the behavioral profiles associated with picky eating may be particularly useful when devising treatment plans. Furthermore, diagnosticians who may be the first to gather both eating and behavioral symptom data can initiate referrals to feeding specialists to help prevent some of the negative health consequences associated with these eating behaviors. Lay Abstract Many autistic c…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261417535",
-      "title": "Sex-specific metrics for success: Gaps in social word use are bigger for autistic girls than boys",
-      "authors": [
-        "Meredith Cola",
-        "Sarah Schillinger",
-        "Margaret Lyons",
-        "Amanda Lee",
-        "Calliana Faulk",
-        "Maxine Covello",
-        "Nasya Howard",
-        "Hannah Franke",
-        "Alexandria Mulqueen",
-        "Lizzy Fulop",
-        "Azia Knox",
-        "Sunghye Cho",
-        "Mark Y Liberman",
-        "Juhi Pandey",
-        "Ashlee Yates Flanagan",
-        "Joseph Donaher",
-        "Robert T Schultz",
-        "Julia Parish-Morris"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261417535",
-      "url": "https://doi.org/10.1177/13623613261417535",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health",
-        "Quality of life"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Autistic girls are often diagnosed late, missed, or misdiagnosed, which can negatively impact quality of life and mental health. Although research shows the social profiles of autistic girls differ from boys in systematic ways that might explain gaps in diagnosis, little is known about how autistic girls’ social language compares to their same-sex non-autistic peers. This study investigated social words—words that make reference to other people—produced by 138 age- and IQ-matched autistic and non-autistic youth (ages 6–15) during one Autism Diagnostic Observation Schedule, Second Edition task. Girls used significantly more social words than boys across both diagnostic groups. There was a larger gap in social word production between autistic girls and non-autistic girls than autistic boys and non-autistic boys, with non-autistic girls using the most social words. Non-autistic girls’ social language behavior—including their social word production—sets an especially high bar for autistic girls, who often report trying to blend in with other girls. Growing evidence of the distinct social language profiles of autistic and non-autistic girls versus boys should guide researchers and clini…"
     },
     {
       "id": "10.1007/s40489-026-00559-9",
@@ -6906,31 +6933,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261416672",
-      "title": "The relationship between age of autism diagnosis and life satisfaction in adulthood",
-      "authors": [
-        "Stacy Cremer",
-        "Ligia Antezana",
-        "Caitlin M Conner",
-        "Shaun M Eack",
-        "Carla A Mazefsky",
-        "Jessie B Northrup"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261416672",
-      "url": "https://doi.org/10.1177/13623613261416672",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "This study examined how age of autism diagnosis relates to adult life satisfaction in a sample of 769 self-reporting autistic adults. We analyzed how demographic and clinical variables related to age of diagnosis and then analyzed the relationship between age of diagnosis and scores on four measures of life satisfaction while controlling for variables significantly associated with age of diagnosis. Participants diagnosed in adulthood were older, less likely to have an intellectual disability, more likely to be assigned female at birth, more likely to identify as a sexual minority, and had higher self-reported autistic traits than those diagnosed earlier. Controlling for these factors, participants diagnosed between ages 3 and 5 reported higher levels of flourishing, autonomy satisfaction, and social satisfaction than those diagnosed in adulthood. Diagnosis before 3 was also associated with more social satisfaction and autonomy satisfaction than adult diagnosis. Individuals diagnosed in adulthood did not significantly differ from those diagnosed between ages 6 and 11 or 12 and 17 on any outcome. These findings indicate that age of autism diagnosis is nonlinearly related to adult lif…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s40489-026-00550-4",
       "title": "Comparative Analysis of Heart Rate Variability Across Cognitive Domains in Individuals with Autism and ADHD: A Systematic Review and Meta-Analysis",
       "authors": [
@@ -9413,26 +9415,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70192",
-      "title": "<scp>\n                      ToM\n                      <sup>2</sup>\n                    </scp>\n                    : Parental Perception of Theory of Mind Abilities in Autistic Children",
-      "authors": [
-        "Liraz Sasportas Joseph",
-        "Michal Perez",
-        "Anat Perry",
-        "Judah Koller"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1002/aur.70192",
-      "url": "https://doi.org/10.1002/aur.70192",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Understanding how parents perceive their children's abilities is crucial for family dynamics and intervention strategies, particularly in autism, where accurate parental assessment of social‐cognitive capabilities can influence support approaches and developmental outcomes. This study introduces ToM 2 , a novel measure examining parents' ability to predict their autistic child's Theory of Mind (ToM) performance, representing a form of mentalization that requires parents to evaluate how their child understands others' mental states. We recruited 54 parent–child dyads (43 included in final analyses) from families with children diagnosed with autism (ages 42–70 months). Children completed a six‐task ToM scale, while parents predicted their child's responses to each task. ToM 2 accuracy was calculated based on the match between parental predictions and child performance. We examined the relationships between ToM 2 accuracy and family accommodation for restricted and repetitive behaviors, autism symptom severity, and parental broader autism phenotype characteristics using logistic mixed‐effects modeling. Results revealed that parents with higher levels of family accommodation d…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07270-y",
       "title": "Exploring Correlations of Unemployment, Underemployment, and Well-Being Among Autistic Job Seekers by Race in the United States",
       "authors": [
@@ -10342,50 +10324,6 @@
       "domains": [
         "Healthcare"
       ]
-    },
-    {
-      "id": "10.1108/aia-08-2025-0087",
-      "title": "Screening autism in adulthood: psychometric evidence for two brief measures sensitive to gendered presentations",
-      "authors": [
-        "Luis Anunciacao",
-        "Christopher Murray",
-        "Louise Marques"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-10",
-      "doi": "10.1108/aia-08-2025-0087",
-      "url": "https://doi.org/10.1108/aia-08-2025-0087",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose This study aims to introduce and evaluate two brief screening instruments for autism in Brazil. Initial data on reliability, validity, norms and proposed cutoff scores are presented. Design/methodology/approach Each brief scale was completed by 700 independent participants, gathered as a convenience sample. The mean age of participants completing the Brief Screening for Autism Spectrum (Brief-Spec) A was 37.6 years (SD = 11.7) with balanced gender distribution (50.0% male); Brief-Spec F had a mean age of 40.3 years (SD = 10.3). Most participants had college or postgraduate degrees. Data were collected online, with informed consent obtained. Psychometric evaluation included confirmatory factor analysis, ordinal alpha and omega estimates, and correlations with Autism Spectrum Quotient-10 scores. Findings Both tools demonstrated strong structural validity and high reliability. Brief-Spec A showed acceptable fit (CFI = 0.915, TLI = 0.903, RMSEA = 0.085, SRMR = 0.048; α = 0.87 – 0.90, ω = 0.84 – 0.89). Brief-Spec F also showed acceptable fit (CFI = 0.922, TLI = 0.907, RMSEA = 0.098, SRMR = 0.067; α = 0.82–0.93, ω = 0.82 – 0.90). Both showed substantial convergent validity and pr…"
-    },
-    {
-      "id": "10.1177/10870547251415574",
-      "title": "Younger-for-Grade Children are Not at Greater Likelihood for ADHD Diagnosis During Elementary School: Repeated Evidence of a Null Relative Age Effect",
-      "authors": [
-        "Eric Hengyu Hu",
-        "Stephen V. Faraone",
-        "Paul L. Morgan"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-02-10",
-      "doi": "10.1177/10870547251415574",
-      "url": "https://doi.org/10.1177/10870547251415574",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Employment"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Background: Prior work reports a relative age effect (RAE), in which children are more likely to be diagnosed with Attention-Deficit/Hyperactivity Disorder (ADHD) if they are relatively younger than their classmates. Yet work reporting a RAE in ADHD diagnosis has analyzed relatively dated samples, has not examined moderation across sociodemographic characteristics, and has largely not examined the RAE in longitudinal analyses. We examined whether entering kindergarten as a relatively younger student increased the likelihood being diagnosed with ADHD across elementary school. We also examined moderation by race and ethnicity, biological sex, socioeconomic status, and home language. Methods: We analyzed data from the Early Childhood Longitudinal Study–Kindergarten Cohort (ECLS-K: 2011; N = 11,410), a nationally representative cohort. Logistic regression models estimated relations between children’s relative age and both grade-specific and cumulative ADHD diagnoses during elementary school. Discrete-time event history logit regression models examined the timing of ADHD diagnosis from kindergarten through fifth grade. Interaction terms assessed moderation by sociodemographic characteri…"
     }
   ]
 }
