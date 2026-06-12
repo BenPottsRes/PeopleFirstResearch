@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T10:58:58Z",
+  "generated_at": "2026-06-12T10:41:38Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -135,6 +135,49 @@
       "abstract": "Objectives: Attention-deficit/hyperactivity disorder (ADHD) and post-traumatic stress disorder (PTSD) often co-occur in youth, complicating the clinical presentation. However, little is known about how PTSD influences treatment selection or outcomes in youth with ADHD. This study examined prescribing patterns and clinical outcomes among youth with ADHD, with and without comorbid PTSD. Methods: This retrospective cohort study used electronic health record data from the TriNetX Research Network, including over 714,000 youth (ages 6–18) diagnosed with ADHD (F90), of whom 30,341 (4.25%) also had comorbid PTSD (F43.1). Outcomes included treatment trends, emergency visits, hospitalizations, and subsequent antipsychotic or mood stabilizer prescriptions. Relative risks (RR), hazard ratios (HR), and 95% confidence intervals were calculated using propensity score matching and Cox proportional hazards models adjusted for sociodemographic and psychiatric variables. Results: Among youth with ADHD, those with comorbid PTSD were older, had more psychiatric comorbidities, and were more likely to receive non-stimulants ( RR 1.54, 95% CI [1.51, 1.57]), antidepressants, antipsychotics, mood stabilize…"
     },
     {
+      "id": "10.1080/1034912x.2026.2678833",
+      "title": "Evaluation of the Relevance and Effective Implementation of Pedagogical Practices for Students on the Autism Spectrum at University",
+      "authors": [
+        "Florian Laronze",
+        "Bernard N’kaoua"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-06-12",
+      "doi": "10.1080/1034912x.2026.2678833",
+      "url": "https://doi.org/10.1080/1034912x.2026.2678833",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ]
+    },
+    {
+      "id": "10.1080/1034912x.2026.2678842",
+      "title": "Culturally Adapted Online Physical Activity Intervention for South Korean Immigrant Parents of Adult Children with Autism Spectrum Disorders",
+      "authors": [
+        "Seo Hee Lee",
+        "Seung Yeon Park"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-06-12",
+      "doi": "10.1080/1034912x.2026.2678842",
+      "url": "https://doi.org/10.1080/1034912x.2026.2678842",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
       "id": "10.1108/aia-01-2026-0003",
       "title": "“I’m hoping the environment is supportive”: a qualitative analysis of environmental influences on the well-being of autistic young people",
       "authors": [
@@ -161,6 +204,29 @@
       "abstract": "Purpose Positive well-being is often understood as resulting from a combination of individual strengths and physical, social and psychological environmental characteristics. Limited research has explored the impact of environmental factors that promote high levels of well-being from autistic youth perspectives. The current study aims to identify the environmental characteristics that support well-being among autistic youth. Design/methodology/approach The current study used secondary data from a study of therapeutic photography with autistic youth. Participants aged 16–25 (n = 20) captured photos of environments that supported their well-being, reflected on each photo and participated in a qualitative interview. Data were analysed thematically within a social constructionist framework, supplemented by qualitative photo analysis. Findings Seven resulting themes emerged. Thriving is found within environments that enable self-determination, identity affirmation and reflectivity; provide an optimal level of challenge and sensory comfort; and present opportunities to pursue interpersonal connection and personal interests. Originality/value The results of the current study emphasise the…"
     },
     {
+      "id": "10.1177/25739581261456658",
+      "title": "Accountable Communication Theory: An Integrative Framework for Understanding Cross-Neurotype Communication Breakdowns",
+      "authors": [
+        "M. Ramona Thomas"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-06-11",
+      "doi": "10.1177/25739581261456658",
+      "url": "https://doi.org/10.1177/25739581261456658",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Accountable Communication Theory attempts to develop a conceptual starting point for integrating perceptual dehumanization (PD) and interpersonal synchrony (IPS) with Cross-Neurotype Communication breakdowns. It is an integrative framework designed to explain communication breakdowns across neurotypes, particularly between autistic and non-autistic people. The theory considers the robust empirical support for differences in social synchronization patterns and organizes them with the Domains of Difference. These domains encompass aspects of immediately observable social behavior (front-end communication) and the neurobiological foundations of social behavior (back-end communication), which vary by neurotype. Differences in the back-end of communication influence the surface-level appearance of social behavior, making it difficult for non-autistic individuals to interpret autistic social behavior accurately. This framework proposes the connection between IPS and PD, as a possible explanation for why phenomena such as the Double-Empathy Problem and Dialectical Misattunement Hypothesis occur. The theory emphasizes that non-autistic individuals must take responsibility for correctly und…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s40489-026-00557-x",
       "title": "The Acceptability of Cognitive Behavioural Therapy for Autistic Adults: A Scoping Review",
       "authors": [
@@ -180,6 +246,31 @@
       ],
       "abstract": "Abstract Cognitive Behavioural Therapy (CBT) is a ‘gold-standard’ treatment in the general population but may be less effective for autistic adults. Intervention acceptability can impact its effectiveness. Using the Theoretical Framework of Acceptability, we explored and synthesised available literature on CBT acceptability for autistic adults. Seventy studies were included in this review. Analysis shows heterogeneous terminology and measures related to acceptability, rare use of acceptability definitions or theory and rare prioritisation of acceptability as a study focus. All TFA constructs have been reported on to varying degrees, though no study reports on all constructs. The review suggests need for further attention on acceptability of real-world practice for autistic adults and focus on specific acceptability constructs.",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/1034912x.2026.2678843",
+      "title": "Teaching the Invisible Curriculum: Social Skills in Inclusive Autism Classrooms",
+      "authors": [
+        "Farzana Fatima Anee",
+        "Asef Raj",
+        "Saeda Ummul Wara",
+        "Armin Zahid",
+        "Mizanur Rahman Maruf",
+        "Md. Arafat Rahman",
+        "Sabrina Sharmin",
+        "Hasniza Binti Ibrahim"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-06-11",
+      "doi": "10.1080/1034912x.2026.2678843",
+      "url": "https://doi.org/10.1080/1034912x.2026.2678843",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
     },
     {
       "id": "10.1177/10870547261459222",
@@ -6540,35 +6631,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1007/s10803-026-07250-2",
-      "title": "Correction: Clinical Correlates of Major Depression in Psychiatrically Referred Youth With and Without Autism: A Controlled Study",
-      "authors": [
-        "Usman Ghumman",
-        "Maura DiSalvo",
-        "Maria Iorini",
-        "Akul Srinivasan",
-        "Aisha Saeed",
-        "Meredith O’Connor",
-        "Mohammad Ghaziuddin",
-        "Mai Uchida",
-        "Atilla Ceranoglu",
-        "Janet Wozniak",
-        "Gagan Joshi"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1007/s10803-026-07250-2",
-      "url": "https://doi.org/10.1007/s10803-026-07250-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ]
-    },
-    {
       "id": "10.1177/13623613261422944",
       "title": "Facilitators, barriers, and strategies in implementing early intervention for children with autism spectrum disorder aged 0–6 years: A multicenter qualitative study using the consolidated framework for implementation research",
       "authors": [
@@ -9392,29 +9454,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70185",
-      "title": "Examining the Relationship Between Social Motivation and Internalizing Symptoms in Autistic People: A Systematic Review and Meta‐Analysis",
-      "authors": [
-        "Katie Lindsay‐Webb",
-        "Poppy Clayton",
-        "Emily Simonoff",
-        "Matthew J. Hollocks"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1002/aur.70185",
-      "url": "https://doi.org/10.1002/aur.70185",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT The social motivation theory hypothesizes that autistic individuals' experience diminished social motivation due to reduced social reward, social orienting, and social maintaining. Low social motivation has been linked to increased vulnerability to internalizing difficulties within this population. This systematic review and meta‐analysis examined the relationship between social motivation and internalizing symptoms across the lifespan in autistic individuals. Relevant research papers until February 2025 were identified by searching EMBASE, PsycINFO, PubMed, and Web of Science databases (PROSPERO protocol: CRD42024547863). The systematic review included 14 studies ( n = 4590). A total of three meta‐analyses were run using Pearson's correlation coefficients between social motivation and (1) anxiety, (2) depression, and (3) social anxiety, and the moderating effect of age, sex, and study quality were assessed using meta‐regressions. Sensitivity analyses were run to assess whether one study was influencing the results of the meta‐analysis. Greater difficulties with social motivation are associated with increased anxiety, depression, and social anxiety, with a moderate pooled…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07270-y",
       "title": "Exploring Correlations of Unemployment, Underemployment, and Well-Being Among Autistic Job Seekers by Race in the United States",
       "authors": [
@@ -10288,42 +10327,6 @@
         "Healthcare"
       ],
       "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) is associated not only with cognitive impairments but also with deficits in social cognitive abilities, including empathy. Although attention and empathy have been individually studied in children with ADHD, the link between performance-based attention measures and empathy remains underexplored. Thus, this study examined the relationship between attention performance and empathy in children diagnosed with ADHD. Method: The sample included 53 children aged 7 to 12, consisting of 27 children diagnosed with ADHD and 26 typically developing control group. All participants were recruited from educational and clinical settings. Attention was measured using a computer-based Go/No-Go task, and empathy was assessed using the Reading the Mind in the Eyes Test (RMET). ADHD symptom severity was assessed using the Turgay DSM-IV-Based Disruptive Behavior Disorders Rating Scale (T-DSM-IV-S). Results: Children with ADHD made significantly more omission errors and scored lower on RMET than typically developing group. Significant negative correlations were found between RMET total score and omission errors and inattention scores. Regression…"
-    },
-    {
-      "id": "10.1080/20473869.2026.2628973",
-      "title": "Effect of physical activity interventions on restricted and repetitive behaviors in children with autism spectrum disorder: a systematic review",
-      "authors": [
-        "Lin Tai",
-        "Yingjin Cui"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-02-11",
-      "doi": "10.1080/20473869.2026.2628973",
-      "url": "https://doi.org/10.1080/20473869.2026.2628973",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2626434",
-      "title": "Relationships among hyperacusis, misophonia, and autistic traits in a non-clinical population",
-      "authors": [
-        "Yumi Yamazawa",
-        "Akira Midorikawa"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-02-11",
-      "doi": "10.1080/20473869.2026.2626434",
-      "url": "https://doi.org/10.1080/20473869.2026.2626434",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ]
     }
   ]
 }
