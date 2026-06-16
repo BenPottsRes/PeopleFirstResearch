@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T12:43:55Z",
+  "generated_at": "2026-06-16T11:36:47Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -108,6 +108,33 @@
       "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
     },
     {
+      "id": "10.1007/s10882-026-10079-3",
+      "title": "Informing Cultural Adaptations to Advocacy Programs for Spanish and English-speaking Families of Autistic Youth",
+      "authors": [
+        "Ana Lucia Hincapie",
+        "Ximena Palacios Zimmermann",
+        "Stephanie Chavez",
+        "Meghan Burke",
+        "Leann Smith Dawalt",
+        "Julie Lounds Taylor"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-16",
+      "doi": "10.1007/s10882-026-10079-3",
+      "url": "https://doi.org/10.1007/s10882-026-10079-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Abstract Navigating adult disability services can be challenging for families of autistic youth. Barriers to service access are compounded among Spanish-speaking families of autistic youth, as many resources, applications, and information are unavailable in Spanish. Family-centered advocacy programs, including Advocacy for Supports to Improve Service Transitions (ASSIST) and Apoyando a nuestros hijo/a con la Transición de la secundaria a la vida adulta (ASISTIR), were created to help families gain knowledge and skills to access adult disability services. Yet, it is unclear whether such programs should offer differentiated content tailored to the unique barriers faced by English- and Spanish-speaking families. To that end, the purpose of this study was to compare the frequency and types of questions participants asked during ASSIST (offered only in English) and ASISTIR (offered only in Spanish). Accordingly, we analyzed the recordings from two ASSIST cohorts and two ASISTIR cohorts (collectively, 32 sessions, reflecting 64 h of recordings). Overall, there were no significant differences in the overall number of questions asked during the programs. However, ASISTIR participants asked…"
+    },
+    {
       "id": "10.1080/20473869.2026.2679066",
       "title": "The effects of incidental teaching in Azerbaijan to promote self-initiation of children with autism spectrum disorder",
       "authors": [
@@ -123,6 +150,63 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2683886",
+      "title": "Autism spectrum disorder in Williams syndrome: a case report highlighting diagnostic complexity",
+      "authors": [
+        "Michelle Yetman",
+        "Adam Blancher",
+        "Michael McGill"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-15",
+      "doi": "10.1080/20473869.2026.2683886",
+      "url": "https://doi.org/10.1080/20473869.2026.2683886",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70292",
+      "title": "“People Think I'm a Fraud”: A Shared Autistic Experience Across Vastly Different Profiles",
+      "authors": [
+        "Mary Doherty"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-15",
+      "doi": "10.1002/aur.70292",
+      "url": "https://doi.org/10.1002/aur.70292",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1002/aur.70293",
+      "title": "Motor Disorders in Autism: From Comorbidity to Core Criterion",
+      "authors": [
+        "Mohamed Jaber"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-15",
+      "doi": "10.1002/aur.70293",
+      "url": "https://doi.org/10.1002/aur.70293",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT While repetitive movements are recognized as a diagnostic hallmark of Autism Spectrum Disorder (ASD) in frameworks such as the DSM and ICD, other motor disturbances, including gait atypicalities and postural control difficulties, have historically been overlooked or framed as secondary comorbidities. This discrepancy persists despite growing evidence that motor signs in ASD are fundamental rather than incidental. Some of these motor and gait signs may be discernable early and could potentially forecast subsequent communication outcomes in certain cohorts. The current focus on observable behaviors in diagnostic systems may thus benefit from integration of motor dimensions, which could enhance early identification and support tailored interventions. Available experimental and clinical findings converge to indicate that motor dysfunctions in ASD are neither epiphenomena nor peripheral. They map onto cerebellar and basal ganglia dysfunction, impaired multisensory integration, and disrupted emotion–motor coupling that may impact cognitive and social outcomes. Future directions must go beyond the current phenotypical characterization of ASD. Motor screening could be integrated i…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261457948",
@@ -9441,35 +9525,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/13623613251414902",
-      "title": "A double-masked randomised actively controlled trial of KONTAKT™ social skills toolbox for Australian autistic children",
-      "authors": [
-        "Bahareh Afsharnejad",
-        "Elinda Ai Lim Lee",
-        "Maya Hayden-Evans",
-        "Anna Fridell",
-        "Christina Coco",
-        "Tasha Alach",
-        "Mathew Johnson",
-        "Sven Bölte",
-        "Sonya Girdler"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-01",
-      "doi": "10.1177/13623613251414902",
-      "url": "https://doi.org/10.1177/13623613251414902",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "abstract": "To explore the efficacy of KONTAKT ™ , a manualised social skills group programme, compared to an active control group, 84 autistic children aged 8–12 years were randomised to KONTAKT ( n = 43) or ART-Legends, a group-based social art programme ( n = 41). Both programmes ran for sixteen 75-min sessions. Primary (Goal Attainment Scaling) and Secondary outcomes (Social Skills Group Assessment, LERID Friendship Scale) were collected at baseline, post-completion, 3-month (primary endpoint) and 1-year follow-up. A weekly survey was also collected to capture children’s enjoyment, motivation and social interaction anxiety while attending their group. Linear mixed modelling indicating significant effects for both groups on the primary outcome GAS ( p &lt; 0.001) over time. No Time*Group interaction was observed for GAS or any of the secondary measures at the primary endpoint, except quality of friendship (effect size = 0.67, p = 0.01). The weekly survey indicated higher enjoyment levels from attending KONTAKT compared to ART-Legends. This study found that both social group programmes helped autistic children achieve their personal social goals, with no clear advantage for KONTAKT over ART-…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07270-y",
