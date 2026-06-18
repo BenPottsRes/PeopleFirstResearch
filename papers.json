@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T11:19:10Z",
+  "generated_at": "2026-06-18T10:50:01Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -106,6 +106,230 @@
         "ADHD"
       ],
       "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
+    },
+    {
+      "id": "10.1007/s10803-026-07381-6",
+      "title": "Structure and Meaning in Mathematics: Divergent Roles of Syntax and Meaning-Based Language in Autism",
+      "authors": [
+        "O. Cohen",
+        "S. Shnitzer Meirovich",
+        "N. Sukenik"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-18",
+      "doi": "10.1007/s10803-026-07381-6",
+      "url": "https://doi.org/10.1007/s10803-026-07381-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose Mathematical reasoning in adolescence relies on higher order language abilities, yet little is known about how specific language domains support mathematical performance in autistic adolescents, especially in morphologically rich languages such as Hebrew. This study examined the roles of syntax and pragmatics in mathematical performance among Hebrew-speaking autistic and typically developing (TD) adolescents. Method Participants were 67 adolescents (31 autistic, 36 TD; ages 12–19). Syntax and pragmatics were independently coded from a Definition Task, and mathematics was assessed across procedural thinking, arithmetic comprehension, and algebraic technique. Because groups differed in morphology, this variable was entered as a covariate. Group differences were examined using ANCOVA and mean-rank ANCOVA. Spearman correlations tested within-group associations, and moderation analyses assessed whether group affiliation moderated language–mathematics relationships. Results Autistic adolescents performed significantly lower than TD peers in procedural thinking, algebraic technique, and total mathematics, whereas syntax and pragmatic definition scores did not differ once…"
+    },
+    {
+      "id": "10.1007/s10803-026-07377-2",
+      "title": "Brief Report: Child Emotion Dysregulation Mediates the Association Between Parenting Stress and Behavioral Challenges in Autistic Toddlers and Preschoolers",
+      "authors": [
+        "Munju Kim",
+        "Deanna Swain",
+        "Adriana Di Martino",
+        "So Hyun Kim"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-18",
+      "doi": "10.1007/s10803-026-07377-2",
+      "url": "https://doi.org/10.1007/s10803-026-07377-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07327-y",
+      "title": "A Qualitative Study of the Treatment Experiences of Autistic Adults Allocated to Sertraline or Placebo for Anxiety in a Blinded Randomised Controlled Trial",
+      "authors": [
+        "Jade Eloise Norris",
+        "Alba X. Realpe",
+        "Ava Lorenc",
+        "Leonora Cotton",
+        "Zoe Morgan",
+        "Dheeraj Rai",
+        "Nicola Mills",
+        "Jake Alberts",
+        "Regi Alexander",
+        "Lucy Allender",
+        "Ayomipo Jeremiah Amiola",
+        "Wendy Andrusjak",
+        "Sharon Aujla",
+        "Sarah Baillon",
+        "David Baldwin",
+        "Ariska Barbosa",
+        "Meera Bentley",
+        "Gaurav Bhattarai",
+        "Asit Biswas",
+        "Monalisa Bora-White",
+        "Traolach Brugha",
+        "Emma Butler",
+        "Alison Cape",
+        "David Carmichael",
+        "Suzee Chang",
+        "Jack Cheshire",
+        "Madeleine Cochrane",
+        "Leonora Cotton",
+        "Abbie Cottrell",
+        "Claire Cree",
+        "Joshua Cudworth",
+        "Conor Davidson",
+        "Amy Davis",
+        "Joy Fellows Davis",
+        "Maria Del Piccolo",
+        "Didiana dos Santos",
+        "Sarah Douglas",
+        "Jacqueline Dziewanowska",
+        "Katie Ewart",
+        "Sana Fatima",
+        "Kerry Flahive",
+        "Sharmistha Ghosh",
+        "Emma Glasson",
+        "Amy Green",
+        "Lisa Hackney",
+        "Catherine Haig",
+        "Peter Hale",
+        "Solveig Haselbach",
+        "Katherine Hatch",
+        "Bradleigh Hayhow",
+        "Angela Holland",
+        "Emma Horne",
+        "Martin House",
+        "Stephanie Howard",
+        "Don Hulme",
+        "Kathryn Janes",
+        "Laura Jenkins",
+        "Abhishek Jha",
+        "Rose Jones",
+        "Alwyn Kam",
+        "David Kessler",
+        "Puja Kochhar",
+        "Ganesh Kunjithapatham",
+        "Peter Langdon",
+        "Liz Lenaghan",
+        "Helen Leonard",
+        "Amanda Lewis",
+        "Holly Livesey",
+        "Keri Lodge",
+        "Laura Lord",
+        "Ava Lorenc",
+        "Charlotte Mackney-Hudson",
+        "Stephanie MacNeill",
+        "Alice Madden",
+        "Charlotte Maplanka",
+        "Jonathan Martin",
+        "Liz McCullagh",
+        "Tim Medlicott",
+        "Nicola Mills",
+        "Maximiliano Vazquez Morales",
+        "Zoe Morgan",
+        "Jeremy Mudunkotuwe",
+        "Raja Mukherjee",
+        "Sowmy Murickal",
+        "Anneka Newman",
+        "Victoria Nimmo-Smith",
+        "Krist Noonan",
+        "Jade Eloise Norris",
+        "Sarah O’Brien",
+        "Katrina Or",
+        "Sarah Parkinson",
+        "Alex Parsons",
+        "Rani Pathania",
+        "Gisela Perez-Olivas",
+        "Rebekah Pole",
+        "Karen Poon",
+        "Sunita Procter",
+        "Dheeraj Rai",
+        "Prasanna Rajbhandari",
+        "Alba X Realpe",
+        "Jemma Regan",
+        "Ailsa Russell",
+        "Aws Sadik",
+        "Inder Sawhney",
+        "Hafsa Sheikh",
+        "Susan Smith",
+        "Sujata Soni",
+        "Ashkan Sowhani",
+        "Holly Spray",
+        "Sergio Starkstein",
+        "Jodi Taylor",
+        "Eleanor Teo",
+        "Brionne Thomas",
+        "Joanna Thorn",
+        "Samuel Tromans",
+        "Eleni Tsappis",
+        "Nicholas Turner",
+        "Amy Walker",
+        "Doug Webb",
+        "Jack Welch",
+        "Nicola Wiles",
+        "Alexandra Young"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-18",
+      "doi": "10.1007/s10803-026-07327-y",
+      "url": "https://doi.org/10.1007/s10803-026-07327-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose The STRATA randomised-controlled trial (RCT) examined the antidepressant sertraline vs placebo for treating anxiety in autistic adults. Autistic people are often assumed to be reluctant to take part in RCTs due to intolerance of their inherent uncertainty. This study aimed to qualitatively examine autistic people’s experiences of RCT participation, specifically regarding their random assignment to an antidepressant (sertraline) or placebo for their mental health, whilst blinded to treatment allocation. Methods Semi-structured interviews were undertaken with a purposive sample of 62 STRATA participants. The interviews examined why they chose to take part, why they continued in the trial and/or discontinued medication, and their overall experience of participation. Interviews took place either during participation, or at participants’ final trial appointment at 52-weeks post randomisation (‘exit interviews’). Data were analysed thematically through a collaborative process, with multiple researchers independently coding, discussing, and refining themes. Results Interviewees often discussed improved anxiety, attributing changes to believing they were taking sertraline,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07392-3",
+      "title": "Evaluating the Acceptability of an Early Adoption of the Tele-ASD Diagnostic Assessment Tool for Adults (TADA)",
+      "authors": [
+        "Ryan Coleman",
+        "Amy Weitlauf",
+        "Hannah Hartnett",
+        "Gabi Castillo-Martinez",
+        "Caitlin Stone",
+        "Amy Swanson",
+        "Tori Foster",
+        "Rachel Hundley",
+        "LeAnna Kehl",
+        "Alison Vehorn",
+        "Zachary Warren"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-18",
+      "doi": "10.1007/s10803-026-07392-3",
+      "url": "https://doi.org/10.1007/s10803-026-07392-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Abstract Purpose Adults seeking autism evaluations are often met with significant barriers, including long wait times, high costs, and a lack of access to providers trained in adult autism assessment. In addition, many of the primary assessment tools in adult autism assessment were developed without the input of autistic adults. To help expand diagnostic options for this population, we developed the novel Tele-ASD Diagnostic Assessment Tool for Adults (TADA). This study sought to evaluate the acceptability and feasibility of the TADA’s content, presentation, and scoring, according to autistic adults and clinicians administering the measure. Methods Participants (n = 32, 22 autistic, 10 non-autistic) attended a tele-health appointment where they were administered the TADA by a licensed psychologist who then scored their clinical impressions on whether participants were reporting and exhibiting behaviors consistent with autism. Results &amp; Conclusion Both participants and clinicians rated their experience with the TADA favorably and indicated that it would be an acceptable addition to an assessment battery for adults seeking an autism evaluation.",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07390-5",
@@ -2170,6 +2394,353 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1002/aur.70269",
+      "title": "Vicarious Perception of Touch in\n                    <scp>ASD</scp>\n                    : The Role of Empathy and Touch Experiences",
+      "authors": [
+        "Ana Rita Pereira",
+        "Marta Pozo‐Rodríguez",
+        "A. Ribeiro‐Carreira",
+        "Alberto J. González‐Villar",
+        "Sabela Conde‐Pumpido Zubizarreta",
+        "María Tubío‐Fungueiriño",
+        "Angel Carracedo",
+        "Montse Fernández‐Prieto",
+        "Adriana Sampaio"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70269",
+      "url": "https://doi.org/10.1002/aur.70269",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT C‐Tactile (CT) targeted affective touch plays a central role in social cognition and emotional development. In autism, atypical sensory processing, particularly in response to tactile stimulation, has frequently been reported. Autistic individuals have been shown to exhibit altered perception and reduced hedonic evaluation of affective touch, as well as increased defensive responses. Despite these differences in direct touch, the perception of vicarious social touch or its connection to social and emotional constructs remains poorly explored. Vicarious touch is theoretically relevant because it recruits social‐cognitive and affective mechanisms beyond primary somatosensory processing; however, most prior studies have focused on neural correlates in neurotypical adults, with limited behavioral investigation and scarce evidence in autistic populations. The present study evaluated how autistic and non‐autistic adolescents and young adults perceive vicarious social touch. Participants observed videos depicting touch delivered at three different speeds (static, CT‐optimal, and fast) and across five skin locations (back, upper arm, ventral forearm, dorsal forearm, and palm). Par…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70260",
+      "title": "Change Trajectories During Parent–Child Interaction Therapy for Autistic Children and Their Caregivers",
+      "authors": [
+        "Catherine A. Burrows",
+        "William Andrew Rothenberg",
+        "Dainelys Garcia",
+        "Abigail Peskin",
+        "Maria Jimenez‐Muñoz",
+        "Eileen Davis",
+        "Jason F. Jent",
+        "Meaghan V. Parladé"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70260",
+      "url": "https://doi.org/10.1002/aur.70260",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT Disruptive behaviors (non‐compliance, aggression) are common in autistic children. Parent–Child Interaction Therapy (PCIT) is a caregiver‐mediated intervention utilizing in vivo caregiver coaching that reduces disruptive behaviors and has been shown to be effective for young autistic children. This study sought to identify child and caregiver factors that relate to session‐level progress among autistic children and their caregivers. Participants included 98 autistic children aged 2–8 years (91% male) who received PCIT in a university‐affiliated clinic. Session‐level change was examined using iterative multilevel modeling to examine change in child disruptive behaviors, as measured on the Eyberg Child Behavior Inventory (ECBI), caregiver positive attending skills (Do‐skills), and caregiver negative statements (Avoid‐skills). Optimal fitting trajectories revealed quadratic change in ECBI scores, Do‐skills, and Avoid‐skills. The effectiveness of PCIT did not differ based on participants' level of autistic traits or caregiver demographics. Improvements in child disruptive behavior were associated with child adaptability and parenting stress pre‐treatment; higher adaptability a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70277",
+      "title": "Disparities in Physical Activity and Sport Participation Among Transition‐Age Youth With Autism and Intellectual Disability",
+      "authors": [
+        "Daniel E. Lidstone"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70277",
+      "url": "https://doi.org/10.1002/aur.70277",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Physical activity is critical for health, yet many adolescents do not engage in regular activity. Youth with autism spectrum disorder (ASD) and intellectual disability (ID) may be at heightened risk due to motor, sensory, and social barriers, but less is known about complete disengagement. Using nationally representative data from the 2021–2023 National Survey of Children's Health, this study examined disparities in (1) any weekly physical activity and (2) participation in organized sport among transition‐age youth (14–17 years) with ASD only, ID only, or ASD + ID, compared with youth without ASD or ID. Survey‐weighted multiple logistic regression models estimated adjusted odds ratios (aORs) for each outcome, controlling for sex, race, household poverty ratio, metropolitan residence, and age. Compared to youth without ASD or ID, all diagnostic groups had significantly lower odds of engaging in any weekly physical activity (ASD only: aOR = 0.32, 95% CI: 0.24–0.44; ID only: aOR = 0.49, 95% CI: 0.31–0.76; ASD + ID: aOR = 0.51, 95% CI: 0.30–0.88; all p ≤ 0.02) and organized sport (ASD only: aOR = 0.20, 95% CI: 0.15–0.27; ID only: aOR = 0.31, 95% CI: 0.19–0.51; ASD + ID: aOR =…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70274",
+      "title": "Visual Search Performance in Children With\n                    <scp>ASD</scp>\n                    : A Combined Case‐Control and Longitudinal Study",
+      "authors": [
+        "Naisan Raji",
+        "Iskra Todorova",
+        "Leonie Polzer",
+        "Solvejg K. Kleber",
+        "Christian Lemler",
+        "Luisa Schnettler",
+        "Janina Kitzerow‐Cleven",
+        "Ziyon Kim",
+        "Christine M. Freitag",
+        "Nico Bast"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70274",
+      "url": "https://doi.org/10.1002/aur.70274",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Autism Spectrum Disorder (ASD) is associated with altered attentional function. This has been associated with enhanced visual search performance. Addressing a gap in the literature, we investigate the longitudinal development of visual search alongside ASD symptoms. Using eye‐tracking, we studied performance in a single‐feature visual search task with visual search accuracy and time to target. We investigated preschoolers with ASD ( n = 60, age = 47 months) and a cohort of developmental age‐matched typically developing (TD) children ( n = 50, age = 35 months) at baseline and after approximately 3 years. We further explored associations of visual search performance with parent‐reported ASD symptom domains. Both groups showed similar visual search accuracy and time to target at baseline. At the 3‐year follow‐up, the ASD group showed significantly lower visual search accuracy and shorter time to target than the TD group. Within the ASD cohort, higher accuracy and shorter time to target were associated with higher social communication impairments. The often‐reported ASD advantage in visual search may not be as pronounced as assumed to differentiate between ASD and neurotypical…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70267",
+      "title": "Psychological Impact of Autism Screening on Caregivers",
+      "authors": [
+        "Ramkumar Aishworiya",
+        "Devon Gangi",
+        "Van Kim Ma",
+        "Chandni Parikh",
+        "Nor Azyati Yusoff",
+        "Narueporn Likhitweerawong",
+        "Sally Ozonoff"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70267",
+      "url": "https://doi.org/10.1002/aur.70267",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Autism screening in childhood is common, yet little is known about its potential psychological impact on caregivers. The U.S. Preventive Services Task Force, an independent national panel of disease prevention experts, stated that this gap in knowledge limited their ability to endorse universal autism screening. This study examined the psychological impact of autism screening, using data from a large community‐based sample ( n = 1272) involving online caregiver‐completed autism screeners at child age 6, 9, 12, 18, and 24 months. Caregivers completed the Participation Impact Questionnaire retrospectively (mean child age at completion 37.2 ± 4.8 months) to measure feelings about screening. A minority (34.7%) of the sample reported presence of ≥ 1 negative feeling; the most commonly endorsed was “worried”. Among this subset, negative feelings were of short duration (lasted for &lt; 1 day in 56.9%), were mild in severity (86.4%), and did not affect functioning (85.3%). A majority (86.2%) also reported ≥ 1 positive feeling. Our findings address a critical evidence gap regarding potential harms of autism screening and support universal screening, given that psychological harms a…"
+    },
+    {
+      "id": "10.1002/aur.70261",
+      "title": "Physical Fitness Profiles Among Children and Adolescents With\n                    <scp>ADHD</scp>\n                    and\n                    <scp>ASD</scp>\n                    : A Comparison With Typically Developing Peers",
+      "authors": [
+        "Nerea Blanco‐Martínez",
+        "Rocío Carballo‐Afonso",
+        "Joel Estévez‐Agudo",
+        "Carlos Ayán‐Pérez",
+        "José Carlos Diz‐Gómez"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70261",
+      "url": "https://doi.org/10.1002/aur.70261",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Children and adolescents with autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD) often present physical and motor challenges that may compromise health, yet direct comparisons between these neurodevelopmental conditions and typically developing (TD) peers remain limited. This study aimed to examine the physical fitness profiles of these three groups. A total of 1537 school‐aged participants were recruited from mainstream educational settings. The assessment included selected tests from the EUROFIT battery and body mass index (BMI). Composite indices of physical fitness and motor coordination were computed using age‐ and sex‐adjusted Z ‐scores. Both the ADHD ( n = 80) and ASD ( n = 36) groups showed significantly lower cardiorespiratory fitness, balance, and upper‐body coordination compared with TD peers ( n = 1413). Lower‐body muscular strength was reduced only in the ASD group, which also performed worse than the ADHD group. Flexibility and BMI distributions did not differ significantly across groups. Plate Tapping and Flamingo Balance test indices were markedly lower in both clinical groups relative to TD peers. Children and adolescents wi…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70251",
+      "title": "Occurrence and Correlates of Suicidal Thoughts Among Young Autistic Users of a Mental Health App",
+      "authors": [
+        "T. L. Procyshyn",
+        "E. M. Weir",
+        "M. Pelton",
+        "T. Chikaura",
+        "H. Hodges",
+        "K. Comley",
+        "S. Godson",
+        "C. Allison",
+        "S. Baron‐Cohen"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70251",
+      "url": "https://doi.org/10.1002/aur.70251",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT Young autistic people experience disproportionately high rates of mental health challenges, yet little is known about factors associated with suicidality in this group. This study leveraged anonymous self‐report data to identify correlates of suicidal thoughts among 365 young users (aged approximately 11–25 years) of a mental health app in the United Kingdom with an autism diagnosis or self‐identifying as autistic. The presence of suicidal thoughts was assessed as a binary item. Binary logistic regression was used to explore correlates of suicidal thoughts across three domains: mental health‐related symptoms, autism‐related factors, and adverse life events/experiences. The final model included all significant correlates from domain‐specific models alongside demographic factors. Suicidal thoughts were reported by 63% of participants, with similar rates across age groups. The final model accounted for nearly 50% of variability in the presence of suicidal thoughts ( R 2 Nagelkerke = 0.48, p &lt; 0.001). Self‐harm and depression showed the strongest positive associations (odds ratio, OR and [95% confidence interval] = 6.41 [3.62, 11.35] and 4.58 [2.51, 8.35], respectively), fo…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70252",
+      "title": "Exploring Biases in Autism Diagnostic Pathways",
+      "authors": [
+        "Ryan Woolhouse",
+        "Sarah L. Nicholson"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70252",
+      "url": "https://doi.org/10.1002/aur.70252",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Assessments for autism spectrum disorder are time‐consuming and expensive, and demand has increased over recent decades. Despite improved diagnostic criteria and awareness of autism, there still appear to be disparities in diagnostic rates of autism across age, gender, and ethnicity. Research investigating biases in referrals to, and assessments conducted by, autism diagnostic services is limited, especially in adults, making it difficult to understand these disparities. This clinical service evaluation collected data on demographic characteristics of clients referred and accepted for autism assessments ( N = 350) and fully assessed for autism ( N = 269) by a London‐based adult autism team. Demographic characteristics of clients referred to the service were compared to population prevalences using Census data to investigate potential biases in referring clinicians. Demographic characteristics of clients who received diagnoses of autism were compared to the service's average diagnostic rate to investigate potential biases in assessing clinicians. Participants referred and accepted for autism assessments were significantly more likely to be male, aged 18–34, and from White o…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70253",
+      "title": "Associations Between Comorbidities, Developmental Status, and Disease Severity in Children With Autism Spectrum Disorder: A Multicenter Cross‐Sectional Study in China",
+      "authors": [
+        "Dizhou Pang",
+        "Guiqin Duan",
+        "Qing Shang",
+        "Huichun Zhang",
+        "Binbin Wang",
+        "Huaili Ding",
+        "Huihui Kang",
+        "Yue Zhao",
+        "Yuxia Lu",
+        "Gai Tian",
+        "Li Zhang",
+        "Wu Jiang",
+        "Ganyu Wang",
+        "Cailing Liang",
+        "Lingling Zhang",
+        "Bingbing Li",
+        "Zhenghua Li",
+        "Chunlan Song",
+        "Yanyan Yang",
+        "Yazhe Wang",
+        "Kaichen Yue",
+        "Yongbin Lang",
+        "Jiatian Liu",
+        "Xiaoli Zhang",
+        "Yiran Xu",
+        "Changlian Zhu"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70253",
+      "url": "https://doi.org/10.1002/aur.70253",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently present with co‐occurring conditions that can influence autism symptom severity and complicate clinical management. However, studies with clinician‐confirmed diagnoses in non‐Western populations remain limited. In this multicenter cross‐sectional study, 1279 children aged 3–14 years with DSM‐5‐confirmed ASD were recruited from eight medical centers in China. Autism symptom severity was assessed using the Childhood Autism Rating Scale (CARS). Comorbidities were identified through clinical evaluation and specialized assessments, and developmental status was measured using the Gesell Developmental Schedule (GDS) and Wechsler Intelligence Scales. Associations with CARS scores were analyzed using generalized linear regression. Of participants, 96.6% had at least one comorbidity and 71.2% had multiple comorbidities. Common conditions were intellectual developmental disorders (IDD) (87.3%), food selectivity (45.3%), insomnia disorder (16.9%), developmental regression (15.6%), and behavioral problems (14.6%). Patterns differed by sex and age: gastrointestinal problem and sleep‐related interventions were more common in girls,…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70254",
+      "title": "Reframing Body Representations in Autistic Individuals: A Systematic Review",
+      "authors": [
+        "Joanna Mourad",
+        "Kim Daniels",
+        "Katleen Bogaerts",
+        "Britt Sourbron",
+        "Siebe Meekers",
+        "Anaïs Vanbuel",
+        "Robbe Van Beers",
+        "Marlies Mattheeussen",
+        "Martin Desseilles",
+        "Bruno Bonnechère"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70254",
+      "url": "https://doi.org/10.1002/aur.70254",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Body representations (BR) are multidimensional constructs that shape everyday functioning, autonomy, and quality of life. They include body schema (BS): the action‐oriented representation of the body that supports movement and sensorimotor regulation, and body image (BI): the conscious perceptual, affective, and cognitive experience of the body. In autism, alterations in BR have been linked to sensory processing, motor coordination, social interaction, self‐perception, and identity, yet the overall structure of these components remains unclear. This systematic review aimed to define a conceptual framework for BR in autism, identify the domains most consistently reported as different from non‐autistic comparison groups, and synthesize current evidence on assessment approaches and clinical implications. Following PRISMA guidelines, we reviewed 54 studies published between 2000 and 2025, comprising 2982 participants. The findings showed a marked predominance of research on BS (81% of studies), particularly sensorimotor dimensions such as interoception (9 studies), proprioception (4 studies), and multisensory integration (3 studies). By contrast, BI was substantially less inve…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70249",
+      "title": "A Systematic Review on Computer Vision in Play‐Based Research and Interventions for Autistic Children",
+      "authors": [
+        "Mohamad Hassan Fadi Hijab",
+        "Athmar N. M. Shamhan",
+        "Zied El Houki",
+        "Marwa Qaraqe",
+        "Dena Al‐Thani"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70249",
+      "url": "https://doi.org/10.1002/aur.70249",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "ABSTRACT Play holds a prominent role in Autism Research and practice, serving not only as a medium for assessment, providing insights into developmental progress and diagnostic indicators, but also as a foundational element in targeted interventions designed to support specific skills, education, and therapeutic outcomes. Additionally, free, unstructured play offers autistic children vital opportunities for self‐expression, exploration, and emotional regulation. Recent advancements in computer vision techniques have significantly expanded the possibilities in Autism Research by capturing nuanced motor behaviors and facilitating interactive environments tailored to enhance social engagement and responsiveness. This paper investigates the application of computer vision techniques within diverse play contexts involving autistic children. A systematic literature review was conducted across six major databases, identifying 39 studies published between January 2014 and January 2026 that met the inclusion criteria. The collected data included the type of computer vision techniques used, participant demographics, and purpose of play and its environment. Most of the included studies used st…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70240",
+      "title": "Autistic Adolescents' Quality of Life: Perceived Social Competence and Social Anxiety as Key",
+      "authors": [
+        "Hui‐Jen Shyu",
+        "Yu‐Wei Ryan Chen",
+        "Daphne Yih Ng",
+        "Anita Bundy",
+        "Mei‐Hui Tseng",
+        "Reinie Cordier"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70240",
+      "url": "https://doi.org/10.1002/aur.70240",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Autistic adolescents often report lower social and overall quality of life (QoL) associated with limited social skills and behavioral challenges. Awareness of social limitations and social anxiety can worsen QoL, yet the specific roles of these factors remain underexplored. This study examined how social skills, challenging behaviors, social anxiety, and self‐perceived social competence influence QoL in autistic adolescents. A total of 117 autistic participants (age = 12.6 ± 2.2 years; female = 13.7%, male = 86.3%) completed measures including the Pediatric Quality of Life Inventory, the Social Anxiety Scale for Adolescents, and the Self‐Perception Profile for Children/Adolescents Social Competence Subscale. Caregivers assessed social skills and challenging behaviors using the Social Skills Improvement System Rating Scales. Linear regressions, controlling for age, sex, and autistic characteristics, revealed that lower overall QoL was significantly associated with higher social anxiety ( β = −0.48, p &lt; 0.001), lower perceived social competence ( β = 0.21, p &lt; 0.05), and more challenging behaviors ( β = −0.24, p &lt; 0.01) among autistic adolescents. Furthermore, lower…"
+    },
+    {
       "id": "10.1177/13623613261448516",
       "title": "Recommendations for the Inclusion of Autistic Children in Community-Based Physical Activity Programmes: A Delphi Study",
       "authors": [
@@ -3320,37 +3891,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1002/aur.70269",
-      "title": "Vicarious Perception of Touch in\n                    <scp>ASD</scp>\n                    : The Role of Empathy and Touch Experiences",
-      "authors": [
-        "Ana Rita Pereira",
-        "Marta Pozo‐Rodríguez",
-        "A. Ribeiro‐Carreira",
-        "Alberto J. González‐Villar",
-        "Sabela Conde‐Pumpido Zubizarreta",
-        "María Tubío‐Fungueiriño",
-        "Angel Carracedo",
-        "Montse Fernández‐Prieto",
-        "Adriana Sampaio"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-18",
-      "doi": "10.1002/aur.70269",
-      "url": "https://doi.org/10.1002/aur.70269",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT C‐Tactile (CT) targeted affective touch plays a central role in social cognition and emotional development. In autism, atypical sensory processing, particularly in response to tactile stimulation, has frequently been reported. Autistic individuals have been shown to exhibit altered perception and reduced hedonic evaluation of affective touch, as well as increased defensive responses. Despite these differences in direct touch, the perception of vicarious social touch or its connection to social and emotional constructs remains poorly explored. Vicarious touch is theoretically relevant because it recruits social‐cognitive and affective mechanisms beyond primary somatosensory processing; however, most prior studies have focused on neural correlates in neurotypical adults, with limited behavioral investigation and scarce evidence in autistic populations. The present study evaluated how autistic and non‐autistic adolescents and young adults perceive vicarious social touch. Participants observed videos depicting touch delivered at three different speeds (static, CT‐optimal, and fast) and across five skin locations (back, upper arm, ventral forearm, dorsal forearm, and palm). Par…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1002/aur.70281",
       "title": "<scp>ShopAutiPlan</scp>\n                    : Validating a Serious Game for Assessing Executive Planning in Autism",
       "authors": [
@@ -3537,61 +4077,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70260",
-      "title": "Change Trajectories During Parent–Child Interaction Therapy for Autistic Children and Their Caregivers",
-      "authors": [
-        "Catherine A. Burrows",
-        "William Andrew Rothenberg",
-        "Dainelys Garcia",
-        "Abigail Peskin",
-        "Maria Jimenez‐Muñoz",
-        "Eileen Davis",
-        "Jason F. Jent",
-        "Meaghan V. Parladé"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-13",
-      "doi": "10.1002/aur.70260",
-      "url": "https://doi.org/10.1002/aur.70260",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT Disruptive behaviors (non‐compliance, aggression) are common in autistic children. Parent–Child Interaction Therapy (PCIT) is a caregiver‐mediated intervention utilizing in vivo caregiver coaching that reduces disruptive behaviors and has been shown to be effective for young autistic children. This study sought to identify child and caregiver factors that relate to session‐level progress among autistic children and their caregivers. Participants included 98 autistic children aged 2–8 years (91% male) who received PCIT in a university‐affiliated clinic. Session‐level change was examined using iterative multilevel modeling to examine change in child disruptive behaviors, as measured on the Eyberg Child Behavior Inventory (ECBI), caregiver positive attending skills (Do‐skills), and caregiver negative statements (Avoid‐skills). Optimal fitting trajectories revealed quadratic change in ECBI scores, Do‐skills, and Avoid‐skills. The effectiveness of PCIT did not differ based on participants' level of autistic traits or caregiver demographics. Improvements in child disruptive behavior were associated with child adaptability and parenting stress pre‐treatment; higher adaptability a…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70277",
-      "title": "Disparities in Physical Activity and Sport Participation Among Transition‐Age Youth With Autism and Intellectual Disability",
-      "authors": [
-        "Daniel E. Lidstone"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-13",
-      "doi": "10.1002/aur.70277",
-      "url": "https://doi.org/10.1002/aur.70277",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Physical activity is critical for health, yet many adolescents do not engage in regular activity. Youth with autism spectrum disorder (ASD) and intellectual disability (ID) may be at heightened risk due to motor, sensory, and social barriers, but less is known about complete disengagement. Using nationally representative data from the 2021–2023 National Survey of Children's Health, this study examined disparities in (1) any weekly physical activity and (2) participation in organized sport among transition‐age youth (14–17 years) with ASD only, ID only, or ASD + ID, compared with youth without ASD or ID. Survey‐weighted multiple logistic regression models estimated adjusted odds ratios (aORs) for each outcome, controlling for sex, race, household poverty ratio, metropolitan residence, and age. Compared to youth without ASD or ID, all diagnostic groups had significantly lower odds of engaging in any weekly physical activity (ASD only: aOR = 0.32, 95% CI: 0.24–0.44; ID only: aOR = 0.49, 95% CI: 0.31–0.76; ASD + ID: aOR = 0.51, 95% CI: 0.30–0.88; all p ≤ 0.02) and organized sport (ASD only: aOR = 0.20, 95% CI: 0.15–0.27; ID only: aOR = 0.31, 95% CI: 0.19–0.51; ASD + ID: aOR =…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s40489-026-00573-x",
       "title": "Early Family Intervention by Parents for Children with Autism Spectrum Disorder: A Meta-Analysis of Randomized Controlled Trials",
       "authors": [
@@ -3700,38 +4185,6 @@
       ],
       "abstract": "Purpose Autism is a complex neurodevelopmental condition thought to affect 1 in 100 children globally. More commonly diagnosed in males, and during childhood, diagnoses are increasingly being made throughout adulthood. This study aims to establish what age autistic people receive their diagnosis, and whether the age of diagnosis was influenced by their sex and by the presence of intellectual disability. Design/methodology/approach A quantitative, cross-sectional, retrospective study. Data was collected from the Primary Care records of six GP Practices covering Ellesmere Port, a large town in Northwest England with 71,210 people registered. Mean age of diagnosis was calculated for the group then for each subgroup, to allow comparison between males and females, and those with and without a documented intellectual disability. Findings Data from 1,130 autistic participants were analysed. Age of participants was between 3 and 81 years with an age of autism diagnosis of 1–72 years. In total, 85.6% of participants were diagnosed with autism by the age of 25 years, most commonly at 3 years of age (11.9%). The average age of diagnosis was 2.48 years later for females diagnosed across the li…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70274",
-      "title": "Visual Search Performance in Children With\n                    <scp>ASD</scp>\n                    : A Combined Case‐Control and Longitudinal Study",
-      "authors": [
-        "Naisan Raji",
-        "Iskra Todorova",
-        "Leonie Polzer",
-        "Solvejg K. Kleber",
-        "Christian Lemler",
-        "Luisa Schnettler",
-        "Janina Kitzerow‐Cleven",
-        "Ziyon Kim",
-        "Christine M. Freitag",
-        "Nico Bast"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-12",
-      "doi": "10.1002/aur.70274",
-      "url": "https://doi.org/10.1002/aur.70274",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism Spectrum Disorder (ASD) is associated with altered attentional function. This has been associated with enhanced visual search performance. Addressing a gap in the literature, we investigate the longitudinal development of visual search alongside ASD symptoms. Using eye‐tracking, we studied performance in a single‐feature visual search task with visual search accuracy and time to target. We investigated preschoolers with ASD ( n = 60, age = 47 months) and a cohort of developmental age‐matched typically developing (TD) children ( n = 50, age = 35 months) at baseline and after approximately 3 years. We further explored associations of visual search performance with parent‐reported ASD symptom domains. Both groups showed similar visual search accuracy and time to target at baseline. At the 3‐year follow‐up, the ASD group showed significantly lower visual search accuracy and shorter time to target than the TD group. Within the ASD cohort, higher accuracy and shorter time to target were associated with higher social communication impairments. The often‐reported ASD advantage in visual search may not be as pronounced as assumed to differentiate between ASD and neurotypical…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/25739581261448524",
@@ -5349,31 +5802,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70267",
-      "title": "Psychological Impact of Autism Screening on Caregivers",
-      "authors": [
-        "Ramkumar Aishworiya",
-        "Devon Gangi",
-        "Van Kim Ma",
-        "Chandni Parikh",
-        "Nor Azyati Yusoff",
-        "Narueporn Likhitweerawong",
-        "Sally Ozonoff"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-04-30",
-      "doi": "10.1002/aur.70267",
-      "url": "https://doi.org/10.1002/aur.70267",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "ABSTRACT Autism screening in childhood is common, yet little is known about its potential psychological impact on caregivers. The U.S. Preventive Services Task Force, an independent national panel of disease prevention experts, stated that this gap in knowledge limited their ability to endorse universal autism screening. This study examined the psychological impact of autism screening, using data from a large community‐based sample ( n = 1272) involving online caregiver‐completed autism screeners at child age 6, 9, 12, 18, and 24 months. Caregivers completed the Participation Impact Questionnaire retrospectively (mean child age at completion 37.2 ± 4.8 months) to measure feelings about screening. A minority (34.7%) of the sample reported presence of ≥ 1 negative feeling; the most commonly endorsed was “worried”. Among this subset, negative feelings were of short duration (lasted for &lt; 1 day in 56.9%), were mild in severity (86.4%), and did not affect functioning (85.3%). A majority (86.2%) also reported ≥ 1 positive feeling. Our findings address a critical evidence gap regarding potential harms of autism screening and support universal screening, given that psychological harms a…"
-    },
-    {
       "id": "10.1177/10870547261438171",
       "title": "Psychometric Evaluation of the Spanish Translation of the Disruptive-Behavior Disorder Rating Scale",
       "authors": [
@@ -5622,32 +6050,6 @@
       ],
       "abstract": "Many autistic individuals experience co-occurring psychiatric conditions and require mental health support. Mental health clinicians report limited knowledge and confidence in working with autistic people. The ECHO Autism: Mental Health program aims to address this gap by providing professional development to clinicians via virtual case-based learning. The current study used a qualitative thematic analysis approach to explore the perspectives of 13 clinicians who completed the ECHO Autism: Mental Health program. Three overarching themes developed from the clinicians’ responses: program structure and delivery, perceived challenges, and the impact of participating in the program. Overall, participants highlighted their positive experience in the program, noting the benefits of learning from case discussions and connecting with colleagues who share common clinical needs and difficulties. Some challenges were identified and included time constraints and minor technical issues during the program. The findings can guide future programs to effectively support clinicians in delivering quality care to autistic people.",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70261",
-      "title": "Physical Fitness Profiles Among Children and Adolescents With\n                    <scp>ADHD</scp>\n                    and\n                    <scp>ASD</scp>\n                    : A Comparison With Typically Developing Peers",
-      "authors": [
-        "Nerea Blanco‐Martínez",
-        "Rocío Carballo‐Afonso",
-        "Joel Estévez‐Agudo",
-        "Carlos Ayán‐Pérez",
-        "José Carlos Diz‐Gómez"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-04-26",
-      "doi": "10.1002/aur.70261",
-      "url": "https://doi.org/10.1002/aur.70261",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Children and adolescents with autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD) often present physical and motor challenges that may compromise health, yet direct comparisons between these neurodevelopmental conditions and typically developing (TD) peers remain limited. This study aimed to examine the physical fitness profiles of these three groups. A total of 1537 school‐aged participants were recruited from mainstream educational settings. The assessment included selected tests from the EUROFIT battery and body mass index (BMI). Composite indices of physical fitness and motor coordination were computed using age‐ and sex‐adjusted Z ‐scores. Both the ADHD ( n = 80) and ASD ( n = 36) groups showed significantly lower cardiorespiratory fitness, balance, and upper‐body coordination compared with TD peers ( n = 1413). Lower‐body muscular strength was reduced only in the ASD group, which also performed worse than the ADHD group. Flexibility and BMI distributions did not differ significantly across groups. Plate Tapping and Flamingo Balance test indices were markedly lower in both clinical groups relative to TD peers. Children and adolescents wi…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07349-6",
@@ -6427,34 +6829,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70251",
-      "title": "Occurrence and Correlates of Suicidal Thoughts Among Young Autistic Users of a Mental Health App",
-      "authors": [
-        "T. L. Procyshyn",
-        "E. M. Weir",
-        "M. Pelton",
-        "T. Chikaura",
-        "H. Hodges",
-        "K. Comley",
-        "S. Godson",
-        "C. Allison",
-        "S. Baron‐Cohen"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-04-15",
-      "doi": "10.1002/aur.70251",
-      "url": "https://doi.org/10.1002/aur.70251",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT Young autistic people experience disproportionately high rates of mental health challenges, yet little is known about factors associated with suicidality in this group. This study leveraged anonymous self‐report data to identify correlates of suicidal thoughts among 365 young users (aged approximately 11–25 years) of a mental health app in the United Kingdom with an autism diagnosis or self‐identifying as autistic. The presence of suicidal thoughts was assessed as a binary item. Binary logistic regression was used to explore correlates of suicidal thoughts across three domains: mental health‐related symptoms, autism‐related factors, and adverse life events/experiences. The final model included all significant correlates from domain‐specific models alongside demographic factors. Suicidal thoughts were reported by 63% of participants, with similar rates across age groups. The final model accounted for nearly 50% of variability in the presence of suicidal thoughts ( R 2 Nagelkerke = 0.48, p &lt; 0.001). Self‐harm and depression showed the strongest positive associations (odds ratio, OR and [95% confidence interval] = 6.41 [3.62, 11.35] and 4.58 [2.51, 8.35], respectively), fo…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1080/20473869.2026.2651413",
       "title": "Parent/caregivers of autistic children’s perceptions about service delivery, impact of diagnosis, and role of support in Iran",
       "authors": [
@@ -6600,72 +6974,6 @@
       "domains": [
         "Education"
       ]
-    },
-    {
-      "id": "10.1002/aur.70252",
-      "title": "Exploring Biases in Autism Diagnostic Pathways",
-      "authors": [
-        "Ryan Woolhouse",
-        "Sarah L. Nicholson"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-04-13",
-      "doi": "10.1002/aur.70252",
-      "url": "https://doi.org/10.1002/aur.70252",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Assessments for autism spectrum disorder are time‐consuming and expensive, and demand has increased over recent decades. Despite improved diagnostic criteria and awareness of autism, there still appear to be disparities in diagnostic rates of autism across age, gender, and ethnicity. Research investigating biases in referrals to, and assessments conducted by, autism diagnostic services is limited, especially in adults, making it difficult to understand these disparities. This clinical service evaluation collected data on demographic characteristics of clients referred and accepted for autism assessments ( N = 350) and fully assessed for autism ( N = 269) by a London‐based adult autism team. Demographic characteristics of clients referred to the service were compared to population prevalences using Census data to investigate potential biases in referring clinicians. Demographic characteristics of clients who received diagnoses of autism were compared to the service's average diagnostic rate to investigate potential biases in assessing clinicians. Participants referred and accepted for autism assessments were significantly more likely to be male, aged 18–34, and from White o…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70253",
-      "title": "Associations Between Comorbidities, Developmental Status, and Disease Severity in Children With Autism Spectrum Disorder: A Multicenter Cross‐Sectional Study in China",
-      "authors": [
-        "Dizhou Pang",
-        "Guiqin Duan",
-        "Qing Shang",
-        "Huichun Zhang",
-        "Binbin Wang",
-        "Huaili Ding",
-        "Huihui Kang",
-        "Yue Zhao",
-        "Yuxia Lu",
-        "Gai Tian",
-        "Li Zhang",
-        "Wu Jiang",
-        "Ganyu Wang",
-        "Cailing Liang",
-        "Lingling Zhang",
-        "Bingbing Li",
-        "Zhenghua Li",
-        "Chunlan Song",
-        "Yanyan Yang",
-        "Yazhe Wang",
-        "Kaichen Yue",
-        "Yongbin Lang",
-        "Jiatian Liu",
-        "Xiaoli Zhang",
-        "Yiran Xu",
-        "Changlian Zhu"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-04-13",
-      "doi": "10.1002/aur.70253",
-      "url": "https://doi.org/10.1002/aur.70253",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently present with co‐occurring conditions that can influence autism symptom severity and complicate clinical management. However, studies with clinician‐confirmed diagnoses in non‐Western populations remain limited. In this multicenter cross‐sectional study, 1279 children aged 3–14 years with DSM‐5‐confirmed ASD were recruited from eight medical centers in China. Autism symptom severity was assessed using the Childhood Autism Rating Scale (CARS). Comorbidities were identified through clinical evaluation and specialized assessments, and developmental status was measured using the Gesell Developmental Schedule (GDS) and Wechsler Intelligence Scales. Associations with CARS scores were analyzed using generalized linear regression. Of participants, 96.6% had at least one comorbidity and 71.2% had multiple comorbidities. Common conditions were intellectual developmental disorders (IDD) (87.3%), food selectivity (45.3%), insomnia disorder (16.9%), developmental regression (15.6%), and behavioral problems (14.6%). Patterns differed by sex and age: gastrointestinal problem and sleep‐related interventions were more common in girls,…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07326-z",
@@ -6921,41 +7229,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1002/aur.70254",
-      "title": "Reframing Body Representations in Autistic Individuals: A Systematic Review",
-      "authors": [
-        "Joanna Mourad",
-        "Kim Daniels",
-        "Katleen Bogaerts",
-        "Britt Sourbron",
-        "Siebe Meekers",
-        "Anaïs Vanbuel",
-        "Robbe Van Beers",
-        "Marlies Mattheeussen",
-        "Martin Desseilles",
-        "Bruno Bonnechère"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-04-09",
-      "doi": "10.1002/aur.70254",
-      "url": "https://doi.org/10.1002/aur.70254",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Body representations (BR) are multidimensional constructs that shape everyday functioning, autonomy, and quality of life. They include body schema (BS): the action‐oriented representation of the body that supports movement and sensorimotor regulation, and body image (BI): the conscious perceptual, affective, and cognitive experience of the body. In autism, alterations in BR have been linked to sensory processing, motor coordination, social interaction, self‐perception, and identity, yet the overall structure of these components remains unclear. This systematic review aimed to define a conceptual framework for BR in autism, identify the domains most consistently reported as different from non‐autistic comparison groups, and synthesize current evidence on assessment approaches and clinical implications. Following PRISMA guidelines, we reviewed 54 studies published between 2000 and 2025, comprising 2982 participants. The findings showed a marked predominance of research on BS (81% of studies), particularly sensorimotor dimensions such as interoception (9 studies), proprioception (4 studies), and multisensory integration (3 studies). By contrast, BI was substantially less inve…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1108/aia-08-2025-0084",
       "title": "Autistic people and their families: calls to the police",
       "authors": [
@@ -7070,30 +7343,6 @@
         "lived experience"
       ],
       "abstract": "Abstract Friendships are valuable for autistic adolescents, yet differences in social communication and interaction skills may impede the development of meaningful connections. Accessible and motivating interventions are needed to support adolescents in building skills for social success. This mixed methods pilot study examined the preliminary outcomes, feasibility, and acceptability of Guild Chronicles (GC), a novel roleplaying game-based social skills intervention, on improving social skills and self-esteem and decreasing loneliness. Nine autistic adolescents (M age =14.26) participated in the 8-week group intervention that was delivered via Discord, an online communication system. GC invites participants into a fantasy world in which they imagine themselves as heroes and collaboratively engage in adventurous quests, while receiving social coaching. Adolescents and caregivers completed measures at baseline, post-intervention, and three-month follow-up. Adolescents also participated in semi-structured interviews, which were coded via inductive thematic analysis. Findings revealed significant improvements in overall social skills from baseline to follow-up. Loneliness significantly…"
-    },
-    {
-      "id": "10.1002/aur.70249",
-      "title": "A Systematic Review on Computer Vision in Play‐Based Research and Interventions for Autistic Children",
-      "authors": [
-        "Mohamad Hassan Fadi Hijab",
-        "Athmar N. M. Shamhan",
-        "Zied El Houki",
-        "Marwa Qaraqe",
-        "Dena Al‐Thani"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-04-07",
-      "doi": "10.1002/aur.70249",
-      "url": "https://doi.org/10.1002/aur.70249",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "ABSTRACT Play holds a prominent role in Autism Research and practice, serving not only as a medium for assessment, providing insights into developmental progress and diagnostic indicators, but also as a foundational element in targeted interventions designed to support specific skills, education, and therapeutic outcomes. Additionally, free, unstructured play offers autistic children vital opportunities for self‐expression, exploration, and emotional regulation. Recent advancements in computer vision techniques have significantly expanded the possibilities in Autism Research by capturing nuanced motor behaviors and facilitating interactive environments tailored to enhance social engagement and responsiveness. This paper investigates the application of computer vision techniques within diverse play contexts involving autistic children. A systematic literature review was conducted across six major databases, identifying 39 studies published between January 2014 and January 2026 that met the inclusion criteria. The collected data included the type of computer vision techniques used, participant demographics, and purpose of play and its environment. Most of the included studies used st…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07321-4",
@@ -8149,31 +8398,6 @@
         "lived experience"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70240",
-      "title": "Autistic Adolescents' Quality of Life: Perceived Social Competence and Social Anxiety as Key",
-      "authors": [
-        "Hui‐Jen Shyu",
-        "Yu‐Wei Ryan Chen",
-        "Daphne Yih Ng",
-        "Anita Bundy",
-        "Mei‐Hui Tseng",
-        "Reinie Cordier"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-03-28",
-      "doi": "10.1002/aur.70240",
-      "url": "https://doi.org/10.1002/aur.70240",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "ABSTRACT Autistic adolescents often report lower social and overall quality of life (QoL) associated with limited social skills and behavioral challenges. Awareness of social limitations and social anxiety can worsen QoL, yet the specific roles of these factors remain underexplored. This study examined how social skills, challenging behaviors, social anxiety, and self‐perceived social competence influence QoL in autistic adolescents. A total of 117 autistic participants (age = 12.6 ± 2.2 years; female = 13.7%, male = 86.3%) completed measures including the Pediatric Quality of Life Inventory, the Social Anxiety Scale for Adolescents, and the Self‐Perception Profile for Children/Adolescents Social Competence Subscale. Caregivers assessed social skills and challenging behaviors using the Social Skills Improvement System Rating Scales. Linear regressions, controlling for age, sex, and autistic characteristics, revealed that lower overall QoL was significantly associated with higher social anxiety ( β = −0.48, p &lt; 0.001), lower perceived social competence ( β = 0.21, p &lt; 0.05), and more challenging behaviors ( β = −0.24, p &lt; 0.01) among autistic adolescents. Furthermore, lower…"
     },
     {
       "id": "10.1007/s10803-026-07298-0",
@@ -10592,78 +10816,6 @@
         "Autism"
       ],
       "abstract": "Abstract Autistic and/or Attention-deficit hyperactivity disorder (ADHD) males report higher levels of loneliness than their neurotypical peers. This scoping review synthesised 82 studies examining loneliness and social connection in neurodivergent (ND) males. Findings indicated that levels of social connectedness were lower or similar in Autistic and ADHD males than neurotypical males, but never higher. Reduced levels of social connection (e.g., higher loneliness; lower social support, worse relational quality) were also associated with less favourable health outcomes. The data were heterogeneous, stemming, in part, from the multi-faceted nature and measurement of social connection. Future research should more consistently disaggregate data by sex and gender, consider the potential co-occurrence of ND conditions, and increase focus across the lifespan."
-    },
-    {
-      "id": "10.1007/s10803-026-07234-2",
-      "title": "Brief Report: Psychological Flexibility, Perceived Stress and Emotion Regulation in Transitional-Age Youth (TAY) With Autism Spectrum Disorder (ASD)",
-      "authors": [
-        "K. Visser",
-        "J. Keulen",
-        "D. Bodden",
-        "L. P. Dekker"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-17",
-      "doi": "10.1007/s10803-026-07234-2",
-      "url": "https://doi.org/10.1007/s10803-026-07234-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07259-7",
-      "title": "Altered Higher-Order Structural and Functional Connectivity Coupling in Autism Spectrum Disorder",
-      "authors": [
-        "Zhen Dai",
-        "Lan Yang",
-        "Zhifeng Li",
-        "Xi Zhang",
-        "Jiayu Lu",
-        "Wei Wang",
-        "Ying Wang",
-        "Shuo Zhao",
-        "Bin Wang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-17",
-      "doi": "10.1007/s10803-026-07259-7",
-      "url": "https://doi.org/10.1007/s10803-026-07259-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1108/aia-05-2025-0039",
-      "title": "Adapting complex emotional needs treatments for clients with co-occurring autism spectrum condition: two case studies of structured clinical management",
-      "authors": [
-        "Ethan Barr",
-        "Andrew White"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-17",
-      "doi": "10.1108/aia-05-2025-0039",
-      "url": "https://doi.org/10.1108/aia-05-2025-0039",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Purpose There is scant evidence for the treatment of complex emotional needs (difficulties consistent with a diagnosis of personality disorder), when an autism spectrum condition is also present. However, this is an increasingly common clinical picture for mental health services. Design/methodology/approach This paper reports two case studies in which Structured Clinical Management (SCM) was offered to two clients with these co-occurring difficulties. Findings For these clients, following detailed collaborative formulations including informal sensory profiles, evidence-based adaptations were made to standard SCM treatment. This approach resulted in positive quantitative outcomes, and similarly positive qualitative feedback. These case studies provide promising preliminary support for offering SCM, with appropriate adaptations, to this client group. Originality/value The authors understand that these are the first case studies to explore the use of SCM with clients with co-occurring autism, adding to a limited evidence base considering the use of psychological treatments for clients with complex emotional needs and autism."
     }
   ]
 }
