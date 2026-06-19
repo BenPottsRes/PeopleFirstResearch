@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T10:50:01Z",
+  "generated_at": "2026-06-19T10:57:44Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -106,6 +106,83 @@
         "ADHD"
       ],
       "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
+    },
+    {
+      "id": "10.1108/aia-02-2026-0013",
+      "title": "Gender-specific aspects of diagnosing autism in girls: a qualitative study of parent and professional perspectives",
+      "authors": [
+        "Michal Vostrý",
+        "Anna Meierová",
+        "Barbora Lanková",
+        "Ladislav Zilcher",
+        "Ilona Pešatová"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-06-22",
+      "doi": "10.1108/aia-02-2026-0013",
+      "url": "https://doi.org/10.1108/aia-02-2026-0013",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose The purpose of this study is to gain a deeper understanding of the diagnostic process of autism spectrum disorders (ASD) in girls from the perspectives of parents and professionals. It seeks to identify factors that facilitate or hinder diagnosis and to describe the role of gender expectations and symptom camouflaging in clinical practice. The broader literature on autistic girls and women is used to contextualise the empirical findings, but the study itself is based on parent and professional accounts rather than direct accounts from autistic girls or women. Design/methodology/approach This study uses a qualitative research design based on nine semi-structured interviews with three parents of girls with ASD, four special educators and two psychologists. Data were analysed using grounded theory procedures, including open, axial and selective coding, to capture the complexity of the diagnostic process. Findings The findings reveal a “systemic invisibility” of autism in girls, resulting from an interplay of individual adaptive strategies (camouflaging), gender-insensitive diagnostic frameworks, the inherent complexity of autism assessment and systemic fragmentation. Results i…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07388-z",
+      "title": "Investigating the Effects of Video-Enhanced Activity Schedules on Preacademic Skills for Young Children With Autism",
+      "authors": [
+        "John J. Augustine",
+        "Rose A. Osnaya",
+        "Timothy J. Lewis",
+        "Madison H. Imler-Brandt",
+        "Angus Kittelman",
+        "David Beversdorf"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-19",
+      "doi": "10.1007/s10803-026-07388-z",
+      "url": "https://doi.org/10.1007/s10803-026-07388-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Abstract Purpose The purpose of this study was to evaluate the effects of a clinician-implemented video-enhanced activity schedule and an embedded Premack contingency on on-task behavior, independent task completion, and challenging behavior for preschool-aged children with ASD. Method Participants included four preschool-aged children with ASD and four registered behavior technicians in one clinic. The study utilized a concurrent multiple baseline across participants design to evaluate the effects of the video-enhanced activity schedule on child on-task behavior, independence, and challenging behavior. Results Results indicated a functional relation between the implementation of the intervention and an increase in on-task behavior and independence; however, the results suggest a functional relation was inconclusive for reductions of challenging behavior. Social validity results indicated that participants perceived the intervention to be socially valid for instructional contexts. Conclusions Study findings suggest that video-enhanced activity schedules may be an effective instructional modification for increasing on-task behavior and independence for young children with ASD. Impli…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07393-2",
+      "title": "Teaching Theory of Mind Skills to Individuals with Autism Spectrum Disorder: A Systematic Review and Meta-analysis",
+      "authors": [
+        "Betül Kat Şen",
+        "Aydan Aydın"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-19",
+      "doi": "10.1007/s10803-026-07393-2",
+      "url": "https://doi.org/10.1007/s10803-026-07393-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Abstract Purpose In this study, we examined the effectiveness of Theory of Mind (ToM) intervention programs on the ToM skills of individuals with Autism Spectrum Disorder (ASD) through a systematic review and meta-analysis. Methods A comprehensive search was conducted in Web of Science, Scopus, EBSCO ERIC, Academic Search Complete, PubMed, ProQuest, and the Türkiye Council of Higher Education Thesis Center, completed on January 5, 2024. Studies were included if published in English or Turkish, involved participants with ASD, implemented interventions targeting ToM, used at least one ToM assessment tool, employed a randomized controlled trial (RCT) or quasi-experimental design, and provided sufficient data for meta-analysis. Methodological quality was evaluated using What Works Clearinghouse (WWC) standards. The meta-analysis used a fixed-effects model with Hedges’ g in Comprehensive Meta-Analysis Software 4. Results We identified 20 studies ( n = 924) meeting the inclusion criteria, of which 15 were included in the meta-analysis. Most interventions targeted understanding first- and second-order false beliefs and frequently used role-play and picture-based storytelling techniques. T…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07381-6",
@@ -330,6 +407,114 @@
       ],
       "abstract": "Abstract Purpose Adults seeking autism evaluations are often met with significant barriers, including long wait times, high costs, and a lack of access to providers trained in adult autism assessment. In addition, many of the primary assessment tools in adult autism assessment were developed without the input of autistic adults. To help expand diagnostic options for this population, we developed the novel Tele-ASD Diagnostic Assessment Tool for Adults (TADA). This study sought to evaluate the acceptability and feasibility of the TADA’s content, presentation, and scoring, according to autistic adults and clinicians administering the measure. Methods Participants (n = 32, 22 autistic, 10 non-autistic) attended a tele-health appointment where they were administered the TADA by a licensed psychologist who then scored their clinical impressions on whether participants were reporting and exhibiting behaviors consistent with autism. Results &amp; Conclusion Both participants and clinicians rated their experience with the TADA favorably and indicated that it would be an acceptable addition to an assessment battery for adults seeking an autism evaluation.",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613261457950",
+      "title": "Short Report: Primary Care Autism Assessment Training Program Pilot Trial",
+      "authors": [
+        "Olivia J. Lindly",
+        "Corey Gorgas",
+        "Lucas Gooding",
+        "Lindsay Blankenship",
+        "Alison J. Martin",
+        "Raúl A. Vega-Juárez",
+        "Katharine E. Zuckerman",
+        "Kurt A. Freeman"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-06-18",
+      "doi": "10.1177/13623613261457950",
+      "url": "https://doi.org/10.1177/13623613261457950",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Emergency care",
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Pediatric primary care practitioners (PCPs) are not typically trained to conduct autism assessments, contributing to delayed autism diagnosis in the United States. From February to September 2024, PCPs in Portland, Oregon, were trained to conduct standardized autism assessments with young children, based on similar U.S.-based training models. This training consisted of an asynchronous online autism course sponsored by the American Academy of Pediatrics; a 2-day, in-person workshop on diagnostic assessment; and eight posttraining community learning sessions. Twenty-four PCPs were trained to conduct autism assessments with children using the Modified Checklist for Autism in Toddlers, the Screening Tool for Autism in Toddlers and Young Children, and a parent interview based on the Diagnostic and Statistical Manual of Mental Disorders (5th ed.; DSM-5 ). A pilot trial of this program was conducted to examine its feasibility, acceptability, and initial outcomes related to self-reported PCP autism assessment knowledge and self-efficacy, as well as the number and characteristics of patients assessed. The program demonstrated high feasibility and acceptability. PCPs showed statistically sig…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2686720",
+      "title": "Machine learning for early detection of autism spectrum disorder: a data-driven approach to public health support",
+      "authors": [
+        "Sweety Rani Dhar",
+        "Mahafuj Hassan",
+        "Moustaq Karim Khan Rony",
+        "Mst Masuma Akter Semi",
+        "Afia Fairooz Tasnim",
+        "Srabani Das",
+        "Sumaiya Yeasmin",
+        "Lamiya Rahman Mim",
+        "Hafsa Kamal"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-18",
+      "doi": "10.1080/20473869.2026.2686720",
+      "url": "https://doi.org/10.1080/20473869.2026.2686720",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2684030",
+      "title": "Characteristic features and risk factors of autism spectrum disorders among children and adolescents in Western Saudi Arabia: a case-control study",
+      "authors": [
+        "Waleed Ahmed Alghamdi",
+        "Moustafa Abdelaal Hegazi",
+        "Mohammad A. Altuwiriqi",
+        "Duaa Hasan Abudawoud",
+        "Nada Mansour Abdulhaq",
+        "Majed Mohammad Al-Hayani",
+        "Abdulrahman Ghazi Bazi",
+        "Rayan Abdulrahman Alhazmi",
+        "Asim Meshal AlMazmomy",
+        "Saeed khaled Aseri",
+        "Mohammed Ahmed Alghamdi",
+        "Osama Naji Almarzoqi",
+        "Osama Abdullah Aljohani",
+        "Ali Hassan Albughuli"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-18",
+      "doi": "10.1080/20473869.2026.2684030",
+      "url": "https://doi.org/10.1080/20473869.2026.2684030",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/10870547261457678",
+      "title": "Feasibility and Acceptability of Group-Based Cognitive-Behavioral Intervention for Executive Self-Management in College Students With ADHD: Replication in a Public Urban Setting",
+      "authors": [
+        "Mary V. Solanto",
+        "Anthony L. Rostain",
+        "Sarah O’Neill",
+        "Michael A. Tate",
+        "Mariely Hernandez",
+        "Zeina Kamareddine",
+        "Anna R. C. Workman"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-06-18",
+      "doi": "10.1177/10870547261457678",
+      "url": "https://doi.org/10.1177/10870547261457678",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare"
+      ],
+      "abstract": "Objective: The purpose of this study was to examine the acceptability, feasibility, and replicability of a manualized group cognitive-behavioral intervention designed to enhance executive self-management in college students with ADHD. Whereas the first trial of this intervention was conducted in a private university in a small city in the Netherlands, the current open trial was administered at an urban, public college in the northeast United States. A simultaneous goal of the study was to train PhD-level psychologists to administer the intervention. Methods: Forty-one students meeting rigorously assessed DSM-5 criteria for ADHD were enrolled in one of six 12-week treatment groups that addressed time-management, organization, and planning, and also targeted procrastination, distractibility, and negative automatic thoughts. Strategies were also included to improve attention to and retention of reading materials and guidance in organizing and writing essays. Each group was co-led by an experienced therapist and one of three clinical psychologists undergoing training. Pre- and post-treatment measures included number and severity of inattentive and hyperactive-impulsive symptoms as asse…"
     },
     {
       "id": "10.1007/s10803-026-07390-5",
@@ -4165,28 +4350,6 @@
       "abstract": "Purpose This study looked at the impact of socio- demographic factors on the waiting times for children and young people waiting for neurodevelopmental assessments in a region of England. Neurodevelopmental conditions are defined as Autism, ADHD, Foetal Alcohol spectrum disorder, Intellectual disability and Tics/Tourette’s 2019. This study aims to consider what influences wait times to manage demand. Design/methodology/approach This retrospective cohort study was conducted on all Children and Young People (CYP) (aged 0–19) in Cheshire and Merseyside between September 2021 and October 2023. Individual-level data on CYP was captured from routine health-care datasets from NHS Digital Emergency Care Data Sets (ECDS), Secondary Uses Services (SUS) and Mental Health Services Data Set (MHSDS). All data was processed in R (version 3.6.1) for statistical analysis. The relationship between referrals to mental health services, patient demographics and variables (as described above) was evaluated to determine potential risk factors on wait times and additional mental health planned and unplanned events. Findings Girls were found to be referred at a later age for neurodevelopmental assessmentco…"
     },
     {
-      "id": "10.1108/aia-07-2025-0076",
-      "title": "Mapping the age of autistic spectrum condition diagnosis, affected by sex and intellectual disability",
-      "authors": [
-        "Heather E. Burns",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-05-12",
-      "doi": "10.1108/aia-07-2025-0076",
-      "url": "https://doi.org/10.1108/aia-07-2025-0076",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Purpose Autism is a complex neurodevelopmental condition thought to affect 1 in 100 children globally. More commonly diagnosed in males, and during childhood, diagnoses are increasingly being made throughout adulthood. This study aims to establish what age autistic people receive their diagnosis, and whether the age of diagnosis was influenced by their sex and by the presence of intellectual disability. Design/methodology/approach A quantitative, cross-sectional, retrospective study. Data was collected from the Primary Care records of six GP Practices covering Ellesmere Port, a large town in Northwest England with 71,210 people registered. Mean age of diagnosis was calculated for the group then for each subgroup, to allow comparison between males and females, and those with and without a documented intellectual disability. Findings Data from 1,130 autistic participants were analysed. Age of participants was between 3 and 81 years with an age of autism diagnosis of 1–72 years. In total, 85.6% of participants were diagnosed with autism by the age of 25 years, most commonly at 3 years of age (11.9%). The average age of diagnosis was 2.48 years later for females diagnosed across the li…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581261448524",
       "title": "Presence Without Belonging: A Conceptual Analysis of Loneliness in Autism",
       "authors": [
@@ -5026,28 +5189,6 @@
       "published_date": "2026-05-01",
       "doi": "10.1007/s10803-026-07307-2",
       "url": "https://doi.org/10.1007/s10803-026-07307-2",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07264-w",
-      "title": "Correction: Societal Attitudes Towards Autism (SATA): Validation of the Greek Version in the General Population",
-      "authors": [
-        "Vasiliki Zarokanellou",
-        "Alexandros Gryparis",
-        "Paraskevi Papatheodorou",
-        "Giorgos Tatsis",
-        "Dionysios Tafiadis",
-        "Angelos Papadopoulos",
-        "Louiza Voniati",
-        "Vassiliki Siafaka"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1007/s10803-026-07264-w",
-      "url": "https://doi.org/10.1007/s10803-026-07264-w",
       "neurotype": [
         "Autism"
       ]
@@ -7782,84 +7923,6 @@
         "Healthcare"
       ],
       "abstract": "Clinical accounts and cohort studies suggest that Autistic people are disproportionately likely to be diagnosed with personality disorder. We conducted a cohort study of adults diagnosed Autistic drawn from the IQVIA Medical Research Database, with follow-up from 1 January 2000 to 16 January 2019. We included a comparison group without diagnosed autism, matched (1:10) by age, sex and primary care practice. We included 22,112 Autistic adults, of whom 6437 (29.1%) had a diagnosis of intellectual disability. Median age was 20.36 (interquartile range: 18.0–28.5), and 16,881 (76.3%) were men. The rate of new personality disorder diagnosis in Autistic people without intellectual disability was 4.8 (3.5–6.7) times higher for Autistic versus comparison men, and 4.6 (3.1–6.8) times higher for Autistic versus comparison women. For Autistic participants with intellectual disability, the rate was 2.0 (1.0–3.7) times higher for Autistic versus comparison men and 8.3 (4.0–17.2) times higher for Autistic versus comparison women. The estimated rate of new personality disorder diagnosis for Autistic people aged 20 increased from 14.67 (95% confidence interval: 10.4–20.8) per 10,000 person-years in…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261417525",
-      "title": "Sleep problems and the occurrence of dangerous behavior within autistic people: A retrospective community-based sample",
-      "authors": [
-        "Kalina Hatzell",
-        "Ben Pfingston",
-        "Lindsey Sneed"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261417525",
-      "url": "https://doi.org/10.1177/13623613261417525",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Sleep disturbances affect 50%–80% of autistic individuals and are linked to heightened risk for psychiatric comorbidities and dangerous behaviors, including self-injury, suicidal ideation, and aggression. While previous studies have identified correlational relationships, few have examined whether sleep problems predict dangerous behaviors in large, real-world samples. This study used retrospective clinical data from a behavioral health nonprofit to investigate whether sleep problems predict dangerous behaviors among autistic individuals, accounting for age and adaptive functioning. The sample included 8,375 autistic individuals (mean age = 8.35 years). Sleep problems, dangerous behaviors, and adaptive functioning were measured at intake and every 6 months. Binary logistic regressions assessed whether sleep problems predicted current and historical suicidal ideation, self-injury, and aggression. Results showed that sleep problems significantly increased the odds of a history of suicidal ideation and suicidal ideation at intake (odds ratio = 2.29, 2.46, respectively), a history of self-injury and self-injury at intake (odds ratio = 1.95, 2.20, respectively), and aggression at intake…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261418541",
-      "title": "Reduced delay-based executive function in autistic toddlers and preschoolers",
-      "authors": [
-        "Amanda Cremone-Caira",
-        "Gina Schnur",
-        "Madison Surmacz",
-        "Susan Faja"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261418541",
-      "url": "https://doi.org/10.1177/13623613261418541",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "“Hot” or reward-based executive function describes the regulatory skills needed to suppress or delay actions in emotionally salient contexts. These delay-based executive function skills impact social development, mental health, and academic achievement. Accumulating evidence indicates that autistic children (3 years or older) show reduced delay-based executive function relative to neurotypical counterparts. The primary aim of this study was to determine whether these findings extend to younger children (younger than 3 years). Our secondary aim was to determine whether the strategies employed during delay-based executive function tasks differed between autistic and neurotypical toddlers, to understand why autistic children often experience difficulty in this domain. A behavioral battery was administered to measure delay-based executive function in autistic and neurotypical children, aged 2 and 4 years. Consistent with evidence in older children, delay-based executive function was reduced in autistic toddlers. Autistic 2-year-olds waited less during tasks that utilized food rewards, whereas autistic 4-year-olds waited less during tasks using both food- and non-food-based incentives.…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261418945",
-      "title": "Supporting a ‘good life’ for autistic children: Autistic adults’ and parents’ perspectives",
-      "authors": [
-        "Kate Simpson",
-        "Connie Allen",
-        "Elizabeth Wheeley",
-        "Elizabeth Pellicano",
-        "Melanie Heyworth",
-        "Jacquiline den Houting",
-        "Rachael Bowen",
-        "Dawn Adams"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261418945",
-      "url": "https://doi.org/10.1177/13623613261418945",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "participatory",
-        "sensory"
-      ],
-      "abstract": "There has been limited research into what helps to promote autistic children’s quality of life. This qualitative study, co-produced with autistic people, aimed to identify, from multiple perspectives, what helps autistic children to live a ‘good life’. We conducted semi-structured interviews with autistic adults ( n = 28) and parents of autistic children ( n = 29). Using reflexive thematic analysis, we identified four themes: Being accepted by others in a way that allows the child to be themselves; Finding ‘the things that light [the child]’; Having a sense of control over their own life and Physical/sensory environments matter. All themes were common to both autistic adults and parents of autistic children, with the exception of one sub-theme, which was predominantly driven by autistic adults’ responses. These findings highlight potential pathways to support autistic children’s quality of life now and into the future. Lay Abstract There hasn’t been much research about what helps autistic children to live a ‘good life’ or to have a good quality of life. This makes it difficult to know how to help autistic children to do so. In this study, we asked autistic adults and parents of aut…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -10743,79 +10806,6 @@
       ],
       "abstract": "Abstract Background Despite rising rates of autism prevalence, there remains a pressing need to enhance the quality of life for autistic people in Europe and around the world. Methods We conducted the 10 Points for Change survey to identify the 10 most important areas that require improvement for autistic people across the region. Data from 1,709 autistic people, parents/carers and members of autism-related organisations residing within the European Union (EU) and the United Kingdom (UK) were analysed, together with autism-related differences (autistic vs. non-autistic; formal vs. no formal autism diagnosis) and gender differences (male vs. female) in results. Results Across groups, areas that require the most urgent changes are education, public awareness and understanding of autism, employment, and government funding for autism-specific services. Differences in results between groups reflect their specific needs and experiences. Discrimination is a crucial area for change according to autistic people with formal diagnosis of autism, whereas autistic people without formal diagnosis indicate diagnostic services as a priority for change. According to parents/carers and members of au…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07260-0",
-      "title": "Self-Reported Strengths and Difficulties by Autistic Young Adults",
-      "authors": [
-        "Jacqui Ferraiolo",
-        "China I. Parenteau",
-        "Jessica Khaw",
-        "Grace Herbert",
-        "Ryan Adams",
-        "Julie Taylor",
-        "Somer Bishop",
-        "Shuting Zheng"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-18",
-      "doi": "10.1007/s10803-026-07260-0",
-      "url": "https://doi.org/10.1007/s10803-026-07260-0",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07249-9",
-      "title": "Accuracy of Autism-Related TikTok Information in Italian: A Comparison Between Human Raters and Large Language Models",
-      "authors": [
-        "Alessandro Carollo",
-        "Seraphina Fong",
-        "Giovanni Belardinelli",
-        "Silvia Perzolli",
-        "Giacomo Vivanti",
-        "Daniel S. Messinger",
-        "Dagmara Dimitriou",
-        "Gianluca Esposito"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-18",
-      "doi": "10.1007/s10803-026-07249-9",
-      "url": "https://doi.org/10.1007/s10803-026-07249-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose Social networking sites are major channels for sharing information on neurodiversity, including autism spectrum disorder. TikTok has become a particularly influential platform for autism-related communication, yet concerns remain about the scientific accuracy of such content. Most prior studies have focused on English-language videos and have evaluated accuracy with limited granularity. Additionally, the difficulty of achieving consistent expert ratings underscores the need for automated reliability assessment. Methods In this study, we examined 408 informational statements extracted from 148 TikTok videos posted under the hashtag #Autismo (Italian for #Autism ). Three clinical experts independently classified each statement as inaccurate, overgeneralized, or accurate; their median ratings served as the human-derived ground truth and were compared with classifications from two large language models: ChatGPT 4.0 mini and Gemini 1.5 Flash. Results Human raters showed moderate agreement ( κ mean = 0.52) and high specific agreement only for accurate statements, with lower agreement for overgeneralized and inaccurate content. ChatGPT achieved moderate agreement with hum…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s40489-026-00542-4",
-      "title": "Loneliness and Social Connection in Autistic and/or ADHD Males: A Scoping Review",
-      "authors": [
-        "Jack Tex Lear",
-        "Diana-Santa Dorstyn",
-        "Melissa J. Opozda",
-        "Ian Zajac"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-18",
-      "doi": "10.1007/s40489-026-00542-4",
-      "url": "https://doi.org/10.1007/s40489-026-00542-4",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "abstract": "Abstract Autistic and/or Attention-deficit hyperactivity disorder (ADHD) males report higher levels of loneliness than their neurotypical peers. This scoping review synthesised 82 studies examining loneliness and social connection in neurodivergent (ND) males. Findings indicated that levels of social connectedness were lower or similar in Autistic and ADHD males than neurotypical males, but never higher. Reduced levels of social connection (e.g., higher loneliness; lower social support, worse relational quality) were also associated with less favourable health outcomes. The data were heterogeneous, stemming, in part, from the multi-faceted nature and measurement of social connection. Future research should more consistently disaggregate data by sex and gender, consider the potential co-occurrence of ND conditions, and increase focus across the lifespan."
     }
   ]
 }
