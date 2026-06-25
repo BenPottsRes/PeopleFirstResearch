@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:54:42Z",
+  "generated_at": "2026-06-25T09:49:27Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -614,6 +614,27 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07394-1",
+      "title": "Is Workplace Inclusion a Distinct Research Domain? A Comparative Bibliometric Study of Autism and Employment Literature",
+      "authors": [
+        "Kenneth Larsen",
+        "Sambeet Mishra"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-24",
+      "doi": "10.1007/s10803-026-07394-1",
+      "url": "https://doi.org/10.1007/s10803-026-07394-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "Abstract Purpose Workplace inclusion has gained prominence in autism–employment research, but it remains unclear whether it represents an extension of outcome-focused scholarship or a structurally distinct subdomain. We examined whether the two traditions can be consistently distinguished across bibliometric dimensions, and whether inclusion-oriented growth exceeds overall expansion of autism research output. Methods A comparative bibliometric study used two curated corpora retrieved from Scopus and Web of Science (February 23, 2026): inclusion-oriented (INCL; n = 514) and outcome-oriented (OUT; n = 310), totaling 824 unique publications after deduplication. Structural differentiation was examined using document-level bibliographic coupling with Louvain community detection, complemented by modularity and cluster–corpus association tests. Author, journal, and keyword overlap were quantified using Jaccard indices. Annual counts were normalized against total ASD publication output in Scopus. Results The coupling network yielded 22 clusters ( Q = 0.426). Cluster membership was strongly associated with corpus affiliation, χ²(21) = 105.87, p &lt; .001, Cramér’s V = 0.556. Author overlap…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-026-07403-3",
       "title": "Effects of Physical Exercise on Motor Skills in Children With Autism Spectrum Disorder: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
       "authors": [
@@ -827,31 +848,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70300",
-      "title": "A Large‐Scale Study on the Relation Between Multilingualism and Social Traits in Adults With and Without Autism Diagnoses",
-      "authors": [
-        "Margreet Vogelzang",
-        "Sean Dong Wei Gan",
-        "Jamie Setch"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-23",
-      "doi": "10.1002/aur.70300",
-      "url": "https://doi.org/10.1002/aur.70300",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism Spectrum Disorder is a neurodevelopmental condition characterized by persistent difficulties in social interaction and communication alongside restricted, repetitive patterns of behavior, interests, or activities. Emerging evidence suggests that bi/multilingualism may enhance social interaction skills, yet prior research has largely focused on children, relied on small samples, and used oversimplified monolingual–bilingual groupings. The present study examines whether multilingual engagement predicts autism‐associated social traits in adults with and without autism diagnoses. Specifically, we investigated whether childhood and/or current multilingual engagement (operationalized as entropy) predicts social interaction, communication, and overall autistic traits, measured via the Comprehensive Autistic Trait Inventory (CATI). Four hundred and fifty‐nine adults (of which 132 diagnosed autistic) participated in the study. Analyses revealed that, both in the full sample and in the subsample of individuals with autism diagnoses, greater language entropy was associated with lower CATI scores in social interaction and overall. No relation between language entropy and commun…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1002/aur.70304",
       "title": "Functional Brain Asymmetry Reveals Heterogeneous Subtypes in Autism Spectrum Disorder",
       "authors": [
@@ -878,6 +874,31 @@
       ],
       "abstract": "ABSTRACT Heterogeneity is a critical factor in understanding inter‐individual brain and behavioral variability in autism spectrum disorder (ASD). Since individuals with ASD exhibit atypical communication and social interaction skills closely linked to brain lateralization, this study investigated ASD heterogeneity using an asymmetry index that captures interhemispheric differences in brain function. Degree centrality was computed from the functional connectivity matrix, and its asymmetry was quantified for each brain region. Using an unsupervised clustering algorithm, we identified three distinct subtypes within the ASD population that showed significant differences in brain asymmetry in the somatomotor, frontoparietal, and default mode networks. Comparisons of symptom severity indicated that subtype 2, which displayed atypical asymmetry patterns along the sensory–default mode axis, exhibited higher clinical severity. Functional connectivity analyses further revealed that subtype 1, characterized by rightward asymmetry, demonstrated hypoconnectivity across sensory and heteromodal association regions, whereas subtype 3, characterized by leftward asymmetry, exhibited hyperconnectivit…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70300",
+      "title": "A Large‐Scale Study on the Relation Between Multilingualism and Social Traits in Adults With and Without Autism Diagnoses",
+      "authors": [
+        "Margreet Vogelzang",
+        "Sean Dong Wei Gan",
+        "Jamie Setch"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-23",
+      "doi": "10.1002/aur.70300",
+      "url": "https://doi.org/10.1002/aur.70300",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Autism Spectrum Disorder is a neurodevelopmental condition characterized by persistent difficulties in social interaction and communication alongside restricted, repetitive patterns of behavior, interests, or activities. Emerging evidence suggests that bi/multilingualism may enhance social interaction skills, yet prior research has largely focused on children, relied on small samples, and used oversimplified monolingual–bilingual groupings. The present study examines whether multilingual engagement predicts autism‐associated social traits in adults with and without autism diagnoses. Specifically, we investigated whether childhood and/or current multilingual engagement (operationalized as entropy) predicts social interaction, communication, and overall autistic traits, measured via the Comprehensive Autistic Trait Inventory (CATI). Four hundred and fifty‐nine adults (of which 132 diagnosed autistic) participated in the study. Analyses revealed that, both in the full sample and in the subsample of individuals with autism diagnoses, greater language entropy was associated with lower CATI scores in social interaction and overall. No relation between language entropy and commun…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07404-2",
@@ -3605,51 +3626,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1002/aur.70253",
-      "title": "Associations Between Comorbidities, Developmental Status, and Disease Severity in Children With Autism Spectrum Disorder: A Multicenter Cross‐Sectional Study in China",
-      "authors": [
-        "Dizhou Pang",
-        "Guiqin Duan",
-        "Qing Shang",
-        "Huichun Zhang",
-        "Binbin Wang",
-        "Huaili Ding",
-        "Huihui Kang",
-        "Yue Zhao",
-        "Yuxia Lu",
-        "Gai Tian",
-        "Li Zhang",
-        "Wu Jiang",
-        "Ganyu Wang",
-        "Cailing Liang",
-        "Lingling Zhang",
-        "Bingbing Li",
-        "Zhenghua Li",
-        "Chunlan Song",
-        "Yanyan Yang",
-        "Yazhe Wang",
-        "Kaichen Yue",
-        "Yongbin Lang",
-        "Jiatian Liu",
-        "Xiaoli Zhang",
-        "Yiran Xu",
-        "Changlian Zhu"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1002/aur.70253",
-      "url": "https://doi.org/10.1002/aur.70253",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently present with co‐occurring conditions that can influence autism symptom severity and complicate clinical management. However, studies with clinician‐confirmed diagnoses in non‐Western populations remain limited. In this multicenter cross‐sectional study, 1279 children aged 3–14 years with DSM‐5‐confirmed ASD were recruited from eight medical centers in China. Autism symptom severity was assessed using the Childhood Autism Rating Scale (CARS). Comorbidities were identified through clinical evaluation and specialized assessments, and developmental status was measured using the Gesell Developmental Schedule (GDS) and Wechsler Intelligence Scales. Associations with CARS scores were analyzed using generalized linear regression. Of participants, 96.6% had at least one comorbidity and 71.2% had multiple comorbidities. Common conditions were intellectual developmental disorders (IDD) (87.3%), food selectivity (45.3%), insomnia disorder (16.9%), developmental regression (15.6%), and behavioral problems (14.6%). Patterns differed by sex and age: gastrointestinal problem and sleep‐related interventions were more common in girls,…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1002/aur.70254",
       "title": "Reframing Body Representations in Autistic Individuals: A Systematic Review",
       "authors": [
@@ -3732,6 +3708,51 @@
         "Quality of life"
       ],
       "abstract": "ABSTRACT Autistic adolescents often report lower social and overall quality of life (QoL) associated with limited social skills and behavioral challenges. Awareness of social limitations and social anxiety can worsen QoL, yet the specific roles of these factors remain underexplored. This study examined how social skills, challenging behaviors, social anxiety, and self‐perceived social competence influence QoL in autistic adolescents. A total of 117 autistic participants (age = 12.6 ± 2.2 years; female = 13.7%, male = 86.3%) completed measures including the Pediatric Quality of Life Inventory, the Social Anxiety Scale for Adolescents, and the Self‐Perception Profile for Children/Adolescents Social Competence Subscale. Caregivers assessed social skills and challenging behaviors using the Social Skills Improvement System Rating Scales. Linear regressions, controlling for age, sex, and autistic characteristics, revealed that lower overall QoL was significantly associated with higher social anxiety ( β = −0.48, p &lt; 0.001), lower perceived social competence ( β = 0.21, p &lt; 0.05), and more challenging behaviors ( β = −0.24, p &lt; 0.01) among autistic adolescents. Furthermore, lower…"
+    },
+    {
+      "id": "10.1002/aur.70253",
+      "title": "Associations Between Comorbidities, Developmental Status, and Disease Severity in Children With Autism Spectrum Disorder: A Multicenter Cross‐Sectional Study in China",
+      "authors": [
+        "Dizhou Pang",
+        "Guiqin Duan",
+        "Qing Shang",
+        "Huichun Zhang",
+        "Binbin Wang",
+        "Huaili Ding",
+        "Huihui Kang",
+        "Yue Zhao",
+        "Yuxia Lu",
+        "Gai Tian",
+        "Li Zhang",
+        "Wu Jiang",
+        "Ganyu Wang",
+        "Cailing Liang",
+        "Lingling Zhang",
+        "Bingbing Li",
+        "Zhenghua Li",
+        "Chunlan Song",
+        "Yanyan Yang",
+        "Yazhe Wang",
+        "Kaichen Yue",
+        "Yongbin Lang",
+        "Jiatian Liu",
+        "Xiaoli Zhang",
+        "Yiran Xu",
+        "Changlian Zhu"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70253",
+      "url": "https://doi.org/10.1002/aur.70253",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently present with co‐occurring conditions that can influence autism symptom severity and complicate clinical management. However, studies with clinician‐confirmed diagnoses in non‐Western populations remain limited. In this multicenter cross‐sectional study, 1279 children aged 3–14 years with DSM‐5‐confirmed ASD were recruited from eight medical centers in China. Autism symptom severity was assessed using the Childhood Autism Rating Scale (CARS). Comorbidities were identified through clinical evaluation and specialized assessments, and developmental status was measured using the Gesell Developmental Schedule (GDS) and Wechsler Intelligence Scales. Associations with CARS scores were analyzed using generalized linear regression. Of participants, 96.6% had at least one comorbidity and 71.2% had multiple comorbidities. Common conditions were intellectual developmental disorders (IDD) (87.3%), food selectivity (45.3%), insomnia disorder (16.9%), developmental regression (15.6%), and behavioral problems (14.6%). Patterns differed by sex and age: gastrointestinal problem and sleep‐related interventions were more common in girls,…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/13623613261448516",
@@ -6048,31 +6069,6 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -6098,6 +6094,31 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6293,27 +6314,6 @@
       "published_date": "2026-05-01",
       "doi": "10.1002/aur.70262",
       "url": "https://doi.org/10.1002/aur.70262",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
-      "id": "10.1002/aur.70257",
-      "title": "Assisted Communication Cannot Bypass Objective Research Investigation",
-      "authors": [
-        "Helen Tager‐Flusberg"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70257",
-      "url": "https://doi.org/10.1002/aur.70257",
       "neurotype": [
         "Autism"
       ],
@@ -6564,6 +6564,27 @@
       ],
       "abstract": "ABSTRACT This study measured experiences of parenting stress and stressful life events in caregivers of families with a toddler who has either an autistic or non‐autistic older sibling(s). Caregivers of toddlers (12–18 months old) with older autistic siblings (Sibs‐autism; n = 58) and toddlers with older non‐autistic siblings (Sibs‐NA; n = 46) completed questionnaires assessing stress related to parenting their toddler and their exposure to stressful life events since their toddler's birth. We compared levels of parenting stress and stressful life events between caregivers of Sibs‐autism and Sibs‐NA and examined the association between these measures. Caregivers of Sibs‐autism reported significantly higher levels of parenting stress and stressful life events relative to caregivers of Sibs‐NA, with small to moderate effects. Parenting stress and stressful life events were moderately correlated. Across these groups of caregivers, parenting stress and stressful life events appear to be related, but partially distinct aspects of caregiver stress. These findings highlight the importance of assessing multiple aspects of stress to better understand how stress may influence both caregiver…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70257",
+      "title": "Assisted Communication Cannot Bypass Objective Research Investigation",
+      "authors": [
+        "Helen Tager‐Flusberg"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1002/aur.70257",
+      "url": "https://doi.org/10.1002/aur.70257",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
     },
     {
       "id": "10.1002/aur.70215",
@@ -10861,112 +10882,6 @@
       ],
       "abstract": "Abstract Autism Spectrum Disorder (autism) is a neurodevelopmental condition characterised by altered social communication, repetitive behaviours and restricted interests. Emerging evidence suggests that disrupted circadian timing mechanisms may be associated with certain traits of autism, such as sleep difficulties and behavioural dysregulation. Circadian rhythms are primarily entrained by the light–dark cycle but are also shaped by social cues, including synchronisation with the circadian rhythms of family members. Despite growing interest in circadian biology and autism, little is known about how circadian synchrony functions within families that include autistic children. This scoping review synthesises findings on circadian timing in families with autistic and non-autistic children. A systematic search of four databases (PubMed, Scopus, PsycINFO, and CINAHL) yielded 2,423 results, of which 25 met inclusion criteria. An additional 17 studies were identified through handsearching. The final dataset comprised 42 studies, which were organised into a narrative synthesis and thematic analysis. Six studies focused on sleep synchrony in families with autistic children, while the remai…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07256-w",
-      "title": "Shaping Teacher Education Through Professional Identities: Enhancing Autism Awareness",
-      "authors": [
-        "Mahmut Serkan Yazıcı",
-        "İsmail Karsantık"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-24",
-      "doi": "10.1007/s10803-026-07256-w",
-      "url": "https://doi.org/10.1007/s10803-026-07256-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Abstract Purpose The main aim of this study is to examine autism awareness in relation to different professional identities and to explore its implications for teacher education. Furthermore, the study aims to explore how teacher education can be improved by considering differences in individuals’ professional identities, especially regarding autism awareness. Methods A quantitative approach was used with a sample consisting of 745 participants who completed a data collection form that included the Autism Awareness Scale to primarily examine levels of autism awareness, their sources of information about autism spectrum disorder (ASD), and their perceived competence in educating students with ASD. The analysis included group comparisons, structural equation modeling, response surface analysis, and machine learning–based prediction. Results The findings revealed that different professional identities significantly impact the participants’ results. Also, this study found that autism awareness was higher when university education was supported by social media and websites (or non-governmental organizations). For in-service teachers, the most effective method was in-service training del…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07253-z",
-      "title": "The Under-Identification of Autism in Females: A Review and Analysis of Sex-Based Scoring Differences Observed in Autism Diagnostic Observation Schedule (ADOS) Module 3",
-      "authors": [
-        "Yuen Yvonne Yu",
-        "Austin Wyman",
-        "Calliana J. Faulk",
-        "Lizzy J. Fulop",
-        "Rebecca L. Greenberg",
-        "Rachel M. Benecke",
-        "Lauren K. Steinbeck",
-        "Jessica Foy",
-        "Caitlyn Kim",
-        "George O. Emory",
-        "Elle Fox",
-        "Eric A. Storch",
-        "Casey J. Zampella",
-        "Benjamin E. Yerys",
-        "Robert T. Schultz",
-        "Julia Parish-Morris",
-        "John D. Herrington",
-        "Caitlin C. Clements"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-24",
-      "doi": "10.1007/s10803-026-07253-z",
-      "url": "https://doi.org/10.1007/s10803-026-07253-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose Emerging research highlights sex differences in autism presentation, raising questions about the validity of clinician-administered diagnostic tools like the gold-standard Autism Diagnostic Observation Schedule (ADOS). This study examines whether clinicians’ perceptions, potentially biased toward male-typical presentations, contribute to sex bias in ADOS items and the under-identification of autism in females. Methods In a sample of 813 children, multidimensional item response theory graded response models were employed to analyze differential item functioning (DIF) of items in ADOS Module 3 (the version commonly administered to school-aged children with fluent spoken language). Results Six items showed significant sex bias. On four social communication items, females tended to be underscored, meaning rated as showing fewer autistic features (e.g., more emotion talk) than males with equivalent levels of autism latent traits. In contrast, females tended to be overscored on two items related to restricted or repetitive behaviors and interests (i.e., more finger mannerisms, specific interests, or repetitive behaviors). The impact of sex bias on overall scores was smal…"
-    },
-    {
-      "id": "10.1007/s10803-026-07269-5",
-      "title": "Quality of Life of and Its Predictors Among Caregivers of Children With Developmental Disorders",
-      "authors": [
-        "Saman Waqar",
-        "Hayaa Ali",
-        "Eeman Ali",
-        "Asim Niaz",
-        "Rukhsana Roshan"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-24",
-      "doi": "10.1007/s10803-026-07269-5",
-      "url": "https://doi.org/10.1007/s10803-026-07269-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2026.2632856",
-      "title": "Clinical utility of the BASC-3 PRS F-index for preschoolers diagnosed with autism spectrum disorder",
-      "authors": [
-        "H. D. Hintz",
-        "M. B. Bundy",
-        "M. Freeman",
-        "J. T. Metcalf",
-        "D. B. Wygant"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-02-24",
-      "doi": "10.1080/20473869.2026.2632856",
-      "url": "https://doi.org/10.1080/20473869.2026.2632856",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
