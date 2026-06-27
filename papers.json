@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T09:54:59Z",
+  "generated_at": "2026-06-27T08:51:20Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -566,6 +566,54 @@
       "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
     },
     {
+      "id": "10.1007/s10803-026-07428-8",
+      "title": "Who Shapes National Autism Guidance? A Cross-National Comparison of Autism Guideline Development, Representation, and Implementation",
+      "authors": [
+        "Caleb P. Hwang",
+        "Roald A. Øien",
+        "Fred R. Volkmar"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-27",
+      "doi": "10.1007/s10803-026-07428-8",
+      "url": "https://doi.org/10.1007/s10803-026-07428-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Quality of life",
+        "Service design"
+      ],
+      "tags": [
+        "lived experience",
+        "participatory",
+        "service improvement"
+      ],
+      "abstract": "Abstract Purpose National autism guidance increasingly shapes diagnostic practices and service pathways, yet comparative research has focused primarily on clinical content and methodological quality rather than the governance structures through which guidance is produced. We argue that differences in autism guidance are influenced not only by clinical recommendations but also by governance structure, lived-experience participation, and implementation architecture. This study examines how autism guidance is commissioned, who participates in development, and how guideline processes are linked to implementation across six countries: Australia, England, Norway, Scotland, Sweden, and the United States. Methods Using qualitative comparative document analysis, publicly available guideline documents and associated methodological materials were examined to assess each country’s guideline authority, document function and scope, procedural transparency, lived-experience participation, implementation linkages, and relationship to broader national autism strategy. Participation was categorized along a spectrum from consultation to representation to co-production. Results The analysis reveals su…"
+    },
+    {
+      "id": "10.1007/s10803-026-07420-2",
+      "title": "How Autism and Sex Influence Perspective-Taking in Pragmatic Inferences",
+      "authors": [
+        "Anna Teresa Porrini",
+        "Jessica Goulston",
+        "Alexandra Perovic",
+        "Nausicaa Pouscoulous"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-27",
+      "doi": "10.1007/s10803-026-07420-2",
+      "url": "https://doi.org/10.1007/s10803-026-07420-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Despite difficulties with pragmatic inferences which require perspective-taking, autistic individuals often perform similarly to non-autistic peers on scalar implicatures tasks. Prior studies often used artificial tasks lacking a rich communicative context, or clear interlocutor, potentially misrepresenting autistic performance. They have also underrepresented females, who may outperform males on pragmatic measures. This study aims to address both limitations. Methods 52 autistic and 52 non-autistic adults (balanced for sex) completed an implicature priming task with both lexical (e.g. interpreting “John ate some of the cookies” as “some but not all”) and ad-hoc scalar implicatures (e.g., “the bowl with an apple” meaning “only an apple” when another bowl contains an apple and an orange). This task was an online card-selection game with clues either provided by a cooperative and knowledgeable “interlocutor” or simply appearing on the screen. Results Reliable priming effects occurred across groups and implicature types, showing that autistic adults, like non-autistic adults, flexibly interpret scalar terms in context. Speaker presence interacted with sex: while autis…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07411-3",
       "title": "Exploring the Action–Perception Loop in Children Born Very Preterm: Associations Between Biological Motion Perception, Motor Coordination, and Behavioral Outcomes",
       "authors": [
@@ -648,6 +696,49 @@
       ],
       "tags": [
         "service improvement"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2666653",
+      "title": "Communication skills of primary school students diagnosed with autism spectrum disorder: the impact of socially oriented awareness training",
+      "authors": [
+        "Zhibek Nigmatullina",
+        "Aida Nurbekova",
+        "Nadezhda Zhiyenbayeva",
+        "Dinara Sadirbekova"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-26",
+      "doi": "10.1080/20473869.2026.2666653",
+      "url": "https://doi.org/10.1080/20473869.2026.2666653",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2690624",
+      "title": "Visual attention in children with autism spectrum disorder: the role of protagonist positioning in picture books",
+      "authors": [
+        "Xiang Lian",
+        "Xuelian Li"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-26",
+      "doi": "10.1080/20473869.2026.2690624",
+      "url": "https://doi.org/10.1080/20473869.2026.2690624",
+      "neurotype": [
+        "Autism"
       ],
       "framing": "Mixed or transitional framing"
     },
@@ -8144,21 +8235,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1080/20473869.2026.2634782",
-      "title": "Educational quality of autism treatment videos on YouTube",
-      "authors": [
-        "Aysegul Tonyali"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-03",
-      "doi": "10.1080/20473869.2026.2634782",
-      "url": "https://doi.org/10.1080/20473869.2026.2634782",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07312-5",
       "title": "Alterations in Amygdala and Hippocampal Volumes in Autism Spectrum Disorder: Meta-analysis",
       "authors": [
@@ -10855,70 +10931,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07276-6",
-      "title": "Effectiveness and Usability of Artificial Intelligence and/or Machine Learning Enabled Wrist and Ankle Wearables for Physiological and Behavioral Monitoring in Children and Adolescents With Autism Spectrum Disorder: A Systematic Review",
-      "authors": [
-        "Shabinabegam Abdul Majid Sheth",
-        "Emilios Lemoniatis",
-        "Tayyaba Ejaz",
-        "Eilis Kennedy",
-        "Gabriella Charalambous"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-26",
-      "doi": "10.1007/s10803-026-07276-6",
-      "url": "https://doi.org/10.1007/s10803-026-07276-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1108/aia-02-2026-118",
-      "title": "Let’s Talk: Navigating Communication Services and Supports for Your Young Child with Autism",
-      "authors": [
-        "Fitri Rahmadani Darwis",
-        "Tuti Bahfiarti",
-        "Muhammad Farid"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-26",
-      "doi": "10.1108/aia-02-2026-118",
-      "url": "https://doi.org/10.1108/aia-02-2026-118",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1108/aia-04-2026-119",
-      "title": "Creating Quality of Life for Adults on the Autism Spectrum: The Story of Bittersweet Farms",
-      "authors": [
-        "Arum Tri Cahyani",
-        "Muliadi Mau",
-        "Muh Akbar"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-02-26",
-      "doi": "10.1108/aia-04-2026-119",
-      "url": "https://doi.org/10.1108/aia-04-2026-119",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ]
     }
   ]
 }
