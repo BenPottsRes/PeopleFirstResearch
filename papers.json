@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T09:33:41Z",
+  "generated_at": "2026-06-29T11:25:30Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -564,6 +564,143 @@
         "ADHD"
       ],
       "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
+    },
+    {
+      "id": "10.1007/s10803-026-07391-4",
+      "title": "A Scoping Review on Positive Emotions and Affect in Autism",
+      "authors": [
+        "Laura Moreno",
+        "Mirella Manfredi",
+        "Giona Di Poi",
+        "June Gruber",
+        "James C. McPartland",
+        "Andrea C. Samson"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-29",
+      "doi": "10.1007/s10803-026-07391-4",
+      "url": "https://doi.org/10.1007/s10803-026-07391-4",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07398-x",
+      "title": "Pilot Study: Sibling Collaborative Learning of Daily Living Skills Using Video Modeling With Korean American Autistic Adolescents",
+      "authors": [
+        "Veronica Y. Kang",
+        "Tvisha Vyas",
+        "Gulnoza Yakubova",
+        "Shehzad I. Awasi",
+        "Melody Mann",
+        "Sean Joo"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-29",
+      "doi": "10.1007/s10803-026-07398-x",
+      "url": "https://doi.org/10.1007/s10803-026-07398-x",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07406-0",
+      "title": "Predicting 18-month M-CHAT-R/F With PediaTracTMv3.0 Motor and Social/Communication/Cognition Domains",
+      "authors": [
+        "Ryan M. Krebs",
+        "Angela D. Staples",
+        "Jin Bo",
+        "Trivellore Raghunathan",
+        "Patricia Berglund",
+        "Seth Warschausky",
+        "Alissa Huth-Bocks",
+        "H. Gerry Taylor",
+        "Angela Lukomski",
+        "Renee Lajiness-O’Neill"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-29",
+      "doi": "10.1007/s10803-026-07406-0",
+      "url": "https://doi.org/10.1007/s10803-026-07406-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07422-0",
+      "title": "Perspectives of Autistic People, Parents, and Healthcare Professionals on Communication in Healthcare Settings and Related Needs in Georgia: A Qualitative Study",
+      "authors": [
+        "Tamara Kalandadze",
+        "Maia Gabunia",
+        "Nino Javakhishvili",
+        "Tamar Kobuladze",
+        "Tinatin Tchintcharauli"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-06-29",
+      "doi": "10.1007/s10803-026-07422-0",
+      "url": "https://doi.org/10.1007/s10803-026-07422-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10882-026-10083-7",
+      "title": "Recognizing Risk, Responding with Care: The Development of a Crisis Response Program for Suicidal and Homicidal Ideation in Children with Autism",
+      "authors": [
+        "Ruth Bernstein",
+        "Taylor Thomas"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-29",
+      "doi": "10.1007/s10882-026-10083-7",
+      "url": "https://doi.org/10.1007/s10882-026-10083-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1177/13623613261451896",
+      "title": "Gaze-Tracking-Based Tests for Autism in Children: A Diagnostic Test Accuracy Systematic Review and Meta-Analysis",
+      "authors": [
+        "Delaflor-Wagner Christian Alejandro",
+        "Suárez-Cuenca Juan Antonio",
+        "Alcaraz-Estrada Sofía Lizeth",
+        "Téllez-González Mario Antonio",
+        "Coral-Vázquez Ramón Mauricio",
+        "Toledo-Lozano Christian Gabriel",
+        "García Silvia"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-06-28",
+      "doi": "10.1177/13623613261451896",
+      "url": "https://doi.org/10.1177/13623613261451896",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Atypical gaze patterns are consistently reported in autism, reflecting differences in social attention and interest. Gaze-tracking paradigms provide an objective way to quantify these differences and may serve as early indicators of autism. This diagnostic test accuracy systematic review and meta-analysis evaluated the performance of eye-tracking-based gaze measures in children. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses of Diagnostic Test Accuracy (PRISMA-DTA) guidance, studies published between 2015 and 2025 that compared gaze-tracking paradigms with standardized autism diagnoses were synthesized. Pooled diagnostic odds ratio (DOR), sensitivity, and specificity were estimated using random-effects and hierarchical summary receiver operating characteristic models. Risk of bias was assessed with QUADAS-2 and funnel plots. Seventeen studies ( n = 4,256) from six countries met the inclusion criteria. Tasks included social-geometric preference, motherese-nonsocial speech, and visual-orienting paradigms analyzed with rule-based or machine-learning methods. The pooled area under the hierarchical summary receiver operating characteristic curve (HSROC AUC)…"
     },
     {
       "id": "10.1007/s10803-026-07428-8",
@@ -2793,7 +2930,7 @@
       "id": "10.1007/s10803-026-07370-9",
       "title": "Preliminary Evidence for Differentiating Functional Performance in Preschool Children on the Autism Spectrum Using the Basic Activities of Daily Living Evaluation—Preschool Version",
       "authors": [
-        "Sabina Barrios Fernández",
+        "Sabina Barrios-Fernández",
         "Diana Salas-Gómez",
         "Dulce Romero-Ayuso",
         "Margarita Gozalo-Delgado"
@@ -6327,31 +6464,6 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -6377,6 +6489,31 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8527,100 +8664,6 @@
         "Education"
       ],
       "abstract": "Autism research has predominantly focused on Western contexts, with limited studies in Vietnamese cultural settings. Through conducting a systematic scoping review, we aimed to map (a) the landscape of autism research in Vietnamese cultural contexts, (b) the quality of the research, and (c) the extent of autism community involvement in the research. A total of 137 studies met our inclusion criteria. A growing body of literature pertained to autism in Vietnamese cultural contexts, largely conducted in Viet Nam (87%). Much of the literature focused on Services and Supports (39%), as well as Interventions (20%). Key themes identified from the research were the centrality of family, the importance of school and education, and identifying a cause of autism. Quality appraisals of the studies – using the Mixed Methods Appraisal Tool, a Westernised tool – indicated that the studies were largely of low quality. There was limited autism community involvement in the research, with studies often lacking an explicit description of the nature of community involvement. Priority areas for future research include better understanding how rigour is understood in a Vietnamese research context, improv…"
-    },
-    {
-      "id": "10.1177/13623613261421391",
-      "title": "Gender identity development in autistic individuals: An interview study",
-      "authors": [
-        "Robin Michiels",
-        "Marie Groffi",
-        "Jeroen Dewinter",
-        "Ilse Noens",
-        "Paul Enzlin"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261421391",
-      "url": "https://doi.org/10.1177/13623613261421391",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Autistic individuals report more gender-related questions and gender incongruence compared to non-autistic peers. However, research on gender identity in autistic individuals lacks longitudinal perspectives and underrepresents cisgender males. This study explored how both cisgender autistic individuals and trans and gender-diverse (TGD) autistic individuals experienced their gender identity development in a broad sense. Fifteen autistic adults (aged 27–52) participated in semi-structured interviews. Data were analyzed using a qualitative longitudinal approach combining phenomenological and process analyses, guided by the Qualitative Analysis Guide of Leuven (QUAGOL). The autistic community was involved in developing research questions, study design, interpreting and discussing results. Phenomenological analysis revealed three themes: (1) exploring a comfortable identity; (2) negotiating oneself with others; and (3) interacting with societal perspectives on gender. Process analysis identified three themes: (1) learning by experience; (2) gender identity development takes time and is demanding; and (3) changing perspectives on gender. Gender-related questions shaped by individual, en…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261422117",
-      "title": "How does ‘autistic burnout’ feel? A qualitative study exploring experiences of earlier and later-diagnosed autistic adults",
-      "authors": [
-        "Dorota Ali",
-        "Will Mandy",
-        "Francesca Happé"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261422117",
-      "url": "https://doi.org/10.1177/13623613261422117",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "‘Autistic burnout’ is increasingly conceptualised as an experience of severe exhaustion, increased sensory difficulties and need for solitude, resulting from not having needs met across contexts. We interviewed 20 autistic adults (eight diagnosed with autism in childhood) about their experiences of autistic burnout. In this reflexive thematic analysis, we focused on how burnout felt, comparing the experiences of those diagnosed in childhood versus adulthood. We created five themes. We understood burnout to be, at times, (1) a powering down and/or (2) the overactivation, of the mind and body , resulting in (3) a craving for sensory and social rest . For those diagnosed in adulthood, burnout seemed to be experienced as more chronic and confusing. Some participants diagnosed in adulthood (4) made the world more bearable by using substances , coping with the contributors to and effects of burnout. Especially affecting those diagnosed in adulthood, (5) not knowing why this was happening took a (sometimes dangerous) toll; for a few, it led to contemplating suicide. This study brings new insights into burnout experiences of adults diagnosed with autism at different life points. Lay abstra…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261425303",
-      "title": "Inclusion, but not necessarily integration: Centring student perspectives and needs in education",
-      "authors": [
-        "Patrick Dwyer",
-        "Elizaveta Nosova",
-        "Clare Kermond",
-        "Kathy Leadbitter"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261425303",
-      "url": "https://doi.org/10.1177/13623613261425303",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
-    },
-    {
-      "id": "10.1177/13623613261422937",
-      "title": "How do autistic adults experience ageing? A qualitative interview study",
-      "authors": [
-        "Rebecca Aitken",
-        "Katherine Berry",
-        "Emma Gowen",
-        "Laura JE Brown"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261422937",
-      "url": "https://doi.org/10.1177/13623613261422937",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "The aim of this study was to understand middle-aged and older autistic adults’ views and experiences of ageing and their associated health and social care needs. Seventeen autistic adults (10 women and seven men) aged 46–72 years were recruited via convenience and snowball sampling strategies and interviewed via Zoom or telephone call about what it means to age well; their age-related needs; and how services could better support them to age well. Semi-structured interview transcripts were analysed using inductive thematic analysis. Five themes were identified. These reflected: (1) possibilities and fears around ageing; (2) adaptive strategies when facing age-related changes; (3) understanding and acceptance of autism for a more positive experience of ageing; (4) social relationships as important for supporting ageing and (5) formal support for ageing needing to be autism-informed. The findings highlight a need for increasing societal knowledge about ageing with autism, and for improved services to support this. We provide a set of recommendations for professionals working with autistic adults. These include involving autistic people in the design of health and social care services;…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/25739581261440760",
@@ -10929,30 +10972,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07270-y",
-      "title": "Exploring Correlations of Unemployment, Underemployment, and Well-Being Among Autistic Job Seekers by Race in the United States",
-      "authors": [
-        "Rachel A. VanDaalen",
-        "Jiayuan Lyrid Zhao",
-        "Yu Jie Emily Hsiao",
-        "Hannah Karsting",
-        "Ru Ying Cai",
-        "Jane Paik Kim",
-        "Lawrence K. Fung"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-02-28",
-      "doi": "10.1007/s10803-026-07270-y",
-      "url": "https://doi.org/10.1007/s10803-026-07270-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ]
     }
   ]
 }
