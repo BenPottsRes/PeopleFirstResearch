@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T11:25:30Z",
+  "generated_at": "2026-06-30T10:06:34Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -564,6 +564,31 @@
         "ADHD"
       ],
       "abstract": "Objective: A previous randomised controlled trial of a computerised gaze-contingent attention training for 9-to-16-month infants with a family history of ADHD (intervention, n = 20; control, n = 23) found no endpoint differences on the primary outcome (an eye-tracking composite score of infant attention) nor on secondary outcomes (parent and observer ratings of infant attention in naturalistic contexts). Method: Here, we report follow-up at age 2 and 3 years to examine whether there are longer-term effects of the training. The pre-specified primary outcome was parent-reported early ADHD traits. Secondary outcomes included parent-report of inhibitory control and attention; researcher-rated observational measures of attentiveness, activity level and inhibition; and eye-tracking measures of cognitive control, attention disengagement and sustained attention. Results: At follow-up there was no intervention effect on the primary outcome parent-rated ADHD behaviours (effect size [ES] −0.28, 95% CIs −0.95 to 0.39). Secondary parent- and researcher-rated child behaviour and eye-tracking attention outcomes also did not significantly differ between the groups. The largest positive, albeit non…"
+    },
+    {
+      "id": "10.1007/s10882-026-10081-9",
+      "title": "Adaptation of Parent Target Problems for Blinded, Idiographic Outcome Measurement of Caregiver Skills Training Interventions",
+      "authors": [
+        "Andrea Sanguineti",
+        "Helen McConachie",
+        "Chiara Davico",
+        "Benedetto Vitiello",
+        "Laura Carrara",
+        "Erica Salomone"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-06-30",
+      "doi": "10.1007/s10882-026-10081-9",
+      "url": "https://doi.org/10.1007/s10882-026-10081-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Abstract Measuring individualised, clinically meaningful developmental outcomes in autistic children remains challenging. The Parent Target Problems (PTP; Arnold et al. 2003) provides a brief, idiographic framework based on parent‑nominated concerns, but its original use is restricted to challenging behaviour and hyperactivity. We adapted the PTP by expanding its scope to encompass a wider range of developmental domains and by introducing a standardized baseline severity rating. We evaluated the feasibility, inter‑rater reliability, and concurrent validity of this revised protocol within a pilot trial of the WHO Caregiver Skills Training (CST). The adapted PTP was applied to a sample of 30 caregivers of autistic children (aged 3 to 8 years) participating in a pilot trial of CST delivered remotely in public clinical centres in Northern Italy. Narratives of parent-nominated problems, elicited without setting restrictions on problem domain, were collected at baseline, 3-month treatment endpoint and 6-months follow-up (n=168). Narratives were rated with good to excellent agreement by four expert judges for vignette quality, baseline problem severity (ICC range: 0.75–0.90) and improveme…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07391-4",
@@ -1996,37 +2021,6 @@
       ],
       "abstract": "Background: Positive sibling relationships have important implications for the well-being of autistic adults. Yet past research finds that individuals with autistic siblings report lower levels of sibling relationship quality. The research in this area, however, relies on the perspective of non-autistic family members and focuses on families where one sibling has a clinical autism spectrum disorder (ASD) diagnosis. The current study addressed these limitations by assessing whether autistic young adults also report poorer sibling relationship quality than non-autistic young adults and whether patterns differ by what it means to be autistic. Methods: Participants included a total of 964 18- to 29-year-olds ( M age = 24.61, SD = 2.90; 45% female; 58% White) from across the United States who completed an online survey. Participants were assigned to one of four groups: those diagnosed with autism or in the process ( n = 97), those who identify as autistic but have not been diagnosed and are not seeking diagnosis ( n = 80), those high in autistic traits but do not identify as autistic and have not been diagnosed ( n = 67), and the non-autistic ( n = 720). Results: Results show that young…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/25739581261457376",
-      "title": "Divergent Perceptions of Autistic Parents Among Health Care, Social Care, and Judicial Professionals and Autistic Adults: A Participatory Study",
-      "authors": [
-        "Adeline Lacroix",
-        "William Vallet",
-        "Meng-Chuan Lai",
-        "Danièle Langloys",
-        "Magali Pignard",
-        "Jerome Brunelin",
-        "Marine Dubreucq",
-        "Caroline Demily"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-06-17",
-      "doi": "10.1177/25739581261457376",
-      "url": "https://doi.org/10.1177/25739581261457376",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "disclosure",
-        "participatory"
-      ],
-      "abstract": "Background: Autistic people can and do become parents, yet they often feel misunderstood. They fear being judged on their parenting abilities by professionals from health care, social care, and even judicial systems, including the risk of unwarranted and disproportionate child protection investigations or interventions. Despite these concerns being frequently reported qualitatively, they have not been investigated with quantitative data. Methods: Using a participatory research framework, we co-constructed a clinical vignette and a set of questionnaire items in collaboration with autistic parents to ensure that the materials reflected their lived concerns and priorities. Professionals from health care, social, educational, judicial, and allied health fields, as well as autistic adults, were invited to complete the survey. We compared their perceptions of a fictional autistic mother, before and after diagnostic disclosure, as well as their views on professional competency regarding autism. Results: Although professionals do not hold overtly negative views, their perspectives diverge from those of autistic adults. Professionals perceived the fictional mother with high autistic traits…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/25739581261457361",
@@ -7333,32 +7327,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/25739581261444312",
-      "title": "“If the System in Hong Kong Got Enough Support for Us, I Wouldn’t Want so Many People to Pay Attention”: Barriers to Social Support in Autistic University Students",
-      "authors": [
-        "Gary Yu Hin Lam",
-        "Joanne Chi Yan Wong"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-23",
-      "doi": "10.1177/25739581261444312",
-      "url": "https://doi.org/10.1177/25739581261444312",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "tags": [
-        "access",
-        "disclosure",
-        "lived experience"
-      ],
-      "abstract": "Background: Autistic students in postsecondary education face diverse challenges, yet institutions vary significantly in their preparedness and investment in providing adequate support. While individual-level resources are increasing, relational and systemic factors impacting social support remain underexplored. This study investigates the challenges and barriers to social support for autistic university students in Hong Kong. Methods: This qualitative study included 30 autistic university students from 14 local higher institutions in Hong Kong. We used semi-structured interviews to gather first-person perspectives on participants’ social support experiences. We used thematic analysis to generate salient themes and subthemes from the interview data. Results: We synthesized four major themes that described the challenges to social support: (1) pervasive misunderstanding and negative treatment by others, (2) juggling disclosure of autism across different contexts, (3) gaps in current support systems and services, and (4) the need for self-development to navigate university life. Participants reported pervasive stereotypes, stigma, and inadequate understanding of autism, leading to so…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581261441229",
       "title": "Psychometric Analysis of the German Version of the Barriers to Healthcare Checklist—Short Form",
       "authors": [
@@ -8303,28 +8271,6 @@
       "abstract": "Abstract Purpose The purpose of this study was to examine sensory processing, motor proficiency, and functional performance in children and adolescents with Developmental Coordination Disorder (DCD) compared with typically developing children (TDC), and to explore the correlations among these domains across a broad developmental age range. Method This cross-sectional study included children and adolescents aged 4–17 years classified as DCD and TDC. Sensory processing, motor proficiency, and functional performance were assessed using SPM, PEDI-CAT and BOT-2. Group differences and developmental trends were analyzed using analysis of variance. Pearson correlations were used to evaluate the association between sensory, motor, and functional performance. Results Children with DCD demonstrated significantly greater sensory-processing difficulties, lower motor proficiency, and reduced functional performance compared with TDC (all p &lt; 0.001). Sensory processing, BOT-2 and PEDI-CAT scores for the DCD group consistently fell within the moderate difficulty range and below average across age groups, whereas TDC scores were within typical limits. A significant Group × Age interaction was ide…"
     },
     {
-      "id": "10.1177/25739581261437356",
-      "title": "Dignity in the Chair: Learning Sensory-Aware Barbering Through Lived Experience with Autism",
-      "authors": [
-        "Mohamed Abridan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-07",
-      "doi": "10.1177/25739581261437356",
-      "url": "https://doi.org/10.1177/25739581261437356",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ]
-    },
-    {
       "id": "10.1080/20473869.2026.2645073",
       "title": "Executive function outcomes of rhythmic movement interventions in children and adolescents with autism spectrum disorder: a systematic review",
       "authors": [
@@ -8940,39 +8886,6 @@
         "ADHD",
         "Autism"
       ]
-    },
-    {
-      "id": "10.1177/25739581261428642",
-      "title": "Developing an Evaluation Framework to Promote Meaningful Participation of Autistic People in Research: The Evaluating Levels of Participation in Autism Research Tool and Participatory Action Research Group Checklist",
-      "authors": [
-        "Ellie Horton",
-        "Laura A. Brownhill",
-        "Daniel Tones",
-        "Anita Goldschmied",
-        "Max Knops",
-        "Emine Gurbuz",
-        "Eleanor Dommett",
-        "Lauren Wilkinson",
-        "Jackie Taylor",
-        "Carla Toro",
-        "Jagjeet Jutley-Neilson"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-03-30",
-      "doi": "10.1177/25739581261428642",
-      "url": "https://doi.org/10.1177/25739581261428642",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "tags": [
-        "participatory"
-      ],
-      "abstract": "Despite growing recognition of the participation of autistic people as collaborators in research, this field continues to face several significant challenges. Key issues include a lack of guidance for researchers on how to implement participatory methods effectively and a shortage of evaluation tools to support best practice. Meaningful participation has the potential to redress power imbalances, reduce stigma, and ensure that research accurately reflects the lived experiences of autistic individuals, leading to more relevant and effective services and support. To address these challenges, researchers codeveloped and refined a standardized evaluative framework to promote meaningful autistic participation across all research stages and evaluate good practice in establishing a Participatory Action Research (PAR) Group while enhancing transparency regarding the extent of involvement. Draft tools were developed by a neurodivergent lead researcher, with the development and refinement process led by autistic researchers who facilitated consultation with participatory researchers, ensuring that the tools reflected diverse perspectives and lived experiences. The refined evaluation framewor…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00548-y",
@@ -10151,31 +10064,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/25739581261426633",
-      "title": "Crafting Livable Worlds: Sensory, Creative, and Nonhuman Supports in Autistic Adults’ Everyday Lives",
-      "authors": [
-        "Megan Catherine Rose",
-        "Deborah Lupton"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-03-15",
-      "doi": "10.1177/25739581261426633",
-      "url": "https://doi.org/10.1177/25739581261426633",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Background: Many autistic adults still live in worlds that don’t understand or accommodate their sensory needs, creative interests, or ways of structuring everyday life. We explored how autistic adults use nonhuman supports such as objects, plants, animals, creative activities, and structured routines to navigate sensory and emotional demands and sustain their well-being. Methods: Led by an autistic researcher, we conducted qualitative interviews with 12 autistic adults in Australia to reveal how everyday nonhuman supports helped them manage overwhelm, reduce decision fatigue, and affirm personal identity. Results: Participants described sensory rituals including brewing tea in a familiar mug, tending to gardens, or carrying plush toys, alongside creative pursuits such as drawing, replaying games, and decorating spaces with bright character-themed items. Many also developed tailored systems, using planners, checklists, and structured shopping, to ease executive functioning challenges. However, the use of these supports was often stigmatized and incurred scrutiny from others. Participants worried that plushies or playful décor might be judged as childish or unprofessional. In the fa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07277-5",
       "title": "Discourse Marker Use in Mothers of Autistic Individuals and FMR1 Premutation Carriers",
       "authors": [
@@ -10551,36 +10439,6 @@
         "lived experience"
       ],
       "abstract": "Background: Autistic adults frequently have negative workplace experiences, as well as challenges with their psychological health, yet few studies have examined the linkages among aspects of employment and mental health in this group. To address this gap, we drew from the Job Demands-Resources model to investigate which aspects of employment were associated with psychological health outcomes in autistic adults. Methods: Participants were autistic adults ( n = 109; 18–43 years old) employed in community settings, who completed online surveys and interviews about aspects of employment (perceived workplace climate, part-time vs. full-time employment, and occupational contact with others) and psychological health (depressive symptoms, psychological quality of life [PQOL]). Results: Perceived workplace climate was the only aspect of employment significantly associated with psychological health; adults who reported more positive workplace climates had higher PQOL. Workplace climate was more strongly associated with PQOL among adults in this sample who were older (vs. younger) and had lower (vs. higher) daily living skills. Conclusion: These findings highlight the importance of safe and s…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-01-2026-0007",
-      "title": "Trends and gaps in school-based educational activities for autistic students: a UDL perspective",
-      "authors": [
-        "Gonzalo Lorenzo Lledó",
-        "Andrea Cerdán-Chacón",
-        "Santiago Meliá",
-        "Alejandro Lorenzo-Lledó"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-03-10",
-      "doi": "10.1108/aia-01-2026-0007",
-      "url": "https://doi.org/10.1108/aia-01-2026-0007",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "communication",
-        "sensory"
-      ],
-      "abstract": "Purpose Classroom activities for autistic students lack clear consensus. This study aims to identify and describe educational activities implemented in school settings between 1996 and 2024, using the Universal Design for Learning (UDL) framework. Design/methodology/approach A total of 139 documents were retrieved from Web of Science, Scopus, Google Scholar, PubMed and APA PsycNet following PRISMA-ScR guidelines. Study characteristics, populations, contexts and activity types were charted. Content analysis focused on structured school tasks with clear pedagogical objectives and active student participation. Findings Most studies involved very small groups (68.3% with 1–4 participants), predominantly aged 3–7 years. Case study designs accounted for 41% and 33.1% reported improvements in communication and social interaction. The most frequent activities were play-based tasks (28.1%), sensory/motor tasks (22.3%) and artistic, musical or drama-based activities (18.7%), which were associated with enhanced social engagement. Originality/value This study maps activity-based interventions for autistic students, highlighting trends, limitations and directions for future UDL-informed inclusi…",
       "framing": "Neurodiversity-informed"
     },
     {
