@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T09:23:09Z",
+  "generated_at": "2026-07-06T11:08:09Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -150,6 +150,127 @@
         "Healthcare"
       ],
       "abstract": "Objective: The Conners Adult ADHD Rating Scales Second Edition (CAARS-2) is a norm-referenced screening measure of ADHD symptoms and associated clinical concerns in adults. Unlike its predecessor, the CAARS-2 features a Negative Impression Index (NII) to detect unrealistically negative ratings or an exaggerated description of problems. Data presented in the CAARS-2 manual indicate that the NII differentiates simulators and adults with genuine ADHD with high accuracy, sensitivity, and specificity. Methods: We attempted to replicate these findings by conducting a simulation study with 222 adults with and without ADHD. Unlike the original studies, however, simulators were provided a plausible reason for feigning ADHD, coached to simulate and warned to avoid detection, and incentivized for credibly feigning. Results: On average, simulators earned significant elevations on CAARS-2 scales assessing the number and severity of DSM inattentive and hyperactive-impulsive symptoms. Simulators’ DSM scores did not differ significantly from those shown by participants with ADHD. The NII demonstrated high specificity (92%) to honest examinees with ADHD, but low sensitivity to simulators (8%). Most…"
+    },
+    {
+      "id": "10.1007/s10803-026-07431-z",
+      "title": "Developmental Trajectories in Young Autistic Children Receiving Parent-Mediated Intervention Through In-Person and Telehealth Service Delivery Models: A Naturalistic, Nonrandomized Clinical Study",
+      "authors": [
+        "Ali Naderi Malek",
+        "Patricia A. Prelock",
+        "Nasrin Shahouzaei"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-06",
+      "doi": "10.1007/s10803-026-07431-z",
+      "url": "https://doi.org/10.1007/s10803-026-07431-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07421-1",
+      "title": "Trends in Self-Reported Autism Among Adults in England: Analysis of a Repeated Cross-Sectional Patient Survey Series of 5,999,433 Adults",
+      "authors": [
+        "Samuel J. Tromans",
+        "Zoe L. Morgan",
+        "Benjamin Brewer",
+        "Rachel Williams",
+        "Traolach S. Brugha",
+        "Sally McManus"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-06",
+      "doi": "10.1007/s10803-026-07421-1",
+      "url": "https://doi.org/10.1007/s10803-026-07421-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07396-z",
+      "title": "The Effect of Participation in the Let’s Play Program on Autistic Children’s Engagement and Caregiver Well-Being: A Randomized Controlled Trial",
+      "authors": [
+        "Ashley E. Hinten",
+        "Philip Schluter",
+        "Cathy Andrew",
+        "Caroline Donovan",
+        "Isabel Jameson",
+        "Phoebe Jordan",
+        "Ann-Marie Kennedy",
+        "Selina Muralitharan",
+        "Jenna van Deurs",
+        "Lauren van Noorden",
+        "Jake Payton",
+        "Bella Rothwell",
+        "Laurie McLay"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-06",
+      "doi": "10.1007/s10803-026-07396-z",
+      "url": "https://doi.org/10.1007/s10803-026-07396-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Abstract Purpose In Aotearoa New Zealand (NZ), families face persistent barriers to accessing evidence-based early support for Autistic children. This randomized controlled trial (RCT) evaluated the effectiveness of Let’s Play; a bespoke, caregiver-mediated early support program for Autistic children and their caregivers. Methods This single-blind (rater) RCT included 91 parent-child dyads, randomly assigned to the Let’s Play program (active support; AS [ n = 45]) or a waitlist control (WLC; n = 46). Participants were caregivers of children aged 0 to 5 years with a formal diagnosis or characteristics of autism. Let’s Play was delivered over 9 weeks via group workshops and in-home coaching. Primary child and caregiver outcomes, assessed at baseline, post-support, and 6-month follow-up, included parent-child engagement and parental stress, respectively. Results Children showed descriptive evidence of improvement in caregiver-child engagement, health-related quality of life and behaviour from baseline to post-support. Improvement in parental stress, depression and anxiety symptoms, and self-perceived parenting competence were also evident, across timepoints. However, there were no sig…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07425-x",
+      "title": "Sentiment and Topic Analysis of Autism Spectrum Disorder Discussions on Chinese Social Media: Evidence From Bilibili and Rednote",
+      "authors": [
+        "Baixue Gao",
+        "Yunlong Xie",
+        "Hongyu Li",
+        "Wen He"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-06",
+      "doi": "10.1007/s10803-026-07425-x",
+      "url": "https://doi.org/10.1007/s10803-026-07425-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2694071",
+      "title": "Toward autism spectrum disorder informed investigative interviewing for children: a cognitive–sensory–cultural framework",
+      "authors": [
+        "Seungjin Lee"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-07-05",
+      "doi": "10.1080/20473869.2026.2694071",
+      "url": "https://doi.org/10.1080/20473869.2026.2694071",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/10870547261459712",
@@ -4948,60 +5069,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1186/s11689-026-09698-w",
-      "title": "Early developmental trajectories associated with different styles and intensities of ESDM-based community intervention",
-      "authors": [
-        "Liliana Ruta",
-        "Elisa Leonardi",
-        "Cristina Carrozza",
-        "Francesca I. Famà",
-        "Agrippina Campisi",
-        "Stefania Aiello",
-        "C Blandino",
-        "I Boccafoschi",
-        "M Boncoddo",
-        "M Bruschetta",
-        "I Crimi",
-        "F Di Bella",
-        "G Lazzaro",
-        "S Martines",
-        "A Orsina",
-        "M.G. Rosano",
-        "Flavia Marino",
-        "Alfia Ruggieri",
-        "Sabrina Baieli",
-        "Daniela Mangiapane",
-        "Gaetano Vivona",
-        "Sebastiano Marciante",
-        "Gaspare Cusimano",
-        "Antonio Narzisi",
-        "Filippo Muratori",
-        "Antonella Gagliano",
-        "Costanza Colombi",
-        "Gennaro Tartarisco",
-        "Marilina Mastrogiuseppe",
-        "Sally J. Rogers",
-        "Michael V. Lombardo",
-        "Giovanni Pioggia"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-29",
-      "doi": "10.1186/s11689-026-09698-w",
-      "url": "https://doi.org/10.1186/s11689-026-09698-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Background The Early Start Denver Model (ESDM) is a naturalistic developmental behavioral intervention (NDBI) widely used to support early development in young autistic children. This study examines early developmental trajectories associated with different styles and intensities of ESDM-based intervention compared with community Therapy as Usual (TAU) over a 6-month period. It also explores predictors of individual language development based on the intervention style. Methods A total of 112 autistic children participated in the study and were assessed longitudinally while receiving either higher (6 h a week) or lower (3 h a week) intensity ESDM, or TAU at higher (6 h a week) intensity ( N = 29, 32, and 51 participants in each group, respectively). Results The primary findings show that children receiving higher-intensity ESDM exhibited steeper developmental trajectories than children receiving TAU in all the developmental areas such as Language, Personal-Social skills, Performance, Eye-Hand coordination and the General score. Notably, lower-intensity ESDM was associated with steeper developmental gains in individual general development, language, personal social skills, a…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07353-w",
       "title": "First Impressions Count: A Systematic Literature Review Exploring Parents of Autistic Children’s First Encounters With Healthcare Professionals",
       "authors": [
@@ -5146,30 +5213,6 @@
         "communication"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1186/s11689-026-09710-3",
-      "title": "Executive function and implications for the Preterm Behavioral Phenotype in very preterm children at age 9–10 years",
-      "authors": [
-        "Rachel E. Lean",
-        "Berenice Anaya",
-        "Lisa Gorham",
-        "Christopher D. Smyser",
-        "Cynthia E. Rogers"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-28",
-      "doi": "10.1186/s11689-026-09710-3",
-      "url": "https://doi.org/10.1186/s11689-026-09710-3",
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Background Children born very preterm (VPT) have greater executive function (EF) challenges and internalizing, inattention, and social communication-interaction differences (the Preterm Behavioral Phenotype [PBP]) than full-term (FT) children. EF and PBP outcomes for VPT children with white matter injury (WMI) are less well understood. Furthermore, the extent that EF challenges serve as a neurocognitive mechanism for the PBP is unknown. Methods As part of a longitudinal study, 123 VPT infants (≤ 30 weeks gestation) were recruited from a level-III neonatal intensive care unit and underwent developmental follow-up at ages 5 and 9–10 years. Forty-four VPT infants had high-grade WMI. Seventy-nine FT control children were also included. At the 5 and 9–10 year follow-up, children completed EF tasks tapping short-term/working memory, inhibitory control, and flexibility/shifting, which were combined into an EF composite at each timepoint. Parents and children also completed measures assessing children’s attention-deficit/ hyperactivity, internalizing/anxiety, and social communication-interaction outcomes to generate parent- and child-informant PBP composites at age 9–10 years. Ser…"
     },
     {
       "id": "10.1007/s10803-026-07369-2",
@@ -6248,29 +6291,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1186/s11689-026-09704-1",
-      "title": "Emotion regulation and self-inhibition’s association with mental health outcomes, caregiver strain, and well-being in parents of autistic children: a dyadic analysis",
-      "authors": [
-        "Leonardo Dominguez Ortega",
-        "Alexandra Sturm",
-        "Meghan M. Krushena",
-        "Amanda C. Gulsrud"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-08",
-      "doi": "10.1186/s11689-026-09704-1",
-      "url": "https://doi.org/10.1186/s11689-026-09704-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Background Parents of autistic children report more depression, anxiety, and caregiver strain, and poorer well-being than parents of non-autistic children. Though more research has begun to investigate how parent-specific factors may influence these outcomes, few consider cognitive factors like emotion regulation or self-inhibition. These skills may be particularly relevant given their documented benefits and associations with mental health and well-being in the general population. An important consideration when investigating the needs of parents is the interconnectedness of the family unit. Thus, methodologies that consider this shared context are essential to appropriately support resilience of parents of autistic children. Methods Our sample consisted of 263 different-sex parent dyads with at least one child formally diagnosed with autism spectrum disorder. Using the Actor-Partner Interdependence Model, we assessed the links between parents’ emotion regulation and self-inhibition and their own and their partner’s depression and anxiety symptoms, caregiver strain, and well-being. Interdependence was established using correlations given the distinguishable nature of our…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07352-x",
       "title": "Long-Term Stability of IQ Scores for Children With Neurodevelopmental Disabilities: Stable Global IQ But Unstable Index, Subtest, and Profile IQ Scores",
       "authors": [
@@ -7004,31 +7024,6 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -7054,6 +7049,31 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8004,35 +8024,6 @@
         "ADHD"
       ],
       "abstract": "Objective: Previous research has revealed that individuals with ADHD exhibit difficulties in social functioning including obtaining and maintaining quality friendships. Cognitive disengagement syndrome (CDS) symptoms and internalizing symptoms frequently co-occur with ADHD symptoms and negatively influence social functioning, yet relatively little is known about how these symptoms uniquely relate to friendship features. Methods: The present study sought to examine associations among these variables in a large, multi-site sample of emerging adults. Participants ( N = 4,756; 18–29 years; 72.7% female; 79.8% White) enrolled in five universities in the United States completed measures of ADHD, CDS, internalizing symptoms, and friendship features. Results: Moderated conditional effects modeling revealed that internalizing symptoms accounted for significant variance in the association between ADHD symptoms and friendship features in all models. CDS symptoms were a significant moderator of the association between ADHD symptoms and friendship features (both positive and negative) such that there was a weaker association between ADHD symptoms and friendship impairment at higher levels of CD…"
-    },
-    {
-      "id": "10.1186/s11689-026-09695-z",
-      "title": "Prevalence and age of diagnosis of neurodevelopmental conditions among Asian populations in Aotearoa New Zealand",
-      "authors": [
-        "Noriko K. Panther",
-        "Nicholas Bowden",
-        "Joanna Chu",
-        "Stephanie D’Souza",
-        "Sujata Saha",
-        "Hiran Thabrew",
-        "Laurie K. McLay"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-23",
-      "doi": "10.1186/s11689-026-09695-z",
-      "url": "https://doi.org/10.1186/s11689-026-09695-z",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose Asian populations are among the fastest-growing ethnic groups in Aotearoa New Zealand (NZ), yet little is known about the prevalence of neurodevelopmental conditions (NDCs) within these communities. The study compared the prevalence and age of diagnosis of NDCs (Attention Deficit Hyperactivity Disorder [ADHD], autism, communication and language disabilities [CLDs], intellectual disability [ID], motor disabilities [MDs], and specific learning disabilities [SLDs]) between NZ-born Asian and non-Asian populations, and differences across Asian subgroups. Methods A national cross-sectional analysis was conducted using linked administrative microdata from the Integrated Data Infrastructure, covering the 2021/22 estimated resident population aged 0–24 years ( N = 1,334,247). Following adjustment for socioeconomic factors, standardized NDC rates were calculated for Asian and non-Asian populations and Asian subgroups (Indian, Chinese, Southeast Asian, and Other Asian). Results Lower standardized rates of NDCs were identified among Asian (2.85%, 95% CI [2.77, 2.94]) compared to non-Asian (4.52%, 95% CI [4.49, 4.56]) participants. Most notably, rates of ADHD (1.1%, 95% CI [1.0…"
     },
     {
       "id": "10.1177/25739581261442064",
@@ -10922,71 +10913,6 @@
       ],
       "abstract": "Purpose Classroom activities for autistic students lack clear consensus. This study aims to identify and describe educational activities implemented in school settings between 1996 and 2024, using the Universal Design for Learning (UDL) framework. Design/methodology/approach A total of 139 documents were retrieved from Web of Science, Scopus, Google Scholar, PubMed and APA PsycNet following PRISMA-ScR guidelines. Study characteristics, populations, contexts and activity types were charted. Content analysis focused on structured school tasks with clear pedagogical objectives and active student participation. Findings Most studies involved very small groups (68.3% with 1–4 participants), predominantly aged 3–7 years. Case study designs accounted for 41% and 33.1% reported improvements in communication and social interaction. The most frequent activities were play-based tasks (28.1%), sensory/motor tasks (22.3%) and artistic, musical or drama-based activities (18.7%), which were associated with enhanced social engagement. Originality/value This study maps activity-based interventions for autistic students, highlighting trends, limitations and directions for future UDL-informed inclusi…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07266-8",
-      "title": "Identifying Neurodevelopmental Domain Subgroups in Autism and ADHD",
-      "authors": [
-        "Aneta D. Krakowski",
-        "Katherine Tombeau Cost",
-        "Marlee Vandewouw",
-        "Peter Szatmari",
-        "Evdokia Anagnostou",
-        "Jennifer Crosbie",
-        "Russell Schachar",
-        "Eric Duku",
-        "Stelios Georgiades",
-        "Muhammad Ayub",
-        "Elizabeth Kelley",
-        "Rob Nicolson",
-        "Eleanor Pullenayegum",
-        "Carolina Barnett-Tapia"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-07",
-      "doi": "10.1007/s10803-026-07266-8",
-      "url": "https://doi.org/10.1007/s10803-026-07266-8",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07274-8",
-      "title": "A Scoping Review of Caregiver Worries of Transition-Aged Autistic Youth",
-      "authors": [
-        "Sarah Balser",
-        "Wenxing Wei",
-        "Liat R. Johnson",
-        "Megan L. Wenzell",
-        "Jaclene A. Zauszniewski"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-07",
-      "doi": "10.1007/s10803-026-07274-8",
-      "url": "https://doi.org/10.1007/s10803-026-07274-8",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2026.2639433",
-      "title": "Navigating play-based contexts: examining the ways teachers support children with autism in kindergarten",
-      "authors": [
-        "Taylor Wormington",
-        "Kristy Timmons"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-03-07",
-      "doi": "10.1080/20473869.2026.2639433",
-      "url": "https://doi.org/10.1080/20473869.2026.2639433",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Person-first language used"
     }
   ]
 }
