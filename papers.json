@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:05:37Z",
+  "generated_at": "2026-07-08T08:48:43Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -152,6 +152,46 @@
       "abstract": "Objective: The Conners Adult ADHD Rating Scales Second Edition (CAARS-2) is a norm-referenced screening measure of ADHD symptoms and associated clinical concerns in adults. Unlike its predecessor, the CAARS-2 features a Negative Impression Index (NII) to detect unrealistically negative ratings or an exaggerated description of problems. Data presented in the CAARS-2 manual indicate that the NII differentiates simulators and adults with genuine ADHD with high accuracy, sensitivity, and specificity. Methods: We attempted to replicate these findings by conducting a simulation study with 222 adults with and without ADHD. Unlike the original studies, however, simulators were provided a plausible reason for feigning ADHD, coached to simulate and warned to avoid detection, and incentivized for credibly feigning. Results: On average, simulators earned significant elevations on CAARS-2 scales assessing the number and severity of DSM inattentive and hyperactive-impulsive symptoms. Simulators’ DSM scores did not differ significantly from those shown by participants with ADHD. The NII demonstrated high specificity (92%) to honest examinees with ADHD, but low sensitivity to simulators (8%). Most…"
     },
     {
+      "id": "10.1007/s10803-026-07407-z",
+      "title": "Psychological Flexibility, Community Resilience, and Distress in Parents of Children With Autism and Typical Development During Wartime",
+      "authors": [
+        "Shlomit Shnitzer-Meirovich",
+        "Shani Aviad",
+        "Ayelet Gur"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-08",
+      "doi": "10.1007/s10803-026-07407-z",
+      "url": "https://doi.org/10.1007/s10803-026-07407-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Abstract Purpose Parents face heightened stress during emergencies and wartime, with those raising children with autism spectrum disorder (ASD) encountering especially intensified challenges. Psychological and social resources such as psychological flexibility and community resilience (CR) may buffer against distress, yet little is known about their role under extreme conditions. This study examined differences in psychological flexibility, CR, and psychological distress (depression, anxiety, and stress) between parents of children with ASD and parents of typically developing (TD) children during the Israel–Gaza “Swords of Iron” War. Methods A total of 166 Israeli parents participated, including 80 of children with ASD and 86 of TD children, recruited online through purposive sampling. Results Results indicated that parents of children with ASD reported lower psychological flexibility and CR compared to TD parents, but groups did not differ significantly in overall distress. Moderation analysis showed that group status moderated the link between CR and distress, with CR more strongly associated with lower distress among parents of children with ASD. Conclusions These findings under…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s40489-026-00575-9",
+      "title": "A Meta-Analysis of Parental Self-Efficacy in Parents of Autistic and Non-Autistic Youth",
+      "authors": [
+        "Rita Abdel-Baki",
+        "Olivia Dobson",
+        "Ella Rigby",
+        "Kristel Thomassin"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-08",
+      "doi": "10.1007/s40489-026-00575-9",
+      "url": "https://doi.org/10.1007/s40489-026-00575-9",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1108/aia-09-2025-0098",
       "title": "Influence of family structure and functioning on emotional well-being of primary school pupils with autism spectrum disorder in Calabar-Education-Zone, Nigeria",
       "authors": [
@@ -205,6 +245,80 @@
         "lived experience"
       ],
       "abstract": "For many years, early autism interventions were developed without the involvement of autistic people. This review explores the views and experiences of autistic adults regarding psychosocial/educational interventions for young autistic children. Four databases (Web of Science Core Collection, Education Resource Information Centre, Education Database and PsycINFO) were searched; 19 studies were identified. Quality appraisal was performed using the Quality Assessment with Diverse Studies tool. Qualitative data were analysed using thematic synthesis. Quantitative data were analysed using descriptive narrative synthesis, including textual description, tabulation and a visual representation. Five themes were developed among studies with qualitative data: Hear the child’s voice, Let the child be a child, Celebrate autistic lives, Understand autistic challenge s and, finally, a cross-cutting theme, Damage done , on negative experiences of autistic people who underwent early interventions. In studies with quantitative data, autistic people endorsed well-being, adult support/accessibility and reducing harmful behaviours, and did not endorse outcomes related to reducing autism traits. We con…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261463814",
+      "title": "ADHD Individuals’ Positivity About Their Condition Varies by Their Levels of Hyperactivity/Impulsivity Versus Inattention Symptoms",
+      "authors": [
+        "Gili Katabi",
+        "Merav Huss",
+        "Steve Lukito",
+        "Tycho J. Dekkers",
+        "Edmund Sonuga-Barke",
+        "Nitzan Shahar"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-07",
+      "doi": "10.1177/10870547261463814",
+      "url": "https://doi.org/10.1177/10870547261463814",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Objective: Positive attitudes toward one’s clinical condition may contribute to resilience and well-being. Although qualitative studies suggest that individuals with attention-deficit/hyperactivity disorder (ADHD) may perceive positive aspects of their condition, no quantitative measure has been available to assess these attitudes. This study aimed to develop a self-report measure of positive attitudes toward ADHD and examine their associations with ADHD symptom dimensions. Method: Across three independent adult samples, participants completed measures assessing ADHD symptom frequency and attitudes toward their own ADHD. Positive attitudes were assessed using the newly developed Positive Attitudes Toward ADHD Scale (PATAS), which demonstrated high test–retest reliability (r = .89). The samples included participants from two language groups and an international sample spanning 24 countries. Results: Greater frequency of hyperactive/impulsive symptoms was consistently associated with more positive attitudes toward ADHD across all three samples. Inattention symptoms showed a tendency toward a negative association with positive attitudes, although this pattern was not consistent across…"
+    },
+    {
+      "id": "10.1002/aur.70303",
+      "title": "Short Report: An Examination of Children's Autism Traits and Their Association With Family Experience",
+      "authors": [
+        "Ella C. Brouwer",
+        "Melissa Susko",
+        "Charee Botha",
+        "Amedeo D'Angiulli",
+        "Eric Duku",
+        "Ana Hanlon‐Dearman",
+        "Vivian Lee",
+        "Elyse Rosa",
+        "Lonnie Zwaigenbaum",
+        "Teresa Bennett",
+        "Yun‐Ju Chen",
+        "Briano De Rezze",
+        "Irene Drmic",
+        "Julia Frei",
+        "Katholiki Georgiades",
+        "Anna Kata",
+        "Olaf Kraus De Camargo",
+        "Sherry Fournier",
+        "Stephen Gentles",
+        "Judah Koller",
+        "Jonathan Lai",
+        "Patrick McPhee",
+        "Ronit Mesterman",
+        "Caroline Roncadin",
+        "Peter Rosenbaum",
+        "Deepa Singal",
+        "Elisabeth Trinari",
+        "Stelios Georgiades",
+        "Elizabeth Kelley"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-07-07",
+      "doi": "10.1002/aur.70303",
+      "url": "https://doi.org/10.1002/aur.70303",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT The present study examined how the frequency and impact of autism traits were associated with parent‐reported family experience, with differential consideration of parental experience and overall family life. Prior research has found an association between autism traits and family functioning; however, less is known about how the impact and frequency of these traits influence family experience. We analyzed data from families of 206 young autistic children (144 boys and 62 girls), aged 2–7, using the Autism Impact Measure (AIM) and the Autism Family Experience Questionnaire (AFEQ). Hierarchical regression analysis showed that the impact of autistic traits was significantly associated with parent experience scores and that the frequency of autistic traits was significantly associated with family life scores in the first‐year post‐diagnosis. Neither child age nor gender was significantly associated with parent experience or family life. This study highlights the importance of tailoring post‐diagnosis family supports to the child's specific features and calls attention to areas for future investigation on this topic, including the exploration of longitudinal trends or demograp…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -3948,6 +4062,28 @@
       "framing": "Medical or diagnostic framing"
     },
     {
+      "id": "10.1002/aur.70280",
+      "title": "Limited Discrepancy Between Cognitive Ability and Daily Living Skills in Autism: A Longitudinal Study From Ages 2–25",
+      "authors": [
+        "Elaine B. Clarke",
+        "Catherine Lord",
+        "Vanessa H. Bal"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-02",
+      "doi": "10.1002/aur.70280",
+      "url": "https://doi.org/10.1002/aur.70280",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "ABSTRACT Many autistic individuals with average or higher cognitive abilities (also referred to as intelligence quotient; IQ) exhibit weaker than expected daily living skills (DLS). However, existing evidence is primarily cross‐sectional. This study examined: (1) how IQ‐DLS discrepancies develop from early childhood through early adulthood, (2) whether childhood factors (e.g., autism features, non‐verbal IQ) predict these developmental pathways, and (3) how IQ‐DLS discrepancy trajectories relate to adult experiences (e.g., employment, well‐being, relationships). Analyses included 92 individuals from the Longitudinal Study of Autism with average or better IQ and repeated assessments of IQ and DLS from ages 2–25 years. Developmental patterns in IQ‐DLS discrepancy scores were identified using group‐based trajectory modeling. Two trajectory groups were identified: IQ = DLS (commensurate cognitive and daily living skills) and IQ &gt; DLS (weaker DLS than expected for IQ). Most participants had commensurate IQ and DLS across development. When discrepancies emerged, they did so gradually, becoming apparent by mid‐childhood. White participants were more likely to be in the IQ &gt; DLS grou…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261446878",
       "title": "Longitudinal Association Between Social Support and Quality of Life Among Middle-Aged and Older Autistic Adults",
       "authors": [
@@ -4604,6 +4740,31 @@
       "framing": "Medical or diagnostic framing"
     },
     {
+      "id": "10.1002/aur.70267",
+      "title": "Psychological Impact of Autism Screening on Caregivers",
+      "authors": [
+        "Ramkumar Aishworiya",
+        "Devon Gangi",
+        "Van Kim Ma",
+        "Chandni Parikh",
+        "Nor Azyati Yusoff",
+        "Narueporn Likhitweerawong",
+        "Sally Ozonoff"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70267",
+      "url": "https://doi.org/10.1002/aur.70267",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Autism screening in childhood is common, yet little is known about its potential psychological impact on caregivers. The U.S. Preventive Services Task Force, an independent national panel of disease prevention experts, stated that this gap in knowledge limited their ability to endorse universal autism screening. This study examined the psychological impact of autism screening, using data from a large community‐based sample ( n = 1272) involving online caregiver‐completed autism screeners at child age 6, 9, 12, 18, and 24 months. Caregivers completed the Participation Impact Questionnaire retrospectively (mean child age at completion 37.2 ± 4.8 months) to measure feelings about screening. A minority (34.7%) of the sample reported presence of ≥ 1 negative feeling; the most commonly endorsed was “worried”. Among this subset, negative feelings were of short duration (lasted for &lt; 1 day in 56.9%), were mild in severity (86.4%), and did not affect functioning (85.3%). A majority (86.2%) also reported ≥ 1 positive feeling. Our findings address a critical evidence gap regarding potential harms of autism screening and support universal screening, given that psychological harms a…"
+    },
+    {
       "id": "10.1002/aur.70261",
       "title": "Physical Fitness Profiles Among Children and Adolescents With\n                    <scp>ADHD</scp>\n                    and\n                    <scp>ASD</scp>\n                    : A Comparison With Typically Developing Peers",
       "authors": [
@@ -4806,6 +4967,67 @@
         "Quality of life"
       ],
       "abstract": "ABSTRACT Autistic adolescents often report lower social and overall quality of life (QoL) associated with limited social skills and behavioral challenges. Awareness of social limitations and social anxiety can worsen QoL, yet the specific roles of these factors remain underexplored. This study examined how social skills, challenging behaviors, social anxiety, and self‐perceived social competence influence QoL in autistic adolescents. A total of 117 autistic participants (age = 12.6 ± 2.2 years; female = 13.7%, male = 86.3%) completed measures including the Pediatric Quality of Life Inventory, the Social Anxiety Scale for Adolescents, and the Self‐Perception Profile for Children/Adolescents Social Competence Subscale. Caregivers assessed social skills and challenging behaviors using the Social Skills Improvement System Rating Scales. Linear regressions, controlling for age, sex, and autistic characteristics, revealed that lower overall QoL was significantly associated with higher social anxiety ( β = −0.48, p &lt; 0.001), lower perceived social competence ( β = 0.21, p &lt; 0.05), and more challenging behaviors ( β = −0.24, p &lt; 0.01) among autistic adolescents. Furthermore, lower…"
+    },
+    {
+      "id": "10.1002/aur.70269",
+      "title": "Vicarious Perception of Touch in\n                    <scp>ASD</scp>\n                    : The Role of Empathy and Touch Experiences",
+      "authors": [
+        "Ana Rita Pereira",
+        "Marta Pozo‐Rodríguez",
+        "A. Ribeiro‐Carreira",
+        "Alberto J. González‐Villar",
+        "Sabela Conde‐Pumpido Zubizarreta",
+        "María Tubío‐Fungueiriño",
+        "Angel Carracedo",
+        "Montse Fernández‐Prieto",
+        "Adriana Sampaio"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70269",
+      "url": "https://doi.org/10.1002/aur.70269",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT C‐Tactile (CT) targeted affective touch plays a central role in social cognition and emotional development. In autism, atypical sensory processing, particularly in response to tactile stimulation, has frequently been reported. Autistic individuals have been shown to exhibit altered perception and reduced hedonic evaluation of affective touch, as well as increased defensive responses. Despite these differences in direct touch, the perception of vicarious social touch or its connection to social and emotional constructs remains poorly explored. Vicarious touch is theoretically relevant because it recruits social‐cognitive and affective mechanisms beyond primary somatosensory processing; however, most prior studies have focused on neural correlates in neurotypical adults, with limited behavioral investigation and scarce evidence in autistic populations. The present study evaluated how autistic and non‐autistic adolescents and young adults perceive vicarious social touch. Participants observed videos depicting touch delivered at three different speeds (static, CT‐optimal, and fast) and across five skin locations (back, upper arm, ventral forearm, dorsal forearm, and palm). Par…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70260",
+      "title": "Change Trajectories During Parent–Child Interaction Therapy for Autistic Children and Their Caregivers",
+      "authors": [
+        "Catherine A. Burrows",
+        "William Andrew Rothenberg",
+        "Dainelys Garcia",
+        "Abigail Peskin",
+        "Maria Jimenez‐Muñoz",
+        "Eileen Davis",
+        "Jason F. Jent",
+        "Meaghan V. Parladé"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-06-01",
+      "doi": "10.1002/aur.70260",
+      "url": "https://doi.org/10.1002/aur.70260",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT Disruptive behaviors (non‐compliance, aggression) are common in autistic children. Parent–Child Interaction Therapy (PCIT) is a caregiver‐mediated intervention utilizing in vivo caregiver coaching that reduces disruptive behaviors and has been shown to be effective for young autistic children. This study sought to identify child and caregiver factors that relate to session‐level progress among autistic children and their caregivers. Participants included 98 autistic children aged 2–8 years (91% male) who received PCIT in a university‐affiliated clinic. Session‐level change was examined using iterative multilevel modeling to examine change in child disruptive behaviors, as measured on the Eyberg Child Behavior Inventory (ECBI), caregiver positive attending skills (Do‐skills), and caregiver negative statements (Avoid‐skills). Optimal fitting trajectories revealed quadratic change in ECBI scores, Do‐skills, and Avoid‐skills. The effectiveness of PCIT did not differ based on participants' level of autistic traits or caregiver demographics. Improvements in child disruptive behavior were associated with child adaptability and parenting stress pre‐treatment; higher adaptability a…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261448516",
@@ -5066,60 +5288,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1186/s11689-026-09698-w",
-      "title": "Early developmental trajectories associated with different styles and intensities of ESDM-based community intervention",
-      "authors": [
-        "Liliana Ruta",
-        "Elisa Leonardi",
-        "Cristina Carrozza",
-        "Francesca I. Famà",
-        "Agrippina Campisi",
-        "Stefania Aiello",
-        "C Blandino",
-        "I Boccafoschi",
-        "M Boncoddo",
-        "M Bruschetta",
-        "I Crimi",
-        "F Di Bella",
-        "G Lazzaro",
-        "S Martines",
-        "A Orsina",
-        "M.G. Rosano",
-        "Flavia Marino",
-        "Alfia Ruggieri",
-        "Sabrina Baieli",
-        "Daniela Mangiapane",
-        "Gaetano Vivona",
-        "Sebastiano Marciante",
-        "Gaspare Cusimano",
-        "Antonio Narzisi",
-        "Filippo Muratori",
-        "Antonella Gagliano",
-        "Costanza Colombi",
-        "Gennaro Tartarisco",
-        "Marilina Mastrogiuseppe",
-        "Sally J. Rogers",
-        "Michael V. Lombardo",
-        "Giovanni Pioggia"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-29",
-      "doi": "10.1186/s11689-026-09698-w",
-      "url": "https://doi.org/10.1186/s11689-026-09698-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Background The Early Start Denver Model (ESDM) is a naturalistic developmental behavioral intervention (NDBI) widely used to support early development in young autistic children. This study examines early developmental trajectories associated with different styles and intensities of ESDM-based intervention compared with community Therapy as Usual (TAU) over a 6-month period. It also explores predictors of individual language development based on the intervention style. Methods A total of 112 autistic children participated in the study and were assessed longitudinally while receiving either higher (6 h a week) or lower (3 h a week) intensity ESDM, or TAU at higher (6 h a week) intensity ( N = 29, 32, and 51 participants in each group, respectively). Results The primary findings show that children receiving higher-intensity ESDM exhibited steeper developmental trajectories than children receiving TAU in all the developmental areas such as Language, Personal-Social skills, Performance, Eye-Hand coordination and the General score. Notably, lower-intensity ESDM was associated with steeper developmental gains in individual general development, language, personal social skills, a…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07353-w",
       "title": "First Impressions Count: A Systematic Literature Review Exploring Parents of Autistic Children’s First Encounters With Healthcare Professionals",
       "authors": [
@@ -5264,30 +5432,6 @@
         "communication"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1186/s11689-026-09710-3",
-      "title": "Executive function and implications for the Preterm Behavioral Phenotype in very preterm children at age 9–10 years",
-      "authors": [
-        "Rachel E. Lean",
-        "Berenice Anaya",
-        "Lisa Gorham",
-        "Christopher D. Smyser",
-        "Cynthia E. Rogers"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-28",
-      "doi": "10.1186/s11689-026-09710-3",
-      "url": "https://doi.org/10.1186/s11689-026-09710-3",
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Background Children born very preterm (VPT) have greater executive function (EF) challenges and internalizing, inattention, and social communication-interaction differences (the Preterm Behavioral Phenotype [PBP]) than full-term (FT) children. EF and PBP outcomes for VPT children with white matter injury (WMI) are less well understood. Furthermore, the extent that EF challenges serve as a neurocognitive mechanism for the PBP is unknown. Methods As part of a longitudinal study, 123 VPT infants (≤ 30 weeks gestation) were recruited from a level-III neonatal intensive care unit and underwent developmental follow-up at ages 5 and 9–10 years. Forty-four VPT infants had high-grade WMI. Seventy-nine FT control children were also included. At the 5 and 9–10 year follow-up, children completed EF tasks tapping short-term/working memory, inhibitory control, and flexibility/shifting, which were combined into an EF composite at each timepoint. Parents and children also completed measures assessing children’s attention-deficit/ hyperactivity, internalizing/anxiety, and social communication-interaction outcomes to generate parent- and child-informant PBP composites at age 9–10 years. Ser…"
     },
     {
       "id": "10.1007/s10803-026-07369-2",
@@ -5739,6 +5883,32 @@
         "communication"
       ],
       "abstract": "Abstract Purpose Caregivers of children with neurodevelopmental conditions often experience poor mental wellbeing, which may be influenced by their child’s behavioural or communicative profile. Few studies have focussed exclusively on caregivers of minimally verbal (MV) children—a heterogeneous group who share limited access to spoken language but vary in communicative competence and primary diagnosis. In this population, caregiver wellbeing may be associated with a child’s ability to communicate their wants and needs via any modality. Methods We examined associations between child communicative competence and caregiver wellbeing in a transdiagnostic sample of school-age MV children (n = 193, mean age 7.6-years, 73% male) and their caregivers (91% mothers). General positive wellbeing was assessed using a brief, well-validated tool designed for the general population. A second measure—developed for parents of autistic children—captured caregiver-specific wellbeing and family life satisfaction. Child communicative competence combined caregiver-reported social communication challenges and early communication skills with observed measures of communicative intent and sophistication. Ana…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70276",
+      "title": "Examining the Validity and Reliability of Evaluation in Ayres Sensory Integration Data Collected With Autistic Children: A Rasch Analysis",
+      "authors": [
+        "Patricia Grady‐Dominguez",
+        "Anita C. Bundy",
+        "Zoe Mailloux",
+        "Roseann C. Schaaf"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-05-20",
+      "doi": "10.1002/aur.70276",
+      "url": "https://doi.org/10.1002/aur.70276",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Performance‐based assessments of sensory function provide essential insights into sensory integration challenges in autistic children and provide objective, standardized measurement data that can be used to tailor targeted interventions. We sought to evaluate the validity and reliability of data collected using the Evaluation in Ayres Sensory Integration (EASI) for assessing sensory and motor functions in autistic children. We used the Rasch Measurement Model to evaluate data collected with 146 autistic children aged 3–12 years (United States: n = 24, Australia: n = 115, Brazil: n = 7). We analyzed 19 performance‐based tests assessing sensory perception, praxis, and motor functions. Rasch analyses examined item fit, unidimensionality, item targeting, and internal reliability. Seventeen of 19 analyzed EASI tests demonstrated strong construct validity, with adequate item‐fit and unidimensionality. Fourteen tests met reliability thresholds (person separation reliability ≥ 0.70), while five tests exhibited lower person separation reliability. Some tests showed poor item targeting, potentially limiting their precision for children with stronger sensorimotor abilities. Most EASI…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6337,29 +6507,6 @@
       "domains": [
         "Education"
       ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1186/s11689-026-09704-1",
-      "title": "Emotion regulation and self-inhibition’s association with mental health outcomes, caregiver strain, and well-being in parents of autistic children: a dyadic analysis",
-      "authors": [
-        "Leonardo Dominguez Ortega",
-        "Alexandra Sturm",
-        "Meghan M. Krushena",
-        "Amanda C. Gulsrud"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-08",
-      "doi": "10.1186/s11689-026-09704-1",
-      "url": "https://doi.org/10.1186/s11689-026-09704-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Background Parents of autistic children report more depression, anxiety, and caregiver strain, and poorer well-being than parents of non-autistic children. Though more research has begun to investigate how parent-specific factors may influence these outcomes, few consider cognitive factors like emotion regulation or self-inhibition. These skills may be particularly relevant given their documented benefits and associations with mental health and well-being in the general population. An important consideration when investigating the needs of parents is the interconnectedness of the family unit. Thus, methodologies that consider this shared context are essential to appropriately support resilience of parents of autistic children. Methods Our sample consisted of 263 different-sex parent dyads with at least one child formally diagnosed with autism spectrum disorder. Using the Actor-Partner Interdependence Model, we assessed the links between parents’ emotion regulation and self-inhibition and their own and their partner’s depression and anxiety symptoms, caregiver strain, and well-being. Interdependence was established using correlations given the distinguishable nature of our…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7096,6 +7243,31 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -7121,31 +7293,6 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7614,6 +7761,32 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1002/aur.70215",
+      "title": "Compulsion Profile Differences Indicate Distinct Functional Mechanisms in Autistic and Non‐Autistic University Students",
+      "authors": [
+        "Gil Zukerman",
+        "Ester Ben–Itzchak"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1002/aur.70215",
+      "url": "https://doi.org/10.1002/aur.70215",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Autistic individuals often exhibit high rates of obsessive‐compulsive symptoms (OCS), yet traditional cognitive‐behavioral therapy (CBT), especially exposure and response prevention (ERP), tends to be less effective for them. This may be due to differences in the function of compulsive behaviors: while OCD‐related compulsions are typically ego‐dystonic and aimed at reducing anxiety, autistic compulsions may be ego‐syntonic, serving regulatory or sensory modulation purposes. This study investigated whether compulsions in autism are more aligned with regulation and sensory modulation than with anxiety reduction. Participants included 39 autistic university students, 25 non‐autistic students with high OCS, and 25 non‐autistic students with low OCS. A factor analysis of seven binary items from the Yale–Brown Obsessive‐Compulsive Scale (Y‐BOCS‐I) revealed two factors explaining 58% of the variance. The first factor showed high loadings for Repetition, Counting, and Hoarding compulsions, reflecting regulatory and sensory modulation processes. The second factor showed high loadings for checking and organizing compulsions that were previously associated with anxiety reduction. Chi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/10870547261438171",
       "title": "Psychometric Evaluation of the Spanish Translation of the Disruptive-Behavior Disorder Rating Scale",
       "authors": [
@@ -8070,35 +8243,6 @@
         "ADHD"
       ],
       "abstract": "Objective: Previous research has revealed that individuals with ADHD exhibit difficulties in social functioning including obtaining and maintaining quality friendships. Cognitive disengagement syndrome (CDS) symptoms and internalizing symptoms frequently co-occur with ADHD symptoms and negatively influence social functioning, yet relatively little is known about how these symptoms uniquely relate to friendship features. Methods: The present study sought to examine associations among these variables in a large, multi-site sample of emerging adults. Participants ( N = 4,756; 18–29 years; 72.7% female; 79.8% White) enrolled in five universities in the United States completed measures of ADHD, CDS, internalizing symptoms, and friendship features. Results: Moderated conditional effects modeling revealed that internalizing symptoms accounted for significant variance in the association between ADHD symptoms and friendship features in all models. CDS symptoms were a significant moderator of the association between ADHD symptoms and friendship features (both positive and negative) such that there was a weaker association between ADHD symptoms and friendship impairment at higher levels of CD…"
-    },
-    {
-      "id": "10.1186/s11689-026-09695-z",
-      "title": "Prevalence and age of diagnosis of neurodevelopmental conditions among Asian populations in Aotearoa New Zealand",
-      "authors": [
-        "Noriko K. Panther",
-        "Nicholas Bowden",
-        "Joanna Chu",
-        "Stephanie D’Souza",
-        "Sujata Saha",
-        "Hiran Thabrew",
-        "Laurie K. McLay"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-23",
-      "doi": "10.1186/s11689-026-09695-z",
-      "url": "https://doi.org/10.1186/s11689-026-09695-z",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose Asian populations are among the fastest-growing ethnic groups in Aotearoa New Zealand (NZ), yet little is known about the prevalence of neurodevelopmental conditions (NDCs) within these communities. The study compared the prevalence and age of diagnosis of NDCs (Attention Deficit Hyperactivity Disorder [ADHD], autism, communication and language disabilities [CLDs], intellectual disability [ID], motor disabilities [MDs], and specific learning disabilities [SLDs]) between NZ-born Asian and non-Asian populations, and differences across Asian subgroups. Methods A national cross-sectional analysis was conducted using linked administrative microdata from the Integrated Data Infrastructure, covering the 2021/22 estimated resident population aged 0–24 years ( N = 1,334,247). Following adjustment for socioeconomic factors, standardized NDC rates were calculated for Asian and non-Asian populations and Asian subgroups (Indian, Chinese, Southeast Asian, and Other Asian). Results Lower standardized rates of NDCs were identified among Asian (2.85%, 95% CI [2.77, 2.94]) compared to non-Asian (4.52%, 95% CI [4.49, 4.56]) participants. Most notably, rates of ADHD (1.1%, 95% CI [1.0…"
     },
     {
       "id": "10.1177/25739581261442064",
@@ -9337,6 +9481,22 @@
         "Healthcare"
       ],
       "abstract": "Objective: Adaptive behavior relies on a dynamic balance between flexible, goal-directed control, and efficient, automatic processes. This equilibrium is often disrupted in ADHD, a condition understood to exist along a continuum of traits in the general population. While ADHD is consistently linked to response inhibition deficits, its relationship with statistical learning (a mechanism for habit learning) and, crucially, the interaction between these functions, remains underexplored. Methods: Here, using a novel paradigm in a non-clinical sample of university students ( n = 226), we investigated how ADHD-like traits modulate the interplay between response inhibition and statistical learning. Results: We found that higher ADHD-like traits were associated with poorer response inhibition, confirming previous research. Importantly, we uncovered an antagonistic relationship between inhibition and statistical learning, where weaker inhibitory control typically led to enhanced learning of environmental regularities. However, this learning advantage progressively diminished across the ADHD trait continuum, becoming markedly reduced in individuals with high symptom prevalence. Conclusion: T…"
+    },
+    {
+      "id": "10.1002/aur.70223",
+      "title": "Correction to “The Vulnerability Experiences Quotient (\n                    <scp>VEQ</scp>\n                    ): A Study of Vulnerability, Mental Health and Life Satisfaction in Autistic Adults”",
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-04-01",
+      "doi": "10.1002/aur.70223",
+      "url": "https://doi.org/10.1002/aur.70223",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00551-3",
