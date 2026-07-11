@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T09:53:24Z",
+  "generated_at": "2026-07-11T08:14:42Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -132,24 +132,28 @@
       "abstract": "Objective: The role of metacognitive monitoring, or the subjective evaluation of performance during cognitive tasks, has been less well studied in children with ADHD compared to accuracy or performance on these tasks. Given that children with ADHD often display lower performance on cognitive tasks, particularly those involving executive attention and control, we examined whether metacognitive monitoring differed between children with ADHD and neurotypical children. Method: Eighty children aged 8–12 years (38 with ADHD, 42 neurotypical) completed a battery of cognitive tasks, including measures of intelligence, executive functioning (set-shifting and interference control), and an unstructured performance task (UPT). After each task, participants provided ratings of task difficulty and effort (how hard they tried). Results and Conclusion: Children with ADHD reported overall lower effort across cognitive tasks compared to neurotypical children; however, no group differences were found on task difficulty ratings. Metacognitive ratings of effort were significantly associated across performance tasks, suggesting that the degree of trying may reflect a trait-level factor. Ratings of task…"
     },
     {
-      "id": "10.1177/10870547261427112",
-      "title": "Susceptibility of the CAARS-2 Self-Report to Sophisticated Malingering",
+      "id": "10.1007/s10803-026-07434-w",
+      "title": "Using Behavioral Skills Training to Teach Caregivers to Implement Mand Training With Their Children With Autism Spectrum Disorders: A Systematic Review of the Single Case Research",
       "authors": [
-        "Robert Weis",
-        "Avery M. Sund"
+        "Miguel E. Ampuero",
+        "Savannah J. Courtenay"
       ],
-      "journal": "Journal of Attention Disorders",
+      "journal": "Journal of Autism and Developmental Disorders",
       "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/10870547261427112",
-      "url": "https://doi.org/10.1177/10870547261427112",
+      "published_date": "2026-07-11",
+      "doi": "10.1007/s10803-026-07434-w",
+      "url": "https://doi.org/10.1007/s10803-026-07434-w",
       "neurotype": [
-        "ADHD"
+        "Autism"
       ],
       "domains": [
-        "Healthcare"
+        "Communication"
       ],
-      "abstract": "Objective: The Conners Adult ADHD Rating Scales Second Edition (CAARS-2) is a norm-referenced screening measure of ADHD symptoms and associated clinical concerns in adults. Unlike its predecessor, the CAARS-2 features a Negative Impression Index (NII) to detect unrealistically negative ratings or an exaggerated description of problems. Data presented in the CAARS-2 manual indicate that the NII differentiates simulators and adults with genuine ADHD with high accuracy, sensitivity, and specificity. Methods: We attempted to replicate these findings by conducting a simulation study with 222 adults with and without ADHD. Unlike the original studies, however, simulators were provided a plausible reason for feigning ADHD, coached to simulate and warned to avoid detection, and incentivized for credibly feigning. Results: On average, simulators earned significant elevations on CAARS-2 scales assessing the number and severity of DSM inattentive and hyperactive-impulsive symptoms. Simulators’ DSM scores did not differ significantly from those shown by participants with ADHD. The NII demonstrated high specificity (92%) to honest examinees with ADHD, but low sensitivity to simulators (8%). Most…"
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose This review investigated the efficacy of behavioral skills training (BST) when training caregivers to teach mand skills to their children with autism. Additionally, this review evaluated aspects of BST to increase its efficacy and time efficiency. This review addressed five questions: (1) what are the effects of BST when teaching caregivers to implement procedures to teach manding skills to their children with autism? (2) do caregiver-implemented procedures produce maintenance and generalization of communicative responses by their children? (3) what are the effects of booster training? (4) what is the BST training time or sessions to mastery reported across studies to reach optimal performance by caregivers? and (5) what are the settings in which BST training was delivered to caregivers? Method Using academic databases (PsychINFO, ERIC), this review assessed peer-reviewed articles that evaluated BST to train caregivers to implement communication procedures using single-case designs. The initial search resulted in 1,394 articles. Results 14 studies met inclusion criteria in this review. Conclusion Results suggested the efficacy of BST procedures during the training…",
+      "framing": "Person-first language used"
     },
     {
       "id": "10.1007/s10803-026-07418-w",
@@ -220,6 +224,23 @@
       ],
       "abstract": "Abstract Purpose Despite growing recognition of autism spectrum disorder (ASD) in the Gulf region, little is known about how caregiver characteristics relate to ASD-related knowledge and quality of life (QoL) in Kuwait. This study examined the association between demographic factors and both ASD-related knowledge and caregiver QoL among family caregivers of children and adolescents with ASD. Methods A cross-sectional survey was conducted with 130 unpaid family caregivers of children and adolescents with a confirmed ASD diagnosis in Kuwait. Participants completed a demographic questionnaire, the Autism Spectrum Disorder Parent/Caregiver Quality of Life questionnaire (ASDPC-QoL), and a 31-item ASD knowledge questionnaire. Chi-square tests, independent-samples t tests, and one-way ANOVAs were used to examine group differences. Results Most participants were mothers (68.5%) and female (82.3%). Mean knowledge was 50.7% (SD = 19.2), with 64.6% classified as having poor knowledge. Misconceptions were most prevalent regarding curability, vaccination, and exceptional abilities. Mean overall QoL was 64.7 (SD = 14.5) on a 0–100 scale, with preoccupations scoring lowest. Higher income and educ…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2697948",
+      "title": "Technology-based versus traditional reading comprehension interventions for autistic children and adolescents: a meta-analysis",
+      "authors": [
+        "Lara Delgado",
+        "Michael Hast"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-07-10",
+      "doi": "10.1080/20473869.2026.2697948",
+      "url": "https://doi.org/10.1080/20473869.2026.2697948",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07419-9",
@@ -7947,35 +7968,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1002/aur.70217",
-      "title": "Parenting Stress and Stressful Life Events Among Caregivers of Toddler Siblings of Autistic and Non‐Autistic Children",
-      "authors": [
-        "Jennifer E. Magnuson",
-        "Lucy S. King",
-        "Jacob I. Feldman",
-        "S. Madison Clark",
-        "Grace Pulliam",
-        "Kacie Dunham‐Carr",
-        "Alexandra Golden",
-        "Bahar Keçeli‐ Kaysılı",
-        "Kathryn L. Humphreys",
-        "Tiffany G. Woynaroski"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70217",
-      "url": "https://doi.org/10.1002/aur.70217",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT This study measured experiences of parenting stress and stressful life events in caregivers of families with a toddler who has either an autistic or non‐autistic older sibling(s). Caregivers of toddlers (12–18 months old) with older autistic siblings (Sibs‐autism; n = 58) and toddlers with older non‐autistic siblings (Sibs‐NA; n = 46) completed questionnaires assessing stress related to parenting their toddler and their exposure to stressful life events since their toddler's birth. We compared levels of parenting stress and stressful life events between caregivers of Sibs‐autism and Sibs‐NA and examined the association between these measures. Caregivers of Sibs‐autism reported significantly higher levels of parenting stress and stressful life events relative to caregivers of Sibs‐NA, with small to moderate effects. Parenting stress and stressful life events were moderately correlated. Across these groups of caregivers, parenting stress and stressful life events appear to be related, but partially distinct aspects of caregiver stress. These findings highlight the importance of assessing multiple aspects of stress to better understand how stress may influence both caregiver…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10870547261438171",
       "title": "Psychometric Evaluation of the Spanish Translation of the Disruptive-Behavior Disorder Rating Scale",
       "authors": [
@@ -11033,70 +11025,6 @@
       ],
       "abstract": "Abstract Despite growing awareness of autism across the lifespan, the transition to adulthood remains relatively neglected. Autistic young adults and young adults with many autistic traits (the broader autism phenotype) sometimes face numerous challenges. To clarify how gender imbalance manifests across study areas and populations, the present scoping review examined potential gender bias in autism research involving young adults. This review is the first to systematically chart gender and gender-minority representation across ASD and autistic-trait research in this population. We mapped gender representation across 602 studies over time and across subject areas, intellectual levels, and geographical regions: an angle not previously synthesized. The results illustrate the widespread, severe neglect of gender minorities. Female representation in autism research steadily increased over time. Still, almost half of the studies recruited fewer women than expected (male-to-female ratio 4:1), and 50 studies included only males. In contrast, autistic trait research showed a slight bias toward females. These findings highlight uneven progress toward gender inclusivity and underscore the nee…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07287-3",
-      "title": "Adult Clinical Outcomes, Diagnostic Loss and Predictors in Individuals Diagnosed With Autism in Childhood",
-      "authors": [
-        "Kübra Özmeral Erarkadaş",
-        "Müjdat Erarkadaş",
-        "Akın Altuğ Özboduroğlu",
-        "Şahika Gülen Şişmanlar"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-12",
-      "doi": "10.1007/s10803-026-07287-3",
-      "url": "https://doi.org/10.1007/s10803-026-07287-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose Increasing numbers of individuals diagnosed with autism spectrum disorder (ASD) in childhood are now reaching adulthood, yet knowledge of their long-term outcomes remains limited. This study evaluated adult clinical characteristics, outcomes, and prognostic factors in individuals diagnosed with ASD in childhood. Methods Eighty-seven adults participated, including five (5.7%) in whom loss of autism diagnosis (LAD) was identified. The remaining participants ( n = 82) were classified by their initial childhood diagnoses: autistic disorder (49.4%), pervasive developmental disorder–not otherwise specified (20.7%), and Asperger’s syndrome (24.7%). Adult outcomes were assessed using a structured functional and psychosocial rating system. Results Subtypes differed significantly in age at first sentence, regression history, age at diagnosis, and initiation of special education. Individuals with Asperger’s syndrome and LAD had higher university attendance and graduation rates. Overall outcomes were very poor (5.7%), poor (55.2%), fair (24.2%), good (8%), and very good (6.9%), with significant group differences. Poor outcomes were significantly more frequent among individuals…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07239-x",
-      "title": "Autism Screening Using Parent’s Observations of Social Interactions (POSI) in High-Risk Infants",
-      "authors": [
-        "Lydia Vielmetti",
-        "Aarabhi Rajagopal",
-        "Robin Manus",
-        "Sharon Veis",
-        "Raye-Ann deRegnier"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-12",
-      "doi": "10.1007/s10803-026-07239-x",
-      "url": "https://doi.org/10.1007/s10803-026-07239-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose The Parent’s Observations of Social Interactions (POSI) is a brief, targeted screening measure for autism spectrum disorder (ASD). There is minimal data on its use in infants at high risk for developmental delays. The objective was to evaluate the use of the POSI as an ASD screener in a cohort of infants at high risk for neurodevelopmental impairments. Our hypothesis was that positive POSI scores would be associated with developmental delays and the later diagnosis of ASD. Methods This retrospective cohort study included toddlers born between 2016 and 2019 assessed using the POSI and Bayley Scales of Infant and Toddler Development (BSITD) at 18–33 months corrected age. Children with positive and negative POSI screens were compared for developmental delays, cerebral palsy, and later diagnoses of ASD by a developmental pediatrician as noted in the electronic health record. Results Positive POSI scores were noted in 106/291 (36.4%) children, with 25/291 (8.6%) subsequently diagnosed with ASD. Toddlers with a positive score were more likely to have developmental delays and cerebral palsy compared with those with negative scores. The sensitivity of a positive POSI score…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s40489-026-00543-3",
-      "title": "Eye-tracking Joint Attention Tasks in Autistic Children: A Review",
-      "authors": [
-        "Christy D. Yoon",
-        "Hedda Meadan",
-        "Frederick Shic"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-12",
-      "doi": "10.1007/s40489-026-00543-3",
-      "url": "https://doi.org/10.1007/s40489-026-00543-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract This review provides an overview of eye-tracking tasks used to investigate joint attention (JA) in autistic children by examining key methodological dimensions, including the structure of the JA probe, design of the JA task, and gaze metrics derived to quantify JA. A systematic search was conducted following the PRISMA guidelines. A total of 26 studies were included in this review. The findings highlight a heavy focus on responding to joint attention (RJA), with limited emphasis on initiating joint attention (IJA). There was a clear preference for dynamic yet non-interactive social stimuli without environmental context, accompanied by variability in deictic cues for RJA and prompts for IJA tasks. Nine gaze metrics were identified, showing variability in their computation and prerequisites. These findings have implications for the conceptualization, design, and refinement of JA eye-tracking tasks and their applications for autistic children.",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
