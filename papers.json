@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T08:14:42Z",
+  "generated_at": "2026-07-12T08:31:55Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -132,6 +132,29 @@
       "abstract": "Objective: The role of metacognitive monitoring, or the subjective evaluation of performance during cognitive tasks, has been less well studied in children with ADHD compared to accuracy or performance on these tasks. Given that children with ADHD often display lower performance on cognitive tasks, particularly those involving executive attention and control, we examined whether metacognitive monitoring differed between children with ADHD and neurotypical children. Method: Eighty children aged 8–12 years (38 with ADHD, 42 neurotypical) completed a battery of cognitive tasks, including measures of intelligence, executive functioning (set-shifting and interference control), and an unstructured performance task (UPT). After each task, participants provided ratings of task difficulty and effort (how hard they tried). Results and Conclusion: Children with ADHD reported overall lower effort across cognitive tasks compared to neurotypical children; however, no group differences were found on task difficulty ratings. Metacognitive ratings of effort were significantly associated across performance tasks, suggesting that the degree of trying may reflect a trait-level factor. Ratings of task…"
     },
     {
+      "id": "10.1007/s10803-026-07409-x",
+      "title": "Unmasking: A Mixed-Methods Study of Autistic College Students’ Efforts to Stop Masking/Camouflaging",
+      "authors": [
+        "Deanna L. Durben"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-11",
+      "doi": "10.1007/s10803-026-07409-x",
+      "url": "https://doi.org/10.1007/s10803-026-07409-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Autistic individuals often mask/camouflage to conceal their autistic traits, but this practice is stressful and damaging to mental health. Unmasking, a newly identified phenomenon, is the deliberate effort to stop masking and reclaim a more authentic self-presentation. This study is the first to examine autistic people’s experiences with unmasking and its mental health implications. Methods Interviews ( n = 14) and surveys ( n = 214) examined autistic college students’ understanding of unmasking, experiences and motivations, and impacts on mental health. Results The majority of participants in both samples had heard of unmasking, and half had tried it. Interviewees showed substantial variation in ability and willingness to unmask. Unmasking was difficult-to-impossible when masking was highly ingrained, as deconstructing masking repertoires and rediscovering their “true selves” was challenging. Unmasking relieved stress from masking and increased authenticity, but also created worries that revealing a more autistic self-presentation would garner social backlash, unless supported by friends or other unmaskers. Survey respondents’ unmasking frequency was overall low,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07434-w",
       "title": "Using Behavioral Skills Training to Teach Caregivers to Implement Mand Training With Their Children With Autism Spectrum Disorders: A Systematic Review of the Single Case Research",
       "authors": [
@@ -154,6 +177,64 @@
       ],
       "abstract": "Abstract Purpose This review investigated the efficacy of behavioral skills training (BST) when training caregivers to teach mand skills to their children with autism. Additionally, this review evaluated aspects of BST to increase its efficacy and time efficiency. This review addressed five questions: (1) what are the effects of BST when teaching caregivers to implement procedures to teach manding skills to their children with autism? (2) do caregiver-implemented procedures produce maintenance and generalization of communicative responses by their children? (3) what are the effects of booster training? (4) what is the BST training time or sessions to mastery reported across studies to reach optimal performance by caregivers? and (5) what are the settings in which BST training was delivered to caregivers? Method Using academic databases (PsychINFO, ERIC), this review assessed peer-reviewed articles that evaluated BST to train caregivers to implement communication procedures using single-case designs. The initial search resulted in 1,394 articles. Results 14 studies met inclusion criteria in this review. Conclusion Results suggested the efficacy of BST procedures during the training…",
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1177/25739581261462082",
+      "title": "Validating the Academic Learning Experiences Questionnaire: Microtransitions, Sensory Reactivity, and Cognitive-Attentional Dimensions in Autistic University Students",
+      "authors": [
+        "Sophie Anns",
+        "Clare Davis",
+        "Jess Millington",
+        "Jenny Terry"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-07-11",
+      "doi": "10.1177/25739581261462082",
+      "url": "https://doi.org/10.1177/25739581261462082",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "sensory"
+      ],
+      "abstract": "Background: The number of autistic students entering higher education (HE) has increased, yet many continue to face systemic barriers that can hinder their academic success. Despite their unique cognitive strengths, such as hyperfocus, attention to detail, and strong analytical skills, many autistic students report challenges with academic learning experiences. This study aimed to develop and validate the Academic Learning Experiences Questionnaire (ALEQ), a tool designed to assess specific learning experiences and inform autism-inclusive educational practices. Methods: We cocreated the ALEQ with autistic and nonautistic students to assess learning experiences across five academic contexts: small and large group teaching, examinations, coursework, and self-directed study. A total of 829 university students (formally diagnosed autistic: n = 106; self-diagnosed autistic: n = 112; nonautistic: n = 611) completed an online survey comprising the ALEQ and an autism screening measure (Social Responsiveness Scale-2). To establish the ALEQ’s psychometric properties, we conducted exploratory and confirmatory factor analyses and tested for measurement invariance between the autistic and nonau…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261462070",
+      "title": "Defining Autistic Flourishing: Exploring Lived Experiences through a Neurodivergent Lens",
+      "authors": [
+        "Åsa Hedlund",
+        "Therese Lindström",
+        "Sven Bölte",
+        "Melissa H. Black",
+        "Tatja Hirvikoski",
+        "Kajsa Isakson",
+        "Danielle Unéus",
+        "Cecilia Ingard",
+        "Jonas Wik",
+        "Hanna Bertilsdotter Rosqvist"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-07-11",
+      "doi": "10.1177/25739581261462070",
+      "url": "https://doi.org/10.1177/25739581261462070",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience",
+        "participatory"
+      ],
+      "abstract": "Background: Autism has historically been conceptualized in ways that exclude the possibility of flourishing or a “good life.” However, shifts in our understanding of autism, alongside a more recent discourse driven primarily by the voices of autistic people, have highlighted that many autistic people can flourish according to their subjectively determined standards. The application of neuronormative ideas of what it means to live a good life is increasingly challenged. This study, led by neurodivergent researchers, examines autistic flourishing from the perspective of autistic adults. Methods: This co-produced phenomenological study sought to explore autistic perspectives on flourishing. We interviewed a total of 29 autistic adults one to four times each, either through focus groups, individual oral interviews, or written responses. We analyzed the interview data using qualitative reflexive thematic analysis. Results: Participants described their definitions of flourishing, both short and long terms. They included personal growth, connection, and self-determination, as well as opportunities for experiencing pleasure. Based on the insights of autistic adults, we understand autistic…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07418-w",
@@ -7555,6 +7636,31 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -7580,31 +7686,6 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7936,36 +8017,6 @@
       ],
       "abstract": "ABSTRACT Adverse childhood experiences (ACEs) are potentially traumatic, life‐altering events that occur in childhood with long‐term negative physical and/or mental health outcomes. Previous research, while limited and largely focused on males, suggests children with autism spectrum disorder (ASD) are at higher risk of experiencing ACEs than typically developing (TD) peers. The study aimed to enhance our understanding of ACEs by focusing on female participants comparing diagnostic (ASD, TD), developmental (age, puberty), and mental health (anxiety, depression) factors. Participants included 212 female children with ASD ( N = 112) or TD ( N = 100) between 6:0 to 12:11 years. Following diagnostic testing, the 10‐item ACEs questionnaire was administered. Statistical analyses included Wilcoxon rank‐sum tests, negative‐binomial models, linear regression, and Spearman correlations. There was a significant group difference in the total number of ACEs such that autistic children had more parent‐reported total adverse events ( p = 0.024). There were no significant diagnosis by age or puberty stage interactions ( p &gt; 0.05). Depressive symptoms were significantly positively associated with…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70216",
-      "title": "Vocabulary of Autistic Preschool Children With Limited Language: Alignment With Early Word Inventories",
-      "authors": [
-        "Eunji Kong",
-        "Yitong Jiang",
-        "Marina Crain",
-        "Wenjing Bao",
-        "Lynne Levato",
-        "Wendy Shih",
-        "Connie Kasari",
-        "Stephanie Shire"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70216",
-      "url": "https://doi.org/10.1002/aur.70216",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT There is a critical need to understand the early vocabulary of young children with autism who have limited language, defined in this study as producing fewer than 20 different spontaneous and functional spoken or augmented words, to better inform educational targets and vocabulary selection for spoken as well as augmentative and alternative communication (AAC) interventions, particularly given the lack of evaluation tools designed for children with limited language. The spontaneous words and gestures produced by 66 preschoolers with autism (ages 3.5–5) during a natural language sample are compared with words in two early vocabulary tools including the MacArthur Communicative Development Inventories (MCDI) and a list of core words compiled from research studies of early AAC vocabulary. Participants' expressive words and gestures were coded from the transcripts of 20‐min natural language samples. Forty‐nine children (74.24%) used spoken words, gestures, or a combination of both, with six children (9.09%) communicating using a speech‐generating device (SGD). Spoken words were primarily used for commenting, while gestures, especially pointing, were used for requesting. Althoug…",
-      "framing": "Person-first language used"
     },
     {
       "id": "10.1177/10870547261438171",
@@ -9565,26 +9616,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261426099",
-      "title": "The impact of specialist resource centres on autistic pupils’ experience of mainstream school",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261426099",
-      "url": "https://doi.org/10.1177/13623613261426099",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "This study investigated how autistic pupils’ psychological, social and educational outcomes differed in contrasting mainstream provisions. Using a three-year longitudinal quasi-experimental design, outcomes were compared across three placements: placement in a specialist resource centre, mainstream placement in specialist resource centre host schools, and placement in mainstream schools without a specialist resource centre. Autistic pupils ( N = 119, aged 11–14) and matched non-autistic peers ( N = 119) completed surveys and schools provided attainment, attendance, and exclusion data. Placement type showed no main effects on psychosocial outcomes in mixed analyses of variance, indicating limited evidence for differential change by placement alone, but hierarchical regressions indicated that specialist resource centre placement was statistically associated with higher academic attainment and stronger school belonging than mainstream schools without a specialist resource centre, and greater perceived teacher support than mainstream placement in specialist resource centre host schools. Attendance disparities for specialist resource centre pupils were smaller than national averages for…"
-    },
-    {
       "id": "10.1177/25739581261440760",
       "title": "Autistic Experience and Aging: A Neurodiversity-Affirmative Approach",
       "authors": [
@@ -10984,47 +11015,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581251405705",
-      "title": "The Prevalence of Autistic College Students in the United States",
-      "authors": [
-        "Bradley E. Cox",
-        "Kayden M. Stockwell",
-        "Cassandra R. Kepple",
-        "Courtney B. Francis"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-03-13",
-      "doi": "10.1177/25739581251405705",
-      "url": "https://doi.org/10.1177/25739581251405705",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "How many autistic college students are in the United States? Research to date has not specifically addressed this seemingly straightforward question. Yet, an answer may be critical to the advancement of research, policy, and practice related to autistic students in higher education. This article addresses three related but distinct questions about autistic students’ college enrollment within the United States: (1) What percentage of autistic high school students go on to college? (2) What percentage of students registered with their postsecondary institutions’ Disability Services Offices are autistic? and (3) What percentage of enrolled undergraduates are autistic? To answer these questions, we examined 731 publications, reviewed 16 common survey instruments used at postsecondary institutions, and inspected codebooks from 6 federal datasets. Rather than employing traditional systematic review techniques, we used an iterative, consensus-driven assessment process to ultimately synthesize relevant data from 14 prior publications and 3 original author-generated statistical summaries drawn from a total of 13 distinct sources of underlying data. We conclude that the best available eviden…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00546-0",
-      "title": "Gender Bias in Autism Research on Young Adults: A Scoping Review",
-      "authors": [
-        "Lysandra M. Podesta",
-        "Anna M. T. Bosman"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-13",
-      "doi": "10.1007/s40489-026-00546-0",
-      "url": "https://doi.org/10.1007/s40489-026-00546-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Despite growing awareness of autism across the lifespan, the transition to adulthood remains relatively neglected. Autistic young adults and young adults with many autistic traits (the broader autism phenotype) sometimes face numerous challenges. To clarify how gender imbalance manifests across study areas and populations, the present scoping review examined potential gender bias in autism research involving young adults. This review is the first to systematically chart gender and gender-minority representation across ASD and autistic-trait research in this population. We mapped gender representation across 602 studies over time and across subject areas, intellectual levels, and geographical regions: an angle not previously synthesized. The results illustrate the widespread, severe neglect of gender minorities. Female representation in autism research steadily increased over time. Still, almost half of the studies recruited fewer women than expected (male-to-female ratio 4:1), and 50 studies included only males. In contrast, autistic trait research showed a slight bias toward females. These findings highlight uneven progress toward gender inclusivity and underscore the nee…",
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
