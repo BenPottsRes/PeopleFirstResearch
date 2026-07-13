@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T08:31:55Z",
+  "generated_at": "2026-07-13T09:48:19Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -130,6 +130,28 @@
         "ADHD"
       ],
       "abstract": "Objective: The role of metacognitive monitoring, or the subjective evaluation of performance during cognitive tasks, has been less well studied in children with ADHD compared to accuracy or performance on these tasks. Given that children with ADHD often display lower performance on cognitive tasks, particularly those involving executive attention and control, we examined whether metacognitive monitoring differed between children with ADHD and neurotypical children. Method: Eighty children aged 8–12 years (38 with ADHD, 42 neurotypical) completed a battery of cognitive tasks, including measures of intelligence, executive functioning (set-shifting and interference control), and an unstructured performance task (UPT). After each task, participants provided ratings of task difficulty and effort (how hard they tried). Results and Conclusion: Children with ADHD reported overall lower effort across cognitive tasks compared to neurotypical children; however, no group differences were found on task difficulty ratings. Metacognitive ratings of effort were significantly associated across performance tasks, suggesting that the degree of trying may reflect a trait-level factor. Ratings of task…"
+    },
+    {
+      "id": "10.1007/s10803-026-07429-7",
+      "title": "Adaptive Educational Technologies for Students with Autism Spectrum Disorder: A Meta-analysis of Emotional and Social Engagement Outcomes",
+      "authors": [
+        "Sofia Mastrokoukou",
+        "Angelos Chalkiadakis",
+        "Xanthippi Dima",
+        "Damaris Anyango Muga",
+        "Erastus Manoa Karani",
+        "Claudio Longobardi"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-13",
+      "doi": "10.1007/s10803-026-07429-7",
+      "url": "https://doi.org/10.1007/s10803-026-07429-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Adaptive educational technologies are increasingly used to support emotional engagement in students with autism spectrum disorder (ASD), yet their overall effectiveness remains uncertain. This meta-analysis aimed to estimate the impact of adaptive technologies on emotional engagement outcomes and to examine methodological and study-level moderators. Methods Fourteen independent samples from 14 studies published between 2011 and 2024 were included, comprising 524 participants aged 4–17 years ( M age = 10.6, SD = 2.9; 21.7% female). Results Random-effects models with restricted maximum-likelihood (REML) estimation were used to calculate pooled effect sizes. The overall pooled effect size was Hedges’ g = 0.47 (95% CI 0.36–0.58), reflecting a moderate positive effect of adaptive technologies on emotional engagement. Significant heterogeneity was observed (I 2 = 69.22%), and moderator analyses indicated that intervention type (e.g., VR/AR vs. gamified or tablet-based platforms) significantly influenced outcomes ( p = .049). Effect sizes were highest for VR/AR-based tools ( g = 0.53). No significant differences emerged by age, geographical region, or study design. Studie…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07409-x",
@@ -10943,77 +10965,6 @@
         "sensory"
       ],
       "abstract": "Background: Many autistic adults still live in worlds that don’t understand or accommodate their sensory needs, creative interests, or ways of structuring everyday life. We explored how autistic adults use nonhuman supports such as objects, plants, animals, creative activities, and structured routines to navigate sensory and emotional demands and sustain their well-being. Methods: Led by an autistic researcher, we conducted qualitative interviews with 12 autistic adults in Australia to reveal how everyday nonhuman supports helped them manage overwhelm, reduce decision fatigue, and affirm personal identity. Results: Participants described sensory rituals including brewing tea in a familiar mug, tending to gardens, or carrying plush toys, alongside creative pursuits such as drawing, replaying games, and decorating spaces with bright character-themed items. Many also developed tailored systems, using planners, checklists, and structured shopping, to ease executive functioning challenges. However, the use of these supports was often stigmatized and incurred scrutiny from others. Participants worried that plushies or playful décor might be judged as childish or unprofessional. In the fa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07277-5",
-      "title": "Discourse Marker Use in Mothers of Autistic Individuals and FMR1 Premutation Carriers",
-      "authors": [
-        "Nell Maltman",
-        "Gary E. Martin",
-        "Jamie Barstein",
-        "Elizabeth Berry-Kravis",
-        "Molly Losh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-14",
-      "doi": "10.1007/s10803-026-07277-5",
-      "url": "https://doi.org/10.1007/s10803-026-07277-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261427260",
-      "title": "“You Become Yourself, Your Full Self, the True Self”: A Systematic Review of Neurodivergent Adults’ Experiences of Identity Reconstruction Following Diagnosis of Autism and/or ADHD in Adulthood",
-      "authors": [
-        "Phoebe Meldrum",
-        "Beth P. Johnson",
-        "Barbara Chuen Yee Lo",
-        "Meagan Louise Bedelis",
-        "Aspasia Stacey Rabba"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-03-14",
-      "doi": "10.1177/25739581261427260",
-      "url": "https://doi.org/10.1177/25739581261427260",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Growing numbers of adults are being diagnosed as autistic or having ADHD later in life, leading to a range of emotional responses and queries around identity. This review explores the process of identity reconstruction in late-diagnosed autistic and ADHD adults, examining both shared and distinct aspects of identity in each group, to better understand how diagnosis affects self-perception and to guide future post-diagnostic support. Methods: Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) and Joanna Briggs Institute (JBI) guidelines, we entered search terms relevant to autism, ADHD, delayed diagnosis, and identity into multiple databases. After screening titles and abstracts, two raters reviewed full-text articles to determine their inclusion with substantial inter-rater reliability. We extracted and coded qualitative data, with themes identified through thematic analysis. Results: The search strategy identified a total of 6894 articles, of which 5470 were duplicates. Reviewers screened 1423 articles. A final set of 25 articles was identified, with 12 articles exploring ADHD diagnoses and 13 articles exploring autism diagnoses. Our…"
-    },
-    {
-      "id": "10.1080/20473869.2026.2639436",
-      "title": "Systematic literature review on distance learning for autistic students",
-      "authors": [
-        "Anna-Maria Velentza",
-        "Maria Tomprou",
-        "Nikolaos Fachantidis",
-        "Christian Takow",
-        "Aurélie Baranger",
-        "Simone Zorzi",
-        "Aivars Kaupuzs",
-        "Stylianos Stylianou",
-        "Fernando Delgado Santos",
-        "Ma da Glória Leite",
-        "Ioanna Matouli",
-        "Ioanna Dagdileli"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-03-14",
-      "doi": "10.1080/20473869.2026.2639436",
-      "url": "https://doi.org/10.1080/20473869.2026.2639436",
-      "neurotype": [
-        "Autism"
-      ],
       "framing": "Neurodiversity-informed"
     }
   ]
