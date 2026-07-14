@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:48:19Z",
+  "generated_at": "2026-07-14T08:28:00Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -152,6 +152,23 @@
       ],
       "abstract": "Abstract Purpose Adaptive educational technologies are increasingly used to support emotional engagement in students with autism spectrum disorder (ASD), yet their overall effectiveness remains uncertain. This meta-analysis aimed to estimate the impact of adaptive technologies on emotional engagement outcomes and to examine methodological and study-level moderators. Methods Fourteen independent samples from 14 studies published between 2011 and 2024 were included, comprising 524 participants aged 4–17 years ( M age = 10.6, SD = 2.9; 21.7% female). Results Random-effects models with restricted maximum-likelihood (REML) estimation were used to calculate pooled effect sizes. The overall pooled effect size was Hedges’ g = 0.47 (95% CI 0.36–0.58), reflecting a moderate positive effect of adaptive technologies on emotional engagement. Significant heterogeneity was observed (I 2 = 69.22%), and moderator analyses indicated that intervention type (e.g., VR/AR vs. gamified or tablet-based platforms) significantly influenced outcomes ( p = .049). Effect sizes were highest for VR/AR-based tools ( g = 0.53). No significant differences emerged by age, geographical region, or study design. Studie…",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613261464680",
+      "title": "Disentangling Autism and Vision Impairment: Challenges in Differential Diagnosis",
+      "authors": [
+        "Maria Grammatikou",
+        "Aikaterini Tavoulari",
+        "Catherine Manning"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-07-13",
+      "doi": "10.1177/13623613261464680",
+      "url": "https://doi.org/10.1177/13623613261464680",
+      "neurotype": [
+        "Autism"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07409-x",
@@ -7658,31 +7675,6 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -7708,6 +7700,31 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8015,30 +8032,6 @@
         "Autism"
       ],
       "abstract": "ABSTRACT Autism remains understudied and under‐detected in Indigenous communities across the globe. This content analysis investigates key themes and future directions for Indigenous autism research, as discussed during a Special Interest Group at the 2025 International Society for Autism Research meeting in Seattle, United States. Discussions and perspectives were explored with shared knowledge from international participants who were service providers, Autistic self‐advocates, academics, and other autism‐related stakeholders. The emergent themes emphasized the need for autism research in Indigenous communities to utilize approaches that are decolonized, culturally informed, and strengths‐based. The results highlighted the need for researchers to focus on building trust, fostering relationship‐building, and encouraging collaborative research partnerships with communities, while addressing systemic limiting factors and integrating knowledge systems from Indigenous and Western models. There is also a desire for more Indigenous‐led initiatives that allow non‐Indigenous researchers to provide support. Overall, there is a clear interest in further Indigenous autism research initiatives…"
-    },
-    {
-      "id": "10.1002/aur.70221",
-      "title": "Adverse Childhood Experiences in Autistic and Neurotypical Girls",
-      "authors": [
-        "Jon Ebert",
-        "Rachael A. Muscatello",
-        "Trey McGonigle",
-        "Simon Vandekar",
-        "Blythe A. Corbett"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70221",
-      "url": "https://doi.org/10.1002/aur.70221",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT Adverse childhood experiences (ACEs) are potentially traumatic, life‐altering events that occur in childhood with long‐term negative physical and/or mental health outcomes. Previous research, while limited and largely focused on males, suggests children with autism spectrum disorder (ASD) are at higher risk of experiencing ACEs than typically developing (TD) peers. The study aimed to enhance our understanding of ACEs by focusing on female participants comparing diagnostic (ASD, TD), developmental (age, puberty), and mental health (anxiety, depression) factors. Participants included 212 female children with ASD ( N = 112) or TD ( N = 100) between 6:0 to 12:11 years. Following diagnostic testing, the 10‐item ACEs questionnaire was administered. Statistical analyses included Wilcoxon rank‐sum tests, negative‐binomial models, linear regression, and Spearman correlations. There was a significant group difference in the total number of ACEs such that autistic children had more parent‐reported total adverse events ( p = 0.024). There were no significant diagnosis by age or puberty stage interactions ( p &gt; 0.05). Depressive symptoms were significantly positively associated with…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/10870547261438171",
@@ -10940,31 +10933,6 @@
         "participatory"
       ],
       "abstract": "Background: Autistic individuals face significantly elevated risk for suicidality, yet existing suicide risk assessment tools often lack cultural and linguistic validity—particularly in low- and middle-income countries (LMICs) and where English is not the primary language. The Suicide Behaviors Questionnaire—Autism Spectrum Conditions (SBQ-ASC) is a validated instrument developed in English for autistic adults without intellectual disability. However, the lack of availability of this instrument in other languages limits its clinical and research applicability worldwide. This study reports the foundational phase of a translational research program: the linguistic and cultural adaptation of the SBQ-ASC into Spanish, intended for eventual psychometric validation studies across Latin America. Methods: Adaptation followed the International Test Commission Guidelines and the Ecological Validity Framework, using a seven-country participatory process involving autistic adults, clinicians, and bilingual researchers, with integrated expert judgment on sufficiency, clarity, coherence, and relevance. Results: The final Spanish version demonstrates conceptual, functional, and linguistic equival…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261426633",
-      "title": "Crafting Livable Worlds: Sensory, Creative, and Nonhuman Supports in Autistic Adults’ Everyday Lives",
-      "authors": [
-        "Megan Catherine Rose",
-        "Deborah Lupton"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-03-15",
-      "doi": "10.1177/25739581261426633",
-      "url": "https://doi.org/10.1177/25739581261426633",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Background: Many autistic adults still live in worlds that don’t understand or accommodate their sensory needs, creative interests, or ways of structuring everyday life. We explored how autistic adults use nonhuman supports such as objects, plants, animals, creative activities, and structured routines to navigate sensory and emotional demands and sustain their well-being. Methods: Led by an autistic researcher, we conducted qualitative interviews with 12 autistic adults in Australia to reveal how everyday nonhuman supports helped them manage overwhelm, reduce decision fatigue, and affirm personal identity. Results: Participants described sensory rituals including brewing tea in a familiar mug, tending to gardens, or carrying plush toys, alongside creative pursuits such as drawing, replaying games, and decorating spaces with bright character-themed items. Many also developed tailored systems, using planners, checklists, and structured shopping, to ease executive functioning challenges. However, the use of these supports was often stigmatized and incurred scrutiny from others. Participants worried that plushies or playful décor might be judged as childish or unprofessional. In the fa…",
       "framing": "Neurodiversity-informed"
     }
   ]
