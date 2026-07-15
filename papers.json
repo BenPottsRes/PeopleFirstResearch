@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:28:00Z",
+  "generated_at": "2026-07-15T08:36:09Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -130,6 +130,93 @@
         "ADHD"
       ],
       "abstract": "Objective: The role of metacognitive monitoring, or the subjective evaluation of performance during cognitive tasks, has been less well studied in children with ADHD compared to accuracy or performance on these tasks. Given that children with ADHD often display lower performance on cognitive tasks, particularly those involving executive attention and control, we examined whether metacognitive monitoring differed between children with ADHD and neurotypical children. Method: Eighty children aged 8–12 years (38 with ADHD, 42 neurotypical) completed a battery of cognitive tasks, including measures of intelligence, executive functioning (set-shifting and interference control), and an unstructured performance task (UPT). After each task, participants provided ratings of task difficulty and effort (how hard they tried). Results and Conclusion: Children with ADHD reported overall lower effort across cognitive tasks compared to neurotypical children; however, no group differences were found on task difficulty ratings. Metacognitive ratings of effort were significantly associated across performance tasks, suggesting that the degree of trying may reflect a trait-level factor. Ratings of task…"
+    },
+    {
+      "id": "10.1007/s10803-026-07412-2",
+      "title": "The Influence of Sensory Processing on Executive Function in Young Autistic Children",
+      "authors": [
+        "Jamie L. Courtland",
+        "Grace T. Baranek",
+        "Lauren DeMoss",
+        "Elizabeth Glenn",
+        "Hannah Riehl",
+        "Geraldine Dawson",
+        "Kimberly L. H. Carpenter"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-15",
+      "doi": "10.1007/s10803-026-07412-2",
+      "url": "https://doi.org/10.1007/s10803-026-07412-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07416-y",
+      "title": "Wikipediautism: A Multilingual Analysis of Autism-Related Wikipedia Articles in Six Languages",
+      "authors": [
+        "Kevin Rebecchi",
+        "Patricia López-Resa",
+        "Ingjerd Skafle",
+        "Tamara Kalandadze",
+        "Elia Gabarron",
+        "Anders Nordahl-Hansen"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-14",
+      "doi": "10.1007/s10803-026-07416-y",
+      "url": "https://doi.org/10.1007/s10803-026-07416-y",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261459639",
+      "title": "Staying With the Trouble: An Argument for Transdisciplinary Autism Research",
+      "authors": [
+        "Abbie Campbell-Mapplebeck",
+        "Anthony Schrag",
+        "Rachael Davis"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-07-14",
+      "doi": "10.1177/13623613261459639",
+      "url": "https://doi.org/10.1177/13623613261459639",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1080/1034912x.2026.2701408",
+      "title": "Resolving Resistance to Support Services: Special Education Teacher–Parent Negotiation on Challenging Behaviours of Children with Autism in Mainstream Chinese Elementary Schools",
+      "authors": [
+        "Yanfu Ji",
+        "Xu Wang",
+        "Chen Tian",
+        "Qi Ye"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-07-14",
+      "doi": "10.1080/1034912x.2026.2701408",
+      "url": "https://doi.org/10.1080/1034912x.2026.2701408",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Person-first language used"
     },
     {
       "id": "10.1007/s10803-026-07429-7",
@@ -7675,6 +7762,31 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -7700,31 +7812,6 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -9605,29 +9692,6 @@
         "Education"
       ],
       "abstract": "Autistic individuals across the spectrum have diverse rehabilitation and support needs. Systematic data on the cost of care for autism is unavailable in low- and middle-income countries, yet such information is essential to understand the financial burden on families. The current study is a preliminary attempt aimed to estimate the cost incurred by families of autistic children and adolescents attending a tertiary care centre in urban India. The adapted Children and Adolescents Economic Resources Questionnaire was administered to 80 families seeking autism-specific services. Direct medical, non-medical costs and indirect costs, including time and productivity costs, were estimated by parent self-report. The sample consisted predominantly of preschool- and middle-childhood-aged children coming to a premier referral centre, from various geographical locations in the country and with different profiles of support needs and interventions received. Preliminary findings showed that major expenses involved diagnostic and early intervention services, schooling and centre-based rehabilitation. Among direct non-medical costs, education and childcare costs were the highest. In the absence of…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261425010",
-      "title": "Autistic young people’s psychological well-being in school",
-      "authors": [
-        "Hazel Greer",
-        "Caitlin A Williams",
-        "Afia Ali",
-        "Vaso Totsika"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261425010",
-      "url": "https://doi.org/10.1177/13623613261425010",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic students often face unique challenges at school compared to their non-autistic peers. However, there is a lack of robust evidence investigating their well-being at school. This study examined autistic adolescents’ school well-being using data from a UK population-based cohort. Participants self-reported their positive and negative affect towards and within school. Results indicated that autistic adolescents ( n = 271; M age = 13.73; SD = 0.47; 23.11% female) experienced significantly lower levels of school well-being than non-autistic adolescents ( n = 8077; M age = 13.78; SD = 0.45; 50.67% female), as evidenced by both lower positive, and higher negative, affect. Differences were attenuated when factors associated with school well-being were controlled for, and levels of well-being no longer differed significantly. Autistic adolescents’ ( n = 412; M age = 13.76; SD = 0.46; 18.52% female) positive affect towards school was mostly associated with academic self-concept, whereas negative affect was mostly associated with academic self-concept, bullying victimisation and peer problems. The findings suggest that autistic school well-being could be promoted by supporting autisti…",
       "framing": "Neurodiversity-informed"
     },
     {
