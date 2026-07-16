@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:36:09Z",
+  "generated_at": "2026-07-16T08:35:29Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -157,6 +157,52 @@
       "tags": [
         "sensory"
       ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261462975",
+      "title": "Olfactory Function in Autism Spectrum Disorder Across the Lifespan: A Systematic Review and Meta-Analysis",
+      "authors": [
+        "Isabelle Cullen",
+        "Elisa Dal Bò",
+        "Peace Maddox",
+        "Thomas Sophocles",
+        "Kristina McShea",
+        "Edward S. Brodkin",
+        "Valentina Parma"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-07-15",
+      "doi": "10.1177/13623613261462975",
+      "url": "https://doi.org/10.1177/13623613261462975",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Altered sensory processing is recognized as a core diagnostic feature of autism spectrum disorder (ASD). Olfactory perception in autism remains poorly characterized, despite its important role in safety, nutrition, and socialization. We conducted a preregistered systematic review and meta-analysis to quantify differences and identify moderators in olfactory function between autistic and non-autistic individuals. Following the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines, we searched Web of Science, SCOPUS, PubMed, EMBASE, and CINAHL databases and identified 46 eligible studies with 87 effect sizes from 1,580 autistic and 7,698 non-autistic individuals. Moderator analyses examined olfactory assessment type, olfactory function tested, age, sex, and intelligence quotient (IQ). Autistic individuals showed significantly poorer olfactory performance than non-autistic ( g = −0.64), with reduced performance in psychophysical testing ( g = −0.58) and informant reports ( g = −1.31), but not in self-report or odor rating measures. In autism, significant differences were observed for psychophysically measured odor identification ( g = −0.66), threshold…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/25739581261467967",
+      "title": "“I Don’t Really Belong Anywhere”: A Thematic Analysis of the Experiences of Japanese Autistic Gender-Diverse Adults",
+      "authors": [
+        "Yu Takahashi"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-07-15",
+      "doi": "10.1177/25739581261467967",
+      "url": "https://doi.org/10.1177/25739581261467967",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Background: The overlap between autism and gender diversity has attracted increasing attention. Although recent research has begun to examine the lived experiences of autistic gender-diverse people, most studies have been conducted in Western countries. In Japan, where stigma toward autism is stronger and LGBTQ+ rights are less protected, the existing literature remains limited and often interprets autistic people’s gender diversity through pathologizing frameworks. Methods: To explore the lived experiences of autistic gender-diverse adults from their own perspectives, I used an online open-ended questionnaire covering different aspects of life: identity, discrimination and prejudice, everyday life, care needs and experiences, and community. Forty-four autistic gender-diverse adults (aged 19–62 years) who mainly lived in Japan participated in the study. I analyzed the data using reflexive thematic analysis. Results: I identified three main themes. Theme 1: Authenticity versus conformity, where participants aspired to live authentically but felt compelled to hide their autistic traits and gender identities because of social pressure to conform. Theme 2: Belonging nowhere, where part…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7762,31 +7808,6 @@
       "abstract": "This study aimed to offer a depiction and comprehensive understanding of school participation in autistic youth, which has received limited exploration. Parents of 871 autistic youth aged 7 or 15 were invited to participate in a study, among whom 600 agreed, allowing data collection on diagnosis, comorbidities, school, professional support, and parental characteristics. They were asked to fill in questionnaires assessing executive functions, social-communication difficulties, and school participation, completed by 241. Structural equation modeling and descriptive methods were employed to examine factors influencing school participation and the desire for change. Social-communication abilities stand out as the sole intrinsic determinant associated with school participation. Being a female and having an intellectual disability might negatively impact mainstream school attendance, without exerting a similar influence on activity attendance and involvement. Caregivers identified school demands and the sensory environment as extrinsic barriers to school participation, while teachers’ attitudes and peer relationships were seen as both potential barriers and facilitators. Finally, 36%–58%…"
     },
     {
-      "id": "10.1177/13623613261427795",
-      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
-      "authors": [
-        "Sinéad L Mullally",
-        "Alice E Wood",
-        "Cherice C Edwards",
-        "Sophie E Connolly",
-        "Hannah Constable",
-        "Stuart Watson",
-        "Jacqui Rodgers",
-        "Kieran Rose",
-        "Nic King"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427795",
-      "url": "https://doi.org/10.1177/13623613261427795",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261424830",
       "title": "A qualitative evaluation of cognitive-behavioural therapy components for social anxiety in autistic adults: Lived experiences from a modified group program",
       "authors": [
@@ -7812,6 +7833,31 @@
         "lived experience"
       ],
       "abstract": "Cognitive-behaviour therapy (CBT) is an evidence-based treatment for social anxiety. However, despite the high prevalence of social anxiety among autistic adults, much less is known about how autistic people experience each CBT component used in treatment. This qualitative study explores autistic adults’ perspectives on a modified cognitive-behaviour therapy group programme for social anxiety, focusing on the perceived effectiveness of CBT components and the identification of needed modifications. Twenty-seven participants who completed the intervention took part in semi-structured interviews. Thematic analysis identified core themes related to therapeutic impact (application of CBT group strategies) and participant experiences (suggestions for future iterations of social groups). Overall, exposure tasks were viewed as helpful in reducing anxiety, particularly when structured and predictable. Cognitive restructuring was often experienced as effective; however, its impact was sometimes limited by persistent and deeply held core beliefs and past negative experiences. Social strategies and anxiety management skills were appreciated for their structured format and educational elements,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261427795",
+      "title": "Growing-up autistic: Sharing autistic children’s experiences and insights",
+      "authors": [
+        "Sinéad L Mullally",
+        "Alice E Wood",
+        "Cherice C Edwards",
+        "Sophie E Connolly",
+        "Hannah Constable",
+        "Stuart Watson",
+        "Jacqui Rodgers",
+        "Kieran Rose",
+        "Nic King"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-05-01",
+      "doi": "10.1177/13623613261427795",
+      "url": "https://doi.org/10.1177/13623613261427795",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "There is a critical lack of exploration into the firsthand experiences of autistic children in the psychological literature. We sought to address this using baseline data from a wider mixed-methods study. A total of 136 autistic children (mean age = 10.35) completed an online questionnaire. Questions explored children’s understanding of autism, their feelings about being autistic in different contexts and challenges experienced. Quantitative data revealed limited autism knowledge and understanding for some. Challenges included talking about being autistic and self-advocating for needs, especially with non-family members. Children generally recognised both strengths and challenges of being autistic, although concerns about feeling/being different were widespread, and masking common. Strikingly, although most children felt positive about being autistic at home, significantly fewer felt this to be true when around peers or teachers. Using reflexive thematic analysis, four main themes were developed: (1) overwhelming experiences, (2) unsafe people, (3) sanctuary and (4) autistic identity. Overall, the children felt safest at home with family and/or with autistic/neurodivergent/understa…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -8098,27 +8144,6 @@
       ],
       "abstract": "ABSTRACT The current study investigated 1144 toddlers and preschoolers (ASD + GDD n = 592; ASD only n = 249; GDD only n = 89; no ASD or GDD n = 214) with the toddler module (38.6%), Module 1 (57.5%), and Module 2 (3.9%) as well as Mullen Scales of Early Learning. The calibrated severity score (CSS) was used to compare severity across modules. The study sample was stratified by GDD (Visual Reception Developmental Quotient &lt; 75), and each stratum was investigated with descriptive statistics, ROC curves, and test statistics to identify the optimal cut‐off CSS to differentiate ASD and non‐ASD. ROC analysis indicated that the CSS scores showed excellent discrimination for ASD status for both the GDD (AUC = 0.86) and no GDD (AUC = 0.95) strata. In the no‐GDD stratum, an ADOS‐2 CSS of 5 was determined to be the optimal cut‐off. In the GDD stratum, an ADOS‐2 CSS of 6 was determined to be the optimal cutoff. While non‐spectrum/little‐to‐no concern and autism/moderate‐to‐severe concern showed very high predictive accuracy for diagnostic outcomes, the autism spectrum/mild‐to‐moderate concern lacked clear diagnostic directionality, regardless of GDD status. This is the first study with a la…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70224",
-      "title": "Content Analysis of Responses From an\n                    <scp>INSAR</scp>\n                    Special Interest Group (\n                    <scp>SIG</scp>\n                    ): Indigenous Perspectives on Autism",
-      "authors": [
-        "Grant Bruno",
-        "Annie Tang",
-        "Troy Q. Boucher",
-        "Emily Coombs",
-        "T. C. Waisman",
-        "Anne Lindblom"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70224",
-      "url": "https://doi.org/10.1002/aur.70224",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Autism remains understudied and under‐detected in Indigenous communities across the globe. This content analysis investigates key themes and future directions for Indigenous autism research, as discussed during a Special Interest Group at the 2025 International Society for Autism Research meeting in Seattle, United States. Discussions and perspectives were explored with shared knowledge from international participants who were service providers, Autistic self‐advocates, academics, and other autism‐related stakeholders. The emergent themes emphasized the need for autism research in Indigenous communities to utilize approaches that are decolonized, culturally informed, and strengths‐based. The results highlighted the need for researchers to focus on building trust, fostering relationship‐building, and encouraging collaborative research partnerships with communities, while addressing systemic limiting factors and integrating knowledge systems from Indigenous and Western models. There is also a desire for more Indigenous‐led initiatives that allow non‐Indigenous researchers to provide support. Overall, there is a clear interest in further Indigenous autism research initiatives…"
     },
     {
       "id": "10.1177/10870547261438171",
@@ -9667,34 +9692,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613261421840",
-      "title": "Estimating the direct health and broader societal costs of caring for autistic children and adolescents – Preliminary findings from a tertiary care centre in urban India",
-      "authors": [
-        "Kasturi Atmaram Sakhardande",
-        "Snehaa Sweekruti Dash",
-        "Dharani Ramamoorthy",
-        "Parul Varma",
-        "Preeti Mamgain",
-        "Gemma Shields",
-        "Gauri Divan",
-        "Harshini Manohar",
-        "Reetabrata Roy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/13623613261421840",
-      "url": "https://doi.org/10.1177/13623613261421840",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic individuals across the spectrum have diverse rehabilitation and support needs. Systematic data on the cost of care for autism is unavailable in low- and middle-income countries, yet such information is essential to understand the financial burden on families. The current study is a preliminary attempt aimed to estimate the cost incurred by families of autistic children and adolescents attending a tertiary care centre in urban India. The adapted Children and Adolescents Economic Resources Questionnaire was administered to 80 families seeking autism-specific services. Direct medical, non-medical costs and indirect costs, including time and productivity costs, were estimated by parent self-report. The sample consisted predominantly of preschool- and middle-childhood-aged children coming to a premier referral centre, from various geographical locations in the country and with different profiles of support needs and interventions received. Preliminary findings showed that major expenses involved diagnostic and early intervention services, schooling and centre-based rehabilitation. Among direct non-medical costs, education and childcare costs were the highest. In the absence of…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581261440760",
       "title": "Autistic Experience and Aging: A Neurodiversity-Affirmative Approach",
       "authors": [
@@ -10872,132 +10869,6 @@
         "communication"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07288-2",
-      "title": "Handwriting Challenges in Autistic Children: A Comparative Study of Legibility and Character Processing in Logographic Chinese Writing",
-      "authors": [
-        "Zhi-Chi Weng",
-        "Jung-Chi Chang",
-        "Hao-Ling Chen",
-        "Tien-Ni Wang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-17",
-      "doi": "10.1007/s10803-026-07288-2",
-      "url": "https://doi.org/10.1007/s10803-026-07288-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07275-7",
-      "title": "The Development of Risky Decision Making in Adolescents at Risk of Developmental Language Disorder",
-      "authors": [
-        "Lok Fung Jason Chan",
-        "Michelle C. St Clair"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-17",
-      "doi": "10.1007/s10803-026-07275-7",
-      "url": "https://doi.org/10.1007/s10803-026-07275-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Service design"
-      ],
-      "tags": [
-        "communication",
-        "service improvement"
-      ],
-      "abstract": "Abstract Purpose Poor risky decision making (RDM) may lead to negative consequences across various aspects of daily life, especially during adolescence. Developmental Language Disorder (DLD) is associated with abnormality in the neural pathway responsible for RDM. However, there is little research that directly examines the development of RDM in the DLD population. The current study evaluated RDM in the DLD population and the general population from early to late adolescence. Methods Data from the Millennium Cohort Study was used to examine RDM performance at ages 11, 14, and 17 in adolescents at risk of DLD (rDLD; N = 891) and their age-matched peers in the general population (GP) as a comparison group ( N = 13372). The participant’s performance in the Cambridge Gambling Task (CGT) and a monetary risk preference task were assessed. Results The results indicated that adolescents at risk of DLD had a significantly higher tendency to take risks and poorer quality of decision making at age 11 and 14, as well as poorer adjustment to changes in risk at age 11. There were no significant between-group differences in risk adjustment at 14 or risk preference at 17 and no significant interac…"
-    },
-    {
-      "id": "10.1177/13623613261425136",
-      "title": "Short Report—Diagnostic challenges in predominantly late-diagnosed gender-diverse autistic individuals: Age, delays, and perceived misdiagnoses",
-      "authors": [
-        "Amina Zohor Zidane Burgess",
-        "Wietske van der Zwaag",
-        "Kim Marie Jonkman",
-        "Sander Begeer"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-03-17",
-      "doi": "10.1177/13623613261425136",
-      "url": "https://doi.org/10.1177/13623613261425136",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Quality of life"
-      ],
-      "abstract": "Historically, diagnostic criteria for autism have been shaped by male-centric childhood presentations, leading to reduced diagnostic accuracy for non-male autistic individuals. We investigated disparities between gender-diverse and cisgender autistic individuals in the age at formal diagnosis, delays between initial suspicion and diagnosis, and the frequency of prior perceived misdiagnoses. We analyzed 2,722 participants predominately late-diagnosed with autism, including 402 gender-diverse individuals. The analysis, controlling for age at participation, revealed that cisgender females were diagnosed at the oldest age, followed by gender-diverse individuals and cisgender males. Autistic gender-diverse individuals received the highest number of co-occurring psychiatric diagnoses and had the highest rates of prior perceived misdiagnosis, followed by cisgender females and cisgender males. These findings highlight the pressing need for diagnostic frameworks that account for gender diversity and actively mitigate biases in clinical practice. Lay abstract Autism is often thought of as a condition that mainly affects boys in childhood. However, research shows that this view can delay or c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261428658",
-      "title": "An Online Healthy Relationships Class for Autistic Adults (HEARTS): A Randomized Controlled Trial",
-      "authors": [
-        "Emily F. Rothman",
-        "Masanao Yajima",
-        "Julia Cusano",
-        "Laura Graham Holmes",
-        "Karen S. Lean",
-        "Susan W. White"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-03-17",
-      "doi": "10.1177/25739581261428658",
-      "url": "https://doi.org/10.1177/25739581261428658",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Background: Many autistic adults are interested in having more and better-quality friendships and dating relationships, but there are too few evidence-based interventions that support building healthier peer relationships. Healthy Relationships on the Autism Spectrum (HEARTS) is a six-session, online class codeveloped with autistic people and co-delivered by teams that include at least one autistic expert who operates from the core idea that autistic people can be their authentic selves and can create and maintain healthy, supportive, mutual intimate partnership and friendship relationships. Methods: This preregistered randomized controlled trial study investigated the effects of HEARTS for autistic individuals aged 18 years old and older. Autistic individuals ( N = 92) were randomly assigned to either HEARTS or an active control condition (ACC). The purpose of this study was to find out if the HEARTS class had an impact on participants’ self-directed relationship satisfaction goals, social motivation, experiences with aggressive acts in dating relationships, attitudes toward rejection, or hostile automatic thoughts 12 weeks after the HEARTS class ended. Results: Compared with the…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261432581",
-      "title": "Linguistic and Cultural Adaptation of the Suicide Behaviors Questionnaire—Autism Spectrum Conditions: A Suicide Risk Assessment Tool for Autistic Adults in Spanish",
-      "authors": [
-        "Cecilia Montiel-Nava",
-        "Alexia Rattazzi",
-        "Ricardo Garcia Sepulveda",
-        "Daniel Valdez",
-        "Gabriela Garrido Candela",
-        "Analia Rosoli Murillo",
-        "Federico Alzugaray",
-        "Georgina Perez Liz",
-        "Nicole Velez Agosto",
-        "Maria Cecilia Montenegro",
-        "Maria Cristina Triguero Veloz Teixeira",
-        "Cristiane Silvestre Paula"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-03-17",
-      "doi": "10.1177/25739581261432581",
-      "url": "https://doi.org/10.1177/25739581261432581",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication",
-        "participatory"
-      ],
-      "abstract": "Background: Autistic individuals face significantly elevated risk for suicidality, yet existing suicide risk assessment tools often lack cultural and linguistic validity—particularly in low- and middle-income countries (LMICs) and where English is not the primary language. The Suicide Behaviors Questionnaire—Autism Spectrum Conditions (SBQ-ASC) is a validated instrument developed in English for autistic adults without intellectual disability. However, the lack of availability of this instrument in other languages limits its clinical and research applicability worldwide. This study reports the foundational phase of a translational research program: the linguistic and cultural adaptation of the SBQ-ASC into Spanish, intended for eventual psychometric validation studies across Latin America. Methods: Adaptation followed the International Test Commission Guidelines and the Ecological Validity Framework, using a seven-country participatory process involving autistic adults, clinicians, and bilingual researchers, with integrated expert judgment on sufficiency, clarity, coherence, and relevance. Results: The final Spanish version demonstrates conceptual, functional, and linguistic equival…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
