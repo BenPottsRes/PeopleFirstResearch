@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:34:01Z",
+  "generated_at": "2026-07-20T09:34:16Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -130,6 +130,115 @@
         "ADHD"
       ],
       "abstract": "Objective: The role of metacognitive monitoring, or the subjective evaluation of performance during cognitive tasks, has been less well studied in children with ADHD compared to accuracy or performance on these tasks. Given that children with ADHD often display lower performance on cognitive tasks, particularly those involving executive attention and control, we examined whether metacognitive monitoring differed between children with ADHD and neurotypical children. Method: Eighty children aged 8–12 years (38 with ADHD, 42 neurotypical) completed a battery of cognitive tasks, including measures of intelligence, executive functioning (set-shifting and interference control), and an unstructured performance task (UPT). After each task, participants provided ratings of task difficulty and effort (how hard they tried). Results and Conclusion: Children with ADHD reported overall lower effort across cognitive tasks compared to neurotypical children; however, no group differences were found on task difficulty ratings. Metacognitive ratings of effort were significantly associated across performance tasks, suggesting that the degree of trying may reflect a trait-level factor. Ratings of task…"
+    },
+    {
+      "id": "10.1007/s10803-026-07441-x",
+      "title": "Comprehensive Evaluation of TMJ Dysfunction, Postural Control, and Adaptive Skills in Individuals With Autism Spectrum Disorder",
+      "authors": [
+        "Simay Tepik Gürbüz",
+        "Meral Sertel"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-20",
+      "doi": "10.1007/s10803-026-07441-x",
+      "url": "https://doi.org/10.1007/s10803-026-07441-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07447-5",
+      "title": "Dropout From Exercise Interventions in Autistic Youth: A Systematic Review and Meta-analysis",
+      "authors": [
+        "Tine Van Damme",
+        "Isabel Zwahlen",
+        "Jênifer de Oliveira",
+        "Esther Meers",
+        "Felipe Barreto Schuch",
+        "Davy Vancampfort"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-20",
+      "doi": "10.1007/s10803-026-07447-5",
+      "url": "https://doi.org/10.1007/s10803-026-07447-5",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07445-7",
+      "title": "Correction: Antipsychotic Drug Prescriptions for Transition-Age Youth on the Autism Spectrum",
+      "authors": [
+        "Teal W. Benevides",
+        "Jessica Rast",
+        "Brian Lee",
+        "Kristy Anderson",
+        "Jonas Ventimiglia",
+        "Jennifer E. Jaremski",
+        "Jennifer Poon",
+        "Edward S. Brodkin",
+        "Lindsay Shea"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-20",
+      "doi": "10.1007/s10803-026-07445-7",
+      "url": "https://doi.org/10.1007/s10803-026-07445-7",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07443-9",
+      "title": "Differential Effects of Object Colour Variation on Word Learning in Autistic and Neurotypical Children",
+      "authors": [
+        "Sophie Lund",
+        "Padraic Monaghan",
+        "Calum Hartley"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-20",
+      "doi": "10.1007/s10803-026-07443-9",
+      "url": "https://doi.org/10.1007/s10803-026-07443-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose For neurotypical children, accurate generalisation of newly learnt object names is facilitated by ‘desirable difficulty’ during initial referent selection; holding colour constant across competitors strengthens encoding of the intended referent’s category-defining shape. We investigated whether variability in colour at referent selection similarly influences novel label generalisation in vocabulary-delayed autistic children – a population potentially characterised by differences in shape encoding. Methods Thirty-two autistic ( M age = 116.63 months) and 32 neurotypical ( M age = 56.72 months) children matched on receptive vocabulary (autistic M age equivalent = 67.78 months; neurotypical M age equivalent = 68.25 months) used a touchscreen computer to disambiguate new noun-object mappings with objects of the same or different colours. Children were then tested on their retention and shape-based generalisation after a 5-minute delay. Results Neurotypical children’s generalisation was significantly more accurate - and only above-chance - in the same colour condition. Conversely, autistic children displayed similar above-chance generalisation accuracy in both the same…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70316",
+      "title": "‘They Even Have the Capacity, but the Places Aren't Prepared to Receive Them’: Community Environment and Participation of Autistic Children in a Family‐Engaged Research Analysis",
+      "authors": [
+        "Léia Cordeiro de Oliveira",
+        "Cid André Fidelis de Paula Gomes",
+        "Gustavo Pietracatelli Janizello",
+        "Wallace Pereira Silva",
+        "Alice Soper",
+        "Monika Novak‐Pavlic",
+        "Olaf Kraus de Camargo",
+        "Soraia Micaela Silva"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-07-19",
+      "doi": "10.1002/aur.70316",
+      "url": "https://doi.org/10.1002/aur.70316",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "ABSTRACT To examine the associations between community environmental barriers and support and the participation of autistic children, and to interpret these findings from the perspective of caregivers engaged as research partners. This cross‐sectional observational study employed a mixed‐methods design. The first phase comprised analytical and exploratory quantitative analyses. Caregivers of autistic children aged 5–12 years reported participation outcomes—frequency, involvement, and desire for change—using the Brazilian version of the Participation and Environment Measure for Children and Youth (PEM‐CY) and CARS‐BR with 80 caregivers of children aged 5–12. Phase 1 involved path analysis to test associations between community environment, income, autism severity, and participation (frequency, involvement, desire for change). Phase 2 employed a constructivist‐interpretivist approach, where five caregivers acted as research partners to interpret quantitative results via reflexive thematic analysis. Quantitative analysis showed no statistically significant associations between environmental factors and participation outcomes, despite frequent reports of barriers. In Phase 2, research…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07426-w",
@@ -5355,27 +5464,6 @@
       "abstract": "The term virtual autism has recently been used to describe autism-like behaviors in young children following prolonged exposure to screens. The use of the word autism in this context raises conceptual and ethical concerns by reinforcing outdated ideas about parental blame, misrepresenting the nature of autism as we currently understand it, and causing misunderstanding about autism among the general public. We call for more precise and responsible language and advocate for an alternative term that better reflects the environmental basis of the phenomenon, such as screen-related developmental delay . Lay Abstract The term virtual autism has been used to describe autistic-like behaviors in young children that result from spending a lot of time using screens. Using the word autism in this context can cause confusion. It may lead people to wrongly believe that autism is caused by screen use and bring back outdated ideas that blame parents. We argue that this term can be misleading for parents, teachers, and the general public. Instead, we suggest using a clearer term like screen-related developmental delay to better reflect the environmental causes of these behaviors."
     },
     {
-      "id": "10.1177/13623613261434813",
-      "title": "Conducting Meaningful Participatory Autism Research in Latin America: An Example of Contextual Challenges Identified and Lessons Learned from the Indigenous Support Network In Brazil",
-      "authors": [
-        "Tally Lichtensztejn Tafla",
-        "Paula Rasia Lira",
-        "Priscilla Brandi Gomes Godoy",
-        "Elizabeth Shephard"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261434813",
-      "url": "https://doi.org/10.1177/13623613261434813",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "participatory"
-      ]
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -7809,30 +7897,6 @@
       ],
       "abstract": "Background: Microaggressions—subtle insults, invalidations, or slights directed at marginalized groups—negatively affect mental health and identity. However, little is known about how autistic people experience microaggressions across their daily lives in Japan. To the beast of our knowledge, this is the first qualitative study examining how Japanese autistic people experience microaggressions related to or attributed to their autism. Methods: We conducted an online cross-sectional survey in March 2023. A total of 330 autistic individuals (aged 18–39 years) responded to two open-ended questions about direct and indirect microaggressions in their daily lives. We analyzed 288 microaggressive experiences related to or attributed to participants’ autism using codebook thematic analysis. Three researchers generated the initial codes and preliminary themes, which the full team then refined through iterative discussion. Results: We identified four themes describing how autistic people in Japan encounter microaggressions in their daily lives. Theme 1: Living with fluctuating standpoints reflects how others position autistic people as either inferior or unrealistically gifted. Theme 2: Livi…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07297-1",
-      "title": "Correction: Exploring Correlations of Unemployment, Underemployment, and Well-Being Among Autistic Job Seekers by Race in the United States",
-      "authors": [
-        "Rachel A. VanDaalen",
-        "Jiayuan Lyrid Zhao",
-        "Yu Jie Emily Hsiao",
-        "Hannah Karsting",
-        "Ru Ying Cai",
-        "Jane Paik Kim",
-        "Lawrence K. Fung"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1007/s10803-026-07297-1",
-      "url": "https://doi.org/10.1007/s10803-026-07297-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ]
     },
     {
       "id": "10.1177/13623613261437916",
@@ -10803,73 +10867,6 @@
       ],
       "abstract": "Purpose This paper aims to examine how processes of developig independence among autistic adults can illuminate broader pathways of personal and community development. What began as research into how autistic adults develop and maintain independence evolved into a profound exploration of community transformation through safety and authentic self-expression. This participatory study emerged from conversations between academic researchers and three autistic men – Harry, Jackson and Jared – who transitioned from struggling students to community leaders at The Jacob’s Ladder School. Design/methodology/approach Through collaborative analysis of their lived experiences, the authors discovered how communities can shift from scarcity-based thinking to abundance-based design, where supporting individuals in bringing their natural, authentic selves enables them to address areas they wish to develop while contributing their unique strengths. Findings The findings reveal how communities designed around radical acceptance enable individuals to work on personal growth areas from a foundation of safety and belonging, creating sustainable pathways where behavioral diversity becomes a source of col…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07271-x",
-      "title": "Brief Report: Healthcare Utilization and Expenditure Trends Among Autistic Transition Age Youth",
-      "authors": [
-        "Philip H. Smith",
-        "Jonas Ventimiglia",
-        "Joe Wright",
-        "Jessica E. Rast",
-        "Diana E. Schendel",
-        "Pricila H. Mullachery",
-        "Brian K. Lee",
-        "Lindsay L. Shea"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-21",
-      "doi": "10.1007/s10803-026-07271-x",
-      "url": "https://doi.org/10.1007/s10803-026-07271-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose The transition to adult healthcare is a vulnerable time for individuals with autism spectrum disorder (ASD). Prior research using Medicaid data (2001–2005) found this group had declining utilization rates into adulthood for some types of care (e.g., psychiatric outpatient). Substantial changes to Medicaid and the ASD population have occurred since this time. We reassessed healthcare resource utilization (HCRU) across the transition to adulthood Medicaid claims data from 2015 to 2019. Methods We selected enrollees with at least one fee for service claim, aged 16–19 years in 2015, who were also enrolled in 2019 using diagnostic groupings: ASD/no ID ( n = 23,460), ID/no ASD ( n = 21,256) and ASD + ID ( n = 10,115). HCRU indicators included utilization rates and per capita expenditures for outpatient, inpatient, long-term, and medication care, with each type further divided into psychiatric and non-psychiatric (i.e., medical). Results The ID groups had overall higher HCRU than the ASD only group. ASD + ID adults had especially high HCRU for psychiatric outpatient care. HCRU increased into adulthood for psychiatric outpatient and long-term care, driven by higher expendi…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07289-1",
-      "title": "Autism, Belief, and Society: Voices of Families in Cultural and Religious Contexts",
-      "authors": [
-        "İbrahim Doyumğaç",
-        "Osman Söner",
-        "Gökmen Arslan"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-21",
-      "doi": "10.1007/s10803-026-07289-1",
-      "url": "https://doi.org/10.1007/s10803-026-07289-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose This study examines how families of children diagnosed with Autism Spectrum Disorder (ASD) in Türkiye’s Southeastern Anatolia Region interpret autism within social, cultural, and religious contexts. By focusing on a socio-culturally conservative region characterized by strong religious values, patriarchal norms, and limited institutional resources, the research aims to reveal how belief systems, social expectations, and cultural narratives shape families’ perceptions of autism, the diagnostic process, and caregiving experiences. Method AA qualitative research design was employed. Data were collected from 12 parents (8 mothers and 4 fathers) who have children diagnosed with ASD through semi-structured interviews and home-based observations. Participants were selected using purposive and snowball sampling methods. The data were analyzed using Erlingsson and Brysiewicz’s four-stage content analysis approach, which involved coding meaning units, developing categories, and identifying overarching themes. Results The analysis revealed four major themes: (1) delays in diagnosis and processes of denial and acceptance; (2) interpretations of autism through cultural values,…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07293-5",
-      "title": "Special Education Teachers’ Intention to Support the Use of Computerized Cognitive Training for Children With NDDs in China: A Theory of Planned Behavior Perspective",
-      "authors": [
-        "Bo Zhang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-21",
-      "doi": "10.1007/s10803-026-07293-5",
-      "url": "https://doi.org/10.1007/s10803-026-07293-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
     }
   ]
 }
