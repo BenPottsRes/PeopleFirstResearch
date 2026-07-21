@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T09:34:16Z",
+  "generated_at": "2026-07-21T08:46:29Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -130,6 +130,34 @@
         "ADHD"
       ],
       "abstract": "Objective: The role of metacognitive monitoring, or the subjective evaluation of performance during cognitive tasks, has been less well studied in children with ADHD compared to accuracy or performance on these tasks. Given that children with ADHD often display lower performance on cognitive tasks, particularly those involving executive attention and control, we examined whether metacognitive monitoring differed between children with ADHD and neurotypical children. Method: Eighty children aged 8–12 years (38 with ADHD, 42 neurotypical) completed a battery of cognitive tasks, including measures of intelligence, executive functioning (set-shifting and interference control), and an unstructured performance task (UPT). After each task, participants provided ratings of task difficulty and effort (how hard they tried). Results and Conclusion: Children with ADHD reported overall lower effort across cognitive tasks compared to neurotypical children; however, no group differences were found on task difficulty ratings. Metacognitive ratings of effort were significantly associated across performance tasks, suggesting that the degree of trying may reflect a trait-level factor. Ratings of task…"
+    },
+    {
+      "id": "10.1108/aia-11-2025-0119",
+      "title": "Online social skills training using speech activities for adults with autism spectrum disorder or traits: an exploratory pilot study",
+      "authors": [
+        "Sayaka Shoji",
+        "Aakari Iitsuka",
+        "Maria Fana",
+        "Keiko Kumagai",
+        "Jun Yaeda"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-07-22",
+      "doi": "10.1108/aia-11-2025-0119",
+      "url": "https://doi.org/10.1108/aia-11-2025-0119",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Quality of life"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Purpose For people with autism spectrum disorder (ASD) or ASD traits, it is known to be difficult to take turns in conversation and maintain relationships. To address this, the authors provide online Social Skills Training (SST), a type of interpersonal skills training, to adults with ASD who have difficulty communicating. The SST program includes listening to individual goals and a speech activity where participants share their personal experiences with adolescents. This study aims to explore changes in communication skills, self-esteem and progress toward individual communication goals associated with participation in this online SST. Design/methodology/approach Participants included five men diagnosed with ASD or showing tendencies of the condition. They completed social skills and self-esteem scales before and after the intervention. Individual goal performance was assessed at three points: pre-, mid- and postintervention. An open-ended questionnaire was administered during the final session to explore the reasons behind participants’ self-assessments. Findings This online SST program suggested no change in self-esteem, but improvements in self-control and the regulation of int…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07441-x",
