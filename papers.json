@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:46:18Z",
+  "generated_at": "2026-07-23T08:45:36Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -149,6 +149,51 @@
       "abstract": "Objective: The role of metacognitive monitoring, or the subjective evaluation of performance during cognitive tasks, has been less well studied in children with ADHD compared to accuracy or performance on these tasks. Given that children with ADHD often display lower performance on cognitive tasks, particularly those involving executive attention and control, we examined whether metacognitive monitoring differed between children with ADHD and neurotypical children. Method: Eighty children aged 8–12 years (38 with ADHD, 42 neurotypical) completed a battery of cognitive tasks, including measures of intelligence, executive functioning (set-shifting and interference control), and an unstructured performance task (UPT). After each task, participants provided ratings of task difficulty and effort (how hard they tried). Results and Conclusion: Children with ADHD reported overall lower effort across cognitive tasks compared to neurotypical children; however, no group differences were found on task difficulty ratings. Metacognitive ratings of effort were significantly associated across performance tasks, suggesting that the degree of trying may reflect a trait-level factor. Ratings of task…"
     },
     {
+      "id": "10.1108/aia-07-2025-0079",
+      "title": "Anxiety responses and autism: the role of sensitivity to change",
+      "authors": [
+        "Lucía Torices Callejo",
+        "Miguel Ángel Pérez Nieto"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-07-24",
+      "doi": "10.1108/aia-07-2025-0079",
+      "url": "https://doi.org/10.1108/aia-07-2025-0079",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Mental health"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Purpose This study aims to examine how elevated autistic traits relate to different anxiety response systems in a non-clinical adult sample. Specifically, it explored whether particular dimensions of the autistic trait profile were differentially associated with cognitive, physiological and motor manifestations of anxiety within a dimensional and neurodiversity-informed framework. Design/methodology/approach A total of 117 adults (45 men, 38.5%; 72 women, 61.5%), aged 18–84 years (M = 34.14, SD = 13.45), completed the abridged version of the Inventory of Situations and Responses of Anxiety (ISRA-B) and the Autism Spectrum Quotient (AQ-50). Correlational analyses and multiple linear regression models were conducted to examine associations and predictors of overall anxiety, its cognitive, physiological and motor components and anxiety across specific situational domains, with age and gender included as covariates. Findings Sensitivity to change emerged as the most consistent predictor, significantly predicting overall anxiety as well as its cognitive, physiological and motor dimensions and anxiety in test, interpersonal, phobic and daily situations. Communication-related autistic tra…"
+    },
+    {
+      "id": "10.1007/s10803-026-07427-9",
+      "title": "The Empathy Quotient and Systemising Quotient for Toddlers: Development and Validation",
+      "authors": [
+        "Yumnah T. Khan",
+        "Alex Tsompanidis",
+        "Luning Sun",
+        "Carrie Allison",
+        "Simon Baron-Cohen"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-23",
+      "doi": "10.1007/s10803-026-07427-9",
+      "url": "https://doi.org/10.1007/s10803-026-07427-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Empathy and systemising are traits that show on-average differences between autistic and non-autistic groups and have informed major theoretical frameworks of autism. While these constructs have been researched extensively in older age groups, no equivalent questionnaire-based measures exist for toddlers. Methods Here, we developed and validated toddler (T) versions of the Empathy Quotient (EQ-T) and Systemising Quotient (SQ-T) in 1,005 toddlers (572 males, 433 females) aged 1.5 to 4 years (mean = 32.75 months). Parents completed these online along with the Quantitative Checklist for Autism in Toddlers (Q-CHAT), which measures autistic traits. Results Results indicated that (a) the EQ-T and SQ-T show good reliability, (b) EQ-T scores negatively predicted and SQ-T scores positively predicted autistic traits, and (c) on average, EQ-T scores were higher in females ( d = 0.16), while no significant sex differences were observed in SQ-T scores ( d = −0.09). Conclusion These newly validated measures open various further avenues to better understand the early profiles and developmental pathways associated with autism."
+    },
+    {
       "id": "10.1007/s10803-026-07453-7",
       "title": "Double Disadvantage? Wellbeing Among Vietnamese Migrant Parents of Autistic Children",
       "authors": [
@@ -171,6 +216,79 @@
         "Quality of life"
       ],
       "abstract": "Abstract Background Culturally and linguistically diverse (CALD) parents of autistic children typically report poorer mental health, yet their subjective wellbeing (SWB) remains poorly understood. This study examined SWB among Vietnamese migrants (VM), one of Australia’s more socioeconomically disadvantaged CALD groups, focusing on those raising autistic children, and compared them with general population (GP) parents. Procedure Participants were 487 Australian-residing parents ( M age = 40.0, SD = 7.12, 71.9% female, 136 having an autistic child), including 197 VM parents. SWB was measured first, followed by mental health and demographic information, using an anonymous online survey available in English or Vietnamese. Hierarchical regression tested whether being VM, having an autistic child, or their interaction predicted SWB, controlling for income. Results Having an autistic child was associated with lower SWB ( b = −4.59, SE = 1.97, t = −2.23, p = .020) while being VM alone predicted higher SWB ( b = 3.71, SE = 1.62, t = 2.29, p = .022). However, their interaction was significant and negative ( b = −7.68, SE = 3.00, t = −2.56, p= .011), indicating that VM parents of autistic ch…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261464200",
+      "title": "Preliminary Reliability and Validity of the M-CHAT-S, a New Autism Screening Tool for School-Aged Children",
+      "authors": [
+        "Ashley de Marchena",
+        "Andrea T. Wieckowski",
+        "Alexia F. Dickerson",
+        "Hunter S. Cheng",
+        "Georgina Perez Liz",
+        "Ashley Dubin",
+        "Giacomo Vivanti",
+        "Marianne Barton",
+        "Deborah Fein",
+        "Diana L. Robins"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-07-22",
+      "doi": "10.1177/13623613261464200",
+      "url": "https://doi.org/10.1177/13623613261464200",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Identifying autism early is critical for ensuring timely access to appropriate educational and clinical supports. Current autism screening practices primarily focus on toddlers; universal practices for identifying the substantial portion of autistic children who arrive at school age without a diagnosis are lacking. This study evaluates the preliminary reliability and validity of the Modified Checklist for Autism in Toddlers–School Age version (M-CHAT-S), a novel screener designed for early school-age children, with separate versions for verbally fluent and minimally verbal children. A total of 165 caregivers and 107 educators completed the M-CHAT-S, along with the Social Responsiveness Scale, Second Edition (SRS-2), to test convergent validity, and the Child Behavior Checklist (CBCL), to test discriminant validity. Findings demonstrate strong internal consistency across versions (Cronbach’s α = .79–.92) and robust construct validity. Children with preexisting autism diagnoses scored higher on the M-CHAT-S than nonautistic children. Both test–retest reliability and interrater reliability were in the moderate range. Despite these limitations, the M-CHAT-S demonstrates promise as a sc…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261464659",
+      "title": "Examining the Roles of Retrieval Practice and Post-Retrieval Feedback in Learning Among Autistic Adults",
+      "authors": [
+        "Brianna E. Cairney",
+        "Eileen Haebig",
+        "Heather D. Lucas"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-07-22",
+      "doi": "10.1177/13623613261464659",
+      "url": "https://doi.org/10.1177/13623613261464659",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Retrieval practice enhances learning and is most effective when feedback is provided. Despite robust evidence that retrieval practice and post-retrieval feedback benefit numerous clinical populations, these techniques have not been studied in autism. In two experiments, we measured retrieval practice and post-retrieval feedback effects on associative memory in autistic and non-autistic adults residing in the United States. Participants attempted to memorize semantically unrelated word pairs, which were then reviewed during a practice phase consisting of retrieval practice with and without feedback. In Experiment 1, word pairs were presented to participants (40 autistic; 40 non-autistic) auditorily. In Experiment 2, stimuli were presented visually and restudy trials were added to the practice phase. Additionally, feedback for retrieval practice trials was manipulated between-subjects (80 participants per group) and a four-alternative recognition test was used in the practice phase. In both experiments, the testing phase consisted of cued recall. Both experiments yielded benefits of feedback following initial retrieval practice across groups. In addition, Experiment 2 demonstrated th…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2699870",
+      "title": "Effectiveness of group-based early start Denver Model for autistic children with intellectual disability from culturally and linguistically diverse backgrounds",
+      "authors": [
+        "Ifrah Abdullahi",
+        "Cheryl Dissanayake"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-07-22",
+      "doi": "10.1080/20473869.2026.2699870",
+      "url": "https://doi.org/10.1080/20473869.2026.2699870",
+      "neurotype": [
+        "Autism"
+      ],
       "framing": "Neurodiversity-informed"
     },
     {
@@ -200,6 +318,26 @@
       ],
       "abstract": "Purpose For people with autism spectrum disorder (ASD) or ASD traits, it is known to be difficult to take turns in conversation and maintain relationships. To address this, the authors provide online Social Skills Training (SST), a type of interpersonal skills training, to adults with ASD who have difficulty communicating. The SST program includes listening to individual goals and a speech activity where participants share their personal experiences with adolescents. This study aims to explore changes in communication skills, self-esteem and progress toward individual communication goals associated with participation in this online SST. Design/methodology/approach Participants included five men diagnosed with ASD or showing tendencies of the condition. They completed social skills and self-esteem scales before and after the intervention. Individual goal performance was assessed at three points: pre-, mid- and postintervention. An open-ended questionnaire was administered during the final session to explore the reasons behind participants’ self-assessments. Findings This online SST program suggested no change in self-esteem, but improvements in self-control and the regulation of int…",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/10870547261468105",
+      "title": "A Mixed Methods Study of Treatment Acceptability and Intervention Preference Among College Students with ADHD",
+      "authors": [
+        "Erin L. Girio-Herrera",
+        "Minha Asif"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-22",
+      "doi": "10.1177/10870547261468105",
+      "url": "https://doi.org/10.1177/10870547261468105",
+      "neurotype": [
+        "ADHD"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
     },
     {
       "id": "10.1007/s10803-026-07438-6",
@@ -8589,59 +8727,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1002/aur.70235",
-      "title": "Autism Spectrum Disorder Among Gender‐Diverse Children and Adolescents: A National Cohort Study",
-      "authors": [
-        "Erez Topaz",
-        "Tamar Sheppes",
-        "Anat Segev‐Becker",
-        "Galit Israeli",
-        "Asaf Oren",
-        "Yael Lebenthal",
-        "Tomer Shechner",
-        "Liat Perl"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70235",
-      "url": "https://doi.org/10.1002/aur.70235",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "ABSTRACT Autism spectrum disorder (ASD) is more prevalent in transgender and gender‐diverse (TGD) individuals than in the general population, yet the specific developmental pathways within and clinical outcomes of this intersection are insufficiently understood. This study examined how ASD and sex assigned at birth (SAAB) are associated with gender‐related milestones, access to gender‐affirming consultation and care (GACC), and psychiatric outcomes. We reviewed electronic medical records for 786 TGD children and adolescents (aged 4–19 years) presenting to a national referral clinic between 2013 and 2025. Demographic, developmental, and psychiatric variables were analyzed across four ASD‐by‐SAAB groups using generalized linear models and logistic regressions, with Bonferroni‐adjusted post hoc comparisons ( α = 0.0083). ASD was documented in 9.7% of the cohort, with referrals of autistic TGD patients increasing significantly over time. Autistic patients presented with a distinct profile, characterized by higher socioeconomic position (SEP), intellectual giftedness, non‐binary gender identity, and an earlier stage of pubertal development at presentation. Crucially, while ages at gende…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70233",
-      "title": "Optimizing Accuracy of Autism Diagnostic Observation Schedule‐2 in Very Young Children With Modifying the Effect of Global Developmental Delay",
-      "authors": [
-        "Jacqueline Liu",
-        "Qing Lu",
-        "Vini Singh",
-        "Stephanie Choi",
-        "Elizabeth A. Cross",
-        "Ji Su Hong"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70233",
-      "url": "https://doi.org/10.1002/aur.70233",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT The current study investigated 1144 toddlers and preschoolers (ASD + GDD n = 592; ASD only n = 249; GDD only n = 89; no ASD or GDD n = 214) with the toddler module (38.6%), Module 1 (57.5%), and Module 2 (3.9%) as well as Mullen Scales of Early Learning. The calibrated severity score (CSS) was used to compare severity across modules. The study sample was stratified by GDD (Visual Reception Developmental Quotient &lt; 75), and each stratum was investigated with descriptive statistics, ROC curves, and test statistics to identify the optimal cut‐off CSS to differentiate ASD and non‐ASD. ROC analysis indicated that the CSS scores showed excellent discrimination for ASD status for both the GDD (AUC = 0.86) and no GDD (AUC = 0.95) strata. In the no‐GDD stratum, an ADOS‐2 CSS of 5 was determined to be the optimal cut‐off. In the GDD stratum, an ADOS‐2 CSS of 6 was determined to be the optimal cutoff. While non‐spectrum/little‐to‐no concern and autism/moderate‐to‐severe concern showed very high predictive accuracy for diagnostic outcomes, the autism spectrum/mild‐to‐moderate concern lacked clear diagnostic directionality, regardless of GDD status. This is the first study with a la…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/10870547261438171",
       "title": "Psychometric Evaluation of the Spanish Translation of the Disruptive-Behavior Disorder Rating Scale",
       "authors": [
@@ -10987,128 +11072,6 @@
         "Mental health"
       ],
       "abstract": "Abstract Caregivers of autistic children consistently report worse mental health outcomes compared to caregivers of non-autistic children, and behavior problems in autistic children are negatively correlated with caregiver mental health. Despite these difficulties, families of autistic individuals often demonstrate optimism and resilience, which may act as a protective factor against stressors. However, the onset of the COVID-19 pandemic caused detrimental effects on many aspects of life, which may have exacerbated challenges already experienced by families. This study examined the relationship between child behavior problems, family resilience, and the mental health of caregivers of autistic children, with a focus on how the relationship between these variables changed across the pandemic. Data were obtained from the 2019–2021 National Survey of Children’s Health. Binary logistic regression analyses were conducted to assess the association between child behavior problems and caregiver mental health. Separate binary logistic regressions were run to evaluate whether family resilience moderated the aforementioned relationships. Findings indicated a significant relationship between ch…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07292-6",
-      "title": "Prevalence of Autism Spectrum Disorder Severity Levels From the Fifth Edition of the Diagnostic and Statistical Manual (DSM-5) in the Autism and Developmental Disabilities Monitoring Network",
-      "authors": [
-        "Lauren A. Russell",
-        "Sarah C. Tinker",
-        "Kelly A. Shaw",
-        "Matthew J. Maenner",
-        "Monica Dirienzo",
-        "Anne V. Kirby",
-        "Ellen M. Howerton",
-        "Sandra B. Vanegas",
-        "Maya Lopez"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-24",
-      "doi": "10.1007/s10803-026-07292-6",
-      "url": "https://doi.org/10.1007/s10803-026-07292-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose The fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) introduced severity level specifiers for autism spectrum disorder (ASD) with minimal description of the criteria for categorizing three levels of severity (1 to 3, with 3 being the most “severe”). The objective of the analysis was to assess the prevalence of ASD severity levels using population-based surveillance data. Methods We analyzed severity level data on children with ASD ages 4- and 8-years-old in 2018 and 2020 in the multisite Autism and Developmental Disabilities Monitoring (ADDM) Network. Prevalence of any documented severity level and of each individual level were calculated overall and by demographic characteristics. Prevalence ratios adjusted for sex, race/ethnicity, age, intellectual disability, ADDM surveillance year, and site (aPRs) and 95% confidence intervals (CIs) were used for comparisons. Results Less than half (40.4%) of children with documented ASD diagnoses had any severity level specified in their records, with wide variation by site (4.8%-73.2%). Severity levels were more common in records of children aged 4, in surveillance year 2020, and more often mi…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07296-2",
-      "title": "Mindful Parenting in Mothers of Children in Childhood and Adolescence With Autism Spectrum Disorder: Identifying Possible Antecedents",
-      "authors": [
-        "Martina Gallo",
-        "Maria Cristina Gugliandolo",
-        "Eliana De Salvo",
-        "Francesca Cuzzocrea",
-        "Rosalba Larcan"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-24",
-      "doi": "10.1007/s10803-026-07296-2",
-      "url": "https://doi.org/10.1007/s10803-026-07296-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/25739581261433443",
-      "title": "Toward an Emergent Paradigm for Neurodiversity and Health",
-      "authors": [
-        "Lori Hogenkamp",
-        "Dhwani Sanghavi",
-        "Heini Natri"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-03-24",
-      "doi": "10.1177/25739581261433443",
-      "url": "https://doi.org/10.1177/25739581261433443",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Autism research has developed through multiple paradigms. Medical models locate difficulty within individual neurology, while social and neurodiversity models emphasize environmental barriers and the legitimacy of cognitive variation. Biopsychosocial and hybrid approaches integrate these perspectives, recognizing that biological, psychological, and social factors all matter. Yet these frameworks remain largely descriptive and offer limited accounts of how these domains dynamically interact across development to produce the wide heterogeneity observed in autistic experience and adult outcomes. This paper introduces the Evolutionary Stress Framework (ESF), a complexity-based model that reframes neurodevelopmental variation as the emergent outcome of stress–energy regulation and predictive processing over time. Drawing on stress physiology, adaptive calibration theory, predictive processing, and disability scholarship, we review traditional medical, social, biopsychosocial, and hybrid models; examine the contributions and limits of the neurodiversity paradigm; and articulate ESF’s core constructs: emergent neurotypes, stress incoherence, and emergent allostasis. Within ESF, autistic t…"
-    },
-    {
-      "id": "10.1080/20473869.2026.2647338",
-      "title": "The impact of sensory processing on social participation in children with autism spectrum disorder: a cross-sectional study",
-      "authors": [
-        "Deepak Vignesh Raj",
-        "Ganapathy Sankar Umaiorubagam"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-03-24",
-      "doi": "10.1080/20473869.2026.2647338",
-      "url": "https://doi.org/10.1080/20473869.2026.2647338",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1108/aia-11-2025-0118",
-      "title": "Building belonging through empathy: a study of community-centered autism support",
-      "authors": [
-        "Julian Gonzalez",
-        "Jared Tomlin",
-        "Harry Harvin",
-        "Jackson Lowery",
-        "Holly Haynes",
-        "Amy O’Dell"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-03-24",
-      "doi": "10.1108/aia-11-2025-0118",
-      "url": "https://doi.org/10.1108/aia-11-2025-0118",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Employment"
-      ],
-      "tags": [
-        "participatory"
-      ],
-      "abstract": "Purpose This paper aims to examine how processes of developig independence among autistic adults can illuminate broader pathways of personal and community development. What began as research into how autistic adults develop and maintain independence evolved into a profound exploration of community transformation through safety and authentic self-expression. This participatory study emerged from conversations between academic researchers and three autistic men – Harry, Jackson and Jared – who transitioned from struggling students to community leaders at The Jacob’s Ladder School. Design/methodology/approach Through collaborative analysis of their lived experiences, the authors discovered how communities can shift from scarcity-based thinking to abundance-based design, where supporting individuals in bringing their natural, authentic selves enables them to address areas they wish to develop while contributing their unique strengths. Findings The findings reveal how communities designed around radical acceptance enable individuals to work on personal growth areas from a foundation of safety and belonging, creating sustainable pathways where behavioral diversity becomes a source of col…",
       "framing": "Neurodiversity-informed"
     }
   ]
