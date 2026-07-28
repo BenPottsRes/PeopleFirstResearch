@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:09:28Z",
+  "generated_at": "2026-07-28T09:05:06Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -777,6 +777,29 @@
       "abstract": "Background: Children with ADHD show attentional and cognitive control deficits compared to typically developing controls. However, it is unclear whether these deficits are function-specific to subcomponents of attention and cognitive control and/or disorder-specific, that is, unique to one clinical group. Methods: Here, we characterized subcomponents of attentional and cognitive control in children with ADHD ( N = 37, 21.6% girls), ADHD and comorbid anxiety disorder (AnxD, N = 24, 50% girls), AnxD ( N = 39, 30.8% girls), as well as typically developing controls ( N = 36, 41.7% girls) aged 7 to 14 years, using behavioral measures from the Attention Network Test (ANT) and AX Continuous Performance Task (AX-CPT). Analysis of variance (ANOVA) and post hoc t -test were used to test for group differences. Cohen’s d was used as a measure of effect size for significant group differences. Results: Children with ADHD and children with ADHD and comorbid AnxD showed lower accuracy (Cohen’s d = −0.91/−1.08), higher reaction time variability (Cohen’s d = 0.81/1.13) in ANT-derived measures and lower accuracy (Cohen’s d = −0.89/−1.04) and A-cue bias (Cohen’s d = −0.92/−0.98) in AX-CPT -derived mea…"
     },
     {
+      "id": "10.1007/s10803-026-07465-3",
+      "title": "Handling of Reputation-Damaging Information in Adolescents and Young Adults With Autism",
+      "authors": [
+        "Natàlia Barbarroja",
+        "Francesca Giardini",
+        "Mikhail Ordin",
+        "Héctor M. Manrique"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-28",
+      "doi": "10.1007/s10803-026-07465-3",
+      "url": "https://doi.org/10.1007/s10803-026-07465-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose This study investigated how adolescents and young adults, both with and without Autism Spectrum Disorder (ASD), handle and disseminate gossip, particularly when it involves norm-violating, reputation-damaging information. Methods We presented participants with a series of narratives in which a fictional character either adhered to or violated established social norms and asked participants whether they would disclose the newly acquired information. Results We found that negative content—especially involving norm transgressions—was 1.5 times more likely to be shared, regardless of neurodevelopmental profile. Surprisingly, participants across both groups—those with ASD and those without—were equally likely to disseminate harmful gossip, challenging assumptions about reduced reputational sensitivity among autistic participants. However, differences emerged in qualitative patterns: participants in the comparison group often preferred peer recipients and cited reputational protection as a reason for withholding gossip, while participants in the autistic sample more frequently shared information with authority figures and did not reference reputational concerns. Conclusi…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1108/aia-02-2026-0022",
       "title": "Unveiling the mask: early indicators of hidden vulnerability and participation breakdown in mainstream education",
       "authors": [
@@ -798,6 +821,54 @@
         "lived experience"
       ],
       "abstract": "Purpose This study examines whether early indicators of emerging special educational needs and disabilities (SEND) vulnerability are observable within routine school experience prior to crisis-level participation breakdown, and how such signals are interpreted within school systems. Drawing on retrospective case analysis, it explores the timing, character and organisational interpretation of early warning signs embedded within apparently successful participation. This study aims to deepen understanding of how hidden vulnerability develops over time and to inform earlier, more responsive approaches to identification and support in mainstream education. Design/methodology/approach This study uses a retrospective qualitative case-based design, drawing on anonymised assessment material generated through routine professional practice. Four cases of pupils aged 12–15, whose participation in mainstream education deteriorated to school refusal or withdrawal, were purposively selected. Data sources included semi-structured parental interviews and school documentation. These were analysed using cross-case reflexive thematic analysis to reconstruct participation trajectories and identify earl…"
+    },
+    {
+      "id": "10.1177/13623613261469910",
+      "title": "Scaling Up Caregiver Support for Autism in Public Health Care: Adoption, Implementation Pace and Sustainability of a Train-the-Trainer Model for the WHO Caregiver Skills Training in Italy",
+      "authors": [
+        "Erica Salomone",
+        "Giulia de Leonardis",
+        "Camilla Ferrante",
+        "Francesca Startari",
+        "Letizia Gila",
+        "Maria Luisa Scattoni"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-07-27",
+      "doi": "10.1177/13623613261469910",
+      "url": "https://doi.org/10.1177/13623613261469910",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "service improvement"
+      ],
+      "abstract": "Train-the-Trainer (TTT) models can scale parent-mediated interventions (PMIs) in public health care, yet evidence on large-scale implementation remains limited. This study reports the implementation of an adapted TTT model for the WHO Caregiver Skills Training (CST) within the Italian National Health Service, evaluating adoption, acceptability, feasibility and sustainability. Twenty-eight clinicians from 10 Regions undertook the four-phase TTT. A mixed-methods design combined surveys with focus groups, analyzed using the Consolidated Framework for Implementation Research (CFIR). Twenty trainees (71%) qualified as Master Trainers (MTs), and 17 of these (85%) trained facilitators; 60% of MTs achieved full fidelity within the expected timeline. Satisfaction ratings were high, whereas feasibility ratings were mid-range. Implementation inhibitors clustered in the CFIR Inner setting (available resources, leadership engagement), Outer setting (lack of formal recognition), and Process (training model’s intensity structure) domains. Accelerators included Characteristics of individuals (motivation, readiness to change), Intervention characteristics (responsiveness to families’ needs, accessi…"
+    },
+    {
+      "id": "10.1177/25739581261473988",
+      "title": "Beyond “Misleading”: Rethinking the Evaluation of Autism and ADHD Social Media Content",
+      "authors": [
+        "Alvin van Asselt",
+        "Larissa Venema-Avezaat",
+        "Desiree Reekers",
+        "Yvonne Ras",
+        "Yvette Roke"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-07-27",
+      "doi": "10.1177/25739581261473988",
+      "url": "https://doi.org/10.1177/25739581261473988",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ]
     },
     {
       "id": "10.1007/s10882-026-10086-4",
@@ -842,6 +913,30 @@
         "lived experience"
       ],
       "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) remains underdiagnosed in women, with many receiving a diagnosis later in life. This qualitative study explored the lived experiences of women who received an ADHD diagnosis in adulthood, addressing a limited gap in the current literature. Method: Twelve women aged 45 to 58 participated in semi-structured interviews, which were analysed using reflexive thematic analysis. Results: Three key themes were identified: Discovering ADHD: Revealing the Hidden Struggles , Battling the Emotional Storms of ADHD , and Living with ADHD . Participants described years of misdiagnosis, internalised stigma, and emotional dysregulation, often compounded by hormonal fluctuations that impacted symptom severity and medication efficacy. Despite these challenges, many women reframed aspects of their ADHD, particularly hyperfocus, as a functional strength and described their diagnosis as profoundly validating. Conclusion: The study highlights the need for improved gender-sensitive diagnostic practices, clinician awareness of ADHD symptom presentation across the female lifespan, and tailored treatment approaches that account for hormonal changes. F…"
+    },
+    {
+      "id": "10.1002/aur.70321",
+      "title": "Socioeconomic Status and Quantity of Shared Book Reading, But Not Screen Time, are Positively Associated With Language Skills in a Nationally Representative Sample of Autistic Children",
+      "authors": [
+        "M. Pecukonis",
+        "A. Geffin"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-07-27",
+      "doi": "10.1002/aur.70321",
+      "url": "https://doi.org/10.1002/aur.70321",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Studies have shown that both distal and proximal environmental factors influence language development in neurotypical children. More specifically, higher socioeconomic status (SES) and more frequent shared book reading have been linked to higher language skills in neurotypical children, while higher screen time has been linked to lower language skills. However, little research has focused on understanding how the environment shapes language development in autistic children, who often experience challenges using and/or understanding spoken language. The present study used data from the 2018–2022 United States National Survey of Children's Health to investigate the associations between SES, quantity of shared book reading and screen time experienced at home, and expressive and receptive language skills in a nationally representative sample of two to five year old autistic children. Structural equation modeling revealed that autistic children from higher SES households, and who experienced shared book reading more frequently at home, had higher expressive and receptive language skills. Shared book reading also mediated the association between SES and children's language skill…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261468802",
@@ -9107,54 +9202,6 @@
         "communication"
       ],
       "abstract": "Parent engagement in early intervention supports child progress but is variable in community settings and understudied in autism populations. Prior studies have examined attendance and homework completion rather than parent participation engagement—active, independent, and responsive contribution to treatment—and it is unclear how these distinct engagement measures are related. This study examined how observationally-coded parent participation engagement during early intervention sessions, between-session practice, and attendance were interrelated in addition to the influence of sociodemographic (marital status, minoritized racial/ethnic identity, and education) and psychological characteristics (stress, self-efficacy, and motivation) on engagement. The sample included 164 parents of toddlers (16–34 months) with an autism diagnosis or early autism indicators (i.e. social communication delays) receiving services through the publicly funded Part C Early Intervention system in the United States, which serves children under 36 months with developmental delays and disabilities. Observed parent participation engagement, parent-reported between-session practice, and attendance were not si…"
-    },
-    {
-      "id": "10.1177/13623613261431925",
-      "title": "‘A New Pace of Life’: A Mixed-Methods Exploration of Retirement Plans, Preparations and Experiences in Middle-Aged and Older Autistic and Non-Autistic Adults",
-      "authors": [
-        "Zuzanna Kowalczyk",
-        "Ahna Huwaida Ahmad Fadzil",
-        "Isabel Ward",
-        "Francesca Happé",
-        "Gavin R Stewart"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261431925",
-      "url": "https://doi.org/10.1177/13623613261431925",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Quality of life"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Retirement is a major life change affecting routines, finances and wellbeing. Autistic adults may face extra challenges during this transition due to employment barriers, limited support and planning difficulties. However, little is known about their retirement experiences compared to non-autistic adults. This mixed-methods study surveyed 517 adults from the United Kingdom (autistic n = 395), aged 40–90 years, about their retirement status, plans, experiences, employment history, income and financial security. Actual or expected retirement ages were similar across groups, but autistic adults were less likely to have made plans and more likely to have plans disrupted by financial, health or personal factors. They also reported lower rates of full-time work, reduced pensions and lower pre-retirement income. Many highlighted a lack of information about pensions and lifestyle planning. Concerns included isolation, loss of routine and financial worries, but some looked forward to more autonomy and time for self-care, leisure activities and interests. While there were many similarities between the autistic and non-autistic groups, our study found that autistic adults may reach retirement…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261427571",
-      "title": "Impacts of Knowledge and Familiarity on Differences in Explicit Stigma and Implicit Biases Toward Autism Across France",
-      "authors": [
-        "Camille Mazouffre",
-        "Florian Laronze",
-        "Anouck Amestoy",
-        "Bernard N’kaoua"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261427571",
-      "url": "https://doi.org/10.1177/13623613261427571",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Autistic people frequently experience stigma that can be expressed whether consciously or unconsciously. This study examined how familiarity with autistic people, factual knowledge about autism, sociodemographic characteristics, and cultural value orientations relate to three facets of autism stigma: desired social distance, stereotypical beliefs, and implicit bias. French adults ( N = 277) completed online measures of autism knowledge, familiarity, social distance, and stereotypes, a cultural orientation scale, and an Implicit Association Test assessing automatic evaluations of autism. Results showed that familiarity and knowledge about autism were both associated with lower explicit stigma, while only familiarity was linked to a reduction in implicit prejudice. Moreover, the regression analysis has shown that the different constructs of stigma evaluated in our study (social distance, stereotype, and implicit bias) were predicted by different variables. Particularly, social distance was predicted by stronger stereotypes, male gender, and more individualistic values, whereas stereotypes were higher among older, less-educated participants with limited knowledge, less familiarity, an…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1002/aur.70258",
