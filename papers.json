@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T09:09:29Z",
+  "generated_at": "2026-07-30T09:03:10Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -677,29 +677,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/10870547261432427",
-      "title": "ADHD Characteristics Are Linked to Divergent Risk-Taking Behaviors",
-      "authors": [
-        "Anselm B. M. Fuermaier",
-        "Hui Dong",
-        "Yehuda Pollak",
-        "Barbara R. Braams",
-        "Tycho J. Dekkers"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/10870547261432427",
-      "url": "https://doi.org/10.1177/10870547261432427",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Objectives: Decades of research on individuals with ADHD across the lifespan have consistently demonstrated an increased tendency for negative risk-taking. However, the potential for positive forms of risk-taking has been largely overlooked. Very recently, Braams et al. were the first to report an increased likelihood of prosocial risk-taking, a subtype of positive risk-taking, among adolescents with ADHD. Building on their findings, the present preregistered study investigates self-reported likelihoods of engaging in negative, positive, and prosocial risk-taking and examines their associations with ADHD characteristics, as well as internalizing symptoms as comparison measures. Methods: This correlational study analyzed survey data from 611 participants drawn from the Dutch general population. Participants rated their likelihood of engaging in negative, positive, and prosocial risk-taking behaviors and completed standardized questionnaires assessing ADHD characteristics as well as internalizing symptoms of depression, anxiety, and stress. Correlation analyses, regression models, and categorical analyses were used to examine the unique and combined contributions of ADHD characterist…"
-    },
-    {
       "id": "10.1007/s10803-026-07440-y",
       "title": "Everyday Social Interaction Mediates the Relation Between Autistic Children’s Theory of Mind and Parental Stress",
       "authors": [
@@ -858,6 +835,60 @@
       ],
       "abstract": "Little research has investigated how autistic individuals make sense of their experiences with socializing and interacting with others in postsecondary education. Autistic students are also dissatisfied with insufficient social interventions and the lack of autistic input in the design of such support. This study investigated the lived experiences of social interaction and related support in autistic postsecondary students. We conducted interviews with eight Chinese autistic students currently enrolled in a university or college in Hong Kong. Analysis using an interpretative phenomenological analysis approach identified four themes, including (1) their attempts and motivation to connect and socialize, which was often felt ineffective and exhausting; (2) the internal negotiation and delicate balance between masking and unmasking; (3) the crucial role of both formal and informal supports in coping with social and emotional challenges; and (4) social support and interventions needed to include diverse strategies ranging from skills building to neurodiversity-informed practices that respond to individual preferences and contexts. This study reveals cultural nuances in social preference…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261470850",
+      "title": "Communicating About Sexuality in Autism: Experiences of Primary Caregivers",
+      "authors": [
+        "Tatiane Geralda André",
+        "Milena de Lucca",
+        "María Dolores Gil-Llario",
+        "Lucila Castanheira Nascimento"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-07-29",
+      "doi": "10.1177/13623613261470850",
+      "url": "https://doi.org/10.1177/13623613261470850",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Mental health"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Sexuality is a fundamental part of human development and should be addressed in its physical, emotional, and social dimensions. However, when it involves autistic children and adolescents, the topic remains marked by taboos, silence, and misinformation, especially within families. To understand the experiences of caregivers of autistic children and adolescents in Brazil and Spain regarding communication about sexuality, a qualitative narrative study was carried out based on Bronfenbrenner’s Bioecological Theory. The research was conducted in Brazil and Spain. In Brazil, participants were recruited in person and remotely; in Spain, recruitment occurred online with academic and social media support. Data were collected through in-depth interviews and field notes using a semi-structured script. Inductive thematic analysis was used to identify recurring patterns. Nineteen caregivers participated, mostly mothers. Two narrative syntheses emerged: (a) “ Breaking the Silence ,” showing how family silences, trauma, lack of knowledge, and autism-related challenges create emotional and cognitive barriers; and (b) “ Navigating Fragilities, Improvisations, and Discoveries ,” illustrating daily…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70327",
+      "title": "Adaptive Functioning, Sensory Processing, and Behavioral Problems in Autistic Children: The Moderating Role of Gender",
+      "authors": [
+        "Cory Shulman",
+        "Danielle Bitton",
+        "Zili Nir"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-07-29",
+      "doi": "10.1002/aur.70327",
+      "url": "https://doi.org/10.1002/aur.70327",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently experience elevated emotional and behavioral difficulties, yet factors associated with variability remain incompletely understood. Adaptive functioning and sensory processing differences have been linked to behavioral problems, but little is known about whether associations differ between boys and girls. This study examined relationships between adaptive functioning, sensory processing, and behavioral problems in children with ASD, focusing on gender as a moderator. The purposive sampling included 110 autistic children ( M age = 85.61 months, SD = 31.51; 50 boys and 60 girls) and their primary caregivers. Adaptive functioning was assessed using the Vineland Adaptive Behavior Scales –Third Edition, sensory processing using the Short Sensory Profile , and behavioral problems using the C hild Behavior Checklist . Gender differences were examined with Mann–Whitney tests, associations with Spearman's correlations, and moderation analyses using PROCESS with bootstrap resampling. Girls demonstrated higher internalizing and externalizing behavioral problems than boys, whereas boys showed greater sensory processing differences…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07465-3",
@@ -4079,27 +4110,6 @@
         "Education"
       ],
       "abstract": "Objective: Many children with diagnosed and subclinical ADHD struggle with low academic motivation in early elementary. Fortunately, teachers’ needs’ supportive practices (NSPs) can mitigate motivational challenges and protect against disengagement and underachievement. Teachers’ NSPs include autonomy support, structure, and positive student-teacher relationships that target children’s motivational resources (i.e., autonomy, competency, and relatedness) needed to engage with school materials. Particularly, autonomy support practices fuel children’s feelings of autonomy, structure caters to feelings of competency, and positive student-teacher relationships provide feelings of belonging. Yet, it is unknown how ADHD symptoms in early elementary are associated with teachers’ NSPs. Methods: One hundred and fifty-four first-grade students and 25 teachers from three school boards participated. We assessed children’s perception of their teachers’ autonomy support and structure and their standardised achievement. We also assessed teachers’ perceptions of students’ ADHD symptoms, student-teacher relationship quality, and conduct problems. Three linear regression analyses were performed with…"
-    },
-    {
-      "id": "10.1177/10870547261433489",
-      "title": "Impact of Medication Therapy on Social, Behavioral, and Employment Outcomes in Adults With ADHD",
-      "authors": [
-        "Maryam Pathan",
-        "Ki Jin Jeun",
-        "Mohammad A. Al-Mamun"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/10870547261433489",
-      "url": "https://doi.org/10.1177/10870547261433489",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "Objective: Limited studies have explored the association between pharmacotherapy treatment and socio-behavioral and employment-related difficulties among adults with ADHD in U.S. This study aimed to evaluate and compare socio-behavioral and employment outcomes among adults with ADHD who were receiving stimulant treatment versus those who were not. Methods: A retrospective cross-sectional study was conducted using the Medical Expenditure Panel Survey data from 2013-2019. Adults with ADHD were categorized into stimulant-treated versus not stimulant-treated groups. Multivariable logistic regression was utilized to assess the association between stimulant use and outcomes of interest (e.g., social, behavioral, and employment outcomes) and was reported using odds ratio (ORs). Propensity score matching was used to control for confounding and sub-group analyses were conducted by adherence to CNS stimulants. Results: Among 1,290 (2,468,186 weighted) patients, 80.67% were stimulant-treated, and 19.33% were not treated with stimulants. No significant differences were found in the employment outcomes between the two groups in adjusted models. Sub-group analyses showed that adherent users of s…"
     },
     {
       "id": "10.1002/aur.70263",
@@ -10992,27 +11002,6 @@
         "Healthcare"
       ],
       "abstract": "Objective: Adaptive behavior relies on a dynamic balance between flexible, goal-directed control, and efficient, automatic processes. This equilibrium is often disrupted in ADHD, a condition understood to exist along a continuum of traits in the general population. While ADHD is consistently linked to response inhibition deficits, its relationship with statistical learning (a mechanism for habit learning) and, crucially, the interaction between these functions, remains underexplored. Methods: Here, using a novel paradigm in a non-clinical sample of university students ( n = 226), we investigated how ADHD-like traits modulate the interplay between response inhibition and statistical learning. Results: We found that higher ADHD-like traits were associated with poorer response inhibition, confirming previous research. Importantly, we uncovered an antagonistic relationship between inhibition and statistical learning, where weaker inhibitory control typically led to enhanced learning of environmental regularities. However, this learning advantage progressively diminished across the ADHD trait continuum, becoming markedly reduced in individuals with high symptom prevalence. Conclusion: T…"
-    },
-    {
-      "id": "10.1007/s40489-026-00551-3",
-      "title": "Play Skills of Children with Autism Spectrum Disorder: A Meta-Analysis of Single-Subject Studies",
-      "authors": [
-        "Şemsi Kübra Akkuş Çarşanbalı",
-        "Selda Özdemi̇r"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-03-31",
-      "doi": "10.1007/s40489-026-00551-3",
-      "url": "https://doi.org/10.1007/s40489-026-00551-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract The purpose of this review was to examine studies that focused on play skills in children with autism and to calculate effect sizes. A total of 23 articles were analyzed according to the What Works Clearinghouse standards for single-subject research, and Tau-U was calculated. As a result of the review, 19 of the studies met the qualitative standards with reservations and 4 met the standards without reservations. The effect sizes of all studies were calculated as 16 very large effect, 6 large effect and 1 moderate effect. The results of the review show that although most of the studies met the qualitative criteria with reservations, they had strong effect sizes.",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
