@@ -1,8 +1,50 @@
 {
-  "generated_at": "2026-07-30T09:03:10Z",
+  "generated_at": "2026-07-31T09:17:11Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1007/s10803-026-07395-0",
+      "title": "Retraction Note: Examining the Impact of Assistive Technology on Psychological Health, Family Education, and Curriculum Research in Japan: Insights from Artificial Intelligence",
+      "authors": [
+        "Yanqi Guo"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1007/s10803-026-07395-0",
+      "url": "https://doi.org/10.1007/s10803-026-07395-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07389-y",
+      "title": "Correction: Altered Higher-Order Structural and Functional Connectivity Coupling in Autism Spectrum Disorder",
+      "authors": [
+        "Zhen Dai",
+        "Lan Yang",
+        "Zhifeng Li",
+        "Xi Zhang",
+        "Jiayu Lu",
+        "Wei Wang",
+        "Ying Wang",
+        "Shuo Zhao",
+        "Bin Wang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1007/s10803-026-07389-y",
+      "url": "https://doi.org/10.1007/s10803-026-07389-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
     {
       "id": "10.1177/10870547261456912",
       "title": "Students’ Experiences of Living with ADHD at University: A Meta-Ethnography",
@@ -675,6 +717,107 @@
       ],
       "abstract": "Motor difficulties are common in autistic individuals and may contribute to challenges in social development. Understanding the association between motor and social skills could inform interventions to improve developmental outcomes. Using data from the Study to Explore Early Development—a large, diverse sample of rigorously characterized preschool-aged autistic children in the United States—we aimed to (a) describe the frequency of motor challenges using multiple standardized instruments; and (b) evaluate associations between motor and social skills. Children were identified from health and education organizations and birth records. Caregivers completed standardized interviews and questionnaires, and children completed comprehensive developmental evaluations to determine autism status. Among 2,039 children meeting the study autism criteria, 67.3% exhibited motor scores ⩾2 standard deviations below the mean on at least one measure. Motor difficulties were more prevalent in the fine motor (up to 63.4%) than gross motor (14.2%) domain and among children with significant visual reception delays (up to 92.8%) than those without these delays (up to 32.0%). After adjusting for covariates…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07464-4",
+      "title": "“Support Me to Take the Steps I Need, to Live the Life I Want, in Ways That Work for Me”: Perspectives of Autistic Adolescents on What is Important for Their Quality of Life",
+      "authors": [
+        "Kathryn Ambrose",
+        "Kate Simpson",
+        "Elizabeth Pellicano",
+        "Melanie Heyworth",
+        "Jacquiline den Houting",
+        "Janneke Roth",
+        "Dawn Adams"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-30",
+      "doi": "10.1007/s10803-026-07464-4",
+      "url": "https://doi.org/10.1007/s10803-026-07464-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Quality of life"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Quality of life (QoL) is a subjective construct, influenced by an individual’s values, priorities and goals, yet little research considers the views of Autistic people regarding what is important for living a ‘good life’. This study addresses the question: “What do Autistic adolescents describe is important for them to live a ‘good life’?”. Methods 42 Autistic adolescents aged 10–17 years (52.4% girls, 45.2% boys, 2.4% non-binary gender) shared their views about what is important for their QoL through written or spoken responses in either a survey or interview. Autistic adolescents were recruited via social media advertisements directed towards parents. Results We identified five themes reflecting the priorities of Autistic adolescents: being understood and accepted, connecting deeply with others, engaging in strengths and passions to experience achievement and develop self-worth, having agency to manage their own needs, and being consulted and listened to. These themes highlight specific aspects within the broad concept of QoL that are most important for Autistic adolescents. Conclusion This study adds to the conceptualisation of QoL for Autistic children and adol…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261470855",
+      "title": "A Systematic Review and Quality Appraisal of AI-Augmented Intervention Studies for Autistic Individuals",
+      "authors": [
+        "Yusuf Akemoğlu",
+        "Emily Brooke Roberts",
+        "Jinjun Xiong"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-07-30",
+      "doi": "10.1177/13623613261470855",
+      "url": "https://doi.org/10.1177/13623613261470855",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Quality of life"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Artificial intelligence (AI) has been increasingly integrated into autism interventions to support personalization and scalability; however, the strength of empirical evidence supporting these approaches remains unclear. In this systematic review, we synthesized and critically appraised experimental studies evaluating AI-based interventions for autistic individuals with a specific focus on intervention outcomes and methodological rigor. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines and a preregistered PROSPERO protocol, we searched databases and identified 13 eligible studies, including randomized controlled trials, quasi-experimental group designs, and single-case experimental designs. Reviewed studies targeted social engagement, communication, emotion recognition, empathy, adaptive participation, and symbolic play and predominantly employed human-in-the-loop models involving parents, educators, or clinicians. Methodological quality was evaluated using design-appropriate quality indicators and What Works Clearinghouse (WWC) standards. Although most studies reported positive short-term effects on participant-level outcomes, ri…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261469627",
+      "title": "Peer Functioning Among Children With ADHD in Early Childhood: The Role of Emotion Dysregulation",
+      "authors": [
+        "Eva L. Goldhagen",
+        "Anthony S. Dick",
+        "Paulo A. Graziano"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-07-30",
+      "doi": "10.1177/10870547261469627",
+      "url": "https://doi.org/10.1177/10870547261469627",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Objective: The goal of this study was to (a) identify which dimensions of emotion dysregulation (i.e., emotion recognition/understanding, emotion regulation, emotion reactivity/lability, callous-unemotional behaviors) are most strongly associated with peer functioning for young children with ADHD only and with comorbid disruptive behavior disorders (ADHD + DBD) as compared to typically developing (TD) children and (b) assess whether improvements in children’s peer functioning are linked to changes in emotion regulation. Method: The sample included 323 children (68.7% boys; M age = 5.47, SD = 0.77, 81.4% Hispanic) with ADHD only ( n = 46), ADHD + DBD ( n = 129), and TD ( n = 148). Domains of emotion dysregulation were measured via parent/teacher report and behavioral observation. Peer functioning was examined via teacher report and sociometric measures administered in a summer camp setting. Results: Analyses of Covariance revealed significant differences in peer functioning and emotion dysregulation across diagnostic groups (Cohen’s d range from = −0.47 to 0.39). Multiple linear regressions indicated significant associations between all subdomains of emotion dysregulation and peer f…"
+    },
+    {
+      "id": "10.1002/aur.70334",
+      "title": "The Effect of Online Parent Training With and Without Coaching Support on the Well‐Being of Families of Children With Neurodisabilities: A Randomized Controlled Trial",
+      "authors": [
+        "Jeffrey McCrossin",
+        "Ali Filali‐Mouhim",
+        "Michael Ungar",
+        "Karen McEwan",
+        "Kathleen O'Grady",
+        "Donna Thomson",
+        "Patricia Lingley‐Pottie",
+        "Patrick McGrath",
+        "Lucyna M. Lach"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-07-30",
+      "doi": "10.1002/aur.70334",
+      "url": "https://doi.org/10.1002/aur.70334",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Families of children with neurodisabilities often face significant child behavioral challenges that can affect overall family functioning and well‐being. This randomized controlled trial (RCT) used family resilience theory as the investigative framework to examine the impact of an online parenting program designed to address child behavioral challenges. Parents of children with a range of neurodisabilities were randomized into three groups: a self‐directed online parenting program, the same program with coaching support, and a control group. Family well‐being was measured using the SCORE‐15 at baseline, 5, and 10 months. The primary analysis included a per‐protocol sample comprising self‐directed participants who completed ≥ 8 of 12 modules, coached participants who completed ≥ 8 modules and ≥ 8 coaching sessions, and all control‐group participants. Linear mixed models (LMMs) were used to analyze the repeated measures data, followed by standard linear regression models to assess the average intervention effect at each time point. Clinically significant changes were calculated via the reliable change index (RCI). Of the 454 families randomized, 422 participants had at least…"
     },
     {
       "id": "10.1007/s10803-026-07440-y",
@@ -5670,24 +5813,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1007/s10803-026-07395-0",
-      "title": "Retraction Note: Examining the Impact of Assistive Technology on Psychological Health, Family Education, and Curriculum Research in Japan: Insights from Artificial Intelligence",
-      "authors": [
-        "Yanqi Guo"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-17",
-      "doi": "10.1007/s10803-026-07395-0",
-      "url": "https://doi.org/10.1007/s10803-026-07395-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
-    },
-    {
       "id": "10.1177/25739581261458522",
       "title": "It’s Not About the Diagnosis: Sibling Relationships of Autistic and Non-Autistic Young Adults",
       "authors": [
@@ -6594,30 +6719,6 @@
         "sensory"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07389-y",
-      "title": "Correction: Altered Higher-Order Structural and Functional Connectivity Coupling in Autism Spectrum Disorder",
-      "authors": [
-        "Zhen Dai",
-        "Lan Yang",
-        "Zhifeng Li",
-        "Xi Zhang",
-        "Jiayu Lu",
-        "Wei Wang",
-        "Ying Wang",
-        "Shuo Zhao",
-        "Bin Wang"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-02",
-      "doi": "10.1007/s10803-026-07389-y",
-      "url": "https://doi.org/10.1007/s10803-026-07389-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261452239",
@@ -9470,39 +9571,6 @@
       "abstract": "ABSTRACT Autistic youth are more likely to be involved in bullying, have poorer mental health, and experience friendships and social support differently compared to neurotypical youth. What remains unclear is whether the relationship between bullying and mental health is different for autistic and neurotypical youth and whether friendships and social support moderate this relationship. In this United Kingdom‐based population‐based study, we investigated the relationship between bullying involvement, victimization, and perpetration, from early childhood (age 5 years) through to mid‐adolescence (age 14 years) with mental health outcomes in later adolescence (age 17 years) for autistic ( n = 576) and neurotypical youth ( n = 14,963). We used parent‐, teacher‐, and self‐reports of bullying at ages 5, 7, 11, and 14 years to identify five bullying trajectory groups (uninvolved, adolescent victim, early childhood victim, early childhood bully, and bully‐victims). Autistic youth were more likely than their neurotypical peers to be in one of the bullying trajectory groups compared to being in the uninvolved group. Specifically, 74% of autistic youth experienced bullying either as victims, b…"
     },
     {
-      "id": "10.1002/aur.70239",
-      "title": "Language Abilities Associated With Household Income and Parental Education Level in Autistic Children During Early Childhood",
-      "authors": [
-        "Hosanna Kim",
-        "Andrew Dakopolos",
-        "Danielle Harvey",
-        "Olivia Surgent",
-        "Brianna Heath",
-        "David G. Amaral",
-        "Sally J. Rogers",
-        "Marjorie Solomon",
-        "Christine Wu Nordahl",
-        "Derek Sayre Andrews"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70239",
-      "url": "https://doi.org/10.1002/aur.70239",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Socioeconomic factors, such as poverty, can significantly impact developmental outcomes. While well‐studied in neurotypical children, limited research exists on the impact of these factors on autistic children's development, especially in early childhood. We examined the relationships between two socioeconomic factors, household income and parental education, with cognitive and behavioral profiles in a sample of 308 autistic children aged 2–3.5 years. We found that higher household income and parental education level were significantly associated with higher language abilities and lower externalizing behaviors. Moreover, autistic children from families with below‐average income had lower language abilities compared to those from families with average or above‐average income. The effects of household income and parental education level remained significant even after controlling for one another. Our findings suggest that lower parental education level and household income, particularly among families from the lowest economic backgrounds, significantly impact language abilities in young autistic children and may contribute to the development of externalizing behaviors, a pat…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07342-z",
       "title": "Brief-Report: Associations Between Early Sensory Processing and Emotional-Behavioral Dysregulation in Autistic Toddlers",
       "authors": [
@@ -10913,95 +10981,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/25739581261440760",
-      "title": "Autistic Experience and Aging: A Neurodiversity-Affirmative Approach",
-      "authors": [
-        "Mary E. Stewart",
-        "Anna Day",
-        "Hanna Bertilsdotter Rosqvist"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/25739581261440760",
-      "url": "https://doi.org/10.1177/25739581261440760",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/25739581261440762",
-      "title": "Priorities for Research on Autism and Ageing: A Roundtable Discussion",
-      "authors": [
-        "Mary E. Stewart",
-        "Hanna Bertilsdotter Rosqvist",
-        "Anna Day",
-        "Joseph Long",
-        "Aimee Grant",
-        "Marion Hersh",
-        "Cos Michael",
-        "Mary Doherty",
-        "Cecilia Ingard",
-        "Wenn Lawson"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/25739581261440762",
-      "url": "https://doi.org/10.1177/25739581261440762",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s40489-026-00539-z",
-      "title": "The Role of Family in Autistic Students’ Higher Education Journeys: A Scoping Review",
-      "authors": [
-        "Elinor Lim",
-        "Steven K. Kapp",
-        "Beatriz López",
-        "Emine Gurbuz"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1007/s40489-026-00539-z",
-      "url": "https://doi.org/10.1007/s40489-026-00539-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Abstract A key factor influencing autistic students’ higher education experiences is students’ family dynamics, but literature on this topic remains fragmented. The present scoping review aims to synthesise the various perspectives (e.g., family members, higher education staff) on this topic. Systematic searches were performed on the PsycINFO, Scopus, Web of Science, and PubMed databases. Twenty-three records published between 2008 and 2024 were included. Studies discussed family involvement, support, the role of family, and family relationships. This review found that the main role of family in autistic students’ higher education journeys is to provide non-academic support (e.g., emotional support). Future studies should investigate determinants and outcomes of family involvement and support and examine the roles of non-parental family members.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547261432424",
-      "title": "ADHD-Like Traits Reshape the Balance Between Inhibitory Control and Predictive Processes",
-      "authors": [
-        "Karolina Horváth",
-        "Bianka Brezóczki",
-        "Adrienn Holczer",
-        "Teodóra Vékony",
-        "Dezső Németh"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-04-01",
-      "doi": "10.1177/10870547261432424",
-      "url": "https://doi.org/10.1177/10870547261432424",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "Objective: Adaptive behavior relies on a dynamic balance between flexible, goal-directed control, and efficient, automatic processes. This equilibrium is often disrupted in ADHD, a condition understood to exist along a continuum of traits in the general population. While ADHD is consistently linked to response inhibition deficits, its relationship with statistical learning (a mechanism for habit learning) and, crucially, the interaction between these functions, remains underexplored. Methods: Here, using a novel paradigm in a non-clinical sample of university students ( n = 226), we investigated how ADHD-like traits modulate the interplay between response inhibition and statistical learning. Results: We found that higher ADHD-like traits were associated with poorer response inhibition, confirming previous research. Importantly, we uncovered an antagonistic relationship between inhibition and statistical learning, where weaker inhibitory control typically led to enhanced learning of environmental regularities. However, this learning advantage progressively diminished across the ADHD trait continuum, becoming markedly reduced in individuals with high symptom prevalence. Conclusion: T…"
     }
   ]
 }
