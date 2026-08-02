@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T08:34:21Z",
+  "generated_at": "2026-08-02T08:37:23Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -767,6 +767,32 @@
       ],
       "abstract": "Motor difficulties are common in autistic individuals and may contribute to challenges in social development. Understanding the association between motor and social skills could inform interventions to improve developmental outcomes. Using data from the Study to Explore Early Development—a large, diverse sample of rigorously characterized preschool-aged autistic children in the United States—we aimed to (a) describe the frequency of motor challenges using multiple standardized instruments; and (b) evaluate associations between motor and social skills. Children were identified from health and education organizations and birth records. Caregivers completed standardized interviews and questionnaires, and children completed comprehensive developmental evaluations to determine autism status. Among 2,039 children meeting the study autism criteria, 67.3% exhibited motor scores ⩾2 standard deviations below the mean on at least one measure. Motor difficulties were more prevalent in the fine motor (up to 63.4%) than gross motor (14.2%) domain and among children with significant visual reception delays (up to 92.8%) than those without these delays (up to 32.0%). After adjusting for covariates…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261474901",
+      "title": "Sex Differences in the Age at First Health Service Use for ADHD Among Australian Children",
+      "authors": [
+        "Melissa Mei Yin Cheung",
+        "Tasmia Hai",
+        "Oliver J. Watkeys",
+        "Kristin R. Laurens",
+        "Vaughan J. Carr",
+        "Melissa J. Green"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1177/10870547261474901",
+      "url": "https://doi.org/10.1177/10870547261474901",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Emergency care",
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Objective: There is evidence to suggest that girls with ADHD are less likely to be diagnosed with and receive treatment for ADHD in childhood compared to boys. However, it is unclear whether there are sex differences in first use health services for ADHD. This study compared the age at which girls and boys first accessed health services for ADHD. Methods: Participants were 89,587 children followed from birth to age ~18 years with linked administrative health records within a longitudinal population cohort study in New South Wales, Australia. The age at the first use of health services for ADHD was identified from records of subsidised medication prescriptions, ambulatory mental health service use, emergency department presentations and hospital admissions, and examined in relation to the child’s sex assigned at birth. Results: In this population cohort, 7,402 (8.3%) children accessed health services for ADHD before their 18th birthday. The percentage of girls with a record of using health services for ADHD (5.5%) was approximately half that for boys (10.9%). Girls were older at their first use of health services for ADHD (median age 13.6 years, modal age 17 years) than boys (median…"
     },
     {
       "id": "10.1177/13623613261469916",
@@ -9451,53 +9477,6 @@
       ],
       "abstract": "Background: Microaggressions—subtle insults, invalidations, or slights directed at marginalized groups—negatively affect mental health and identity. However, little is known about how autistic people experience microaggressions across their daily lives in Japan. To the beast of our knowledge, this is the first qualitative study examining how Japanese autistic people experience microaggressions related to or attributed to their autism. Methods: We conducted an online cross-sectional survey in March 2023. A total of 330 autistic individuals (aged 18–39 years) responded to two open-ended questions about direct and indirect microaggressions in their daily lives. We analyzed 288 microaggressive experiences related to or attributed to participants’ autism using codebook thematic analysis. Three researchers generated the initial codes and preliminary themes, which the full team then refined through iterative discussion. Results: We identified four themes describing how autistic people in Japan encounter microaggressions in their daily lives. Theme 1: Living with fluctuating standpoints reflects how others position autistic people as either inferior or unrealistically gifted. Theme 2: Livi…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261437916",
-      "title": "Grief, Relief, and Belief: A Social Media Study on Late Identification of Neurodivergence",
-      "authors": [
-        "Ally Pax Arcari Mair",
-        "Marina Gonzalez-Figueroa",
-        "Doug McConachie",
-        "Karen Goodall",
-        "Karri Gillespie-Smith"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261437916",
-      "url": "https://doi.org/10.1177/13623613261437916",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Little is known as to what drives feelings of grief and relief observed following the late identification of neurodivergence, and its significance as it relates to sense of self and self-understanding. As such, this study considers how grief is understood and experienced by neurodivergent individuals in the context of late identification. This study used qualitative content analysis to identify themes from 225 public social media posts discussing grief and relief in relation to a late identification. With a sample focused mainly on autism, attention deficit hyperactivity disorder, and both co-occurring, four main themes, under an overarching theme and process, titled the Grief, Relief, and Belief Cycle, were identified: (1) The Life I Could Have Had; (2) Grieving for My Younger Self; (3) Feeling Gratitude; and (4) Post-Diagnosis Burnout. Overall, this study calls for a paradigm shift in how we understand and support neurodivergent individuals diagnosed in adulthood, seeing diagnosis as a first step, rather than a terminal component of a service, emphasising the need for comprehensive, individualised, wraparound care that addresses the emotional and practical aspects of their lives…"
-    },
-    {
-      "id": "10.1177/13623613261431269",
-      "title": "Assessing Social Identity in Autistic Individuals: Evaluating A Self-Report Questionnaire in the Netherlands",
-      "authors": [
-        "Lisa JG Krijnen",
-        "Ralph CA Rippe",
-        "Sander Begeer",
-        "Rachel D Plak"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1177/13623613261431269",
-      "url": "https://doi.org/10.1177/13623613261431269",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "People with autism often face mental health difficulties at rates far exceeding those of the general population. How autistic individuals relate to their autism classification and the autistic community, also known as social identity , may form a protective factor for mental health. However, validated tools to assess social identity in autistic populations are lacking. This study aims to evaluate the Dutch version of the 14-item Social Identity in Autism Questionnaire (SIAQ) and examine associations between social identity and demographic, autism-related, and mental health variables. A total of 1443 autistic individuals from the Netherlands (mean age = 47 years, 54% women, 98% Dutch) completed the SIAQ and measures assessing demographics, autism characteristics, and mental health. Factor analyses revealed a four-factor structure: solidarity (three items, feelings of connection to people with autism), satisfaction (four items, positive feelings about being autistic), centrality (three items, the importance of autism to one’s sense of self), and self-definition (four items, perceived similarity to other autistic people and within the autistic community). Internal consistency was acce…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1002/aur.70258",
