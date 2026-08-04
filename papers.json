@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:06:50Z",
+  "generated_at": "2026-08-04T09:10:02Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -172,6 +172,29 @@
       "abstract": "Objective: Parental mental health plays a critical role in the wellbeing of the family, yet few studies have examined how parental ADHD affects postpartum depression and anxiety. This study investigates the hypothesis that parent (including coparent) ADHD symptoms are associated with postpartum depressive and anxiety symptoms. Methods: 117 mother-father dyads (half with parental ADHD) were recruited when their infants were 6 to 10 months old. Participants completed questionnaires on ADHD, depression, anxiety, and social support. Clinician-administered semi-structured interviews assessed ADHD symptoms and psychiatric histories. Results: Participants in ADHD and non-ADHD dyads were demographically comparable but differed in prevalence of prior mood disorder (47% vs. 24%). Individuals with ADHD had significantly higher odds of moderate-to-severe depressive (OR = 2.70, 95% CI [1.10, 6.62]) and anxiety symptoms (OR = 4.58, 95% CI [1.82, 11.53]). Parallel mixed effects models accounting for parent dyad found that self-reported and clinician-reported ADHD symptoms and prior mood disorder history were significant predictors of depressive and anxiety symptoms ( p &lt; .025). Coparent ADHD s…"
     },
     {
+      "id": "10.1007/s10803-026-07471-5",
+      "title": "Burden of Co-occurring Conditions and Perinatal Predictors of Epilepsy in Autism Spectrum Disorder: A Cross-Sectional Study of 1015 Children From Northwestern Mexico",
+      "authors": [
+        "Jesús Javier Martínez-García",
+        "Jesús Elmer Pérez-Parra",
+        "Rossela de Jesús Vega-Castro",
+        "Esthela María Robledo-Conde",
+        "Angélica Martínez-Félix",
+        "Nidia León-Sicairos",
+        "Uriel A. Angulo-Zamudio",
+        "Adrián Canizalez-Román"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-04",
+      "doi": "10.1007/s10803-026-07471-5",
+      "url": "https://doi.org/10.1007/s10803-026-07471-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-026-07469-z",
       "title": "Early Screen Time and Behavioral Symptom Trajectories in Children With Autism and ADHD: A Longitudinal Cohort Study",
       "authors": [
@@ -250,6 +273,35 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261469909",
+      "title": "Navigating Mixed-Neurotype Dialogue: Environmental and Affective Influences on Autistic Speakers",
+      "authors": [
+        "Zachary A. Miller",
+        "Caitlin M. Conner",
+        "Judy C. Chang",
+        "Carla A. Mazefsky"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-03",
+      "doi": "10.1177/13623613261469909",
+      "url": "https://doi.org/10.1177/13623613261469909",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "In this reflective report study, we examined communication challenges for autistic adults by examining the influences of emotional state and environmental context across neurotype conversation partners. Using the Neurotype Communication and Assistive Technology Survey (NCATS), we surveyed 165 autistic adults (18–35 years old) and analyzed 154 responses to capture both quantitative ratings and qualitative descriptions of past contextual conversations. The majority of the participants noted that environmental factors, such as crowdedness, noise levels, and familiarity, at least somewhat impacted their communication. Autistic adults reported that noisy or unpredictable settings were associated with word loss, scripting, and social withdrawal, while quiet and familiar spaces facilitated openness and authentic self-expression. In addition, participants stated that conversations with allistic (non-autistic) partners required more conscious effort, social masking, and cognitive load than conversations with autistic partners, consistent with the Double Empathy Problem. Finally, survey responses revealed that negative emotions such as stress, frustration, and anxiety may worsen communicatio…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00584-8",
@@ -355,6 +407,38 @@
         "sensory"
       ],
       "abstract": "ABSTRACT The ability to detect recurring temporal co‐occurrence, or temporal correlation, of sensory events is fundamental for organizing perceptual input into coherent representations. Although past work has revealed differences across several aspects of temporal processing in autism, it is unknown whether autistic and non‐autistic individuals differ in the key computation of correlation detection. Here, we examined this question in the visual domain using an online task. A total of 143 age‐ and sex‐matched adults (73 autistic, 70 non‐autistic) viewed sequences in which three visual elements stochastically alternated between bright and dark states. Two of these were disks, and the third was a surrounding annulus. Participants indicated which of the two disks co‐occurred more reliably with the annulus. Accuracy increased systematically with correlation strength in both groups, but there were no significant group differences and no negative association between performance and autistic trait scores when controlling for nonverbal IQ. These findings suggest that visual correlation detection, under the conditions tested here, is preserved in autistic adults. This points to a key aspect…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1186/s11689-026-09703-2",
+      "title": "Self- and parent-reported executive function and self-determination in autistic teens: domain-specific relationships and cross-rater considerations",
+      "authors": [
+        "Jennifer R. Bertollo",
+        "Lauren Baczewski",
+        "Hannah Behar",
+        "Elizabeth R. Black",
+        "Tara Anderson",
+        "K. Sharp",
+        "Andrea Lopez",
+        "Chloe C. Neuman",
+        "Alyssa Verbalis",
+        "Cara E. Pugliese",
+        "Lauren Kenworthy"
+      ],
+      "journal": "Journal of Neurodevelopmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-03",
+      "doi": "10.1186/s11689-026-09703-2",
+      "url": "https://doi.org/10.1186/s11689-026-09703-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment",
+        "Quality of life"
+      ],
+      "abstract": "Abstract Background Self-determination, or the degree to which an individual perceives they have “causal agency” over their life plans, is an important predictor of quality of life, employment, and education for autistic people. However, little research has explored predictors of self-determination in autism. Limited research links executive function (EF) to self-determination, but tends to focus on EF globally and fails to address specific EF subdomains. Report of cross-rater links between EF and self-determination (e.g., parent-report EF and self-report self-determination) is also missing. As such, the current study evaluates the relation between real-world EF subdomains and self-determination, both within and between raters. Methods 226 autistic teens ages 14–22 years ( M = 16.17; 73% male, 75% white, 89% non-Hispanic) and their parent/caregiver completed rating scales about the teens’ EF and self-determination at enrollment for one of two EF intervention studies. Through a series of linear regressions, the relationship between EF subscales on the BRIEF-2 and Self-Determination capacity and opportunity at home (on the AIR Self-Determination Scale) were evaluated within each rate…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -2738,7 +2822,7 @@
       "tags": [
         "communication"
       ],
-      "abstract": "Abstract Background Autism spectrum disorder (ASD) affects social interaction, communication and behavioural flexibility. Recent theories grounded in the Bayesian Brain Framework propose that autistic individuals process environmental uncertainty differently, overweighting volatility when updating predictions about the world. However, the robustness of these predictive processing differences and their relevance to core symptoms remains unclear. Methods Lawson and colleagues (1) reported a tendency to overestimate environmental volatility in autistic adults based on belief states extracted using a Hierarchical Gaussian Filter. We extended their paradigm to a domain central to the autistic experience: rather than distinguishing houses from faces, participants detected valence in emotional facial expressions. Preregistered hypotheses were evaluated using Bayesian linear mixed models based on data of 22 autistic and 22 non-autistic participants. Results Despite using an identical computational model to extract belief states, we did not find robust differences between autistic and non-autistic adults, though autistic participants showed a non-credible trend towards increased processing…",
+      "abstract": "Abstract Background Autism spectrum disorder (ASD) affects social interaction, communication and behavioural flexibility. Recent theories grounded in the Bayesian Brain Framework propose that autistic individuals process environmental uncertainty differently, overweighting volatility when updating predictions about the world. However, the robustness of these predictive processing differences and their relevance to core symptoms remains unclear. Methods Lawson and colleagues [1] reported a tendency to overestimate environmental volatility in autistic adults based on belief states extracted using a Hierarchical Gaussian Filter. We extended their paradigm to a domain central to the autistic experience: rather than distinguishing houses from faces, participants detected valence in emotional facial expressions. Preregistered hypotheses were evaluated using Bayesian linear mixed models based on data of 22 autistic and 22 non-autistic participants. Results Despite using an identical computational model to extract belief states, we did not find robust differences between autistic and non-autistic adults, though autistic participants showed a non-credible trend towards increased processing…",
       "framing": "Neurodiversity-informed"
     },
     {
