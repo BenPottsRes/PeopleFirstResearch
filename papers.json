@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T09:10:02Z",
+  "generated_at": "2026-08-05T09:07:11Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -193,6 +193,63 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70338",
+      "title": "Robots for Autism Therapy",
+      "authors": [
+        "Rebecca Ramnauth",
+        "Frederick Shic",
+        "Brian Scassellati"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-04",
+      "doi": "10.1002/aur.70338",
+      "url": "https://doi.org/10.1002/aur.70338",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "ABSTRACT A growing body of work on robot‐mediated therapy suggests that robots can elicit engagement and novel social behaviors among users with autism. In this narrative review, we trace the full historical arc of this field to date, from its inception in 2001 to 2024, covering 304 studies that present a robot for autism support. Early work largely consisted of short, highly structured sessions conducted in controlled laboratory or clinical environments. More recent research has shifted toward longer‐term, real‐world deployments in which robots operate with greater autonomy and engage users over multiple days or weeks. However, evidence for lasting and generalized benefits is still limited. The literature also remains focused primarily on children, with comparatively little research involving adults or individuals across a wider range of support needs. Despite rapid growth over these past two decades, the research remains fragmented across disciplinary boundaries, with robotics and clinical communities advancing similar goals without a cohesive, shared research framework. To address this, we offer a translational roadmap that details what interventions work, for whom, under which…"
+    },
+    {
+      "id": "10.1186/s13229-026-00736-x",
+      "title": "Predicting early intervention outcomes in autism via individual participant data mega-analysis",
+      "authors": [
+        "Veronica Mandelli",
+        "Elena Maria Busuoli",
+        "Michel Godel",
+        "Nada Kojovic",
+        "Yana Sinai-Gavrilov",
+        "Tali Gev",
+        "Annarita Contaldo",
+        "Eric Courchesne",
+        "Karen Pierce",
+        "Ofer Golan",
+        "Antonio Narzisi",
+        "Filippo Muratori",
+        "Costanza Colombi",
+        "Sally J. Rogers",
+        "Giacomo Vivanti",
+        "Marie Schaer",
+        "Liliana Ruta",
+        "Michael V. Lombardo"
+      ],
+      "journal": "Molecular Autism",
+      "year": 2026,
+      "published_date": "2026-08-04",
+      "doi": "10.1186/s13229-026-00736-x",
+      "url": "https://doi.org/10.1186/s13229-026-00736-x",
+      "neurotype": [
+        "Autism"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07469-z",
@@ -7515,24 +7572,6 @@
       "abstract": "Autism is the fastest growing neurodevelopmental condition in Canada. Caregiver-mediated interventions, such as the Social ABCs, improve early social communication and caregiver empowerment. To enhance accessibility, Social ABCs was adapted into a condensed, group-based model. This study evaluated its implementation and sustainability at a large pediatric hospital, examining child and caregiver outcomes across multiple coach training pathways and French-language delivery. A retrospective chart review included 361 families (children 12–42 months with suspected or confirmed autism) who completed six weekly group sessions and nine individual caregiver coaching sessions between 2020 and 2024. Coaches were trained via expert-led, hybrid, or site-led pathways. Caregiver implementation fidelity improved from 33.6% to 70.0% ( p &lt; 0.001), with similar gains in English and French. Child vocal responsivity increased from 5.7% to 43.2% ( p &lt; 0.001), and post-intervention caregiver fidelity correlated with child responsivity ( r = 0.25, p &lt; 0.001). Fidelity and responsivity outcomes did not differ by training pathway, supporting site-led training. Multiple pathways expanded clinician c…"
     },
     {
-      "id": "10.1177/13623613261434431",
-      "title": "Associations Between Autism and Self-Reported Dimensions of Interoception",
-      "authors": [
-        "Kiera Louise Adams",
-        "Caroline Catmur",
-        "Geoffrey Bird"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261434431",
-      "url": "https://doi.org/10.1177/13623613261434431",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Despite a wealth of research on autism and interoception, there is not a clear consensus about which dimensions of interoception (if any) are related to autism. This study explored whether self-reported interoceptive accuracy, attention and evaluation are related to autism diagnosis and autistic traits. We analysed questionnaire responses from 519 participants, including 232 autistic participants. We found that people with an autism diagnosis had more negative interpretations of their bodily signals than people without an autism diagnosis, and increasing autistic traits in a general population sample were associated with higher interoceptive attention, lower interoceptive accuracy and higher negative interoceptive evaluation. Our findings suggest that interoceptive evaluation should be a priority for future research. Lay Abstract Autism is thought to be linked to differences in the way people notice, process and understand signals coming from inside of their bodies. This study explored how both autistic traits and autism diagnoses are associated with the processing of bodily signals. We found that among 519 participants, having more autistic traits meant that people paid more atten…"
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -9816,30 +9855,6 @@
       "tags": [
         "communication"
       ]
-    },
-    {
-      "id": "10.1002/aur.70227",
-      "title": "Bullying Trajectories From Childhood to Adolescence: The Relationship With Mental Health Outcomes for Autistic and Neurotypical Youth",
-      "authors": [
-        "Emre Deniz",
-        "Nathalie Noret",
-        "Athena R. W. Chow",
-        "Jessie R. Baldwin",
-        "Umar Toseeb"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70227",
-      "url": "https://doi.org/10.1002/aur.70227",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT Autistic youth are more likely to be involved in bullying, have poorer mental health, and experience friendships and social support differently compared to neurotypical youth. What remains unclear is whether the relationship between bullying and mental health is different for autistic and neurotypical youth and whether friendships and social support moderate this relationship. In this United Kingdom‐based population‐based study, we investigated the relationship between bullying involvement, victimization, and perpetration, from early childhood (age 5 years) through to mid‐adolescence (age 14 years) with mental health outcomes in later adolescence (age 17 years) for autistic ( n = 576) and neurotypical youth ( n = 14,963). We used parent‐, teacher‐, and self‐reports of bullying at ages 5, 7, 11, and 14 years to identify five bullying trajectory groups (uninvolved, adolescent victim, early childhood victim, early childhood bully, and bully‐victims). Autistic youth were more likely than their neurotypical peers to be in one of the bullying trajectory groups compared to being in the uninvolved group. Specifically, 74% of autistic youth experienced bullying either as victims, b…"
     },
     {
       "id": "10.1007/s10803-026-07342-z",
