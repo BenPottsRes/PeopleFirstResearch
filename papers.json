@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:07:08Z",
+  "generated_at": "2026-08-07T07:42:38Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -172,6 +172,22 @@
       "abstract": "Objective: Parental mental health plays a critical role in the wellbeing of the family, yet few studies have examined how parental ADHD affects postpartum depression and anxiety. This study investigates the hypothesis that parent (including coparent) ADHD symptoms are associated with postpartum depressive and anxiety symptoms. Methods: 117 mother-father dyads (half with parental ADHD) were recruited when their infants were 6 to 10 months old. Participants completed questionnaires on ADHD, depression, anxiety, and social support. Clinician-administered semi-structured interviews assessed ADHD symptoms and psychiatric histories. Results: Participants in ADHD and non-ADHD dyads were demographically comparable but differed in prevalence of prior mood disorder (47% vs. 24%). Individuals with ADHD had significantly higher odds of moderate-to-severe depressive (OR = 2.70, 95% CI [1.10, 6.62]) and anxiety symptoms (OR = 4.58, 95% CI [1.82, 11.53]). Parallel mixed effects models accounting for parent dyad found that self-reported and clinician-reported ADHD symptoms and prior mood disorder history were significant predictors of depressive and anxiety symptoms ( p &lt; .025). Coparent ADHD s…"
     },
     {
+      "id": "10.1177/13623613261470852",
+      "title": "Embedding Child-Centred Information in Developmental Care Pathways for Autistic Children: A Response to Albin et al.",
+      "authors": [
+        "Liping Yang"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-06",
+      "doi": "10.1177/13623613261470852",
+      "url": "https://doi.org/10.1177/13623613261470852",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261471572",
       "title": "Special Interests in Autism: Functions, Benefits, and Challenges",
       "authors": [
@@ -192,6 +208,96 @@
       ],
       "abstract": "Special interests are a highly prevalent feature of autism spectrum conditions (ASC) and have long been described primarily from a deficit-oriented perspective. More recent work has pointed to their potential as psychological resources, yet systematic evidence and direct comparisons with non-autistic groups remain limited. The present study examined the significance of special interests for well-being, self-related aspects and emotion regulation in autistic adults, as well as negative consequences and stigma. Furthermore, we directly compared the likelihood of engaging in special interests versus seeking social contact across a range of emotional contexts. A total of 182 participants (60 autistic and 122 non-autistic) completed an online survey on multiple aspects of their (special) interests and measures of social anxiety and self-esteem. Autistic individuals reported a stronger role of special interests in emotion regulation and as a source of learning and knowledge, while also experiencing greater stigma and negative consequences compared with non-autistic participants. Autistic participants further showed a higher likelihood of relying on their interests as a coping strategy in…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2712433",
+      "title": "Clinical features associated with autism spectrum disorder diagnosed before 30 months of age: evidence from tertiary care hospitals in Thailand",
+      "authors": [
+        "Yongyuth Chumkomlue",
+        "Anya Laopongsit",
+        "Nontiya Homkham",
+        "Pimwarat Srikummoon",
+        "Kamonrut Koobubpha",
+        "Patrinee Traisathit"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-06",
+      "doi": "10.1080/20473869.2026.2712433",
+      "url": "https://doi.org/10.1080/20473869.2026.2712433",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2710252",
+      "title": "Block building training enhances visual perspective taking in autistic children",
+      "authors": [
+        "Mi Tian",
+        "Shiyue Cao",
+        "Juncen Lu",
+        "Xin Li"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-06",
+      "doi": "10.1080/20473869.2026.2710252",
+      "url": "https://doi.org/10.1080/20473869.2026.2710252",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261475377",
+      "title": "Depressed or Disengaged? Disentangling Cognitive Disengagement Syndrome, ADHD, and Depression in Adults",
+      "authors": [
+        "Julian Kafka",
+        "Deborah Ebener",
+        "Serena Bujtor",
+        "Louis K. Nicholas"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-06",
+      "doi": "10.1177/10870547261475377",
+      "url": "https://doi.org/10.1177/10870547261475377",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Objective: This study examined the associations between cognitive disengagement syndrome (CDS), ADHD, and depression in adults to clarify patterns of comorbidity and inform efforts to establish the nosological status of CDS. In addition, the latent structure of adult CDS symptoms was examined, and the clinical relevance of empirically derived CDS dimensions was evaluated. Method: Clinically referred adults completed self-report measures of CDS and depressive symptoms and were assessed for ADHD, anxiety, and depression using multi-informant diagnostic procedures. Exploratory factor analysis was conducted to evaluate the dimensional structure of CDS symptoms. Group comparisons examined differences in depressive symptom severity across diagnostic groups, and correlational analyses evaluated associations between CDS factor scores and depression. Results: Exploratory factor analysis supported a two-factor structure of CDS symptoms reflecting cognitive complaints and lethargy. Individuals with CDS reported significantly greater depressive symptom severity than individuals with ADHD. Both CDS factors were significantly associated with depressive symptoms, with lethargy demonstrating a str…"
+    },
+    {
+      "id": "10.1177/10870547261474553",
+      "title": "Prevalence of Attention-Deficit/Hyperactivity Disorder Across Gender and Sexual Identity Groups in Youth: A Whole-of-Population Study",
+      "authors": [
+        "Byron Rangiwai",
+        "Nicholas Bowden",
+        "Brodie Fraser",
+        "Zoe Kristensen",
+        "Sujin Kwak",
+        "Sujata Saha",
+        "Hiran Thabrew",
+        "Hien Vu",
+        "Rachael Lawrence Lodge"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-06",
+      "doi": "10.1177/10870547261474553",
+      "url": "https://doi.org/10.1177/10870547261474553",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Purpose: To estimate attention-deficit/hyperactivity disorder (ADHD) prevalence across gender identity, transgender status, and sexual identity using whole-population linked data in Aotearoa New Zealand (NZ). Methods: A nationwide cohort study using the 2023 NZ Census linked to administrative health data within Stats NZ’s Integrated Data Infrastructure. Individuals aged 5 to 24 years were included. ADHD was identified from lifetime diagnosis and treatment records. Modified Poisson regression models estimated adjusted incident rate ratios (IRRs) by gender, transgender status, and sexual identity. Results: Among 1,266,456 individuals, 43,095 (3.4%) had ADHD. ADHD prevalence was higher among those identifying with another gender (10.3%) than males (4.6%) or females (2.0%), and among transgender (9.9%) than non-transgender individuals (3.4%). Among those aged 15 to 24 years, ADHD prevalence was higher in non-heterosexual (8.0%) than heterosexual individuals (3.6%). Adjusted analyses showed similarly elevated rates. Conclusion: ADHD prevalence was substantially higher among gender-diverse, transgender, and sexual diverse populations, highlighting the need for inclusive and equitable ass…"
     },
     {
       "id": "10.1177/13623613261464209",
@@ -3647,6 +3753,31 @@
       ],
       "abstract": "Abstract Purpose Despite growing recognition of autism spectrum disorder (ASD) in the Gulf region, little is known about how caregiver characteristics relate to ASD-related knowledge and quality of life (QoL) in Kuwait. This study examined the association between demographic factors and both ASD-related knowledge and caregiver QoL among family caregivers of children and adolescents with ASD. Methods A cross-sectional survey was conducted with 130 unpaid family caregivers of children and adolescents with a confirmed ASD diagnosis in Kuwait. Participants completed a demographic questionnaire, the Autism Spectrum Disorder Parent/Caregiver Quality of Life questionnaire (ASDPC-QoL), and a 31-item ASD knowledge questionnaire. Chi-square tests, independent-samples t tests, and one-way ANOVAs were used to examine group differences. Results Most participants were mothers (68.5%) and female (82.3%). Mean knowledge was 50.7% (SD = 19.2), with 64.6% classified as having poor knowledge. Misconceptions were most prevalent regarding curability, vaccination, and exceptional abilities. Mean overall QoL was 64.7 (SD = 14.5) on a 0–100 scale, with preoccupations scoring lowest. Higher income and educ…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/25739581261467375",
+      "title": "Psychiatric Hospitalizations Among Autistic and Non-Autistic Older Adults",
+      "authors": [
+        "Alison Deitsch",
+        "Melica Nikahd",
+        "J. Madison Hyer",
+        "Bethany Wolf",
+        "Brian W. Patterson",
+        "Lauren Bishop",
+        "Brittany N. Hand"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-07-10",
+      "doi": "10.1177/25739581261467375",
+      "url": "https://doi.org/10.1177/25739581261467375",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: Autistic older adults are more likely to have psychiatric conditions and unmet health care needs, likely driven by marginalization and social inequities. Yet there is a paucity of information about psychiatric service utilization, like psychiatric hospitalizations for mental health crises, in this population. We compared Autistic older adults’ psychiatric hospitalizations, length of stay (LOS), and psychiatric readmissions with those of population controls (PCs) in the United States. Methods: We analyzed psychiatric hospitalization claims from Medicare, a public insurance for Americans aged 65+. Our sample included 6518 Autistic older adults and 12,945 matched PCs. We used multivariable logistic regression to compare groups on the odds of hospitalization and 30, 90, and 180-day psychiatric readmission. We used negative binomial regression to compare LOS. We repeated analyses, stratifying by co-occurring intellectual disability among Autistic older adults. Results: Autistic older adults and PCs did not significantly differ on the odds of psychiatric hospitalization (odds ratio [OR] = 0.91, 95% [confidence interval] CI = 0.79–1.05) prior to stratifying by intellectual dis…"
     },
     {
       "id": "10.1080/20473869.2026.2697948",
@@ -11057,29 +11188,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1108/aia-08-2025-0084",
-      "title": "Autistic people and their families: calls to the police",
-      "authors": [
-        "Allyn Thomas",
-        "Elisabeth Gale",
-        "Magali-Fleur Barnoux",
-        "Glynis H. Murphy"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-04-08",
-      "doi": "10.1108/aia-08-2025-0084",
-      "url": "https://doi.org/10.1108/aia-08-2025-0084",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose Autistic people and their families sometimes have difficulties that require help from the police, but little is known about their contacts with police. This study aims to examine first contacts from autistic people and their families with the police. Design/methodology/approach In this study, in one typical city in England, a database that records all calls to the police (over a period of approximately two months) was analysed to examine the extent to which the calls concerned autistic people. Findings It was found that 2% (n = 78) of the total of 3,654 calls concerned autistic people and their families. About half of the cases related to autistic children and half to autistic adults, with family members being the most frequent callers to the police. In over a quarter of the cases, the calls concerned missing persons, and in about one sixth, they involved the need for support and a similar number involved disputes (usually within the family). The calls were significantly different from non-autistic calls to the police. Research limitations/implications Despite some limitations, for example that the authors were not able to interview the autistic people and their families, t…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
