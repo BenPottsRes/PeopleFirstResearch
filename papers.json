@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:42:38Z",
+  "generated_at": "2026-08-08T07:16:33Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -170,6 +170,125 @@
         "lived experience"
       ],
       "abstract": "Objective: Parental mental health plays a critical role in the wellbeing of the family, yet few studies have examined how parental ADHD affects postpartum depression and anxiety. This study investigates the hypothesis that parent (including coparent) ADHD symptoms are associated with postpartum depressive and anxiety symptoms. Methods: 117 mother-father dyads (half with parental ADHD) were recruited when their infants were 6 to 10 months old. Participants completed questionnaires on ADHD, depression, anxiety, and social support. Clinician-administered semi-structured interviews assessed ADHD symptoms and psychiatric histories. Results: Participants in ADHD and non-ADHD dyads were demographically comparable but differed in prevalence of prior mood disorder (47% vs. 24%). Individuals with ADHD had significantly higher odds of moderate-to-severe depressive (OR = 2.70, 95% CI [1.10, 6.62]) and anxiety symptoms (OR = 4.58, 95% CI [1.82, 11.53]). Parallel mixed effects models accounting for parent dyad found that self-reported and clinician-reported ADHD symptoms and prior mood disorder history were significant predictors of depressive and anxiety symptoms ( p &lt; .025). Coparent ADHD s…"
+    },
+    {
+      "id": "10.1007/s40489-026-00580-y",
+      "title": "Using the Interpersonal Theory of Suicide to Inform Our Understanding of Suicide Risk in Autism Spectrum Disorder: A Scoping Review",
+      "authors": [
+        "Caitlin M. Grieve",
+        "Annelieke M. Roest",
+        "Susan W. White",
+        "Colin O.W. Ganzevoort",
+        "R.W.H. Smit",
+        "Jeroen Bekius",
+        "Ingrid D.C. van Balkom",
+        "Kirstin Greaves-Lord"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-08",
+      "doi": "10.1007/s40489-026-00580-y",
+      "url": "https://doi.org/10.1007/s40489-026-00580-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Abstract This scoping review is the first to systematically map the literature on suicidality in autistic adults through the lens of Joiner’s Interpersonal Theory of Suicide (ITS). Reviewing 51 studies and distinguishing between those directly assessing ITS constructs and those conceptually interpreted in relation to its components, we find preliminary support for the relevance of thwarted belongingness, perceived burdensomeness, and acquired capability in this population, while identifying meaningful variability in how these constructs manifest compared to non-autistic individuals. A cluster of autism-specific risk processes, including camouflaging, intersecting minority identities, emotional and physiological dysregulation, and intolerance of uncertainty, extends beyond the original framework and warrants further longitudinal empirical investigation. Developed in collaboration with autistic co-researchers, we propose an autism-specific adaptation of the ITS as a theoretically informed scaffold, intended as a pragmatic starting point for future research and for informing suicide risk formulation in clinical practice with autistic adults.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07475-1",
+      "title": "Correction: The Links Between Parents’ Self-Stigma, Parental Burnout, Parental Competence, and Socio-Emotional Adjustment Among Parents of Children With Autism Spectrum Disorder",
+      "authors": [
+        "Yahya Aktu",
+        "Sabri Toğluk",
+        "Bilal Vural"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-07",
+      "doi": "10.1007/s10803-026-07475-1",
+      "url": "https://doi.org/10.1007/s10803-026-07475-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07477-z",
+      "title": "Autism Stigma and Employment: A Scoping Review",
+      "authors": [
+        "Lacy M. Poiencot",
+        "Laura K. Vogtle",
+        "Ingrid Franc"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-07",
+      "doi": "10.1007/s10803-026-07477-z",
+      "url": "https://doi.org/10.1007/s10803-026-07477-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Despite the growing awareness of neurodivergence, autistic adults continue to face disproportionately low employment rates worldwide compared to the neurotypical population. This scoping review investigates the impact of social stigma on the employment outcomes of autistic individuals, aiming to understand the experiences of autistic adults in the workplace with the research question: How does the stigma surrounding autism affect the employment outcomes of autistic individuals? Methods This scoping review examined 14 qualitative studies published over the last 10 years and synthesized the perspectives of both employers and autistic employees to identify key themes shaping their workplace experiences. Results The findings suggest that stigma, evident through misconceptions and a lack of inclusive workplace cultures, often results in discriminatory practices and limits employment opportunities while negatively affecting the well-being of autistic individuals. Four consolidated themes emerged from the autistic perspective: inclusive practices, the importance of fitting in, generalizations about autism, and masking or social camouflaging. From the employer’s perspectiv…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2713737",
+      "title": "Blended learning in autism spectrum disorder: a systematic review of efficacy and implementation",
+      "authors": [
+        "Ahmed Ghorbel",
+        "Mohamed Yaakoubi",
+        "Mohamed Moncef Kammoun",
+        "Faical Farhat",
+        "Adnene Gharbi",
+        "Omar Trabelsi"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-07",
+      "doi": "10.1080/20473869.2026.2713737",
+      "url": "https://doi.org/10.1080/20473869.2026.2713737",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10870547261474912",
+      "title": "Pilot Randomized Trial of the Parental Friendship Coaching+ Program for Parents With Elevated ADHD and/or Depressive Symptoms",
+      "authors": [
+        "Sophie Smit",
+        "Sébastien Normand",
+        "Amori Yee Mikami"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-07",
+      "doi": "10.1177/10870547261474912",
+      "url": "https://doi.org/10.1177/10870547261474912",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
     },
     {
       "id": "10.1177/13623613261470852",
@@ -4887,34 +5006,6 @@
       ]
     },
     {
-      "id": "10.1177/13623613261433165",
-      "title": "A 5-Year Update of Conflicts of Interest in Autism Intervention Research in Applied Behavior Analysis Journals",
-      "authors": [
-        "Kristen Bottema-Beutel",
-        "Jessica Hinson-Williams",
-        "Yueyang Shen",
-        "Ruoxi Guo",
-        "Samantha Brayton",
-        "Jacqueline Alicea",
-        "Shannon LaPoint"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261433165",
-      "url": "https://doi.org/10.1177/13623613261433165",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "disclosure"
-      ],
-      "abstract": "Researchers’ false, incomplete, or missing disclosures of conflicts of interest (COIs) can introduce bias into research, can erode public trust in research findings, and represent ethical violations of most academic journal policies. A 2020 study discovered that publications in applied behavior analysis (ABA) journals are particularly problematic in adherence to COI disclosure ethics. The current study is a 5-year update of this previously conducted study. We examined autism intervention research articles published over a 1-year period in eight ABA journals. Two coders extracted author names and COI disclosure statements from each study and conducted web searches to determine if authors were affiliated with organizations providing ABA services or consulting. One hundred and nineteen studies met our inclusion criteria, from which we compiled a database of 450 authors. Seventy-eight percent of authors held clinical and/or consultancy COIs. At the study level, 93% of studies were written by at least one author with a clinical and/or consultancy COI. Only 8% of studies disclosed any author COIs, and only 2% disclosed clinical and/or consultancy COIs. Ninety-three percent of statements…"
-    },
-    {
       "id": "10.1177/10870547261427102",
       "title": "Understanding the Relationship Between Early Elementary Children’s ADHD Symptoms and Teachers’ Needs Supportive Practices",
       "authors": [
@@ -8129,41 +8220,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1002/aur.70254",
-      "title": "Reframing Body Representations in Autistic Individuals: A Systematic Review",
-      "authors": [
-        "Joanna Mourad",
-        "Kim Daniels",
-        "Katleen Bogaerts",
-        "Britt Sourbron",
-        "Siebe Meekers",
-        "Anaïs Vanbuel",
-        "Robbe Van Beers",
-        "Marlies Mattheeussen",
-        "Martin Desseilles",
-        "Bruno Bonnechère"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1002/aur.70254",
-      "url": "https://doi.org/10.1002/aur.70254",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Body representations (BR) are multidimensional constructs that shape everyday functioning, autonomy, and quality of life. They include body schema (BS): the action‐oriented representation of the body that supports movement and sensorimotor regulation, and body image (BI): the conscious perceptual, affective, and cognitive experience of the body. In autism, alterations in BR have been linked to sensory processing, motor coordination, social interaction, self‐perception, and identity, yet the overall structure of these components remains unclear. This systematic review aimed to define a conceptual framework for BR in autism, identify the domains most consistently reported as different from non‐autistic comparison groups, and synthesize current evidence on assessment approaches and clinical implications. Following PRISMA guidelines, we reviewed 54 studies published between 2000 and 2025, comprising 2982 participants. The findings showed a marked predominance of research on BS (81% of studies), particularly sensorimotor dimensions such as interoception (9 studies), proprioception (4 studies), and multisensory integration (3 studies). By contrast, BI was substantially less inve…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1080/20473869.2026.2679069",
       "title": "Sleep patterns and their links to eating behaviors and dietary quality in autistic children",
       "authors": [
@@ -11053,141 +11109,6 @@
         "communication"
       ],
       "abstract": "Abstract Effective social communication skills are closely linked to positive developmental outcomes and overall quality of life. Yet, individuals with intellectual and developmental disabilities often experience challenges in this area. Telehealth has emerged as a promising modality for delivering behavior analytic interventions to support social communication, but questions remain regarding its effectiveness and feasibility. This systematic review aimed to synthesize 22 peer-reviewed single-case design studies targeting social communication skills via telehealth. Studies were summarized by participant characteristics, targeted skills, and intervention components and evaluated using What Works Clearinghouse (WWC; 2020) standards. Nearly half of the 49 experiments demonstrated strong evidence of intervention effects, though outcomes were variable and generalization and maintenance were inconsistently assessed. Most interventions relied on caregiver-mediated delivery, and technology-related barriers were common. Future research is needed to address gaps in addressing underrepresented intellectual and developmental disability populations and ensure that telehealth interventions are b…"
-    },
-    {
-      "id": "10.1007/s10803-026-07299-z",
-      "title": "The Roles of Different Executive Functioning Skills in Early Mathematics Ability of Preschoolers With Autism",
-      "authors": [
-        "Lilan Chen"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-09",
-      "doi": "10.1007/s10803-026-07299-z",
-      "url": "https://doi.org/10.1007/s10803-026-07299-z",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/25739581261440899",
-      "title": "“As a Person of Colour, I Was a Misfit Anyway”: Barriers to Autism Identification According to Ethnically and Racially Minoritized Adults",
-      "authors": [
-        "Imane Kostet"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-09",
-      "doi": "10.1177/25739581261440899",
-      "url": "https://doi.org/10.1177/25739581261440899",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Background: Ethnic and racial disparities in autism diagnosis have prompted growing interest in the role of “culture” in shaping these inequalities. However, much of the existing literature adopts a deficit-based perspective, locating diagnostic barriers within the cultural beliefs, attitudes, and behaviors of ethnically and racially (ER) minoritized groups. These studies often rely on essentialist views of culture, and neglect how broader cultural factors may impact these inequalities. This study delves into some of these neglected cultural factors. Methods: This article draws on 27 in-depth interviews with ER minoritized adults in Belgium and the Netherlands, most of whom were (self-)diagnosed in adulthood. It explores how these individuals make sense of their experiences before diagnosis and examines additional cultural pathways to autism inequalities than those already discussed in autism research. Findings: First, participants frequently interpreted their experienced difficulties with dominant forms of social interaction and communication as consequences of their minoritized status in White environments, shaped by wider processes of othering. This framework for understanding t…"
-    },
-    {
-      "id": "10.1177/25739581261435559",
-      "title": "Social Media and Social (Dis)Connectedness in Autism and Attention-Deficit/Hyperactivity Disorder: A Systematic Review",
-      "authors": [
-        "Alice L. Potter",
-        "Anna O’Leary",
-        "Emma Incecik",
-        "Kieran Rose",
-        "Georgia Pavlopoulou",
-        "Marc S. Tibber"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-09",
-      "doi": "10.1177/25739581261435559",
-      "url": "https://doi.org/10.1177/25739581261435559",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: While there is growing interest in the relationship between social media (SM) use and psychosocial well-being, little is known about this relationship in neurodivergent people. We undertook a systematic review to synthesize findings from studies exploring links between social (dis)connectedness and SM use in Autistic people and/or people with attention-deficit/hyperactivity disorder (ADHD), with the aim of exploring commonalities and differences in their experiences. Methods: We conducted systematic searches of four databases, retaining reports if they included SM-related measures and measures of social connectedness and/or disconnectedness in Autistic and/or ADHD populations. Two of us independently screened, coded, and assessed all records for methodological quality, with another of us screening just under 15% of records. Results: Our search yielded findings from 21 reports based on data from 18 studies. A narrative synthesis we undertook suggested that SM may be linked to greater social connectedness for Autistic people and greater social disconnectedness for those with ADHD. The literature was characterized by a predominance of cross-sectional research and the quali…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261438423",
-      "title": "<i>“It Was All Tied into Being a Disabled Person… It Was Another Reason to Feel Inadequate.”</i>\n                    Autistic Women and Birthing People’s Experiences of Baby Loss: An Interpretative Phenomenological Analysis",
-      "authors": [
-        "Phoebe Toms",
-        "Lizette Nolte",
-        "Sophie Doswell"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-09",
-      "doi": "10.1177/25739581261438423",
-      "url": "https://doi.org/10.1177/25739581261438423",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Background: Research shows the unique challenges that being autistic can pose in the perinatal period, including sensory sensitivities. Further challenges may relate to health care systems designed for non-autistic people and a lack of practitioner awareness. Literature exploring autistic people assigned female at birth’s (AFAB) experiences of baby loss is more limited, but this can be traumatic, as reported in key literature. Methods: This qualitative study used Interpretative Phenomenological Analysis (IPA) to understand how six autistic people AFAB made sense of their experiences of baby loss through miscarriage, stillbirth, and neonatal death. Results: Participants described the unpredictability, trauma, and absence of care from practitioners throughout baby loss, which left them feeling unsafe, neglected, and not believed. Participants shared how baby loss heightened their autistic experiences and was perceived to intensify their distress. They reported shame, guilt, and blame in relation to their autistic and gender identity perpetuated by the silencing and stigmatising societal discourses surrounding baby loss. Participants described a sense of continuous embodied physical a…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2026.2654176",
-      "title": "Reinforcement learning for personalized education in autism: a scoping review of adaptive systems for cognitive development",
-      "authors": [
-        "Sweety Rani Dhar",
-        "Md Shayakh Alam",
-        "Moustaq Karim Khan Rony",
-        "Md Mohaimin Rashid",
-        "Durga Shahi",
-        "Mohammad Shahidullah",
-        "Arif Ahmed Sizan",
-        "Srabani Das",
-        "Mst Masuma Akter Semi"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-09",
-      "doi": "10.1080/20473869.2026.2654176",
-      "url": "https://doi.org/10.1080/20473869.2026.2654176",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
-    },
-    {
-      "id": "10.1007/s10882-026-10060-0",
-      "title": "A Pilot Feasibility Study of a Multi-Sport Motor Intervention for Children with Autism Spectrum Disorder in China",
-      "authors": [
-        "Yuemei Lu",
-        "Xiaozan Wang"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-09",
-      "doi": "10.1007/s10882-026-10060-0",
-      "url": "https://doi.org/10.1007/s10882-026-10060-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
