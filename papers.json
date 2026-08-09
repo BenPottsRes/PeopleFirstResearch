@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:16:33Z",
+  "generated_at": "2026-08-09T07:17:22Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -170,6 +170,41 @@
         "lived experience"
       ],
       "abstract": "Objective: Parental mental health plays a critical role in the wellbeing of the family, yet few studies have examined how parental ADHD affects postpartum depression and anxiety. This study investigates the hypothesis that parent (including coparent) ADHD symptoms are associated with postpartum depressive and anxiety symptoms. Methods: 117 mother-father dyads (half with parental ADHD) were recruited when their infants were 6 to 10 months old. Participants completed questionnaires on ADHD, depression, anxiety, and social support. Clinician-administered semi-structured interviews assessed ADHD symptoms and psychiatric histories. Results: Participants in ADHD and non-ADHD dyads were demographically comparable but differed in prevalence of prior mood disorder (47% vs. 24%). Individuals with ADHD had significantly higher odds of moderate-to-severe depressive (OR = 2.70, 95% CI [1.10, 6.62]) and anxiety symptoms (OR = 4.58, 95% CI [1.82, 11.53]). Parallel mixed effects models accounting for parent dyad found that self-reported and clinician-reported ADHD symptoms and prior mood disorder history were significant predictors of depressive and anxiety symptoms ( p &lt; .025). Coparent ADHD s…"
+    },
+    {
+      "id": "10.1007/s10803-026-07463-5",
+      "title": "“It is Just Too Overwhelming and Constant”: Environmental Influences on Anxiety and Depression in Autistic Young People",
+      "authors": [
+        "Sarah Hampton",
+        "Will Mandy",
+        "Reesha Zahir",
+        "Odette Miller",
+        "Susannah Carter",
+        "Emily Midouhas",
+        "Eirini Flouri",
+        "Kate Cooper"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-08",
+      "doi": "10.1007/s10803-026-07463-5",
+      "url": "https://doi.org/10.1007/s10803-026-07463-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Sensory environment",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Abstract Purpose Autistic people experience high rates of anxiety and depression, yet an evidence-based understanding of how and why these difficulties first develop is lacking. By centring autistic young people’s accounts, this study aims to understand how interactions between autistic people and their environment throughout childhood and adolescence give rise to anxiety and depression. Methods Twenty autistic young people aged 10–18 and 30 parents of autistic young people aged 5–18 completed semi-structured qualitative interviews about experiences of anxiety and depression. Results Framework Analysis identified three themes. External demands and pressures : Participants described the weight of pressures to meet non-autistic standards within school, social and sensory environments. Autonomy and control : Young people struggled with environments not under their control. They benefited from a balance of structure and autonomy within home and school settings. Safety , trust and predictability : Trust and acceptance from others (such as family, peers, teachers and professionals), access to safe places (such as home and nature), and engaging in interests were important protective facto…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00580-y",
@@ -4989,21 +5024,6 @@
       ],
       "abstract": "Attenuated sound–shape matching in the classic Kiki–Bouba effect in autism has already been replicated in several studies, but it remains unclear whether this attenuation is confined to low-level multisensory integration or whether it reflects a broader reduction in crossmodal priors. In this pre-registered study, we tested 68 intelligence quotient (IQ)-matched participants (31 autistic, 37 typically developing) on four established crossmodal correspondence tasks that span perceptual to conceptual mappings: (1) “Fast lemons” (object–adjective), (2) sound–size pairings with Greebles, (3) kiki–bouba variants, and (4) color–taste matches. A generalized linear mixed-effects model showed a significant main effect of autism, indicating fewer theoretically congruent choices across all tasks. Target consistency increased with age, performance intelligence quotient (PIQ) and with an artificial intelligence (AI)-derived item-difficulty index. Random slopes revealed no task-by-diagnosis interaction, suggesting that diminished correspondence strength in autism generalizes across sensory and semantic domains. These results cautiously point to domain-general accounts, such as predictive-coding “…",
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1177/13623613261439928",
-      "title": "When Ableism Supplants Evidence: Federal Autism Guidance in the United States",
-      "authors": [
-        "Kristen Bottema-Beutel"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261439928",
-      "url": "https://doi.org/10.1177/13623613261439928",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/10870547261427102",
@@ -11034,81 +11054,6 @@
       "domains": [
         "Education"
       ]
-    },
-    {
-      "id": "10.1007/s10803-026-07326-z",
-      "title": "Child Autism Spectrum Disorder Following Maternal Abuse and Trauma History",
-      "authors": [
-        "Anna Coleman",
-        "Brooke M. Fitzwater",
-        "Philip A. Harden",
-        "Cassidy McColl",
-        "Julia Forrest",
-        "Beth Bailey"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-10",
-      "doi": "10.1007/s10803-026-07326-z",
-      "url": "https://doi.org/10.1007/s10803-026-07326-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07308-1",
-      "title": "Tracing the Evolution of Sleep-Related Behavioural Outcomes Research in Autistic Children: A Scientometric Review",
-      "authors": [
-        "Yifang Xu",
-        "Yiqing Zhong",
-        "Alessandro Carollo",
-        "Nandini Adusumilli",
-        "Gianluca Esposito",
-        "Dagmara Dimitriou"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-10",
-      "doi": "10.1007/s10803-026-07308-1",
-      "url": "https://doi.org/10.1007/s10803-026-07308-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Sleep disturbances are highly prevalent among autistic children and exhibit a complex bidirectional relationship with behavioural outcomes. To provide a comprehensive and systematic understanding of the evolution of knowledge in this field, we performed a scientometric analysis of 1745 publications (1969–2025) from Scopus and 2530 publications (1968–2025) from Web of Science Core Collection. Methods After deduplication, 2878 publications were included in the analysis. CiteSpace was employed to perform a document co-citation analysis (DCA), identifying the most influential publications (n = 149) and major research clusters (n = 9). Results Combining the quantitative results of scientometric analysis with a qualitative discussion, we observed that research topics have gradually shifted from broadly discussing general sleep issues from a neurological perspective to examining the specific effects of certain sleep problems on certain behavioural outcomes and identifying some potential underlying mechanisms and possible interventions in this relationship. Also, increasing attention has been given to research on parents and to interdisciplinary integration between psychol…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00553-1",
-      "title": "Telehealth Delivered Social Communication Skills Interventions Among Individuals with Intellectual and Developmental Disabilities: A Systematic Review",
-      "authors": [
-        "Kelsey Sparks",
-        "Jessica Akers",
-        "Renming Liu"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-10",
-      "doi": "10.1007/s40489-026-00553-1",
-      "url": "https://doi.org/10.1007/s40489-026-00553-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Quality of life"
-      ],
-      "tags": [
-        "access",
-        "communication"
-      ],
-      "abstract": "Abstract Effective social communication skills are closely linked to positive developmental outcomes and overall quality of life. Yet, individuals with intellectual and developmental disabilities often experience challenges in this area. Telehealth has emerged as a promising modality for delivering behavior analytic interventions to support social communication, but questions remain regarding its effectiveness and feasibility. This systematic review aimed to synthesize 22 peer-reviewed single-case design studies targeting social communication skills via telehealth. Studies were summarized by participant characteristics, targeted skills, and intervention components and evaluated using What Works Clearinghouse (WWC; 2020) standards. Nearly half of the 49 experiments demonstrated strong evidence of intervention effects, though outcomes were variable and generalization and maintenance were inconsistently assessed. Most interventions relied on caregiver-mediated delivery, and technology-related barriers were common. Future research is needed to address gaps in addressing underrepresented intellectual and developmental disability populations and ensure that telehealth interventions are b…"
     }
   ]
 }
