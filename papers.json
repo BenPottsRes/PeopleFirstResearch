@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:17:22Z",
+  "generated_at": "2026-08-10T08:04:56Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -170,6 +170,82 @@
         "lived experience"
       ],
       "abstract": "Objective: Parental mental health plays a critical role in the wellbeing of the family, yet few studies have examined how parental ADHD affects postpartum depression and anxiety. This study investigates the hypothesis that parent (including coparent) ADHD symptoms are associated with postpartum depressive and anxiety symptoms. Methods: 117 mother-father dyads (half with parental ADHD) were recruited when their infants were 6 to 10 months old. Participants completed questionnaires on ADHD, depression, anxiety, and social support. Clinician-administered semi-structured interviews assessed ADHD symptoms and psychiatric histories. Results: Participants in ADHD and non-ADHD dyads were demographically comparable but differed in prevalence of prior mood disorder (47% vs. 24%). Individuals with ADHD had significantly higher odds of moderate-to-severe depressive (OR = 2.70, 95% CI [1.10, 6.62]) and anxiety symptoms (OR = 4.58, 95% CI [1.82, 11.53]). Parallel mixed effects models accounting for parent dyad found that self-reported and clinician-reported ADHD symptoms and prior mood disorder history were significant predictors of depressive and anxiety symptoms ( p &lt; .025). Coparent ADHD s…"
+    },
+    {
+      "id": "10.1177/13623613261472939",
+      "title": "The Use of the Clinical Global Impressions Scale in Psychosocial Interventions for Autism Characteristics: A Systematic Review",
+      "authors": [
+        "Magdalena Glod",
+        "Victoria Grahame",
+        "Jacqui Rodgers"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-09",
+      "doi": "10.1177/13623613261472939",
+      "url": "https://doi.org/10.1177/13623613261472939",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "The increase in intervention diversity to improve core difficulties in autism has resulted in the development and proliferation of a variety of measures to assess change. The Clinical Global Impressions (CGI) scale has been recommended for use in pharmacological autism clinical trials to monitor individuals’ progress. No specific recommendations have been made for an outcome measure for psychosocial interventions. This review aimed to evaluate available evidence of a use of the CGI scale as an outcome measure in psychosocial interventions for autism characteristics. A systematic search of electronic databases identified 22 primary studies utilising the CGI scale to evaluate change across a range of social, communication and behavioural interventions for autistic people. The lack of consistency in the use of the measure was evident. This applied to the variety of constructs being measured, inconsistent application and scoring methods, which all limited the CGI scale’s reliability and validity. Despite the widespread use of the CGI scale in psychosocial clinical trials for autistic people, the lack of standardisation hampers conclusions regarding the evidence of its effectiveness in…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261472991",
+      "title": "Health Care Transition Experiences for Rural and Urban Autistic Adolescents and Young Adults: A Qualitative Analysis",
+      "authors": [
+        "E Zhang",
+        "Makenna Snyder",
+        "Wafaa Alduraidi",
+        "Spencer Hunley",
+        "Kristin Sohl",
+        "Nancy Cheak-Zamora",
+        "Eve-Lynn Nelson"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-09",
+      "doi": "10.1177/13623613261472991",
+      "url": "https://doi.org/10.1177/13623613261472991",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Health care transition (HCT) is underexplored among autistic adolescents and young adults (AYAs). We explored autistic AYAs’ HCT experiences through virtual semi-structured interviews with 19 participants (mean age = 21.4 years; range = 15–25). Data were analyzed using reflexive thematic analysis and interpreted through self-determination theory (SDT). Participants described HCT as marked by increased expectations for independent health care management without commensurate preparation, relational continuity, or structural support. Findings were organized around SDT domains of competence, autonomy, and relatedness, which were interconnected. Gaps in competence constrained autonomy and contributed to stress and care avoidance. Autonomy was negotiated and situational, often supported through ongoing caregiver involvement rather than full independence. Relatedness was undermined by fragmented care, limited continuity, and experiences of being dismissed by providers. Structural factors (transportation, insurance acceptance, provider availability, and rurality) shaped when and how these psychological needs could be met, amplifying transition-related challenges. Autistic AYAs want to take…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2713160",
+      "title": "School bullying and cyberbullying in students with autism spectrum disorder: a systematic review (2014–2025)",
+      "authors": [
+        "Esther Heredia-Oliva",
+        "Rebeca Kerstin Alonso",
+        "María Carmen Martínez-Monteagudo",
+        "Alexander Vélez Gardoqui"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-09",
+      "doi": "10.1080/20473869.2026.2713160",
+      "url": "https://doi.org/10.1080/20473869.2026.2713160",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07463-5",
