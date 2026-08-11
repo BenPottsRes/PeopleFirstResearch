@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:04:56Z",
+  "generated_at": "2026-08-11T07:39:00Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -170,6 +170,105 @@
         "lived experience"
       ],
       "abstract": "Objective: Parental mental health plays a critical role in the wellbeing of the family, yet few studies have examined how parental ADHD affects postpartum depression and anxiety. This study investigates the hypothesis that parent (including coparent) ADHD symptoms are associated with postpartum depressive and anxiety symptoms. Methods: 117 mother-father dyads (half with parental ADHD) were recruited when their infants were 6 to 10 months old. Participants completed questionnaires on ADHD, depression, anxiety, and social support. Clinician-administered semi-structured interviews assessed ADHD symptoms and psychiatric histories. Results: Participants in ADHD and non-ADHD dyads were demographically comparable but differed in prevalence of prior mood disorder (47% vs. 24%). Individuals with ADHD had significantly higher odds of moderate-to-severe depressive (OR = 2.70, 95% CI [1.10, 6.62]) and anxiety symptoms (OR = 4.58, 95% CI [1.82, 11.53]). Parallel mixed effects models accounting for parent dyad found that self-reported and clinician-reported ADHD symptoms and prior mood disorder history were significant predictors of depressive and anxiety symptoms ( p &lt; .025). Coparent ADHD s…"
+    },
+    {
+      "id": "10.1007/s10803-026-07483-1",
+      "title": "Gender-Based Differences in Autism Spectrum Disorder: Evidence From an Indian Clinical Cohort",
+      "authors": [
+        "Nishant Prabhakaran",
+        "Sowmyashree Mayur Kaku",
+        "Ann Maria Moncy",
+        "Roopa N",
+        "Nirupama Srikanth",
+        "Vijaya Raman"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-11",
+      "doi": "10.1007/s10803-026-07483-1",
+      "url": "https://doi.org/10.1007/s10803-026-07483-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07480-4",
+      "title": "Brief Report: Is IQ Measured Equally in ASD, ADHD, Language Disorders, and the General Population?",
+      "authors": [
+        "Kevin G. Stephenson",
+        "Eric A. Youngstrom",
+        "Eric M. Butter"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-10",
+      "doi": "10.1007/s10803-026-07480-4",
+      "url": "https://doi.org/10.1007/s10803-026-07480-4",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07461-7",
+      "title": "Exploring the Relationship Between Age of Nap Cessation, Screen-Positive Autism Spectrum Disorder Traits and Diagnosis of Attention-Deficit Hyperactivity Disorder",
+      "authors": [
+        "Meghan Ellis",
+        "Andrew T. Jones",
+        "Peter Rankin",
+        "Anne Bernard",
+        "Karen Thorpe",
+        "Nick Glozier",
+        "Sally Staton"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-10",
+      "doi": "10.1007/s10803-026-07461-7",
+      "url": "https://doi.org/10.1007/s10803-026-07461-7",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose This study examined whether the age of nap cessation (the transition from daytime napping to sleeping exclusively at night) is associated with screen-positive Autism Spectrum Disorder (ASD) traits or an Attention-Deficit Hyperactivity Disorder (ADHD) diagnosis in children. Methods This retrospective cohort study used data from the Avon Longitudinal Study of Parents and Children (ALSPAC), a population-based birth cohort recruited between 1991 and 1992. The analytic sample included 6,424 children with available nap cessation and covariate data. Parents reported children’s nap patterns at 6, 18, 30, 42, 57, 69, and 81 months. Binary logistic regression examined associations between age of nap cessation and later ASD traits or ADHD diagnosis. Models adjusted for gestational age, birth weight, maternal age, child sex, maternal ethnicity, older siblings, social class, and maternal alcohol use during pregnancy. Results Children who ceased napping by 18 months had higher odds of an ADHD diagnosis at age seven than those who ceased at 30 months ( OR = 5.54, 95% CI [2.52, 11.20], p &lt; .001). Nap cessation at 18 months was also associated with increased odds of ASD traits,…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/25739581261474766",
+      "title": "Understanding the Impact of Living Situation and Social Satisfaction on Depression and Substance Use in Autistic Young Adults Without Intellectual Disability",
+      "authors": [
+        "María E. Contreras-Pérez",
+        "Xiangyu Tao",
+        "Olivia Vezina",
+        "Anthony Spirito",
+        "Stephen J. Sheinkopf",
+        "Casey A. Cragin",
+        "Kristina M. Jackson"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-08-10",
+      "doi": "10.1177/25739581261474766",
+      "url": "https://doi.org/10.1177/25739581261474766",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health"
+      ],
+      "abstract": "Background: Autistic young adults face elevated risks for depression, and emerging evidence indicates that some engage in substance use. Residential status and social satisfaction may be related to these outcomes, yet little research has examined their interplay in autistic populations. Methods: We used baseline data from 267 autistic young adults aged 18–24 ( M = 21.56; SD = 1.76). Participants were predominantly female (65.63%), non-Hispanic White (75%), and enrolled in school (68.76%). Participants reported their current residential status, mental health, and substance use, and completed measures of social and role functioning, social satisfaction, and demographic characteristics. A unified mediation model tested whether social satisfaction mediated associations between residential status and (1) depression, (2) alcohol use, and (3) cannabis use, adjusting for relevant covariates. Results: Living alone, compared with living with a parental figure, was associated with greater social satisfaction, which in turn predicted fewer depression symptoms. In contrast, living alone or with friends or roommates was directly associated with elevated alcohol and cannabis use but showed no ind…"
     },
     {
       "id": "10.1177/13623613261472939",
