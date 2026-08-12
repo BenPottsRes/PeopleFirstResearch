@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:39:00Z",
+  "generated_at": "2026-08-12T07:53:24Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -172,6 +172,32 @@
       "abstract": "Objective: Parental mental health plays a critical role in the wellbeing of the family, yet few studies have examined how parental ADHD affects postpartum depression and anxiety. This study investigates the hypothesis that parent (including coparent) ADHD symptoms are associated with postpartum depressive and anxiety symptoms. Methods: 117 mother-father dyads (half with parental ADHD) were recruited when their infants were 6 to 10 months old. Participants completed questionnaires on ADHD, depression, anxiety, and social support. Clinician-administered semi-structured interviews assessed ADHD symptoms and psychiatric histories. Results: Participants in ADHD and non-ADHD dyads were demographically comparable but differed in prevalence of prior mood disorder (47% vs. 24%). Individuals with ADHD had significantly higher odds of moderate-to-severe depressive (OR = 2.70, 95% CI [1.10, 6.62]) and anxiety symptoms (OR = 4.58, 95% CI [1.82, 11.53]). Parallel mixed effects models accounting for parent dyad found that self-reported and clinician-reported ADHD symptoms and prior mood disorder history were significant predictors of depressive and anxiety symptoms ( p &lt; .025). Coparent ADHD s…"
     },
     {
+      "id": "10.1177/13623613261469913",
+      "title": "Common and Differing Elements Across Caregiver-Mediated Social Communication Programs Supporting Autistic Children: A Scoping Review With Content Analysis",
+      "authors": [
+        "Vipula Rajesh Kumar",
+        "Lauren Choi",
+        "Janis Oram",
+        "Amanda Binns"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-12",
+      "doi": "10.1177/13623613261469913",
+      "url": "https://doi.org/10.1177/13623613261469913",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Caregiver-mediated interventions are widely used to support social communication development in young autistic children. While many such interventions are evidence-informed, limited information exists about their shared and unique elements, making it challenging for caregivers and clinicians to tailor program selection to individual needs and preferences—an essential part of personalized care in autism. This scoping review with content analysis examined 18 commercially available, caregiver-mediated social communication interventions to identify similarities and differences in child skills targeted and caregiver-coached strategies. Data were extracted from program manuals, fidelity tools, published literature, and program websites for eight developmental social pragmatic (DSP) programs and 10 naturalistic developmental behavioral interventions (NDBIs). Programs varied in scope, with some supporting a broad range of child skills and others focusing on specific areas. Across all programs, 70 caregiver-coached strategies were identified, and then thematically grouped into eight categories aligned with the developmental skills the strategies aim to support. Although some strategies were…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07483-1",
       "title": "Gender-Based Differences in Autism Spectrum Disorder: Evidence From an Indian Clinical Cohort",
       "authors": [
@@ -194,6 +220,34 @@
         "Healthcare"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261469915",
+      "title": "Facilitating Autism Service Navigation, Parenting, and Self-Care Within a Community-Based Organization: A Pilot Feasibility Study With Culturally and Linguistically Diverse Families",
+      "authors": [
+        "Shana M. Attar",
+        "Hannah Benavidez",
+        "Carol Gicheru",
+        "Colleen Alabi",
+        "Risho Sapano",
+        "Wendy L. Stone"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-11",
+      "doi": "10.1177/13623613261469915",
+      "url": "https://doi.org/10.1177/13623613261469915",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Health care and early education systems are common entry points for autism identification and specialized services. However, culturally and linguistically diverse families are less likely to experience timely or positive interactions within these systems. This pilot feasibility study examined implementation outcomes of using non-specialist providers (NSPs) within a community-based non-profit organization to support early service navigation while also promoting caregiver use of evidence-based parenting and self-care strategies. Six multilingual NSPs completed a web-based training and delivered a four-session program, the Family Care Project, to 35 families of children aged 16 months to 5 years for whom there were developmental concerns. Implementation outcomes were assessed using Proctor’s taxonomy, including acceptability, feasibility, appropriateness, adoption, penetration, and sustainability. All families completed all four sessions within 5 weeks. NSPs reported high acceptability, feasibility, and appropriateness of the training and caregiver-facing materials; adoption was high, with 95% of planned module content delivered. At the 5-month follow-up, NSPs reported continued progr…"
     },
     {
       "id": "10.1007/s10803-026-07480-4",
@@ -8349,72 +8403,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70252",
-      "title": "Exploring Biases in Autism Diagnostic Pathways",
-      "authors": [
-        "Ryan Woolhouse",
-        "Sarah L. Nicholson"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1002/aur.70252",
-      "url": "https://doi.org/10.1002/aur.70252",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Assessments for autism spectrum disorder are time‐consuming and expensive, and demand has increased over recent decades. Despite improved diagnostic criteria and awareness of autism, there still appear to be disparities in diagnostic rates of autism across age, gender, and ethnicity. Research investigating biases in referrals to, and assessments conducted by, autism diagnostic services is limited, especially in adults, making it difficult to understand these disparities. This clinical service evaluation collected data on demographic characteristics of clients referred and accepted for autism assessments ( N = 350) and fully assessed for autism ( N = 269) by a London‐based adult autism team. Demographic characteristics of clients referred to the service were compared to population prevalences using Census data to investigate potential biases in referring clinicians. Demographic characteristics of clients who received diagnoses of autism were compared to the service's average diagnostic rate to investigate potential biases in assessing clinicians. Participants referred and accepted for autism assessments were significantly more likely to be male, aged 18–34, and from White o…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70253",
-      "title": "Associations Between Comorbidities, Developmental Status, and Disease Severity in Children With Autism Spectrum Disorder: A Multicenter Cross‐Sectional Study in China",
-      "authors": [
-        "Dizhou Pang",
-        "Guiqin Duan",
-        "Qing Shang",
-        "Huichun Zhang",
-        "Binbin Wang",
-        "Huaili Ding",
-        "Huihui Kang",
-        "Yue Zhao",
-        "Yuxia Lu",
-        "Gai Tian",
-        "Li Zhang",
-        "Wu Jiang",
-        "Ganyu Wang",
-        "Cailing Liang",
-        "Lingling Zhang",
-        "Bingbing Li",
-        "Zhenghua Li",
-        "Chunlan Song",
-        "Yanyan Yang",
-        "Yazhe Wang",
-        "Kaichen Yue",
-        "Yongbin Lang",
-        "Jiatian Liu",
-        "Xiaoli Zhang",
-        "Yiran Xu",
-        "Changlian Zhu"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1002/aur.70253",
-      "url": "https://doi.org/10.1002/aur.70253",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently present with co‐occurring conditions that can influence autism symptom severity and complicate clinical management. However, studies with clinician‐confirmed diagnoses in non‐Western populations remain limited. In this multicenter cross‐sectional study, 1279 children aged 3–14 years with DSM‐5‐confirmed ASD were recruited from eight medical centers in China. Autism symptom severity was assessed using the Childhood Autism Rating Scale (CARS). Comorbidities were identified through clinical evaluation and specialized assessments, and developmental status was measured using the Gesell Developmental Schedule (GDS) and Wechsler Intelligence Scales. Associations with CARS scores were analyzed using generalized linear regression. Of participants, 96.6% had at least one comorbidity and 71.2% had multiple comorbidities. Common conditions were intellectual developmental disorders (IDD) (87.3%), food selectivity (45.3%), insomnia disorder (16.9%), developmental regression (15.6%), and behavioral problems (14.6%). Patterns differed by sex and age: gastrointestinal problem and sleep‐related interventions were more common in girls,…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2679069",
       "title": "Sleep patterns and their links to eating behaviors and dietary quality in autistic children",
       "authors": [
@@ -11175,60 +11163,6 @@
       ],
       "abstract": "Purpose Research shows that autistic individuals often experience stigma and discrimination in various areas of daily life, which can lead to the internalisation of stigma by concurring with the stereotypes and prejudices attributed to them by society. Discrimination can also manifest through subtle and often unintentional forms of microaggressions (e.g. statements, actions or thoughts). This study aims to explore the experiences of adults with autism from Slovenia – a largely overlooked population – with discrimination, self-stigmatisation and microaggressions. Design/methodology/approach The research was conducted through an online questionnaire completed by 49 adults with an autism diagnosis, incorporating items adapted from established scales measuring discrimination, self-stigma and microaggressions. The collected data were statistically analysed using appropriate non-parametric methods. Findings Preliminary findings suggest that in Slovenia, adults with autism most often experience microaggressions, mainly in the form of minimisation of autism. Participants also reported occasional experiences of discrimination and unfair treatment in personal relationships and in education a…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07322-3",
-      "title": "Co-occurring Psychiatric Symptoms in Verbal, School-Aged Children With Autism Spectrum Disorder and at Least Average IQ",
-      "authors": [
-        "Fritz Linnenbank",
-        "Marie Linnenbank",
-        "Stefan Beimdiek",
-        "Stephan Bender",
-        "Jasper Vöckel"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-13",
-      "doi": "10.1007/s10803-026-07322-3",
-      "url": "https://doi.org/10.1007/s10803-026-07322-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Increased levels of co-occurring psychiatric symptoms are observed in children and adolescents with autism spectrum disorder (ASD). Former research often investigated heterogeneous samples of youth with ASD. However, concurrent symptom presentation appears to differ with individual characteristics such as intellectual abilities. Method The present study investigated verbal, school-aged children and adolescents ( n = 103) with ASD and at least average intellectual abilities (i.e., full-scale intelligence quotient, FSIQ). Co-occurring psychiatric symptomatology was assessed with the Child Behavior Checklist (CBCL). Path analyses were conducted to investigate whether autistic characteristics or intellectual abilities predicted co-occurring psychiatric symptoms. Results In the investigated youth with ASD the extent of co-existing symptoms was elevated in all CBCL syndrome domains. Few associations of Autism Diagnostic Observation Schedule (ADOS-2), Autism Diagnostic Interview (ADI-R), and FSIQ scores with concurrent psychiatric symptomatology were found, limited to small effect sizes. Conclusion Within the investigated youth with ASD likelihood of experiencing elevated…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2651407",
-      "title": "Unlocking the cognitive puzzle of autism and your implication for education: the intersection of predictive processing, theory of mind, executive functions, and central coherence",
-      "authors": [
-        "Júlio César Claudino dos Santos",
-        "Janaína Aparecida Favero Desio",
-        "Tulia Fernanda Meira Garcia",
-        "Everton Ferreira de Souza",
-        "Silvana Fátima Costa Henkes",
-        "Júlia Cunha de Borba",
-        "Estefania Miranda Borges",
-        "Maiara de Aguiar da Costa",
-        "Luana Stangherlin dos Santos",
-        "Cinara Ludvig Gonçalves"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-13",
-      "doi": "10.1080/20473869.2026.2651407",
-      "url": "https://doi.org/10.1080/20473869.2026.2651407",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
     }
   ]
 }
