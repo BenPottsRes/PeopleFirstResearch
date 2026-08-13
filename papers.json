@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:53:24Z",
+  "generated_at": "2026-08-13T07:55:21Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -121,55 +121,94 @@
       "abstract": "Introduction: Evidence-based assessments for ADHD include the collection of standardized ratings of Diagnostic and Statistical Manual of Mental Disorders symptoms. There is limited research on ADHD diagnostic procedures in Hispanic/Latino children and a growing concern that ADHD may be underdiagnosed due to language barriers that exist between parents and the standardized measures. To address this gap, we examined potential language related biases in the assessment of ADHD among Spanish-speaking parents. Methods: The sample was 107 Hispanic/Latino, Spanish-speaking parents of children in kindergarten or first grade. The Spanish translated versions of the Disruptive Behavior Disorders Rating Scale (DBD-RS), Strength and Difficulties Questionnaire (SDQ), and Impairment Rating Scale (IRS) were administered to assess ADHD symptoms, concurrent validity, and the influence of time since arrival in the United States on parent ratings. Results: The Spanish DBD-RS demonstrated strong internal consistency for both Inattention (α = .85) and Hyperactivity/Impulsivity (α = .85) subscales. Parent ADHD ratings were positively correlated with SDQ Hyperactivity/Inattention scores ( r = .38, p &lt; .…"
     },
     {
-      "id": "10.1177/10870547261437893",
-      "title": "Mental Health and Coping in Women With ADHD During the Pandemic",
+      "id": "10.1186/s11689-026-09725-w",
+      "title": "Cascading effect of early sensory differences on subsequent autistic traits in infants later diagnosed with autism: a prospective cohort study",
       "authors": [
-        "Rebecca Nurgitz",
-        "Carlin J. Miller"
+        "Shihuan Wang",
+        "Cong You",
+        "Kaiyun Chen",
+        "Linru Liu",
+        "Yu Xing",
+        "Shaoli Lv",
+        "Yuanyuan Zou",
+        "Fengjing Liang",
+        "Yanting Xu",
+        "Qianying Ye",
+        "Yijie Li",
+        "Leran Xue",
+        "Feixia Zhang",
+        "Hongzhu Deng"
       ],
-      "journal": "Journal of Attention Disorders",
+      "journal": "Journal of Neurodevelopmental Disorders",
       "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/10870547261437893",
-      "url": "https://doi.org/10.1177/10870547261437893",
+      "published_date": "2026-08-13",
+      "doi": "10.1186/s11689-026-09725-w",
+      "url": "https://doi.org/10.1186/s11689-026-09725-w",
       "neurotype": [
-        "ADHD"
+        "Autism"
       ],
       "domains": [
-        "Mental health"
+        "Sensory environment"
       ],
       "tags": [
-        "lived experience"
-      ],
-      "abstract": "Recent research suggests that women make up a substantial proportion of adults with ADHD, but they are less likely to be identified, diagnosed, and adequately treated. Objective: A diverse group of 307 females (17–30 years of age) was recruited for an online mixed methods study on mental health and coping in women with ADHD. Methods: In the first phase of the study, data from women reporting low and high levels of ADHD symptoms, including some previously diagnosed with ADHD, were collected. Quantitative results suggest that women with substantial ADHD symptoms experience more difficulty with emotional regulation, more distress, greater loneliness, and they are less resilient and less self-compassionate. To follow up, all women who reported a previous diagnosis of ADHD in the first phase were invited to participate in interviews exploring how they cope with high stress. A total of 15 women were interviewed. Results: Qualitative results suggest that although participants described engaging with and regulating internal experiences as more effective, they were more likely to use avoidance coping, often thought to be less effective. Further, when participants reported less emotional ins…"
+        "sensory"
+      ]
     },
     {
-      "id": "10.1177/10870547261438170",
-      "title": "Unmasking Potential Impacts of Parent and Coparent ADHD on Mental Health in the First Year Postpartum",
+      "id": "10.1177/13623613261470856",
+      "title": "Understanding Autism Through Indigenous Relational Ecologies: A Phenomenographic Exploratory Study With Potawatomi Participants",
       "authors": [
-        "Elyse G. Mark",
-        "Leslie A. Rajendran",
-        "Lindsay Taraban",
-        "Michelle A. Wilson",
-        "Brooke S. G. Molina",
-        "Heather M. Joseph"
+        "Jessica C. Kitchens",
+        "Donna Wake"
       ],
-      "journal": "Journal of Attention Disorders",
+      "journal": "Autism",
       "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/10870547261438170",
-      "url": "https://doi.org/10.1177/10870547261438170",
+      "published_date": "2026-08-12",
+      "doi": "10.1177/13623613261470856",
+      "url": "https://doi.org/10.1177/13623613261470856",
       "neurotype": [
-        "ADHD"
+        "Autism"
       ],
       "domains": [
-        "Mental health",
-        "Quality of life"
+        "Healthcare",
+        "Service design"
       ],
       "tags": [
+        "access",
         "lived experience"
       ],
-      "abstract": "Objective: Parental mental health plays a critical role in the wellbeing of the family, yet few studies have examined how parental ADHD affects postpartum depression and anxiety. This study investigates the hypothesis that parent (including coparent) ADHD symptoms are associated with postpartum depressive and anxiety symptoms. Methods: 117 mother-father dyads (half with parental ADHD) were recruited when their infants were 6 to 10 months old. Participants completed questionnaires on ADHD, depression, anxiety, and social support. Clinician-administered semi-structured interviews assessed ADHD symptoms and psychiatric histories. Results: Participants in ADHD and non-ADHD dyads were demographically comparable but differed in prevalence of prior mood disorder (47% vs. 24%). Individuals with ADHD had significantly higher odds of moderate-to-severe depressive (OR = 2.70, 95% CI [1.10, 6.62]) and anxiety symptoms (OR = 4.58, 95% CI [1.82, 11.53]). Parallel mixed effects models accounting for parent dyad found that self-reported and clinician-reported ADHD symptoms and prior mood disorder history were significant predictors of depressive and anxiety symptoms ( p &lt; .025). Coparent ADHD s…"
+      "abstract": "Autism is commonly conceptualized in research, policy, and clinical contexts as an individual condition defined by diagnostic criteria and functional impairment. While these frameworks shape access to services, they often obscure relational, cultural, and contextual meanings of autism, particularly within Indigenous communities. This article reports findings from an exploratory phenomenographic study examining how autism is understood among five Citizen Potawatomi Nation participants. Guided by Indigenous Knowledge Systems, decolonial leadership, relational epistemologies, and a neurodiversity-affirming paradigm, the study examined qualitative variation in meaning-making rather than consensus or generalizability. Semi-structured interviews were conducted with Autistic adults, parents of Autistic children, and a tribal Knowledge Keeper. Analysis followed Åkerlind’s interpretive phenomenographic approach, resulting in five categories of description illustrating coexisting understandings of autism: system-managed difference, intergenerational family patterning, natural human variation, relational identity and belonging, and spiritual gift with purpose. These categories were organized…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261474938",
+      "title": "From Waiting to Action: Why the Autism Field Must Embrace Efficient Service Delivery Models for Diagnostic Assessment",
+      "authors": [
+        "Ashley de Marchena",
+        "Andrea Trubanova Wieckowski",
+        "Brian Freedman",
+        "Lindsay Shea",
+        "Jill Locke",
+        "Peter F. Cronholm",
+        "Stephen S. Leff",
+        "Giacomo Vivanti",
+        "Diana L. Robins"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-12",
+      "doi": "10.1177/13623613261474938",
+      "url": "https://doi.org/10.1177/13623613261474938",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Waiting lists for an autism evaluation delay timely diagnosis and entry into autism-specific early intervention. To solve this crisis, our field must increase capacity by embracing efficient diagnostic processes. Traditional diagnostic pathways involve complex evaluations and rely on a highly trained but limited pool of specialists, which elongate wait times. Evidence suggests that emerging approaches, including telehealth assessments, primary care diagnosis, and tiered models, reduce barriers. We guide readers through five core issues critical to updating the standard of care for early autism assessment: (1) What are the consequences of maintaining the status quo? (2) What do families prioritize? (3) What evidence supports efficient diagnostic models? (4) What are the consequences of reducing accuracy? and (5) What level of assessment depth is needed to inform action? Our team contends that the critical advantages of adopting efficient service delivery models far outweigh the disadvantages. Collaboration across disciplines, and trust in families’ insights, will help build capacity. We conclude with actionable recommendations for clinicians and policymakers in support of adopting t…"
     },
     {
       "id": "10.1177/13623613261469913",
@@ -196,6 +235,48 @@
       ],
       "abstract": "Caregiver-mediated interventions are widely used to support social communication development in young autistic children. While many such interventions are evidence-informed, limited information exists about their shared and unique elements, making it challenging for caregivers and clinicians to tailor program selection to individual needs and preferences—an essential part of personalized care in autism. This scoping review with content analysis examined 18 commercially available, caregiver-mediated social communication interventions to identify similarities and differences in child skills targeted and caregiver-coached strategies. Data were extracted from program manuals, fidelity tools, published literature, and program websites for eight developmental social pragmatic (DSP) programs and 10 naturalistic developmental behavioral interventions (NDBIs). Programs varied in scope, with some supporting a broad range of child skills and others focusing on specific areas. Across all programs, 70 caregiver-coached strategies were identified, and then thematically grouped into eight categories aligned with the developmental skills the strategies aim to support. Although some strategies were…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261478353",
+      "title": "ADHD Symptoms, Maladaptive Schemas, and Dysfunctional Automatic Thoughts: Exploring Theorized Relationships in Emerging Adults",
+      "authors": [
+        "Christie T. Pickel",
+        "Brian T. Wymbs"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-12",
+      "doi": "10.1177/10870547261478353",
+      "url": "https://doi.org/10.1177/10870547261478353",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
+    },
+    {
+      "id": "10.1002/aur.70302",
+      "title": "Mortality and Antidepressants Among Individuals With Autism Spectrum Disorder: A Population‐Based Cohort Study",
+      "authors": [
+        "Vincent Chin‐Hung Chen",
+        "Yu‐Hsin Huang",
+        "Yi‐Lung Chen",
+        "Michael E. Dewey",
+        "Tai‐Hsin Hung",
+        "Shu‐I Wu"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-12",
+      "doi": "10.1002/aur.70302",
+      "url": "https://doi.org/10.1002/aur.70302",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Individuals with autism spectrum disorder (ASD) often experience premature mortality and co‐occurring psychiatric conditions, for which antidepressants are commonly prescribed. However, the long‐term safety of antidepressant use in this population remains unclear. Using data from the Taiwan National Health Insurance Research Database, we emulated a target trial to examine the association between antidepressant use and mortality among individuals with ASD aged 6–64 years diagnosed between 2000 and 2016. A three‐step approach of cloning, censoring, and inverse probability of censoring weighting was applied to address immortal‐time bias. Participants were followed for up to 5 years to assess all‐cause, suicide, and accidental‐cause mortality. Among 33,939 eligible individuals, 779 initiated antidepressants within a 3‐month grace period. Antidepressant use was not associated with all‐cause or suicide mortality overall. However, it was significantly associated with reduced accidental‐cause mortality at both 2 (HR = 0.15; 95% CI, 0.04–0.53) and 5 years (HR = 0.05; 95% CI, 0.01–0.20). Subgroup analysis revealed increased 2‐year all‐cause mortality among youths (HR = 4.40; 95% CI,…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07483-1",
@@ -11121,48 +11202,6 @@
         "access",
         "lived experience"
       ]
-    },
-    {
-      "id": "10.1080/20473869.2026.2651413",
-      "title": "Parent/caregivers of autistic children’s perceptions about service delivery, impact of diagnosis, and role of support in Iran",
-      "authors": [
-        "Mohammad Ali Miri",
-        "Rocco Catrone",
-        "Mina Emadizadeh",
-        "Sina Tavakoli",
-        "Katayoon Razjouyan",
-        "Robin Arnall"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-14",
-      "doi": "10.1080/20473869.2026.2651413",
-      "url": "https://doi.org/10.1080/20473869.2026.2651413",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-11-2025-0121",
-      "title": "Discrimination, self-stigma and microaggressions: perspectives of adults with autism in Slovenia",
-      "authors": [
-        "Tina Žumbar",
-        "Irena Lesar"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-04-14",
-      "doi": "10.1108/aia-11-2025-0121",
-      "url": "https://doi.org/10.1108/aia-11-2025-0121",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Purpose Research shows that autistic individuals often experience stigma and discrimination in various areas of daily life, which can lead to the internalisation of stigma by concurring with the stereotypes and prejudices attributed to them by society. Discrimination can also manifest through subtle and often unintentional forms of microaggressions (e.g. statements, actions or thoughts). This study aims to explore the experiences of adults with autism from Slovenia – a largely overlooked population – with discrimination, self-stigmatisation and microaggressions. Design/methodology/approach The research was conducted through an online questionnaire completed by 49 adults with an autism diagnosis, incorporating items adapted from established scales measuring discrimination, self-stigma and microaggressions. The collected data were statistically analysed using appropriate non-parametric methods. Findings Preliminary findings suggest that in Slovenia, adults with autism most often experience microaggressions, mainly in the form of minimisation of autism. Participants also reported occasional experiences of discrimination and unfair treatment in personal relationships and in education a…",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
