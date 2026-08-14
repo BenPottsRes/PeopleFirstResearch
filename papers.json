@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:55:21Z",
+  "generated_at": "2026-08-14T07:51:41Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -119,6 +119,75 @@
         "communication"
       ],
       "abstract": "Introduction: Evidence-based assessments for ADHD include the collection of standardized ratings of Diagnostic and Statistical Manual of Mental Disorders symptoms. There is limited research on ADHD diagnostic procedures in Hispanic/Latino children and a growing concern that ADHD may be underdiagnosed due to language barriers that exist between parents and the standardized measures. To address this gap, we examined potential language related biases in the assessment of ADHD among Spanish-speaking parents. Methods: The sample was 107 Hispanic/Latino, Spanish-speaking parents of children in kindergarten or first grade. The Spanish translated versions of the Disruptive Behavior Disorders Rating Scale (DBD-RS), Strength and Difficulties Questionnaire (SDQ), and Impairment Rating Scale (IRS) were administered to assess ADHD symptoms, concurrent validity, and the influence of time since arrival in the United States on parent ratings. Results: The Spanish DBD-RS demonstrated strong internal consistency for both Inattention (α = .85) and Hyperactivity/Impulsivity (α = .85) subscales. Parent ADHD ratings were positively correlated with SDQ Hyperactivity/Inattention scores ( r = .38, p &lt; .…"
+    },
+    {
+      "id": "10.1177/13623613261477806",
+      "title": "Short Report: Divergent Sleep–Wake Regularity in U.S. Children With Autism Spectrum Disorder: Bedtime vs Wake-up Regularity",
+      "authors": [
+        "Chia-Shuan Chang",
+        "Chun-Ji Lin"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-13",
+      "doi": "10.1177/13623613261477806",
+      "url": "https://doi.org/10.1177/13623613261477806",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Sleep–wake regularity is an emerging dimension of sleep health, yet its association with autism spectrum disorder (ASD) remains understudied in nationally representative samples, particularly across distinct components of sleep timing. Using parent-reported data from 11,462 U.S. children aged 5–17 years in the 2022 and 2024 National Health Interview Survey, this study examined associations between ASD diagnosis and irregular bedtime and wake-up timing, including differences by age group. Multivariable logistic regression models were adjusted for sociodemographic characteristics, family context, daytime fatigue, and mental health indicators, with survey weights applied to account for the complex sampling design. In pooled analyses, ASD was associated with lower odds of irregular bedtime (adjusted odds ratio [aOR] = 0.64, 95% CI: 0.43–0.95) but higher odds of irregular wake-up times (aOR = 1.60, 95% CI: 1.01–2.56). Age-stratified analyses showed that the association with irregular wake-up timing remained in children (aOR = 2.27, 95% CI: 1.14–4.51) but not in adolescents, while no association was observed for bedtime in either age group. As one of the first nationally representative a…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70342",
+      "title": "Characterization of Anticholinergic Medication Use and Its Associations With Everyday Memory Problems and Cognitive Decline in Autistic Adults With Higher Support Needs",
+      "authors": [
+        "Goldie A. McQuaid",
+        "Nancy Raitano Lee",
+        "Gregory L. Wallace"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-13",
+      "doi": "10.1002/aur.70342",
+      "url": "https://doi.org/10.1002/aur.70342",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Among older adults in the general population, medications with anticholinergic (AC) effects are associated with declines in cognitive functioning and with dementia and Alzheimer's disease. Autistic people have high rates of co‐occurring medical conditions and polypharmacy across the lifespan; thus, they may be at particularly high risk of exposure to AC medications and their negative impacts on cognitive functioning, including earlier in adulthood. Consistent with this, a single study has shown AC medication use is prevalent among autistic adults without co‐occurring intellectual disability and is associated with self‐reported concurrent memory problems and declines in cognition. No study has examined AC medications and their associations with cognition among autistic adults with higher support needs. We therefore characterized AC medication use and its associations with caregiver‐rated memory problems and changes in cognition and behavior that have been linked with cognitive decline. Caregivers of autistic adults (18–68 years; Mean ~31 years) recruited via Simons Powering Autism Research's (SPARK) Research Match service reported medication use ( N = 512), memory complaint…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70345",
+      "title": "Social Pain Sensitivity in Autistic Adults: Associations With Gender, Self‐Esteem, Cognitive Empathy, and Sensory Sensitivity",
+      "authors": [
+        "Alvin van Asselt",
+        "Yvette Roke",
+        "Sander Begeer",
+        "Anke Scheeren"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-13",
+      "doi": "10.1002/aur.70345",
+      "url": "https://doi.org/10.1002/aur.70345",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Social pain sensitivity refers to the tendency to detect and react strongly to cues of social exclusion. Frequent social adversities and specific characteristics may make individuals with autism more sensitive to social pain, yet evidence remains inconsistent. To enhance our understanding, autistic adults aged ≥ 16 years ( n = 1425; M age = 47.3, SD = 14.2) and allistic adults ( n = 187; M age = 51.4, SD = 14.6) enrolled in the Netherlands Autism Register (NAR) completed the Social Pain Questionnaire (SPQ). A two‐way ANOVA demonstrated that autistic adults reported significantly higher social pain sensitivity than allistic adults, with a small effect size ( η 2 p = 0.02). Women reported higher social pain sensitivity than men across both groups ( η 2 p = 0.01), and this gender difference was comparable for autistic and allistic adults. Within the autistic group, in a subset of participants with complete data ( n = 234), a hierarchical multiple regression analysis showed that social pain sensitivity was moderately associated with lower self‐esteem ( β = −0.47), but not with cognitive empathy or sensory sensitivity. Exploratory analyses further indicated that self‐esteem ful…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1186/s11689-026-09725-w",
@@ -1790,6 +1859,234 @@
         "Mental health"
       ],
       "abstract": "Objective: There is evidence to suggest that girls with ADHD are less likely to be diagnosed with and receive treatment for ADHD in childhood compared to boys. However, it is unclear whether there are sex differences in first use health services for ADHD. This study compared the age at which girls and boys first accessed health services for ADHD. Methods: Participants were 89,587 children followed from birth to age ~18 years with linked administrative health records within a longitudinal population cohort study in New South Wales, Australia. The age at the first use of health services for ADHD was identified from records of subsidised medication prescriptions, ambulatory mental health service use, emergency department presentations and hospital admissions, and examined in relation to the child’s sex assigned at birth. Results: In this population cohort, 7,402 (8.3%) children accessed health services for ADHD before their 18th birthday. The percentage of girls with a record of using health services for ADHD (5.5%) was approximately half that for boys (10.9%). Girls were older at their first use of health services for ADHD (median age 13.6 years, modal age 17 years) than boys (median…"
+    },
+    {
+      "id": "10.1002/aur.70291",
+      "title": "Substance Use Disorder Outcomes and Treatment by Autism Status in Medicaid Enrollees With Substance Use Disorder",
+      "authors": [
+        "Victor Lushin",
+        "Lindsay Shea",
+        "Jonas Ventimiglia",
+        "Ming Xie",
+        "Steven Marcus"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1002/aur.70291",
+      "url": "https://doi.org/10.1002/aur.70291",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT The prevalence of substance use disorders (SUD) among autistic people is substantial and growing. This unaddressed public health challenge is particularly important given the lack of knowledge about SUD service needs among people on the spectrum. This paper presents the first national‐level study of SUD‐related clinical outcomes and service use among US‐based autistic Medicaid enrollees with SUD ( N = 50,487) compared to matched neurotypical enrollees with SUD ( N = 151,461). The analyses reveal that overdose, hospitalizations, and some polysubstance use risks are elevated among autistic people with SUD compared to neurotypical SUD patients. Analyses also suggest that autistic people with SUD use fewer SUD services compared to their neurotypical counterparts. Results highlight the need for integrative, evidence‐based autism‐tailored SUD service solutions.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70303",
+      "title": "Short Report: An Examination of Children's Autism Traits and Their Association With Family Experience",
+      "authors": [
+        "Ella C. Brouwer",
+        "Melissa Susko",
+        "Charee Botha",
+        "Amedeo D'Angiulli",
+        "Eric Duku",
+        "Ana Hanlon‐Dearman",
+        "Vivian Lee",
+        "Elyse Rosa",
+        "Lonnie Zwaigenbaum",
+        "Teresa Bennett",
+        "Yun‐Ju Chen",
+        "Briano De Rezze",
+        "Irene Drmic",
+        "Julia Frei",
+        "Katholiki Georgiades",
+        "Anna Kata",
+        "Olaf Kraus De Camargo",
+        "Sherry Fournier",
+        "Stephen Gentles",
+        "Judah Koller",
+        "Jonathan Lai",
+        "Patrick McPhee",
+        "Ronit Mesterman",
+        "Caroline Roncadin",
+        "Peter Rosenbaum",
+        "Deepa Singal",
+        "Elisabeth Trinari",
+        "Stelios Georgiades",
+        "Elizabeth Kelley"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1002/aur.70303",
+      "url": "https://doi.org/10.1002/aur.70303",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT The present study examined how the frequency and impact of autism traits were associated with parent‐reported family experience, with differential consideration of parental experience and overall family life. Prior research has found an association between autism traits and family functioning; however, less is known about how the impact and frequency of these traits influence family experience. We analyzed data from families of 206 young autistic children (144 boys and 62 girls), aged 2–7, using the Autism Impact Measure (AIM) and the Autism Family Experience Questionnaire (AFEQ). Hierarchical regression analysis showed that the impact of autistic traits was significantly associated with parent experience scores and that the frequency of autistic traits was significantly associated with family life scores in the first‐year post‐diagnosis. Neither child age nor gender was significantly associated with parent experience or family life. This study highlights the importance of tailoring post‐diagnosis family supports to the child's specific features and calls attention to areas for future investigation on this topic, including the exploration of longitudinal trends or demograp…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70309",
+      "title": "Visual Perspective Taking Training Improves Theory of Mind in Autistic Children",
+      "authors": [
+        "Mi Tian",
+        "Shiyue Cao",
+        "Xin Li",
+        "Wenyu Xia",
+        "Him Cheung",
+        "Xuezhen Xiao",
+        "Tianrui Luo"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1002/aur.70309",
+      "url": "https://doi.org/10.1002/aur.70309",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Autistic children exhibit developmental differences in theory of mind (ToM), which is associated with social impairment. While numerous interventions have targeted other ToM precursor skills, few studies have explored the effect of visual perspective taking (VPT) training on ToM. The present study aims to investigate the effectiveness of VPT training on ToM in autistic children. Sixty‐six autistic children were initially recruited and randomly assigned to three groups. Forty‐eight children (mean age = 5.75 years) completed the study and were included in the final analyses, comprising the VPT training group ( n = 16), thought‐bubble training group ( n = 16), and control group ( n = 16). Each training comprised 12 sessions of 30 min. Both the VPT and thought‐bubble training groups demonstrated significant improvements in VPT and ToM compared to the control group. The present study is the first to directly examine the effectiveness of VPT training using table blocks in enhancing ToM performance in autistic children, thereby providing a novel approach for ToM development.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70301",
+      "title": "Seeing the Child Within: A Randomized Controlled Trial of Reflective Functioning Intervention for Parents of Autistic Children",
+      "authors": [
+        "Yael Enav",
+        "Natalia Kirsman",
+        "Dana Erhard Weiss",
+        "Yael Mayer"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1002/aur.70301",
+      "url": "https://doi.org/10.1002/aur.70301",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "ABSTRACT Parents of autistic children often face elevated emotional demands and challenges in interpreting their child's inner experience. Parental reflective functioning (PRF), the capacity to understand behavior in terms of underlying mental states, is considered a key mechanism in fostering emotionally attuned and adaptive caregiving. Despite its importance, few interventions directly target PRF, and fewer still have tested brief, group‐based formats designed for broad accessibility. We conducted a randomized controlled trial to evaluate a brief, virtual PRF intervention delivered via Zoom to 249 parents of autistic children. Participants were randomly assigned to either an intervention group ( n = 129) or a waitlist control group ( n = 130), and completed assessments at baseline and postintervention. PRF was measured using a standardized interview, while self‐report questionnaires assessed parenting self‐efficacy, beliefs about emotional malleability, depressive symptoms, and child adaptive functioning. Generalized estimating equations revealed significant time‐by‐group interactions favoring the intervention group across several outcomes. Relative to controls, intervention part…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70300",
+      "title": "A Large‐Scale Study on the Relation Between Multilingualism and Social Traits in Adults With and Without Autism Diagnoses",
+      "authors": [
+        "Margreet Vogelzang",
+        "Sean Dong Wei Gan",
+        "Jamie Setch"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1002/aur.70300",
+      "url": "https://doi.org/10.1002/aur.70300",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Autism Spectrum Disorder is a neurodevelopmental condition characterized by persistent difficulties in social interaction and communication alongside restricted, repetitive patterns of behavior, interests, or activities. Emerging evidence suggests that bi/multilingualism may enhance social interaction skills, yet prior research has largely focused on children, relied on small samples, and used oversimplified monolingual–bilingual groupings. The present study examines whether multilingual engagement predicts autism‐associated social traits in adults with and without autism diagnoses. Specifically, we investigated whether childhood and/or current multilingual engagement (operationalized as entropy) predicts social interaction, communication, and overall autistic traits, measured via the Comprehensive Autistic Trait Inventory (CATI). Four hundred and fifty‐nine adults (of which 132 diagnosed autistic) participated in the study. Analyses revealed that, both in the full sample and in the subsample of individuals with autism diagnoses, greater language entropy was associated with lower CATI scores in social interaction and overall. No relation between language entropy and commun…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70304",
+      "title": "Functional Brain Asymmetry Reveals Heterogeneous Subtypes in Autism Spectrum Disorder",
+      "authors": [
+        "Chae Yeon Kim",
+        "Sunghun Kim",
+        "Bo‐yong Park"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1002/aur.70304",
+      "url": "https://doi.org/10.1002/aur.70304",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Heterogeneity is a critical factor in understanding inter‐individual brain and behavioral variability in autism spectrum disorder (ASD). Since individuals with ASD exhibit atypical communication and social interaction skills closely linked to brain lateralization, this study investigated ASD heterogeneity using an asymmetry index that captures interhemispheric differences in brain function. Degree centrality was computed from the functional connectivity matrix, and its asymmetry was quantified for each brain region. Using an unsupervised clustering algorithm, we identified three distinct subtypes within the ASD population that showed significant differences in brain asymmetry in the somatomotor, frontoparietal, and default mode networks. Comparisons of symptom severity indicated that subtype 2, which displayed atypical asymmetry patterns along the sensory–default mode axis, exhibited higher clinical severity. Functional connectivity analyses further revealed that subtype 1, characterized by rightward asymmetry, demonstrated hypoconnectivity across sensory and heteromodal association regions, whereas subtype 3, characterized by leftward asymmetry, exhibited hyperconnectivit…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70294",
+      "title": "Personalized Lifespan Approach to Autism Assessment: A Clinical and System Framework for Developmentally Informed Assessment Across the Life‐Course",
+      "authors": [
+        "Melanie Penner",
+        "Rebecca McNally Keehn"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1002/aur.70294",
+      "url": "https://doi.org/10.1002/aur.70294",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT The increasing prevalence of autism has led to considerable system challenges as specialist‐driven approaches have struggled to keep pace. Recent research has challenged status quo models by demonstrating that community‐based pediatric clinicians can accurately diagnose autism in young children. This research provides an opportunity to further expand capacity of community systems to conduct developmentally relevant, context‐specific assessments of autistic people over their lifespan. In this Commentary, we propose a personalized lifespan approach to autism assessment as a precision care and system organization framework that considers the ongoing and evolving needs of autistic people and aligns the necessary expertise and resources to provide focused assessment when it is most informative. This framework consists of three key principles: (1) assessment is not a one‐time, one‐size‐fits‐all event; instead, assessment continues across the lifespan; (2) assessments should generate information that is relevant to the individual's current needs and life stage; and (3) wherever possible, community‐based expertise should be engaged to promote the right assessment at the right time…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70296",
+      "title": "The Unique Roles of Executive Function in Co‐Occurring Psychopathologies in Autism",
+      "authors": [
+        "Shing‐Him Ng",
+        "Jet Leung",
+        "Keith Chun Lok Lee",
+        "Angela Man Wai Lam",
+        "Isaac Ho Wai Wong",
+        "Sze‐Mai Ng",
+        "Maciej Gabrysiak",
+        "Petrina Yau Pok Lau",
+        "Sandra Sau Man Chan",
+        "Tyler M. Moore",
+        "Kosha Ruparel",
+        "Raquel E. Gur",
+        "Ruben C. Gur",
+        "Oscar Wing Ho Wong"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-01",
+      "doi": "10.1002/aur.70296",
+      "url": "https://doi.org/10.1002/aur.70296",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) often experience co‐occurring psychiatric conditions, such as anxiety and attention‐deficit/hyperactivity disorder (ADHD), which significantly impair daily functioning. However, the underlying mechanisms linking these conditions to core ASD features remain poorly understood. This study examined relationships between anxiety, ADHD symptoms, and multi‐domain neurocognitive abilities in a clinic‐based sample of 701 Chinese children with ASD (mean age 8 years, 13.4% female), using the Hong Kong version of the Penn Computerized Neurocognitive Battery. Initial correlations revealed negative associations between cognitive performance and ADHD symptoms, but no direct links with anxiety. Ordinal regression demonstrated that poorer executive function (EF) independently predicted greater ADHD severity along a continuum from no ADHD to subclinical features to co‐occurring ADHD, in a dose‐dependent manner, even after controlling for core autism symptoms, other cognitive domains, and full‐scale IQ. Moderation analyses showed that stronger EF specifically buffered the associations between sensory hyper‐responsiveness/sensory‐seeking and anxiet…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/13623613261469916",
@@ -3865,30 +4162,6 @@
       "abstract": "Objective: Although cross-cultural disparities in teachers’ ADHD reports are well documented, the factors underlying these differences remain poorly understood. Accordingly, this study examined the unique and combined contributions of teachers’ experience and training, cultural orientation, ADHD knowledge, and attitudes to their endorsement and severity ratings of ADHD. Method: Four hundred and eighteen currently employed K–12 teachers from 15 culturally distinct nations (Australia, Brazil, Canada, Chile, Greece, India, Ireland, Italy, Mexico, Poland, Portugal, South Africa, Spain, the United Kingdom, and the United States) viewed four videos depicting children exhibiting inattentive-type behaviors, hyperactive–impulsive-type behaviors, and two control videos depicting typical development. Following each video, teachers rated the likelihood that the child displayed ADHD behavior (endorsement) and the severity of their symptoms. Teachers also reported their professional background and completed measures assessing their cultural values, ADHD-specific knowledge, and attitudes. Hierarchical regression analyses were used to identify predictors of ADHD endorsement and symptom severity ra…"
     },
     {
-      "id": "10.1002/aur.70291",
-      "title": "Substance Use Disorder Outcomes and Treatment by Autism Status in Medicaid Enrollees With Substance Use Disorder",
-      "authors": [
-        "Victor Lushin",
-        "Lindsay Shea",
-        "Jonas Ventimiglia",
-        "Ming Xie",
-        "Steven Marcus"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-16",
-      "doi": "10.1002/aur.70291",
-      "url": "https://doi.org/10.1002/aur.70291",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT The prevalence of substance use disorders (SUD) among autistic people is substantial and growing. This unaddressed public health challenge is particularly important given the lack of knowledge about SUD service needs among people on the spectrum. This paper presents the first national‐level study of SUD‐related clinical outcomes and service use among US‐based autistic Medicaid enrollees with SUD ( N = 50,487) compared to matched neurotypical enrollees with SUD ( N = 151,461). The analyses reveal that overdose, hospitalizations, and some polysubstance use risks are elevated among autistic people with SUD compared to neurotypical SUD patients. Analyses also suggest that autistic people with SUD use fewer SUD services compared to their neurotypical counterparts. Results highlight the need for integrative, evidence‐based autism‐tailored SUD service solutions.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07412-2",
       "title": "The Influence of Sensory Processing on Executive Function in Young Autistic Children",
       "authors": [
@@ -4437,51 +4710,6 @@
       "abstract": "Objective: Positive attitudes toward one’s clinical condition may contribute to resilience and well-being. Although qualitative studies suggest that individuals with attention-deficit/hyperactivity disorder (ADHD) may perceive positive aspects of their condition, no quantitative measure has been available to assess these attitudes. This study aimed to develop a self-report measure of positive attitudes toward ADHD and examine their associations with ADHD symptom dimensions. Method: Across three independent adult samples, participants completed measures assessing ADHD symptom frequency and attitudes toward their own ADHD. Positive attitudes were assessed using the newly developed Positive Attitudes Toward ADHD Scale (PATAS), which demonstrated high test–retest reliability (r = .89). The samples included participants from two language groups and an international sample spanning 24 countries. Results: Greater frequency of hyperactive/impulsive symptoms was consistently associated with more positive attitudes toward ADHD across all three samples. Inattention symptoms showed a tendency toward a negative association with positive attitudes, although this pattern was not consistent across…"
     },
     {
-      "id": "10.1002/aur.70303",
-      "title": "Short Report: An Examination of Children's Autism Traits and Their Association With Family Experience",
-      "authors": [
-        "Ella C. Brouwer",
-        "Melissa Susko",
-        "Charee Botha",
-        "Amedeo D'Angiulli",
-        "Eric Duku",
-        "Ana Hanlon‐Dearman",
-        "Vivian Lee",
-        "Elyse Rosa",
-        "Lonnie Zwaigenbaum",
-        "Teresa Bennett",
-        "Yun‐Ju Chen",
-        "Briano De Rezze",
-        "Irene Drmic",
-        "Julia Frei",
-        "Katholiki Georgiades",
-        "Anna Kata",
-        "Olaf Kraus De Camargo",
-        "Sherry Fournier",
-        "Stephen Gentles",
-        "Judah Koller",
-        "Jonathan Lai",
-        "Patrick McPhee",
-        "Ronit Mesterman",
-        "Caroline Roncadin",
-        "Peter Rosenbaum",
-        "Deepa Singal",
-        "Elisabeth Trinari",
-        "Stelios Georgiades",
-        "Elizabeth Kelley"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-07",
-      "doi": "10.1002/aur.70303",
-      "url": "https://doi.org/10.1002/aur.70303",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT The present study examined how the frequency and impact of autism traits were associated with parent‐reported family experience, with differential consideration of parental experience and overall family life. Prior research has found an association between autism traits and family functioning; however, less is known about how the impact and frequency of these traits influence family experience. We analyzed data from families of 206 young autistic children (144 boys and 62 girls), aged 2–7, using the Autism Impact Measure (AIM) and the Autism Family Experience Questionnaire (AFEQ). Hierarchical regression analysis showed that the impact of autistic traits was significantly associated with parent experience scores and that the frequency of autistic traits was significantly associated with family life scores in the first‐year post‐diagnosis. Neither child age nor gender was significantly associated with parent experience or family life. This study highlights the importance of tailoring post‐diagnosis family supports to the child's specific features and calls attention to areas for future investigation on this topic, including the exploration of longitudinal trends or demograp…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07431-z",
       "title": "Developmental Trajectories in Young Autistic Children Receiving Parent-Mediated Intervention Through In-Person and Telehealth Service Delivery Models: A Naturalistic, Nonrandomized Clinical Study",
       "authors": [
@@ -4605,29 +4833,6 @@
         "Education"
       ],
       "abstract": "Objectives: This study characterized variation in rates of new medical diagnoses of ADHD among kindergartners and identified factors associated with diagnosis rates. Methods: This study analyzed 87,383 kindergartners who were not diagnosed with ADHD prior to kindergarten who attended at least one of 490 elementary schools in Arkansas. The study examined five kindergarten cohorts from the 2015/16 to 2019/20 academic years, assessing school-level variation in ADHD diagnosis rates. Schools were categorized by quintiles of their ADHD diagnosis rates. A mixed-effects logistic regression model was used to examine individual-level factors associated with new ADHD diagnosis. Results: Diagnosis rates varied 570% across school quintiles. Schools with higher rates of ADHD diagnoses served a higher percentage of African American children, children from lower-income families, and children living in neighborhoods with lower Child Opportunity Index (COI) scores. Results of an individual-level logistic regression analysis indicated children in census tracts with very high or high social and economic COI scores had lower odds of having new ADHD diagnoses compared to those from very low COI neighbor…"
-    },
-    {
-      "id": "10.1002/aur.70309",
-      "title": "Visual Perspective Taking Training Improves Theory of Mind in Autistic Children",
-      "authors": [
-        "Mi Tian",
-        "Shiyue Cao",
-        "Xin Li",
-        "Wenyu Xia",
-        "Him Cheung",
-        "Xuezhen Xiao",
-        "Tianrui Luo"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-06",
-      "doi": "10.1002/aur.70309",
-      "url": "https://doi.org/10.1002/aur.70309",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Autistic children exhibit developmental differences in theory of mind (ToM), which is associated with social impairment. While numerous interventions have targeted other ToM precursor skills, few studies have explored the effect of visual perspective taking (VPT) training on ToM. The present study aims to investigate the effectiveness of VPT training on ToM in autistic children. Sixty‐six autistic children were initially recruited and randomly assigned to three groups. Forty‐eight children (mean age = 5.75 years) completed the study and were included in the final analyses, comprising the VPT training group ( n = 16), thought‐bubble training group ( n = 16), and control group ( n = 16). Each training comprised 12 sessions of 30 min. Both the VPT and thought‐bubble training groups demonstrated significant improvements in VPT and ToM compared to the control group. The present study is the first to directly examine the effectiveness of VPT training using table blocks in enhancing ToM performance in autistic children, thereby providing a novel approach for ToM development.",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2026.2694071",
@@ -4797,29 +5002,6 @@
         "lived experience"
       ],
       "abstract": "Social communication interventions to support autistic people are primarily developed and tested in Western countries with predominantly White, English-speaking participants. Although numerous frameworks have been developed to adapt these interventions for diverse ethnocultural groups, the quality of these adaptations is not well understood. This review used the Cultural Adaptation Checklist (CAC) to appraise the quality of cultural adaptations of social communication interventions for autistic children and adolescents. Searches across eight databases identified 16 studies involving 474 participants. Included studies reflected seven different culturally adapted interventions delivered across 12 countries in 11 languages. The methodological quality of the studies was assessed using QualSyst, and data were analyzed through narrative synthesis. All studies demonstrated at least adequate methodological quality, but only three reported using a specific framework to guide their cultural adaptations. The extent of adaptations varied, with fulfillment of CAC items across studies ranging from 44% to 91%. This review highlights the need for more comprehensively reported cultural adaptations…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70301",
-      "title": "Seeing the Child Within: A Randomized Controlled Trial of Reflective Functioning Intervention for Parents of Autistic Children",
-      "authors": [
-        "Yael Enav",
-        "Natalia Kirsman",
-        "Dana Erhard Weiss",
-        "Yael Mayer"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-02",
-      "doi": "10.1002/aur.70301",
-      "url": "https://doi.org/10.1002/aur.70301",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "ABSTRACT Parents of autistic children often face elevated emotional demands and challenges in interpreting their child's inner experience. Parental reflective functioning (PRF), the capacity to understand behavior in terms of underlying mental states, is considered a key mechanism in fostering emotionally attuned and adaptive caregiving. Despite its importance, few interventions directly target PRF, and fewer still have tested brief, group‐based formats designed for broad accessibility. We conducted a randomized controlled trial to evaluate a brief, virtual PRF intervention delivered via Zoom to 249 parents of autistic children. Participants were randomly assigned to either an intervention group ( n = 129) or a waitlist control group ( n = 130), and completed assessments at baseline and postintervention. PRF was measured using a standardized interview, while self‐report questionnaires assessed parenting self‐efficacy, beliefs about emotional malleability, depressive symptoms, and child adaptive functioning. Generalized estimating equations revealed significant time‐by‐group interactions favoring the intervention group across several outcomes. Relative to controls, intervention part…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -5334,30 +5516,6 @@
       ],
       "abstract": "Attenuated sound–shape matching in the classic Kiki–Bouba effect in autism has already been replicated in several studies, but it remains unclear whether this attenuation is confined to low-level multisensory integration or whether it reflects a broader reduction in crossmodal priors. In this pre-registered study, we tested 68 intelligence quotient (IQ)-matched participants (31 autistic, 37 typically developing) on four established crossmodal correspondence tasks that span perceptual to conceptual mappings: (1) “Fast lemons” (object–adjective), (2) sound–size pairings with Greebles, (3) kiki–bouba variants, and (4) color–taste matches. A generalized linear mixed-effects model showed a significant main effect of autism, indicating fewer theoretically congruent choices across all tasks. Target consistency increased with age, performance intelligence quotient (PIQ) and with an artificial intelligence (AI)-derived item-difficulty index. Random slopes revealed no task-by-diagnosis interaction, suggesting that diminished correspondence strength in autism generalizes across sensory and semantic domains. These results cautiously point to domain-general accounts, such as predictive-coding “…",
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1177/10870547261427102",
-      "title": "Understanding the Relationship Between Early Elementary Children’s ADHD Symptoms and Teachers’ Needs Supportive Practices",
-      "authors": [
-        "Melissa Kang",
-        "Anne-Claude V. Bédard",
-        "Angela Pyle",
-        "Frédéric Guay",
-        "Rhonda Martinussen",
-        "André Plamondon"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/10870547261427102",
-      "url": "https://doi.org/10.1177/10870547261427102",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Objective: Many children with diagnosed and subclinical ADHD struggle with low academic motivation in early elementary. Fortunately, teachers’ needs’ supportive practices (NSPs) can mitigate motivational challenges and protect against disengagement and underachievement. Teachers’ NSPs include autonomy support, structure, and positive student-teacher relationships that target children’s motivational resources (i.e., autonomy, competency, and relatedness) needed to engage with school materials. Particularly, autonomy support practices fuel children’s feelings of autonomy, structure caters to feelings of competency, and positive student-teacher relationships provide feelings of belonging. Yet, it is unknown how ADHD symptoms in early elementary are associated with teachers’ NSPs. Methods: One hundred and fifty-four first-grade students and 25 teachers from three school boards participated. We assessed children’s perception of their teachers’ autonomy support and structure and their standardised achievement. We also assessed teachers’ perceptions of students’ ADHD symptoms, student-teacher relationship quality, and conduct problems. Three linear regression analyses were performed with…"
     },
     {
       "id": "10.1002/aur.70263",
@@ -6287,59 +6445,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70300",
-      "title": "A Large‐Scale Study on the Relation Between Multilingualism and Social Traits in Adults With and Without Autism Diagnoses",
-      "authors": [
-        "Margreet Vogelzang",
-        "Sean Dong Wei Gan",
-        "Jamie Setch"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-23",
-      "doi": "10.1002/aur.70300",
-      "url": "https://doi.org/10.1002/aur.70300",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism Spectrum Disorder is a neurodevelopmental condition characterized by persistent difficulties in social interaction and communication alongside restricted, repetitive patterns of behavior, interests, or activities. Emerging evidence suggests that bi/multilingualism may enhance social interaction skills, yet prior research has largely focused on children, relied on small samples, and used oversimplified monolingual–bilingual groupings. The present study examines whether multilingual engagement predicts autism‐associated social traits in adults with and without autism diagnoses. Specifically, we investigated whether childhood and/or current multilingual engagement (operationalized as entropy) predicts social interaction, communication, and overall autistic traits, measured via the Comprehensive Autistic Trait Inventory (CATI). Four hundred and fifty‐nine adults (of which 132 diagnosed autistic) participated in the study. Analyses revealed that, both in the full sample and in the subsample of individuals with autism diagnoses, greater language entropy was associated with lower CATI scores in social interaction and overall. No relation between language entropy and commun…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70304",
-      "title": "Functional Brain Asymmetry Reveals Heterogeneous Subtypes in Autism Spectrum Disorder",
-      "authors": [
-        "Chae Yeon Kim",
-        "Sunghun Kim",
-        "Bo‐yong Park"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-23",
-      "doi": "10.1002/aur.70304",
-      "url": "https://doi.org/10.1002/aur.70304",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Sensory environment"
-      ],
-      "tags": [
-        "communication",
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Heterogeneity is a critical factor in understanding inter‐individual brain and behavioral variability in autism spectrum disorder (ASD). Since individuals with ASD exhibit atypical communication and social interaction skills closely linked to brain lateralization, this study investigated ASD heterogeneity using an asymmetry index that captures interhemispheric differences in brain function. Degree centrality was computed from the functional connectivity matrix, and its asymmetry was quantified for each brain region. Using an unsupervised clustering algorithm, we identified three distinct subtypes within the ASD population that showed significant differences in brain asymmetry in the somatomotor, frontoparietal, and default mode networks. Comparisons of symptom severity indicated that subtype 2, which displayed atypical asymmetry patterns along the sensory–default mode axis, exhibited higher clinical severity. Functional connectivity analyses further revealed that subtype 1, characterized by rightward asymmetry, demonstrated hypoconnectivity across sensory and heteromodal association regions, whereas subtype 3, characterized by leftward asymmetry, exhibited hyperconnectivit…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-026-07404-2",
       "title": "A Multimodal Investigation of Flexibility and Socialization in Autistic Children With and Without ADHD",
       "authors": [
@@ -6526,66 +6631,6 @@
         "Education"
       ],
       "abstract": "Abstract Purpose In this study, we examined the effectiveness of Theory of Mind (ToM) intervention programs on the ToM skills of individuals with Autism Spectrum Disorder (ASD) through a systematic review and meta-analysis. Methods A comprehensive search was conducted in Web of Science, Scopus, EBSCO ERIC, Academic Search Complete, PubMed, ProQuest, and the Türkiye Council of Higher Education Thesis Center, completed on January 5, 2024. Studies were included if published in English or Turkish, involved participants with ASD, implemented interventions targeting ToM, used at least one ToM assessment tool, employed a randomized controlled trial (RCT) or quasi-experimental design, and provided sufficient data for meta-analysis. Methodological quality was evaluated using What Works Clearinghouse (WWC) standards. The meta-analysis used a fixed-effects model with Hedges’ g in Comprehensive Meta-Analysis Software 4. Results We identified 20 studies ( n = 924) meeting the inclusion criteria, of which 15 were included in the meta-analysis. Most interventions targeted understanding first- and second-order false beliefs and frequently used role-play and picture-based storytelling techniques. T…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70294",
-      "title": "Personalized Lifespan Approach to Autism Assessment: A Clinical and System Framework for Developmentally Informed Assessment Across the Life‐Course",
-      "authors": [
-        "Melanie Penner",
-        "Rebecca McNally Keehn"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-19",
-      "doi": "10.1002/aur.70294",
-      "url": "https://doi.org/10.1002/aur.70294",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT The increasing prevalence of autism has led to considerable system challenges as specialist‐driven approaches have struggled to keep pace. Recent research has challenged status quo models by demonstrating that community‐based pediatric clinicians can accurately diagnose autism in young children. This research provides an opportunity to further expand capacity of community systems to conduct developmentally relevant, context‐specific assessments of autistic people over their lifespan. In this Commentary, we propose a personalized lifespan approach to autism assessment as a precision care and system organization framework that considers the ongoing and evolving needs of autistic people and aligns the necessary expertise and resources to provide focused assessment when it is most informative. This framework consists of three key principles: (1) assessment is not a one‐time, one‐size‐fits‐all event; instead, assessment continues across the lifespan; (2) assessments should generate information that is relevant to the individual's current needs and life stage; and (3) wherever possible, community‐based expertise should be engaged to promote the right assessment at the right time…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70296",
-      "title": "The Unique Roles of Executive Function in Co‐Occurring Psychopathologies in Autism",
-      "authors": [
-        "Shing‐Him Ng",
-        "Jet Leung",
-        "Keith Chun Lok Lee",
-        "Angela Man Wai Lam",
-        "Isaac Ho Wai Wong",
-        "Sze‐Mai Ng",
-        "Maciej Gabrysiak",
-        "Petrina Yau Pok Lau",
-        "Sandra Sau Man Chan",
-        "Tyler M. Moore",
-        "Kosha Ruparel",
-        "Raquel E. Gur",
-        "Ruben C. Gur",
-        "Oscar Wing Ho Wong"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-19",
-      "doi": "10.1002/aur.70296",
-      "url": "https://doi.org/10.1002/aur.70296",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) often experience co‐occurring psychiatric conditions, such as anxiety and attention‐deficit/hyperactivity disorder (ADHD), which significantly impair daily functioning. However, the underlying mechanisms linking these conditions to core ASD features remain poorly understood. This study examined relationships between anxiety, ADHD symptoms, and multi‐domain neurocognitive abilities in a clinic‐based sample of 701 Chinese children with ASD (mean age 8 years, 13.4% female), using the Hong Kong version of the Penn Computerized Neurocognitive Battery. Initial correlations revealed negative associations between cognitive performance and ADHD symptoms, but no direct links with anxiety. Ordinal regression demonstrated that poorer executive function (EF) independently predicted greater ADHD severity along a continuum from no ADHD to subclinical features to co‐occurring ADHD, in a dose‐dependent manner, even after controlling for core autism symptoms, other cognitive domains, and full‐scale IQ. Moderation analyses showed that stronger EF specifically buffered the associations between sensory hyper‐responsiveness/sensory‐seeking and anxiet…",
       "framing": "Mixed or transitional framing"
     },
     {
@@ -8192,38 +8237,6 @@
       "abstract": "Whether and to what extent sociodemographic disparities in school-based autism identification have been occurring in U.S. elementary schools is currently unclear. We investigated for disparities attributable to race, ethnicity, biological sex, family income, and language use by analyzing repeated cross-sectional data collected on very large samples of U.S. fourth graders participating in the National Assessment of Educational Progress from 2003 to 2022 ( n s = 103,150–205,860). Multivariable logistic regression models accounting for potential confounds including student-level academic achievement and school-level resources repeatedly indicated that students of color, females, students from low-income families, and multilingual learners (MLs) are less likely to be identified with autism while attending U.S. elementary schools. These disparities have been largely stable over time, particularly for Black students, females, and MLs. Health and educational policies that ensure equal access to autism supports and services in U.S. elementary schools including by students from historically marginalized communities are warranted."
     },
     {
-      "id": "10.1177/13623613261434573",
-      "title": "Expanding Training Capacity for the Group-Based Social ABCs Program: Evaluation of Coaching Models and French-Language Implementation in a Pediatric Hospital",
-      "authors": [
-        "Renee Baysarowich",
-        "Jessica Remedios",
-        "Kelly King",
-        "Martine Brunet",
-        "Nicholas Denomey",
-        "Justyna Litwinska",
-        "Taylor Johansen",
-        "Sarah Raza"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261434573",
-      "url": "https://doi.org/10.1177/13623613261434573",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "communication",
-        "service improvement"
-      ],
-      "abstract": "Autism is the fastest growing neurodevelopmental condition in Canada. Caregiver-mediated interventions, such as the Social ABCs, improve early social communication and caregiver empowerment. To enhance accessibility, Social ABCs was adapted into a condensed, group-based model. This study evaluated its implementation and sustainability at a large pediatric hospital, examining child and caregiver outcomes across multiple coach training pathways and French-language delivery. A retrospective chart review included 361 families (children 12–42 months with suspected or confirmed autism) who completed six weekly group sessions and nine individual caregiver coaching sessions between 2020 and 2024. Coaches were trained via expert-led, hybrid, or site-led pathways. Caregiver implementation fidelity improved from 33.6% to 70.0% ( p &lt; 0.001), with similar gains in English and French. Child vocal responsivity increased from 5.7% to 43.2% ( p &lt; 0.001), and post-intervention caregiver fidelity correlated with child responsivity ( r = 0.25, p &lt; 0.001). Fidelity and responsivity outcomes did not differ by training pathway, supporting site-led training. Multiple pathways expanded clinician c…"
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -8454,34 +8467,6 @@
       ],
       "abstract": "ABSTRACT Children and adolescents with autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD) often present physical and motor challenges that may compromise health, yet direct comparisons between these neurodevelopmental conditions and typically developing (TD) peers remain limited. This study aimed to examine the physical fitness profiles of these three groups. A total of 1537 school‐aged participants were recruited from mainstream educational settings. The assessment included selected tests from the EUROFIT battery and body mass index (BMI). Composite indices of physical fitness and motor coordination were computed using age‐ and sex‐adjusted Z ‐scores. Both the ADHD ( n = 80) and ASD ( n = 36) groups showed significantly lower cardiorespiratory fitness, balance, and upper‐body coordination compared with TD peers ( n = 1413). Lower‐body muscular strength was reduced only in the ASD group, which also performed worse than the ADHD group. Flexibility and BMI distributions did not differ significantly across groups. Plate Tapping and Flamingo Balance test indices were markedly lower in both clinical groups relative to TD peers. Children and adolescents wi…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70251",
-      "title": "Occurrence and Correlates of Suicidal Thoughts Among Young Autistic Users of a Mental Health App",
-      "authors": [
-        "T. L. Procyshyn",
-        "E. M. Weir",
-        "M. Pelton",
-        "T. Chikaura",
-        "H. Hodges",
-        "K. Comley",
-        "S. Godson",
-        "C. Allison",
-        "S. Baron‐Cohen"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1002/aur.70251",
-      "url": "https://doi.org/10.1002/aur.70251",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT Young autistic people experience disproportionately high rates of mental health challenges, yet little is known about factors associated with suicidality in this group. This study leveraged anonymous self‐report data to identify correlates of suicidal thoughts among 365 young users (aged approximately 11–25 years) of a mental health app in the United Kingdom with an autism diagnosis or self‐identifying as autistic. The presence of suicidal thoughts was assessed as a binary item. Binary logistic regression was used to explore correlates of suicidal thoughts across three domains: mental health‐related symptoms, autism‐related factors, and adverse life events/experiences. The final model included all significant correlates from domain‐specific models alongside demographic factors. Suicidal thoughts were reported by 63% of participants, with similar rates across age groups. The final model accounted for nearly 50% of variability in the presence of suicidal thoughts ( R 2 Nagelkerke = 0.48, p &lt; 0.001). Self‐harm and depression showed the strongest positive associations (odds ratio, OR and [95% confidence interval] = 6.41 [3.62, 11.35] and 4.58 [2.51, 8.35], respectively), fo…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2026.2679069",
@@ -11180,28 +11165,6 @@
         "sensory"
       ],
       "abstract": "Abstract School refusal is one form of school non-attendance often categorized by emotional distress related to school. Emerging evidence suggests that neurodivergent learners disproportionately engage in school refusal behavior when compared to their neurotypical peers. Additionally, the importance of the school environment as a mitigating and contributing factor to school refusal is growing. This scoping review summarizes research on school-based barriers that may contribute to school refusal among neurodivergent adolescents. A search in May 2024 identified 18 relevant sources. The review examines participant details, diagnoses, research methods, and contextual challenges. Key factors such as sensory overload and relationships with peers and teachers were found to influence school refusal. Understanding these barriers can help inform targeted interventions and guide policy changes to support neurodivergent students’ needs and encourage attendance. The review also highlights the complexities of school refusal research and suggests future research should more clearly define participant characteristics and better involve young people in studies to deepen insight into how school envi…"
-    },
-    {
-      "id": "10.1007/s10803-026-07331-2",
-      "title": "Understanding Barriers to Caregiver Support Engagement During Their Autistic Youth’s Transition to Adulthood: A Qualitative Analysis of Parental Perspectives",
-      "authors": [
-        "Sarah Balser",
-        "Wenxing Wei",
-        "Emily Axner",
-        "Carina Montoya"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-15",
-      "doi": "10.1007/s10803-026-07331-2",
-      "url": "https://doi.org/10.1007/s10803-026-07331-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ]
     }
   ]
 }
