@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:58:18Z",
+  "generated_at": "2026-08-16T06:59:37Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -11124,87 +11124,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07330-3",
-      "title": "Validation of the Modified Checklist for Autism in Toddlers (M-CHAT): A Replication Study of Diagnostic Accuracy",
-      "authors": [
-        "Ayonia L. Harper",
-        "Dustin E. Sarver",
-        "Kaye F. Sly"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-17",
-      "doi": "10.1007/s10803-026-07330-3",
-      "url": "https://doi.org/10.1007/s10803-026-07330-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose Early detection of autism spectrum disorder (ASD) is critical yet disparities persist in screening accuracy and identification within underserved populations. This study sought to replicate the only other prior study examining universal ASD screening (Guthrie et al. in Pediatrics 144(4):e20183963, 2019, 10.1542/peds.2018-3963) and evaluate the diagnostic accuracy of the modified checklist for autism in toddlers (M-CHAT) in a diverse cohort of toddlers screened in a large rural healthcare system. Methods A retrospective review was completed of 5300 primary care screening visits from 3956 children aged 16–30 months between 2015 and 2024. Screening completion rates at 18 months, 24 months, and both time points were examined, as well as diagnostic accuracy (sensitivity, specificity, positive predictive value, negative predictive value) both overall and within child/sociodemographic subgroups. Results Approximately 30% of children received screenings in alignment within AAP recommendations. Overall, the M-CHAT demonstrated moderate sensitivity (49.2%) and high specificity (94.2%), with a positive predictive value (PPV) of 28.9% and negative predictive value of 97.5% for…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07317-0",
-      "title": "The Association Between Neonatal Jaundice and Autism Spectrum Disorder and Attention-Deficit/Hyperactivity Disorder: Findings From the Millennium Cohort Study",
-      "authors": [
-        "Andrea Lee",
-        "Sorcha Higgins",
-        "David O’Driscoll",
-        "Jill M. Mitchell",
-        "Brian H. Walsh",
-        "Gerard W. O’Keeffe",
-        "Ali S. Khashan",
-        "Gillian M. Maher"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-17",
-      "doi": "10.1007/s10803-026-07317-0",
-      "url": "https://doi.org/10.1007/s10803-026-07317-0",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract Objective To examine the association between neonatal jaundice requiring hospital treatment and autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD) in offspring by age 14 years. Methods We used data from the Millennium Cohort Study, a nationally representative longitudinal study of children born in the UK. Data on neonatal jaundice requiring hospital treatment and potential confounders were maternal-reported and collected at 9-months postpartum. Data on ASD and ADHD were based on maternal reported doctor diagnosis. A diagnosis of ASD or ADHD were assumed if parents reported ASD or ADHD diagnosis at age 5, 7, 11 or 14 years. We conducted crude and adjusted logistic regression analyses to examine the association between neonatal jaundice and ASD and ADHD, adjusting for a range of socioeconomic, maternal and lifestyle factors. Results 18,294 singleton babies were included at baseline. Of these, 1,254 (6.9%) experienced neonatal jaundice that required hospital treatment, and there were 575 (3.7%) cases of ASD and 497 (3.2%) cases of ADHD by age 14 years. Findings were consistent across all crude and adjusted models, with the fully adjusted odds r…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07333-0",
-      "title": "Multi-View Analysis of Facial Expressions in Minimally Verbal Autism: Preliminary Evidence From Social Communication Observations",
-      "authors": [
-        "Lu Qu",
-        "Tongxin Yin",
-        "Jiabei Zeng",
-        "Yuqi Zhang",
-        "Xuling Han",
-        "Min Liu",
-        "Fei Chang",
-        "Yujian Yuan",
-        "Shiguang Shan",
-        "Hang Zhao",
-        "Qiaoyun Liu"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-17",
-      "doi": "10.1007/s10803-026-07333-0",
-      "url": "https://doi.org/10.1007/s10803-026-07333-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
     }
   ]
 }
