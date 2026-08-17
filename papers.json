@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:59:37Z",
+  "generated_at": "2026-08-17T07:17:40Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -119,6 +119,59 @@
         "communication"
       ],
       "abstract": "Introduction: Evidence-based assessments for ADHD include the collection of standardized ratings of Diagnostic and Statistical Manual of Mental Disorders symptoms. There is limited research on ADHD diagnostic procedures in Hispanic/Latino children and a growing concern that ADHD may be underdiagnosed due to language barriers that exist between parents and the standardized measures. To address this gap, we examined potential language related biases in the assessment of ADHD among Spanish-speaking parents. Methods: The sample was 107 Hispanic/Latino, Spanish-speaking parents of children in kindergarten or first grade. The Spanish translated versions of the Disruptive Behavior Disorders Rating Scale (DBD-RS), Strength and Difficulties Questionnaire (SDQ), and Impairment Rating Scale (IRS) were administered to assess ADHD symptoms, concurrent validity, and the influence of time since arrival in the United States on parent ratings. Results: The Spanish DBD-RS demonstrated strong internal consistency for both Inattention (α = .85) and Hyperactivity/Impulsivity (α = .85) subscales. Parent ADHD ratings were positively correlated with SDQ Hyperactivity/Inattention scores ( r = .38, p &lt; .…"
+    },
+    {
+      "id": "10.1108/aia-05-2026-0068",
+      "title": "Planning with autistic adults: experiences of transport, housing and recreation, and the conditions of participation",
+      "authors": [
+        "Gala Korniyenko"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-08-17",
+      "doi": "10.1108/aia-05-2026-0068",
+      "url": "https://doi.org/10.1108/aia-05-2026-0068",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Quality of life",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "participatory"
+      ],
+      "abstract": "Purpose Autistic adults navigate transport, housing and recreation daily, yet their first-hand accounts rarely reach the planning processes that shape these domains. This paper aims to examine how autistic adults experience transport, housing and recreation and how the process of involving them in city planning shapes whose voice is heard. It aims to bring autistic adults’ first-hand accounts into planning practice and to contribute evidence on making public participation genuinely inclusive. Design/methodology/approach The study used a qualitative, participatory design with three linked components: a focus group with 19 autistic adults, a design charrette workshop with 10 autistic adults and a campus-based tactical-urbanism field study with 7 autistic adults. The focus group transcript was analyzed using reflexive thematic analysis, organized across the three planning domains. The charrette and field study provided participatory corroboration. Access was mediated by a clinical and community partnership and the analysis attends reflexively to how this shaped data collection. Findings Autistic adults relied heavily on others for mobility, citing a cluster of distinct barriers to ind…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261472929",
+      "title": "A Reliable Effect of Alexithymia, but Not Autism, on Placebo Hypoalgesia",
+      "authors": [
+        "Eri Ichijo",
+        "Michel-Pierre Coll",
+        "Caroline Catmur",
+        "Geoffrey Bird"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-16",
+      "doi": "10.1177/13623613261472929",
+      "url": "https://doi.org/10.1177/13623613261472929",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Perception of pain can be altered by one’s expectations of that pain, producing well-known phenomena such as placebo effects. It has been suggested that perceptual inference functions differently in autism, with perception weighted towards bottom-up sensory evidence rather than top-down expectations. This account would predict reduced placebo effects in autism. However, research also indicates that atypical interoception (perception of bodily sensations) in autism may be better explained by co-occurring alexithymia. This latter finding suggests that any differences in perceptual inference in autism, at least within the interoceptive domain, may be a product of co-occurring alexithymia. We conducted a study in London and Oxford, England, using a placebo hypoalgesia paradigm to assess perceptual inferences in autism and alexithymia. This paradigm permits manipulation of expectations (concerning the magnitude of pain relief) while measuring individual differences in the perception of stimuli (perceived pain). We investigated whether the magnitude of the placebo effect could be explained by autistic and/or alexithymic traits. Ninety-six adults, including autistic people ( n = 28), alex…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07442-w",
@@ -11106,24 +11159,6 @@
       "domains": [
         "Education"
       ]
-    },
-    {
-      "id": "10.1007/s10803-026-07329-w",
-      "title": "Development of Autism Mealtime Behavior Questionnaire for Children With Autism Spectrum Disorder",
-      "authors": [
-        "Tzu-Min Lee",
-        "Tien-Ni Wang",
-        "Ya-Lin Hsieh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-18",
-      "doi": "10.1007/s10803-026-07329-w",
-      "url": "https://doi.org/10.1007/s10803-026-07329-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
