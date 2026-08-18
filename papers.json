@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:17:40Z",
+  "generated_at": "2026-08-18T07:05:18Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -121,6 +121,98 @@
       "abstract": "Introduction: Evidence-based assessments for ADHD include the collection of standardized ratings of Diagnostic and Statistical Manual of Mental Disorders symptoms. There is limited research on ADHD diagnostic procedures in Hispanic/Latino children and a growing concern that ADHD may be underdiagnosed due to language barriers that exist between parents and the standardized measures. To address this gap, we examined potential language related biases in the assessment of ADHD among Spanish-speaking parents. Methods: The sample was 107 Hispanic/Latino, Spanish-speaking parents of children in kindergarten or first grade. The Spanish translated versions of the Disruptive Behavior Disorders Rating Scale (DBD-RS), Strength and Difficulties Questionnaire (SDQ), and Impairment Rating Scale (IRS) were administered to assess ADHD symptoms, concurrent validity, and the influence of time since arrival in the United States on parent ratings. Results: The Spanish DBD-RS demonstrated strong internal consistency for both Inattention (α = .85) and Hyperactivity/Impulsivity (α = .85) subscales. Parent ADHD ratings were positively correlated with SDQ Hyperactivity/Inattention scores ( r = .38, p &lt; .…"
     },
     {
+      "id": "10.1007/s10803-026-07493-z",
+      "title": "Altered Affective Egocentricity in Autism: Implications for Facial Emotion Perception",
+      "authors": [
+        "Kristina Nikić",
+        "Julia Folz",
+        "Anouschka van Dijk",
+        "Vivien Janowicz",
+        "Thomas Suslow",
+        "Mariska E. Kret",
+        "Katja Koelkebeck"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-17",
+      "doi": "10.1007/s10803-026-07493-z",
+      "url": "https://doi.org/10.1007/s10803-026-07493-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Affective egocentricity, the tendency to project one’s own affect onto others, appears reduced in those with alexithymia, a condition often linked to autism. This study investigated the relationship between self-reported affectivity (implicit and explicit) and emotion perception (accuracy, perceived intensity) as well as facial muscle responses (corrugator supercilii, zygomaticus major) in autism. Methods Autistic adults (N = 40) and a non-autistic comparison group (N = 40) watched facial expressions whilst recorded (fEMG) and judged the stimuli afterwards. Results For explicit affect, non-autistic participants showed affective egocentricity, with positive state affect linked to lower accuracy in recognizing angry expressions. In contrast, autistic participants showed an altered pattern, where positive state affect was associated with improved recognition of angry and fearful faces. For implicit affect, autistic participants showed an affect-incongruent link between negative affect and lower perceived intensity of fearful faces. When controlling for alexithymia, explicit state affect differences became more pronounced, but non-significant for implicit affect. Concl…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07497-9",
+      "title": "Diagnostic Yield of Whole Exome Sequencing in Autism Spectrum Disorder Patients at a Tertiary Center in Saudi Arabia",
+      "authors": [
+        "Abdulaziz Alasiri",
+        "Basmah Al-Jabri",
+        "Musaed Abukhaled",
+        "Hesham Aldhalan",
+        "Noor Al Eman",
+        "Sara Almogren",
+        "Nora Alodah",
+        "Saad Alhamoudi",
+        "Anas Alyazidi"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-17",
+      "doi": "10.1007/s10803-026-07497-9",
+      "url": "https://doi.org/10.1007/s10803-026-07497-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/25739581261472708",
+      "title": "A Diagnosis Buried in the Closet: How Autistic People Learn of Their Autism Diagnoses",
+      "authors": [
+        "Dakyeom Lee",
+        "Insuk Ryu",
+        "Joonheon Kwon",
+        "wn-ho Yoon",
+        "Hee Jeong Yoo",
+        "So Yoon Kim"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-08-17",
+      "doi": "10.1177/25739581261472708",
+      "url": "https://doi.org/10.1177/25739581261472708",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "disclosure",
+        "lived experience"
+      ],
+      "abstract": "Background: Learning that one is autistic can be a pivotal turning point in self-understanding, but autistic people learn of this information under highly variable conditions. How these disclosure conditions shape autistic people’s experiences of learning and making sense of the diagnosis remains underexamined, particularly for those who received an autism diagnosis in childhood but learned about it later, and in non-Western contexts. Methods: We conducted semi-structured qualitative interviews with 22 formally diagnosed autistic adults in South Korea from two diagnostic pathways (11 self-initiated diagnosis in adolescence/adulthood; 11 received a childhood diagnosis and learned about it later). Among participants who received a childhood diagnosis, disclosure conditions varied, with some receiving direct disclosure and others learning about the diagnosis unexpectedly (e.g., through records hidden in the closet). We conducted one-on-one interviews and analyzed the data using reflexive thematic analysis. Results: The analysis suggested that core themes transcended diagnostic pathways. Participants described learning of the diagnosis as an identity-relevant turning point marked by mi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00585-7",
+      "title": "Self-Regulation Interventions for Young Autistic Children: A Systematic Review",
+      "authors": [
+        "Yitong Jiang",
+        "Kezheng Qu",
+        "Xiaoyi Hu",
+        "Stephanie Shire"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-17",
+      "doi": "10.1007/s40489-026-00585-7",
+      "url": "https://doi.org/10.1007/s40489-026-00585-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1108/aia-05-2026-0068",
       "title": "Planning with autistic adults: experiences of transport, housing and recreation, and the conditions of participation",
       "authors": [
@@ -146,6 +238,30 @@
       ],
       "abstract": "Purpose Autistic adults navigate transport, housing and recreation daily, yet their first-hand accounts rarely reach the planning processes that shape these domains. This paper aims to examine how autistic adults experience transport, housing and recreation and how the process of involving them in city planning shapes whose voice is heard. It aims to bring autistic adults’ first-hand accounts into planning practice and to contribute evidence on making public participation genuinely inclusive. Design/methodology/approach The study used a qualitative, participatory design with three linked components: a focus group with 19 autistic adults, a design charrette workshop with 10 autistic adults and a campus-based tactical-urbanism field study with 7 autistic adults. The focus group transcript was analyzed using reflexive thematic analysis, organized across the three planning domains. The charrette and field study provided participatory corroboration. Access was mediated by a clinical and community partnership and the analysis attends reflexively to how this shaped data collection. Findings Autistic adults relied heavily on others for mobility, citing a cluster of distinct barriers to ind…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70347",
+      "title": "Impaired Motor Competence in Children and Adolescents With Autism Spectrum Disorder: Evidence From a Systematic Review and Meta‐Analysis",
+      "authors": [
+        "Nerea Blanco‐Martínez",
+        "Daniel González‐Devesa",
+        "Silvia Varela",
+        "Rocío Carballo‐Afonso",
+        "Carlos Ayán‐Pérez"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-17",
+      "doi": "10.1002/aur.70347",
+      "url": "https://doi.org/10.1002/aur.70347",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Autism spectrum disorder (ASD) is frequently associated with motor difficulties that may affect daily functioning, participation in physical activity, and developmental outcomes. Although motor impairments have been widely reported in this population, comparative evidence against typically developing (TD) peers remains fragmented across studies and assessment tools. This systematic review and meta‐analysis aimed to examine whether children and adolescents with ASD show lower motor competence than TD peers and to identify the most affected motor domains. A systematic search was conducted in Scopus, Web of Science, PubMed, and SPORTDiscus up to December 10, 2025. Studies were eligible if they included children or adolescents with ASD and TD controls and assessed motor competence using standardized instruments. A total of 42 studies involving 3142 participants were included. The most frequently used tools were the Movement Assessment Battery for Children, the Bruininks–Oseretsky Test of Motor Proficiency, and the Test of Gross Motor Development. Across studies, children and adolescents with ASD consistently showed poorer performance than TD peers in manual dexterity, aiming a…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261472929",
@@ -11132,33 +11248,6 @@
       ],
       "abstract": "Purpose This study aims to examine the lived experiences of mothers of children with autism spectrum disorder (ASD) enrolled in mainstream schools in Kosovo and how they navigate the challenges and possibilities of inclusive education. Design/methodology/approach A qualitative phenomenological design was adopted. Semi-structured interviews were conducted with 10 mothers of children aged 8–10 years with formal ASD diagnoses attending mainstream schools implementing inclusion policies. Interviews (45–70 min) were audio-recorded, transcribed verbatim and analyzed using Braun and Clarke’s (2006) six-phase thematic analysis. Findings Five themes emerged: (1) emotional labor and resilience; (2) limited institutional support; (3) advocacy as a daily necessity; (4) hope through teacher collaboration; and (5) the critical role of assistants for students with special educational needs (SEN). Trained, integrated assistants were viewed as essential mediators of participation, learning and emotional regulation. Inclusion frequently depended on sustained maternal advocacy rather than system design, though consistent teacher–parent collaboration noticeably improved experiences. Research limitatio…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2655830",
-      "title": "Accruing validity evidence for the Autism in the Context of Education–Kenya Survey",
-      "authors": [
-        "James Soland",
-        "Mandy Rispoli",
-        "Mark Omollo",
-        "Carolyne Boke",
-        "Emmanuel Mwendwa",
-        "Chelagat Saina",
-        "Rujun Xu",
-        "Rebecca McNally Keehn",
-        "Jamie Pearson",
-        "Megan S. McHenry"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-19",
-      "doi": "10.1080/20473869.2026.2655830",
-      "url": "https://doi.org/10.1080/20473869.2026.2655830",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
     }
   ]
 }
