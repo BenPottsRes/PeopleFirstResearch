@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:07:48Z",
+  "generated_at": "2026-08-21T07:08:12Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -121,6 +121,79 @@
       "abstract": "Introduction: Evidence-based assessments for ADHD include the collection of standardized ratings of Diagnostic and Statistical Manual of Mental Disorders symptoms. There is limited research on ADHD diagnostic procedures in Hispanic/Latino children and a growing concern that ADHD may be underdiagnosed due to language barriers that exist between parents and the standardized measures. To address this gap, we examined potential language related biases in the assessment of ADHD among Spanish-speaking parents. Methods: The sample was 107 Hispanic/Latino, Spanish-speaking parents of children in kindergarten or first grade. The Spanish translated versions of the Disruptive Behavior Disorders Rating Scale (DBD-RS), Strength and Difficulties Questionnaire (SDQ), and Impairment Rating Scale (IRS) were administered to assess ADHD symptoms, concurrent validity, and the influence of time since arrival in the United States on parent ratings. Results: The Spanish DBD-RS demonstrated strong internal consistency for both Inattention (α = .85) and Hyperactivity/Impulsivity (α = .85) subscales. Parent ADHD ratings were positively correlated with SDQ Hyperactivity/Inattention scores ( r = .38, p &lt; .…"
     },
     {
+      "id": "10.1007/s10803-026-07470-6",
+      "title": "Reducing Emotional Burden Carried by Neurodivergent Students in School: Perspectives From Students and School Staff",
+      "authors": [
+        "M. Kakoulidou",
+        "G. Pavlopoulou",
+        "L. Low",
+        "S. Chandler",
+        "S. Baker",
+        "A. Johnson",
+        "S. Lukito",
+        "J. Hurry",
+        "E. J. S. Sonuga-Barke",
+        "Edmund Sonuga-Barke",
+        "Susie Chandler",
+        "Andrea Danese",
+        "Johnny Downs",
+        "Eloise Funnell",
+        "Kirsty Griffiths",
+        "Umaya Prasad",
+        "Myrofora Kakoulidou",
+        "Lauren Low",
+        "Steve Lukito",
+        "Angus Roberts",
+        "Emily Simonoff",
+        "Daniel Stahl",
+        "Anna Wyatt",
+        "Georgia Pavlopoulou",
+        "Jane Hurry",
+        "Sylvan Baker",
+        "Graham Moore",
+        "Amy Edwards",
+        "Dennis Ougrin",
+        "Amanda Roestorf",
+        "Rebecca Kirkbride",
+        "Jordan Altimimi",
+        "Beta Balwani",
+        "Saskia Barnes",
+        "Tiegan Boyens",
+        "Zoë Glen",
+        "Cj Harris",
+        "Charlotte Hillman",
+        "Luke Harvey-Nguyen",
+        "Issy Jackson",
+        "Amber Johnson",
+        "Elisa Ly",
+        "Elizabeth Macauley",
+        "Maciej Matejko",
+        "Dorian Poulton",
+        "Anya Rose",
+        "Archie Wilson"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-21",
+      "doi": "10.1007/s10803-026-07470-6",
+      "url": "https://doi.org/10.1007/s10803-026-07470-6",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Mental health",
+        "Quality of life"
+      ],
+      "tags": [
+        "access",
+        "communication"
+      ],
+      "abstract": "Abstract Purpose Compared to neurotypical peers, neurodivergent students experience increased exposure and more intense responses to commonly upsetting events (emotional burden), contributing to poor mental health. Student and staff perspectives offer insights into sources of emotional burden in school and how they can be managed and reduced. However, student and staff perspectives are rarely explored together. Methods Focus groups with students (11–16 years, n = 11) with autism or ADHD diagnoses, and school staff (n = 12) were used to explore the impact of the school environment on students’ emotions. Multimedia methodologies supported communication and participation. Results Reflexive thematic analysis generated three themes: Theme 1 “Upsetting experiences in school that trigger negative emotions” with subthemes: (i) an overwhelming and uncertain physical environment; (ii) a lack of belonging and understanding; (iii) inflexible school policies; (iv) an overemphasis on academic achievement; Theme 2 “Staff-specific barriers to supporting neurodivergent students” with subthemes (i) staff wellbeing; (ii) inconsistent understandings of, and support for, neurodivergent students; and Th…"
+    },
+    {
       "id": "10.1007/s10803-026-07485-z",
       "title": "AI-Enhanced Science Learning for Primary Students With Autism Spectrum Disorder: A Quasi-Experimental Study With Educational Robotics and Virtual Reality",
       "authors": [
@@ -197,6 +270,75 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/13623613261480175",
+      "title": "Whose Outcomes Count? Rethinking Measurement in Global Autism Research",
+      "authors": [
+        "Shoba S. Meera",
+        "Mirko Uljarević",
+        "Rosa A. Hoekstra"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-20",
+      "doi": "10.1177/13623613261480175",
+      "url": "https://doi.org/10.1177/13623613261480175",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261433170",
+      "title": "Autism and Self-Esteem: A Systematic Review Quantifying Differences Between Autistic and Non-Autistic Adolescents and Investigating Associations With Mental Health Difficulties",
+      "authors": [
+        "Poppy Clayton",
+        "Katie Lindsay-Webb",
+        "Francesca Happé",
+        "Matthew J. Hollocks"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-20",
+      "doi": "10.1177/13623613261433170",
+      "url": "https://doi.org/10.1177/13623613261433170",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Autistic individuals are at increased risk of developing mental health difficulties. Self-esteem has been found to be a significant indicator of mental health in the general population yet remains underexplored in autistic adolescents. This review aimed to explore rates of low self-esteem in autistic versus non-autistic adolescents (10–19 years of age) and examine the relationship between self-esteem and mental health symptomatology. A comprehensive literature search was conducted across four databases to identify relevant studies published until March 2025. The systematic review included 30 studies of self-esteem in autistic adolescents, including 15 studies with a non-autistic comparison group, and 16 studies with measures of both self-esteem and mental health. Autistic adolescents reported significantly lower levels of self-esteem compared with non-autistic adolescents, with a moderate weighted pooled effect size (g = −0.47). Group differences were maintained when considering measure variance in self-esteem tools but observed to be greater when using the Self-Perception Profile (g = −0.55) in contrast to the Rosenberg Self-Esteem Scale ( g = −0.33). Lower self-esteem was associa…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261472147",
+      "title": "Linking Emotion Dysregulation to Autistic Traits Across Neurodiverse Samples",
+      "authors": [
+        "Rachel G. McDonald",
+        "Mary Isaac Cargill",
+        "Emily Lynch",
+        "Sadaf Khawar",
+        "Caroline Freden",
+        "Erin Kang"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-20",
+      "doi": "10.1177/13623613261472147",
+      "url": "https://doi.org/10.1177/13623613261472147",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Emergency care",
+        "Mental health"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Emotion dysregulation (ED) is defined as difficulty regulating emotions in response to activating situations, and subsequent difficulty choosing an environmentally appropriate strategy to modulate one’s emotions. Despite ED being identified as a transdiagnostic construct, little research has examined the links to constructs like social communication and interaction (SCI) and restricted and repetitive behaviors (RRBs). SCIs and RRBs are core components of neurodevelopmental conditions like autism, as well as other mental health conditions more broadly. This article sought to examine the effects of emotional dysphoria and emotional reactivity on SCI and RRBs. Caregivers of 99 youth (64 autistic) ages 6 to 17 completed questionnaires about their child’s ED, SCI, and RRBs. Path models were used to examine ED’s impact on SCI difficulties and RRBs. Results suggest that both SCI and RRBs are affected by ED dysphoria and reactivity, with some differences across autistic and non-autistic groups. These findings can inform treatments for medication management and intervention planning for different profiles of ED in both autistic and non-autistic youth. Lay Abstract Many youth experience stru…"
+    },
+    {
       "id": "10.1108/aia-01-2026-0001",
       "title": "A short report on neurodevelopmental conditions in individuals with zoophilia",
       "authors": [
@@ -220,6 +362,35 @@
       ],
       "abstract": "Purpose Given the paucity of research on neurodiversity within paraphilic populations, this study aims to examine the prevalence of formally diagnosed and self-diagnosed neurodevelopmental conditions and social anxiety disorder in a large community-based sample of individuals identifying as zoophiles. Design/methodology/approach The current study adopts a community-based participatory research action framework to explore the prevalence rates of formal and self-diagnosis of neurodevelopmental disorders in a sample of 2,197 adults identifying as zoophiles. Findings Participant’s ages ranged from 18 to 82 years old (M = 29.39, SD = 9.79), coming from more than 50 countries, notably the United States (43.2%), Germany, Canada and Australia. Results revealed high rates of attention deficit hyperactivity disorder (ADHD) (23.8% and 14.4% formal and self-diagnostics, respectively), autism spectrum disorder (15.7% and 16.2%, respectively) and social anxiety (17.7% and 16.5%). Only a third of participants did not report any neurodevelopmental disorder. Participants reported a wide variation of functional impacts of these disorders with ADHD and social anxiety showing the most uniformed distri…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10870547261476398",
+      "title": "A Systematic and Explorative Literature Review Investigating Parent Training Interventions For Parents with ADHD",
+      "authors": [
+        "Therese Lindström",
+        "Carlos López-Pinar",
+        "Rano Zakirova-Engstrand",
+        "Ulf Jonsson",
+        "Sven Bölte",
+        "Douglas Sjöwall",
+        "Tatja Hirvikoski"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-20",
+      "doi": "10.1177/10870547261476398",
+      "url": "https://doi.org/10.1177/10870547261476398",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "lived experience",
+        "service improvement"
+      ],
+      "abstract": "Objectives: It remains unclear how much parents with ADHD benefit from standard parenting interventions such as behavioral parent training (BPT). Our objective was to systematically review the literature on BPT aimed at adults with ADHD. As few studies with this focus were identified, we exploratively broadened our scope to quantitatively combine and qualitatively analyze studies of behavioral parenting interventions reporting parental ADHD characteristics. Method: A systematic review was conducted of studies evaluating BPT for (targeting) parents with ADHD. The broader literature was explored through meta-regressions and qualitative content analysis. Results: In the systematic review, five studies focusing on parents with ADHD were identified, including two randomized controlled trials. These studies used different strategies to facilitate parents’ BPT implementation: treating the parents’ ADHD or adapting the BPT itself for adults with ADHD. The number of studies was too small to meta-analyze but narratively suggested that BPT delivered with consideration of parental ADHD functioning and needs can be associated with, for example, increased positive parenting skills. None of our m…"
     },
     {
       "id": "10.1177/13623613261476379",
@@ -8674,38 +8845,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261434571",
-      "title": "Community Perceptions of the Causes of Autism and Help-Seeking Responses: A Multi-Site Qualitative Study Across Northern Uganda",
-      "authors": [
-        "Jonathan Vincent",
-        "Diana Kajjumba",
-        "Richard Amone",
-        "Edward John Estlin",
-        "Kennedy Kosko Okello",
-        "Franceska Akello",
-        "James Okello",
-        "Richard Idro",
-        "Catherine Abbo",
-        "Simple Ouma"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261434571",
-      "url": "https://doi.org/10.1177/13623613261434571",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Understanding the causes of autism in sub-Saharan Africa remains limited, contributing to stigma and delayed identification. This multi-site qualitative study examined community explanatory models of autism and related help-seeking practices in Northern Uganda. Data were generated through 25 semi-structured interviews and 4 focus group discussions ( N = 64) across 1 urban and 2 rural districts in the Acholi sub-region. Participants included autistic young people, caregivers, health and education professionals, community, cultural and religious leaders, and government representatives. Data were analysed inductively. Four interrelated themes were identified: unknown causes, supernatural explanations, biopsychosocial attributions, and help-seeking pathways. Autism was frequently misunderstood and conflated with ‘mental illness’ or general learning difficulties. Supernatural accounts, such as witchcraft, curses, and divine punishment, were prevalent and often gendered, with mothers disproportionately blamed. Biopsychosocial explanations included contraceptive use, obstetric complications, genetic factors, and post-conflict trauma. These causal beliefs shaped different help-seeking traj…"
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -11294,104 +11433,6 @@
         "communication"
       ],
       "abstract": "Abstract Purpose Asian populations are among the fastest-growing ethnic groups in Aotearoa New Zealand (NZ), yet little is known about the prevalence of neurodevelopmental conditions (NDCs) within these communities. The study compared the prevalence and age of diagnosis of NDCs (Attention Deficit Hyperactivity Disorder [ADHD], autism, communication and language disabilities [CLDs], intellectual disability [ID], motor disabilities [MDs], and specific learning disabilities [SLDs]) between NZ-born Asian and non-Asian populations, and differences across Asian subgroups. Methods A national cross-sectional analysis was conducted using linked administrative microdata from the Integrated Data Infrastructure, covering the 2021/22 estimated resident population aged 0–24 years ( N = 1,334,247). Following adjustment for socioeconomic factors, standardized NDC rates were calculated for Asian and non-Asian populations and Asian subgroups (Indian, Chinese, Southeast Asian, and Other Asian). Results Lower standardized rates of NDCs were identified among Asian (2.85%, 95% CI [2.77, 2.94]) compared to non-Asian (4.52%, 95% CI [4.49, 4.56]) participants. Most notably, rates of ADHD (1.1%, 95% CI [1.0…"
-    },
-    {
-      "id": "10.1177/25739581261442064",
-      "title": "Navigating Online Dating: Autistic Adults’ Experiences of Connections, Disclosure, and Safety",
-      "authors": [
-        "Vicki Gibbs",
-        "Chris Edwards",
-        "Ru Ying Cai",
-        "Abigail M.A. Love",
-        "Amy Pearson"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-22",
-      "doi": "10.1177/25739581261442064",
-      "url": "https://doi.org/10.1177/25739581261442064",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "disclosure",
-        "lived experience"
-      ],
-      "abstract": "Background: Dating apps are a common way to meet partners, yet little is known about how autistic adults use and experience these platforms. Existing studies are few, consist of small samples, and none have specifically focused on disclosure decisions, responses to disclosure, or experiences of victimization. This study examined autistic adults’ use of dating apps, focusing on the connections formed, decisions about disclosing an autistic identity, responses received, and experiences of victimization. Methods: We employed a convergent mixed-methods design, using an online survey to collect quantitative and qualitative data. Eligible participants were autistic adults (professionally diagnosed or self-identified) with experience using dating apps or websites. In total, 102 participants completed the survey. We analyzed quantitative data using descriptive statistics, chi-square tests, and Mann–Whitney U tests. We analyzed qualitative open-text responses through conventional content analysis. Results: Most participants (83.3%) had met someone in person through dating apps, forming long-term (49%), short-term (41.2%), or casual connections (43.1%). More than half (54.5%) chose not to di…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261441775",
-      "title": "When Is Engagement ‘Good’? Values and Integrity in Community-Engaged Autism Research",
-      "authors": [
-        "Margaret G. Janse van Rensburg"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-04-22",
-      "doi": "10.1177/25739581261441775",
-      "url": "https://doi.org/10.1177/25739581261441775",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "participatory"
-      ],
-      "abstract": "Community engagement (CE) in autism research has been promoted as “good practice,” and is described through approaches such as co-production, participatory action research, and community-based participatory research. Although CE can enhance relevance and trust, its potential burdens or harms are rarely examined or disclosed to community members, and it is often implemented without evaluating its processes or outcomes. Limited attention is also given to values: the axiological foundations of CE and whether engagement is conducted with integrity. This perspective introduces an axiological lens to CE in autism research by arguing that researchers’ value commitments shape not only why engagement occurs but also how it unfolds and whom it benefits. After reviewing assumptions about CE being good practice, the costs and burdens associated with CE, and the lack of axiological analysis in autism research, it is argued that evaluating both processes and outcomes is essential. It then presents an “axiology of integrity,” which positions success in CE as coherence between stated values and actual research practices. Drawing on empirical and reflective scholarship, key process and outcome dime…"
-    },
-    {
-      "id": "10.1007/s10882-026-10061-z",
-      "title": "Dental Visit Experiences: Anxiety and Social Communication Difficulties During Dental Visits Among Children With Autism Spectrum Disorder (ASD)",
-      "authors": [
-        "Manon van der Wal",
-        "Daniela Hesse",
-        "Francisca J. A. van Steensel",
-        "Clarissa C. Bonifácio"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-22",
-      "doi": "10.1007/s10882-026-10061-z",
-      "url": "https://doi.org/10.1007/s10882-026-10061-z",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract This cross-sectional study investigated associations between anxiety, social communication difficulties and behaviour during dental visits in children with Autism Spectrum Disorder (ASD). Children (8-18 years) with ASD attending a specialised dental care centre were invited to participate. Prior to the visit, children and their parents completed questionnaires assessing dental anxiety (Children’s Fear Survey Schedule-Dental Subscale, CFSS-DS) and autism-specific anxiety (Anxiety Scale for children with ASD, ASC-ASD). Parents also provided demographic data and completed the Social Communication Questionnaire (SCQ). After the visit, dentists rated each child’s behaviour using Frankl Behaviour Rating Scale. Spearman correlation assessed relationships between variables (α=5%). Logistic regression explored associations between behaviour and child-related factors. 41 children (mean age 11.2 years) participated. CFSS-DS and ASC-ASD were significantly positively correlated (p &lt; .05, correlations .234 - .705). Parent reported data showed that ASD + ADHD diagnosis, higher language comprehension, and longer brushing duration were associated with reduce negative behaviour, while sp…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1108/aia-09-2025-0100",
-      "title": "Experiences of mothers of children with autism in inclusive education settings: a qualitative study",
-      "authors": [
-        "Ereblir Kadriu",
-        "Natyra Agani Destani",
-        "Arbesa Uka"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-04-22",
-      "doi": "10.1108/aia-09-2025-0100",
-      "url": "https://doi.org/10.1108/aia-09-2025-0100",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose This study aims to examine the lived experiences of mothers of children with autism spectrum disorder (ASD) enrolled in mainstream schools in Kosovo and how they navigate the challenges and possibilities of inclusive education. Design/methodology/approach A qualitative phenomenological design was adopted. Semi-structured interviews were conducted with 10 mothers of children aged 8–10 years with formal ASD diagnoses attending mainstream schools implementing inclusion policies. Interviews (45–70 min) were audio-recorded, transcribed verbatim and analyzed using Braun and Clarke’s (2006) six-phase thematic analysis. Findings Five themes emerged: (1) emotional labor and resilience; (2) limited institutional support; (3) advocacy as a daily necessity; (4) hope through teacher collaboration; and (5) the critical role of assistants for students with special educational needs (SEN). Trained, integrated assistants were viewed as essential mediators of participation, learning and emotional regulation. Inclusion frequently depended on sustained maternal advocacy rather than system design, though consistent teacher–parent collaboration noticeably improved experiences. Research limitatio…",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
