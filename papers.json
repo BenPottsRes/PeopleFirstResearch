@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:01:43Z",
+  "generated_at": "2026-08-24T07:29:25Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -750,6 +750,61 @@
         "communication"
       ],
       "abstract": "Introduction: Evidence-based assessments for ADHD include the collection of standardized ratings of Diagnostic and Statistical Manual of Mental Disorders symptoms. There is limited research on ADHD diagnostic procedures in Hispanic/Latino children and a growing concern that ADHD may be underdiagnosed due to language barriers that exist between parents and the standardized measures. To address this gap, we examined potential language related biases in the assessment of ADHD among Spanish-speaking parents. Methods: The sample was 107 Hispanic/Latino, Spanish-speaking parents of children in kindergarten or first grade. The Spanish translated versions of the Disruptive Behavior Disorders Rating Scale (DBD-RS), Strength and Difficulties Questionnaire (SDQ), and Impairment Rating Scale (IRS) were administered to assess ADHD symptoms, concurrent validity, and the influence of time since arrival in the United States on parent ratings. Results: The Spanish DBD-RS demonstrated strong internal consistency for both Inattention (α = .85) and Hyperactivity/Impulsivity (α = .85) subscales. Parent ADHD ratings were positively correlated with SDQ Hyperactivity/Inattention scores ( r = .38, p &lt; .…"
+    },
+    {
+      "id": "10.1007/s10803-026-07491-1",
+      "title": "Parent Ratings and Clinician Observational Tools in Autism: A Pilot Study in Spanish-Speaking Families",
+      "authors": [
+        "Laura A. Alba",
+        "Giselle Salinas"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-24",
+      "doi": "10.1007/s10803-026-07491-1",
+      "url": "https://doi.org/10.1007/s10803-026-07491-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07498-8",
+      "title": "Identifying Distinct Depression Trajectories in Korean Parents of Individuals With Intellectual Disability or Autism Spectrum Disorder: A Growth Mixture Modeling Analysis",
+      "authors": [
+        "Jungeun Kim",
+        "Sujin Yang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-24",
+      "doi": "10.1007/s10803-026-07498-8",
+      "url": "https://doi.org/10.1007/s10803-026-07498-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10882-026-10088-2",
+      "title": "A Digital Game Intervention for Improving Joint Attention in Children with Autism Spectrum Disorder: An Exploratory Pilot Pre–Post Study",
+      "authors": [
+        "Wenye Hu",
+        "Meng Huang",
+        "Yufeng Yuan",
+        "Rong Luo"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-24",
+      "doi": "10.1007/s10882-026-10088-2",
+      "url": "https://doi.org/10.1007/s10882-026-10088-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/13623613261478882",
