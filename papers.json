@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:09:16Z",
+  "generated_at": "2026-08-26T07:09:38Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -750,6 +750,225 @@
         "communication"
       ],
       "abstract": "Introduction: Evidence-based assessments for ADHD include the collection of standardized ratings of Diagnostic and Statistical Manual of Mental Disorders symptoms. There is limited research on ADHD diagnostic procedures in Hispanic/Latino children and a growing concern that ADHD may be underdiagnosed due to language barriers that exist between parents and the standardized measures. To address this gap, we examined potential language related biases in the assessment of ADHD among Spanish-speaking parents. Methods: The sample was 107 Hispanic/Latino, Spanish-speaking parents of children in kindergarten or first grade. The Spanish translated versions of the Disruptive Behavior Disorders Rating Scale (DBD-RS), Strength and Difficulties Questionnaire (SDQ), and Impairment Rating Scale (IRS) were administered to assess ADHD symptoms, concurrent validity, and the influence of time since arrival in the United States on parent ratings. Results: The Spanish DBD-RS demonstrated strong internal consistency for both Inattention (α = .85) and Hyperactivity/Impulsivity (α = .85) subscales. Parent ADHD ratings were positively correlated with SDQ Hyperactivity/Inattention scores ( r = .38, p &lt; .…"
+    },
+    {
+      "id": "10.1007/s10882-026-10091-7",
+      "title": "A Three-Year Practice-Based Mixed-Methods Feasibility Evaluation of a Community-Based Inclusive Physical Activity Program for Autistic Youth",
+      "authors": [
+        "Torge-Christian Wittke",
+        "Marina Siebert",
+        "Maike Emmerich",
+        "Christoph Egner",
+        "Laura A. Haase",
+        "Peter Wright",
+        "Alexandra Dopfer-Jablonka",
+        "Christine Happle",
+        "Christian Dopfer"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-26",
+      "doi": "10.1007/s10882-026-10091-7",
+      "url": "https://doi.org/10.1007/s10882-026-10091-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Abstract Autistic children and adolescents often encounter social, sensory, and environmental barriers to participation in group-based physical activity. This study evaluated the feasibility, safety, and participation-related processes of a community-based inclusive physical activity program in Germany that used adapted rugby-derived drills rather than competitive match play. The program was delivered through a coach-occupational therapist tandem model designed to individualize task demands, regulate sensory load, and support participation in real time. From December 2022 to June 2025, 12 autistic participants were enrolled, with 10 contributing complete longitudinal participation data. Across the evaluation period, 116 weekly sessions were delivered. In a practice-based mixed-methods feasibility design, parent interviews, early thesis-based and practice documentation, informal participant feedback, team reflection, and a prospective incident log were synthesised. Descriptive synthesis suggested improvements in social initiative, cooperation, self-confidence, and in-session regulation within a sustained group setting. Qualitative findings indicated that predictable routines, graded…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07490-2",
+      "title": "Indirect Pathways to Social Functioning in Autistic Children: The Roles of Verbal Comprehension, Task-Based Theory of Mind, and Caregiver-Perceived Theory of Mind",
+      "authors": [
+        "Yen-Ting Yu",
+        "Chia-Lin Koh",
+        "Chien-Ho Lin",
+        "Ching-Lin Hsieh",
+        "Kuan-Lin Chen"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-25",
+      "doi": "10.1007/s10803-026-07490-2",
+      "url": "https://doi.org/10.1007/s10803-026-07490-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07487-x",
+      "title": "From Perfectionistic Concerns to Parental Burnout via Parenting Stress: Actor-Partner Interdependence Mediation Models in Couples Raising a Child on the Autism Spectrum",
+      "authors": [
+        "Eline N. Desimpelaere",
+        "Peter Prinzie",
+        "Sarah S. W. De Pauw",
+        "Bart Soenens"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-25",
+      "doi": "10.1007/s10803-026-07487-x",
+      "url": "https://doi.org/10.1007/s10803-026-07487-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07481-3",
+      "title": "Developmental Trajectories of Autistic Traits in Infants With Autism and/or ADHD Family History: Predictors and Mid-Childhood Outcomes",
+      "authors": [
+        "Tony Charman",
+        "Tessel Bazelmans",
+        "Greg Pasco",
+        "Jannath Begum Ali",
+        "Emily J. H. Jones",
+        "Mark H. Johnson",
+        "Rowan Arthur",
+        "Jeni Baykoca",
+        "Anna Blasi",
+        "Patrick Bolton",
+        "Celeste Cheung",
+        "Kenny Chiu",
+        "Leila Dafner",
+        "Kim Davies",
+        "Mayada Elsabbagh",
+        "Janice Fernandes",
+        "Laurel Fish",
+        "Isobel Gammer",
+        "Teodora Gliga",
+        "Jeanne Guiraud",
+        "Rianne Haartsen",
+        "Sarah Kalwarowsky",
+        "Anna Kolesnik",
+        "Michelle Liew",
+        "Sarah Lloyd-Fox",
+        "Helen Maris",
+        "Luke Mason",
+        "Mia Medas",
+        "Bosiljka Milosavljevic",
+        "Louise O’Hara",
+        "Andrew Pickles",
+        "Laura Pirazzoli",
+        "Helena Ribeiro",
+        "Erica Salomone",
+        "Elizabeth Shephard",
+        "Chloë Taylor",
+        "Leslie Tucker"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-25",
+      "doi": "10.1007/s10803-026-07481-3",
+      "url": "https://doi.org/10.1007/s10803-026-07481-3",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Abstract Purpose Autism is both a developmental and heterogeneous condition, with individual variation in the timing and shape of autistic symptom trajectories over time, as recognised by the concept of ‘chronogeneity’. Prospective infant autism family history studies are well-suited to examining developmental trajectory variability, a key aspect of autism trait heterogeneity. Methods We examined autistic trait trajectories in a large sample of infants with autism and/or ADHD family history ( N = 384) followed from infancy to mid-childhood. Using group-based multi-trajectory modelling, we identified classes with distinct trajectories across three autism trait measures taken at six, five, and four timepoints, respectively, between 5 months and 9 years. Results A 5-class solution provided the best fit. Three classes included 50–75% children meeting autism diagnostic criteria at 3 years or mid-childhood, with distinct differences in timing, onset, and developmental patterns of autistic traits. Two classes were predominantly typically developing, with one characterised as ‘slow starters’. Background characteristics including autism/ADHD family history, sex, maternal education, and hous…"
+    },
+    {
+      "id": "10.1177/13623613261475023",
+      "title": "English-Language Autism Terminology Preferences of Autistic People and their Parents in the United States: Clustering Illuminates Diverse Views",
+      "authors": [
+        "Patrick Dwyer",
+        "Zachary J. Williams",
+        "Jennifer E. Magnuson",
+        "Tiffany G. Woynaroski"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-25",
+      "doi": "10.1177/13623613261475023",
+      "url": "https://doi.org/10.1177/13623613261475023",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Autism terminology preferences are the subject of considerable debate and various studies, the results of which sometimes conflict. This study examined diversity in terminology preferences in a U.S. sample of 3,181 non-autistic parents and 2,098 autistic people (including 451 autistic parents). The study also examined a particularly wide range of language issues: participants rated terms for autism, possible subgroups within autism, autistic people, autism likelihood, and autistic characteristics. Non-autistic parents’, autistic parents’, and autistic non-parents’ terminology ratings differed, but generally modestly. Using clustering to explore response patterns revealed greater variability. Almost half of the participants were grouped in the Open Cluster, characterised by liking or neutrality towards most terms. Others were grouped in the Identity-First Cluster, characterised by support for identity-first language, strong opposition to terms for possible autism subgroups, and rejection of many pathologising terms. Other participants were in the Person-First Cluster, characterised by support for person-first language, yet still some scepticism towards terms for possible autism subg…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70331",
+      "title": "Inclusion of Participants With Limited English Proficiency in Autism Research",
+      "authors": [
+        "Ava Weiran Lu",
+        "Cambrynne DeJong",
+        "Mary Grace Harris",
+        "Mariah Samuelle Johnson",
+        "Purnima Mudnal",
+        "Luis Rivas Vazquez",
+        "Yanira Belen Espinosa",
+        "Daniela Kotsonis",
+        "Maya I. Ragavan",
+        "Sarabeth Broder‐Fingert",
+        "Marijane White",
+        "Katharine E. Zuckerman"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-25",
+      "doi": "10.1002/aur.70331",
+      "url": "https://doi.org/10.1002/aur.70331",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Individuals with autism spectrum disorder (ASD) and limited English proficiency (LEP), defined as having limited ability to read, write, or understand English, may experience disparities in quality of care and healthcare outcomes. However, little research has described methods and practices for including participants with LEP in ASD research studies. This literature review study investigated (1) the prevalence of LEP inclusion in U.S. research about ASD, (2) the languages included, and (3) the communication methods between research teams and participants with LEP. Using the Covidence Systematic Review Software, we completed a two‐round screening of 1007 studies published between 2013 and June 2025 in four major autism journals: Autism, Autism Research, Journal of Autism and Developmental Disorders, and Research in Autism Spectrum Disorders. We limited the sample to U.S.‐based original research involving human subjects with ASD and/or their caretakers. Eligible studies were reviewed further to extract relevant study information (e.g., participant demographics, study type, communication methods, and inclusion of LEP participants). Only 61 (19%) among the 326 eligible studies…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70344",
+      "title": "Grandparent Prenatal Tobacco, Alcohol, Coffee, and Tea Consumption and Autism in the Third Generation",
+      "authors": [
+        "Michelle Pearl",
+        "Kimberly Berger",
+        "Piera M. Cirillo",
+        "Nickilou Y. Krigbaum",
+        "Victor Poon",
+        "Gayle C. Windham",
+        "Barbara A. Cohn"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-25",
+      "doi": "10.1002/aur.70344",
+      "url": "https://doi.org/10.1002/aur.70344",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "ABSTRACT Exogenous prenatal exposures may affect neurodevelopment across multiple generations. We investigated grandmother and grandfather smoking, alcohol, coffee, and tea consumption during pregnancy in relation to their grandchildren's risk of autism spectrum disorder (ASD). Pregnant participants (grandparent generation) in the Child Health and Development Studies (CHDS) were interviewed between 1959 and 1967 about their own and their partners' smoking and consumption of alcohol, coffee, and tea. CHDS participant records were linked to 18,053 third‐generation California births from 1989 to 2014, from which ASD cases were identified from Department of Developmental Services records. We estimated adjusted relative risk (aRR) of ASD associated with grandparents' smoking and consumption of alcoholic beverages, coffee, and tea from log‐binomial regression models adjusted for grandparents' age, education, and grandmother's race. Grandfather's overall tobacco smoking (including pipes and cigars) during their partner's pregnancy was related to grandchild ASD (aRR = 1.76, 95% confidence interval [1.05, 2.96]), as was grandfathers' cigarette smoking (aRR = 1.67 [1.01, 2.76]), particularly…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07498-8",
@@ -1626,6 +1845,24 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -1645,24 +1882,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -9190,31 +9409,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261433988",
-      "title": "Falls and Fall-Related Injuries and Hospitalizations in Autistic Older Adults: A Medicare Data Study",
-      "authors": [
-        "Lauren Bishop",
-        "Madison Blake",
-        "Melica Nikahd",
-        "J Madison Hyer",
-        "Brian W Patterson",
-        "Bethany J Wolf",
-        "Brittany N Hand"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261433988",
-      "url": "https://doi.org/10.1177/13623613261433988",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Fall-related injuries are a major public health issue for older adults, contributing to mortality, morbidity, decreased functional ability, loss of independence, and increased healthcare costs. Autistic older adults may be at greater risk for falls due to motor coordination difficulties and antipsychotic medication use. This cohort study used multivariable logistic regression to compare the odds of falling and negative binomial regression to compare the rate of fall-related injuries. Data from Medicare Standard Analytical Files (2013–2021) for autistic and non-autistic older adults aged 65+ were analyzed. The sample included 13,732 autistic and 25,497 matched non-autistic older adults. Our dependent variables were (1) falls, (2) unique fall-related injuries, and (3) fall-related hospitalizations. Overall, 47.4% of autistic older adults had a fall compared to 31.5% of non-autistic older adults. Autistic older adults also had more fall-related injuries and hospitalizations. Accounting for duration of observation, autistic older adults had significantly higher odds of any fall (odds ratio = 1.99; 95% confidence interval = 1.89–2.08), rate of fall-related injuries (incidence rate ratio…"
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -11370,107 +11564,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07340-1",
-      "title": "Social Adaptation to Change in Peer Behavior Before and After a Pilot Randomized Clinical Trial of a Theatre-Based Intervention for Adults With Autism",
-      "authors": [
-        "Rachael A. Muscatello",
-        "Mark E. Klemencic",
-        "Rachel Calvosa",
-        "Blythe A. Corbett"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-27",
-      "doi": "10.1007/s10803-026-07340-1",
-      "url": "https://doi.org/10.1007/s10803-026-07340-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Abstract Purpose Psychosocial interventions have been designed for autism spectrum disorder (ASD), but most focus on youth. Adaptation to social context was examined before and after a pilot randomized control trial of a theatre-based intervention for autistic adults. Depressive symptom impact on treatment outcomes was also investigated. Methods Sixty-one adults, ages 18–40 years with ASD, randomized to an experimental (EXP, n = 29) or waitlist control (WLC, n = 32) group, participated in a social interaction paradigm (Contextual Assessment of Social Skills; CASS) pre- and post-intervention. Depressive symptoms (Beck Depression Inventory) were examined as a predictor of behavioral change on the CASS post-intervention. Results Before the intervention, adults in the EXP and WLC group had significant behavior adaptation between the Interested and Bored CASS conditions (corrected p &lt; .01). Analysis of covariance of a Social Adaptation Index, controlling for pretest scores, was not significant for group (EXP vs WLC) ( F (1,36) = 0.398, p = .532, η p 2 = 0.011) or sex ( F (1,36) = 0.160, p = .691, η p 2 = 0.004). Depression and perception of peer behavior were correlated at pretest (…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s40489-026-00545-1",
-      "title": "A systematic review and future research directions of sex differences in cognitive abilities of autistic children and adolescents",
-      "authors": [
-        "Eleonora Paolizzi",
-        "Francesca Anderle",
-        "Arianna Bentenuto",
-        "Laura Semenzin",
-        "Paola Venuti"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-27",
-      "doi": "10.1007/s40489-026-00545-1",
-      "url": "https://doi.org/10.1007/s40489-026-00545-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Research on cognitive abilities, including cognitive profiles, language, and executive functioning, of autistic females is still scarce and results are contrasting. We conducted a PRISMA systematic review, including 22 studies (agreement = 94,59%; Cohen’s Kappa = 0,89) from PubMed, PsycINFO, via EBSCO, and Scoups databases. Contrasting results emerged regarding profiles: preschoolers exhibit variability contingent upon the measurements employed. When considering school-aged participants, males seem to show greater scores in attention to detail. Regarding language, discrepancies emerge regarding its development and pragmatic abilities. Considering ecological Executive Functions, no significant sex-differences have been shown. Results are heterogeneous, evidence supports the presence of differences in attention to detail and cognitive flexibility. The direction of the differences cannot be clearly determined.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00555-z",
-      "title": "Effects of Exergaming Interventions on the Core Symptoms and Related Features of Children and Adolescents with Autism Spectrum Disorder: A Systematic Review",
-      "authors": [
-        "Xipeng Yang",
-        "Jinlong Wu",
-        "Yudan Ma",
-        "Chunxiao Li",
-        "Aiguo Chen",
-        "Kangyong Zheng",
-        "Sally Li Sun",
-        "Yucheng Tang",
-        "Zhanbing Ren"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-27",
-      "doi": "10.1007/s40489-026-00555-z",
-      "url": "https://doi.org/10.1007/s40489-026-00555-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10882-026-10065-9",
-      "title": "Mexican American Mothers’ Expectations and Supports for Autistic Youth During the High School Transition: Education, Self-Sufficiency, and Social Communication",
-      "authors": [
-        "Janeth Aleman-Tovar",
-        "Meghan Burke",
-        "Edwin Monarrez"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-27",
-      "doi": "10.1007/s10882-026-10065-9",
-      "url": "https://doi.org/10.1007/s10882-026-10065-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ]
     }
   ]
 }
