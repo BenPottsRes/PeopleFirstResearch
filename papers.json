@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:09:38Z",
+  "generated_at": "2026-08-27T17:39:24Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -752,6 +752,148 @@
       "abstract": "Introduction: Evidence-based assessments for ADHD include the collection of standardized ratings of Diagnostic and Statistical Manual of Mental Disorders symptoms. There is limited research on ADHD diagnostic procedures in Hispanic/Latino children and a growing concern that ADHD may be underdiagnosed due to language barriers that exist between parents and the standardized measures. To address this gap, we examined potential language related biases in the assessment of ADHD among Spanish-speaking parents. Methods: The sample was 107 Hispanic/Latino, Spanish-speaking parents of children in kindergarten or first grade. The Spanish translated versions of the Disruptive Behavior Disorders Rating Scale (DBD-RS), Strength and Difficulties Questionnaire (SDQ), and Impairment Rating Scale (IRS) were administered to assess ADHD symptoms, concurrent validity, and the influence of time since arrival in the United States on parent ratings. Results: The Spanish DBD-RS demonstrated strong internal consistency for both Inattention (α = .85) and Hyperactivity/Impulsivity (α = .85) subscales. Parent ADHD ratings were positively correlated with SDQ Hyperactivity/Inattention scores ( r = .38, p &lt; .…"
     },
     {
+      "id": "10.1007/s10803-026-07454-6",
+      "title": "Assessing Psychiatric Symptoms in Autistic Youth Using the K-CAT®",
+      "authors": [
+        "Paige E. Cervantes",
+        "Robert D. Gibbons",
+        "Cecilia B. Becker",
+        "Yehuda Cohen",
+        "Sarah M. Horwitz"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-27",
+      "doi": "10.1007/s10803-026-07454-6",
+      "url": "https://doi.org/10.1007/s10803-026-07454-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Mental health"
+      ],
+      "tags": [
+        "access",
+        "communication"
+      ],
+      "abstract": "Abstract Purpose While highly prevalent, mental health (MH) challenges in autistic youth often go unrecognized due in part to the lack of an accurate, comprehensive MH assessment tool. The K-CAT ® was developed to address barriers to identification of MH concerns in the general population offering efficient electronic measurement of up to nine MH domains. While several features support its use with autistic youth, the K-CAT ® has neither been extensively used nor studied with this population. Therefore, this study evaluated how the K-CAT ® performed with autistic youth with varying presentations. Methods One hundred fifty-five 7-to-17-year-old autistic youth without intellectual disability and their caregivers completed the K-CAT ® and several additional measures remotely. Data on K-CAT ® administration and results were analyzed and compared across relevant clinical characteristics, including age, language level, and autism severity. Results The K-CAT ® identified a range of MH concerns, and prevalence estimates aligned with previous research. However, K-CAT ® completion appeared more difficult for younger participants and for autistic youth with lower receptive language scores. Se…"
+    },
+    {
+      "id": "10.1007/s10803-026-07486-y",
+      "title": "“It’s Like a Chain Reaction of Discomfort”: A Phenomenological Qualitative Study on the Intersection of Autism and Gender Incongruence in Adolescents",
+      "authors": [
+        "Linda W. David",
+        "Trond H. Diseth",
+        "Reidar Schei Jessen",
+        "Line Merete Mediå",
+        "Cecilie Bjertness Nyquist",
+        "Nina Stenberg",
+        "Erik Stänicke",
+        "Line I. Stänicke",
+        "Anne Wæhre"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-27",
+      "doi": "10.1007/s10803-026-07486-y",
+      "url": "https://doi.org/10.1007/s10803-026-07486-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ]
+    },
+    {
+      "id": "10.1002/aur.70350",
+      "title": "Predictors of Change in Severity of Self‐Injurious Behaviors in Preschool‐Aged Autistic Children",
+      "authors": [
+        "Joseph Boyle",
+        "Andrew Dakopolos",
+        "Olivia Surgent",
+        "Joshua K. Lee",
+        "Derek S. Andrews",
+        "Brianna Heath",
+        "Jason Smucny",
+        "Marjorie Solomon",
+        "Sally J. Rogers",
+        "Christine Wu Nordahl"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-27",
+      "doi": "10.1002/aur.70350",
+      "url": "https://doi.org/10.1002/aur.70350",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Self‐injurious behaviors (SIBs) affect up to 50% of autistic individuals and significantly impact quality of life and everyday functioning. Cross‐sectional studies link the presence of SIB to lower IQ, altered sensory responsivity, and poor emotion regulation, yet their effect on changes in SIB severity from early childhood to school age in autism remains poorly understood. We examined SIBs in 325 autistic children assessed at age 2–5 years (T1) and 161 autistic children at 4–9 years (T3). This included a subset of 122 autistic children evaluated longitudinally at both time points. SIBs were classified into subgroups based on severity of SIB (no‐SIB, mild, moderate, severe). We assessed cognitive ability, dysregulation, and sensory features at each time point. Cross‐sectional and longitudinal analyses were used to examine group differences. At T1, 74% of the sample were characterized as having mild, moderate, or severe SIB. At T3, 67% had mild, moderate, or severe SIB. There was substantial variability in SIB severity subgroup membership across time; however, only 9% did not have SIBs at either timepoint. At both timepoints, children with more severe SIBs had increased dys…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70360",
+      "title": "Antidepressant Prescribing Trends for Adults With and Without Autism in the United Kingdom From 1997 to 2023: A Population‐Based Cohort Study Using Clinical Practice Research Datalink Aurum",
+      "authors": [
+        "Aws Sadik",
+        "Golam M. Khandaker",
+        "Antonio F. Pardiñas",
+        "Michael Lundberg",
+        "Brian K. Lee",
+        "Cecilia Magnusson",
+        "Dheeraj Rai",
+        "Paul Madley‐Dowd"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-27",
+      "doi": "10.1002/aur.70360",
+      "url": "https://doi.org/10.1002/aur.70360",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "ABSTRACT Antidepressant prescribing and autism diagnoses have increased in recent years. We aimed to describe and compare trends in antidepressant prescribing, indications, doses and durations in autistic and non‐autistic males and females in the United Kingdom (UK) from 1997 to 2023. Using population‐representative UK primary care records, we defined three autistic groups—autistic adults with intellectual disability (ID), autistic adults without ID and all autistic adults—and four non‐autistic groups. In each calendar year we calculated: annual, lifetime and new antidepressant prescribing; indications for serotonin‐selective reuptake inhibitor initiation; average doses prescribed for citalopram, fluoxetine, and sertraline; and the proportion of courses that lasted over 1, 2, and 3 years. We also repeated analyses with sex‐stratification. In all, 34,173,295 non‐autistic adults and 172,242 autistic adults were included (47,011 with ID and 125,231 without ID). 30% of autistic adults and 14.7% of non‐autistic adults were prescribed an antidepressant in 2023. Prescriptions, doses and course durations increased over time for all groups. Prescriptions were highest in autistic adults with…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261481133",
+      "title": "Matryoshka System: Toward an Autistic-Affirming Perinatal Sensory-Support Protocol",
+      "authors": [
+        "Irene Garcia-Molina",
+        "Ainhoa Rodríguez-Zafra",
+        "María Clemente-Sánchez"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-08-26",
+      "doi": "10.1177/25739581261481133",
+      "url": "https://doi.org/10.1177/25739581261481133",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "participatory",
+        "sensory"
+      ],
+      "abstract": "Introduction: Autistic motherhood/parenthood has historically remained invisible within research, which has tended to prioritize male profiles and deficit-based models. This study explores sensory experiences associated with motherhood among Autistic mothers in Spain, across its distinct stages—pregnancy, childbirth, postpartum, and early parenting—using what we call the “Matryoshka system,” a framework moving from outer, social layers to inner, personal ones. The aim is to identify preliminary items for the future development of a sensory care protocol grounded in an Autistic-affirmative approach and centered on maternal agency. Methods: Drawing on a participatory research approach, 10 Autistic mothers with a late diagnosis described their experiences of motherhood through semistructured interviews. For the analysis, we used the Framework Analysis approach. Results: We constructed four themes: (1) Pregnancy and sensory Matryoshka mothers. (2) Autistic birthing triad: uncertainty, miscommunication, and overload. (3) The self in parentheses: postpartum tensions and demands. (4) A maternity of their own. Findings indicate that sensory processing is central to the experience of mother…"
+    },
+    {
       "id": "10.1007/s10882-026-10091-7",
       "title": "A Three-Year Practice-Based Mixed-Methods Feasibility Evaluation of a Community-Based Inclusive Physical Activity Program for Autistic Youth",
       "authors": [
@@ -785,6 +927,32 @@
       ],
       "abstract": "Abstract Autistic children and adolescents often encounter social, sensory, and environmental barriers to participation in group-based physical activity. This study evaluated the feasibility, safety, and participation-related processes of a community-based inclusive physical activity program in Germany that used adapted rugby-derived drills rather than competitive match play. The program was delivered through a coach-occupational therapist tandem model designed to individualize task demands, regulate sensory load, and support participation in real time. From December 2022 to June 2025, 12 autistic participants were enrolled, with 10 contributing complete longitudinal participation data. Across the evaluation period, 116 weekly sessions were delivered. In a practice-based mixed-methods feasibility design, parent interviews, early thesis-based and practice documentation, informal participant feedback, team reflection, and a prospective incident log were synthesised. Descriptive synthesis suggested improvements in social initiative, cooperation, self-confidence, and in-session regulation within a sustained group setting. Qualitative findings indicated that predictable routines, graded…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70357",
+      "title": "The Effect of a Parent Advocacy Intervention on Service Access for Autistic Youth: The Moderating Role of Baseline Advocacy Ability",
+      "authors": [
+        "Carly Moser",
+        "Leann Smith DaWalt",
+        "Meghan M. Burke",
+        "Julie Lounds Taylor"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-26",
+      "doi": "10.1002/aur.70357",
+      "url": "https://doi.org/10.1002/aur.70357",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "ABSTRACT Autistic youth face significant challenges accessing adult disability services as they transition out of school‐based services. Advocating for Supports to Improve Service Transitions (ASSIST), a group‐based program, was developed to address this issue by teaching parents about the service system and how to advocate for services for their youth. Through a randomized controlled trial, previous findings showed that ASSIST improved parent advocacy ability and increased access to government programs for youth who had exited high school. To identify which families may benefit most from ASSIST, the current study used a baseline target moderation framework to examine whether parents' baseline levels of advocacy ability (i.e., knowledge of adult services, perceived advocacy skills, and empowerment) modified the effect of intervention modality (ASSIST vs. written materials) on the primary outcome. The primary outcome for this study was having one or more service needs met at the 6‐ or 12‐month follow‐up. Participants included 138 parents of transition‐aged autistic youth who received the ASSIST program or comprehensive written materials on disability services. We found that parents…"
     },
     {
       "id": "10.1007/s10803-026-07490-2",
@@ -908,6 +1076,50 @@
       ],
       "abstract": "Autism terminology preferences are the subject of considerable debate and various studies, the results of which sometimes conflict. This study examined diversity in terminology preferences in a U.S. sample of 3,181 non-autistic parents and 2,098 autistic people (including 451 autistic parents). The study also examined a particularly wide range of language issues: participants rated terms for autism, possible subgroups within autism, autistic people, autism likelihood, and autistic characteristics. Non-autistic parents’, autistic parents’, and autistic non-parents’ terminology ratings differed, but generally modestly. Using clustering to explore response patterns revealed greater variability. Almost half of the participants were grouped in the Open Cluster, characterised by liking or neutrality towards most terms. Others were grouped in the Identity-First Cluster, characterised by support for identity-first language, strong opposition to terms for possible autism subgroups, and rejection of many pathologising terms. Other participants were in the Person-First Cluster, characterised by support for person-first language, yet still some scepticism towards terms for possible autism subg…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261478340",
+      "title": "Visual Function and Potential Neurodevelopmental Ocular Markers in ADHD: A Systematic Review and Meta-Analysis",
+      "authors": [
+        "Clara Martinez-Perez",
+        "Ana Paula Oliveira",
+        "Isabel Baltazar"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-25",
+      "doi": "10.1177/10870547261478340",
+      "url": "https://doi.org/10.1177/10870547261478340",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Purpose: Attention-deficit/hyperactivity disorder (ADHD) has been associated with ocular and visual abnormalities, although findings across studies remain inconsistent. This systematic review and meta-analysis aimed to quantify differences in structural and functional ocular parameters between individuals with ADHD and healthy controls. Materials and Methods: PubMed, Web of Science, and Scopus were searched for cross-sectional and cohort studies evaluating ocular or visual parameters in children, adolescents, or adults with ADHD. The review was conducted in accordance with PRISMA guidance, informed by AMSTAR 2 methodological standards, and registered in PROSPERO (CRD420251090876). Eligible outcomes included visual acuity, refraction, ocular biometry, retinal structure, accommodative and binocular function, contrast sensitivity, color perception, and pupillary measures. Pooled mean differences ( MD s) or standardized mean differences (SMDs) with 95% confidence intervals (CIs) were calculated using fixed- or random-effects models, as appropriate. Results: Twenty-seven studies including 888 participants with ADHD and 1,172 controls were included, of which 21 contributed to the quantit…"
+    },
+    {
+      "id": "10.1177/10870547261475724",
+      "title": "Emotional Dysregulation, Emotional Lability, Emotional Impulsiveness and Emotion in Adults with ADHD: Do All Scales Define the Same Concept?",
+      "authors": [
+        "Anna Lisa Christen",
+        "Esther Sobanski",
+        "Hannes Bitto",
+        "Beatrice Abt-Mörstedt",
+        "Rolf-Dieter Stieglitz",
+        "Salvatore Corbisiero"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-25",
+      "doi": "10.1177/10870547261475724",
+      "url": "https://doi.org/10.1177/10870547261475724",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Emergency care",
+        "Mental health"
+      ],
+      "abstract": "Background: Various studies highlight emotional symptoms as a crucial component of ADHD in adulthood, suggesting independent diagnostic approaches that incorporate patients’ emotional experiences into the assessment. However, the emotional symptomatology appears to be defined differently within the disorder’s different constructs: Emotional Dysregulation (ED), Emotional Lability (EL), Emotional Impulsiveness (EI) and Emotion (E). Hence, the question arises: Do these symptom domains represent the same psychopathological spectrum? Method: A total of 1240 adults seeking diagnostic evaluation at the ADHD specialist consultation in two different clinics (University Psychiatric Clinics (UPK) in Basel and Central Institute of Mental Health in Mannheim) were examined, whereas 611 participants were diagnosed with ADHD. They were further assessed in regard of their emotional symptoms using the following scales: ED, EL, EI and E. Additionally, affective lability was measured as a control using the Affective Lability Scale (ALS-18). Results and discussion: The convergent and construct validity using correlations and principal component analysis (PCA) revealed that individuals with ADHD experie…"
     },
     {
       "id": "10.1002/aur.70331",
@@ -1845,24 +2057,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -1882,6 +2076,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -6847,29 +7059,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261441153",
-      "title": "Effects of Diagnostic Information, Autism Knowledge, Contact, and Stigma on People’s Ability to Read Autistic Individuals",
-      "authors": [
-        "Elizabeth Sheppard",
-        "Lara Clifton",
-        "Jessica Massarella",
-        "Georgina Mills Pallares",
-        "Polly Moynihan",
-        "Michaela Warner",
-        "Eleanor Withey"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261441153",
-      "url": "https://doi.org/10.1177/13623613261441153",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Non-autistic individuals find it difficult to read the behaviour of autistic people in comparison to non-autistic others. We investigated whether non-autistic people’s ability to read autistic individuals is improved by providing diagnostic information, and whether this ability is associated with a person’s knowledge about autism, prior contact with autistic people, and autism stigma. Participants ( N = 128) viewed videos that were taken from a previous study. These showed autistic and non-autistic individuals reacting to events enacted by the researcher, and participants were asked to infer what event had taken place. Videos were presented either with no diagnostic information, a correct diagnostic label, or an incorrect label (autistic individuals labelled as non-autistic and vice versa). Autism knowledge, contact with autistic people, and autism stigma were measured by questionnaires. Participants performed less well for videos of autistic than non-autistic others. Diagnostic information had little impact on performance, although labelling non-autistic individuals as autistic reduced accuracy. Autism knowledge, contact with autistic people, and autism stigma were not associated…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70263",
       "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
       "authors": [
@@ -11494,76 +11683,6 @@
       "tags": [
         "communication"
       ]
-    },
-    {
-      "id": "10.1007/s10803-026-07342-z",
-      "title": "Brief-Report: Associations Between Early Sensory Processing and Emotional-Behavioral Dysregulation in Autistic Toddlers",
-      "authors": [
-        "Bernabei Eleonora",
-        "Scatigna Stefano",
-        "Pecini Chiara",
-        "Balconi Michela",
-        "Apicella Fabio",
-        "Cagiano Romina",
-        "Costanzo Valeria",
-        "Frediani Chiara",
-        "Igliozzi Roberta",
-        "Mancini Alice",
-        "Mazzone Beatrice",
-        "Paoli Lucia",
-        "Tancredi Raffaella",
-        "Calderoni Sara"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-28",
-      "doi": "10.1007/s10803-026-07342-z",
-      "url": "https://doi.org/10.1007/s10803-026-07342-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-025-07112-3",
-      "title": "Cross-cultural Adaptation of the RAADS-R to Brazilian Portuguese: Ritvo Autism Diagnostic Scale—Brazilian Version (RADS-R-BR)",
-      "authors": [
-        "Mayck Hartwig",
-        "Emmy Uehara Pires",
-        "Riva Ariella Ritvo-Slifka",
-        "Ilus Eugênio de Souza"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-04-28",
-      "doi": "10.1007/s10803-025-07112-3",
-      "url": "https://doi.org/10.1007/s10803-025-07112-3",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2026.2660340",
-      "title": "Characterizing service receipt among families of young autistic children from low-resourced communities",
-      "authors": [
-        "Julianna Kim",
-        "Bhabika Joshi",
-        "Meghan M. Burke"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-04-28",
-      "doi": "10.1080/20473869.2026.2660340",
-      "url": "https://doi.org/10.1080/20473869.2026.2660340",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
