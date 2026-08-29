@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:44:25Z",
+  "generated_at": "2026-08-29T12:42:00Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -723,6 +723,77 @@
       "abstract": "Objective: Studies have provided evidence that mind wandering (MW) is involved in the symptomatology of attention deficit/hyperactivity disorder (ADHD). One of the notable categorizations of MW is based on the dimension of intentionality, in which intentional MW is labeled as deliberate MW (D-MW) while the unintentional form is called spontaneous MW (S-MW). S-MW has been reported to be associated with lapses of attention or impulsive behaviors in individuals with ADHD. Using self-report and behavioral measures, the present study aimed to replicate the finding that scores on the S-MW scale predict those on the ADHD Self-Report Scale (ASRS) and to examine whether task performance under the S-MW state similarly predicts the scores on the ASRS scores. Method: The participants completed the ASRS and the D-MW and S-MW scales several days before performing the laboratory task (i.e., the continuous counting Stroop task). During the Stroop task (576 trials × 2 blocks), experience sampling probes were presented (20/block), which requested the participants to report their attentional state (i.e., concentrated, D-MW, S-MW, or other). Results: A univariate analysis showed that the accuracy of t…"
     },
     {
+      "id": "10.1007/s10803-026-07507-w",
+      "title": "Developing an Inventory of Workplace Stress Coping Strategies Among Autistic Adults: A Grounded Delphi Study",
+      "authors": [
+        "Kerstin Erdal",
+        "Marina Kröger",
+        "Johanna Finnemann"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-29",
+      "doi": "10.1007/s10803-026-07507-w",
+      "url": "https://doi.org/10.1007/s10803-026-07507-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Mental health",
+        "Quality of life"
+      ],
+      "tags": [
+        "lived experience",
+        "participatory"
+      ],
+      "abstract": "Abstract Background Stress levels are often elevated among autistic people, a pattern that also extends to the workplace. Effective coping strategies can reduce the negative impact of stress on work retention and overall wellbeing. However, the unique coping strategies of autistic people might not be represented in available inventories used for assessing coping styles such as the Brief COPE. Objective The aim of this study is to capture coping strategies applied by autistic adults at work and develop a pilot version of a coping inventory. Methods In a participatory, grounded Delphi method study we assessed coping strategies connected to work stress among autistic adults. Both quantitative (Brief COPE) and qualitative feedback of five autistic individuals and six professionals working with autistic employees was analyzed and continuously fed back in an iterative process. Results Autistic participants and professionals described 21 categories of stress management strategies for autistic employees that we clustered into the domains autism-specific coping strategies and the two existing Brief COPE domains emotion-oriented strategies and problem-oriented strategies. Conclusions This fi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07510-1",
+      "title": "Association of Parenting Stress and Family Management With Emotional and Behavioral Problems in Children With Autism Spectrum Disorders: A Latent Profile Analysis",
+      "authors": [
+        "Bin Ma",
+        "Jingyi Wang",
+        "Mengyuan Zhang",
+        "Yue Hou",
+        "Ou Chen"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-29",
+      "doi": "10.1007/s10803-026-07510-1",
+      "url": "https://doi.org/10.1007/s10803-026-07510-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1007/s10803-026-07513-y",
+      "title": "Cognitive Predictors of Early Algebra Performance in Students With and Without Autism",
+      "authors": [
+        "Irene Polo-Blanco",
+        "Demetra Pitta-Pantazi",
+        "Juncal Goñi-Cervera",
+        "Maria Chimoni"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-08-29",
+      "doi": "10.1007/s10803-026-07513-y",
+      "url": "https://doi.org/10.1007/s10803-026-07513-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Students with autism spectrum disorder (ASD) are increasingly included in mainstream classrooms; however, little is known about how they approach early algebra tasks. This study investigates how different cognitive abilities support early algebraic thinking in students with and without ASD, focusing on performance in a figural pattern generalization task. Methods The sample comprised 52 children aged 6 to 12 years (26 with ASD and 26 without ASD), all without intellectual disabilities. Participants were assessed on working memory, processing speed, spatial reasoning, verbal reasoning, fluid reasoning, theory of mind, and mathematical age, which reflects early arithmetical ability relative to age-based expectations. Regression analyses were conducted to identify cognitive predictors of early algebra performance in each group. Results For students without ASD, fluid reasoning and mathematical age were significant predictors of performance. In contrast, for students with ASD, spatial reasoning and theory of mind emerged as significant predictors. These findings indicate distinct cognitive pathways underlying early algebraic thinking across groups. Conclusion The resul…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1007/s10803-026-07436-8",
       "title": "Peer Talk in the Preschool Classroom: Are the Experiences of Children With Language Difficulties Distinctive?",
       "authors": [
@@ -816,6 +887,24 @@
       "neurotype": [
         "Autism"
       ]
+    },
+    {
+      "id": "10.1177/10870547261483451",
+      "title": "What Matters to Caregivers of Youth With ADHD: Defining the Minimum Clinically Important Difference for Sleep Treatment",
+      "authors": [
+        "Alison E. Pritchard",
+        "Rebecca Warwick",
+        "Allison E. Gornik"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-28",
+      "doi": "10.1177/10870547261483451",
+      "url": "https://doi.org/10.1177/10870547261483451",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: Sleep problems are common among youth with ADHD, and they worsen symptoms as well as day-to-day functioning. As a result, they are of significant concern to caregivers, who are often the ones making treatment decisions. The goal of this study is to understand what caregivers of youth with ADHD and sleep problems want out of treatment. Methods: One hundred caregivers of clinically-referred youth ages 5 to 18 with a diagnosis of ADHD and reported sleep difficulties completed a 29-item survey covering three domains: (a) the severity of their child’s ADHD and sleep symptoms; (b) the importance of improvement in specific ADHD and sleep symptoms; and (c) the degree of improvement in ADHD and sleep symptoms that would be necessary in order for them to feel that treatment was meaningful (i.e., the Minimum Clinically Important Difference or MCID). Results: Overall, improvement in ADHD symptoms, day-to-day functioning, and sleep symptoms were all reported to be at least somewhat important by the majority of caregivers, though they viewed improvements in ADHD symptoms and functioning as more important than sleep symptoms. Among sleep symptoms, longer duration of sleep and maintaini…"
     },
     {
       "id": "10.1007/s10803-026-07454-6",
@@ -2170,6 +2259,24 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -2189,24 +2296,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -5201,6 +5290,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1007/s10803-026-07460-8",
+      "title": "Social Anxiety, Social Avoidance, Self-Esteem, and Loneliness: The Role of Class Type for Autistic Adolescents",
+      "authors": [
+        "Anat Kasirer",
+        "Meirav Kammay",
+        "Shlomit Shnitzer-Meirovich"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-07-24",
+      "doi": "10.1007/s10803-026-07460-8",
+      "url": "https://doi.org/10.1007/s10803-026-07460-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07448-4",
       "title": "PTR-YC in Action: Child, Parent, and Family Outcomes of a Challenging Behavior Management Program in Real-World Public Early Intervention Settings",
       "authors": [
@@ -5226,26 +5335,6 @@
       ],
       "abstract": "Abstract Purpose The aim of this study was to determine the efficacy of the Prevent-Teach-Reinforce for Young Children (PTR-YC) as implemented within public early behavioral intervention (EBI) for children with autism or intellectual disability. Several adjustments to the research design and to training and intervention protocols were made in response to organizational constraints, the COVID-19 several waves and families’ needs within this real-world intervention context. Methods EBI educators were trained in the PTR-YC program, which they then applied with the parents of a child in their caseload who presented challenging behavior. Parent-practitioner intervention teams were divided in two cohorts according to their readiness to apply the program. Parents evaluated their chid’s challenging behavior, their parenting stress levels, caregiving strain, and sense of competence, as well as their family’s quality of life before and after program application, as well as the acceptability of the program after its application. Results Frequency of children’s aggressive behavior, decreased significantly after program application, but not self-injurious, stereotyped or overall challenging beh…",
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-026-07460-8",
-      "title": "Social Anxiety, Social Avoidance, Self-Esteem, and Loneliness: The Role of Class Type for Autistic Adolescents",
-      "authors": [
-        "Anat Kasirer",
-        "Meirav Kammay",
-        "Shlomit Shnitzer-Meirovich"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-24",
-      "doi": "10.1007/s10803-026-07460-8",
-      "url": "https://doi.org/10.1007/s10803-026-07460-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
     },
     {
       "id": "10.1108/aia-07-2025-0079",
@@ -9870,31 +9959,6 @@
       ],
       "abstract": "ABSTRACT Autism Spectrum Disorder (ASD) is associated with altered attentional function. This has been associated with enhanced visual search performance. Addressing a gap in the literature, we investigate the longitudinal development of visual search alongside ASD symptoms. Using eye‐tracking, we studied performance in a single‐feature visual search task with visual search accuracy and time to target. We investigated preschoolers with ASD ( n = 60, age = 47 months) and a cohort of developmental age‐matched typically developing (TD) children ( n = 50, age = 35 months) at baseline and after approximately 3 years. We further explored associations of visual search performance with parent‐reported ASD symptom domains. Both groups showed similar visual search accuracy and time to target at baseline. At the 3‐year follow‐up, the ASD group showed significantly lower visual search accuracy and shorter time to target than the TD group. Within the ASD cohort, higher accuracy and shorter time to target were associated with higher social communication impairments. The often‐reported ASD advantage in visual search may not be as pronounced as assumed to differentiate between ASD and neurotypical…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70267",
-      "title": "Psychological Impact of Autism Screening on Caregivers",
-      "authors": [
-        "Ramkumar Aishworiya",
-        "Devon Gangi",
-        "Van Kim Ma",
-        "Chandni Parikh",
-        "Nor Azyati Yusoff",
-        "Narueporn Likhitweerawong",
-        "Sally Ozonoff"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1002/aur.70267",
-      "url": "https://doi.org/10.1002/aur.70267",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "ABSTRACT Autism screening in childhood is common, yet little is known about its potential psychological impact on caregivers. The U.S. Preventive Services Task Force, an independent national panel of disease prevention experts, stated that this gap in knowledge limited their ability to endorse universal autism screening. This study examined the psychological impact of autism screening, using data from a large community‐based sample ( n = 1272) involving online caregiver‐completed autism screeners at child age 6, 9, 12, 18, and 24 months. Caregivers completed the Participation Impact Questionnaire retrospectively (mean child age at completion 37.2 ± 4.8 months) to measure feelings about screening. A minority (34.7%) of the sample reported presence of ≥ 1 negative feeling; the most commonly endorsed was “worried”. Among this subset, negative feelings were of short duration (lasted for &lt; 1 day in 56.9%), were mild in severity (86.4%), and did not affect functioning (85.3%). A majority (86.2%) also reported ≥ 1 positive feeling. Our findings address a critical evidence gap regarding potential harms of autism screening and support universal screening, given that psychological harms a…"
     },
     {
       "id": "10.1080/20473869.2026.2679069",
