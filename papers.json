@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:42:00Z",
+  "generated_at": "2026-08-30T11:56:34Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -792,6 +792,25 @@
       ],
       "abstract": "Abstract Purpose Students with autism spectrum disorder (ASD) are increasingly included in mainstream classrooms; however, little is known about how they approach early algebra tasks. This study investigates how different cognitive abilities support early algebraic thinking in students with and without ASD, focusing on performance in a figural pattern generalization task. Methods The sample comprised 52 children aged 6 to 12 years (26 with ASD and 26 without ASD), all without intellectual disabilities. Participants were assessed on working memory, processing speed, spatial reasoning, verbal reasoning, fluid reasoning, theory of mind, and mathematical age, which reflects early arithmetical ability relative to age-based expectations. Regression analyses were conducted to identify cognitive predictors of early algebra performance in each group. Results For students without ASD, fluid reasoning and mathematical age were significant predictors of performance. In contrast, for students with ASD, spatial reasoning and theory of mind emerged as significant predictors. These findings indicate distinct cognitive pathways underlying early algebraic thinking across groups. Conclusion The resul…",
       "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/10870547261483441",
+      "title": "Associations Between ADHD Symptoms and Diagnosis Across the Preschool Period",
+      "authors": [
+        "Julia S. Feldman",
+        "Arianna Schiff",
+        "Oliver Lindhiem",
+        "Heather M. Joseph"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-29",
+      "doi": "10.1177/10870547261483441",
+      "url": "https://doi.org/10.1177/10870547261483441",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective: The purpose of the study was to examine which attention-deficit/hyperactivity disorder (ADHD) symptoms at ages 3 to 5 are most strongly associated with an ADHD diagnosis in a large dataset of preschoolers across the United States. Methods: Data were drawn from the Environmental Influences on Child Health Outcomes (ECHO) Program, a large national dataset in the United States. Children were included if their caregiver(s) completed at least one of five measures that assessed ADHD symptoms at age 3 ( N = 1,430), 4 ( N = 1,453), and/or 5 ( N = 2,029) years. ADHD diagnosis was determined by medical record and/or caregiver report. A series of logistic regression models were conducted with each symptom included as the independent variable and ADHD diagnosis as the dependent variable. Bootstrapped 99% confidence intervals of odds ratios were compared across symptoms. Next, age and interactions between age and symptoms were added to each logistic regression model. Results: All 10 symptoms assessed were significantly associated with an ADHD diagnosis. Being “on the go” and interrupts or intrudes were most strongly associated with a diagnosis. Associations between symptoms and diagn…"
     },
     {
       "id": "10.1007/s10803-026-07436-8",
@@ -11771,75 +11790,6 @@
       ],
       "abstract": "Background: Microaggressions—subtle insults, invalidations, or slights directed at marginalized groups—negatively affect mental health and identity. However, little is known about how autistic people experience microaggressions across their daily lives in Japan. To the beast of our knowledge, this is the first qualitative study examining how Japanese autistic people experience microaggressions related to or attributed to their autism. Methods: We conducted an online cross-sectional survey in March 2023. A total of 330 autistic individuals (aged 18–39 years) responded to two open-ended questions about direct and indirect microaggressions in their daily lives. We analyzed 288 microaggressive experiences related to or attributed to participants’ autism using codebook thematic analysis. Three researchers generated the initial codes and preliminary themes, which the full team then refined through iterative discussion. Results: We identified four themes describing how autistic people in Japan encounter microaggressions in their daily lives. Theme 1: Living with fluctuating standpoints reflects how others position autistic people as either inferior or unrealistically gifted. Theme 2: Livi…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70257",
-      "title": "Assisted Communication Cannot Bypass Objective Research Investigation",
-      "authors": [
-        "Helen Tager‐Flusberg"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70257",
-      "url": "https://doi.org/10.1002/aur.70257",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
-      "id": "10.1002/aur.70258",
-      "title": "Inaccurate Claims in a Recent Commentary Supporting Facilitated Communication",
-      "authors": [
-        "Katharine Beals",
-        "Bronwyn Hemsley",
-        "Russell Lang",
-        "Howard Shane"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70258",
-      "url": "https://doi.org/10.1002/aur.70258",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
-      "id": "10.1002/aur.70262",
-      "title": "Empirical Validation Must Be a Precondition to Future Research in Facilitated Communication",
-      "authors": [
-        "Amy Lutz",
-        "Jill Escher",
-        "Alycia Halladay",
-        "Alison Singer"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-05-01",
-      "doi": "10.1002/aur.70262",
-      "url": "https://doi.org/10.1002/aur.70262",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
     }
   ]
 }
