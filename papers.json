@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:56:34Z",
+  "generated_at": "2026-08-31T13:54:41Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -721,6 +721,57 @@
         "ADHD"
       ],
       "abstract": "Objective: Studies have provided evidence that mind wandering (MW) is involved in the symptomatology of attention deficit/hyperactivity disorder (ADHD). One of the notable categorizations of MW is based on the dimension of intentionality, in which intentional MW is labeled as deliberate MW (D-MW) while the unintentional form is called spontaneous MW (S-MW). S-MW has been reported to be associated with lapses of attention or impulsive behaviors in individuals with ADHD. Using self-report and behavioral measures, the present study aimed to replicate the finding that scores on the S-MW scale predict those on the ADHD Self-Report Scale (ASRS) and to examine whether task performance under the S-MW state similarly predicts the scores on the ASRS scores. Method: The participants completed the ASRS and the D-MW and S-MW scales several days before performing the laboratory task (i.e., the continuous counting Stroop task). During the Stroop task (576 trials × 2 blocks), experience sampling probes were presented (20/block), which requested the participants to report their attentional state (i.e., concentrated, D-MW, S-MW, or other). Results: A univariate analysis showed that the accuracy of t…"
+    },
+    {
+      "id": "10.1177/13623613261480174",
+      "title": "The Psychopathology in Autism Checklist–Revised (PAC-R): Development and Validation",
+      "authors": [
+        "Arvid Nikolai Kildahl",
+        "Sissel Berge Helverschou",
+        "Børge Mathiassen",
+        "Einar Heiervang",
+        "Marianne Berg Halvorsen"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-08-30",
+      "doi": "10.1177/13623613261480174",
+      "url": "https://doi.org/10.1177/13623613261480174",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "There are few appropriate screening tools for mental health in autistic people, particularly for individuals with co-occurring intellectual disabilities. A specially developed screening tool for this population, the Psychopathology in Autism Checklist (PAC), has shown acceptable psychometric properties. However, a recent study showed that the subscale structure of the PAC was not in line with its underlying factor structure. The current study aimed to examine the screening properties of a restructuring of the PAC items in line with its factor structure, resulting in a revised version of the PAC, the PAC–Revised (PAC-R). Cut-offs for the PAC-R subscales were identified in a high-risk sample of autistic adults and older adolescents with intellectual disabilities who had been referred for mental health assessment ( n = 182; Sample 1). The psychometric properties of these cut-offs and the statistical fit of the subscales were investigated in this sample, as well as in a low-risk sample of autistic children and adolescents ( n = 197; Sample 2). This revised version of the PAC, referred to as the PAC-R and comprising five subscales (obsessive-compulsive disorder, psychosis, anxiety, depr…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70361",
+      "title": "Interval‐Based Aerobic Exercise and Behavioral Intervention for Sleep Disturbances in Children With Autism Spectrum Disorder: A Randomized Controlled Trial",
+      "authors": [
+        "Pin‐Tzu Lu",
+        "Chieh‐Yu Yang",
+        "Fang‐Yi Huang",
+        "Ying‐Chun Chen",
+        "Jung‐Chi Chang",
+        "Pou‐Leng Cheong",
+        "Yen‐Tzu Wu"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-08-30",
+      "doi": "10.1002/aur.70361",
+      "url": "https://doi.org/10.1002/aur.70361",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "abstract": "ABSTRACT Sleep disturbances affect 40%–80% of children with autism spectrum disorder (ASD) and are associated with impaired attention and daytime functioning. We conducted a preliminary randomized controlled trial to evaluate the effects of a short‐term interval‐based aerobic exercise combined with parent behavioral education (IAE–PBE) program on sleep and related outcomes in children with ASD and sleep disturbances. Twenty‐eight children were randomly assigned to either the IAE–PBE group or the parent behavioral education (PBE)‐only group for a 2‐week intervention. Sleep was assessed using actigraphy, and attention was evaluated using age‐appropriate Conners' Continuous Performance Tests. The primary outcome was sleep efficiency. Secondary outcomes included caregiver‐reported sleep disturbances, attention, autism‐related symptoms, and adaptive behavior. Compared with the PBE‐only group, the IAE–PBE group showed greater improvement in sleep efficiency (group × time interaction, p = 0.035; within‐group p = 0.026, Hedges' g = 0.89). Significant group × time interactions were also found for caregiver‐reported sleep disturbances ( p = 0.003) and perseverative responses on the attention…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07507-w",
@@ -11702,94 +11753,6 @@
         "Employment"
       ],
       "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) can potentially disqualify individuals for military service. However, some past research suggests the performance of individuals with ADHD in military service may be comparable to individuals without ADHD. The objective of the present research is to evaluate the effect of ADHD on occupational outcomes in the first enlistment term. We hypothesized that ADHD would be associated with weak or small performance decrements. Method: Study 1 ( N = 51,845) linked Recruit Assessment Program (RAP) survey data collected from U.S. Marine recruits between 2013 and 2018 with up to 4-years of active duty career records from the Defense Manpower Data Center. The RAP survey is a cross-sectional, baseline survey of mental, physical, and behavioral health—including self-reported ADHD diagnosis. Study 2 ( N = 161,507) utilized the Career History Archival Medical and Personnel System (CHAMPS) to obtain a study population of all active duty U.S. Marine Corps enlistees who accessed between 2013 and 2018 with follow-up through 2023. ADHD cases were identified by diagnoses and prescriptions captured in CHAMPS medical data. Estimated propensity score…"
-    },
-    {
-      "id": "10.1007/s10803-026-07325-0",
-      "title": "A Telehealth Diagnostic Tool for Autistic Children With Phrased and Fluent Speech: Comparison to In-person Diagnosis",
-      "authors": [
-        "Katherine K. Meltzoff",
-        "Cameron Alexander",
-        "Amy Hoffman",
-        "Jan Blacher"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-02",
-      "doi": "10.1007/s10803-026-07325-0",
-      "url": "https://doi.org/10.1007/s10803-026-07325-0",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Healthcare"
-      ],
-      "tags": [
-        "access",
-        "communication"
-      ],
-      "abstract": "Abstract Purpose Given the existing barriers to timely ASD diagnosis and the potential of telehealth to mitigate these barriers, it is critical to create and validate telehealth autism diagnostic instruments. Existing instruments largely focus on children under 3 and/or those with minimal verbal speech. We created and investigated the accuracy and validity for two novel instruments: Tele-ASD-KIDS, phrased speech (TAK-PS), and Tele-ASD-KIDS, fluent speech (TAK-FS) alongside an existing measure for minimally verbal children –the Tele-ASD-PEDS (TAP). Methods We assessed 39 children for autism in a university-based free clinic, both in-person and using telehealth, with blinded assessment teams– TAP ( n = 10; M = 47.5 months), TAK-PS ( n = 7, M = 74 months), TAK-FS ( n = 22, M = 102.77 months). Data were analyzed for diagnostic accuracy and social validity for each telehealth instrument separately. Results Our findings suggest that the TAK-PS is highly accurate, whereas the TAK-FS is accurate for some children but not others. Older children, those with behaviors unrelated to ASD that may affect social-communication abilities, and those with ADHD appear least likely to benefit from teleh…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07345-w",
-      "title": "Coping Profiles of Parents at the Time of Their Child’s Autism Diagnosis: Differences Between Mothers and Fathers, and Associations With Family Mental Health",
-      "authors": [
-        "Maëva Monnier",
-        "Cécile Michelon",
-        "Cécile Rattaz",
-        "Fanny Redlinger",
-        "Hugo Peyre",
-        "Amaria Baghdadli"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-02",
-      "doi": "10.1007/s10803-026-07345-w",
-      "url": "https://doi.org/10.1007/s10803-026-07345-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Purpose Given theoretical and methodological criticisms surrounding coping strategies, this study examines coping profiles and differences between mothers and fathers at the time of their child’s autism diagnosis. Methods Multi-group confirmatory factor analyses (MG-CFAs) were conducted to improve construct validity of the French Ways of Coping Checklist-Revised in 554 parents in France and to test measurement invariance between mothers and fathers. Linear mixed models were performed to examine parental status (mother vs. father) differences in coping strategies. Dyadic latent profile analysis (LPA) was used to identify distinct coping profiles and the R3STEP approach to examine differences in latent profile membership by parental status. Results MG - CFAs supported four coping dimensions (problem solving-positive reappraisal, seeking social support, wishful thinking, and self-blame) and demonstrated configural and metric invariances, with partial scalar invariance between mothers and fathers. Fathers reported a significantly lower use of all coping strategies except wishful thinking. LPA identified three coping profiles — Varied Coping , Adaptive-Dominant Coping , and Mal…"
-    },
-    {
-      "id": "10.1177/25739581261447233",
-      "title": "Lived Experiences of Ableist Microaggressions Among Japanese Autistic Adults",
-      "authors": [
-        "Takeo Kato",
-        "Nora Choque Olsson",
-        "Masamitsu Kawashima",
-        "Yasuo Kawaguchi",
-        "Siqing Guan",
-        "Masaki Tamura",
-        "Fumito Takahashi",
-        "Hikari Takashina",
-        "Makoto Wada",
-        "Shinichiro Ogawa",
-        "Kenji J. Tsuchiya",
-        "Fumiyo Oshima"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-05-02",
-      "doi": "10.1177/25739581261447233",
-      "url": "https://doi.org/10.1177/25739581261447233",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Microaggressions—subtle insults, invalidations, or slights directed at marginalized groups—negatively affect mental health and identity. However, little is known about how autistic people experience microaggressions across their daily lives in Japan. To the beast of our knowledge, this is the first qualitative study examining how Japanese autistic people experience microaggressions related to or attributed to their autism. Methods: We conducted an online cross-sectional survey in March 2023. A total of 330 autistic individuals (aged 18–39 years) responded to two open-ended questions about direct and indirect microaggressions in their daily lives. We analyzed 288 microaggressive experiences related to or attributed to participants’ autism using codebook thematic analysis. Three researchers generated the initial codes and preliminary themes, which the full team then refined through iterative discussion. Results: We identified four themes describing how autistic people in Japan encounter microaggressions in their daily lives. Theme 1: Living with fluctuating standpoints reflects how others position autistic people as either inferior or unrealistically gifted. Theme 2: Livi…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
