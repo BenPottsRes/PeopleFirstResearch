@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:54:41Z",
+  "generated_at": "2026-09-01T11:41:19Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -677,6 +677,71 @@
       "abstract": "Accurate identification of autism is critical for timely intervention, yet validated screening tools remain limited in Latin America. This study evaluated the psychometric properties of the Spanish-translated Social Communication Questionnaire (SCQ) in a clinic-based sample of children in Quito, Ecuador. Caregivers of 94 children aged 4-18 years completed the SCQ Lifetime form as part of a diagnostic evaluation that included cognitive testing, developmental history, and the Autism Diagnostic Observation Schedule, Second Edition (ADOS-2). Internal consistency of the SCQ was good (Cronbach’s α = .843). However, the SCQ showed poor diagnostic accuracy, with an area under the receiver operating characteristic curve (AUC) of .60. At the conventional SCQ cut score of 15, sensitivity and specificity were .56 and .60, respectively; using a lower cut score of 11 increased sensitivity (.72) but decreased specificity (.43). These findings indicate limited utility of the SCQ as a screening instrument for autism in this clinical context. Results align with other studies showing variability in SCQ performance across diverse populations and settings, highlighting the need for locally validated sc…"
     },
     {
+      "id": "10.1177/25739581261478008",
+      "title": "“A Delightful Embodiment of Dichotomies”: A Qualitative Exploration of Self-Concept and Identity Among Autistic and Non-Autistic People",
+      "authors": [
+        "Amy Pearson",
+        "Helen Knight",
+        "Ray Winter",
+        "Kieran Rose",
+        "Jon Rees"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1177/25739581261478008",
+      "url": "https://doi.org/10.1177/25739581261478008",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: There is a growing focus on a positive autistic identity; however, we know very little about self-defined autistic self-concept beyond what it means to be “autistic.” Methods: We conducted semistructured interviews (written or spoken) with 103 people; 51 were autistic, 10 were neurodivergent but not autistic, and 42 were neurotypical. We asked them questions about their identity and self-concept. We also invited them to submit an artifact (e.g., a photograph or a drawing) that they felt represented who they were. We analyzed the data using inductive reflexive thematic analysis, based on semantic and latent content. Results: We developed three themes. In theme 1, “The idea of the self might be one of those neurotypical things,” autistic participants suggested that the self was hard to define and might be a neurotypical construct. However, the non-autistic participants also found the self difficult to define. Overall, participants across groups believed the self was multifaceted and context dependent. Theme 2, It made me who I am, highlighted factors at different levels of a person’s social ecology (e.g., their development, their wider family and friends, and society) tha…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1108/aia-12-2025-0134",
+      "title": "Effectiveness of mentalisation-based treatment for improving social cognition and emotional regulation in adults with borderline personality disorder or autism spectrum disorder: a systematic review",
+      "authors": [
+        "Sofía Fernández Medina",
+        "Janay Vidal Gutierrez",
+        "Andrea Duarte Díaz"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1108/aia-12-2025-0134",
+      "url": "https://doi.org/10.1108/aia-12-2025-0134",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose This study aims to evaluate the effectiveness of mentalisation-based treatment (MBT) for emotional regulation and social cognition in adults with borderline personality disorder (BPD), and to determine the extent and quality of the available evidence on MBT in adults with autism spectrum disorder (ASD), characterising the imbalance in the evidence between these two diagnostic groups. Design/methodology/approach A systematic review was conducted in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Randomised controlled trials assessing MBT in adults (≥18 years) were identified through searches of APA PsycInfo, CINAHL with Full Text and MEDLINE Complete. Studies reporting outcomes related to emotional regulation and/or social cognition were included. Risk of bias was assessed using the Critical Appraisal Skills Programme randomised controlled trial checklist, and findings were synthesised narratively due to heterogeneity in study designs and outcome measures. One non-randomised study examining MBT in adults with ASD was included as preliminary evidence. Findings Seven randomised controlled trials (n = 707), all conducted in adult B…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1108/aia-03-2026-0028",
+      "title": "Beyond interviews: professional assessment narratives as ecologically grounded qualitative data for understanding autistic masking",
+      "authors": [
+        "Marc Wheeler"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1108/aia-03-2026-0028",
+      "url": "https://doi.org/10.1108/aia-03-2026-0028",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to explore how autistic masking may be identifiable within routinely generated professional assessment narratives. While research on camouflaging has relied largely on interviews and retrospective self-report, educational and clinical assessments generate extensive narrative documentation describing pupils’ functioning across contexts. The paper advances the argument that practitioner-generated assessment narratives constitute an under-recognised form of naturally occurring qualitative data capable of illuminating masking-related processes in real-world developmental contexts. Design/methodology/approach This study adopts a conceptual and practice-informed methodological perspective drawing on three sources: existing research on autistic masking, qualitative traditions concerned with naturally occurring documentary data and practitioner-informed insights from applied educational assessment contexts. Three adapted and anonymised excerpts from routine assessment documentation are presented solely to illustrate how the proposed framework may operate in practice. The examples were reviewed with a second practitioner to consider plausible alternative interpretati…"
+    },
+    {
       "id": "10.1177/10870547261456912",
       "title": "Students’ Experiences of Living with ADHD at University: A Meta-Ethnography",
       "authors": [
@@ -721,6 +786,34 @@
         "ADHD"
       ],
       "abstract": "Objective: Studies have provided evidence that mind wandering (MW) is involved in the symptomatology of attention deficit/hyperactivity disorder (ADHD). One of the notable categorizations of MW is based on the dimension of intentionality, in which intentional MW is labeled as deliberate MW (D-MW) while the unintentional form is called spontaneous MW (S-MW). S-MW has been reported to be associated with lapses of attention or impulsive behaviors in individuals with ADHD. Using self-report and behavioral measures, the present study aimed to replicate the finding that scores on the S-MW scale predict those on the ADHD Self-Report Scale (ASRS) and to examine whether task performance under the S-MW state similarly predicts the scores on the ASRS scores. Method: The participants completed the ASRS and the D-MW and S-MW scales several days before performing the laboratory task (i.e., the continuous counting Stroop task). During the Stroop task (576 trials × 2 blocks), experience sampling probes were presented (20/block), which requested the participants to report their attentional state (i.e., concentrated, D-MW, S-MW, or other). Results: A univariate analysis showed that the accuracy of t…"
+    },
+    {
+      "id": "10.1177/10870547261483443",
+      "title": "Barriers Associated With the Implementation of Homework in Behavioral Parent Training Among Parents With ADHD Symptoms",
+      "authors": [
+        "Lauren M. Friedman",
+        "Gabrielle Fabrikant-Abzug",
+        "Lindsay C. Chromik"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-08-31",
+      "doi": "10.1177/10870547261483443",
+      "url": "https://doi.org/10.1177/10870547261483443",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience",
+        "service improvement"
+      ],
+      "abstract": "Purpose: Behavioral Parent Training (BPT) is a front-line intervention for childhood ADHD, yet its effectiveness is reduced in families where parents also experience ADHD. Prior research suggests this attenuation stems from reduced BPT skill use among parents with ADHD symptoms. Beyond simply recognizing its occurrence, identifying the factors that contribute to poor skill use is essential for enhancing BPT effectiveness among parents with ADHD symptoms. The current study is the first, to our knowledge, to qualitatively examine barriers to BPT skill use in multiplex ADHD families. Methods: Parents with ADHD symptoms who recently completed a BPT program ( n = 16) and BPT clinicians ( n = 4) participated in focus groups or interviews. Qualitative data were analyzed to identify common and impairing barriers to consistent skill implementation at home. Results: Four primary themes emerged: (a) executive functioning and ADHD symptoms; (b) intervention fit (e.g., fast pace, poor skill understanding); (c) emotion regulation and motivation; and (d) child and family factors (e.g., multiple children, family communication). Conclusions: Findings highlight the unique cognitive, emotional, and c…"
     },
     {
       "id": "10.1177/13623613261480174",
@@ -9827,29 +9920,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261443728",
-      "title": "Participatory Development and Psychometric Evaluation of the Introspective Predictive Processing Inventory: A Self-Report Measure for Autistic and Non-Autistic Adults",
-      "authors": [
-        "Marik Roos",
-        "Hannah Storm",
-        "Lucie Zimmer",
-        "Tobias Schuwerk"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261443728",
-      "url": "https://doi.org/10.1177/13623613261443728",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "participatory"
-      ],
-      "abstract": "Traditional self-report autism measures are often constructed from an “outside view” by non-autistic researchers rather than reflecting authentic autistic experiences. Predictive processing theory offers a framework for understanding autism, but comprehensive tools assessing the subjective manifestations of predictive processing differences and associated challenges have been lacking. This study aimed to develop and validate the Introspective Predictive Processing Inventory (IPPI), a self-report measure assessing predictive processing characteristics and their subjective consequences in everyday life. Through community-led, participatory research, we developed an initial 65-item version in German and English, and employed a five-stage validation approach across three samples ( N = 790). We used network-based item optimization, exploratory and confirmatory factor analyses, measurement invariance testing, and convergent validity assessment. Network optimization reduced the scale to 18 items while maintaining excellent reliability and improved discriminative power. Exploratory factor analysis revealed a stable two-factor structure: “Prediction Integration and Interpretation” and “Pred…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -11729,30 +11799,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10870547261446718",
-      "title": "Evaluating the Effect of ADHD on Occupational Outcomes in the U.S. Marine Corps",
-      "authors": [
-        "Nathan Carnes",
-        "Jennifer McAnany",
-        "Zeina Khodr",
-        "Adam Biggs",
-        "James Bonkowski",
-        "Wisam Barkho"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-05-03",
-      "doi": "10.1177/10870547261446718",
-      "url": "https://doi.org/10.1177/10870547261446718",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) can potentially disqualify individuals for military service. However, some past research suggests the performance of individuals with ADHD in military service may be comparable to individuals without ADHD. The objective of the present research is to evaluate the effect of ADHD on occupational outcomes in the first enlistment term. We hypothesized that ADHD would be associated with weak or small performance decrements. Method: Study 1 ( N = 51,845) linked Recruit Assessment Program (RAP) survey data collected from U.S. Marine recruits between 2013 and 2018 with up to 4-years of active duty career records from the Defense Manpower Data Center. The RAP survey is a cross-sectional, baseline survey of mental, physical, and behavioral health—including self-reported ADHD diagnosis. Study 2 ( N = 161,507) utilized the Career History Archival Medical and Personnel System (CHAMPS) to obtain a study population of all active duty U.S. Marine Corps enlistees who accessed between 2013 and 2018 with follow-up through 2023. ADHD cases were identified by diagnoses and prescriptions captured in CHAMPS medical data. Estimated propensity score…"
     }
   ]
 }
