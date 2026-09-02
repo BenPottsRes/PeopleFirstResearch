@@ -1,8 +1,83 @@
 {
-  "generated_at": "2026-09-01T11:41:19Z",
+  "generated_at": "2026-09-02T11:20:42Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1108/aia-05-2026-0067",
+      "title": "Hidden in plain sight: a qualitative exploration of the influence of masking on autistic women’s mental health",
+      "authors": [
+        "Shana Harrison",
+        "Deepak Mathew",
+        "Grace Iarocci",
+        "Estera Boldut"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-04",
+      "doi": "10.1108/aia-05-2026-0067",
+      "url": "https://doi.org/10.1108/aia-05-2026-0067",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose Masking, the suppression of autistic traits to meet neurotypical expectations, is widely reported among autistic women and linked to adverse mental health outcomes. However, less is known about how masking relates to identity development and internal experience. This study aims to examine the question: what internal “voices,” defined as distinct narrative positions, are present in autistic women’s experiences of masking, unmasking and advocacy? Design/methodology/approach In-depth interviews with eight autistic women were analysed using the Listening Guide to identify patterns of relational and emotional positioning across narratives. Findings Three interrelated categories of voices were identified: voices of masking (shame, exhaustion, disconnection), voices of unmasking (self-acceptance, empowerment, connection) and voices of advocacy (resistance, anger and action). These voices co-occurred and were context-dependent rather than sequential. The findings conceptualize masking as a socially embedded survival strategy shaped by gendered and ableist expectations, with unmasking and advocacy emerging as relational responses to safety, recognition and constraint. Originality/va…"
+    },
+    {
+      "id": "10.1007/s10803-026-07504-z",
+      "title": "The Transition to Mental Health Services From the Perspectives of Neurodivergent Young People, Caregivers and Mental Health Professionals: A Constructivist Grounded Theory Approach",
+      "authors": [
+        "Kim Tang",
+        "Robert Wells",
+        "Craig Thompson",
+        "Elizabeth Hill",
+        "Elizabeth Pellicano",
+        "Bronwyn Myers"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-02",
+      "doi": "10.1007/s10803-026-07504-z",
+      "url": "https://doi.org/10.1007/s10803-026-07504-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose The prevalence of mental health conditions is increasing globally, with mental health difficulties the leading cause of disability for young people aged 12 to 25 years. Neurodivergent young people are up to three times more likely to develop a co-occurring mental health condition, requiring formal support from childhood to adulthood. They also experience delayed access to adult mental health care once they have been discharged from child mental health services. This study aimed to investigate what could support neurodivergent young people to transition from child to adult mental health services. Methods This qualitative research made use of a constructivist grounded theory approach. Three participant groups were recruited for this study, including 12 neurodivergent young people, 6 caregivers, and 5 healthcare professionals. Semi-structured interviews were used as the primary source of data with a follow-up workshop. Results We identified three themes. Across all three groups, participants emphasised that the care delivered by healthcare professionals is constrained by the structures of the mental health system, thereby limiting the level of neuro-affirming care the…"
+    },
+    {
+      "id": "10.1007/s10803-026-07473-3",
+      "title": "Properties of the Persian Version of the Societal Attitudes Towards Autism (SATA) Scale Among Iranian University Students",
+      "authors": [
+        "Maryam Salamat",
+        "Parviz Fadakar Gabalou",
+        "Mohammad Rostami"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-02",
+      "doi": "10.1007/s10803-026-07473-3",
+      "url": "https://doi.org/10.1007/s10803-026-07473-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
+    },
     {
       "id": "10.1007/s10803-026-07395-0",
       "title": "Retraction Note: Examining the Impact of Assistive Technology on Psychological Health, Family Education, and Curriculum Research in Japan: Insights from Artificial Intelligence",
@@ -740,6 +815,34 @@
         "lived experience"
       ],
       "abstract": "Purpose This study aims to explore how autistic masking may be identifiable within routinely generated professional assessment narratives. While research on camouflaging has relied largely on interviews and retrospective self-report, educational and clinical assessments generate extensive narrative documentation describing pupils’ functioning across contexts. The paper advances the argument that practitioner-generated assessment narratives constitute an under-recognised form of naturally occurring qualitative data capable of illuminating masking-related processes in real-world developmental contexts. Design/methodology/approach This study adopts a conceptual and practice-informed methodological perspective drawing on three sources: existing research on autistic masking, qualitative traditions concerned with naturally occurring documentary data and practitioner-informed insights from applied educational assessment contexts. Three adapted and anonymised excerpts from routine assessment documentation are presented solely to illustrate how the proposed framework may operate in practice. The examples were reviewed with a second practitioner to consider plausible alternative interpretati…"
+    },
+    {
+      "id": "10.1177/10870547261478017",
+      "title": "The Impact of Multilingualism and Immigration Background on Attention Difficulties and ADHD Diagnoses: Findings From a Large Cohort Study in Norway",
+      "authors": [
+        "Franziska Köder",
+        "Curtis Sharma",
+        "Cecilie Rummelhoff",
+        "Maria Garraffa",
+        "Merete Glenne Øie"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1177/10870547261478017",
+      "url": "https://doi.org/10.1177/10870547261478017",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Objective: This study aims to investigate the relationship between children’s multilingualism, immigration background, and their attention difficulties, as well as the prevalence of ADHD diagnoses. Methods: Questionnaire data on 70,102 children from the Norwegian Mother, Father and Child Cohort Study (MoBa), including parental ratings of attention difficulties (Child Behavior Checklist, Parent/Teacher Rating Scale for Disruptive Behavior Disorders) and multilingual language use, was linked with registry data from the Norwegian Patient Registry concerning ADHD diagnoses. Results: Our findings indicate that multilingual children exhibited higher ratings of attention difficulties compared to their monolingual peers. However, the prevalence of ADHD diagnoses did not show significant differences based on multilingualism or parental language background. Nevertheless, there are indications that children with mothers from North Africa, the Middle East, Southeast Asia, East Asia, and Oceania may be at risk of being underdiagnosed for ADHD in Norway. In addition, girls whose mothers spoke a native language other than Norwegian were diagnosed with ADHD significantly later than girls with nati…"
     },
     {
       "id": "10.1177/10870547261456912",
@@ -2422,24 +2525,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -2459,6 +2544,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -9894,32 +9997,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261439930",
-      "title": "Daily Mindfulness and Depressive Symptoms Among Parents of Autistic Children: A Dynamic Structural Equation Modelling Study",
-      "authors": [
-        "Lin Wang",
-        "Meng Hua",
-        "Xinyi Hu",
-        "Yifan Wang",
-        "Qinxing Xie",
-        "Guang Yang",
-        "Yuan Chen"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261439930",
-      "url": "https://doi.org/10.1177/13623613261439930",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Elevated depressive symptoms among parents of autistic children are well documented and associated with poorer mental health. Mindfulness has been identified as a protective factor against mental health difficulties, but its day-to-day associations with depressive symptoms in this population remain unclear. A total of 210 Chinese parents of autistic children participated in this 15-day diary study, during which they completed daily measures of mindfulness and depressive symptoms. The data were analysed using dynamic structural equation modelling. Results indicated that (1) parents’ daily mindfulness and depressive symptoms exhibited autoregressive stability and showed significant negative reciprocal cross-lagged associations at the within-person level. At the between-person level, (2) higher perceived social support was associated with lower mean depressive symptoms and higher mean mindfulness, and it strengthened the negative cross-lagged effect of daily mindfulness on next-day depressive symptoms; and (3) child externalising problems were positively associated with parents’ overall mean depressive symptoms and negatively associated with both parents’ overall mean daily mindfulnes…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -11757,48 +11834,6 @@
         "Healthcare"
       ],
       "abstract": "Objective: The objective of this analysis was to describe the effects of methylphenidate-mediated symptom improvement on functional impairments in adults with ADHD. Methods: This is an exploratory study of self-reported functional impairment on the Weiss Functional Impairment Rating Scale (WFIRS-S) in 351 ADHD adults treated in a forced dose, double blind (DB), randomized, parallel clinical trial of a 16-hr methylphenidate stimulant (PRC-063) for 4 weeks followed by open-label (OL; N = 147) for 6 months. Results: During the 4-week DB period, there was a statistically significant response to medication versus placebo in the WFIRS-S domain of “work.” Forty percent of DB subjects, assigned a random dose of medication, showed functional improvement as defined by the Minimal Clinical Important Differences (MCID) of the WFIRS. At the end of DB, one third of subjects had scores below symptomatic and functional impairment thresholds and two thirds by the end of OL. Although the OL period was uncontrolled, when all subjects had been dose optimized with sufficient time for functional impairment to manifest, all WFIRS functional domains showed clinically-relevant improvements from baseline to…"
-    },
-    {
-      "id": "10.1007/s40489-026-00558-w",
-      "title": "Evidence Synthesis for Reconceptualizing Learning Disabilities in Children with Autism and Neurodevelopmental Conditions: a Brief Narrative Review",
-      "authors": [
-        "John Hite"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-04",
-      "doi": "10.1007/s40489-026-00558-w",
-      "url": "https://doi.org/10.1007/s40489-026-00558-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10882-026-10064-w",
-      "title": "A Systematic Review of the Effects of Exercise Interventions on Emotional Dysregulation in Children and Adolescents with Autism Spectrum Disorder",
-      "authors": [
-        "Honghong Lai",
-        "Xiaomei Zhan",
-        "Tonglin Shi",
-        "Ziwei Kuang",
-        "Xiaoxin Peng",
-        "Bangning Wang",
-        "Lin Zeng",
-        "Xiafang Li"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-04",
-      "doi": "10.1007/s10882-026-10064-w",
-      "url": "https://doi.org/10.1007/s10882-026-10064-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
