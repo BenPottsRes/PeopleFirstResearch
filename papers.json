@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:20:42Z",
+  "generated_at": "2026-09-03T11:17:10Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -27,6 +27,28 @@
         "lived experience"
       ],
       "abstract": "Purpose Masking, the suppression of autistic traits to meet neurotypical expectations, is widely reported among autistic women and linked to adverse mental health outcomes. However, less is known about how masking relates to identity development and internal experience. This study aims to examine the question: what internal “voices,” defined as distinct narrative positions, are present in autistic women’s experiences of masking, unmasking and advocacy? Design/methodology/approach In-depth interviews with eight autistic women were analysed using the Listening Guide to identify patterns of relational and emotional positioning across narratives. Findings Three interrelated categories of voices were identified: voices of masking (shame, exhaustion, disconnection), voices of unmasking (self-acceptance, empowerment, connection) and voices of advocacy (resistance, anger and action). These voices co-occurred and were context-dependent rather than sequential. The findings conceptualize masking as a socially embedded survival strategy shaped by gendered and ableist expectations, with unmasking and advocacy emerging as relational responses to safety, recognition and constraint. Originality/va…"
+    },
+    {
+      "id": "10.1007/s10803-026-07362-9",
+      "title": "Relative Impact of Family Processes and Child and Systemic Factors on Behavioral and Academic Outcomes for Autistic Children in Mainstream Education",
+      "authors": [
+        "Billy Fitzgerald",
+        "Christopher McCusker",
+        "Maria Dempsey",
+        "Audrey Dunn Galvin"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1007/s10803-026-07362-9",
+      "url": "https://doi.org/10.1007/s10803-026-07362-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07504-z",
@@ -71,6 +93,26 @@
       "published_date": "2026-09-02",
       "doi": "10.1007/s10803-026-07473-3",
       "url": "https://doi.org/10.1007/s10803-026-07473-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ]
+    },
+    {
+      "id": "10.1080/1034912x.2026.2724557",
+      "title": "International Comparisons on Intellectual Disability and Autism in China, South Korea and the United States",
+      "authors": [
+        "Eun-Joo Kim",
+        "Jie Zhang",
+        "Jeongae Kang"
+      ],
+      "journal": "International Journal of Disability, Development and Education",
+      "year": 2026,
+      "published_date": "2026-09-02",
+      "doi": "10.1080/1034912x.2026.2724557",
+      "url": "https://doi.org/10.1080/1034912x.2026.2724557",
       "neurotype": [
         "Autism"
       ],
@@ -2525,6 +2567,24 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -2544,24 +2604,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -11730,110 +11772,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-026-07324-1",
-      "title": "Prevalence of Co-occurring Mental, Neurodevelopmental and Neurological Conditions in Medicaid Beneficiaries With Autism",
-      "authors": [
-        "Carolyn DiGuiseppi",
-        "Caleb Ing",
-        "Ashley Blanchard",
-        "Matthew T. Russell",
-        "Guohua Li"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-05",
-      "doi": "10.1007/s10803-026-07324-1",
-      "url": "https://doi.org/10.1007/s10803-026-07324-1",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/25739581261449193",
-      "title": "Facial and Bodily Emotion Recognition in Autism: The Role of Alexithymia",
-      "authors": [
-        "Andrei Zarie",
-        "Jessica Loudon",
-        "Petra M.J. Pollux",
-        "Niko Kargas"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-05-05",
-      "doi": "10.1177/25739581261449193",
-      "url": "https://doi.org/10.1177/25739581261449193",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Background: There is a general belief in the scientific community that autistic people have emotion recognition (ER) difficulties. Despite this, the research is inconclusive, with roughly half of the studies showing that autistic people have similar ER ability to non-autistic people. The alexithymia hypothesis posits that ER differences found in some autistic individuals might be due to concurrent alexithymia, with some incipient research backing this claim. One limitation of past literature is the focus on facial expressions, with ER from body language remaining understudied, especially in relation to autism and alexithymia. Methods: Adults ( N = 364) completed a face and body ER task containing video expressions of all basic emotions, during which we measured their accuracy, confidence, and intensity ratings. Participants also completed Alexithymia (PAQ) and autism traits (AQ-10) questionnaires. After data cleaning, we split participants into an autistic group ( n = 71) and non-autistic group ( n = 279). We used alexithymia scores to further split the two autism groups into high and low alexithymia categories. We investigated the effects of autism and alexithymia on body and face…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547261440604",
-      "title": "Randomized Controlled Trial of a Peer-Delivered High School Preparatory Intervention for ADHD",
-      "authors": [
-        "Margaret H. Sibley",
-        "Shauntal Van Dreel",
-        "Stefany J. Coxe",
-        "Mercedes Ortiz",
-        "Benjamin Aaronson",
-        "Alexa Matlack",
-        "Taylor Rainwater",
-        "Brooke E. Kircher",
-        "Joshua Langberg",
-        "Aaron Lyon",
-        "Autumn Yi",
-        "Carlos E. Yeguez"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-05-05",
-      "doi": "10.1177/10870547261440604",
-      "url": "https://doi.org/10.1177/10870547261440604",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Objective: The high school transition is a period of academic and socioemotional vulnerability for adolescents with ADHD. Standard high school interventions for ADHD typically demonstrate access and engagement challenges. Peer-delivered interventions may overcome staff time and resource shortages while increasing adolescent engagement. A previously tested peer-delivered model (STRIPES;16 weekly psychosocial sessions with a peer) showed promising effects but suboptimal engagement. Method: This development trial evaluates enhancements to STRIPES (STRIPES+) adding a 1-week peer-led school orientation and six parent training sessions. Ninth grade students meeting current ADHD symptom and impairment criteria ( N = 72) were randomized to STRIPES+ versus school services as usual (SSU). Engagement metrics were evaluated and group × time 1-year outcome trajectories were compared using Linear Mixed Models. Results: Student and peer, but not parent, attendance was strong. STRIPES+ was feasible and acceptabled to students and peers. Compared to SSU, STRIPES+ demonstrated significant gains for school materials organization ( b = 0.01, SE = 0.01, p = .040, d = 0.51), use of a daily planner ( b =…"
-    },
-    {
-      "id": "10.1177/10870547261440452",
-      "title": "An Exploratory Study of Functional Outcome in Stimulant Treatment of ADHD in Adults",
-      "authors": [
-        "Margaret D. Weiss",
-        "Jeffrey H. Newcorn",
-        "Pratap Chokka",
-        "Marc Cataldo",
-        "Sailaja Bhaskar",
-        "Graeme A. E. Donnelly"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-05-05",
-      "doi": "10.1177/10870547261440452",
-      "url": "https://doi.org/10.1177/10870547261440452",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Employment",
-        "Healthcare"
-      ],
-      "abstract": "Objective: The objective of this analysis was to describe the effects of methylphenidate-mediated symptom improvement on functional impairments in adults with ADHD. Methods: This is an exploratory study of self-reported functional impairment on the Weiss Functional Impairment Rating Scale (WFIRS-S) in 351 ADHD adults treated in a forced dose, double blind (DB), randomized, parallel clinical trial of a 16-hr methylphenidate stimulant (PRC-063) for 4 weeks followed by open-label (OL; N = 147) for 6 months. Results: During the 4-week DB period, there was a statistically significant response to medication versus placebo in the WFIRS-S domain of “work.” Forty percent of DB subjects, assigned a random dose of medication, showed functional improvement as defined by the Minimal Clinical Important Differences (MCID) of the WFIRS. At the end of DB, one third of subjects had scores below symptomatic and functional impairment thresholds and two thirds by the end of OL. Although the OL period was uncontrolled, when all subjects had been dose optimized with sufficient time for functional impairment to manifest, all WFIRS functional domains showed clinically-relevant improvements from baseline to…"
     }
   ]
 }
