@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:17:10Z",
+  "generated_at": "2026-09-04T11:20:15Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -29,6 +29,30 @@
       "abstract": "Purpose Masking, the suppression of autistic traits to meet neurotypical expectations, is widely reported among autistic women and linked to adverse mental health outcomes. However, less is known about how masking relates to identity development and internal experience. This study aims to examine the question: what internal “voices,” defined as distinct narrative positions, are present in autistic women’s experiences of masking, unmasking and advocacy? Design/methodology/approach In-depth interviews with eight autistic women were analysed using the Listening Guide to identify patterns of relational and emotional positioning across narratives. Findings Three interrelated categories of voices were identified: voices of masking (shame, exhaustion, disconnection), voices of unmasking (self-acceptance, empowerment, connection) and voices of advocacy (resistance, anger and action). These voices co-occurred and were context-dependent rather than sequential. The findings conceptualize masking as a socially embedded survival strategy shaped by gendered and ableist expectations, with unmasking and advocacy emerging as relational responses to safety, recognition and constraint. Originality/va…"
     },
     {
+      "id": "10.1177/10870547261484217",
+      "title": "Parsing Day-to-Day Dynamics of ADHD and Perceived Stress in College Students: An Ecological Momentary Assessment Study",
+      "authors": [
+        "Patrick K. Goh",
+        "Christine A. Lee",
+        "Ashlyn W. W. A. Wong",
+        "Grace S. Mellor",
+        "Sara Chung",
+        "Amori Yee Mikami"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-09-04",
+      "doi": "10.1177/10870547261484217",
+      "url": "https://doi.org/10.1177/10870547261484217",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Objective: Although ADHD is characterized as a lifelong condition, emerging evidence indicates that symptom severity can fluctuate day-to-day. In this study, we examined whether these fluctuations are directionally associated with fluctuations in perceived stress, using 28 days of ecological momentary assessment data. Method: Participants were 187 undergraduate students (M age = 19.7 years; 78% women). We estimated temporal, contemporaneous, and between-subject networks. Results: At the sum-score level, ADHD and perceived stress were consistently positively associated across all three network types. In analyses of ADHD symptoms and perceived stress, increases in ADHD-related concentration difficulties and procrastination were associated with higher levels of perceived stress on the following day. Conversely, increases in perceived stress, particularly feelings of lacking control, were associated with elevated ADHD symptoms the next day. In the contemporaneous network, ADHD-related procrastination, restlessness, and concentration difficulties showed the strongest associations with perceived stress. These symptoms were also prominent in the between-person network, which additionally…"
+    },
+    {
       "id": "10.1007/s10803-026-07362-9",
       "title": "Relative Impact of Family Processes and Child and Systemic Factors on Behavioral and Academic Outcomes for Autistic Children in Mainstream Education",
       "authors": [
@@ -48,6 +72,112 @@
       "domains": [
         "Education"
       ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261481552",
+      "title": "Minimal Clinically Important Difference on the Social Responsiveness Scale in Autistic Children Aged 4 to 10 Years",
+      "authors": [
+        "Hangyu Tan",
+        "Lingli Zhang",
+        "Zhenzhen Xie",
+        "Luan Chen",
+        "Wenjun Xu",
+        "Wei Zhou",
+        "Tai Ren",
+        "Fei Li"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261481552",
+      "url": "https://doi.org/10.1177/13623613261481552",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "The Social Responsiveness Scale (SRS) is widely used in autism clinical trials to assess treatment effects on core symptoms. However, its minimal clinically important difference (MCID) remains undefined, limiting meaningful interpretation of treatment efficacy. This study pooled data from four clinical trials (542 observations from 319 autistic children, aged 4–10 years) to estimate an anchor-based MCID. Using the Clinical Global Impression-Improvement (CGI-I) scale as an anchor, we employed linear mixed-effects models to estimate MCID, defined as the between-group difference between participants reporting minimal improvement versus no change. We tested interactions among baseline SRS score and clinical characteristics. To complement the anchor-based approach, we also incorporated distribution-based MCID estimates using data from 1,405 autistic children (aged 4–10 years) drawn from an autism registry. We found that MCID depended on baseline SRS score, described by the formula MCID = 10.33 − 0.18 × (baseline SRS score). This translates to MCIDs of 5.87 and 9.47 for baseline SRS scores of 90 and 110, respectively. No significant interactions were found with sex, age, or co-occurring…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
+      "id": "10.1177/13623613261478892",
+      "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
+      "authors": [
+        "Andrea Alamia",
+        "Jakob C. B. Schwenk",
+        "Johan Wagemans",
+        "Laurie-Anne Sapey-Triomphe"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478892",
+      "url": "https://doi.org/10.1177/13623613261478892",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261482021",
+      "title": "It Is Literally Saving Me Spoons: Autistic People’s Experiences of Eating and Feeding Disorders—A Photovoice Study",
+      "authors": [
+        "Kyle Buchan",
+        "Ellen Maloney",
+        "Fiona Duffy",
+        "Michelle Sader",
+        "Emy Nimbley",
+        "Sarah Kettley",
+        "Helen Sharpe",
+        "Karri Gillespie-Smith"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/25739581261482021",
+      "url": "https://doi.org/10.1177/25739581261482021",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Emergency care",
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Background: Despite the high prevalence of eating disorders (EDs) in Autistic people, few qualitative studies explore this overlap beyond Autistic women with anorexia nervosa (AN). Methods: We used Photovoice to explore the experiences of Autistic people with EDs across diverse genders and ED typologies. Our final sample included 14 Autistic individuals (male n = 3, female n = 8, gender-queer n = 3; m = 31.07 years). Participants completed five workshops across four groups ( n = 20 group sessions), capturing images that best represented their ED experiences and discussing them with their group. We conducted content analysis on the images and inductive-reflexive thematic analysis on the workshop transcripts, Microsoft Teams messages, and image narratives. Results: Our analysis produced five key themes: (1) Autistic identity: how autism diagnoses shape ED experiences and perceptions of normality; (2) the “overwhelm bucket”: how cognitive and sensory overload trigger ED behaviors; (3) diagnostic intersectionality: how traits interact across Autism, EDs, and co-occurring diagnoses, complicating clinical separation; (4) “go without me” (social consequences): how ED-driven social withdra…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -7249,25 +7379,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1007/s10803-026-07320-5",
-      "title": "Correction: Autism Screening Using Parent’s Observations of Social Interactions (POSI) in High-Risk Infants",
-      "authors": [
-        "Lydia Vielmetti",
-        "Aarabhi Rajagopal",
-        "Robin Manus",
-        "Sharon Veis",
-        "Raye-Ann deRegnier"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1007/s10803-026-07320-5",
-      "url": "https://doi.org/10.1007/s10803-026-07320-5",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1177/13623613261451897",
       "title": "Inferring Thoughts by and of Individuals With and Without Autism: An Empathic Accuracy Study",
       "authors": [
@@ -11651,127 +11762,6 @@
         "Mental health"
       ],
       "abstract": "Background: Although inattention characterizes both pediatric attention deficit hyperactivity disorder (ADHD) and anxiety disorders, it is unclear whether the underlying neurocognitive mechanisms are shared or distinct. We compared behavioral performance and event-related potentials (ERPs) indexing discrete stages of attention across children with ADHD-only, Anxiety-only, co-occurring ADHD+Anxiety, and typically developing (TD) peers. Methods: One hundred eleven children (7–11 years) completed three computerized attention tasks while high-density electroencephalography (EEG) was recorded. Behavioral indices (accuracy, reaction time, post-error slowing) and ERP/EEG markers of attentional engagement (aperiodic exponent), stimulus discrimination (N2), action selection (P3), performance monitoring (error-related negativity; ERN) and evaluation (error positivity; Pe) were analyzed. Results: Relative to TD children, all clinical groups showed reduced modulation of the pre-stimulus aperiodic exponent by cognitive load and attenuated N2 amplitudes across tasks, indicating shared alterations in dynamic arousal and stimulus discrimination. Distinct patterns between the ADHD and Anxiety group…"
-    },
-    {
-      "id": "10.1007/s10803-026-07346-9",
-      "title": "IQ Profiles in Bilingual Children With Developmental Language Disorder: The Role of Maternal Education",
-      "authors": [
-        "Eleni Peristeri",
-        "Silvia Silleresi",
-        "Ianthi Maria Tsimpli"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-06",
-      "doi": "10.1007/s10803-026-07346-9",
-      "url": "https://doi.org/10.1007/s10803-026-07346-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose The intellectual profile of monolingual children with Developmental Language Disorder is typically characterized by below-average verbal IQ (VIQ) and average Performance IQ (hence, PIQ) scores. Our knowledge of IQ functioning in bilingual children with Developmental Language Disorder is still very limited. Furthermore, previous research in IQ functioning in children with Developmental Language Disorder has not addressed maternal education as a possible alternative exploratory variable affecting children’s performance in IQ tests. Here, we aimed to investigate if intellectual functioning of children with Developmental Language Disorder is affected by bilingualism, and whether this relation is affected by the children’s socioeconomic characteristics, including maternal and parental education, and family income. Methods We focused on IQ profile comparisons between 125 bilingual children and 109 monolingual children with Developmental Language Disorder. Results We found that the bilingual children exhibited ‘normalized’ performance in those VIQ tests that tapped into metalinguistic knowledge and social understanding. The bilingual children were also more likely to exhi…"
-    },
-    {
-      "id": "10.1007/s10803-026-07334-z",
-      "title": "Socio-Demographic Associations and Frequencies of Physical Activity Participation of Autistic Adolescents Reported by Parents in Ontario, Canada",
-      "authors": [
-        "Marina Charalampopoulou",
-        "Antoine Beauchamp",
-        "Evdokia Anagnostou",
-        "Patrick Jachyra"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-06",
-      "doi": "10.1007/s10803-026-07334-z",
-      "url": "https://doi.org/10.1007/s10803-026-07334-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Abstract Purpose This study explored socio-demographic associations and physical activity (PA) participation of autistic adolescents reported by parents. Parents also reported the patterns and frequencies of PA participation, as there is a limited understanding of the activities they engage in Ontario, Canada. There is a need for this research as autistic adolescents are less likely to participate in PA. Studying socio-demographic characteristics and understanding the activities adolescents engage in can inform policies and practice to support participation. Methods A cross-sectional survey was mailed to parents of 525 autistic adolescents aged 12–19 years about PA participation for the preceding year. Parents provided data about free play and organized PA activities of adolescents ( n = 306; 63.7% male; M age = 15.1 years), and demographic information. Multiple linear regression was used to evaluate the relationships between PA scores, activities reported and the six demographic variables. The relationship between the sedentary scores, tallied frequency scores and number of activities was also assessed using linear regression. Results Overall, 85% of autistic adolescents participa…"
-    },
-    {
-      "id": "10.1007/s10803-026-07339-8",
-      "title": "Virtual Reality Intervention to Empower Autistic People to Interact With Police: A Randomized Controlled Clinical Trial for Autistic Teens and Adults",
-      "authors": [
-        "Joseph P. McCleery",
-        "Ashley Zitter",
-        "Lucero Cordero",
-        "Alison Russell",
-        "Meredith Cola",
-        "Manisha Udhnani",
-        "Kimberly G Tena",
-        "Ashlee Yates Flanagan",
-        "Sinan Turnacioglu",
-        "Rita Solórzano",
-        "Judith S Miller",
-        "Vijay Ravindran",
-        "Julia Parish-Morris"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-06",
-      "doi": "10.1007/s10803-026-07339-8",
-      "url": "https://doi.org/10.1007/s10803-026-07339-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00556-y",
-      "title": "Attachment-Based Interventions in Children with Autism Spectrum Disorders: A Systematic Review",
-      "authors": [
-        "Cristina Fernández-Cuenca",
-        "Itziar Alonso-Arbiol"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-06",
-      "doi": "10.1007/s40489-026-00556-y",
-      "url": "https://doi.org/10.1007/s40489-026-00556-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Autism spectrum disorders (ASD) significantly impact children’s development, making early intervention necessary for improving social communication and reducing symptom severity. Autistic children often exhibit less secure attachment styles due to challenges in reciprocity and joint attention, among others. Therefore, interventions aimed at enhancing attachment quality may strengthen caregiver-child interactions, and positively influence core autism symptoms by improving socioemotional outcomes. We conducted a systematic review to synthesize the evidence derived from attachment-based interventions for autistic children. Seventeen articles (15 studies) met the inclusion criteria. Reviewed findings showed that promoting caregivers’ sensitivity and reflective function improves the relationship quality and enhances children’s joint attention along with the suitable use of parents as a safe haven. Moreover, changes in parent-child interaction were explained mainly by modifications in maternal responses. The reviewed treatments enhanced children’s adaptive behavior, language expression, and communication skills. The role of caregivers is discussed, highlighting that attachment-b…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2663976",
-      "title": "The effects of least restrictive classroom placement on school and post-high school outcomes of students with autism",
-      "authors": [
-        "Scott H. Yamamoto"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-06",
-      "doi": "10.1080/20473869.2026.2663976",
-      "url": "https://doi.org/10.1080/20473869.2026.2663976",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Person-first language used"
     }
   ]
 }
