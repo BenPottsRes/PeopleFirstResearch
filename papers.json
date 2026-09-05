@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-04T11:20:15Z",
+  "generated_at": "2026-09-05T10:38:17Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10870547261478344",
+      "title": "Comprehensive Treatment and Monthly 2 Year Follow-Up in Children With ADHD: Randomized Controlled Prospective Study",
+      "authors": [
+        "Lily Hechtman",
+        "Natalie Grizenko",
+        "Ridha Joober",
+        "Jens Kreitewolf",
+        "Mariam Ter-Stepanian",
+        "Marie-Ève Fortier",
+        "Kayla Eisenberg",
+        "Joy Etcovitch",
+        "William J. Harvey"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-09-05",
+      "doi": "10.1177/10870547261478344",
+      "url": "https://doi.org/10.1177/10870547261478344",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Objectives To evaluate the efficacy of regular monthly follow up in maintaining treatment gains versus follow up as needed in the community for children ages 6 to 12 years with ADHD. Methods One hundred and eighty six children, age 6 to 13 with DSM-IV diagnosed Attention Deficit Hyperactivity Disorder (ADHD) (combined presentation) received 3 months of comprehensive treatment which included long-acting stimulant medication titrated to optimal dose (via parent and teacher reports) and weekly parent training groups and child social skills and academic training. After the 3 months of treatment, children were randomized to either monthly follow up by the research team (treatment group) or follow up as usual in the community (control group). Comprehensive evaluations occurred at 3 months at the end of the comprehensive treatment, and at 6, 12, 18, and 24 month follow-up. Results Children in both groups improved significantly in all domains after the 3 months of intensive comprehensive treatment. Treatment gains were maintained during the 2 year follow up period in both groups. However, the Hyperactive/Impulsive rating in Conners scale by parent report and some teacher reports were worse…"
+    },
+    {
+      "id": "10.1177/13623613261480732",
+      "title": "From Clinic to Home: Validating the Social Communication Scale for Telemedicine-Supported Early Autism Screening in Chinese Toddlers",
+      "authors": [
+        "Li Wang",
+        "Yujia Shi",
+        "Fei Yuan",
+        "Xiujuan Geng",
+        "Ziyan Meng",
+        "Yipeng Wang",
+        "Hon-Cheong So",
+        "Patrick C. M. Wong"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-04",
+      "doi": "10.1177/13623613261480732",
+      "url": "https://doi.org/10.1177/13623613261480732",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Telemedicine is reshaping how early autism detection can be delivered, particularly in resource-limited settings. Yet, most existing tele-assessment tools were developed in Western contexts, limiting their cultural applicability. To address this gap, we evaluated the Social Communication Scale (SCS), a brief video-based tool, for telemedicine-supported screening in Chinese toddlers. A total of 170 Chinese toddlers aged 16 to 30 months were recruited. Parent–child interaction videos were recorded at home and subsequently coded using the SCS scheme. Autism likelihood (Elevated vs. Low) was defined using the Autism Diagnostic Observation Schedule, Second Edition (ADOS-2) classifications. Reliability and validity were evaluated. Screening accuracy was evaluated using total-score cutoff, logistic regression, and Random Forest (RF) models. The SCS demonstrated good inter-rater reliability (intraclass correlation coefficient [ICC] = 0.87) and moderate convergent validity with ADOS-2 and parent-reported measures of socialization and communication. Both logistic regression and RF outperformed the total-score approach, with RF yielding more balanced performance across metrics. Including demo…"
+    },
     {
       "id": "10.1108/aia-05-2026-0067",
       "title": "Hidden in plain sight: a qualitative exploration of the influence of masking on autistic women’s mental health",
@@ -1043,24 +1100,6 @@
         "lived experience"
       ],
       "abstract": "While the prevalence of attention deficit hyperactivity disorder (ADHD) among university students varies depending on the population studied, it has been estimated at approximately 16%. University students with ADHD may find that the condition affects their academic performance, social interactions, and well-being. This meta-ethnographic review synthesizes findings from 25 qualitative studies to explore the lived experiences of university students with ADHD. The studies, published between 2000 and 2023, were predominantly conducted in the United States with sample sizes ranging from 4 to 135 students. Students came from a broad range of academic disciplines and included undergraduates, recent graduates, and attendees of various post-secondary institutions. Findings show that difficulties with organization, time management, and maintaining focus during lectures or while completing assignments are common struggles. These students also face challenges transitioning into university life, particularly in terms of academic expectations and social participation. Whilst universities often provide accommodations such as extended test times, these supports are often too generic and insuffici…"
-    },
-    {
-      "id": "10.1177/10870547261448262",
-      "title": "Behavioral and Self-Report Measures of Spontaneous Mind Wandering Predict Different Aspects of ADHD in Adults",
-      "authors": [
-        "Takehiro Minamoto",
-        "Takuma Hayashi",
-        "Md Abdullah Al-Mamun"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/10870547261448262",
-      "url": "https://doi.org/10.1177/10870547261448262",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: Studies have provided evidence that mind wandering (MW) is involved in the symptomatology of attention deficit/hyperactivity disorder (ADHD). One of the notable categorizations of MW is based on the dimension of intentionality, in which intentional MW is labeled as deliberate MW (D-MW) while the unintentional form is called spontaneous MW (S-MW). S-MW has been reported to be associated with lapses of attention or impulsive behaviors in individuals with ADHD. Using self-report and behavioral measures, the present study aimed to replicate the finding that scores on the S-MW scale predict those on the ADHD Self-Report Scale (ASRS) and to examine whether task performance under the S-MW state similarly predicts the scores on the ASRS scores. Method: The participants completed the ASRS and the D-MW and S-MW scales several days before performing the laboratory task (i.e., the continuous counting Stroop task). During the Stroop task (576 trials × 2 blocks), experience sampling probes were presented (20/block), which requested the participants to report their attentional state (i.e., concentrated, D-MW, S-MW, or other). Results: A univariate analysis showed that the accuracy of t…"
     },
     {
       "id": "10.1177/10870547261483443",
@@ -11669,99 +11708,6 @@
       ],
       "abstract": "Abstract Background Parents of autistic children report more depression, anxiety, and caregiver strain, and poorer well-being than parents of non-autistic children. Though more research has begun to investigate how parent-specific factors may influence these outcomes, few consider cognitive factors like emotion regulation or self-inhibition. These skills may be particularly relevant given their documented benefits and associations with mental health and well-being in the general population. An important consideration when investigating the needs of parents is the interconnectedness of the family unit. Thus, methodologies that consider this shared context are essential to appropriately support resilience of parents of autistic children. Methods Our sample consisted of 263 different-sex parent dyads with at least one child formally diagnosed with autism spectrum disorder. Using the Actor-Partner Interdependence Model, we assessed the links between parents’ emotion regulation and self-inhibition and their own and their partner’s depression and anxiety symptoms, caregiver strain, and well-being. Interdependence was established using correlations given the distinguishable nature of our…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07355-8",
-      "title": "Concurrent Assessment of Neurotrophic Factors and HPA-Axis Hormones in Early Childhood Autism Spectrum Disorder",
-      "authors": [
-        "Hurşit Ferahkaya",
-        "Ayşegül Tuğba Hira Selen",
-        "Şeyma Tezer",
-        "Ömer Faruk Akça",
-        "Abdullah Akkuş",
-        "İbrahim Kılınç",
-        "Fatma Coşkun"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-07",
-      "doi": "10.1007/s10803-026-07355-8",
-      "url": "https://doi.org/10.1007/s10803-026-07355-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose Neurotrophic pathways and hypothalamic–pituitary–adrenal (HPA) axis regulation have been implicated in autism spectrum disorder (ASD), yet peripheral findings—particularly in early childhood—remain inconsistent. We examined peripheral neurotrophic factors and HPA-axis hormones in medication-naïve young children with ASD and evaluated their associations with clinical severity. Methods This cross-sectional study included 45 medication-naïve children with ASD (18–72 months) and 52 age-matched healthy controls. ASD diagnosis was established per DSM-5, supported by the Childhood Autism Rating Scale (CARS) and the Autism Behavior Checklist (ABC). Morning samples (08:30–09:30) were assayed for serum BDNF, GDNF, NT-3, VEGF, cortisol, and plasma ACTH. Group comparisons used ANCOVA adjusted for age, sex, and BMI-for-age z score (BAZ), with Benjamini–Hochberg false discovery rate (FDR) correction. Within-ASD associations were tested using covariate-adjusted partial Spearman correlations. Results BDNF was significantly lower in ASD than controls and remained significant after covariate adjustment and FDR correction. No between-group differences were observed for GDNF, NT-3, VE…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07348-7",
-      "title": "Relationship of the Persistent Primitive Reflexes to Emotional and Behavioral Problems in Autistic and Typically Developing Children",
-      "authors": [
-        "Marwa A. Alsaman",
-        "Reem H. M. Elghity"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-07",
-      "doi": "10.1007/s10803-026-07348-7",
-      "url": "https://doi.org/10.1007/s10803-026-07348-7",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07352-x",
-      "title": "Long-Term Stability of IQ Scores for Children With Neurodevelopmental Disabilities: Stable Global IQ But Unstable Index, Subtest, and Profile IQ Scores",
-      "authors": [
-        "Kevin G. Stephenson",
-        "Megan Norris",
-        "Soo Youn Kim",
-        "Nicholas C. C. Russell",
-        "Ann Levine",
-        "Caroline Murphy",
-        "Eric A. Youngstrom",
-        "Eric M. Butter"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-07",
-      "doi": "10.1007/s10803-026-07352-x",
-      "url": "https://doi.org/10.1007/s10803-026-07352-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose Intelligence testing is an important tool for clinicians to help in diagnosis and treatment planning for children with neurodevelopmental disabilities. Although interpreting IQ profiles is a common clinical practice, there are concerns regarding the validity and reliability of such scores. Previous research has shown relatively stable global measures of IQ, but less stable scores within index or subtest score. More research is needed to better understand the long-term stability of IQ scores within autistic and other neurodevelopmental populations who may have more instability in their scores over time. Methods We tested the long-term stability of IQ scores using the same test over time (Stanford-Binet, Fifth Edition; SB-5) in a large clinical sample of 650 youth with autism ( n = 236) or other neurodevelopmental disabilities ( n = 414), over a period of 4 months to 11 years. In addition to IQ scores, we also tested consistency of scatter scores, overall profiles, and strengths and weaknesses using linear mixed effects models. Results Results indicated overall consistency of FSIQ scores (ICC = 0.86), slightly less stability for VIQ and NVIQ, and low stability for ab…"
-    },
-    {
-      "id": "10.1177/10870547261445680",
-      "title": "Inattention in Pediatric Attention-Deficit/Hyperactivity Disorder and Anxiety: Neurophysiological Evidence for Distinct and Overlapping Cognitive Mechanisms",
-      "authors": [
-        "Marija Pranjić",
-        "Virginia Peisch",
-        "Yena Li",
-        "Mary Troxel",
-        "Kristine Lee",
-        "Anne B. Arnett"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-05-07",
-      "doi": "10.1177/10870547261445680",
-      "url": "https://doi.org/10.1177/10870547261445680",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Background: Although inattention characterizes both pediatric attention deficit hyperactivity disorder (ADHD) and anxiety disorders, it is unclear whether the underlying neurocognitive mechanisms are shared or distinct. We compared behavioral performance and event-related potentials (ERPs) indexing discrete stages of attention across children with ADHD-only, Anxiety-only, co-occurring ADHD+Anxiety, and typically developing (TD) peers. Methods: One hundred eleven children (7–11 years) completed three computerized attention tasks while high-density electroencephalography (EEG) was recorded. Behavioral indices (accuracy, reaction time, post-error slowing) and ERP/EEG markers of attentional engagement (aperiodic exponent), stimulus discrimination (N2), action selection (P3), performance monitoring (error-related negativity; ERN) and evaluation (error positivity; Pe) were analyzed. Results: Relative to TD children, all clinical groups showed reduced modulation of the pre-stimulus aperiodic exponent by cognitive load and attenuated N2 amplitudes across tasks, indicating shared alterations in dynamic arousal and stimulus discrimination. Distinct patterns between the ADHD and Anxiety group…"
     }
   ]
 }
