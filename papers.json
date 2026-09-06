@@ -1,8 +1,115 @@
 {
-  "generated_at": "2026-09-05T10:38:17Z",
+  "generated_at": "2026-09-06T10:59:48Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10870547261463814",
+      "title": "ADHD Individuals’ Positivity About Their Condition Varies by Their Levels of Hyperactivity/Impulsivity Versus Inattention Symptoms",
+      "authors": [
+        "Gili Katabi",
+        "Merav Huss",
+        "Steve Lukito",
+        "Tycho J. Dekkers",
+        "Edmund Sonuga-Barke",
+        "Nitzan Shahar"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/10870547261463814",
+      "url": "https://doi.org/10.1177/10870547261463814",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Objective: Positive attitudes toward one’s clinical condition may contribute to resilience and well-being. Although qualitative studies suggest that individuals with attention-deficit/hyperactivity disorder (ADHD) may perceive positive aspects of their condition, no quantitative measure has been available to assess these attitudes. This study aimed to develop a self-report measure of positive attitudes toward ADHD and examine their associations with ADHD symptom dimensions. Method: Across three independent adult samples, participants completed measures assessing ADHD symptom frequency and attitudes toward their own ADHD. Positive attitudes were assessed using the newly developed Positive Attitudes Toward ADHD Scale (PATAS), which demonstrated high test–retest reliability (r = .89). The samples included participants from two language groups and an international sample spanning 24 countries. Results: Greater frequency of hyperactive/impulsive symptoms was consistently associated with more positive attitudes toward ADHD across all three samples. Inattention symptoms showed a tendency toward a negative association with positive attitudes, although this pattern was not consistent across…"
+    },
+    {
+      "id": "10.1177/10870547261459712",
+      "title": "Symptoms of Anxiety in Adults with ADHD: A Systematic Review and Meta-Analysis of Case-Control Studies",
+      "authors": [
+        "Jessica I. Hoskins",
+        "Debbie Gooch",
+        "Katie A. Gilligan-Lee"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/10870547261459712",
+      "url": "https://doi.org/10.1177/10870547261459712",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "Objective: Research suggests there is a higher prevalence of anxiety in individuals with ADHD compared to those without ADHD. However, estimated prevalence rates vary greatly due to differences in methodologies used across studies. This study is the first meta-analysis investigating differences in anxiety measure scores between adults with and without ADHD, and possible moderators of this effect. Method: Our analysis included 58 studies that compared anxiety scores in adults with/without ADHD ( N = 18,821; k = 112). Results: The average effect size (Hedges’s g ) of anxiety scores in those with ADHD relative to controls was 0.77 ( SE = 0.066); a medium effect. The only significant moderator was the type of comparison group used, with comparisons to non-clinical control groups ( g = 0.954, SE = 0.08) yielding significantly larger effects than comparisons to clinical control groups ( g = 0.437, SE = 0.09). None of the other moderator variables examined (Method of characterising ADHD, Anxiety Measure Type, Anxiety Measure Focus, Age or Gender) moderated the effect. There was some evidence of publication bias, therefore results should be interpreted with this in mind. Conclusion: Overal…"
+    },
+    {
+      "id": "10.1177/10870547261455946",
+      "title": "A Systematic Review of Lived Experiences of Receiving a Diagnosis of ADHD in Adulthood",
+      "authors": [
+        "Lucy McGill",
+        "Isabella Jardim-Lalor",
+        "Cliodhna O’Connor"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/10870547261455946",
+      "url": "https://doi.org/10.1177/10870547261455946",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "disclosure",
+        "service improvement"
+      ],
+      "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
+    },
+    {
+      "id": "10.1007/s10803-026-07515-w",
+      "title": "Implementing a Co-produced Curriculum for Neurodivergent Individuals in the Workplace",
+      "authors": [
+        "Rachel A. VanDaalen",
+        "Yu Jie Emily Hsiao",
+        "Jiayuan Lyrid Zhao",
+        "Hannah Karsting",
+        "Seungmin Mina Woo",
+        "Cai Zhen",
+        "Mark McGovern",
+        "Lawrence K. Fung"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-06",
+      "doi": "10.1007/s10803-026-07515-w",
+      "url": "https://doi.org/10.1007/s10803-026-07515-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "tags": [
+        "participatory"
+      ]
+    },
     {
       "id": "10.1177/10870547261478344",
       "title": "Comprehensive Treatment and Monthly 2 Year Follow-Up in Children With ADHD: Randomized Controlled Prospective Study",
@@ -2715,25 +2822,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/1034912x.2026.2667966",
-      "title": "Awareness Level of Teachers of Students with Autism Spectrum Disorder of the Video Modelling Strategy in Saudi Arabia",
-      "authors": [
-        "Reda Ebrahim Mohamed Elashram"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/1034912x.2026.2667966",
-      "url": "https://doi.org/10.1080/1034912x.2026.2667966",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1080/20473869.2026.2718189",
@@ -7084,35 +7172,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/10870547261463814",
-      "title": "ADHD Individuals’ Positivity About Their Condition Varies by Their Levels of Hyperactivity/Impulsivity Versus Inattention Symptoms",
-      "authors": [
-        "Gili Katabi",
-        "Merav Huss",
-        "Steve Lukito",
-        "Tycho J. Dekkers",
-        "Edmund Sonuga-Barke",
-        "Nitzan Shahar"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-07",
-      "doi": "10.1177/10870547261463814",
-      "url": "https://doi.org/10.1177/10870547261463814",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Objective: Positive attitudes toward one’s clinical condition may contribute to resilience and well-being. Although qualitative studies suggest that individuals with attention-deficit/hyperactivity disorder (ADHD) may perceive positive aspects of their condition, no quantitative measure has been available to assess these attitudes. This study aimed to develop a self-report measure of positive attitudes toward ADHD and examine their associations with ADHD symptom dimensions. Method: Across three independent adult samples, participants completed measures assessing ADHD symptom frequency and attitudes toward their own ADHD. Positive attitudes were assessed using the newly developed Positive Attitudes Toward ADHD Scale (PATAS), which demonstrated high test–retest reliability (r = .89). The samples included participants from two language groups and an international sample spanning 24 countries. Results: Greater frequency of hyperactive/impulsive symptoms was consistently associated with more positive attitudes toward ADHD across all three samples. Inattention symptoms showed a tendency toward a negative association with positive attitudes, although this pattern was not consistent across…"
-    },
-    {
       "id": "10.1007/s10803-026-07396-z",
       "title": "The Effect of Participation in the Let’s Play Program on Autistic Children’s Engagement and Caregiver Well-Being: A Randomized Controlled Trial",
       "authors": [
@@ -7258,28 +7317,6 @@
         "sensory"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10870547261459712",
-      "title": "Symptoms of Anxiety in Adults with ADHD: A Systematic Review and Meta-Analysis of Case-Control Studies",
-      "authors": [
-        "Jessica I. Hoskins",
-        "Debbie Gooch",
-        "Katie A. Gilligan-Lee"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-04",
-      "doi": "10.1177/10870547261459712",
-      "url": "https://doi.org/10.1177/10870547261459712",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Objective: Research suggests there is a higher prevalence of anxiety in individuals with ADHD compared to those without ADHD. However, estimated prevalence rates vary greatly due to differences in methodologies used across studies. This study is the first meta-analysis investigating differences in anxiety measure scores between adults with and without ADHD, and possible moderators of this effect. Method: Our analysis included 58 studies that compared anxiety scores in adults with/without ADHD ( N = 18,821; k = 112). Results: The average effect size (Hedges’s g ) of anxiety scores in those with ADHD relative to controls was 0.77 ( SE = 0.066); a medium effect. The only significant moderator was the type of comparison group used, with comparisons to non-clinical control groups ( g = 0.954, SE = 0.08) yielding significantly larger effects than comparisons to clinical control groups ( g = 0.437, SE = 0.09). None of the other moderator variables examined (Method of characterising ADHD, Anxiety Measure Type, Anxiety Measure Focus, Age or Gender) moderated the effect. There was some evidence of publication bias, therefore results should be interpreted with this in mind. Conclusion: Overal…"
     },
     {
       "id": "10.1007/s10803-026-07415-z",
@@ -10166,29 +10203,6 @@
       "abstract": "Families face long waits for their child to undergo a diagnostic assessment for possible autism. This study explored the experiences of parents and children/young people (CYP) accessing and professionals providing autism diagnostic assessments in the United Kingdom. This realist evaluation was conducted in three phases: (1) interviews and focus groups with parents, CYP and professionals from six U.K. National Health Service (NHS) childhood autism assessment and diagnosis services; (2) resulting qualitative data were analysed, and programme theories (PTs) explaining how, why and in what contexts childhood autism assessment and diagnosis pathways work well were tested and refined; and (3) recommendations for change were developed by the research team and presented to delegates at six dissemination events including 250 clinicians, managers, parents/carers, commissioners and academics involved in autism assessment and diagnosis. Delegates were invited to select and rank the most important recommendations. There were 121 participants in Phase 1 (18 CYP, 34 parents, 69 professionals). In Phase 2, both families and clinicians confirmed challenges in the assessment and diagnostic process,…"
     },
     {
-      "id": "10.1177/13623613261446876",
-      "title": "Extending the Minority Stress Model of Autism: Internalized Stigma and Loneliness as Predictors of Stress and Life Satisfaction",
-      "authors": [
-        "Alvin van Asselt",
-        "Yvette Roke",
-        "Sander Begeer",
-        "Anke M Scheeren"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261446876",
-      "url": "https://doi.org/10.1177/13623613261446876",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Autistic people’s minority status makes them more vulnerable to minority stressors, such as stigmatization and victimization, which are linked to greater stress and lower life satisfaction. The Psychological Mediation Framework (PMF) proposes that cognitive, affective, and social-psychological processes help explain the relationships between these stressors and adverse outcomes. This cross-sectional study tested the PMF in autistic adults by examining how two of its key processes, internalized stigma and loneliness, are associated with stress and life satisfaction. Using self-report survey data from 831 autistic participants enrolled in the Netherlands Autism Register (NAR), aged 18–87 years ( M age = 47.5; SD = 12.5; 408 women, 309 men, and 114 gender-diverse individuals), multiple regression analyses showed that internalized autism-related stigma, emotional loneliness, and social loneliness were each positively associated with stress and negatively associated with life satisfaction. Mediation analyses indicated that both types of loneliness partially mediated the relationship between internalized autism-related stigma and these outcomes. Supporting the PMF, the findings suggest t…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -10435,34 +10449,6 @@
         "lived experience"
       ],
       "abstract": "Introduction: ADHD is typically characterised by inattention, impulsivity, and hyperactivity, often persisting into adulthood and influencing occupational performance, social interactions, and mental well-being. This scoping review and narrative synthesis aims to address a critical knowledge gap by systematically mapping the existing research on ADHD in military contexts with regard to psychosocial and occupational outcomes. As such, the aims of this study were (a) to aggregate findings regarding ADHD and psychosocial and occupational outcomes of military personnel and (b) to critically review and provide an account of the methodological quality of these studies. Methods: A systematic search across four electronic databases (PubMed, PsycINFO, Embase and CINAHL) detected and retrieved 1,956 studies. After removal of duplicates, 1,263 titles and abstracts were screened. Following this, 106 articles progressed to full text review, and a total of 51 studies were included in the current scoping review and narrative synthesis. Results: The review indicated that ADHD is strongly associated with comorbid conditions such as post-traumatic stress disorder (PTSD), depression, and substance us…"
-    },
-    {
-      "id": "10.1177/10870547261455946",
-      "title": "A Systematic Review of Lived Experiences of Receiving a Diagnosis of ADHD in Adulthood",
-      "authors": [
-        "Lucy McGill",
-        "Isabella Jardim-Lalor",
-        "Cliodhna O’Connor"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-05-30",
-      "doi": "10.1177/10870547261455946",
-      "url": "https://doi.org/10.1177/10870547261455946",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "disclosure",
-        "service improvement"
-      ],
-      "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
       "id": "10.1007/s10803-026-07379-0",
@@ -11618,96 +11604,6 @@
         "lived experience"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07315-2",
-      "title": "Cognitive Empathy, Affective Empathy and Empirical Research on the Double Empathy Problem: A Critical Methodology Review",
-      "authors": [
-        "Sam Fellowes"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-08",
-      "doi": "10.1007/s10803-026-07315-2",
-      "url": "https://doi.org/10.1007/s10803-026-07315-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "abstract": "Abstract Purpose The double empathy problem posits that autistic people and non-autistic people both lack empathy with the other side rather than the lack of empathy solely residing in one side. There have been empirical studies which lend support for the double empathy problem. I show that these studies are largely not engaging with cognitive nor affective empathy. Methods Twenty different papers are assessed on measurement made, set-up of the interaction employed and duration of the interaction to establish whether the evidence those studies generate is applicable to cognitive and affective empathy. Results Firstly the experimental measures in these studies are largely not making measurements that would detect cognitive or affective empathy. Secondly, many use setups which do not encourage or are not conducive towards cognitive or affective empathy occurring. Thirdly, many involve a short period of interaction for cognitive or affective empathy to occur. Conclusion These studies are largely not generating data about whether the double empathy problem is applicable to cognitive or affective empathy. Which aspects of empathy the evidence supporting the double empathy problem is rel…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/1034912x.2026.2667971",
-      "title": "“Unwritten Rules are Everywhere”: Autistic Adults’ Social Experiences in the Transition to Adulthood",
-      "authors": [
-        "Samara M. Wolpe",
-        "Ingrid S. Tien"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2026,
-      "published_date": "2026-05-08",
-      "doi": "10.1080/1034912x.2026.2667971",
-      "url": "https://doi.org/10.1080/1034912x.2026.2667971",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/1034912x.2026.2666512",
-      "title": "Not Looking Away: Using “Gaze Fingerprints” from Virtual Reality Environments to Understand Visual Behavior towards Social Threats of Students with Autism Spectrum Disorder on College Campus",
-      "authors": [
-        "Cedomir Stanojevic",
-        "Casey Bennett",
-        "Swetha Manupati",
-        "Yuan Shuai",
-        "Sai Moothkuri",
-        "Nikki Abbott",
-        "Fu Li",
-        "Andrew Murphy",
-        "Farwah Zaidi"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2026,
-      "published_date": "2026-05-08",
-      "doi": "10.1080/1034912x.2026.2666512",
-      "url": "https://doi.org/10.1080/1034912x.2026.2666512",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1186/s11689-026-09704-1",
-      "title": "Emotion regulation and self-inhibition’s association with mental health outcomes, caregiver strain, and well-being in parents of autistic children: a dyadic analysis",
-      "authors": [
-        "Leonardo Dominguez Ortega",
-        "Alexandra Sturm",
-        "Meghan M. Krushena",
-        "Amanda C. Gulsrud"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-08",
-      "doi": "10.1186/s11689-026-09704-1",
-      "url": "https://doi.org/10.1186/s11689-026-09704-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Background Parents of autistic children report more depression, anxiety, and caregiver strain, and poorer well-being than parents of non-autistic children. Though more research has begun to investigate how parent-specific factors may influence these outcomes, few consider cognitive factors like emotion regulation or self-inhibition. These skills may be particularly relevant given their documented benefits and associations with mental health and well-being in the general population. An important consideration when investigating the needs of parents is the interconnectedness of the family unit. Thus, methodologies that consider this shared context are essential to appropriately support resilience of parents of autistic children. Methods Our sample consisted of 263 different-sex parent dyads with at least one child formally diagnosed with autism spectrum disorder. Using the Actor-Partner Interdependence Model, we assessed the links between parents’ emotion regulation and self-inhibition and their own and their partner’s depression and anxiety symptoms, caregiver strain, and well-being. Interdependence was established using correlations given the distinguishable nature of our…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
