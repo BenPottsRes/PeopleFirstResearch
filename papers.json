@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:59:48Z",
+  "generated_at": "2026-09-07T12:36:55Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,88 @@
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
+      "id": "10.1108/aia-04-2026-0041",
+      "title": "Media representations of young athletes with autism spectrum disorder: framing, inclusion and stakeholder perceptions",
+      "authors": [
+        "Marija Gombar",
+        "Mirjana Pejić Bach"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-08",
+      "doi": "10.1108/aia-04-2026-0041",
+      "url": "https://doi.org/10.1108/aia-04-2026-0041",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to examine how young athletes with autism spectrum disorder (ASD) are represented in media discourse and how parents and coaches perceive these portrayals, with particular attention to framing, inclusion and stereotyping. Design/methodology/approach A mixed-methods design was used, combining a content analysis of 63 media articles on young athletes with ASD with a survey of 442 adult respondents, including 284 parents and 158 coaches. The content analysis examined dominant narrative frames, emotional intensity and narrative complexity, while the survey assessed perceptions of emotional-inspirational framing, realism, inclusion and stereotyping. Findings Media portrayals of young athletes with ASD were more often framed through emotional and inspirational narratives than through performance-oriented and cognitively complex narratives. Higher emotional intensity was associated with lower narrative complexity, and international media were more likely than national media to use inspirational framing. Parents and coaches likewise perceived these portrayals as predominantly emotional and inspirational rather than realistic and performance-oriented. At the same tim…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1108/aia-04-2026-0042",
+      "title": "Challenges in the diagnosis of autism spectrum disorder among Latin American migrant communities in the Netherlands: a qualitative study",
+      "authors": [
+        "Melissa Stefania Cruz Puerto",
+        "María Sandín Vázquez"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-08",
+      "doi": "10.1108/aia-04-2026-0042",
+      "url": "https://doi.org/10.1108/aia-04-2026-0042",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to examine how intervening social factors influence autism spectrum disorder (ASD) diagnosis in Latin American migrant families living in the Netherlands. Focusing on social support, language proficiency and perceptions of discrimination in health care, the authors adopted a socioecological perspective. Design/methodology/approach Using a narrative design guided by content analysis, the authors conducted 13 semistructured qualitative interviews with parents representing several Latin American countries. Findings The findings reveal that these families face considerable challenges accessing diagnostic assessment services for their children, primarily due to language barriers, nationality differences and cultural disparities. These barriers lead to misdiagnosis, delays in care, scrutiny, provider transitions and feelings of abandonment, in line with previous research. Importantly, migration itself is not an inherent risk factor for ASD. Research limitations/implications This qualitative study provides in-depth understanding of parental experiences but is limited in its transferability due to its sample size (13 interviews) and context-specific recruitment. As…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s40489-026-00583-9",
+      "title": "Teaching Safety Skills for Emergency Situations to Autistic Individuals: A Rapid Literature Review",
+      "authors": [
+        "Jenny Ferguson",
+        "Angeliki Louloumari",
+        "Dionysios Serras",
+        "Eleni Drakopoulou",
+        "Lina Trebienė",
+        "Tavishi Rekhi",
+        "Rositsa Hristova",
+        "Nikolaos Papastamatiou",
+        "Brian E. McGuire",
+        "Ciara Gunning",
+        "Aoife McTiernan",
+        "Helena Lydon"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-07",
+      "doi": "10.1007/s40489-026-00583-9",
+      "url": "https://doi.org/10.1007/s40489-026-00583-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Emergency care"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Emergency situations are unexpected events that pose a threat of serious and immediate risk to safety. Difficulties in social communication and restricted behaviour mean that some autistic individuals may be vulnerable to harm during these events. However, skills can be taught to minimise this risk and increase the likelihood that autistic people can respond safely to such situations. This rapid review identified empirical studies teaching emergency related safety skills to autistic children and adults. Studies were assessed for quality against the What Works Clearinghouse standards. Forty studies were identified, with 143 autistic individuals (mean age 9.3 years, range 3–25 years) across 10 scenarios. A wide range of teaching methodologies were used, e.g., Behaviour Skills Training. Interventions that taught skills in the actual environment (in-situ) were most effective. Overall, the findings indicate positive outcomes in acquisition, generalisation and maintenance of skills. However, over half of the studies did not meet minimum quality standards, gaps remain in the range of scenarios addressed, and there is a notable scarcity of studies focused on skills acquisition for…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07515-w",
       "title": "Implementing a Co-produced Curriculum for Neurodivergent Individuals in the Workplace",
       "authors": [
@@ -109,6 +191,60 @@
       "tags": [
         "participatory"
       ]
+    },
+    {
+      "id": "10.1177/13623613261476742",
+      "title": "Emerging Personality Pathology in Adolescents With Autism Spectrum Disorder: Clinical Correlates and Assessment Implications",
+      "authors": [
+        "Giacomo Distefano",
+        "Stefano Berloffa",
+        "Gianluca Sesso",
+        "Elena Valente",
+        "Antonio Narzisi",
+        "Guido Sorella",
+        "Chiara D’Ambrosio",
+        "Gabriele Masi",
+        "Annarita Milone"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-06",
+      "doi": "10.1177/13623613261476742",
+      "url": "https://doi.org/10.1177/13623613261476742",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "The link between neurodevelopmental and psychiatric conditions is increasingly recognized in developmental psychiatry, yet the relationship between Autism Spectrum Disorder (ASD) and Personality Disorders (PDs) remains underexplored in adolescence. Dysfunctional personality traits (DPT) may emerge in individuals with ASD, especially when diagnosis is delayed and comorbidities occur. This study assessed 79 adolescents (mean age = 15.15 ± 1.50; 45.6% females) with ASD without intellectual disability using a multimodal protocol (Autism Diagnostic Observation Schedule–Second Edition [ADOS-2], Autism Diagnostic Interview-Revised [ADI-R], Wechsler Intelligence Scale for Children–Fourth Edition [WISC-IV]/Wechsler Adult Intelligence Scale–Fourth Edition [WAIS-IV], Structured Clinical Interview for DSM-5 Personality Disorders [SCID-5-PD], Kiddie Schedule for Affective Disorders and Schizophrenia–Present and Lifetime Version [K-SADS-PL], standardized questionnaires). Analyses examined associations between DPT, psychiatric comorbidities, clinical severity, and functioning. DPTs were identified in 64.5% of participants, more frequently in females (75.0%) than males (48.9%). A prior ASD diagnos…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1080/20473869.2026.2724019",
+      "title": "Sociodemographic, developmental, functional and medical profiles of autistic and non-autistic adults with intellectual disability attending a specialized clinic in Türkiye",
+      "authors": [
+        "Aynur Görmez",
+        "Rümeysa Yeni Elbay",
+        "Fatma Büşra Parlakkaya Yıldız",
+        "Berra Öztürk",
+        "Ertuğrul Saral"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-06",
+      "doi": "10.1080/20473869.2026.2724019",
+      "url": "https://doi.org/10.1080/20473869.2026.2724019",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10870547261478344",
@@ -266,26 +402,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -310,6 +426,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -7727,35 +7863,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261433100",
-      "title": "Barriers to Mental Healthcare for Autistic and Non-Autistic Adults: An Investigation of Number, Severity and Type of Barriers Encountered",
-      "authors": [
-        "Robyn C Ball",
-        "Amanda L Richdale",
-        "Lauren P Lawson",
-        "Eric MJ Morris"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261433100",
-      "url": "https://doi.org/10.1177/13623613261433100",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Many autistic people experience poor mental health but often face barriers to accessing appropriate care. This study examined whether autistic adults encounter more or different barriers to mental healthcare compared to non-autistic adults. Participants (non-autistic n = 173; diagnosed autistic n = 173; self-identified autistic n = 158) completed an online survey assessing 29 barriers adapted from the Barriers to Healthcare Checklist, rated by presence and severity. Barriers were categorised as person, provider or system related. Analyses of variance compared groups on the mean number and severity of barriers, and chi-square tests compared group incidence of each barrier. Overall, systemic barriers (e.g. cost) and difficulties with system navigation (e.g. finding services) were the most commonly reported barriers and rated as the most severe. Autistic participants experienced a significantly higher number and severity of barriers than non-autistic participants. Provider-related barriers (practitioners’ knowledge, attitudes and skills) were particularly severe for autistic groups. In contrast, person-level barriers (e.g. sensory sensitivities), though often reported in general healt…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70263",
       "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
       "authors": [
@@ -11512,98 +11619,6 @@
         "ADHD"
       ],
       "abstract": "Objective: To examine the effect of attention-deficit hyperactivity disorder (ADHD) on sex differences in the hazard risk of a physical disease (PD) in childhood and adolescence, per ICD-10 criteria. Method: The Danish population born from 1984 to 1995, comprising over 800,000 individuals, was studied for the 13 different ICD-10 PD categories with ADHD as a time-dependent exposure in time-to-event settings. Time from birth to first episode PD, emigration, death, or 31st December 2017, whichever occurred first, was analyzed by use of piecewise Cox models. Results: Individuals with an ADHD diagnosis had higher or similar hazard risk than undiagnosed individuals throughout follow-up. Across all PD categories, baring malignant neoplasms, ADHD-diagnosed individuals had a higher hazard risk from teen age. In the general population, females had higher hazard risk of most PDs from teen age or early adolescence, while males had higher hazard risk in early childhood. Dispersed modification occurred in the hazard difference between sex post-ADHD diagnosis. For eye and adnexa diseases in childhood, males had about a 15% added hazard that of females in the general population, while females had…"
-    },
-    {
-      "id": "10.1007/s10803-026-07343-y",
-      "title": "Examining the Lived Experiences of Older Autistic Adults: A Synthesis Review of Qualitative Literature",
-      "authors": [
-        "David B. Nicholas",
-        "Hilary Nelson",
-        "Fakhri Shafai",
-        "Stephen M. Edelson",
-        "Vanessa Bal",
-        "Wenn Lawson",
-        "Margaret Bauman",
-        "Robert Hendren",
-        "Julian N. Trollor"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-09",
-      "doi": "10.1007/s10803-026-07343-y",
-      "url": "https://doi.org/10.1007/s10803-026-07343-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07350-z",
-      "title": "The Protective Role of Trait Mindfulness Against Affiliate Stigma among Parents of Children With Neurodevelopmental Disorders: A Serial Mediation of Perceived Problem Behaviors and Parenting Stress",
-      "authors": [
-        "Ziwei Chen",
-        "Ying Zhao",
-        "Zhanhong Xiao",
-        "Yongning Song"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-09",
-      "doi": "10.1007/s10803-026-07350-z",
-      "url": "https://doi.org/10.1007/s10803-026-07350-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
-      "id": "10.1007/s40489-026-00561-1",
-      "title": "Autism Training Programs for Providers Supporting Autistic Adults: A Scoping Review",
-      "authors": [
-        "Hannah Karsting",
-        "Cai Zhen",
-        "David James",
-        "Lawrence K. Fung"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-09",
-      "doi": "10.1007/s40489-026-00561-1",
-      "url": "https://doi.org/10.1007/s40489-026-00561-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00560-2",
-      "title": "Care Burden in Caregivers of Children with Autism Spectrum Disorder Based on Zarit Burden Interview (ZBI) Questionnaire: A Systematic Review and Meta-analysis",
-      "authors": [
-        "Nader Salari",
-        "Reza Abdollahi",
-        "Reza Nematollahi Maleki",
-        "Amir Abdolmaleki",
-        "Shabnam Rasoulpoor",
-        "Mahan Beiromvand",
-        "Masoud Mohammadi"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-09",
-      "doi": "10.1007/s40489-026-00560-2",
-      "url": "https://doi.org/10.1007/s40489-026-00560-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
