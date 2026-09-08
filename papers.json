@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:36:55Z",
+  "generated_at": "2026-09-08T11:21:45Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -128,6 +128,63 @@
       ],
       "abstract": "Purpose This study aims to examine how intervening social factors influence autism spectrum disorder (ASD) diagnosis in Latin American migrant families living in the Netherlands. Focusing on social support, language proficiency and perceptions of discrimination in health care, the authors adopted a socioecological perspective. Design/methodology/approach Using a narrative design guided by content analysis, the authors conducted 13 semistructured qualitative interviews with parents representing several Latin American countries. Findings The findings reveal that these families face considerable challenges accessing diagnostic assessment services for their children, primarily due to language barriers, nationality differences and cultural disparities. These barriers lead to misdiagnosis, delays in care, scrutiny, provider transitions and feelings of abandonment, in line with previous research. Importantly, migration itself is not an inherent risk factor for ASD. Research limitations/implications This qualitative study provides in-depth understanding of parental experiences but is limited in its transferability due to its sample size (13 interviews) and context-specific recruitment. As…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07505-y",
+      "title": "Multidimensional Correlates of Mental Health and Quality of Life in Chinese Caregivers of Preschool-Aged Autistic Children",
+      "authors": [
+        "Fang Wang",
+        "E. Zou",
+        "Peipei Yin",
+        "Fengjing Liang",
+        "Yu Xing",
+        "Yipei Xing",
+        "Yu Wang",
+        "Xiaobing Zou",
+        "Chaoqun Cen"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-07",
+      "doi": "10.1007/s10803-026-07505-y",
+      "url": "https://doi.org/10.1007/s10803-026-07505-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261480736",
+      "title": "A Pilot Evaluation of a Web-Based Intervention Aiming to Improve Employer Confidence in Hiring Autistic People",
+      "authors": [
+        "Marianne Day",
+        "Chantelle Wood",
+        "Elizabeth Corker",
+        "Nick Pearson",
+        "Kelly Scargill",
+        "Megan Freeth"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-07",
+      "doi": "10.1177/13623613261480736",
+      "url": "https://doi.org/10.1177/13623613261480736",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Autistic people are underrepresented in the workforce. Reasons for this include insufficient employer knowledge about autism and poor suitability of employment environments and practices. This pre-registered single-arm pre-post pilot trial aimed to assess the acceptability and usability of a set of co-developed web-based resources aimed at employers, the Autism Work Access Resource for Employers (AWARE) toolkit. We designed the resources to improve employer confidence and knowledge in relation to employing Autistic people and to give them a set of practical materials to enhance the inclusivity of their hiring processes. We asked 20 employers who were currently responsible for managing recruitment activities/processes in their organisations to engage with the AWARE toolkit for 1-hr over a 2-week period. Results indicated that employers found the toolkit to be highly acceptable, and rated usability as ‘excellent’. Preliminary indicators of efficacy showed that employers experienced less worry about hiring Autistic people and gained greater knowledge of workplace adjustments by using the toolkit. This study demonstrates the promise of quick-reference resources as part of the solution…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00583-9",
@@ -10271,43 +10328,6 @@
       ],
       "abstract": "Autistic burnout is typically defined as chronic exhaustion with functional impacts on everyday life. It appears common across work, study, and relationships, yet its emotional and relational dimensions remain underexamined. To document lived experiences of autistic burnout among autistic adults and to identify emotional and relational processes (e.g. shame and masking) that may shape onset, maintenance, and recovery. Eleven autistic adults participated in semi-structured interviews or written responses conducted online between July 2023 and November 2024. Data were analysed using template analysis, combining a priori codes from prior research with inductive coding. Participants described profound exhaustion, sensory overload, and executive dysfunction that disrupted daily life. A prominent emergent theme was shame, which shaped interpretations of functional limits, masking efforts, and help-seeking. Many reported dual-masking, concealing both autistic traits and signs of burnout, which intensified strain, delayed recognition, and undermined recovery. Withdrawal and “gentle re-engagement” through low-demand, people-adjacent activities were described as recovery strategies. Autistic…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261430914",
-      "title": "How can we improve the timeliness and quality of diagnostic assessment for children with possible autism? Qualitative findings and recommendations from a Realist Evaluation of Autism Service delivery in the United Kingdom",
-      "authors": [
-        "Ian Male",
-        "William Farr",
-        "Sophie McGrevey",
-        "Vanessa Abrahamson",
-        "Sarah Wigham",
-        "Venkat Reddy",
-        "Amanda Allard",
-        "Victoria Grahame",
-        "Jessica Maxwell",
-        "Grainne Saunders",
-        "Anna Walker",
-        "Nic King",
-        "Seema Islam",
-        "Zamir Akhtar",
-        "Jeremy Parr",
-        "Patricia Wilson"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261430914",
-      "url": "https://doi.org/10.1177/13623613261430914",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Families face long waits for their child to undergo a diagnostic assessment for possible autism. This study explored the experiences of parents and children/young people (CYP) accessing and professionals providing autism diagnostic assessments in the United Kingdom. This realist evaluation was conducted in three phases: (1) interviews and focus groups with parents, CYP and professionals from six U.K. National Health Service (NHS) childhood autism assessment and diagnosis services; (2) resulting qualitative data were analysed, and programme theories (PTs) explaining how, why and in what contexts childhood autism assessment and diagnosis pathways work well were tested and refined; and (3) recommendations for change were developed by the research team and presented to delegates at six dissemination events including 250 clinicians, managers, parents/carers, commissioners and academics involved in autism assessment and diagnosis. Delegates were invited to select and rank the most important recommendations. There were 121 participants in Phase 1 (18 CYP, 34 parents, 69 professionals). In Phase 2, both families and clinicians confirmed challenges in the assessment and diagnostic process,…"
     },
     {
       "id": "10.1007/s40489-026-00559-9",
