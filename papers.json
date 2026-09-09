@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:21:45Z",
+  "generated_at": "2026-09-09T11:26:06Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,29 @@
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
+      "id": "10.1007/s10803-026-07499-7",
+      "title": "Deconstructing the Diet-Language Myth in Autism: A Divergent V-Type Model",
+      "authors": [
+        "Burcu Uslu",
+        "İrem Aslan",
+        "Fatma Aleyna Çevik"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-09",
+      "doi": "10.1007/s10803-026-07499-7",
+      "url": "https://doi.org/10.1007/s10803-026-07499-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
+    },
+    {
       "id": "10.1108/aia-04-2026-0041",
       "title": "Media representations of young athletes with autism spectrum disorder: framing, inclusion and stakeholder perceptions",
       "authors": [
@@ -128,6 +151,34 @@
       ],
       "abstract": "Purpose This study aims to examine how intervening social factors influence autism spectrum disorder (ASD) diagnosis in Latin American migrant families living in the Netherlands. Focusing on social support, language proficiency and perceptions of discrimination in health care, the authors adopted a socioecological perspective. Design/methodology/approach Using a narrative design guided by content analysis, the authors conducted 13 semistructured qualitative interviews with parents representing several Latin American countries. Findings The findings reveal that these families face considerable challenges accessing diagnostic assessment services for their children, primarily due to language barriers, nationality differences and cultural disparities. These barriers lead to misdiagnosis, delays in care, scrutiny, provider transitions and feelings of abandonment, in line with previous research. Importantly, migration itself is not an inherent risk factor for ASD. Research limitations/implications This qualitative study provides in-depth understanding of parental experiences but is limited in its transferability due to its sample size (13 interviews) and context-specific recruitment. As…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10870547261483457",
+      "title": "Electroencephalographic Signatures of Methylphenidate in ADHD: A Systematic Review and 10 Recommendations for Future Research",
+      "authors": [
+        "Declan M. Quinn",
+        "Clodagh Earley",
+        "Iulia-Mara Scarlat",
+        "Robert Whelan",
+        "Jane McGrath"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-09-08",
+      "doi": "10.1177/10870547261483457",
+      "url": "https://doi.org/10.1177/10870547261483457",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "sensory"
+      ],
+      "abstract": "Objective: Methylphenidate is the first-line treatment for ADHD, yet its neurocognitive mechanisms remain incompletely understood. Electroencephalography (EEG) has been used to examine methylphenidate’s effects on brain function and has been proposed as a potential tool for monitoring treatment response. This systematic review addressed whether EEG can (a) clarify methylphenidate’s neurocognitive mechanisms and (b) serve as a biomarker of treatment response. Methods: A PRISMA-compliant systematic review (PROSPERO: CRD42024538039) searched six databases for English-language studies published after 1994. Included studies involved individuals with ADHD, used within-subject designs with acute methylphenidate administration, and collected resting-state or task-based EEG. Assessment of study quality and risk of bias assessment was conducted. Results: Forty-four studies were included. The most consistent finding was an increase in P3 amplitude following methylphenidate administration, observed in eleven of twenty P3 studies. In contrast, there was little evidence to support effects on early sensory processing, movement planning or response monitoring event-related potentials. Findings fro…"
     },
     {
       "id": "10.1007/s10803-026-07505-y",
@@ -459,6 +510,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -483,26 +554,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -3017,24 +3068,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -3054,6 +3087,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -10302,34 +10353,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261444797",
-      "title": "Beyond Exhaustion: Shame, Identity Disruption, and Functional Collapse in Autistic Burnout",
-      "authors": [
-        "Megan M. Clarey",
-        "Michael J. Ireland",
-        "Susan Abel",
-        "Charlotte Brownlow"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1177/13623613261444797",
-      "url": "https://doi.org/10.1177/13623613261444797",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Autistic burnout is typically defined as chronic exhaustion with functional impacts on everyday life. It appears common across work, study, and relationships, yet its emotional and relational dimensions remain underexamined. To document lived experiences of autistic burnout among autistic adults and to identify emotional and relational processes (e.g. shame and masking) that may shape onset, maintenance, and recovery. Eleven autistic adults participated in semi-structured interviews or written responses conducted online between July 2023 and November 2024. Data were analysed using template analysis, combining a priori codes from prior research with inductive coding. Participants described profound exhaustion, sensory overload, and executive dysfunction that disrupted daily life. A prominent emergent theme was shame, which shaped interpretations of functional limits, masking efforts, and help-seeking. Many reported dual-masking, concealing both autistic traits and signs of burnout, which intensified strain, delayed recognition, and undermined recovery. Withdrawal and “gentle re-engagement” through low-demand, people-adjacent activities were described as recovery strategies. Autistic…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s40489-026-00559-9",
       "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
       "authors": [
@@ -11575,70 +11598,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/25739581261448524",
-      "title": "Presence Without Belonging: A Conceptual Analysis of Loneliness in Autism",
-      "authors": [
-        "Hari Srinivasan"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-05-11",
-      "doi": "10.1177/25739581261448524",
-      "url": "https://doi.org/10.1177/25739581261448524",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life",
-        "Sensory environment",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Loneliness is widely reported among autistic adults and is associated with adverse mental health outcomes. However, loneliness in autism is often framed as a consequence of social isolation, reduced social motivation, or individual social difficulty. This article argues that these framings—while consistent with general loneliness models—overlook a central feature of autistic loneliness: it frequently occurs amid ongoing social participation. Drawing on belonging theory, neurodiversity scholarship, epistemic justice, minority stress, and broader loneliness frameworks, this conceptual analysis introduces the Presence Without Belonging (PWB) framework. PWB distinguishes social presence from belonging and identifies three conditions required for belonging: recognition (being understood and taken seriously as a social subject), access (participation without extraordinary communicative, sensory, or temporal effort), and sustainability (participation that can be maintained over time without disproportionate cumulative cost). When one or more conditions are absent, participation may persist without belonging, producing loneliness despite contact. By reframing loneliness as a relational and…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00565-x",
-      "title": "OPEN (Obstetrics, Placenta, Epigenetic and Neurodevelopment) Autism – A Concept to Explore Neurobiology",
-      "authors": [
-        "Sowmyashree Mayur Kaku",
-        "Aruna Korlimarla",
-        "Gayatri Ravikumar",
-        "Ashok Mysore",
-        "Naveen Kumar Chandappa Gowda"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-11",
-      "doi": "10.1007/s40489-026-00565-x",
-      "url": "https://doi.org/10.1007/s40489-026-00565-x",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1177/10870547261448260",
-      "title": "Sex Differences in the Association Between Attention-Deficit Hyperactivity Disorder and Physical Diseases in Childhood and Adolescence Using Nationwide Birth Cohorts",
-      "authors": [
-        "Martin Dalgaard Villumsen",
-        "Niels Bilenberg",
-        "Hans-Christoph Steinhausen"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-05-11",
-      "doi": "10.1177/10870547261448260",
-      "url": "https://doi.org/10.1177/10870547261448260",
-      "neurotype": [
-        "ADHD"
-      ],
-      "abstract": "Objective: To examine the effect of attention-deficit hyperactivity disorder (ADHD) on sex differences in the hazard risk of a physical disease (PD) in childhood and adolescence, per ICD-10 criteria. Method: The Danish population born from 1984 to 1995, comprising over 800,000 individuals, was studied for the 13 different ICD-10 PD categories with ADHD as a time-dependent exposure in time-to-event settings. Time from birth to first episode PD, emigration, death, or 31st December 2017, whichever occurred first, was analyzed by use of piecewise Cox models. Results: Individuals with an ADHD diagnosis had higher or similar hazard risk than undiagnosed individuals throughout follow-up. Across all PD categories, baring malignant neoplasms, ADHD-diagnosed individuals had a higher hazard risk from teen age. In the general population, females had higher hazard risk of most PDs from teen age or early adolescence, while males had higher hazard risk in early childhood. Dispersed modification occurred in the hazard difference between sex post-ADHD diagnosis. For eye and adnexa diseases in childhood, males had about a 15% added hazard that of females in the general population, while females had…"
     }
   ]
 }
