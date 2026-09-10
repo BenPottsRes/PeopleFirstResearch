@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:26:06Z",
+  "generated_at": "2026-09-10T11:23:00Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,35 @@
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
+      "id": "10.1007/s40489-026-00590-w",
+      "title": "Understanding the Use of Community Advisory Boards in Autism Research: A Scoping Review",
+      "authors": [
+        "Margaret G. Janse van Rensburg",
+        "Elisa Niunin",
+        "Alexia Ostrolenk",
+        "Sydney Arsenault",
+        "Anja Wilson",
+        "Courtney Weaver",
+        "Valérie Courchesne",
+        "Robert M. Hock"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-10",
+      "doi": "10.1007/s40489-026-00590-w",
+      "url": "https://doi.org/10.1007/s40489-026-00590-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Community engagement is increasingly promoted as a good practice in autism research, yet little is known about how Community Advisory Boards are used. This scoping review mapped the extent and nature of empirical literature on Community Advisory Boards in autism research. Five databases were searched, supplemented by reference list searching. Twenty-two studies met inclusion criteria. Most were published recently, conducted in the United States, and used mixed methods. Community Advisory Boards were rarely formally defined and were typically described functionally rather than conceptually. Most operated in consultative roles, with inconsistent reporting of recruitment, compensation, onboarding, communication, and influence on decision-making. Findings suggest that use of Community Advisory Boards in autism research is expanding but remains conceptually and methodologically underdeveloped."
+    },
+    {
       "id": "10.1007/s10803-026-07499-7",
       "title": "Deconstructing the Diet-Language Myth in Autism: A Divergent V-Type Model",
       "authors": [
@@ -104,6 +133,165 @@
       "tags": [
         "communication"
       ]
+    },
+    {
+      "id": "10.1177/13623613261483298",
+      "title": "Research Priorities in Autism From a Clinical Setting: Voices of Autistic Adults and Families of Children and Adolescents With Autism Spectrum Disorder",
+      "authors": [
+        "Laura Gisbert-Gustemps",
+        "María Martínez-Ramírez",
+        "Imanol Setién-Ramos",
+        "Damián Restoy",
+        "Josep Antoni Ramos-Quiroga",
+        "Jorge Lugo-Marín"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-09",
+      "doi": "10.1177/13623613261483298",
+      "url": "https://doi.org/10.1177/13623613261483298",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Employment",
+        "Healthcare",
+        "Mental health",
+        "Quality of life",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "This study explored the research priorities of autistic adults and families of children and adolescents with autism spectrum disorder within a hospital-based diagnostic service in Spain. Using a mixed-methods design with interviews and a survey aligned with the Spanish Autism Strategic Plan (2023–2027), 42 participants shared what research they consider most relevant. Both groups prioritized applied research that improves daily life—communication, sensory processing, flexibility, mental health, education, employment, and quality of life. Families also emphasized biomedical topics such as genetics, microbiota, and pharmacological treatments, noting that etiological research should enhance well-being rather than aim to “cure” autism. Autistic adults highlighted the need for more accurate and timely diagnosis, especially for women and late-diagnosed adults, as well as research on masking, autonomy, workplace adaptations, and independent living. Participants perceived limited real-world impact from current autism research due to poor dissemination and scarce practical application, yet interest in future involvement was high, with many willing to collaborate or act as co-researchers. Th…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261486816",
+      "title": "Pilot Test of the Forming Love around Autistic People to Prevent Suicide Program",
+      "authors": [
+        "Anne V. Kirby",
+        "Zack Siddeek",
+        "Bobbi Duncan-Ishcomer",
+        "Rachel Kripke-Ludwig",
+        "Andee Joyce",
+        "Kayla Rodriguez",
+        "Whitney Lee",
+        "Kavitha Murthi",
+        "Kristina Feldman",
+        "Alissa Atisme",
+        "Amber Darlington",
+        "Lisa Wexler",
+        "Christina Nicolaidis"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-09",
+      "doi": "10.1177/25739581261486816",
+      "url": "https://doi.org/10.1177/25739581261486816",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment",
+        "Healthcare"
+      ],
+      "tags": [
+        "participatory"
+      ],
+      "abstract": "Notable proportions of autistic people experience suicidal thinking and actions (i.e., suicidality). Many of the identified influences on suicidality for autistic people necessitate broad changes in societal attitudes, services, and supports. Yet most suicide prevention efforts focus on clinical interventions targeting change for autistic individuals themselves. We used a community-based participatory research approach to develop a novel program for autism-focused (or autism-relevant) community organizations. The program is called Forming Love around Autistic people to Prevent Suicide (FLAPS). FLAPS is a four-part virtual education and capacity-building intervention focused on supporting organizations to incorporate broad autism suicide prevention efforts into their ongoing work. We pilot tested this new program in a single-arm trial. A team of autistic and non-autistic cofacilitators delivered the full FLAPS program three times to grouped organizations. Fifty-one participants, from a total of 11 organizations, enrolled in the program. Our primary outcome measure was the tailored Steps Toward Prevention—Autism Community Suicide Prevention questionnaire, administered at preprogram,…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261487287",
+      "title": "Beyond the Autistic Strengths Narrative: How Autonomy, Anxiety, and Attention Constrain Participation and Recognition in Neurodiverse Teams",
+      "authors": [
+        "Young Ji Kim",
+        "Anusha Srinivas",
+        "Ella Cabigting",
+        "Rebecca Foster",
+        "Margot Plunkett"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-09",
+      "doi": "10.1177/25739581261487287",
+      "url": "https://doi.org/10.1177/25739581261487287",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment",
+        "Mental health",
+        "Quality of life",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Background: Strengths-based narratives of autism often presume that autistic individuals’ expertise will naturally translate into better outcomes for the teams they work with. However, such perspectives overlook the fundamentally relational nature of collaborative work, in which teams infer, evaluate, and recognize members’ knowledge and abilities through social interaction. When autistic communication and cognitive styles diverge from neurotypical teamwork norms, autistic individuals’ expertise may remain unrecognized in team contexts. Methods: Our data consist of semi-structured interviews with 35 autistic adults from a larger study and two newly collected serial focus groups with five additional autistic adults, all of whom had experience with team-based collaboration in academic or workplace settings. Using phronetic iterative qualitative data analysis, we identified recurring patterns in participants’ lived experiences of teamwork. Results: We identified three predominant structural barriers that limit autistic people’s access to and participation in teamwork: (a) Autonomy , reflecting a preference for independent work often arising from mismatches with dominant collaborative…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261485775",
+      "title": "Autism and Mapping the Evidence on Online Risk: A Scoping Review and Narrative Synthesis",
+      "authors": [
+        "Neophytos Georgiou",
+        "Hamish Watt",
+        "Clare Allely",
+        "Belinda Fuss",
+        "Robyn Young"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-09",
+      "doi": "10.1177/25739581261485775",
+      "url": "https://doi.org/10.1177/25739581261485775",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Digital platforms have increased exposure to potentially harmful online content, including misinformation, conspiracy theories, hateful material, and extremist or radicalization-related material. Research examining how autism relates to these domains remains sparse, fragmented, and poorly integrated across disciplines. Methods: We examined quantitative, qualitative, and adjacent literature to map how autistic characteristics have been studied in relation to harmful online content, with findings synthesized narratively. Results: Quantitative studies were limited in number and relied largely on cross-sectional belief measures, providing little insight into online exposure or change over time. Qualitative empirical research offered detailed clinical and forensic accounts but was mostly case-based, retrospective, professional, online discourse, lived-experience, or family/clinician evidence, limiting empirical testing of proposed explanations and author reflexivity. Adjacent empirical literature examined relevant cognitive and social processes without linking them to autistic populations. Conclusions: Existing frameworks and clinical interpretations continue to be ahead of…"
+    },
+    {
+      "id": "10.1177/10870547261483459",
+      "title": "Therapist-guided Internet-delivered versus Face-to-face CBT for Adults with ADHD: Differential Long-Term Maintenance and Exploratory Correlational Pathways",
+      "authors": [
+        "Meirong Pan",
+        "Shiyu Zhang",
+        "Mengjie Zhao",
+        "Liqian Zhang",
+        "Haimei Li",
+        "Lu Liu",
+        "Yufeng Wang",
+        "Qiujin Qian"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-09-09",
+      "doi": "10.1177/10870547261483459",
+      "url": "https://doi.org/10.1177/10870547261483459",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "Objective: Therapist-guided Internet-delivered Cognitive Behavioral Therapy (iCBT) offers a promising alternative to face-to-face CBT (FTF-CBT) for adults with attention-deficit/hyperactivity disorder (ADHD), but evidence on its comparative efficacy and long-term maintenance mechanisms is limited. This study aimed to analyze the efficacy of group-format therapist-guided iCBT and FTF-CBT in medicated ADHD adults immediately post-treatment and at 1-year follow-up; and explored potential maintenance correlational pathways. Methods: Secondary analysis of data from two randomized controlled trials ( n = 184) comprised participants into three groups: group-format therapist-guided iCBT ( n = 43), group-format FTF-CBT ( n = 49), and treatment as usual (TAU; n = 92). Outcomes included ADHD core symptoms, anxiety symptoms, dysfunctional attitudes, and psychological quality of life (QoL). Linear Mixed Models were utilized to assess treatment efficacy both at post-treatment and 1-year follow-up, and exploratory structural equation path modeling was used to investigate synchronous correlational patterns of long-term symptom changes between the two active intervention groups. Results: At post-tr…"
     },
     {
       "id": "10.1108/aia-04-2026-0041",
@@ -510,26 +698,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -554,6 +722,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -3068,6 +3256,24 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -3087,24 +3293,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -10502,38 +10690,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1002/aur.70274",
-      "title": "Visual Search Performance in Children With\n                    <scp>ASD</scp>\n                    : A Combined Case‐Control and Longitudinal Study",
-      "authors": [
-        "Naisan Raji",
-        "Iskra Todorova",
-        "Leonie Polzer",
-        "Solvejg K. Kleber",
-        "Christian Lemler",
-        "Luisa Schnettler",
-        "Janina Kitzerow‐Cleven",
-        "Ziyon Kim",
-        "Christine M. Freitag",
-        "Nico Bast"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1002/aur.70274",
-      "url": "https://doi.org/10.1002/aur.70274",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism Spectrum Disorder (ASD) is associated with altered attentional function. This has been associated with enhanced visual search performance. Addressing a gap in the literature, we investigate the longitudinal development of visual search alongside ASD symptoms. Using eye‐tracking, we studied performance in a single‐feature visual search task with visual search accuracy and time to target. We investigated preschoolers with ASD ( n = 60, age = 47 months) and a cohort of developmental age‐matched typically developing (TD) children ( n = 50, age = 35 months) at baseline and after approximately 3 years. We further explored associations of visual search performance with parent‐reported ASD symptom domains. Both groups showed similar visual search accuracy and time to target at baseline. At the 3‐year follow‐up, the ASD group showed significantly lower visual search accuracy and shorter time to target than the TD group. Within the ASD cohort, higher accuracy and shorter time to target were associated with higher social communication impairments. The often‐reported ASD advantage in visual search may not be as pronounced as assumed to differentiate between ASD and neurotypical…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2679069",
       "title": "Sleep patterns and their links to eating behaviors and dietary quality in autistic children",
       "authors": [
@@ -11538,66 +11694,6 @@
         "Autism"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s40489-026-00570-0",
-      "title": "Health-Related Physical Fitness in Children and Adolescents with ASD Compared to Neurotypically Developing Peers: Evidence From a Systematic Review and Meta-Analysis",
-      "authors": [
-        "Nerea Blanco-Martínez",
-        "Daniel González-Devesa",
-        "Rocío Carballo-Afonso",
-        "José Carlos Diz-Gómez",
-        "Carlos Ayán-Pérez"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-12",
-      "doi": "10.1007/s40489-026-00570-0",
-      "url": "https://doi.org/10.1007/s40489-026-00570-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s40489-026-00566-w",
-      "title": "Who is Talking? A Systematic Review on Voice Identity Processing in Autism",
-      "authors": [
-        "Diego Ruiz Callejo",
-        "Silke Vos",
-        "Bart Boets"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-12",
-      "doi": "10.1007/s40489-026-00566-w",
-      "url": "https://doi.org/10.1007/s40489-026-00566-w",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s40489-026-00573-x",
-      "title": "Early Family Intervention by Parents for Children with Autism Spectrum Disorder: A Meta-Analysis of Randomized Controlled Trials",
-      "authors": [
-        "Shuning Li",
-        "Xiaohan Li",
-        "Lanfang Xie",
-        "Xiangxiang Liu",
-        "Xijun Wei",
-        "Wenxue Ji",
-        "Longting Hu",
-        "Hai Li"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-12",
-      "doi": "10.1007/s40489-026-00573-x",
-      "url": "https://doi.org/10.1007/s40489-026-00573-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
