@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:24:22Z",
+  "generated_at": "2026-09-12T10:50:08Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,31 @@
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
+      "id": "10.1108/aia-05-2026-0071",
+      "title": "Exploring the experiences of healthcare professionals carrying out the autism assessment/diagnostic process with adults – a qualitative study",
+      "authors": [
+        "Sophie Jones",
+        "Kirsten Barnicot",
+        "Jacqueline Sin"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-15",
+      "doi": "10.1108/aia-05-2026-0071",
+      "url": "https://doi.org/10.1108/aia-05-2026-0071",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose Getting an autism diagnosis as an adult can be a complex and challenging process which can often include more complexities and considerations in comparison with assessments for children. This purpose of this study is to explore the experiences of professionals who assess adults for autism, to understand what makes the process complex and how it could be improved. Design/methodology/approach Eight semi-structured interviews were carried out with professionals experienced in assessing adults for autism. Interviews were recorded and transcripts were analysed thematically. Findings Three themes emerged from the data: 1. Difficulties unique to assessing adults, 2. The impact of clinical experience and 3. Suggestions for improving the assessment process for adults. The results of this study emphasise the need for development/modification of adult-appropriate tools which are designed specifically for adults as well as consideration of other limitations (such as difficulties obtaining developmental histories). Before this can be done, we need a clear consensus on the understanding of the heterogenous presentation of autism, as agreed by both professionals and autistic people. With…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -128,6 +153,160 @@
       ],
       "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07506-x",
+      "title": "In Search of Subtypes of Children With Developmental Disabilities Using the WISC-V: A Latent Profile Analysis",
+      "authors": [
+        "Jordyn L. Esprit",
+        "Eric A. Youngstrom",
+        "Soo Youn Kim",
+        "Megan Norris",
+        "Ann Levine",
+        "Eric M. Butter",
+        "Kevin G. Stephenson"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-12",
+      "doi": "10.1007/s10803-026-07506-x",
+      "url": "https://doi.org/10.1007/s10803-026-07506-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Abstract Purpose Identifying subtypes within autism spectrum disorder (ASD) has often been attempted to better understand the significant heterogeneity within the spectrum. Profiles of cognitive functioning have frequently been investigated as possible subtype definitions, but most studies have relied on relatively small sample sizes and higher-functioning samples, and few have used advanced statistical techniques to obtain estimates of underlying profiles of IQ in ASD. The purpose of this study was to use latent profile analysis to identify possible subgroups of children with ASD and other neurodevelopmental disabilities using the Wechsler Intelligence Scale for Children-5th Edition (WISC-V) across a range of ability levels. Methods We used latent profile analysis with a clinical sample of 727 youth (ages 6–16) referred for neurodevelopmental evaluations. We also completed a multigroup bifactor confirmatory factor analysis of the clinical sample compared to the WISC-V standardization sample. Results We did not find distinct cognitive profiles based on the WISC-V index scores; results indicated a continuum of the g factor of intelligence instead of distinct patterns of strengths an…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07518-7",
+      "title": "Unique Behavior Profiles That Specify Mental Distress in Autism",
+      "authors": [
+        "Eric V. Strobl"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-12",
+      "doi": "10.1007/s10803-026-07518-7",
+      "url": "https://doi.org/10.1007/s10803-026-07518-7",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07525-8",
+      "title": "Profile of Behavioral Comorbidities in Children With Fragile X Syndrome",
+      "authors": [
+        "Walter E. Kaufmann",
+        "Paul S. Horn",
+        "Elizabeth Berry-Kravis",
+        "Milen Velinov",
+        "Amy L. Talboy",
+        "Stephanie L. Sherman",
+        "Walter E. Kaufmann",
+        "Marcy Schuster",
+        "Nicole Tartaglia",
+        "Robyn A. Filipink",
+        "Dejan B. Budimirovic",
+        "Deborah Barbouth",
+        "Amy Lightbody",
+        "Allan Reiss",
+        "Carol M. Delahunty",
+        "Randi J. Hagerman",
+        "David Hessl",
+        "Craig A. Erickson",
+        "Gary Feldman",
+        "Jonathan D. Picker",
+        "Ave M. Lachiewicz",
+        "Holly K. Harris",
+        "Amy Esler",
+        "Richard E. Frye",
+        "Patricia A. Evans",
+        "Mary Ann Morris",
+        "Barbara A. Haas-Givler",
+        "Andrea L. Gropman",
+        "Ryan S. Uy",
+        "Reymundo Lozano",
+        "Carrie Buchanan",
+        "Jean A. Frazier",
+        "Stephanie M. Morris"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-12",
+      "doi": "10.1007/s10803-026-07525-8",
+      "url": "https://doi.org/10.1007/s10803-026-07525-8",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07528-5",
+      "title": "Online Dating as a Middleman: Autistic Young Adults’ Pursuit of Romantic Connection",
+      "authors": [
+        "Selin Safran",
+        "Sarah Hurwitz"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-12",
+      "doi": "10.1007/s10803-026-07528-5",
+      "url": "https://doi.org/10.1007/s10803-026-07528-5",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261483304",
+      "title": "Surviving to Thriving: A Grounded Theory of Post-Diagnostic Identity Reconstruction in Midlife and Older Autistic Adults",
+      "authors": [
+        "Jennifer A. Kirton",
+        "Angela Tod",
+        "Tony Ryan"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-12",
+      "doi": "10.1177/13623613261483304",
+      "url": "https://doi.org/10.1177/13623613261483304",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "This study explored how midlife and older autistic adults make sense of receiving an autism diagnosis later in life and how this shapes post-diagnostic identity reconstruction. Although rising numbers of adults are diagnosed in later life, little is known about how they interpret this experience or the factors shaping post-diagnostic adjustment. Constructivist grounded theory was used to examine experiences among 14 autistic midlife and older adults aged 50 to 73. Seventeen semi-structured interviews were analysed using iterative coding and constant comparison. An autistic advisory group supported reflexivity and analytic credibility. Diagnosis was valued but had a liminal effect. Two broad patterns of post-diagnostic experience were identified: surviving , characterised by self-blame and deficit-based interpretations; and thriving, characterised by greater self-compassion, personal agency, and living in ways more aligned with their autistic identity. Thriving was delayed and followed years of identity reconstruction. It unfolded through the Thriving Cycle , comprising three interconnected processes experienced as a dynamic and iterative. The Thriving Cycle illustrates how some mid…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07519-6",
+      "title": "Parent’s AI Coach (PaiCoach): A Single-Case Experimental Study of an AI-Supported Parent Coaching System for Autistic Children",
+      "authors": [
+        "Yusuf Akemoğlu",
+        "Zhaohui Li",
+        "Qingxiao Zheng",
+        "Emily Brooke Roberts",
+        "Samar Pratap Singh",
+        "Jinjun Xiong"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-11",
+      "doi": "10.1007/s10803-026-07519-6",
+      "url": "https://doi.org/10.1007/s10803-026-07519-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Abstract Purpose Artificial intelligence (AI) may enhance the scalability and immediacy of parent coaching by providing automated, performance-based feedback within naturalistic routines. In this study, we examined the effects of Parent’s AI Coach (PaiCoach), an AI-supported parent coaching system, on parent implementation of evidence-based practices in improving autistic children’s communicative responsiveness during shared book reading. Method Participants included four mother-child dyads with minimally verbal autistic children between 45 and 56 months of age. A concurrent multiple-baseline across participants single-case experimental design was used. Primary dependent variables included parent implementation fidelity and child communicative responsiveness. Visual analysis and Tau-U effect sizes were used to examine functional relations between the introduction of PaiCoach and changes in parent and child outcomes. Results Visual analysis showed functional relations between the introduction of PaiCoach and increases in parent implementation fidelity with corresponding improvements in children’s responsiveness. Through human validation, we show that PaiCoach adopts 68.6% of AI-gene…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07521-y",
@@ -189,6 +368,33 @@
       ],
       "abstract": "Abstract Purpose Autistic people are likely to encounter first responders, which frequently results in ineffective or even harmful experiences for autistic people. Trainings have been developed to improve first responders’ efficacy with responding to situations involving autistic people and their families. The present study examines the impact of professional and personal characteristics on participants’ confidence, self-efficacy, and knowledge in providing first response to autistic people following an autism training. Methods This study examined pre- and post- training measures completed by participants compared baseline, outcome, and change scores across participant groups, identifying the influence of professional role, personal relationships, and other demographic characteristics on training gains. Results Findings show that, regardless of professional role and personal relationship status, participants improved across outcomes following the training. Law enforcement officers entered training with higher self-efficacy and saw less improvement overall. Those with a close and a distal personal relationship showed higher baseline confidence and self-efficacy, and participants wit…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70366",
+      "title": "Sleep and Awake Bruxism in Children With Autism Spectrum Disorder: Associations With Sleep Indicators and Caregiver Mental Health",
+      "authors": [
+        "Thays Flavia Assis de Oliveira Melo",
+        "Marcela Carla Pereira do Nascimento",
+        "Ana Laura Vilela de Carvalho",
+        "Bruna Lopes Donato",
+        "Priscila Prosini",
+        "Mônica Vilela Heimer"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-11",
+      "doi": "10.1002/aur.70366",
+      "url": "https://doi.org/10.1002/aur.70366",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Bruxism, a centrally mediated masticatory muscle activity, is highly prevalent in children with autism spectrum disorder (ASD), a population where research remains limited despite the condition's impact on sleep and quality of life. This study aimed to investigate the frequency of sleep and awake bruxism in children with ASD and analyze their associations with sleep indicators and caregiver mental health. This cross‐sectional study included 146 participants (4–18 years old) divided into two groups: 73 with an ASD diagnosis and 73 without ASD. Data were collected from questionnaires administered to caregivers (sociodemographic data, Sleep Disturbance Scale for Children [SDSC], and Depression, Anxiety, Stress Scale [DASS‐21]) and from children's clinical oral examinations. Clinically based sleep bruxism was more frequent in children with ASD, while awake bruxism predominated in the neurotypical group. Caregivers, mostly women, reported significantly higher levels of anxiety and depression in the ASD group ( p &lt; 0.05). In the ASD group, higher frequencies of sleep bruxism were observed among children with sleep‐onset and maintenance difficulties and among those whose careg…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07530-x",
@@ -842,6 +1048,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -866,26 +1092,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -11644,55 +11850,6 @@
         "Quality of life"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s40489-026-00574-w",
-      "title": "Autism and Education Research in Sub-Saharan Africa: A Systematic Literature Review",
-      "authors": [
-        "Stephanie Katharina Nowack",
-        "Jenny Louise Gibson",
-        "Nidhi Singal"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-14",
-      "doi": "10.1007/s40489-026-00574-w",
-      "url": "https://doi.org/10.1007/s40489-026-00574-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "tags": [
-        "participatory"
-      ],
-      "abstract": "Abstract This systematic review synthesizes literature published between 2016 and 2025 on autism research in formal early childhood and primary school settings in Sub-Saharan Africa. Forty-one studies met the inclusion criteria. We critically analysed key study characteristics, including methodologies, geographical foci, and funding patterns. We also examined ongoing educational provisions in the region, focusing on pedagogical practices and playful learning. The findings show no studies explored playful learning in the classroom. While autism research in educational settings is increasing, it remains largely grounded in Northern epistemologies. Although teachers are consulted in most studies, we emphasize the need to recognize them as active agents through participatory designs. Finally, we argue for the ethical and methodological inclusion of autistic learners' voices in research."
-    },
-    {
-      "id": "10.1186/s13229-026-00719-y",
-      "title": "Mapping sensory sensitivity in autism",
-      "authors": [
-        "Bat-Sheva Hadad",
-        "Inbar Leon",
-        "Marissa Hartston",
-        "Erez Freud",
-        "Ahmad Abu-Akel"
-      ],
-      "journal": "Molecular Autism",
-      "year": 2026,
-      "published_date": "2026-05-14",
-      "doi": "10.1186/s13229-026-00719-y",
-      "url": "https://doi.org/10.1186/s13229-026-00719-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ]
     }
   ]
 }
