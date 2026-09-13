@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:50:08Z",
+  "generated_at": "2026-09-13T11:55:31Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -108,6 +108,25 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -136,23 +155,26 @@
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
     },
     {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "id": "10.1007/s10803-026-07489-9",
+      "title": "National Trends in Education and Employment Outcomes for Canadians With Developmental Disabilities and Autism: Findings From the 2017 and 2022 Canadian Survey on Disability",
       "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
+        "Alexandra Minuk",
+        "Kenneth Fyie",
+        "Christiane Roth",
+        "Jennifer D Zwicker"
       ],
-      "journal": "Advances in Autism",
+      "journal": "Journal of Autism and Developmental Disorders",
       "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "published_date": "2026-09-12",
+      "doi": "10.1007/s10803-026-07489-9",
+      "url": "https://doi.org/10.1007/s10803-026-07489-9",
       "neurotype": [
         "Autism"
       ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
+      "domains": [
+        "Education",
+        "Employment"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07506-x",
@@ -259,6 +281,29 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07523-w",
+      "title": "Inflammatory Cytokines as Biologic Signatures of the Effect of Dietary Supplementation With Omega Fatty Acids on Autism-Related Behaviors and Features Among Young Children: A Randomized Controlled Trial",
+      "authors": [
+        "Sarah A. Keim",
+        "Joseph Rausch",
+        "Daniel L. Coury",
+        "Lisa M. Robinette",
+        "Paige L. Taylor",
+        "Lin Sun",
+        "Kelly A. McNally",
+        "Lynette K. Rogers"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-12",
+      "doi": "10.1007/s10803-026-07523-w",
+      "url": "https://doi.org/10.1007/s10803-026-07523-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Evidence for the efficacy of dietary omega fatty acid supplementation as a supportive intervention for autism is mixed. Mechanisms by which supplementation may offer benefit are unclear. Inflammation may contribute to autism-related behaviors and features. This double-blind, randomized controlled trial evaluated inflammatory cytokines as biologic signatures of the effect of daily dietary supplementation with omega-3 and omega-6-rich fish and borage oil (“omega 3–6”) versus placebo in children ages 2 - &lt; 7 years recently diagnosed with autism. Methods Children were randomized to omega 3–6 or placebo for 90 days. Cytokines were measured in plasma, and autism-related behaviors and features were assessed by caregiver report and direct assessment. Linear mixed models followed intent-to-treat and evaluated the effect of omega 3–6 supplementation on the change in cytokines. Pearson correlation coefficients estimated associations between change in cytokines and change in autism-related behaviors and features. Exploratory analyses examined moderation by sex, age, gastrointestinal symptoms, and overweight. Results Of 98 children randomized, 96 were included in this analys…"
+    },
+    {
       "id": "10.1177/13623613261483304",
       "title": "Surviving to Thriving: A Grounded Theory of Post-Diagnostic Identity Reconstruction in Midlife and Older Autistic Adults",
       "authors": [
@@ -279,6 +324,23 @@
       ],
       "abstract": "This study explored how midlife and older autistic adults make sense of receiving an autism diagnosis later in life and how this shapes post-diagnostic identity reconstruction. Although rising numbers of adults are diagnosed in later life, little is known about how they interpret this experience or the factors shaping post-diagnostic adjustment. Constructivist grounded theory was used to examine experiences among 14 autistic midlife and older adults aged 50 to 73. Seventeen semi-structured interviews were analysed using iterative coding and constant comparison. An autistic advisory group supported reflexivity and analytic credibility. Diagnosis was valued but had a liminal effect. Two broad patterns of post-diagnostic experience were identified: surviving , characterised by self-blame and deficit-based interpretations; and thriving, characterised by greater self-compassion, personal agency, and living in ways more aligned with their autistic identity. Thriving was delayed and followed years of identity reconstruction. It unfolded through the Thriving Cycle , comprising three interconnected processes experienced as a dynamic and iterative. The Thriving Cycle illustrates how some mid…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261487760",
+      "title": "Parsing the Longitudinal Relationship Between Avoidant Automatic Thoughts and Avoidance",
+      "authors": [
+        "Samuel R. Chanenson",
+        "Laura E. Knouse"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-09-12",
+      "doi": "10.1177/10870547261487760",
+      "url": "https://doi.org/10.1177/10870547261487760",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Purpose: Avoidant automatic thoughts (AAT) have been proposed as a mechanism of problematic avoidance in ADHD. AAT are positively associated with task avoidance in the moment; however, the longitudinal and directional nature of this relationship has yet to be explored. Objective: The current study examines whether AAT better predicts future avoidance or if avoidance better predicts future AAT. Method: Using a longitudinal ecological momentary assessment (EMA) design, we measured AAT and avoidance for 97 undergraduate participants with and without ADHD at baseline and across each of the following 6 days, five times per day. Results: AAT at baseline predicted average avoidance across the 6 days above and beyond baseline avoidance but procrastination at baseline did not predict average future AAT frequency above AAT at baseline. ADHD diagnosis did not moderate either relationship. Lagged analyses revealed that task avoidance in a given moment predicts AAT at the next observation, even when controlling for AAT while the inverse relationship was not significant. Conclusion: This study evaluates the CBT notion that thoughts influence future behavior and reveals that conclusions may depen…"
     },
     {
       "id": "10.1007/s10803-026-07519-6",
@@ -1048,26 +1110,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -1092,6 +1134,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -11827,27 +11889,6 @@
       "url": "https://doi.org/10.1080/20473869.2026.2671192",
       "neurotype": [
         "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/1034912x.2026.2667965",
-      "title": "Family Quality of Life in Chinese Families of Children with Autism Spectrum Disorder",
-      "authors": [
-        "Shulan Zeng",
-        "Imran Riaz Chohan"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2026,
-      "published_date": "2026-05-15",
-      "doi": "10.1080/1034912x.2026.2667965",
-      "url": "https://doi.org/10.1080/1034912x.2026.2667965",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life"
       ],
       "framing": "Mixed or transitional framing"
     }
