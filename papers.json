@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:55:31Z",
+  "generated_at": "2026-09-14T12:51:59Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -3668,24 +3668,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -3705,6 +3687,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
