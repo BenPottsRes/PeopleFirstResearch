@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T12:51:59Z",
+  "generated_at": "2026-09-15T11:46:56Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -81,6 +81,27 @@
         "service improvement"
       ],
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
+    },
+    {
+      "id": "10.1108/aia-12-2025-0132",
+      "title": "The views of autistic people and their families about the criminal justice system",
+      "authors": [
+        "Holly Judge",
+        "Clare Hughes",
+        "Magali-Fleur Barnoux",
+        "Josephine Chishty-Collins",
+        "Glynis H. Murphy"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-16",
+      "doi": "10.1108/aia-12-2025-0132",
+      "url": "https://doi.org/10.1108/aia-12-2025-0132",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autistic people are known to be vulnerable in the criminal justice system (CJS) but their voices, and those of their families, are rarely heard. This study aims to give them a voice. Design/methodology/approach This study reports findings from a survey of a large sample of 370 autistic people and their families on the challenges they had before, and after, their involvement in the CJS. Findings It transpired that support before CJS involvement was minimal. Many families felt that earlier diagnosis and increased support would have been helpful, and may have avoided the CJS contact altogether. Once involved in the CJS, police often did not realise that the person was autistic, and reasonable adjustments were very variable and often absent in all parts of the CJS, despite the policy and practice guidelines from recent years. Social implications There was a need for increased support for autistic people and their families when they first had concerns about possible involvement with the CJS. There also remained a major need for better autism training for CJS professionals and more reasonable adjustments to be made at all stages of the CJS for these vulnerable autistic people. Or…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1108/aia-05-2026-0071",
@@ -3668,6 +3689,24 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -3687,24 +3726,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -8776,56 +8797,6 @@
         "sensory"
       ],
       "abstract": "ABSTRACT Performance‐based assessments of sensory function provide essential insights into sensory integration challenges in autistic children and provide objective, standardized measurement data that can be used to tailor targeted interventions. We sought to evaluate the validity and reliability of data collected using the Evaluation in Ayres Sensory Integration (EASI) for assessing sensory and motor functions in autistic children. We used the Rasch Measurement Model to evaluate data collected with 146 autistic children aged 3–12 years (United States: n = 24, Australia: n = 115, Brazil: n = 7). We analyzed 19 performance‐based tests assessing sensory perception, praxis, and motor functions. Rasch analyses examined item fit, unidimensionality, item targeting, and internal reliability. Seventeen of 19 analyzed EASI tests demonstrated strong construct validity, with adequate item‐fit and unidimensionality. Fourteen tests met reliability thresholds (person separation reliability ≥ 0.70), while five tests exhibited lower person separation reliability. Some tests showed poor item targeting, potentially limiting their precision for children with stronger sensorimotor abilities. Most EASI…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70281",
-      "title": "<scp>ShopAutiPlan</scp>\n                    : Validating a Serious Game for Assessing Executive Planning in Autism",
-      "authors": [
-        "Athmar N. M. Shamhan",
-        "Marrianna Constantinou",
-        "Howraa Hajaig",
-        "Marwa Qaraqe",
-        "Dena Al‐Thani"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70281",
-      "url": "https://doi.org/10.1002/aur.70281",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently experience difficulties in executive functions, particularly planning and goal‐directed behavior, yet traditional assessments such as the Tower of London and Zoo Map offer limited ecological validity and do not capture how planning challenges manifest in everyday contexts. This study introduces and validates ShopAutiPlan, a supermarket‐based serious game designed to assess planning skills through naturalistic, multistep tasks. A total of 57 children aged 7–10 years (27 ASD and 30 neurotypical), matched on age and IQ, completed both the game and conventional EF assessments, including the BRIEF‐2 and two BADS‐C subtests (Zoo Map and Key Search). ShopAutiPlan automatically recorded behavioral indicators related to task completion and efficiency. Group comparisons revealed that neurotypical children outperformed those with ASD across all standardized measures, and autistic participants exhibited reduced in‐game efficiency—demonstrated by longer completion times, greater distances traveled, and more pauses—despite achieving similar item completion. Significant correlations between game‐derived metrics and traditional plann…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70275",
-      "title": "Auditory Sensitivity in Autism: A Systematic Review of Mismatch Negativity and Mismatch Field Responses",
-      "authors": [
-        "Sara Cacciato‐Salcedo",
-        "Shreya Jaokar",
-        "Neil J. Ingham",
-        "Manuel S. Malmierca",
-        "Marija M. Petrinovic"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70275",
-      "url": "https://doi.org/10.1002/aur.70275",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Sensory environment"
-      ],
-      "tags": [
-        "communication",
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Auditory mismatch responses—mismatch negativity (MMN) and mismatch fields (MMF)—are well established electrophysiological markers of automatic auditory discrimination supported by short‐term sensory memory. These responses, typically elicited using passive oddball paradigms, are increasingly used to investigate sensory and language processing in autism. This systematic review synthesizes findings from 55 studies comparing MMN and MMF responses in autistic and typically developing (TD) individuals across childhood, adolescence, and adulthood. Using the Synthesis Without Meta‐analysis (SWiM) framework, we identified consistent evidence for smaller MMN amplitudes and reduced MMF power in autistic children and adolescents relative to TD peers, particularly in response to frequency, duration, and speech‐based deviants. Studies also frequently reported longer mismatch latencies in autistic participants and associated these delays with language difficulties and heightened auditory sensitivity. Although some studies reported age‐related convergence in MMN and MMF measures between autistic and TD groups in later childhood or adolescence, greater right‐hemisphere lateralization in a…",
       "framing": "Neurodiversity-informed"
     },
     {
