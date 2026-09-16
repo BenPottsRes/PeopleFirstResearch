@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:46:56Z",
+  "generated_at": "2026-09-16T11:38:14Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,74 @@
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
+      "id": "10.1007/s10803-026-07512-z",
+      "title": "Evaluating Partnership Quality and Outcomes Within an Autism Community Collaborative",
+      "authors": [
+        "Nicole Hendrix",
+        "Lyric Ransom",
+        "Emma Chatson",
+        "Tatianna Zambrano",
+        "Katherine Pickard"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-16",
+      "doi": "10.1007/s10803-026-07512-z",
+      "url": "https://doi.org/10.1007/s10803-026-07512-z",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07517-8",
+      "title": "Anxiety as a Moderator Between Autistic/ADHD Traits and Quality of Life in Autistic Children and Adolescents",
+      "authors": [
+        "Samara Osten",
+        "Melissa Susko",
+        "Charee Botha",
+        "Jessica Jones",
+        "Marc Woodbury-Smith",
+        "Julia Frei",
+        "Stelios Georgiades",
+        "Rob Nicolson",
+        "Elisabeta Trinari",
+        "Evdokia Anagnostou",
+        "Elizabeth Kelley"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-16",
+      "doi": "10.1007/s10803-026-07517-8",
+      "url": "https://doi.org/10.1007/s10803-026-07517-8",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07522-x",
+      "title": "Effects of Non-Pharmacological Interventions on Motor Function in Children and Adolescents With Intellectual Disability: Systematic Review and Network Meta-Analysis",
+      "authors": [
+        "Meng Chen",
+        "Mengzhi Li",
+        "Xinyi Hua",
+        "Zhenping Jiang"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-16",
+      "doi": "10.1007/s10803-026-07522-x",
+      "url": "https://doi.org/10.1007/s10803-026-07522-x",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1108/aia-12-2025-0132",
       "title": "The views of autistic people and their families about the criminal justice system",
       "authors": [
@@ -129,25 +197,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -174,6 +223,25 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
+    },
+    {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -3689,24 +3757,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -3726,6 +3776,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -8537,61 +8605,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261441734",
-      "title": "Language Use Preferences in a Culturally Diverse, Multiethnic, and Multilingual Autism Community in Singapore",
-      "authors": [
-        "Sharline Suhumaran",
-        "Ramkumar Aishworiya",
-        "Chui Mae Wong"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261441734",
-      "url": "https://doi.org/10.1177/13623613261441734",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "There is an emerging understanding of diverse language preferences in autism among stakeholders, including that for identity-first language (IFL) versus person-first language (PFL). We aimed to understand preferences regarding language use in racially and culturally diverse Singapore. A cross-sectional study was completed by autistic adults, caregivers of autistic individuals, and professionals working in the autism field. The questionnaire comprised commonly used terms in autism, which respondents rated from 1 ( uncomfortable/I do not like this term ) to 7 ( very comfortable/this would be my preference ). The sample comprised 320 individuals (82.8% females; Chinese 75.9%, Malay 9.4%, Indian 8.8%). Respondents comprised 38 (11.9%) autistic individuals, 86 (26.9%) caregivers/relatives, and 196 (61.3%) professionals. Differences in language preferences were observed between respondent types. Autistic individuals preferred terms like ‘autistic’ ( M ± SD = 5.00 ± 2.25) unlike caregivers/relatives (3.66 ± 2.41) or professionals (3.30 ± 1.94, p &lt; .001). PFL terms like ‘person with autism’ and ‘person with ASD’ were preferred by caregivers/relatives (4.47 ± 2.19; 4.33 ± 2.25) and espec…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/13623613261435412",
-      "title": "Attendance Compulsory, Motivation Conditional. Autistic Youth’s Psychological Need Support and Satisfaction Related to Physical Education: A Qualitative Investigation",
-      "authors": [
-        "Michelle L Wong",
-        "Ben Milbourn",
-        "Bahareh Afsharnejad",
-        "Nikos Ntoumanis",
-        "Susann Arnell",
-        "Paul Kebble",
-        "Sonya Girdler"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261435412",
-      "url": "https://doi.org/10.1177/13623613261435412",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Autistic students participate less in Physical Education (PE) than their peers. Motivation is a primary driver of participation in PE, yet little is known about factors influencing the motivation of autistic youth in PE. This qualitative study explored the experiences of Australian autistic youth aged 7–18 years ( N = 26) in mainstream PE. A deductive content analysis approach, informed by Self-Determination Theory (SDT), directed the development of the interview guide and analysis. Deductive responses ( k = 526) were related to the Basic Psychological Needs postulated by SDT: relatedness ( k = 165), competence ( k = 124), and autonomy ( k = 76) and included 33 conceptual categories. Inductive responses capturing autistic differences were mapped to the Conditional Participation Model themes: Adjustment to external demands ( k = 52), predictability ( k = 41), and affective experiences ( k = 68), incorporating 16 conceptual categories. Autistic differences underpin Basic Psychological Needs satisfaction/frustration. Supporting the Basic Psychological Needs of autistic students differs from their neurotypical peers, with PE teachers best positioned to facilitate a need-supportive envi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70263",
       "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
       "authors": [
@@ -10963,37 +10976,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70269",
-      "title": "Vicarious Perception of Touch in\n                    <scp>ASD</scp>\n                    : The Role of Empathy and Touch Experiences",
-      "authors": [
-        "Ana Rita Pereira",
-        "Marta Pozo‐Rodríguez",
-        "A. Ribeiro‐Carreira",
-        "Alberto J. González‐Villar",
-        "Sabela Conde‐Pumpido Zubizarreta",
-        "María Tubío‐Fungueiriño",
-        "Angel Carracedo",
-        "Montse Fernández‐Prieto",
-        "Adriana Sampaio"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1002/aur.70269",
-      "url": "https://doi.org/10.1002/aur.70269",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT C‐Tactile (CT) targeted affective touch plays a central role in social cognition and emotional development. In autism, atypical sensory processing, particularly in response to tactile stimulation, has frequently been reported. Autistic individuals have been shown to exhibit altered perception and reduced hedonic evaluation of affective touch, as well as increased defensive responses. Despite these differences in direct touch, the perception of vicarious social touch or its connection to social and emotional constructs remains poorly explored. Vicarious touch is theoretically relevant because it recruits social‐cognitive and affective mechanisms beyond primary somatosensory processing; however, most prior studies have focused on neural correlates in neurotypical adults, with limited behavioral investigation and scarce evidence in autistic populations. The present study evaluated how autistic and non‐autistic adolescents and young adults perceive vicarious social touch. Participants observed videos depicting touch delivered at three different speeds (static, CT‐optimal, and fast) and across five skin locations (back, upper arm, ventral forearm, dorsal forearm, and palm). Par…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2679069",
       "title": "Sleep patterns and their links to eating behaviors and dietary quality in autistic children",
       "authors": [
@@ -11842,26 +11824,6 @@
       ],
       "abstract": "Abstract Background Dysregulated stress responses are increasingly implicated in the pathophysiology of autism spectrum disorder (ASD). Astrocytes, which are highly vulnerable to stress, critically support neuronal survival; however, their specific role in ASD remains poorly defined. Methods We analyzed single nucleus RNA sequencing data from postmortem cortices of ASD and control donors. Our analysis included enrichment analysis of astrocyte subpopulations and integrated pySCENIC-based GRN reconstruction, TF profiling, regulon-DEG analysis, and cell-cell communication. Mechanistic studies involved human iPSC-derived astrocytes-neurons co-culture and astrocyte-specific JUND overexpression in mice. Functional and behavioral assessments were performed to evaluate neuronal viability and ASD-relevant phenotypes. Results A subpopulation of stress-responsive astrocytes (SRAs) was identified as specifically enriched in ASD, displaying early transcriptional activation and increased abundance. These SRAs showed marked upregulation of both stress-response pathways and distinct reactive signatures. JUND was established as the core transcriptional orchestrator, controlling 23.8% of the dysregu…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2671192",
-      "title": "Psychotropic medication use and health-related behaviors in adults with autism spectrum disorder",
-      "authors": [
-        "Malu Ribeiro Drumond",
-        "Juliane Duarte Santos",
-        "Mônica T. Soares Macedo",
-        "Thais de Oliveira Faria Baldo",
-        "Marcelo Perim Baldo"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-18",
-      "doi": "10.1080/20473869.2026.2671192",
-      "url": "https://doi.org/10.1080/20473869.2026.2671192",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
