@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:38:14Z",
+  "generated_at": "2026-09-17T11:45:42Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,32 @@
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
+      "id": "10.1177/13623613261478346",
+      "title": "The Pubertal and Menstrual Experiences of Autistic Females: What are the Implications for Education and Support?",
+      "authors": [
+        "Laura Jane Salmon",
+        "Henry Wood-Downie"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-17",
+      "doi": "10.1177/13623613261478346",
+      "url": "https://doi.org/10.1177/13623613261478346",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Quality of life"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Many autistic girls experience misdiagnoses and often feel overlooked, misunderstood, unsupported, and exhausted from trying to fit into an unaccommodating neurotypical world. Early adolescence brings additional challenges, including the onset of puberty. This systematic literature review summarised research on autistic girls’ and women’s experiences of puberty and menstruation, alongside the perspectives of their caregivers. The review also explored what effective support looks like and considered whether autistic voices are included in intervention design and evaluation. Including autistic voice in research is essential to ensure literature reflects issues most important to autistic individuals and leads to meaningful support. Using narrative synthesis, findings from 17 studies described autistic females’ preparation for and experiences of puberty and the support they desire. Challenges included limited education before puberty, negative impacts on wellbeing, difficulties with menstrual self-care, and the interaction between autism and pubertal changes. While some alignment existed between desired support and intervention focus, particularly regarding self-care, most intervention…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07512-z",
       "title": "Evaluating Partnership Quality and Outcomes Within an Autism Community Collaborative",
       "authors": [
@@ -146,6 +172,39 @@
       "published_date": "2026-09-16",
       "doi": "10.1007/s10803-026-07522-x",
       "url": "https://doi.org/10.1007/s10803-026-07522-x",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07524-9",
+      "title": "Increasing Joint Attention in Children With Autism Using Contingent Social Stimuli as Reinforcers",
+      "authors": [
+        "Martha Pelaez",
+        "Carolyn Crysdale",
+        "Katerina Monlux"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-16",
+      "doi": "10.1007/s10803-026-07524-9",
+      "url": "https://doi.org/10.1007/s10803-026-07524-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1177/25739581261489266",
+      "title": "Breaking the Rules and Accepting the Coffee",
+      "authors": [
+        "Wonita Woolhouse"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-16",
+      "doi": "10.1177/25739581261489266",
+      "url": "https://doi.org/10.1177/25739581261489266",
       "neurotype": [
         "Autism"
       ]
@@ -1199,6 +1258,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -1223,26 +1302,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -8577,34 +8636,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613261444800",
-      "title": "“Autism Diagnosis as a Guide”: Taiwanese Adolescents’ Own Experiences of Receiving Autism Diagnoses",
-      "authors": [
-        "Chun-Hao Liu",
-        "Wei-Cheng Lin",
-        "Louisa Lok Yee Man",
-        "Chih-Ju Wu",
-        "Romin W. Tafarodi",
-        "Lin Fang",
-        "Melanie Penner",
-        "Hsing-Chang Ni",
-        "Meng-Chuan Lai"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261444800",
-      "url": "https://doi.org/10.1177/13623613261444800",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Receiving an autism diagnosis can significantly contribute to adolescent identity formation via different processes, such as coping with stigmatization and/or reframing the diagnosis as a foundation for self-understanding and self-acceptance. Despite the presumed importance of cultural context in this regard, little is known about how autistic adolescents experience their autism diagnoses in non-Western countries. We aimed to understand the experiences of Taiwanese autistic adolescents receiving autism diagnoses in a relationship-oriented, non-Western culture. Eight autistic adolescents aged 14–18 years (three assigned-male, five assigned-female) participated in in-depth individual interviews, with data analyzed by reflexive thematic analysis. These Taiwanese autistic adolescents used their autism diagnoses to gain self-understanding and guide social interactions, specifically, (a) to explain past experiences in relation to both positive and negative stereotypes about autism; (b) as a guide to autism knowledge and to provide a framework for modifying one’s own behaviors; (c) to seek connections with autistic peers and to be understood by non-autistic people; and (d) to negotiate wi…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70263",
       "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
       "authors": [
@@ -11762,68 +11793,6 @@
       ],
       "abstract": "Abstract Purpose Caregivers of children with neurodevelopmental conditions often experience poor mental wellbeing, which may be influenced by their child’s behavioural or communicative profile. Few studies have focussed exclusively on caregivers of minimally verbal (MV) children—a heterogeneous group who share limited access to spoken language but vary in communicative competence and primary diagnosis. In this population, caregiver wellbeing may be associated with a child’s ability to communicate their wants and needs via any modality. Methods We examined associations between child communicative competence and caregiver wellbeing in a transdiagnostic sample of school-age MV children (n = 193, mean age 7.6-years, 73% male) and their caregivers (91% mothers). General positive wellbeing was assessed using a brief, well-validated tool designed for the general population. A second measure—developed for parents of autistic children—captured caregiver-specific wellbeing and family life satisfaction. Child communicative competence combined caregiver-reported social communication challenges and early communication skills with observed measures of communicative intent and sophistication. Ana…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00564-y",
-      "title": "Effectiveness of Virtual Reality Interventions for Enhancing Assertiveness and Conflict Resolution in Adolescents and Young Adults with Autism Spectrum Disorder: A Scoping Review",
-      "authors": [
-        "Alejandro Sánchez-Ronco",
-        "Rosabel Roig-Vila",
-        "Miguel Cazorla"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-19",
-      "doi": "10.1007/s40489-026-00564-y",
-      "url": "https://doi.org/10.1007/s40489-026-00564-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract This scoping review examines the effectiveness of virtual reality (VR) interventions in improving assertiveness and conflict resolution among adolescents and young adults with Autism Spectrum Disorder (ASD). ASD often involves difficulties in social interaction, communication, and emotion regulation, limiting interpersonal relationships. Traditional training may be less effective due to cognitive and emotional differences, while VR offers immersive, controlled environments for practicing social skills. Following PRISMA guidelines, 15 studies (2015–2024) were analyzed, showing that VR improves assertiveness, emotional expression, and social reciprocity. Immersive VR better supports skill generalization to real-life contexts, though challenges remain regarding accessibility and individual adaptation. Larger studies are needed to evaluate long-term outcomes and explore integration with other intervention strategies.",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1186/s13229-026-00717-0",
-      "title": "JUND-driven stress-responsive astrocytes promote neuronal apoptosis via enhanced gap junction signaling in autism spectrum disorder",
-      "authors": [
-        "Qi Wang",
-        "Huamin Yin",
-        "Qi Jiang",
-        "Yubo Qi",
-        "Jieli Bai",
-        "Zhendong Wang",
-        "Kailai Liu",
-        "Ruizhen Sun",
-        "Wenhang Wang",
-        "Canying Liu",
-        "Weishuo Yan",
-        "Jin Luo",
-        "Lian Duan",
-        "Zhiyan Shan"
-      ],
-      "journal": "Molecular Autism",
-      "year": 2026,
-      "published_date": "2026-05-19",
-      "doi": "10.1186/s13229-026-00717-0",
-      "url": "https://doi.org/10.1186/s13229-026-00717-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Background Dysregulated stress responses are increasingly implicated in the pathophysiology of autism spectrum disorder (ASD). Astrocytes, which are highly vulnerable to stress, critically support neuronal survival; however, their specific role in ASD remains poorly defined. Methods We analyzed single nucleus RNA sequencing data from postmortem cortices of ASD and control donors. Our analysis included enrichment analysis of astrocyte subpopulations and integrated pySCENIC-based GRN reconstruction, TF profiling, regulon-DEG analysis, and cell-cell communication. Mechanistic studies involved human iPSC-derived astrocytes-neurons co-culture and astrocyte-specific JUND overexpression in mice. Functional and behavioral assessments were performed to evaluate neuronal viability and ASD-relevant phenotypes. Results A subpopulation of stress-responsive astrocytes (SRAs) was identified as specifically enriched in ASD, displaying early transcriptional activation and increased abundance. These SRAs showed marked upregulation of both stress-response pathways and distinct reactive signatures. JUND was established as the core transcriptional orchestrator, controlling 23.8% of the dysregu…",
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
