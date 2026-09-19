@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:19:01Z",
+  "generated_at": "2026-09-19T11:02:38Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -115,6 +115,30 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1007/s40489-026-00597-3",
+      "title": "The Intersection of Tourette Syndrome and Autism Spectrum Disorder: A Scoping Review of Prevalence and Shared Clinical Features",
+      "authors": [
+        "Sara Al Hadhrami",
+        "Catherine Deans",
+        "Nina Klynstra Vega",
+        "Maya Quinn",
+        "Davide Martino",
+        "Tamara Pringsheim"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-19",
+      "doi": "10.1007/s40489-026-00597-3",
+      "url": "https://doi.org/10.1007/s40489-026-00597-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1177/13623613261486062",
       "title": "‘Joining the Dots Across Time’: A Temporal Conceptual Model of Self-Concept Reconstruction Following Late Recognition of Autism",
       "authors": [
@@ -190,6 +214,61 @@
       "neurotype": [
         "Autism"
       ]
+    },
+    {
+      "id": "10.1177/10883576261485310",
+      "title": "Build-A-Behavior Analyst: A Preliminary Look at Educator Preferences for Exemplary Qualities in School-Based Behavior Analysts",
+      "authors": [
+        "Katherine Wheeler",
+        "Sam Hilbert",
+        "Jennifer Hamrick",
+        "Sabrina Johnson",
+        "P. Lynne Hyman"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-18",
+      "doi": "10.1177/10883576261485310",
+      "url": "https://doi.org/10.1177/10883576261485310",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Employment"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Behavior-analytic professionals are becoming more prevalent in the public education setting. Within these roles, behavior analysts reported job duties such as providing professional development, coaching, and consulting, among others. Therefore, identifying characteristics of exemplary behavior analysts within consultative roles may prove beneficial for several reasons (e.g., effective service delivery, strengthening behavioral repertoires, and improving client well-being and satisfaction). We conducted a nationwide survey that examined the exemplary characteristics educators determined would be preferable for behavior analysts to demonstrate in collaboration or consultation. Ninety-two educators rated the qualities they believe behavior analysts should, or should not, encompass when joined together to create effective care for the populations with whom they work. Preliminary data indicate that process variables such as student-centered, collaborative, and effective communication skills are preferred over content variables (i.e., technological, conceptually systematic, etc.). Future research and implications are discussed."
+    },
+    {
+      "id": "10.1177/10883576261484893",
+      "title": "Neurodivergent Mental Health in the Wake of the COVID-19 Pandemic: Exploring Impacts in Autistic, ADHD, and Co-occurring Populations",
+      "authors": [
+        "Josh Yen-Ho Chou",
+        "Christine T. Moody",
+        "Juliette E. Lerner",
+        "Charles D. Keyler",
+        "Stephanie S. Gonzalez",
+        "Kyra L. Fisher",
+        "Elizabeth A. Laugeson"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-18",
+      "doi": "10.1177/10883576261484893",
+      "url": "https://doi.org/10.1177/10883576261484893",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "This study aimed to further clarify how the COVID-19 pandemic and its related consequences impacted mental health symptomatology across three neurodivergent diagnostic groups. Participants included 418 adolescents and young adults (70.3% male; M age = 16.9 years old) previously diagnosed with autism ( n = 208), attention-deficit/hyperactivity disorder (ADHD; n = 100), or both autism and ADHD ( n = 110) who presented for programming at the UCLA PEERS ® Clinic before ( n = 185) or during ( n = 233) COVID-19. Significant interactions between the diagnostic group and COVID-19 condition emerged for social anxiety ( p = .028), adolescent depression ( p = .049), and young adult loneliness ( p = .006), such that only those with ADHD presented with significantly higher mental health symptoms during the pandemic ( p ’s &lt; .05). Results imply that the mental health of non-autistic young people with ADHD was uniquely impacted by changes brought about by the pandemic and its societal consequences."
     },
     {
       "id": "10.1177/13623613261478346",
@@ -1454,6 +1533,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -1478,26 +1577,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -11915,23 +11994,6 @@
       ],
       "abstract": "Abstract Purpose The Psychopathology in Autism Checklist (PAC) was developed to screen for mental health disorders in autistic adults with intellectual disabilities, focusing on identifying common mental health symptoms that do not overlap with autism characteristics. The current study aims to examine the factor structure and longitudinal measurement invariance of the PAC. Methods Existing data from a longitudinal multicentre study of mental health treatment in autistic individuals with intellectual disabilities were used. The PAC factor structure was examined using intake data ( n = 201, 60 females, aged 13–68) and the longitudinal measurement invariance was explored using data across the study’s three time points (intake, end of treatment, follow-up; n = 173, 56 females, aged 13–68). Results The four disorder-specific subscales of the PAC (psychosis, depression, anxiety, obsessive-compulsive disorder [OCD]) showed an acceptable but suboptimal fit, while the inclusion of the general adjustment problems (GAP) subscale resulted in a poorer fit. Three of the subscales (GAP, OCD, depression) showed longitudinal measurement invariance, while two did not (psychosis, anxiety), suggesting…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00572-y",
-      "title": "Autism Spectrum Disorders in Imprisoned Women: A Concise Systematic Review",
-      "authors": [
-        "Anja Vaskinn",
-        "Unn K. Haukvik",
-        "Christine Friestad"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-21",
-      "doi": "10.1007/s40489-026-00572-y",
-      "url": "https://doi.org/10.1007/s40489-026-00572-y",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
