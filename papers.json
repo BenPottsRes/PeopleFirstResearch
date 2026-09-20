@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:02:38Z",
+  "generated_at": "2026-09-20T11:27:27Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -531,6 +531,25 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -557,25 +576,6 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
-    },
-    {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -11920,80 +11920,6 @@
         "Quality of life"
       ],
       "abstract": "Abstract Caregiver skills training programmes are well-researched in the fields of autism and intellectual disability, but children with motor disorders such as cerebral palsy remain underrepresented despite their high prevalence. These caregivers face unique challenges, and group programmes may provide family-centred care through information provision, problem-solving and peer support. Systematic searches of five databases (CINAHL, Medline, Embase, PsychINFO and ERIC) were conducted for interventional studies of group programmes aiming to improve the skills, confidence and wellbeing of caregivers of children with neurodisability focusing on motor disorders. Data were extracted on study and intervention characteristics and outcomes. Risk of bias was assessed, effect sizes calculated, and results summarised descriptively using forest plots. Of 6093 studies identified, 21 studies met inclusion criteria (nine randomised-controlled trials, two quasi-experimental and ten pre-post designs). Most reported on programmes developed in resource-constrained settings and addressed caregiver skills, coping strategies, or health-promoting behaviours. Outcomes were grouped according to caregiver w…"
-    },
-    {
-      "id": "10.1007/s10803-026-07361-w",
-      "title": "Police Stops Among Adolescents With Intellectual and Developmental Disabilities: Implications for Traumatic Stress",
-      "authors": [
-        "Lindsey Webb",
-        "Avnita Chatterjee",
-        "Calliope Holingue",
-        "Dylan B. Jackson"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-22",
-      "doi": "10.1007/s10803-026-07361-w",
-      "url": "https://doi.org/10.1007/s10803-026-07361-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07347-8",
-      "title": "Risk of Autism Spectrum Disorder and Attention-Deficit/Hyperactivity Disorder in Children With Hypoxic-Ischemic Encephalopathy",
-      "authors": [
-        "Stephanie Chi Wing Chow",
-        "Yuliang Wang",
-        "Oscar Lok Kan Leung",
-        "Leticia Shiting Liang",
-        "Man Ting Soo",
-        "Khair Jalal",
-        "Siu Chun Mabel Wong",
-        "Tatia Mei Chun Lee",
-        "Winnie Wan Yee Tso"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-22",
-      "doi": "10.1007/s10803-026-07347-8",
-      "url": "https://doi.org/10.1007/s10803-026-07347-8",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "abstract": "Abstract Purpose This study investigated the risk of ASD and ADHD in children who have survived hypoxic-ischemic encephalopathy (HIE), one of the common conditions during birth resulting in neonatal brain injury. Methods A population-based cohort study analyzed electronic medical records of term infants with HIE born in public hospital in Hong Kong from 1st January 2004 to 31st December 2018 with followed-up until 31st Dec 2024. The association of HIE with ADHD and ASD was examined using log-binomial regression models adjusting sequentially for age, sex, and socioeconomic status (SES). Results A total of 533,230 children were included of which 349 cases had a diagnosis of HIE. Compared to children without history of HIE, the RR of ADHD in children with HIE was 1.94 (CI 1.40–2.68, p &lt; 0.001) in the unadjusted model, 1.83 (CI 1.32, 2.52, p &lt; 0.001) when adjusting for age &amp; sex, and 1.84 (CI 1.34, 2.55, p &lt; 0.001) when adjusting for age, sex and socioeconomic status (SES). The relationship between ASD and HIE did not reach statistical significance, RR = 1.58 ( p = 0.08, CI 0.93, 2.68) adjusted for age, sex and SES. A significant interaction effect was found between HIE an…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07363-8",
-      "title": "Factor Structure and Longitudinal Measurement Invariance of the Psychopathology in Autism Checklist",
-      "authors": [
-        "Arvid Nikolai Kildahl",
-        "Marianne Berg Halvorsen",
-        "Jane Margrete Askeland Hellerud",
-        "Sissel Berge Helverschou"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-22",
-      "doi": "10.1007/s10803-026-07363-8",
-      "url": "https://doi.org/10.1007/s10803-026-07363-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Purpose The Psychopathology in Autism Checklist (PAC) was developed to screen for mental health disorders in autistic adults with intellectual disabilities, focusing on identifying common mental health symptoms that do not overlap with autism characteristics. The current study aims to examine the factor structure and longitudinal measurement invariance of the PAC. Methods Existing data from a longitudinal multicentre study of mental health treatment in autistic individuals with intellectual disabilities were used. The PAC factor structure was examined using intake data ( n = 201, 60 females, aged 13–68) and the longitudinal measurement invariance was explored using data across the study’s three time points (intake, end of treatment, follow-up; n = 173, 56 females, aged 13–68). Results The four disorder-specific subscales of the PAC (psychosis, depression, anxiety, obsessive-compulsive disorder [OCD]) showed an acceptable but suboptimal fit, while the inclusion of the general adjustment problems (GAP) subscale resulted in a poorer fit. Three of the subscales (GAP, OCD, depression) showed longitudinal measurement invariance, while two did not (psychosis, anxiety), suggesting…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
