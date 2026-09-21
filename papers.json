@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:27:27Z",
+  "generated_at": "2026-09-21T12:52:07Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,35 @@
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
+      "id": "10.1007/s40489-026-00591-9",
+      "title": "Autistic People’s Experiences with Mental Health Services: an Umbrella Review",
+      "authors": [
+        "Dawn Adams",
+        "Stephanie Malone",
+        "Sonya Girdler",
+        "Annette Carroll"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-21",
+      "doi": "10.1007/s40489-026-00591-9",
+      "url": "https://doi.org/10.1007/s40489-026-00591-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Abstract Twice as many autistic people as non-autistic people are diagnosed with mental health conditions. However, there are significantly elevated unmet mental healthcare needs and an expanding need-treatment gap. This umbrella review synthesises and appraises reviews relating to autistic people’s access to, and experience with, mental health services. Searches were undertaken in nine databases in 12/22 and 03/24 (PROSPERO CRD42023395760). Reviews were included if they reported on qualitative, quantitative or mixed-methods studies of autistic people’s access to or experiences with mental health services. Two reviewers independently screened 7,622 titles/abstracts and 102 full texts. The 17 included reviews focused on four areas: barriers and facilitators to accessing mental health services ( k = 10), autism training, knowledge, and experience of mental health practitioners ( k = 4), autistic people’s access to, and predictors of access to, mental health services ( k = 5), autistic people’s experience with technology and telehealth in mental health services ( k = 4). Autistic people experience a broad range of challenges when accessing mental healthcare services. Strategies to sup…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1108/aia-02-2026-0016",
       "title": "A systematic review of the mental health support experiences of late diagnosed autistic adults in the UK",
       "authors": [
@@ -113,6 +142,59 @@
       ],
       "abstract": "Purpose This systematic review aims to summarise qualitative evidence on the experiences of late diagnosed autistic adults engaging with mental health support in the UK. Design/methodology/approach Data from 11 studies were analysed using accounts from 206 participants. Findings Themes were: It Felt Like They Didn’t Care: (subthemes: Dismissed and Misunderstood, Harmful, Not Helpful); Light at the End of the Tunnel (subthemes: Finding What Fits, Listening to Autistic Voices). Participants described frustrating experiences in accessing mental health support both prior to and post-diagnosis. Facilitators to positive mental healthcare included autism informed professionals and services that understood autistic people’s needs. Post-diagnostic supports emphasising a sense of community and self-acceptance were identified as helpful for good mental health outcomes. This review supports the importance of ease of access to autism assessment, appropriate service-wide trainings for mental health professionals and gatekeepers, and the urgent need for timely neuroaffirmative post-diagnostic support for adults receiving a late diagnosis. Originality/value While research with autistic people diag…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70370",
+      "title": "Recent Non‐Suicidal Self‐Injury in Autistic Adolescents and Adults: Characteristics, Clinical Correlates and Suicidal Thoughts and Behaviors",
+      "authors": [
+        "Safaa Eldeeb",
+        "Ligia Antezana",
+        "Caitlin M. Conner",
+        "Kelly B. Beck",
+        "Sarah E. Victor",
+        "Aliona Tsypes",
+        "Lori N. Scott",
+        "Carla A. Mazefsky"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-21",
+      "doi": "10.1002/aur.70370",
+      "url": "https://doi.org/10.1002/aur.70370",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Non‐suicidal self‐injury (NSSI) is prevalent among autistic adolescents and adults, yet research on its clinical characteristics, functions, and association with suicidal thoughts and behaviors (STBs) in this population remains limited. This study compared these domains between autistic adolescents and adults with and without recent NSSI. 520 autistic adolescents and adults (260 with recent (past 6 months) NSSI; 260 age‐ and sex‐matched without recent NSSI group) completed measures of NSSI characteristics and functions, STBs, mental health, and autistic traits. Group comparisons were conducted with Benjamini‐Hochberg correction for multiple comparisons. The recent‐NSSI group demonstrated poorer psychological quality of life, lower self‐compassion, greater depression and anxiety, elevated autistic traits, and greater alexithymia and camouflaging than the no‐recent‐NSSI group. Lifetime passive suicidal thoughts, active suicidal thoughts, and suicide attempts were over four, five, and three times more likely in the recent‐NSSI group, respectively. All 36 participants who reported a recent suicide attempt occurred exclusively in the recent‐NSSI group. Regarding NSSI phenomenol…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2733843",
+      "title": "Stakeholder perspectives on artificial intelligence–enabled social robots to support social communication in students with autism and other developmental disabilities",
+      "authors": [
+        "Gospel Y. Kim",
+        "Jihoi Na",
+        "Unggi Lee",
+        "Juhong Eom"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-20",
+      "doi": "10.1080/20473869.2026.2733843",
+      "url": "https://doi.org/10.1080/20473869.2026.2733843",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Person-first language used"
     },
     {
       "id": "10.1007/s40489-026-00597-3",
@@ -1533,26 +1615,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -1577,6 +1639,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -4091,24 +4173,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -4128,6 +4192,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -11895,31 +11977,6 @@
       ],
       "abstract": "Discourse on screen use in autism is largely dominated by risk-oriented, deficit-based, and alarmist narratives, often structured around the time-based construct of “screen time.” In this perspective essay, I argue for a more nuanced, context-sensitive, and neurodiversity-affirmative research agenda. Using an autoethnography-informed approach, I draw on my lived experiences as an autistic person alongside emerging empirical evidence to contend that screen use can also support autistic individuals in ways that closely align with their needs and preferences. I illustrate how screen use has enabled me to fulfill my core needs—particularly predictability, safety, autonomy, and meaningful belonging—which in turn facilitated my stress and sensory regulation, social development, executive functioning, and overall mental health across the lifespan. To move beyond limited framings of screen use in autism, I outline six key principles for a neurodiversity-affirmative research agenda: (1) adopt terminology that captures how and why digital media is used (e.g., “screen use” or “digital media engagement”); (2) examine the reasons, functions, and contexts of this use; (3) assess both potential b…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10882-026-10059-7",
-      "title": "Group Programmes to Improve the Skills, Confidence and Wellbeing of Caregivers of Children with Neurodisability: a Systematic Review of Effects",
-      "authors": [
-        "Kirsten Prest",
-        "Kirsten Barnicot",
-        "Stewart Drew",
-        "Catherine Hurt",
-        "David Nicklin",
-        "Angela Harden",
-        "Michelle Heys"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-23",
-      "doi": "10.1007/s10882-026-10059-7",
-      "url": "https://doi.org/10.1007/s10882-026-10059-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Abstract Caregiver skills training programmes are well-researched in the fields of autism and intellectual disability, but children with motor disorders such as cerebral palsy remain underrepresented despite their high prevalence. These caregivers face unique challenges, and group programmes may provide family-centred care through information provision, problem-solving and peer support. Systematic searches of five databases (CINAHL, Medline, Embase, PsychINFO and ERIC) were conducted for interventional studies of group programmes aiming to improve the skills, confidence and wellbeing of caregivers of children with neurodisability focusing on motor disorders. Data were extracted on study and intervention characteristics and outcomes. Risk of bias was assessed, effect sizes calculated, and results summarised descriptively using forest plots. Of 6093 studies identified, 21 studies met inclusion criteria (nine randomised-controlled trials, two quasi-experimental and ten pre-post designs). Most reported on programmes developed in resource-constrained settings and addressed caregiver skills, coping strategies, or health-promoting behaviours. Outcomes were grouped according to caregiver w…"
     }
   ]
 }
