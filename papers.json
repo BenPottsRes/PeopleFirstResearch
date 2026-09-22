@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:52:07Z",
+  "generated_at": "2026-09-22T11:41:48Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -81,6 +81,122 @@
         "service improvement"
       ],
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
+    },
+    {
+      "id": "10.1108/aia-04-2026-0041",
+      "title": "Media representations of young athletes with autism spectrum disorder: framing, inclusion and stakeholder perceptions",
+      "authors": [
+        "Marija Gombar",
+        "Mirjana Pejić Bach"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-24",
+      "doi": "10.1108/aia-04-2026-0041",
+      "url": "https://doi.org/10.1108/aia-04-2026-0041",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to examine how young athletes with autism spectrum disorder (ASD) are represented in media discourse and how parents and coaches perceive these portrayals, with particular attention to framing, inclusion and stereotyping. Design/methodology/approach A mixed-methods design was used, combining a content analysis of 63 media articles on young athletes with ASD with a survey of 442 adult respondents, including 284 parents and 158 coaches. The content analysis examined dominant narrative frames, emotional intensity and narrative complexity, while the survey assessed perceptions of emotional-inspirational framing, realism, inclusion and stereotyping. Findings Media portrayals of young athletes with ASD were more often framed through emotional and inspirational narratives than through performance-oriented and cognitively complex narratives. Higher emotional intensity was associated with lower narrative complexity, and international media were more likely than national media to use inspirational framing. Parents and coaches likewise perceived these portrayals as predominantly emotional and inspirational rather than realistic and performance-oriented. At the same tim…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1108/aia-12-2025-0128",
+      "title": "The relationship between cognitive function and narrative speech in attention-deficit/hyperactivity disorder and autism spectrum disorder",
+      "authors": [
+        "Hoorieh Darvishi",
+        "Mohammad Rezaei"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-24",
+      "doi": "10.1108/aia-12-2025-0128",
+      "url": "https://doi.org/10.1108/aia-12-2025-0128",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aims to compare cognitive functions and narrative speech abilities in Persian-speaking adolescents with autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD) and typically developing (TD) peers. It also examined the relationships between these cognitive functions and narrative speech within each group. Design/methodology/approach A cross-sectional comparative design was used with 90 children aged 12–14 years (25 ASD, 25 ADHD, 40 TD). Cognitive assessment included the Stroop task for attention and the Auditory Verbal Learning Test for memory. Narrative speech was evaluated with a standardized Persian test. Findings Significant differences were found in memory recall, narrative speech and memory recognition, but not in attention. The TD group outperformed both clinical groups. The ADHD group performed better than the ASD group in these domains. Attention did not differ between clinical groups. No significant correlations were found between cognitive functions and narrative speech within the clinical groups. Research limitations/implications Findings indicate narrative deficits in ASD and ADHD stem from disorder-specific factors beyond basi…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07511-0",
+      "title": "Longitudinal Measurement Invariance of the Autism Impact Measure (AIM) in Children and Adolescents With Autism",
+      "authors": [
+        "Nicole H. Zhong",
+        "Micah O. Mazurek"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-22",
+      "doi": "10.1007/s10803-026-07511-0",
+      "url": "https://doi.org/10.1007/s10803-026-07511-0",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/25739581261490537",
+      "title": "Autistic Mirror: A Conversational Artificial Intelligence Application for Neurological Self-Understanding in Autistic Adults and Their Support Networks",
+      "authors": [
+        "Aaron Wahl"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-22",
+      "doi": "10.1177/25739581261490537",
+      "url": "https://doi.org/10.1177/25739581261490537",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Autistic adults consistently report inadequate post-diagnostic support and a persistent gap between autism science and accessible, strengths-based resources for neurological self-understanding. Autistic Mirror is an artificial-intelligence-powered application that translates peer-reviewed autism research and autistic community knowledge into mechanism-first explanations of autistic neurology. It operates as a knowledge architecture, not a template database, generating each response at runtime from three layers. A system prompt, the fixed text the model receives with each request, encodes mechanistic explanations organized around 13 theoretical anchors and grounded in a publicly viewable mechanism lexicon of 97 entries, 89 verified against a peer-reviewed primary source through a 3-step check and 8 encoding autistic community knowledge without a peer-reviewed anchor, labeled accordingly. A perspective engine adjusts language to the declared role and optional intersectional and co-occurring-condition context, applying mechanism substance to the user’s situation. A values architecture in the system prompt refuses practices that work against autistic neurology and delivers responses wi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10882-026-10092-6",
+      "title": "Exploring Healthcare Professionals’ Views on Effective Feeding Interventions for Mealtime Management in Autistic Children: A Delphi Study",
+      "authors": [
+        "Arshima Khan",
+        "Skye Nandi Adams",
+        "Christopher Cofie Kuzagbe",
+        "Edith Luhanga"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-22",
+      "doi": "10.1007/s10882-026-10092-6",
+      "url": "https://doi.org/10.1007/s10882-026-10092-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Employment",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Abstract Aim: This study aimed to identify consensus among healthcare professionals regarding feeding interventions and strategies for autistic children and to explore their experiences and perspectives on implementing these approaches in the South African context. Methods: An e-Delphi study approach with qualitative follow-up was employed. A systematic review was conducted to identify effective feeding interventions and strategies. These findings informed the development of a survey to assess which interventions healthcare professionals identified as most effective. The survey was iteratively refined in line with the Delphi technique. Healthcare professionals with clinical and/or research experience in supporting autistic children with feeding difficulties. Participants completed two rounds of online questionnaires, followed by semi-structured interviews. Data was analysed descriptively and through thematic analysis. Results: Twelve healthcare professionals completed the survey, including speech-language therapists, occupational therapists, a social worker, and a teacher. Full agreement (100%) on the consensus to retain strategies in the intervention set was observed for Augmentat…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00591-9",
@@ -613,25 +729,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -658,6 +755,25 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
+    },
+    {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -1211,27 +1327,6 @@
       "abstract": "Objective: Therapist-guided Internet-delivered Cognitive Behavioral Therapy (iCBT) offers a promising alternative to face-to-face CBT (FTF-CBT) for adults with attention-deficit/hyperactivity disorder (ADHD), but evidence on its comparative efficacy and long-term maintenance mechanisms is limited. This study aimed to analyze the efficacy of group-format therapist-guided iCBT and FTF-CBT in medicated ADHD adults immediately post-treatment and at 1-year follow-up; and explored potential maintenance correlational pathways. Methods: Secondary analysis of data from two randomized controlled trials ( n = 184) comprised participants into three groups: group-format therapist-guided iCBT ( n = 43), group-format FTF-CBT ( n = 49), and treatment as usual (TAU; n = 92). Outcomes included ADHD core symptoms, anxiety symptoms, dysfunctional attitudes, and psychological quality of life (QoL). Linear Mixed Models were utilized to assess treatment efficacy both at post-treatment and 1-year follow-up, and exploratory structural equation path modeling was used to investigate synchronous correlational patterns of long-term symptom changes between the two active intervention groups. Results: At post-tr…"
     },
     {
-      "id": "10.1108/aia-04-2026-0041",
-      "title": "Media representations of young athletes with autism spectrum disorder: framing, inclusion and stakeholder perceptions",
-      "authors": [
-        "Marija Gombar",
-        "Mirjana Pejić Bach"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-08",
-      "doi": "10.1108/aia-04-2026-0041",
-      "url": "https://doi.org/10.1108/aia-04-2026-0041",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose This study aims to examine how young athletes with autism spectrum disorder (ASD) are represented in media discourse and how parents and coaches perceive these portrayals, with particular attention to framing, inclusion and stereotyping. Design/methodology/approach A mixed-methods design was used, combining a content analysis of 63 media articles on young athletes with ASD with a survey of 442 adult respondents, including 284 parents and 158 coaches. The content analysis examined dominant narrative frames, emotional intensity and narrative complexity, while the survey assessed perceptions of emotional-inspirational framing, realism, inclusion and stereotyping. Findings Media portrayals of young athletes with ASD were more often framed through emotional and inspirational narratives than through performance-oriented and cognitively complex narratives. Higher emotional intensity was associated with lower narrative complexity, and international media were more likely than national media to use inspirational framing. Parents and coaches likewise perceived these portrayals as predominantly emotional and inspirational rather than realistic and performance-oriented. At the same tim…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1108/aia-04-2026-0042",
       "title": "Challenges in the diagnosis of autism spectrum disorder among Latin American migrant communities in the Netherlands: a qualitative study",
       "authors": [
@@ -1615,6 +1710,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -1639,26 +1754,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -11248,31 +11343,6 @@
         "sensory"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-12-2025-0128",
-      "title": "The relationship between cognitive function and narrative speech in attention-deficit/hyperactivity disorder and autism spectrum disorder",
-      "authors": [
-        "Hoorieh Darvishi",
-        "Mohammad Rezaei"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-06-02",
-      "doi": "10.1108/aia-12-2025-0128",
-      "url": "https://doi.org/10.1108/aia-12-2025-0128",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose This study aims to compare cognitive functions and narrative speech abilities in Persian-speaking adolescents with autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD) and typically developing (TD) peers. It also examined the relationships between these cognitive functions and narrative speech within each group. Design/methodology/approach A cross-sectional comparative design was used with 90 children aged 12–14 years (25 ASD, 25 ADHD, 40 TD). Cognitive assessment included the Stroop task for attention and the Auditory Verbal Learning Test for memory. Narrative speech was evaluated with a standardized Persian test. Findings Significant differences were found in memory recall, narrative speech and memory recognition, but not in attention. The TD group outperformed both clinical groups. The ADHD group performed better than the ASD group in these domains. Attention did not differ between clinical groups. No significant correlations were found between cognitive functions and narrative speech within the clinical groups. Research limitations/implications Findings indicate narrative deficits in ASD and ADHD stem from disorder-specific factors beyond basi…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s40489-026-00559-9",
