@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:40:52Z",
+  "generated_at": "2026-09-24T11:49:21Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -104,6 +104,94 @@
       "abstract": "Purpose The number of people with an autism diagnosis is increasing globally. Health-care professionals may encounter these patients in any type of health-care setting, which makes it important that they understand the challenges autistic patients face in relation to health care. The purpose of this study was therefore to analyze autism-related complaints submitted to patient advisory boards in Sweden. Design/methodology/approach Eleven patient advisory boards provided patient complaint cases for the years 2022–2024. In total, 407 cases were analyzed both quantitatively (descriptive and comparative statistics) and qualitatively (manifest content analysis). Comparisons were made between physical and psychiatric health care. Findings Most complaints were submitted by caregivers of autistic patients and concerned negative staff attitudes; inappropriate or incorrect treatment; long waiting times (especially for neuropsychiatric assessments); insufficient information; poor coordination; limited involvement; and issues related to administration, accessibility, competence and continuity. A few complaints addressed the health-care environment and confidentiality breaches. Complaints about…"
     },
     {
+      "id": "10.1177/13623613261486405",
+      "title": "A Qualitative Investigation of Therapist and Diagnostician Perspectives on Visual Disorders in Autism Spectrum Disorder",
+      "authors": [
+        "Ayelet Baisa",
+        "Liat Gantz",
+        "Lior Naamati-Schneider"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-24",
+      "doi": "10.1177/13623613261486405",
+      "url": "https://doi.org/10.1177/13623613261486405",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Visual behaviors such as reduced eye contact, impaired eye tracking, limited joint attention, delayed responses to visual stimuli, and prolonged visual exploration of objects are central to autism spectrum disorder (ASD) diagnosis and intervention. However, these behaviors may also result from unrecognized visual impairments, increasing the risk of diagnostic overshadowing and suboptimal intervention planning. This study explored how diagnosticians and therapists perceive and address visual impairments in children with ASD, and how clinical reasoning and systemic factors influence their integration into diagnostic and therapeutic processes. A qualitative design was employed, based on in-depth interviews with 23 health care professionals, including developmental pediatricians, psychologists, occupational therapists, and speech-language therapists. Data were analyzed thematically to capture both theory-driven and emergent insights. Four themes emerged: vision assessment as an unstructured component of diagnosis and treatment; limited professional awareness of the vision - ASD relationship; constraints in applying clinical tools and guidelines; and reflective processes elicited during…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261489305",
+      "title": "Short Report: Autism in Popular Media: A Google Trends Analysis of Public Interest",
+      "authors": [
+        "Kevin Rebecchi",
+        "Anders Nordahl-Hansen"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-24",
+      "doi": "10.1177/13623613261489305",
+      "url": "https://doi.org/10.1177/13623613261489305",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Public interest in autism-related topics can be tracked through online search behaviour, yet little is known about how popular media portrayals structure this interest over time. This study analysed Google Trends data for autism and Asperger between 2004 and 2025, focusing on popular media-related results within the categories Movies and TV &amp; Video . Results showed a progressive increase in search interest for autism and a decline for Asperger in both categories, alongside a marked concentration of attention around a small number of highly recurrent media references. Male-coded characters dominated the sample, although several recent female portrayals generated substantial interest. These findings highlight the role of popular media in shaping the terms, figures and representations through which autism becomes visible online. Lay Abstract This study looked at how people search online for information about autism and Asperger’s, and how popular movies and TV shows influence that interest. By analysing Google Trends data from 2004 to 2025, we found that searches for autism have steadily increased, while searches for Asperger have declined. A small number of media portrayals accou…"
+    },
+    {
+      "id": "10.1177/13623613261486059",
+      "title": "Trauma and PTSD Symptoms: Exploring the Experiences of Autistic and Non-Autistic Adults in Midlife and Old Age",
+      "authors": [
+        "Ellen McAdams",
+        "Alice M. G. Quinton",
+        "Rebecca A. Charlton",
+        "Francesca Happé",
+        "Gavin R. Stewart"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-24",
+      "doi": "10.1177/13623613261486059",
+      "url": "https://doi.org/10.1177/13623613261486059",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Autistic children and young adults have been found to experience high rates of traumatic life experiences and symptoms of post-traumatic stress disorder (PTSD) when compared to non-autistic peers. Despite the lifelong nature of autism, these issues have yet to be studied in middle-aged and older autistic adults. This study used data from the AgeWellAutism study (autistic n = 446, non-autistic n = 183; aged 40%–90, ~55% female). Participants completed standardised measures of childhood and adulthood trauma, and symptoms of PTSD. The autistic group, particularly autistic women and people in midlife, reported significantly higher rates of childhood and adulthood trauma, including emotional and physical abuse/neglect and sexual abuse. The autistic group reported more PTSD symptoms than the non-autistic group. PTSD symptoms showed stronger associations with childhood and adulthood trauma in the autistic versus non-autistic group. Autism group membership remained a significant predictor of PTSD symptom scores when controlling for differences in reported trauma. These findings provide further evidence to suggest that autistic adults are at higher risk for trauma and developing symptoms of…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00595-5",
+      "title": "Power and Parental Legitimacy: Autistic Parents’ Encounters with Professionals - A Scoping Review",
+      "authors": [
+        "Alannah Bergeret",
+        "Catherine Sarginson",
+        "H. N. Lam Nguyen",
+        "Sarah Raza",
+        "Vivian Lee"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-24",
+      "doi": "10.1007/s40489-026-00595-5",
+      "url": "https://doi.org/10.1007/s40489-026-00595-5",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1108/aia-04-2026-0041",
       "title": "Media representations of young athletes with autism spectrum disorder: framing, inclusion and stakeholder perceptions",
       "authors": [
@@ -148,6 +236,29 @@
       ],
       "abstract": "Purpose This study aims to compare cognitive functions and narrative speech abilities in Persian-speaking adolescents with autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD) and typically developing (TD) peers. It also examined the relationships between these cognitive functions and narrative speech within each group. Design/methodology/approach A cross-sectional comparative design was used with 90 children aged 12–14 years (25 ASD, 25 ADHD, 40 TD). Cognitive assessment included the Stroop task for attention and the Auditory Verbal Learning Test for memory. Narrative speech was evaluated with a standardized Persian test. Findings Significant differences were found in memory recall, narrative speech and memory recognition, but not in attention. The TD group outperformed both clinical groups. The ADHD group performed better than the ASD group in these domains. Attention did not differ between clinical groups. No significant correlations were found between cognitive functions and narrative speech within the clinical groups. Research limitations/implications Findings indicate narrative deficits in ASD and ADHD stem from disorder-specific factors beyond basi…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07466-2",
+      "title": "Communication Efficiency in Autism is Unaffected by Neurotype Match: Findings From a Collaborative Referencing Task",
+      "authors": [
+        "Hannah De Laet",
+        "Annabel D. Nijhof",
+        "Jan R. Wiersema"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-23",
+      "doi": "10.1007/s10803-026-07466-2",
+      "url": "https://doi.org/10.1007/s10803-026-07466-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07535-6",
@@ -243,6 +354,31 @@
       ],
       "abstract": "Abstract This study evaluated the use of a time delay with a least-to-most prompting hierarchy and backward chaining, in the acquisition of a multi-step mand sequence for three young autistic children, who also use an augmentative and alternative communication (AAC) system. The AAC system involved the application Linggo™ and an iPad Mini ® , which functioned as a speech-generating device. The study used a changing criterion, within a reversal design, across a three phased task analysis. Each phase constituted a change in criterion, with a return to baseline between each phase. Two of the participants learned to complete all steps of the task analysis with relatively quick acquisition rates. The third participant only learned to perform the first step of the chain, though his absences and subsequent attrition may have contributed to that outcome. This study adds to the existing literature on the instruction of multi-step manding with an AAC for young autistic children, by adding support for the use of time delay, least-to-most prompting, and backwards chaining. Limitations, clinical and research implications are also discussed.",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261483444",
+      "title": "Clinically Meaningful Within-Patient Change in Core Attention-Deficit/Hyperactivity Disorder Symptoms in Children and Adolescents Treated With Centanafadine: Results From Two Phase 3 Randomized Clinical Trials",
+      "authors": [
+        "Caroline L. Ward",
+        "Dorothee Oberdhan",
+        "Na Jin",
+        "Taisa Skubiak",
+        "Judy van Stralen",
+        "Gregory W. Mattingly",
+        "Ann C. Childress"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-09-23",
+      "doi": "10.1177/10870547261483444",
+      "url": "https://doi.org/10.1177/10870547261483444",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Background: Attention-deficit/hyperactivity disorder (ADHD) is characterized by core symptoms of inattention, hyperactivity, and impulsivity that are persistent and can interfere with daily functioning. Centanafadine is a norepinephrine, dopamine, and serotonin reuptake inhibitor (NDSRI) and cental nervous symstem simulant recently FDA approved for the treatment of ADHD in both adult and pediatric patients. This secondary analysis explores the efficacy of centanafadine for the treatment of ADHD core symptoms as measured by the clinical scales, Conners 3–Parent Short and Conners 3–Self-Report Short, in a children and adolescents over 6 weeks of treatment. Methods: Two phase 3, multicenter, randomized, double-blind, placebo-controlled trials were conducted in the United States and Canada (children: NCT05428033; adolescents: NCT05257265).This analysis included children (6–12 years) or adolescents (13–17 years) with a primary diagnosis of ADHD randomized (1:1:1) to receive once-daily extended-release high-dose centanafadine, low-dose centanafadine, or placebo for 6 weeks without initial titration. Secondary outcomes presented here include the change from baseline in Conners 3–Parent Sh…"
     },
     {
       "id": "10.1007/s10803-026-07542-7",
@@ -984,6 +1120,25 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -1010,25 +1165,6 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
-    },
-    {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -2908,6 +3044,329 @@
       "abstract": "While the prevalence of attention deficit hyperactivity disorder (ADHD) among university students varies depending on the population studied, it has been estimated at approximately 16%. University students with ADHD may find that the condition affects their academic performance, social interactions, and well-being. This meta-ethnographic review synthesizes findings from 25 qualitative studies to explore the lived experiences of university students with ADHD. The studies, published between 2000 and 2023, were predominantly conducted in the United States with sample sizes ranging from 4 to 135 students. Students came from a broad range of academic disciplines and included undergraduates, recent graduates, and attendees of various post-secondary institutions. Findings show that difficulties with organization, time management, and maintaining focus during lectures or while completing assignments are common struggles. These students also face challenges transitioning into university life, particularly in terms of academic expectations and social participation. Whilst universities often provide accommodations such as extended test times, these supports are often too generic and insuffici…"
     },
     {
+      "id": "10.1002/aur.70302",
+      "title": "Mortality and Antidepressants Among Individuals With Autism Spectrum Disorder: A Population‐Based Cohort Study",
+      "authors": [
+        "Vincent Chin‐Hung Chen",
+        "Yu‐Hsin Huang",
+        "Yi‐Lung Chen",
+        "Michael E. Dewey",
+        "Tai‐Hsin Hung",
+        "Shu‐I Wu"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70302",
+      "url": "https://doi.org/10.1002/aur.70302",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Individuals with autism spectrum disorder (ASD) often experience premature mortality and co‐occurring psychiatric conditions, for which antidepressants are commonly prescribed. However, the long‐term safety of antidepressant use in this population remains unclear. Using data from the Taiwan National Health Insurance Research Database, we emulated a target trial to examine the association between antidepressant use and mortality among individuals with ASD aged 6–64 years diagnosed between 2000 and 2016. A three‐step approach of cloning, censoring, and inverse probability of censoring weighting was applied to address immortal‐time bias. Participants were followed for up to 5 years to assess all‐cause, suicide, and accidental‐cause mortality. Among 33,939 eligible individuals, 779 initiated antidepressants within a 3‐month grace period. Antidepressant use was not associated with all‐cause or suicide mortality overall. However, it was significantly associated with reduced accidental‐cause mortality at both 2 (HR = 0.15; 95% CI, 0.04–0.53) and 5 years (HR = 0.05; 95% CI, 0.01–0.20). Subgroup analysis revealed increased 2‐year all‐cause mortality among youths (HR = 4.40; 95% CI,…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70338",
+      "title": "Robots for Autism Therapy",
+      "authors": [
+        "Rebecca Ramnauth",
+        "Frederick Shic",
+        "Brian Scassellati"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70338",
+      "url": "https://doi.org/10.1002/aur.70338",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "ABSTRACT A growing body of work on robot‐mediated therapy suggests that robots can elicit engagement and novel social behaviors among users with autism. In this narrative review, we trace the full historical arc of this field to date, from its inception in 2001 to 2024, covering 304 studies that present a robot for autism support. Early work largely consisted of short, highly structured sessions conducted in controlled laboratory or clinical environments. More recent research has shifted toward longer‐term, real‐world deployments in which robots operate with greater autonomy and engage users over multiple days or weeks. However, evidence for lasting and generalized benefits is still limited. The literature also remains focused primarily on children, with comparatively little research involving adults or individuals across a wider range of support needs. Despite rapid growth over these past two decades, the research remains fragmented across disciplinary boundaries, with robotics and clinical communities advancing similar goals without a cohesive, shared research framework. To address this, we offer a translational roadmap that details what interventions work, for whom, under which…"
+    },
+    {
+      "id": "10.1002/aur.70329",
+      "title": "Heterogeneity of Response to Early Start Denver Model: Identifying Developmental Trajectories and Predictors of Cognitive Outcomes",
+      "authors": [
+        "I. Ilaridou",
+        "N. Kojovic",
+        "T. Chataing",
+        "K. Latrèche",
+        "F. Journal",
+        "S. Akhavan",
+        "C. Sandini",
+        "M. Schaer"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70329",
+      "url": "https://doi.org/10.1002/aur.70329",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Employment",
+        "Quality of life"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Autism is a highly heterogenous neurodevelopmental condition that can significantly compromise the quality of life. For children showing atypical trajectories of development in their early years, early and intensive intervention has shown promise in enhancing the development of language, cognition, and social skills. Yet, marked variability in intervention response remains insufficiently understood. Characterizing this heterogeneity is essential for informing intervention strategies tailored to each child's developmental profile. The aim of the present work was to identify subgroups based on intervention response trajectories and investigate subgroup‐specific predictors of intervention outcomes. We analyzed longitudinal data from 125 children (15.2–42.0 months) receiving the Early Start Denver Model (ESDM) intervention over an average follow‐up period of 2 years (mean = 1.93 ± 0.25). Children gained an average of 17 points in Developmental Quotient (DQ), showed significant improvement in their adaptive skills and exhibited diminution of autism features. Using K‐means clustering, we identified 3 subgroups: Progressive Group A (PrGA; 36%), which had the highest baseline cogn…"
+    },
+    {
+      "id": "10.1002/aur.70339",
+      "title": "Intact Visual Correlation Detection in Autistic Adults",
+      "authors": [
+        "Lukas Vogelsang",
+        "Marin Vogelsang",
+        "Cindy E. Li",
+        "Margaret Kjelgaard",
+        "Annie Cardinaux",
+        "Charles A. Nelson",
+        "Pawan Sinha"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70339",
+      "url": "https://doi.org/10.1002/aur.70339",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT The ability to detect recurring temporal co‐occurrence, or temporal correlation, of sensory events is fundamental for organizing perceptual input into coherent representations. Although past work has revealed differences across several aspects of temporal processing in autism, it is unknown whether autistic and non‐autistic individuals differ in the key computation of correlation detection. Here, we examined this question in the visual domain using an online task. A total of 143 age‐ and sex‐matched adults (73 autistic, 70 non‐autistic) viewed sequences in which three visual elements stochastically alternated between bright and dark states. Two of these were disks, and the third was a surrounding annulus. Participants indicated which of the two disks co‐occurred more reliably with the annulus. Accuracy increased systematically with correlation strength in both groups, but there were no significant group differences and no negative association between performance and autistic trait scores when controlling for nonverbal IQ. These findings suggest that visual correlation detection, under the conditions tested here, is preserved in autistic adults. This points to a key aspect…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70334",
+      "title": "The Effect of Online Parent Training With and Without Coaching Support on the Well‐Being of Families of Children With Neurodisabilities: A Randomized Controlled Trial",
+      "authors": [
+        "Jeffrey McCrossin",
+        "Ali Filali‐Mouhim",
+        "Michael Ungar",
+        "Karen McEwan",
+        "Kathleen O'Grady",
+        "Donna Thomson",
+        "Patricia Lingley‐Pottie",
+        "Patrick McGrath",
+        "Lucyna M. Lach"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70334",
+      "url": "https://doi.org/10.1002/aur.70334",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT Families of children with neurodisabilities often face significant child behavioral challenges that can affect overall family functioning and well‐being. This randomized controlled trial (RCT) used family resilience theory as the investigative framework to examine the impact of an online parenting program designed to address child behavioral challenges. Parents of children with a range of neurodisabilities were randomized into three groups: a self‐directed online parenting program, the same program with coaching support, and a control group. Family well‐being was measured using the SCORE‐15 at baseline, 5, and 10 months. The primary analysis included a per‐protocol sample comprising self‐directed participants who completed ≥ 8 of 12 modules, coached participants who completed ≥ 8 modules and ≥ 8 coaching sessions, and all control‐group participants. Linear mixed models (LMMs) were used to analyze the repeated measures data, followed by standard linear regression models to assess the average intervention effect at each time point. Clinically significant changes were calculated via the reliable change index (RCI). Of the 454 families randomized, 422 participants had at least…"
+    },
+    {
+      "id": "10.1002/aur.70327",
+      "title": "Adaptive Functioning, Sensory Processing, and Behavioral Problems in Autistic Children: The Moderating Role of Gender",
+      "authors": [
+        "Cory Shulman",
+        "Danielle Bitton",
+        "Zili Nir"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70327",
+      "url": "https://doi.org/10.1002/aur.70327",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently experience elevated emotional and behavioral difficulties, yet factors associated with variability remain incompletely understood. Adaptive functioning and sensory processing differences have been linked to behavioral problems, but little is known about whether associations differ between boys and girls. This study examined relationships between adaptive functioning, sensory processing, and behavioral problems in children with ASD, focusing on gender as a moderator. The purposive sampling included 110 autistic children ( M age = 85.61 months, SD = 31.51; 50 boys and 60 girls) and their primary caregivers. Adaptive functioning was assessed using the Vineland Adaptive Behavior Scales –Third Edition, sensory processing using the Short Sensory Profile , and behavioral problems using the C hild Behavior Checklist . Gender differences were examined with Mann–Whitney tests, associations with Spearman's correlations, and moderation analyses using PROCESS with bootstrap resampling. Girls demonstrated higher internalizing and externalizing behavioral problems than boys, whereas boys showed greater sensory processing differences…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70306",
+      "title": "Sexual and Reproductive Healthcare Among Youth With Autism and\n                    <scp>ADHD</scp>\n                    : A Population‐Based Study From Sweden",
+      "authors": [
+        "Lovisa Hellsten",
+        "Jessica Rast",
+        "Anna Nielsen",
+        "Anna Mia Ekström",
+        "Kristina Gemzell‐Danielsson",
+        "Kyriaki Kosidou",
+        "Viktor H. Ahlqvist"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70306",
+      "url": "https://doi.org/10.1002/aur.70306",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "ABSTRACT Youth with autism spectrum disorder or attention‐deficit/hyperactivity disorder (ADHD) may face barriers to sexual and reproductive health (SRH) services. Yet, data on preventive SRH service use remain limited, especially digital care. This population‐based registry study investigated whether patterns of SRH service use differed by digital versus in‐person care among 12–22‐year‐olds in Stockholm County (2018–2022). Among 454,405 youth (48.6% female; mean age 16 years), 11,850 were autistic, 31,144 had ADHD, and 9126 had both conditions; the majority of SRH contacts were in‐person visits. ADHD youth had higher adjusted Odds Ratios [aOR] of in‐person (females: 2.02 [95% CI, 1.93–2.11]; males, 1.46 [1.39–1.54]) and digital visits (females, 1.21 [1.14–1.29]; males, 1.26 [1.05–1.52]) than control peers. Autistic youth had lower aOR of in‐person (females, 0.67 [0.63–0.72]; males, 0.45 [0.40–0.51]) and digital visits (females, 0.79 [0.71–0.89]; males, 0.79 [0.54–1.15]). Intensity of use (incidence rate ratios) was higher among ADHD youth but similar among autistic females compared with control peers. Autistic females were more likely to consult physicians but less likely to see m…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1002/aur.70321",
+      "title": "Socioeconomic Status and Quantity of Shared Book Reading, But Not Screen Time, are Positively Associated With Language Skills in a Nationally Representative Sample of Autistic Children",
+      "authors": [
+        "M. Pecukonis",
+        "A. Geffin"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70321",
+      "url": "https://doi.org/10.1002/aur.70321",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Studies have shown that both distal and proximal environmental factors influence language development in neurotypical children. More specifically, higher socioeconomic status (SES) and more frequent shared book reading have been linked to higher language skills in neurotypical children, while higher screen time has been linked to lower language skills. However, little research has focused on understanding how the environment shapes language development in autistic children, who often experience challenges using and/or understanding spoken language. The present study used data from the 2018–2022 United States National Survey of Children's Health to investigate the associations between SES, quantity of shared book reading and screen time experienced at home, and expressive and receptive language skills in a nationally representative sample of two to five year old autistic children. Structural equation modeling revealed that autistic children from higher SES households, and who experienced shared book reading more frequently at home, had higher expressive and receptive language skills. Shared book reading also mediated the association between SES and children's language skill…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70318",
+      "title": "Through Parents' Eyes: Perspectives on Child Development and Family Experience During\n                    <scp>ESDM</scp>\n                    Intervention",
+      "authors": [
+        "Kenza Latrèche",
+        "Fiona Journal",
+        "Michel Godel",
+        "Martina Franchini",
+        "Nada Kojovic",
+        "David Cimasoni",
+        "Marcin Czajkowski",
+        "Lucie Delieutraz",
+        "Chloé Laubu",
+        "Marie Schaer"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70318",
+      "url": "https://doi.org/10.1002/aur.70318",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Early intensive intervention for autistic children aims to support developmental progress in social and communication domains. Although outcomes are typically assessed using standardized measures of child development, parental perspectives during early intervention remain largely understudied. Here, we examined parental perceptions after 6 months of intensive Early Start Denver Model (ESDM) intervention. Participants were parents of 104 autistic children aged 1.3–3.5 years enrolled in an individualized therapist‐delivered ESDM intervention following diagnosis confirmation. Child development was assessed at entry (baseline) and 6 months later (follow‐up). At follow‐up, parents completed an 18‐item questionnaire capturing their perceptions of child progress across twelve domains as well as changes in parenting skills, personal well‐being, and family life. Descriptive analyses, item‐level correlations, and principal component analysis (PCA) were conducted to identify underlying components. Parents generally indicated improvements across all domains, with aggravation rarely reported. PCA revealed three intercorrelated components (Social Communication, Nonverbal Social Engageme…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70317",
+      "title": "Development and Validation of a\n                    <scp>Japanese</scp>\n                    Version of the Sensory Experience Questionnaire (\n                    <scp>SEQ</scp>\n                    ) 3.0: Structural Differences of Sensory Features Across Autistic Children",
+      "authors": [
+        "Takeshi Atsumi",
+        "Haruka Ito",
+        "Akane Shinjo",
+        "Tomoe Fukutomi",
+        "Yasuo Terao",
+        "Masakazu Ide",
+        "Kanae Matsushima"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70317",
+      "url": "https://doi.org/10.1002/aur.70317",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT People with autism spectrum disorder (ASD) often have unique sensory experiences. For both research and clinical purposes, tools that measure sensory features in autism are valuable; however, a gold‐standard tool does not yet exist. The Sensory Experience Questionnaire (SEQ) 3.0 is a well‐established caregiver‐/parent‐report questionnaire for autistic children and other neurodivergent individuals. This study aimed to develop and psychometrically validate the Japanese version of the SEQ 3.0 (SEQ‐J). After validation, we examined the differences in sensory response patterns among children with ASD, those with other neurodevelopmental conditions, and typically developing (TD) children to determine whether the SEQ assesses ASD‐specific sensory features. We recruited 154 children with ASD (44 with attention‐deficit hyperactivity disorder [ADHD] and 66 with other conditions) and 156 TD children, aged 6–12 years. Confirmatory factor analyses revealed an acceptable model fit for four content factors (sensory hyper‐ and hyporesponsiveness, sensory interests, repetitive and seeking behaviors, and enhanced perception) and six method factors (five sensory modalities and social context…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70323",
+      "title": "Counting, Cardinality and Conservation in Autistic Children",
+      "authors": [
+        "Irene Polo‐Blanco",
+        "Raúl Fernández‐Cobos",
+        "Agustín Vicente"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70323",
+      "url": "https://doi.org/10.1002/aur.70323",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "ABSTRACT This study examined the understanding of cardinality and conservation in children with and without autism (aged 4–7 years, without intellectual disability), and its relation to counting strategies. A total of 82 children participated in the study, including 41 autistic children (36 boys, 5 girls) and 41 age‐ and sex‐matched non‐autistic peers. While both groups demonstrated similar mastery of cardinality, autistic children showed lower performance in conservation tasks. Response times were longer in autistic children during counting tasks. Concerning counting strategies, autistic children relied more on verbal counting with pointing (VCP) and used the rapid recognition strategy (N) less frequently, even for small canonical sets. While both strategies (N and VCP) supported cardinality in both autistic and non‐autistic children, only the N strategy appeared closely linked to successful conservation performance. These findings highlight two areas of relative difficulty for some autistic children and point to the potential of targeted interventions to strengthen foundational numerical skills and support later mathematical development.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70316",
+      "title": "‘They Even Have the Capacity, but the Places Aren't Prepared to Receive Them’: Community Environment and Participation of Autistic Children in a Family‐Engaged Research Analysis",
+      "authors": [
+        "Léia Cordeiro de Oliveira",
+        "Cid André Fidelis de Paula Gomes",
+        "Gustavo Pietracatelli Janizello",
+        "Wallace Pereira Silva",
+        "Alice Soper",
+        "Monika Novak‐Pavlic",
+        "Olaf Kraus de Camargo",
+        "Soraia Micaela Silva"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-09-01",
+      "doi": "10.1002/aur.70316",
+      "url": "https://doi.org/10.1002/aur.70316",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "ABSTRACT To examine the associations between community environmental barriers and support and the participation of autistic children, and to interpret these findings from the perspective of caregivers engaged as research partners. This cross‐sectional observational study employed a mixed‐methods design. The first phase comprised analytical and exploratory quantitative analyses. Caregivers of autistic children aged 5–12 years reported participation outcomes—frequency, involvement, and desire for change—using the Brazilian version of the Participation and Environment Measure for Children and Youth (PEM‐CY) and CARS‐BR with 80 caregivers of children aged 5–12. Phase 1 involved path analysis to test associations between community environment, income, autism severity, and participation (frequency, involvement, desire for change). Phase 2 employed a constructivist‐interpretivist approach, where five caregivers acted as research partners to interpret quantitative results via reflexive thematic analysis. Quantitative analysis showed no statistically significant associations between environmental factors and participation outcomes, despite frequent reports of barriers. In Phase 2, research…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/10870547261483443",
       "title": "Barriers Associated With the Implementation of Homework in Behavioral Parent Training Among Parents With ADHD Symptoms",
       "authors": [
@@ -4523,24 +4982,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -4560,6 +5001,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -5110,28 +5569,6 @@
         "Mental health"
       ],
       "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
-    },
-    {
-      "id": "10.1002/aur.70302",
-      "title": "Mortality and Antidepressants Among Individuals With Autism Spectrum Disorder: A Population‐Based Cohort Study",
-      "authors": [
-        "Vincent Chin‐Hung Chen",
-        "Yu‐Hsin Huang",
-        "Yi‐Lung Chen",
-        "Michael E. Dewey",
-        "Tai‐Hsin Hung",
-        "Shu‐I Wu"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-12",
-      "doi": "10.1002/aur.70302",
-      "url": "https://doi.org/10.1002/aur.70302",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Individuals with autism spectrum disorder (ASD) often experience premature mortality and co‐occurring psychiatric conditions, for which antidepressants are commonly prescribed. However, the long‐term safety of antidepressant use in this population remains unclear. Using data from the Taiwan National Health Insurance Research Database, we emulated a target trial to examine the association between antidepressant use and mortality among individuals with ASD aged 6–64 years diagnosed between 2000 and 2016. A three‐step approach of cloning, censoring, and inverse probability of censoring weighting was applied to address immortal‐time bias. Participants were followed for up to 5 years to assess all‐cause, suicide, and accidental‐cause mortality. Among 33,939 eligible individuals, 779 initiated antidepressants within a 3‐month grace period. Antidepressant use was not associated with all‐cause or suicide mortality overall. However, it was significantly associated with reduced accidental‐cause mortality at both 2 (HR = 0.15; 95% CI, 0.04–0.53) and 5 years (HR = 0.05; 95% CI, 0.01–0.20). Subgroup analysis revealed increased 2‐year all‐cause mortality among youths (HR = 4.40; 95% CI,…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07483-1",
@@ -5720,31 +6157,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1002/aur.70338",
-      "title": "Robots for Autism Therapy",
-      "authors": [
-        "Rebecca Ramnauth",
-        "Frederick Shic",
-        "Brian Scassellati"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-04",
-      "doi": "10.1002/aur.70338",
-      "url": "https://doi.org/10.1002/aur.70338",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Healthcare"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "ABSTRACT A growing body of work on robot‐mediated therapy suggests that robots can elicit engagement and novel social behaviors among users with autism. In this narrative review, we trace the full historical arc of this field to date, from its inception in 2001 to 2024, covering 304 studies that present a robot for autism support. Early work largely consisted of short, highly structured sessions conducted in controlled laboratory or clinical environments. More recent research has shifted toward longer‐term, real‐world deployments in which robots operate with greater autonomy and engage users over multiple days or weeks. However, evidence for lasting and generalized benefits is still limited. The literature also remains focused primarily on children, with comparatively little research involving adults or individuals across a wider range of support needs. Despite rapid growth over these past two decades, the research remains fragmented across disciplinary boundaries, with robotics and clinical communities advancing similar goals without a cohesive, shared research framework. To address this, we offer a translational roadmap that details what interventions work, for whom, under which…"
-    },
-    {
       "id": "10.1186/s13229-026-00736-x",
       "title": "Predicting early intervention outcomes in autism via individual participant data mega-analysis",
       "authors": [
@@ -5902,67 +6314,6 @@
       ]
     },
     {
-      "id": "10.1002/aur.70329",
-      "title": "Heterogeneity of Response to Early Start Denver Model: Identifying Developmental Trajectories and Predictors of Cognitive Outcomes",
-      "authors": [
-        "I. Ilaridou",
-        "N. Kojovic",
-        "T. Chataing",
-        "K. Latrèche",
-        "F. Journal",
-        "S. Akhavan",
-        "C. Sandini",
-        "M. Schaer"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-03",
-      "doi": "10.1002/aur.70329",
-      "url": "https://doi.org/10.1002/aur.70329",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Employment",
-        "Quality of life"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Autism is a highly heterogenous neurodevelopmental condition that can significantly compromise the quality of life. For children showing atypical trajectories of development in their early years, early and intensive intervention has shown promise in enhancing the development of language, cognition, and social skills. Yet, marked variability in intervention response remains insufficiently understood. Characterizing this heterogeneity is essential for informing intervention strategies tailored to each child's developmental profile. The aim of the present work was to identify subgroups based on intervention response trajectories and investigate subgroup‐specific predictors of intervention outcomes. We analyzed longitudinal data from 125 children (15.2–42.0 months) receiving the Early Start Denver Model (ESDM) intervention over an average follow‐up period of 2 years (mean = 1.93 ± 0.25). Children gained an average of 17 points in Developmental Quotient (DQ), showed significant improvement in their adaptive skills and exhibited diminution of autism features. Using K‐means clustering, we identified 3 subgroups: Progressive Group A (PrGA; 36%), which had the highest baseline cogn…"
-    },
-    {
-      "id": "10.1002/aur.70339",
-      "title": "Intact Visual Correlation Detection in Autistic Adults",
-      "authors": [
-        "Lukas Vogelsang",
-        "Marin Vogelsang",
-        "Cindy E. Li",
-        "Margaret Kjelgaard",
-        "Annie Cardinaux",
-        "Charles A. Nelson",
-        "Pawan Sinha"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-03",
-      "doi": "10.1002/aur.70339",
-      "url": "https://doi.org/10.1002/aur.70339",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT The ability to detect recurring temporal co‐occurrence, or temporal correlation, of sensory events is fundamental for organizing perceptual input into coherent representations. Although past work has revealed differences across several aspects of temporal processing in autism, it is unknown whether autistic and non‐autistic individuals differ in the key computation of correlation detection. Here, we examined this question in the visual domain using an online task. A total of 143 age‐ and sex‐matched adults (73 autistic, 70 non‐autistic) viewed sequences in which three visual elements stochastically alternated between bright and dark states. Two of these were disks, and the third was a surrounding annulus. Participants indicated which of the two disks co‐occurred more reliably with the annulus. Accuracy increased systematically with correlation strength in both groups, but there were no significant group differences and no negative association between performance and autistic trait scores when controlling for nonverbal IQ. These findings suggest that visual correlation detection, under the conditions tested here, is preserved in autistic adults. This points to a key aspect…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1186/s11689-026-09703-2",
       "title": "Self- and parent-reported executive function and self-determination in autistic teens: domain-specific relationships and cross-rater considerations",
       "authors": [
@@ -6043,23 +6394,6 @@
       ],
       "abstract": "Abstract Purpose While distinct pragmatic profiles are well-documented, grammatical abilities in autistic children show considerable heterogeneity: some exhibit grammatical difficulties, while others demonstrate age-appropriate grammar. Yet, one construction remains underinvestigated: passives of psychological/mental state verbs (“remember”, “love”). This is critical because young children are known to comprehend passives of agentive verbs (“kiss”, “push”) via an adjectival passive strategy before acquiring passive grammar. This strategy fails for psychological verbs, making them the true test of passive knowledge. Despite extensive research in typically developing (TD) populations and populations with other neurodevelopmental conditions, there is little research examining both types of verbal passive in English-speaking autistic children. Methods We examined comprehension of agentive and psychological passives, short and long, in 48 autistic children divided into those with co-occurring language impairment (ALI, n = 26, mean age: 11;10), and those without (ALN, n = 22, mean age = 11;02), compared to two control groups matched on non-verbal reasoning (TD-Match-ALI, n = 22, mean age…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07360-x",
-      "title": "Eating and Sleep Disturbances in Individuals With Autism Spectrum Disorder in Turkey: A Systematic Review",
-      "authors": [
-        "Mehmet Geyik",
-        "Nerimal Aral"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1007/s10803-026-07360-x",
-      "url": "https://doi.org/10.1007/s10803-026-07360-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/13623613261455375",
@@ -6947,30 +7281,6 @@
       "abstract": "Objective: The goal of this study was to (a) identify which dimensions of emotion dysregulation (i.e., emotion recognition/understanding, emotion regulation, emotion reactivity/lability, callous-unemotional behaviors) are most strongly associated with peer functioning for young children with ADHD only and with comorbid disruptive behavior disorders (ADHD + DBD) as compared to typically developing (TD) children and (b) assess whether improvements in children’s peer functioning are linked to changes in emotion regulation. Method: The sample included 323 children (68.7% boys; M age = 5.47, SD = 0.77, 81.4% Hispanic) with ADHD only ( n = 46), ADHD + DBD ( n = 129), and TD ( n = 148). Domains of emotion dysregulation were measured via parent/teacher report and behavioral observation. Peer functioning was examined via teacher report and sociometric measures administered in a summer camp setting. Results: Analyses of Covariance revealed significant differences in peer functioning and emotion dysregulation across diagnostic groups (Cohen’s d range from = −0.47 to 0.39). Multiple linear regressions indicated significant associations between all subdomains of emotion dysregulation and peer f…"
     },
     {
-      "id": "10.1002/aur.70334",
-      "title": "The Effect of Online Parent Training With and Without Coaching Support on the Well‐Being of Families of Children With Neurodisabilities: A Randomized Controlled Trial",
-      "authors": [
-        "Jeffrey McCrossin",
-        "Ali Filali‐Mouhim",
-        "Michael Ungar",
-        "Karen McEwan",
-        "Kathleen O'Grady",
-        "Donna Thomson",
-        "Patricia Lingley‐Pottie",
-        "Patrick McGrath",
-        "Lucyna M. Lach"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-30",
-      "doi": "10.1002/aur.70334",
-      "url": "https://doi.org/10.1002/aur.70334",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Families of children with neurodisabilities often face significant child behavioral challenges that can affect overall family functioning and well‐being. This randomized controlled trial (RCT) used family resilience theory as the investigative framework to examine the impact of an online parenting program designed to address child behavioral challenges. Parents of children with a range of neurodisabilities were randomized into three groups: a self‐directed online parenting program, the same program with coaching support, and a control group. Family well‐being was measured using the SCORE‐15 at baseline, 5, and 10 months. The primary analysis included a per‐protocol sample comprising self‐directed participants who completed ≥ 8 of 12 modules, coached participants who completed ≥ 8 modules and ≥ 8 coaching sessions, and all control‐group participants. Linear mixed models (LMMs) were used to analyze the repeated measures data, followed by standard linear regression models to assess the average intervention effect at each time point. Clinically significant changes were calculated via the reliable change index (RCI). Of the 454 families randomized, 422 participants had at least…"
-    },
-    {
       "id": "10.1007/s10803-026-07446-6",
       "title": "Feasibility and Effectiveness of the WHO Caregiver Skills Training Program in South Korea: Adaptation to an Online Video-Based Coaching Model",
       "authors": [
@@ -7106,31 +7416,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70327",
-      "title": "Adaptive Functioning, Sensory Processing, and Behavioral Problems in Autistic Children: The Moderating Role of Gender",
-      "authors": [
-        "Cory Shulman",
-        "Danielle Bitton",
-        "Zili Nir"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-29",
-      "doi": "10.1002/aur.70327",
-      "url": "https://doi.org/10.1002/aur.70327",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently experience elevated emotional and behavioral difficulties, yet factors associated with variability remain incompletely understood. Adaptive functioning and sensory processing differences have been linked to behavioral problems, but little is known about whether associations differ between boys and girls. This study examined relationships between adaptive functioning, sensory processing, and behavioral problems in children with ASD, focusing on gender as a moderator. The purposive sampling included 110 autistic children ( M age = 85.61 months, SD = 31.51; 50 boys and 60 girls) and their primary caregivers. Adaptive functioning was assessed using the Vineland Adaptive Behavior Scales –Third Edition, sensory processing using the Short Sensory Profile , and behavioral problems using the C hild Behavior Checklist . Gender differences were examined with Mann–Whitney tests, associations with Spearman's correlations, and moderation analyses using PROCESS with bootstrap resampling. Girls demonstrated higher internalizing and externalizing behavioral problems than boys, whereas boys showed greater sensory processing differences…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1007/s10803-026-07465-3",
       "title": "Handling of Reputation-Damaging Information in Adolescents and Young Adults With Autism",
       "authors": [
@@ -7203,36 +7488,6 @@
       "abstract": "Purpose This study examines whether early indicators of emerging special educational needs and disabilities (SEND) vulnerability are observable within routine school experience prior to crisis-level participation breakdown, and how such signals are interpreted within school systems. Drawing on retrospective case analysis, it explores the timing, character and organisational interpretation of early warning signs embedded within apparently successful participation. This study aims to deepen understanding of how hidden vulnerability develops over time and to inform earlier, more responsive approaches to identification and support in mainstream education. Design/methodology/approach This study uses a retrospective qualitative case-based design, drawing on anonymised assessment material generated through routine professional practice. Four cases of pupils aged 12–15, whose participation in mainstream education deteriorated to school refusal or withdrawal, were purposively selected. Data sources included semi-structured parental interviews and school documentation. These were analysed using cross-case reflexive thematic analysis to reconstruct participation trajectories and identify earl…"
     },
     {
-      "id": "10.1002/aur.70306",
-      "title": "Sexual and Reproductive Healthcare Among Youth With Autism and\n                    <scp>ADHD</scp>\n                    : A Population‐Based Study From Sweden",
-      "authors": [
-        "Lovisa Hellsten",
-        "Jessica Rast",
-        "Anna Nielsen",
-        "Anna Mia Ekström",
-        "Kristina Gemzell‐Danielsson",
-        "Kyriaki Kosidou",
-        "Viktor H. Ahlqvist"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-28",
-      "doi": "10.1002/aur.70306",
-      "url": "https://doi.org/10.1002/aur.70306",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "ABSTRACT Youth with autism spectrum disorder or attention‐deficit/hyperactivity disorder (ADHD) may face barriers to sexual and reproductive health (SRH) services. Yet, data on preventive SRH service use remain limited, especially digital care. This population‐based registry study investigated whether patterns of SRH service use differed by digital versus in‐person care among 12–22‐year‐olds in Stockholm County (2018–2022). Among 454,405 youth (48.6% female; mean age 16 years), 11,850 were autistic, 31,144 had ADHD, and 9126 had both conditions; the majority of SRH contacts were in‐person visits. ADHD youth had higher adjusted Odds Ratios [aOR] of in‐person (females: 2.02 [95% CI, 1.93–2.11]; males, 1.46 [1.39–1.54]) and digital visits (females, 1.21 [1.14–1.29]; males, 1.26 [1.05–1.52]) than control peers. Autistic youth had lower aOR of in‐person (females, 0.67 [0.63–0.72]; males, 0.45 [0.40–0.51]) and digital visits (females, 0.79 [0.71–0.89]; males, 0.79 [0.54–1.15]). Intensity of use (incidence rate ratios) was higher among ADHD youth but similar among autistic females compared with control peers. Autistic females were more likely to consult physicians but less likely to see m…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1177/25739581261473988",
       "title": "Beyond “Misleading”: Rethinking the Evaluation of Autism and ADHD Social Media Content",
       "authors": [
@@ -7295,30 +7550,6 @@
         "lived experience"
       ],
       "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) remains underdiagnosed in women, with many receiving a diagnosis later in life. This qualitative study explored the lived experiences of women who received an ADHD diagnosis in adulthood, addressing a limited gap in the current literature. Method: Twelve women aged 45 to 58 participated in semi-structured interviews, which were analysed using reflexive thematic analysis. Results: Three key themes were identified: Discovering ADHD: Revealing the Hidden Struggles , Battling the Emotional Storms of ADHD , and Living with ADHD . Participants described years of misdiagnosis, internalised stigma, and emotional dysregulation, often compounded by hormonal fluctuations that impacted symptom severity and medication efficacy. Despite these challenges, many women reframed aspects of their ADHD, particularly hyperfocus, as a functional strength and described their diagnosis as profoundly validating. Conclusion: The study highlights the need for improved gender-sensitive diagnostic practices, clinician awareness of ADHD symptom presentation across the female lifespan, and tailored treatment approaches that account for hormonal changes. F…"
-    },
-    {
-      "id": "10.1002/aur.70321",
-      "title": "Socioeconomic Status and Quantity of Shared Book Reading, But Not Screen Time, are Positively Associated With Language Skills in a Nationally Representative Sample of Autistic Children",
-      "authors": [
-        "M. Pecukonis",
-        "A. Geffin"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-27",
-      "doi": "10.1002/aur.70321",
-      "url": "https://doi.org/10.1002/aur.70321",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Studies have shown that both distal and proximal environmental factors influence language development in neurotypical children. More specifically, higher socioeconomic status (SES) and more frequent shared book reading have been linked to higher language skills in neurotypical children, while higher screen time has been linked to lower language skills. However, little research has focused on understanding how the environment shapes language development in autistic children, who often experience challenges using and/or understanding spoken language. The present study used data from the 2018–2022 United States National Survey of Children's Health to investigate the associations between SES, quantity of shared book reading and screen time experienced at home, and expressive and receptive language skills in a nationally representative sample of two to five year old autistic children. Structural equation modeling revealed that autistic children from higher SES households, and who experienced shared book reading more frequently at home, had higher expressive and receptive language skills. Shared book reading also mediated the association between SES and children's language skill…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10870547261463433",
@@ -7448,69 +7679,6 @@
         "Communication"
       ],
       "abstract": "Background: Youth with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience delays in obtaining their driver’s license relative to their same-aged peers. However, despite these delays, there is no evidence of improved driving outcomes for these youth. Additionally, graduated driver’s licensing laws typically terminate around the age of 18, giving some youth less structure prior to independently transitioning to the road. To date, no study has examined the cognitive and parenting factors that are related to delays in licensure for adolescents with ADHD within the context of an intervention (i.e., Supporting a Teen’s Effective Entry to the Roadway; STEER). The current study utilized logistic regression analyses to determine if teen cognitive functioning, parenting, and the intervention were related to licensure status at 12-month follow-up. Method: Baseline cognition (i.e., reaction time variability, working memory, inhibitory control), baseline parental monitoring, baseline negative parenting, and licensure status were collected on 172 adolescents with ADHD enrolled in a randomized, controlled trial. Results: There was a significant interaction between react…"
-    },
-    {
-      "id": "10.1002/aur.70318",
-      "title": "Through Parents' Eyes: Perspectives on Child Development and Family Experience During\n                    <scp>ESDM</scp>\n                    Intervention",
-      "authors": [
-        "Kenza Latrèche",
-        "Fiona Journal",
-        "Michel Godel",
-        "Martina Franchini",
-        "Nada Kojovic",
-        "David Cimasoni",
-        "Marcin Czajkowski",
-        "Lucie Delieutraz",
-        "Chloé Laubu",
-        "Marie Schaer"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-25",
-      "doi": "10.1002/aur.70318",
-      "url": "https://doi.org/10.1002/aur.70318",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Early intensive intervention for autistic children aims to support developmental progress in social and communication domains. Although outcomes are typically assessed using standardized measures of child development, parental perspectives during early intervention remain largely understudied. Here, we examined parental perceptions after 6 months of intensive Early Start Denver Model (ESDM) intervention. Participants were parents of 104 autistic children aged 1.3–3.5 years enrolled in an individualized therapist‐delivered ESDM intervention following diagnosis confirmation. Child development was assessed at entry (baseline) and 6 months later (follow‐up). At follow‐up, parents completed an 18‐item questionnaire capturing their perceptions of child progress across twelve domains as well as changes in parenting skills, personal well‐being, and family life. Descriptive analyses, item‐level correlations, and principal component analysis (PCA) were conducted to identify underlying components. Parents generally indicated improvements across all domains, with aggravation rarely reported. PCA revealed three intercorrelated components (Social Communication, Nonverbal Social Engageme…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70317",
-      "title": "Development and Validation of a\n                    <scp>Japanese</scp>\n                    Version of the Sensory Experience Questionnaire (\n                    <scp>SEQ</scp>\n                    ) 3.0: Structural Differences of Sensory Features Across Autistic Children",
-      "authors": [
-        "Takeshi Atsumi",
-        "Haruka Ito",
-        "Akane Shinjo",
-        "Tomoe Fukutomi",
-        "Yasuo Terao",
-        "Masakazu Ide",
-        "Kanae Matsushima"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-25",
-      "doi": "10.1002/aur.70317",
-      "url": "https://doi.org/10.1002/aur.70317",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT People with autism spectrum disorder (ASD) often have unique sensory experiences. For both research and clinical purposes, tools that measure sensory features in autism are valuable; however, a gold‐standard tool does not yet exist. The Sensory Experience Questionnaire (SEQ) 3.0 is a well‐established caregiver‐/parent‐report questionnaire for autistic children and other neurodivergent individuals. This study aimed to develop and psychometrically validate the Japanese version of the SEQ 3.0 (SEQ‐J). After validation, we examined the differences in sensory response patterns among children with ASD, those with other neurodevelopmental conditions, and typically developing (TD) children to determine whether the SEQ assesses ASD‐specific sensory features. We recruited 154 children with ASD (44 with attention‐deficit hyperactivity disorder [ADHD] and 66 with other conditions) and 156 TD children, aged 6–12 years. Confirmatory factor analyses revealed an acceptable model fit for four content factors (sensory hyper‐ and hyporesponsiveness, sensory interests, repetitive and seeking behaviors, and enhanced perception) and six method factors (five sensory modalities and social context…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07458-2",
@@ -7799,25 +7967,6 @@
         "Mental health"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1002/aur.70323",
-      "title": "Counting, Cardinality and Conservation in Autistic Children",
-      "authors": [
-        "Irene Polo‐Blanco",
-        "Raúl Fernández‐Cobos",
-        "Agustín Vicente"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-23",
-      "doi": "10.1002/aur.70323",
-      "url": "https://doi.org/10.1002/aur.70323",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT This study examined the understanding of cardinality and conservation in children with and without autism (aged 4–7 years, without intellectual disability), and its relation to counting strategies. A total of 82 children participated in the study, including 41 autistic children (36 boys, 5 girls) and 41 age‐ and sex‐matched non‐autistic peers. While both groups demonstrated similar mastery of cardinality, autistic children showed lower performance in conservation tasks. Response times were longer in autistic children during counting tasks. Concerning counting strategies, autistic children relied more on verbal counting with pointing (VCP) and used the rapid recognition strategy (N) less frequently, even for small canonical sets. While both strategies (N and VCP) supported cardinality in both autistic and non‐autistic children, only the N strategy appeared closely linked to successful conservation performance. These findings highlight two areas of relative difficulty for some autistic children and point to the potential of targeted interventions to strengthen foundational numerical skills and support later mathematical development.",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07453-7",
@@ -8187,36 +8336,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1002/aur.70316",
-      "title": "‘They Even Have the Capacity, but the Places Aren't Prepared to Receive Them’: Community Environment and Participation of Autistic Children in a Family‐Engaged Research Analysis",
-      "authors": [
-        "Léia Cordeiro de Oliveira",
-        "Cid André Fidelis de Paula Gomes",
-        "Gustavo Pietracatelli Janizello",
-        "Wallace Pereira Silva",
-        "Alice Soper",
-        "Monika Novak‐Pavlic",
-        "Olaf Kraus de Camargo",
-        "Soraia Micaela Silva"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-19",
-      "doi": "10.1002/aur.70316",
-      "url": "https://doi.org/10.1002/aur.70316",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "ABSTRACT To examine the associations between community environmental barriers and support and the participation of autistic children, and to interpret these findings from the perspective of caregivers engaged as research partners. This cross‐sectional observational study employed a mixed‐methods design. The first phase comprised analytical and exploratory quantitative analyses. Caregivers of autistic children aged 5–12 years reported participation outcomes—frequency, involvement, and desire for change—using the Brazilian version of the Participation and Environment Measure for Children and Youth (PEM‐CY) and CARS‐BR with 80 caregivers of children aged 5–12. Phase 1 involved path analysis to test associations between community environment, income, autism severity, and participation (frequency, involvement, desire for change). Phase 2 employed a constructivist‐interpretivist approach, where five caregivers acted as research partners to interpret quantitative results via reflexive thematic analysis. Quantitative analysis showed no statistically significant associations between environmental factors and participation outcomes, despite frequent reports of barriers. In Phase 2, research…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07426-w",
@@ -9498,31 +9617,6 @@
       ],
       "abstract": "ABSTRACT Prospective memory (PM) refers to the cognitive ability to remember to carry out intended actions in the future. The present study investigated PM performance in autistic and non‐autistic adults as well as the impact of the cognitive load of the ongoing task on PM performance. A total of 50 autistic individuals and 51 age‐ and non‐verbal ability‐matched non‐autistic individuals completed an event‐based PM task, which was embedded into an ongoing n‐back task. The cognitive load of the n‐back task was varied (2‐ vs. 3‐back for low versus high cognitive load). Results showed that autistic participants did not differ from non‐autistic participants in their PM performance. The cognitive load of the ongoing task had no impact on event‐based PM performance in both groups. This is the first study to investigate the impact of ongoing task load on event‐based PM performance in autistic adults. The results support the neurodiversity perspective of ASD as a highly heterogeneous population which is not necessarily characterized by reduced PM performance.",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70282",
-      "title": "The Effectiveness of Acceptance and Commitment Therapy Group Intervention (Navigator\n                    <scp>ACT</scp>\n                    ) for Parents of Children With Neurodevelopmental Disabilities: A Randomized Controlled Trial",
-      "authors": [
-        "T. Holmberg Bergman",
-        "P. Lappalainen",
-        "A. Ghaderi",
-        "T. Hirvikoski"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70282",
-      "url": "https://doi.org/10.1002/aur.70282",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT High levels of parental stress and psychological inflexibility are common among caregivers raising children with neurodevelopmental disabilities. Navigator ACT is a group‐based treatment developed to increase psychological flexibility and reduce the impact of stress among parents of children with various disabilities (e.g., autism spectrum disorder, ADHD, intellectual disability, acquired brain injury). This two‐arm randomized controlled trial ( n = 137) was conducted in Sweden within outpatient disability services setting, and pre‐registered in the clinical trials register. To compare conditions, stressed and distressed parents were randomly assigned to either the ACT group ( n = 70) or treatment‐as‐usual (TAU, n = 67). In the ACT group, 83.3% completed the full course of treatment. Mixed‐model linear regression analyses indicated that ACT was significantly more effective than TAU in reducing self‐reported psychological inflexibility ( p &lt; 0.002, d = 0.84) and parenting stress (p &lt; 0.001, d = 0.38). These improvements were maintained at four‐month follow‐up. Parents in the ACT group also reported significantly greater improvements in their children's prosocial behav…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07401-5",
@@ -12134,150 +12228,6 @@
         "sensory"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07344-x",
-      "title": "Automated Quantification of Affect Synchrony: Links to Autism Risk and Social Communication in Infancy",
-      "authors": [
-        "Lan Lin",
-        "Qian Li",
-        "Shengjian Yin",
-        "Zenghe Yue",
-        "Jinyi Zhu",
-        "Yazhu Han",
-        "Yaxin Dai",
-        "Haozhen Chen",
-        "Yuheng Chen",
-        "Luyang Guan",
-        "Xiaoyan Ke"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-26",
-      "doi": "10.1007/s10803-026-07344-x",
-      "url": "https://doi.org/10.1007/s10803-026-07344-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07359-4",
-      "title": "Age-Dependent Restraint Patterns in Pediatric Emergency Department Patients With Autism Spectrum Disorder: A Brief Report",
-      "authors": [
-        "Steven McGaughey",
-        "Sunhee Chung",
-        "David Sheridan",
-        "Beech Burns"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-26",
-      "doi": "10.1007/s10803-026-07359-4",
-      "url": "https://doi.org/10.1007/s10803-026-07359-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Emergency care"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07365-6",
-      "title": "Vitamin D in Autism Spectrum Disorder: A Critical Systematic Review of Evidence and Methodological Limitations",
-      "authors": [
-        "Sonja Claussen",
-        "Sandra Pahr-Hosbach"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-26",
-      "doi": "10.1007/s10803-026-07365-6",
-      "url": "https://doi.org/10.1007/s10803-026-07365-6",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Background Vitamin D is discussed in neurodevelopmental and immune pathways relevant to autism spectrum disorder (ASD). This systematic review synthesizes evidence on serum vitamin D status and vitamin D supplementation outcomes in children and adolescents with ASD, with descriptive reporting of one combined vitamin D plus omega-3 arm for context only. Methods PubMed was searched on 16 August 2024 for observational studies reporting serum 25-hydroxyvitamin D [25(OH)D] and for randomized controlled trials (RCTs) of vitamin D supplementation; the primary narrative synthesis of trial evidence was restricted to double-blind, placebo-controlled studies with the maximum Jadad score (5/5). Results Eight observational studies met inclusion criteria. Most reported lower 25(OH)D in children with ASD compared with comparator groups, while neonatal findings were mixed across cohorts. Among three placebo-controlled RCTs, one high-dose study reported statistically significant improvements on symptom scales, whereas trials using 2,000 IU/day reported marginal or no effects on ASD-related outcomes. One combined vitamin D plus omega-3 trial arm is summarized descriptively for context. Conc…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2671185",
-      "title": "A systematic review and meta-analysis of the relationship between social support and post-traumatic growth in caregivers of autistic children",
-      "authors": [
-        "April Lloyd",
-        "Jac Airdrie",
-        "Cerith Waters"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-26",
-      "doi": "10.1080/20473869.2026.2671185",
-      "url": "https://doi.org/10.1080/20473869.2026.2671185",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2026.2676148",
-      "title": "The effect of body percussion training on anxiety, sleep problems, and social interactions of children with autism spectrum disorder",
-      "authors": [
-        "Fatemeh Soleamani",
-        "Maryam Nezakat Alhosseini",
-        "Mehdi Rafei Boroujeni",
-        "Zahra Khalaji",
-        "Monika Geretsegger"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-26",
-      "doi": "10.1080/20473869.2026.2676148",
-      "url": "https://doi.org/10.1080/20473869.2026.2676148",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/10870547261453645",
-      "title": "Effectiveness of Usual-Care Multimodal Cognitive Behavioral Therapy for Adolescents With Attention-Deficit/Hyperactivity Disorder Rated by Parents and Patients",
-      "authors": [
-        "Daniel Walter",
-        "Eva Katharina Matthias",
-        "Elena von Wirth",
-        "Lydia Dachs",
-        "Anja Goertz-Dorten",
-        "Christiane Rademacher",
-        "Stephanie Schuermann",
-        "Katrin Woitecki",
-        "Tanja Wolff Metternich-Kaizman",
-        "Manfred Doepfner"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-05-26",
-      "doi": "10.1177/10870547261453645",
-      "url": "https://doi.org/10.1177/10870547261453645",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "Objective: Highly controlled, randomized controlled trials (RCTs) have provided evidence of the efficacy of multimodal cognitive behavioral therapy (CBT) including pharmacotherapy in adolescents with attention-deficit/hyperactivity disorder (ADHD). However, the effectiveness under routine care conditions has not been sufficiently evaluated. The present study investigates this transfer of evidence from randomized controlled trials to routine clinical practice investigating a large clinically referred sample of adolescents with ADHD receiving a CBT treatment under routine care conditions. Methods: In a sample of N = 420 adolescents with ADHD, we analyzed changes in parent- and self-rated emotional and behavioral symptoms during routine treatment at a university outpatient clinic using paired t -tests, effect sizes, and comparisons to a historical waitlist control group. The treatment included multimodal CBT for all patients and pharmacotherapy for about a quarter of patients. Results were compared to a historical waitlist control group. Results: In the total sample, small to medium pre-post effect sizes emerged for parent-rated ( d = 0.47–0.68) and self-rated ( d = 0.37–0.47) emotion…"
     }
   ]
 }
