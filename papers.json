@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:49:21Z",
+  "generated_at": "2026-09-25T11:54:02Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -81,6 +81,126 @@
         "service improvement"
       ],
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
+    },
+    {
+      "id": "10.1007/s10803-026-07514-x",
+      "title": "The Contribution of Emergent Literacy Skills to the Development of Character Recognition and Oral Vocabulary Knowledge Among Children With Autism Spectrum Disorder: The Case of Kindergarteners in China",
+      "authors": [
+        "Zhuo Chen",
+        "Li-Jen Kuo",
+        "L. Quentin Dixon",
+        "Chun-liu Han",
+        "Ying Ma"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-25",
+      "doi": "10.1007/s10803-026-07514-x",
+      "url": "https://doi.org/10.1007/s10803-026-07514-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose The present study investigated the development of emergent literacy skills, and its contribution to promoting character and vocabulary knowledge among kindergarteners with autism spectrum disorder (ASD) in China. Methods Fifty-one children with ASD and fifty typically developing children were recruited and completed a series of assessments, including working memory, inhibitory control, rapid automated naming (RAN), phonological awareness, morphological awareness, orthographic awareness, character recognition, receptive and expressive vocabulary. Results Results indicated that children with ASD had difficulties in developing phonological awareness, morphological awareness, orthographic awareness and oral vocabulary. However, they demonstrated comparable performance on the tasks of character recognition and RAN in comparison with typically developing children. Additionally, autism severity, nonverbal reasoning, inhibitory control, RAN, phonological awareness and orthographic awareness were significantly associated with character recognition among Chinese-speaking children with ASD. Autism severity, nonverbal reasoning, RAN, and morphological awareness were significan…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07462-6",
+      "title": "Effects of Physical Exercise Interventions on Social Skills in Children With Autism Spectrum Disorder: A Systematic Review and Meta-Analysis",
+      "authors": [
+        "Qianping Tan",
+        "Zhuoling Lei",
+        "Jindong Chang",
+        "Lei Yao"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-25",
+      "doi": "10.1007/s10803-026-07462-6",
+      "url": "https://doi.org/10.1007/s10803-026-07462-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s40489-026-00594-6",
+      "title": "Adapting Autism Spectrum Disorder Assessment Tools Across Languages and Cultures: A Systematic Review of Psychometric Evidence",
+      "authors": [
+        "Yunhao Gu",
+        "Mia Fox"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-25",
+      "doi": "10.1007/s40489-026-00594-6",
+      "url": "https://doi.org/10.1007/s40489-026-00594-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "abstract": "Abstract This systematic review evaluated the psychometric performance of Autism Spectrum Disorder (ASD) assessment tools adapted for diverse cultural and linguistic contexts. Across 81 studies (37,551 participants), most adaptations showed acceptable reliability and validity, with internal consistency and construct validity most frequently examined. Test–retest, inter-rater, content, and cross-cultural validity were assessed far less often, limiting cultural applicability. Many adaptations emphasized translation over cultural contextualization, and research on minority groups within English-speaking countries remained sparse. Overall, significant gaps persist. Future work should integrate cultural expertise, conduct more complete psychometric evaluations, and develop culturally grounded instruments to support equitable ASD assessment globally.",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s40489-026-00600-x",
+      "title": "Atypical Minds in Digital Shadows: Structural Mismatch, Multilayered Risk, and Cascading Consequences in Cyberbullying Victimization Among Adolescents on the Autism Spectrum – A Neurodiversity–Environment Fit Scoping Review",
+      "authors": [
+        "FanShuai Bu",
+        "YuJia Zhang",
+        "Fang Wang",
+        "QiAn Jin",
+        "Shuning Rong"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-25",
+      "doi": "10.1007/s40489-026-00600-x",
+      "url": "https://doi.org/10.1007/s40489-026-00600-x",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10882-026-10094-4",
+      "title": "Autism and the Performing Arts: Evaluating Behavioral Skills Training to Teach Dance to Children with ASD",
+      "authors": [
+        "Calyn Freed",
+        "Raymond Miltenberger",
+        "Claudia Reyes"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-25",
+      "doi": "10.1007/s10882-026-10094-4",
+      "url": "https://doi.org/10.1007/s10882-026-10094-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10883576261484925",
+      "title": "Developing SMART Goals With Autistic Young Adults: Results From the\n                    <i>Launching!</i>\n                    to Adulthood Therapy Programs",
+      "authors": [
+        "Antonio F. Pagán",
+        "Grace Sattem",
+        "Katherine Maurano",
+        "Linda Hernandez",
+        "Katherine A. Loveland",
+        "Ron Acierno"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-25",
+      "doi": "10.1177/10883576261484925",
+      "url": "https://doi.org/10.1177/10883576261484925",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "The transition to adulthood poses distinct challenges for young adults with autism spectrum disorder (ASD), especially in executive functioning (EF) and goal-setting. This study evaluated a culturally adapted, 12-week intervention using the SMART goal framework with military-dependent and Latino young adults with ASD. The program aimed to assess goal quality, examine EF’s impact on goal specificity, and explore the role of personal values in achieving goals. Participants connected culturally significant values—such as family, health, and resilience—with aspirations, emphasizing the need for tailored approaches. Military-dependent participants focused on independence and Latino participants prioritized community. EF challenges influenced goal achievability, with the SMART framework providing an effective structure. Findings suggest integrating self-determination theory (SDT) to enhance autonomy, competence, and motivation. These results inform educators on supporting goal-setting and easing transitions to adulthood for diverse ASD populations, highlighting the critical role of culturally sensitive strategies.",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1108/aia-03-2026-0030",
@@ -12133,101 +12253,6 @@
         "communication"
       ],
       "abstract": "Abstract Background Children born very preterm (VPT) have greater executive function (EF) challenges and internalizing, inattention, and social communication-interaction differences (the Preterm Behavioral Phenotype [PBP]) than full-term (FT) children. EF and PBP outcomes for VPT children with white matter injury (WMI) are less well understood. Furthermore, the extent that EF challenges serve as a neurocognitive mechanism for the PBP is unknown. Methods As part of a longitudinal study, 123 VPT infants (≤ 30 weeks gestation) were recruited from a level-III neonatal intensive care unit and underwent developmental follow-up at ages 5 and 9–10 years. Forty-four VPT infants had high-grade WMI. Seventy-nine FT control children were also included. At the 5 and 9–10 year follow-up, children completed EF tasks tapping short-term/working memory, inhibitory control, and flexibility/shifting, which were combined into an EF composite at each timepoint. Parents and children also completed measures assessing children’s attention-deficit/ hyperactivity, internalizing/anxiety, and social communication-interaction outcomes to generate parent- and child-informant PBP composites at age 9–10 years. Ser…"
-    },
-    {
-      "id": "10.1007/s10803-026-07366-5",
-      "title": "The Language Gap: Disparities in Expressive Versus Receptive Language in Young Children With Neurodevelopmental Conditions",
-      "authors": [
-        "J. L. Kinard",
-        "A. L. Tapia",
-        "D. Reinhartsen",
-        "L. R. Watson",
-        "E. R. Crais",
-        "C. Bradley",
-        "J. L. Daniels"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-27",
-      "doi": "10.1007/s10803-026-07366-5",
-      "url": "https://doi.org/10.1007/s10803-026-07366-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07364-7",
-      "title": "Food Selectivity as a Driver of Gastrointestinal Symptoms and Constipation in Children With Autism Spectrum Disorder",
-      "authors": [
-        "Ece Vatansever Gürgör",
-        "Esra Köseler Beyaz",
-        "Sinem Bayram"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-27",
-      "doi": "10.1007/s10803-026-07364-7",
-      "url": "https://doi.org/10.1007/s10803-026-07364-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose This study examined the association between food selectivity—a common nutrition-related behavioral challenge—and constipation and overall gastrointestinal (GI) symptom severity in children with autism spectrum disorder (ASD). Methods In this cross-sectional study conducted in Türkiye, 105 parents of children aged 4–10 years completed a questionnaire assessing demographic characteristics and eating habits. Food selectivity/mealtime behaviors were evaluated using the brief autism mealtime behaviors inventory (BAMBI). GI symptom burden was assessed with a GI symptom severity index, and functional constipation was evaluated using Rome III diagnostic criteria. Results Based on the GI severity index, 41.0% of children were reported to have constipation. The GI severity index showed a positive, weak but significant correlation with the BAMBI total score (r = 0.353, p &lt; 0.01). Consistently, the limited food variety subdomain of BAMBI was positively correlated with GI severity (r = 0.196, p &lt; 0.05). The constipation subscore was positively correlated with the overall GI severity index score (r = 0.291, p &lt; 0.01). Moreover, constipation was correlated with Rome III…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07369-2",
-      "title": "Sensory and Executive Function Subtypes Associated With Participation in Adolescents With Autism Spectrum Disorder: A Latent Profile Analysis Approach",
-      "authors": [
-        "Abdullah Furkan Cangi",
-        "Seda Bozduman Çelebi"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-27",
-      "doi": "10.1007/s10803-026-07369-2",
-      "url": "https://doi.org/10.1007/s10803-026-07369-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Abstract Purpose This study examined sensory processing profiles in adolescents with Autism Spectrum Disorder (ASD) and considered how these profiles connect with executive function (EF) and participation, based on reports from different informants. The goal was not only to describe these profiles. It was also to understand how they relate to everyday functioning across school, and community contexts. Methods A total of 102 adolescents aged 12–17 years with clinically confirmed ASD participated in this cross-sectional study. Sensory processing was assessed with the Adolescent/Adult Sensory Profile (A/ASP), executive function (EF) with the Behavior Rating Inventory of Executive Function–Second Edition (BRIEF-2), and participation with the Child and Adolescent Scale of Participation (CASP). Latent Profile Analysis (LPA) based on standardized A/ASP quadrant scores identified distinct sensory subtypes. Differences in EF and participation were analyzed using the BCH three-step method controlling for age, sex, and medication use. Results LPA revealed four sensory subtypes: Typical/Low Difficulty, Sensory Over-Responsive/Avoidant (SOR), Under-Responsive/Low Registration (SUR), and Sensati…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2677754",
-      "title": "Food selectivity in children with autism spectrum disorder: a caregiver-reported survey on feeding-related sensory, motor, gastrointestinal, and behavioral aspects",
-      "authors": [
-        "Débora Amanda do Nascimento",
-        "Amanda Mota Pacciulio Sposito"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-27",
-      "doi": "10.1080/20473869.2026.2677754",
-      "url": "https://doi.org/10.1080/20473869.2026.2677754",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
