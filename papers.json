@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:54:02Z",
+  "generated_at": "2026-09-26T11:27:53Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -83,6 +83,106 @@
       "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
     },
     {
+      "id": "10.1007/s10803-026-07553-4",
+      "title": "Factor Structure and Validity of the Burnout Assessment for Developmental Disability Settings (BADDS)",
+      "authors": [
+        "Summer Bottini",
+        "Laura Johnson",
+        "Scott Gillespie",
+        "Mindy Scheithauer",
+        "Alexandra Hardee",
+        "Lawrence Scahill"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-26",
+      "doi": "10.1007/s10803-026-07553-4",
+      "url": "https://doi.org/10.1007/s10803-026-07553-4",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07555-2",
+      "title": "Multimodal Human–Computer Interaction Interventions for Children and Adolescents With Autism Spectrum Disorder: A Scoping Review",
+      "authors": [
+        "Xiaowen Liu",
+        "Haoli Zhao",
+        "Wanqing Zhang",
+        "Chunqiang Zhang",
+        "Xiaowei Liu"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-26",
+      "doi": "10.1007/s10803-026-07555-2",
+      "url": "https://doi.org/10.1007/s10803-026-07555-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07550-7",
+      "title": "School Exclusion as a Partial Mediator Between Autism and Adolescent Mental Health",
+      "authors": [
+        "Molly Yeoman",
+        "Vanessa Cieplinska",
+        "Valerie Lye",
+        "Vaso Totsika"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-26",
+      "doi": "10.1007/s10803-026-07550-7",
+      "url": "https://doi.org/10.1007/s10803-026-07550-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Abstract Purpose This study investigated whether school exclusion during secondary school mediates the association between Autism Spectrum Conditions (ASC) and adolescent internalising and externalising mental health difficulties. Methods We analysed data from the UK Millennium Cohort Study ( N = 10,228, waves 1-7). Parents reported ASC diagnosis at ages 5-11 and whether their child had been excluded at ages 11-14. Internalising and externalising symptoms were self-reported by adolescents at age 17 on the Strengths and Difficulties Questionnaire. Confounders were mapped onto a Directed Acyclic Graph. Causal mediation analyses, using the g-formula for randomised interventional analogues, estimated direct and indirect effects while accounting for these confounders without biasing the causal pathway. Results Autism was associated with higher internalising and externalising scores, with autistic adolescents more likely to experience school exclusion than peers. School exclusion partially mediated the association between ASC and externalising symptoms (indirect effect = 0.03 (95% CI: 0.004, 0.06, p = 0.024) . No evidence of mediation was found for internalising symptoms. Conclusion Scho…"
+    },
+    {
+      "id": "10.1007/s10803-026-07534-7",
+      "title": "Exploring the Perspectives of Siblings of Autistic Adults With Distressing Behavior: Perceptions of Positive and Negative Impacts",
+      "authors": [
+        "Meghan M. Burke",
+        "Rion Humphries",
+        "Isabelle Burakov",
+        "Julianna Kim",
+        "Trevor Kalb",
+        "Sanskriti Singh",
+        "Bridget C. Smith",
+        "Ezgi Alagozoglu"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-25",
+      "doi": "10.1007/s10803-026-07534-7",
+      "url": "https://doi.org/10.1007/s10803-026-07534-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Siblings of individuals with disabilities, including autism, often plan to assume future caregiving roles. Yet, most extant research relies on convenience samples wherein the autistic brother/sister does not have distressing behaviors. In the limited research about siblings of individuals with distressing behaviors, siblings often report negative and distant sibling relationships. To discern the perceived effects of distressing behavior on siblings and its impact on future caregiving roles, it is critical to explore the perspectives of adult siblings of autistic individuals with distressing behaviors. Methods We conducted individual interviews with sixteen siblings of autistic adults with distressing behaviors. Using Trauma Exposure Theory and the Hidden Talents Framework, we explored their perspectives including positive, negative, and caregiving effects. Results There was a nuanced effect of having a sibling with distressing behavior with participants reporting some benefits (e.g., increased resilience) and some negative impacts (e.g., worse mental health). Further, participants reported effects on their life choices (e.g., decisions about dating, marriage, and f…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07514-x",
       "title": "The Contribution of Emergent Literacy Skills to the Development of Character Recognition and Oral Vocabulary Knowledge Among Children With Autism Spectrum Disorder: The Case of Kindergarteners in China",
       "authors": [
@@ -160,6 +260,30 @@
       "url": "https://doi.org/10.1007/s40489-026-00600-x",
       "neurotype": [
         "Autism"
+      ]
+    },
+    {
+      "id": "10.1080/20473869.2026.2737184",
+      "title": "Feasibility and acceptability of therapist-guided immersive virtual reality for autism rehabilitation in Nepal: a rapid qualitative study",
+      "authors": [
+        "Kannikar Intawong",
+        "Sabita Upreti",
+        "Saowalak Langgapin",
+        "Ganesh Shrivastav",
+        "Tippawan Atsawakornkan",
+        "Kitti Puritat",
+        "Natnaree Muenkaew"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-25",
+      "doi": "10.1080/20473869.2026.2737184",
+      "url": "https://doi.org/10.1080/20473869.2026.2737184",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
       ]
     },
     {
@@ -7015,37 +7139,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261447759",
-      "title": "The Association Between Motor and Social Skills in Young Autistic Children Enrolled in the Study to Explore Early Development",
-      "authors": [
-        "Olivia M. Pokoski",
-        "Hideko Engel",
-        "Sarah M. Furnier",
-        "Ronald Gangnon",
-        "Patrick Powell",
-        "Nuri Reyes",
-        "Brittany G. Travers",
-        "Lisa D. Wiggins",
-        "Maureen S. Durkin"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261447759",
-      "url": "https://doi.org/10.1177/13623613261447759",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Motor difficulties are common in autistic individuals and may contribute to challenges in social development. Understanding the association between motor and social skills could inform interventions to improve developmental outcomes. Using data from the Study to Explore Early Development—a large, diverse sample of rigorously characterized preschool-aged autistic children in the United States—we aimed to (a) describe the frequency of motor challenges using multiple standardized instruments; and (b) evaluate associations between motor and social skills. Children were identified from health and education organizations and birth records. Caregivers completed standardized interviews and questionnaires, and children completed comprehensive developmental evaluations to determine autism status. Among 2,039 children meeting the study autism criteria, 67.3% exhibited motor scores ⩾2 standard deviations below the mean on at least one measure. Motor difficulties were more prevalent in the fine motor (up to 63.4%) than gross motor (14.2%) domain and among children with significant visual reception delays (up to 92.8%) than those without these delays (up to 32.0%). After adjusting for covariates…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10870547261474901",
       "title": "Sex Differences in the Age at First Health Service Use for ADHD Among Australian Children",
       "authors": [
@@ -9554,31 +9647,6 @@
         "communication"
       ],
       "abstract": "Accurately measuring changes in core autism symptoms following early intervention is challenging. The Brief Observation of Social Communication Change (BOSCC) is a promising tool for assessing social interactions in preschoolers with autism spectrum disorder (ASD). However, data on its responsiveness remain limited, warranting validation to support its use in evaluating treatment-related changes. This study aimed to assess the reliability, validity, and sensitivity to change of the BOSCC based on international recommendations from the COSMIN expert group. The BOSCC was rated using 414 video observations from a large multicenter randomized controlled trial including 177 preschoolers with ASD between 19 and 36 months. Videos were coded using the original BOSCC protocol by trained, blinded raters. Analyses addressed reliability, structural and convergent validity, and responsiveness over a 2-year follow-up. Interrater, intrarater, and test–retest reliability were consistently high, with good internal consistency (Cronbach’s α = 0.88–0.98). Factor analysis supported a three-factor structure. Convergent validity was modest with Autism Diagnostic Observation Scale (ADOS) change scores (r…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/13623613261445633",
-      "title": "Capturing Phenotypic Heterogeneity in Differentiated Sensory Processing Profiles: Non-Syndromic Autism and Fragile X Syndrome",
-      "authors": [
-        "Chandler E. Knott",
-        "Jane E. Roberts",
-        "Elizabeth A. Will"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261445633",
-      "url": "https://doi.org/10.1177/13623613261445633",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Proficient sensory processing affords adaptive responses required for daily functioning. Sensory processing differences are common across neurodevelopmental disabilities (NDDs), including autism and fragile X syndrome (FXS), and, in some cases, associated with challenging behaviors. Although sensory processing differences are common in both autism and FXS, little is known about possible variation as a function of genetic etiology, or autism classification. This study characterized sensory processing features and examined associations between these features and challenging behavior in 102 male participants—non-syndromic autism ( n = 37), FXS-only ( n = 15), FXS + ASD ( n = 20), and neurotypical (NT) children ( n = 30). Autistic children demonstrated the highest levels of sensory processing differences; however, nuanced group differences were also identified. The autistic groups (autism and FXS + ASD) were similar on hypo-responsivity and sensory seeking, and the FXS groups (FXS-only and FXS + ASD) were similar on hyper-responsivity and sensory seeking. Within-group associations between sensory differences and challenging behavior were relatively similar across groups. Findings have…",
       "framing": "Mixed or transitional framing"
     },
     {
@@ -12114,145 +12182,6 @@
       ],
       "abstract": "Abstract Background The Early Start Denver Model (ESDM) is a naturalistic developmental behavioral intervention (NDBI) widely used to support early development in young autistic children. This study examines early developmental trajectories associated with different styles and intensities of ESDM-based intervention compared with community Therapy as Usual (TAU) over a 6-month period. It also explores predictors of individual language development based on the intervention style. Methods A total of 112 autistic children participated in the study and were assessed longitudinally while receiving either higher (6 h a week) or lower (3 h a week) intensity ESDM, or TAU at higher (6 h a week) intensity ( N = 29, 32, and 51 participants in each group, respectively). Results The primary findings show that children receiving higher-intensity ESDM exhibited steeper developmental trajectories than children receiving TAU in all the developmental areas such as Language, Personal-Social skills, Performance, Eye-Hand coordination and the General score. Notably, lower-intensity ESDM was associated with steeper developmental gains in individual general development, language, personal social skills, a…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07367-4",
-      "title": "Content Validity of the K-CAT® Assessing Mental Health Challenges in Autism: A Mixed Methods Analysis of Perspectives from Autistic Youth, Caregivers, and Clinicians",
-      "authors": [
-        "Paige E. Cervantes",
-        "Cecilia Becker",
-        "Sarah M. Horwitz",
-        "Ethan Lai",
-        "Yehuda Cohen",
-        "Robert D. Gibbons",
-        "Lawrence A. Palinkas"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-28",
-      "doi": "10.1007/s10803-026-07367-4",
-      "url": "https://doi.org/10.1007/s10803-026-07367-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Purpose Mental health (MH) challenges in autistic youth are often under-identified due in part to limited availability of assessment tools developed or adapted for the autism population. The K-CAT ® , a battery of computerized adaptive tests assessing up to nine MH domains in the general population, shows promise in addressing this need. Because these general instruments may not be valid or acceptable for use with autistic individuals, we evaluated the K-CAT ® ’s content validity for autistic youth with input from the autism community. Methods Feedback was obtained from autistic youth, caregivers, and clinicians on the K-CAT ® through a mixed methods research design. One-hundred-fifty-one youth and caregivers provided feedback on ease of administration, relevance, comprehensiveness, and comprehensibility of the K-CAT ® overall. Thirty youth/caregiver dyads and 15 clinicians then participated in the mixed methods study of the K-CAT ® at the module- and item-level. Results While participants had positive impressions of the K-CAT ® overall, weaknesses were identified by most participants and several recommendations for change were provided. The modules identified as most chal…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07353-w",
-      "title": "First Impressions Count: A Systematic Literature Review Exploring Parents of Autistic Children’s First Encounters With Healthcare Professionals",
-      "authors": [
-        "Michelle Nevin",
-        "Elaine Walsh",
-        "Grainne M. O’Donnell",
-        "Huichao Xie"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-28",
-      "doi": "10.1007/s10803-026-07353-w",
-      "url": "https://doi.org/10.1007/s10803-026-07353-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose First signs of autism are typically noticed in a child’s early development. When parents or carers first become aware of developmental differences in their child, they are likely to experience feelings of concern and uncertainty and may seek advice from healthcare professionals (HCPs). This consultation is a pivotal encounter with respect to how supported parents feel, and whether or not they pursue an autism assessment for their child. While previous reviews have focused broadly on parents’ experiences of and journey to autism assessments for their children, no review has focused specifically on parents’ first experiences with HCPs. Methods Using reflexive thematic analysis, this qualitative systematic review synthesised findings from twenty-five studies, with the aim of exploring parents of autistic children’s first experiences with HCPs when they had concerns in relation to their child’s development, and the perceived impact of that first encounter. Results Three key themes were identified which included: parents’ first encounters with HCPs, which were mostly described as unhelpful; autism awareness and knowledge amongst healthcare professionals as perceived by…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07372-7",
-      "title": "Differential Associations of Adversity and Victimisation With Psychotic Experiences in Autistic Adolescents",
-      "authors": [
-        "Jorge Aguado-Gracia",
-        "Roger Borràs",
-        "Rosa Calvo Escalona"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-28",
-      "doi": "10.1007/s10803-026-07372-7",
-      "url": "https://doi.org/10.1007/s10803-026-07372-7",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2026.2676144",
-      "title": "Water-based communication intervention integrating SCERTS for young children with autism: an explanatory sequential mixed-methods pilot study",
-      "authors": [
-        "Rita Alegria",
-        "Joana Rocha",
-        "Susan Nachimson",
-        "Jane Styer-Acevedo",
-        "Christina César Praça Brasil",
-        "Pedro Pestana",
-        "Vânia Peixoto"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-28",
-      "doi": "10.1080/20473869.2026.2676144",
-      "url": "https://doi.org/10.1080/20473869.2026.2676144",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2679070",
-      "title": "Caregiver-Implemented Naturalistic Developmental Behavioral Interventions for linguistically and culturally diverse families with autistic children",
-      "authors": [
-        "Younghwa Noh",
-        "Jinlan Zhu",
-        "Lauren Hampton"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-28",
-      "doi": "10.1080/20473869.2026.2679070",
-      "url": "https://doi.org/10.1080/20473869.2026.2679070",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1186/s11689-026-09710-3",
-      "title": "Executive function and implications for the Preterm Behavioral Phenotype in very preterm children at age 9–10 years",
-      "authors": [
-        "Rachel E. Lean",
-        "Berenice Anaya",
-        "Lisa Gorham",
-        "Christopher D. Smyser",
-        "Cynthia E. Rogers"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-28",
-      "doi": "10.1186/s11689-026-09710-3",
-      "url": "https://doi.org/10.1186/s11689-026-09710-3",
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Background Children born very preterm (VPT) have greater executive function (EF) challenges and internalizing, inattention, and social communication-interaction differences (the Preterm Behavioral Phenotype [PBP]) than full-term (FT) children. EF and PBP outcomes for VPT children with white matter injury (WMI) are less well understood. Furthermore, the extent that EF challenges serve as a neurocognitive mechanism for the PBP is unknown. Methods As part of a longitudinal study, 123 VPT infants (≤ 30 weeks gestation) were recruited from a level-III neonatal intensive care unit and underwent developmental follow-up at ages 5 and 9–10 years. Forty-four VPT infants had high-grade WMI. Seventy-nine FT control children were also included. At the 5 and 9–10 year follow-up, children completed EF tasks tapping short-term/working memory, inhibitory control, and flexibility/shifting, which were combined into an EF composite at each timepoint. Parents and children also completed measures assessing children’s attention-deficit/ hyperactivity, internalizing/anxiety, and social communication-interaction outcomes to generate parent- and child-informant PBP composites at age 9–10 years. Ser…"
     }
   ]
 }
