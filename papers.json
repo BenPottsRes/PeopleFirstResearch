@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:27:53Z",
+  "generated_at": "2026-09-27T12:05:19Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -151,6 +151,30 @@
         "service improvement"
       ],
       "abstract": "Abstract Purpose This study investigated whether school exclusion during secondary school mediates the association between Autism Spectrum Conditions (ASC) and adolescent internalising and externalising mental health difficulties. Methods We analysed data from the UK Millennium Cohort Study ( N = 10,228, waves 1-7). Parents reported ASC diagnosis at ages 5-11 and whether their child had been excluded at ages 11-14. Internalising and externalising symptoms were self-reported by adolescents at age 17 on the Strengths and Difficulties Questionnaire. Confounders were mapped onto a Directed Acyclic Graph. Causal mediation analyses, using the g-formula for randomised interventional analogues, estimated direct and indirect effects while accounting for these confounders without biasing the causal pathway. Results Autism was associated with higher internalising and externalising scores, with autistic adolescents more likely to experience school exclusion than peers. School exclusion partially mediated the association between ASC and externalising symptoms (indirect effect = 0.03 (95% CI: 0.004, 0.06, p = 0.024) . No evidence of mediation was found for internalising symptoms. Conclusion Scho…"
+    },
+    {
+      "id": "10.1177/25739581261491351",
+      "title": "The Autism Odyssey: Camouflaged and Split",
+      "authors": [
+        "Keita Edwards-Adams"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-26",
+      "doi": "10.1177/25739581261491351",
+      "url": "https://doi.org/10.1177/25739581261491351",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Background: This autoethnographic study examines the lived experiences of a Black autistic woman navigating social environments shaped by the intersections of race, gender, and neurodivergence. Grounded in W. E. B. Du Bois’ concept of double consciousness and an intersectional framework, the study explores the internal conflicts that arise when marginalized identities must coexist within dominant societal norms. Methods: Using autoethnography, the researcher drew on reflective journals, memory work, personal artifacts, and semi-structured interviews to illuminate patterns of camouflaging, code-switching, sensory overwhelm, and social exclusion. She analyzed narrative data through structured narrative analysis and iterative coding to identify recurring themes and meaning-making processes. Results: Findings reveal that sensory overload, racialized group dynamics, and exclusion significantly shape the researcher’s sense of comfort, belonging, and identity. Camouflaging and code-switching emerge as necessary survival strategies, yet they carry substantial psychological and emotional costs, including burnout and identity fragmentation. The study also identifies intentional preparation a…"
     },
     {
       "id": "10.1007/s10803-026-07534-7",
@@ -9789,24 +9813,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70285",
-      "title": "Does Ongoing Task Load Influence Prospective Remembering in Autism Spectrum Disorders?",
-      "authors": [
-        "Daniela Nürnberg",
-        "Mareike Altgassen"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70285",
-      "url": "https://doi.org/10.1002/aur.70285",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Prospective memory (PM) refers to the cognitive ability to remember to carry out intended actions in the future. The present study investigated PM performance in autistic and non‐autistic adults as well as the impact of the cognitive load of the ongoing task on PM performance. A total of 50 autistic individuals and 51 age‐ and non‐verbal ability‐matched non‐autistic individuals completed an event‐based PM task, which was embedded into an ongoing n‐back task. The cognitive load of the n‐back task was varied (2‐ vs. 3‐back for low versus high cognitive load). Results showed that autistic participants did not differ from non‐autistic participants in their PM performance. The cognitive load of the ongoing task had no impact on event‐based PM performance in both groups. This is the first study to investigate the impact of ongoing task load on event‐based PM performance in autistic adults. The results support the neurodiversity perspective of ASD as a highly heterogeneous population which is not necessarily characterized by reduced PM performance.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07401-5",
       "title": "An Analysis of the Psychometric Properties of the Pediatric Inventory for Parents: Short Form Among Caregivers of Children Diagnosed With Autism Spectrum Disorder",
       "authors": [
@@ -12010,178 +12016,6 @@
         "lived experience"
       ],
       "abstract": "Introduction: ADHD is typically characterised by inattention, impulsivity, and hyperactivity, often persisting into adulthood and influencing occupational performance, social interactions, and mental well-being. This scoping review and narrative synthesis aims to address a critical knowledge gap by systematically mapping the existing research on ADHD in military contexts with regard to psychosocial and occupational outcomes. As such, the aims of this study were (a) to aggregate findings regarding ADHD and psychosocial and occupational outcomes of military personnel and (b) to critically review and provide an account of the methodological quality of these studies. Methods: A systematic search across four electronic databases (PubMed, PsycINFO, Embase and CINAHL) detected and retrieved 1,956 studies. After removal of duplicates, 1,263 titles and abstracts were screened. Following this, 106 articles progressed to full text review, and a total of 51 studies were included in the current scoping review and narrative synthesis. Results: The review indicated that ADHD is strongly associated with comorbid conditions such as post-traumatic stress disorder (PTSD), depression, and substance us…"
-    },
-    {
-      "id": "10.1007/s10803-026-07379-0",
-      "title": "Early Intervention and Social Decision-Making Skills in Children With Autism Spectrum Disorder: Insights from Jordan",
-      "authors": [
-        "Esra’ M. Khamis",
-        "Mayada Al-Natour"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-29",
-      "doi": "10.1007/s10803-026-07379-0",
-      "url": "https://doi.org/10.1007/s10803-026-07379-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07374-5",
-      "title": "“I Feel Like They Were Made in a Very Neurotypical World”: Autistic Adult Experiences and Perceptions of Social Rules, Instruction, and Laws",
-      "authors": [
-        "Daniel Lodge",
-        "Luke P. Vinter",
-        "Henry Lennon",
-        "William Lan"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-29",
-      "doi": "10.1007/s10803-026-07374-5",
-      "url": "https://doi.org/10.1007/s10803-026-07374-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Autistic individuals account for over one million people in the UK, and many more autistic individuals exist worldwide. This research employed an idiographic qualitative methodology to explore the perceptions and lived experiences of five autistic individuals as they navigate social rules, instructions, and criminal laws. Methods Qualitative interviews with participants were analyzed using Interpretative Phenomenological Analysis. Results Analysis identified two group experiential themes: (i) Navigating the world with a different cognitive style, and (ii) Misrepresentation, ambiguity and the need for a ‘why’. These themes indicate how autistic individuals experience social rules differently from non-autistic individuals. Specifically, themes illuminated how autistic people experience a social world governed by rules, norms and expectations, with some consideration towards criminal laws, that are not designed or communicated in ways that match their cognitive style. Conclusion Findings underscore the importance of greater recognition and accommodation of autistic individuals’ perspectives, as well as their involvement in the construction, communication, and applicat…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07341-0",
-      "title": "Calendar Calculation Savant Syndrome in Autism Spectrum Disorder: Cognitive Function Measured by the Wechsler Intelligence Scale",
-      "authors": [
-        "Yoko Kawasaki",
-        "Mieko Shinomiya",
-        "Takao Mishima",
-        "Tamiko Ino",
-        "Rie Ishida",
-        "Kazuko Sakai",
-        "Kaoru Mizuno",
-        "Mizuho Takayanagi",
-        "Yu Hamamoto",
-        "Hideo Honda",
-        "Shin-ichi Niwa"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-29",
-      "doi": "10.1007/s10803-026-07341-0",
-      "url": "https://doi.org/10.1007/s10803-026-07341-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/25739581261450541",
-      "title": "Effects of Cognitive Behavioral Therapy in Autistic Adults: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
-      "authors": [
-        "Jesus Perez-Castilla",
-        "Carlos H. Contreras-Pizarro",
-        "Glauco Valdivieso-Jiménez",
-        "Andrea Munoz-Figueroa",
-        "Adan V. Sifuentes Montalvo",
-        "Alvaro Taype-Rondan",
-        "Ana Brañez-Condorena"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-05-29",
-      "doi": "10.1177/25739581261450541",
-      "url": "https://doi.org/10.1177/25739581261450541",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Background: Autism is a neurodevelopmental disability characterized by differences in communication, social interaction, and behavior. Cognitive behavioral therapy (CBT) is a promising intervention for autistic people, yet research mainly focuses on children. Objective: To assess the effects of CBT in autistic adults. Methods: We performed a systematic review. We conducted searches in PubMed/MEDLINE, Embase, Cochrane Central Register of Controlled Trials, and ClinicalTrials.gov. We included randomized controlled trials (RCTs) evaluating CBT in autistic adults (≥16 years). We performed study selection, data extraction, and risk of bias assessment in duplicate. We conducted meta-analyses using random-effects models. We determined the certainty of evidence using the Grading of Recommendations, Assessment, Development, and Evaluation methodology. Results: We included 10 RCTs ( n = 537). Most RCTs had small sample sizes and a high risk of bias, and most meta-analyses showed heterogeneity. For alexithymia, CBT probably caused an important reduction (1 RCT; MD: −5.30 points; 95% confidence intervals: –10.87 to + 0.27; moderate certainty of the evidence) at less than 6 months post-treatmen…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-025-00537-7",
-      "title": "The Lived Experience of Time in Autism. A Narrative Review",
-      "authors": [
-        "Maciej Wodziński",
-        "Marcin Moskalewicz"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-29",
-      "doi": "10.1007/s40489-025-00537-7",
-      "url": "https://doi.org/10.1007/s40489-025-00537-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ]
-    },
-    {
-      "id": "10.1186/s11689-026-09698-w",
-      "title": "Early developmental trajectories associated with different styles and intensities of ESDM-based community intervention",
-      "authors": [
-        "Liliana Ruta",
-        "Elisa Leonardi",
-        "Cristina Carrozza",
-        "Francesca I. Famà",
-        "Agrippina Campisi",
-        "Stefania Aiello",
-        "C Blandino",
-        "I Boccafoschi",
-        "M Boncoddo",
-        "M Bruschetta",
-        "I Crimi",
-        "F Di Bella",
-        "G Lazzaro",
-        "S Martines",
-        "A Orsina",
-        "M.G. Rosano",
-        "Flavia Marino",
-        "Alfia Ruggieri",
-        "Sabrina Baieli",
-        "Daniela Mangiapane",
-        "Gaetano Vivona",
-        "Sebastiano Marciante",
-        "Gaspare Cusimano",
-        "Antonio Narzisi",
-        "Filippo Muratori",
-        "Antonella Gagliano",
-        "Costanza Colombi",
-        "Gennaro Tartarisco",
-        "Marilina Mastrogiuseppe",
-        "Sally J. Rogers",
-        "Michael V. Lombardo",
-        "Giovanni Pioggia"
-      ],
-      "journal": "Journal of Neurodevelopmental Disorders",
-      "year": 2026,
-      "published_date": "2026-05-29",
-      "doi": "10.1186/s11689-026-09698-w",
-      "url": "https://doi.org/10.1186/s11689-026-09698-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Background The Early Start Denver Model (ESDM) is a naturalistic developmental behavioral intervention (NDBI) widely used to support early development in young autistic children. This study examines early developmental trajectories associated with different styles and intensities of ESDM-based intervention compared with community Therapy as Usual (TAU) over a 6-month period. It also explores predictors of individual language development based on the intervention style. Methods A total of 112 autistic children participated in the study and were assessed longitudinally while receiving either higher (6 h a week) or lower (3 h a week) intensity ESDM, or TAU at higher (6 h a week) intensity ( N = 29, 32, and 51 participants in each group, respectively). Results The primary findings show that children receiving higher-intensity ESDM exhibited steeper developmental trajectories than children receiving TAU in all the developmental areas such as Language, Personal-Social skills, Performance, Eye-Hand coordination and the General score. Notably, lower-intensity ESDM was associated with steeper developmental gains in individual general development, language, personal social skills, a…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
