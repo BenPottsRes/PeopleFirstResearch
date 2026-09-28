@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:05:19Z",
+  "generated_at": "2026-09-28T13:59:06Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -55,32 +55,188 @@
       "abstract": "Objective: Research suggests there is a higher prevalence of anxiety in individuals with ADHD compared to those without ADHD. However, estimated prevalence rates vary greatly due to differences in methodologies used across studies. This study is the first meta-analysis investigating differences in anxiety measure scores between adults with and without ADHD, and possible moderators of this effect. Method: Our analysis included 58 studies that compared anxiety scores in adults with/without ADHD ( N = 18,821; k = 112). Results: The average effect size (Hedges’s g ) of anxiety scores in those with ADHD relative to controls was 0.77 ( SE = 0.066); a medium effect. The only significant moderator was the type of comparison group used, with comparisons to non-clinical control groups ( g = 0.954, SE = 0.08) yielding significantly larger effects than comparisons to clinical control groups ( g = 0.437, SE = 0.09). None of the other moderator variables examined (Method of characterising ADHD, Anxiety Measure Type, Anxiety Measure Focus, Age or Gender) moderated the effect. There was some evidence of publication bias, therefore results should be interpreted with this in mind. Conclusion: Overal…"
     },
     {
-      "id": "10.1177/10870547261455946",
-      "title": "A Systematic Review of Lived Experiences of Receiving a Diagnosis of ADHD in Adulthood",
+      "id": "10.1007/s10803-026-07548-1",
+      "title": "The Effectiveness of Cognitive-Behavioral Play Therapy and Cognitive Rehabilitation on Executive Functions in Students With Dyslexia",
       "authors": [
-        "Lucy McGill",
-        "Isabella Jardim-Lalor",
-        "Cliodhna O’Connor"
+        "Haniyeh Shakery Chenary",
+        "Kolsoum Akbarnataj Bisheh",
+        "Ebrahim Mohammadian Akerdi"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-28",
+      "doi": "10.1007/s10803-026-07548-1",
+      "url": "https://doi.org/10.1007/s10803-026-07548-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07547-2",
+      "title": "Evaluating the Effects of Skill-Based Treatment: A Systematic Review and Meta-Analysis of Single-Case Studies",
+      "authors": [
+        "Nathan Bunyan",
+        "Clarissa Feuerer",
+        "Athanasios Vostanis"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-28",
+      "doi": "10.1007/s10803-026-07547-2",
+      "url": "https://doi.org/10.1007/s10803-026-07547-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose The skill-based treatment for challenging behaviour (SBT) is an intervention package that combines functional communication training with contingency-based delay and denial tolerance training. This systematic review and meta-analysis aimed to (a) investigate the application of SBT across diverse populations, setting, and target behaviours; and (b) to evaluate the effectiveness and social validity of SBT in reducing challenging behaviours. Methods This review was pre-registered on PROSPERO (ID: CRD42024561455). Seven databases were searched. Data were extracted on characteristics of studies, participants, and applications of SBT. Literature was assessed for quality using the Evaluative Method and Single Case Design Risk of Bias Tool. SBT outcomes were quantified with Baseline-Corrected Tau (Tau-BC). Results A total of 28 studies were reviewed, representing 99 individual SBT applications. SBT has been applied across participants with varying diagnoses, challenging behaviours, and levels of ability, though mostly in controlled settings by skilled implementers. Studies provided evidence for the social validity of SBT. Baseline-Corrected Tau indicated SBT shows good red…"
+    },
+    {
+      "id": "10.1007/s10803-026-07554-3",
+      "title": "Comprehensive Psychometric Evaluation of the Child/Adult and Family Quality of Life Scale : Third Edition",
+      "authors": [
+        "Thomas W. Frazier",
+        "Nissa Van Etten",
+        "Richard M. Kubina",
+        "Ben Knaebel",
+        "Allison Frazier",
+        "Yagnesh Vadgama",
+        "Lacey Chetcuti",
+        "Mirko Uljarevic"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-28",
+      "doi": "10.1007/s10803-026-07554-3",
+      "url": "https://doi.org/10.1007/s10803-026-07554-3",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Quality of life"
+      ],
+      "abstract": "Abstract Purpose Quality of life (QoL) has become a key concept for understanding the impact of neurodevelopmental conditions and for monitoring intervention progress. Existing QoL measures often focus on health-related QoL in neurotypical populations or were developed specifically for autism. The CFQL was designed to bridge this gap. The present study describes evaluation of the second revision of the CFQL - the CFQL-3/AFQL-3. Methods Psychometric evaluation was conducted in two samples: a large validation sample and a clinical intervention sample. Results Results indicated a clear factor structure, measurement invariance across demographic and clinical factors, good scale and conditional reliability, adequate or better test-retest stability, good construct validity, and good sensitivity to change during behavioral intervention. Conclusion The CFQL-3/AFQL-3 may be a useful clinical and research measure for QoL in clinical and research settings."
+    },
+    {
+      "id": "10.1007/s10803-026-07472-4",
+      "title": "Exploring the Potential of Parent Report for Autism/Developmental Screening at the 18-Month Visit",
+      "authors": [
+        "Raymond Sturner",
+        "Paul Bergmann",
+        "Barbara Howard",
+        "Diana Robins",
+        "Kerry Bet",
+        "Shana Attar"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-28",
+      "doi": "10.1007/s10803-026-07472-4",
+      "url": "https://doi.org/10.1007/s10803-026-07472-4",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1080/20473869.2026.2731199",
+      "title": "Evaluating the effectiveness of DIR/Floortime intervention on two-way purposeful communication skills in a child with autism spectrum disorder: a single-subject study",
+      "authors": [
+        "Eda Çürükvelioğlu Köksal",
+        "Özge Çulhaoğlu",
+        "Deniz Ayşegül Söğüt",
+        "Nihal Özdemir"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-28",
+      "doi": "10.1080/20473869.2026.2731199",
+      "url": "https://doi.org/10.1080/20473869.2026.2731199",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/10870547261489132",
+      "title": "Integrating Behavioral Sleep Medicine with Behavioral Parent Training for Preschool ADHD: Stakeholder Insights for an Early Childhood Intervention",
+      "authors": [
+        "Jessica R. Lunsford-Avery",
+        "Matthew J. Gibson",
+        "Brian Eichner",
+        "John T. Mitchell",
+        "Naomi O. Davis"
       ],
       "journal": "Journal of Attention Disorders",
       "year": 2026,
-      "published_date": "2026-10-01",
-      "doi": "10.1177/10870547261455946",
-      "url": "https://doi.org/10.1177/10870547261455946",
+      "published_date": "2026-09-28",
+      "doi": "10.1177/10870547261489132",
+      "url": "https://doi.org/10.1177/10870547261489132",
       "neurotype": [
         "ADHD"
       ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Objectives: Behavioral Parenting Training (BPT), the gold-standard treatment for preschool attention-deficit/hyperactivity disorder (ADHD), does not consistently improve core symptoms of inattention and hyperactivity/impulsivity. Pairing BPT with complementary preventative therapies targeting biological mechanisms, such as sleep dysregulation, may improve treatment outcomes. This qualitative study with key stakeholders aims to inform the development of parent-based interventions that incorporate behavioral sleep medicine (BSM) strategies to improve ADHD-related outcomes in preschoolers. Method: Three stakeholder groups participated in two rounds of semi-structured focus group sessions: parents/caregivers of preschoolers with elevated ADHD symptoms ( n = 8), pediatricians ( n = 9), and pediatric behavioral health providers ( n = 6). Each session included a review of a potential integrated BPT-BSM treatment. Participants provided iterative feedback on its helpfulness, appeal, and accessibility and recommended changes. Group session transcripts were coded and thematically analyzed using inductive and deductive approaches. Results: Dominant themes across stakeholders concerned treatmen…"
+    },
+    {
+      "id": "10.1007/s10803-026-07545-4",
+      "title": "Clinical Features in Children With Loss of Autism Diagnosis and Persistent Autism: A Comparative Study",
+      "authors": [
+        "Zeynep Ayaslan",
+        "Çağatay Ermiş",
+        "Nagihan Cevher Binici",
+        "Hüseyin Burak Baykara"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-09-27",
+      "doi": "10.1007/s10803-026-07545-4",
+      "url": "https://doi.org/10.1007/s10803-026-07545-4",
+      "neurotype": [
+        "Autism"
+      ],
       "domains": [
-        "Communication",
-        "Service design"
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261487284",
+      "title": "Divergent Patterns of Speaker-Intention Discrimination and Emotional Valence Ratings in Self-Reported Autistic and Non-Autistic Adults",
+      "authors": [
+        "Kathrin Rothermich",
+        "Mackenzie Rountree",
+        "Sungwoo Ahn",
+        "Catherine L. Caldwell-Harris",
+        "Moritz Dannhauer"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-27",
+      "doi": "10.1177/13623613261487284",
+      "url": "https://doi.org/10.1177/13623613261487284",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
       ],
       "tags": [
-        "access",
-        "communication",
-        "disclosure",
-        "service improvement"
+        "communication"
       ],
-      "abstract": "Objective: With rising numbers of adults seeking and receiving ADHD diagnoses, understanding their first-hand experiences of the diagnostic process is key for sensitive support and service design. This systematic review collates, evaluates and synthesises the existing evidence-base on lived experiences of adult ADHD diagnosis. Method: Keyword searches of six databases generated 10,357 citations, which were subjected to a systematic screening process that identified 21 relevant studies. Findings were analysed using thematic synthesis. Results: Analysis generated three overarching themes, elaborating how diagnostic experiences are shaped by adults’ Relationship with Self, Relationship with Others , and Relationship with Systems. Personally, diagnosis was widely experienced as a pivotal identity event, triggering biographical reflection that could foster greater self-compassion, but also grief, anger and identity confusion. Socially, diagnosis facilitated interpersonal understanding and communication, but also exposed adults to stigma and introduced dilemmas about diagnostic disclosure. Systemically, adults experienced the diagnostic process as beset by barriers and delays, and report…"
+      "abstract": "Autistic adults often interpret verbal and non-verbal cues underlying non-literal language differently compared to non-autistic people, reflecting differences in communicative style and shared context. Research on non-literal language in autism in controlled settings has typically depended on static stimuli that lack ecological validity and primarily focused on children, leaving non-literal language processing in autistic adults relatively understudied. The present study examined how self-reported autistic and non-autistic adults infer speaker intentions and emotional valence in dynamic, naturalistic videos. Participants ( N = 66) viewed 50 brief videos from the Relational Inference in Social Communication database, depicting literal, sarcastic, teasing, or prosocial lie scenarios. After each video, they identified the speaker’s communicative intent and rated the emotional response of the addressee. Participants also completed two measures of autistic characteristics (Autism Spectrum Quotient; Comprehensive Autistic Trait Inventory). Self-reported autistic participants showed lower speaker-intention discrimination than non-autistic participants, whereas valence ratings were similar…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07553-4",
@@ -5250,6 +5406,24 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -5269,24 +5443,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -11949,73 +12105,6 @@
       ],
       "abstract": "Abstract Imitation deficits in young autistic children are well-documented. Strengthening generalized imitation in this population is a primary goal of early intervention. In this study, an intervention designed to rapidly strengthen generalized imitation was evaluated with two young autistic children. The intervention entailed simultaneously teaching three different model types (object, gross motor, and vocal imitation) using evidence-based instructional procedures with frequent tests for generalized imitation via novel probes. Outcomes from this preliminary evaluation suggest the intervention may be capable of rapidly strengthening this repertoire in some autistic children.",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2026.2679069",
-      "title": "Sleep patterns and their links to eating behaviors and dietary quality in autistic children",
-      "authors": [
-        "Nilgun Seremet Kürklü",
-        "Ozgun Kaya Kara",
-        "Seyma Inceli",
-        "Koray Kara"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-30",
-      "doi": "10.1080/20473869.2026.2679069",
-      "url": "https://doi.org/10.1080/20473869.2026.2679069",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10882-026-10071-x",
-      "title": "Comparison of Neural Network Methods for Identifying Happiness Indices in Autistic Children",
-      "authors": [
-        "Tobias Kausch",
-        "Leslie Neely",
-        "Adel Alaeddini",
-        "Katie Holloway",
-        "Melissa G. Ruiz",
-        "Amarie Carnett",
-        "Russell Lang"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-05-30",
-      "doi": "10.1007/s10882-026-10071-x",
-      "url": "https://doi.org/10.1007/s10882-026-10071-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547261439441",
-      "title": "Attention Deficit Hyperactivity Disorder (ADHD) in Military Contexts with regard to Psychosocial and Occupational Outcomes: A Scoping Review",
-      "authors": [
-        "Lorna Bateman",
-        "Jessica Bramham",
-        "Mary Keating",
-        "Fionnbar Lenihan"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-05-30",
-      "doi": "10.1177/10870547261439441",
-      "url": "https://doi.org/10.1177/10870547261439441",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Employment",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Introduction: ADHD is typically characterised by inattention, impulsivity, and hyperactivity, often persisting into adulthood and influencing occupational performance, social interactions, and mental well-being. This scoping review and narrative synthesis aims to address a critical knowledge gap by systematically mapping the existing research on ADHD in military contexts with regard to psychosocial and occupational outcomes. As such, the aims of this study were (a) to aggregate findings regarding ADHD and psychosocial and occupational outcomes of military personnel and (b) to critically review and provide an account of the methodological quality of these studies. Methods: A systematic search across four electronic databases (PubMed, PsycINFO, Embase and CINAHL) detected and retrieved 1,956 studies. After removal of duplicates, 1,263 titles and abstracts were screened. Following this, 106 articles progressed to full text review, and a total of 51 studies were included in the current scoping review and narrative synthesis. Results: The review indicated that ADHD is strongly associated with comorbid conditions such as post-traumatic stress disorder (PTSD), depression, and substance us…"
     }
   ]
 }
