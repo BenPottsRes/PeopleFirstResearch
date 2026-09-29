@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-09-28T13:59:06Z",
+  "generated_at": "2026-09-29T12:56:13Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
+    {
+      "id": "10.1177/10870547261478344",
+      "title": "Comprehensive Treatment and Monthly 2 Year Follow-Up in Children With ADHD: Randomized Controlled Prospective Study",
+      "authors": [
+        "Lily Hechtman",
+        "Natalie Grizenko",
+        "Ridha Joober",
+        "Jens Kreitewolf",
+        "Mariam Ter-Stepanian",
+        "Marie-Ève Fortier",
+        "Kayla Eisenberg",
+        "Joy Etcovitch",
+        "William J. Harvey"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1177/10870547261478344",
+      "url": "https://doi.org/10.1177/10870547261478344",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Objectives To evaluate the efficacy of regular monthly follow up in maintaining treatment gains versus follow up as needed in the community for children ages 6 to 12 years with ADHD. Methods One hundred and eighty six children, age 6 to 13 with DSM-IV diagnosed Attention Deficit Hyperactivity Disorder (ADHD) (combined presentation) received 3 months of comprehensive treatment which included long-acting stimulant medication titrated to optimal dose (via parent and teacher reports) and weekly parent training groups and child social skills and academic training. After the 3 months of treatment, children were randomized to either monthly follow up by the research team (treatment group) or follow up as usual in the community (control group). Comprehensive evaluations occurred at 3 months at the end of the comprehensive treatment, and at 6, 12, 18, and 24 month follow-up. Results Children in both groups improved significantly in all domains after the 3 months of intensive comprehensive treatment. Treatment gains were maintained during the 2 year follow up period in both groups. However, the Hyperactive/Impulsive rating in Conners scale by parent report and some teacher reports were worse…"
+    },
+    {
+      "id": "10.1177/10870547261469623",
+      "title": "Cost-Effectiveness of a Child and Parent Mindfulness-Based Training Versus Medication for Childhood ADHD",
+      "authors": [
+        "Rachel T. van der Meulen",
+        "Francisca J. A. van Steensel",
+        "Esther I. de Bruin",
+        "Wiebe Korf",
+        "Susan M. Bögels"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1177/10870547261469623",
+      "url": "https://doi.org/10.1177/10870547261469623",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objective: ADHD imposes substantial societal costs. This randomized controlled trial examined the cost-effectiveness of family mindfulness training (“MYmind”) versus medication in childhood ADHD. Method: An economic evaluation with a 10-month time horizon was conducted from a societal perspective. Children ( N = 88, M = 11.27 years, 70% boys) with ADHD were randomized to MYmind (8 weekly 1.5-hr group mindfulness sessions for children and parallel for their parents, plus a 2-months follow-up) or medication (4-months immediate-release methylphenidate). During the following 6 months, families had free treatment choice, allowing crossover. Costs were assessed using retrospective cost-questionnaires. Primary outcome measures were children’s inattention and quality-adjusted life years (QALYs). Secondary analyses included: hyperactivity/impulsivity, internalizing and externalizing problems as outcome measures, taking a healthcare (payers) perspective, shorter time horizons (2 and 4 months), a different inattention questionnaire, per protocol analyses, and exclusion of crossover participants. Results: At 10 months, primary cost-effectiveness analyses indicated that MYmind was inferior to m…"
+    },
+    {
+      "id": "10.1177/10870547261474912",
+      "title": "Pilot Randomized Trial of the Parental Friendship Coaching+ Program for Parents With Elevated ADHD and/or Depressive Symptoms",
+      "authors": [
+        "Sophie Smit",
+        "Sébastien Normand",
+        "Amori Yee Mikami"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1177/10870547261474912",
+      "url": "https://doi.org/10.1177/10870547261474912",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
     {
       "id": "10.1177/10870547261463814",
       "title": "ADHD Individuals’ Positivity About Their Condition Varies by Their Levels of Hyperactivity/Impulsivity Versus Inattention Symptoms",
@@ -53,6 +125,60 @@
         "Mental health"
       ],
       "abstract": "Objective: Research suggests there is a higher prevalence of anxiety in individuals with ADHD compared to those without ADHD. However, estimated prevalence rates vary greatly due to differences in methodologies used across studies. This study is the first meta-analysis investigating differences in anxiety measure scores between adults with and without ADHD, and possible moderators of this effect. Method: Our analysis included 58 studies that compared anxiety scores in adults with/without ADHD ( N = 18,821; k = 112). Results: The average effect size (Hedges’s g ) of anxiety scores in those with ADHD relative to controls was 0.77 ( SE = 0.066); a medium effect. The only significant moderator was the type of comparison group used, with comparisons to non-clinical control groups ( g = 0.954, SE = 0.08) yielding significantly larger effects than comparisons to clinical control groups ( g = 0.437, SE = 0.09). None of the other moderator variables examined (Method of characterising ADHD, Anxiety Measure Type, Anxiety Measure Focus, Age or Gender) moderated the effect. There was some evidence of publication bias, therefore results should be interpreted with this in mind. Conclusion: Overal…"
+    },
+    {
+      "id": "10.1108/aia-07-2026-0103",
+      "title": "Designing the missing middle: a practice-informed case study of translating autism knowledge into family-school capacity",
+      "authors": [
+        "Victoria Jane Carpenter"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-30",
+      "doi": "10.1108/aia-07-2026-0103",
+      "url": "https://doi.org/10.1108/aia-07-2026-0103",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "service improvement"
+      ],
+      "abstract": "Purpose This paper aims to present a practice-informed case study of a low-load autism parent partnership model in mainstream primary schools. It addresses the “missing middle” between autism knowledge and family–school capacity, arguing that relational, accessible and practical structures are needed to make knowledge usable. Design/methodology/approach This paper draws on practitioner reflection, school-approved parent partnership work across two mainstream primary contexts, community-facing engagement, visual resource development and anonymised feedback. It is not an intervention trial or effectiveness evaluation; feedback is used as design learning. Findings This case study identifies access load as a barrier to early autism support, encompassing emotional, linguistic, cognitive, cultural, relational and practical demands. The model used a four-part rhythm: one theme, one accessible resource, one shared conversation and one practical takeaway. Research limitations/implications This context-specific case study cannot demonstrate impact on child or family outcomes. Future research should examine reach, acceptability, implementation consistency, SENDCo workload, home-school communi…"
+    },
+    {
+      "id": "10.1177/13623613261480395",
+      "title": "Depression Screening Tools for Non- and Minimally Speaking Autistic Adults: Feasibility, Psychometrics, and Wider Validity",
+      "authors": [
+        "Ellen Wilkinson",
+        "Keya Pai",
+        "Andrew Jahoda",
+        "Richard P. Hastings",
+        "Vanessa H. Bal"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-29",
+      "doi": "10.1177/13623613261480395",
+      "url": "https://doi.org/10.1177/13623613261480395",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Mental health"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Depression remains underdiagnosed in non- and minimally speaking (NMS) autistic adults, despite caregiver concerns suggesting high rates of mood-related difficulties, as such this study evaluates the validity, reliability, and feasibility of three established caregiver-report depression measures (Anxiety, Depression, and Mood Scale-ADAMS; Glasgow Depression Scale–Caregiver Supplement-GDS-CS; Mood, Interest, and Pleasure Questionnaire-MIPQ) with 160 caregivers of NMS autistic adults. Participants completed surveys, and a subset engaged in cognitive interviews to assess content validity and usability. Psychometric analyses included confirmatory factor analyses, internal consistency estimation, and exploratory cut-off scores based on parent-reported concern about depression. Results indicated that the GDS-CS had the strongest support, showing acceptable model fit, fair reliability, and high caregiver acceptability. The ADAMS also demonstrated strong psychometric properties and feasibility, with the added benefit of capturing related symptoms such as anxiety. The MIPQ, while designed for individuals with limited language, showed poor model fit and lower caregiver usability. Findings su…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07548-1",
@@ -141,6 +267,35 @@
       "neurotype": [
         "Autism"
       ]
+    },
+    {
+      "id": "10.1177/25739581261489785",
+      "title": "“Denying Myself Was Finally Too Much.” Violence-Related Stress, Coping, and Cumulative Harm in Autistic and Non-Autistic Adults",
+      "authors": [
+        "Kassandrah Cooke",
+        "Laura Pecora",
+        "Elizabeth Westrupp",
+        "Darren Hedley",
+        "Rachel L. Moseley",
+        "Merrilyn Hooley",
+        "Mark A. Stokes"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-09-28",
+      "doi": "10.1177/25739581261489785",
+      "url": "https://doi.org/10.1177/25739581261489785",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Autistic adults experience elevated interpersonal violence risk alongside mental health and functional challenges. However, how violence-related stress may accumulate over time and compare with non-autistic adults’ experiences remains unclear. Research often conceptualizes violence exposure, distress, and functioning as separate outcomes, rather than potentially interconnected processes across contexts and over time. We examined autistic and non-autistic adults’ narratives of violence-related stress, coping, challenges, and longer-term outcomes. Methods: Seventy-eight adults with interpersonal violence histories (27 diagnosed autistic, 21 self-identified autistic, 30 non-autistic; M age = 31 years, standard deviation = 9.31) completed an online qualitative survey about violence experiences, coping, mental health, functioning, and changes in understanding these experiences. Using a critical realist approach, we conducted template analysis informed by reflexive thematic techniques, and initial coding was guided using broad domains of autism-related characteristics, environmental stressors, coping, challenges, longer-term outcomes, and perceived change over time, while rem…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2026.2731199",
@@ -2370,33 +2525,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/10870547261478344",
-      "title": "Comprehensive Treatment and Monthly 2 Year Follow-Up in Children With ADHD: Randomized Controlled Prospective Study",
-      "authors": [
-        "Lily Hechtman",
-        "Natalie Grizenko",
-        "Ridha Joober",
-        "Jens Kreitewolf",
-        "Mariam Ter-Stepanian",
-        "Marie-Ève Fortier",
-        "Kayla Eisenberg",
-        "Joy Etcovitch",
-        "William J. Harvey"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-09-05",
-      "doi": "10.1177/10870547261478344",
-      "url": "https://doi.org/10.1177/10870547261478344",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Objectives To evaluate the efficacy of regular monthly follow up in maintaining treatment gains versus follow up as needed in the community for children ages 6 to 12 years with ADHD. Methods One hundred and eighty six children, age 6 to 13 with DSM-IV diagnosed Attention Deficit Hyperactivity Disorder (ADHD) (combined presentation) received 3 months of comprehensive treatment which included long-acting stimulant medication titrated to optimal dose (via parent and teacher reports) and weekly parent training groups and child social skills and academic training. After the 3 months of treatment, children were randomized to either monthly follow up by the research team (treatment group) or follow up as usual in the community (control group). Comprehensive evaluations occurred at 3 months at the end of the comprehensive treatment, and at 6, 12, 18, and 24 month follow-up. Results Children in both groups improved significantly in all domains after the 3 months of intensive comprehensive treatment. Treatment gains were maintained during the 2 year follow up period in both groups. However, the Hyperactive/Impulsive rating in Conners scale by parent report and some teacher reports were worse…"
-    },
-    {
       "id": "10.1177/13623613261480732",
       "title": "From Clinic to Home: Validating the Social Communication Scale for Telemedicine-Supported Early Autism Screening in Chinese Toddlers",
       "authors": [
@@ -2525,26 +2653,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -2569,6 +2677,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -4626,29 +4754,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/10870547261469623",
-      "title": "Cost-Effectiveness of a Child and Parent Mindfulness-Based Training Versus Medication for Childhood ADHD",
-      "authors": [
-        "Rachel T. van der Meulen",
-        "Francisca J. A. van Steensel",
-        "Esther I. de Bruin",
-        "Wiebe Korf",
-        "Susan M. Bögels"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-08-24",
-      "doi": "10.1177/10870547261469623",
-      "url": "https://doi.org/10.1177/10870547261469623",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Objective: ADHD imposes substantial societal costs. This randomized controlled trial examined the cost-effectiveness of family mindfulness training (“MYmind”) versus medication in childhood ADHD. Method: An economic evaluation with a 10-month time horizon was conducted from a societal perspective. Children ( N = 88, M = 11.27 years, 70% boys) with ADHD were randomized to MYmind (8 weekly 1.5-hr group mindfulness sessions for children and parallel for their parents, plus a 2-months follow-up) or medication (4-months immediate-release methylphenidate). During the following 6 months, families had free treatment choice, allowing crossover. Costs were assessed using retrospective cost-questionnaires. Primary outcome measures were children’s inattention and quality-adjusted life years (QALYs). Secondary analyses included: hyperactivity/impulsivity, internalizing and externalizing problems as outcome measures, taking a healthcare (payers) perspective, shorter time horizons (2 and 4 months), a different inattention questionnaire, per protocol analyses, and exclusion of crossover participants. Results: At 10 months, primary cost-effectiveness analyses indicated that MYmind was inferior to m…"
-    },
-    {
       "id": "10.1002/aur.70348",
       "title": "Quality of Life in Autism: A Systematic Review and Meta‐Analysis of Patients and Caregivers",
       "authors": [
@@ -6330,28 +6435,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1177/10870547261474912",
-      "title": "Pilot Randomized Trial of the Parental Friendship Coaching+ Program for Parents With Elevated ADHD and/or Depressive Symptoms",
-      "authors": [
-        "Sophie Smit",
-        "Sébastien Normand",
-        "Amori Yee Mikami"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-08-07",
-      "doi": "10.1177/10870547261474912",
-      "url": "https://doi.org/10.1177/10870547261474912",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
-    },
-    {
       "id": "10.1177/13623613261471572",
       "title": "Special Interests in Autism: Functions, Benefits, and Challenges",
       "authors": [
@@ -7289,33 +7372,6 @@
         "lived experience"
       ],
       "abstract": "In line with the neurodiversity paradigm, the social difficulties experienced by autistic individuals are increasingly seen as the result of a mutual misunderstanding across different neurotypes, rather than deficits inherent to autistic individuals. This underscores the need to design inclusive spaces and educate people about autism, which remains a challenge. Previous qualitative evidence suggests that neurodiverse choir experiences may provide an opportunity to address this challenge. In this study, 12 adult choristers participated in a 6-month choir practice alongside eight autistic adolescents and three autism specialists. We assessed whether their representation of autism evolved, using a set of questionnaires before and after participation. The results indicate that participants’ representations of autism became richer, more accurate, and more aligned with a difference rather than a deficit model. Participants felt more able and inclined to interact with other neurodivergent individuals after sharing this experience. Although preliminary, these findings lend support to the neurodiversity paradigm and offer promising perspectives for addressing the double empathy problem. The…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261448516",
-      "title": "Recommendations for the Inclusion of Autistic Children in Community-Based Physical Activity Programmes: A Delphi Study",
-      "authors": [
-        "Edel Ryan",
-        "Dean McDonnell",
-        "Sean Healy",
-        "Rhodri S. Lloyd",
-        "Sharon Kinsella"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261448516",
-      "url": "https://doi.org/10.1177/13623613261448516",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "A range of barriers to Physical Activity (PA) participation contribute to autistic children being less physically active than their non-autistic peers. While these barriers have been well documented, further research is needed into methods of overcoming these barriers. This study aimed to create a series of best practice recommendations for the inclusion of autistic children in community-based PA programmes. This was achieved using the Delphi Method involving the opinions of international experts in the area of inclusion of autistic children in PA. Three rounds of questionnaires were distributed to the panel of 22 experts, aiming to reach consensus on a series of topics related to the inclusion of autistic children in community-based PA programmes (consensus ⩾67% agreement). Topics included coaches and volunteers, programme characteristics, and bridging sessions. Sixteen consensus statements were established which were then used to create the ‘STARTS’ recommendations, which centre around: (1) Skill development, (2) Training for coaches/volunteers, (3) Aims for sessions, (4) Resources to improve children’s experiences, (5) Transitioning from bridging programmes to mainstream program…",
       "framing": "Neurodiversity-informed"
     },
     {
