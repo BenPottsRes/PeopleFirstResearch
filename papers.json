@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:56:13Z",
+  "generated_at": "2026-09-30T12:39:44Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -76,6 +76,542 @@
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
     },
     {
+      "id": "10.1177/13623613261471808",
+      "title": "Rapid Review of the Brief Observation of Social Communication Change (BOSCC) Shows It Can Detect Behavioural Changes in Social Communication in Autism",
+      "authors": [
+        "Claire Howlin",
+        "Anna Kovalova",
+        "Artur Jaschke",
+        "David M Greenberg",
+        "Beth Mason",
+        "Irene Pallás-Ferrer",
+        "Eve Merriam",
+        "Catherine Brushwood",
+        "Jonathan Pool",
+        "Carrie Allison",
+        "Helen Odell-Miller",
+        "Karen Hayden",
+        "Carmel Simone Moore",
+        "Rebecca Atkinson",
+        "Ramarni Treyvone Wilfred",
+        "Simon Baron-Cohen"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261471808",
+      "url": "https://doi.org/10.1177/13623613261471808",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Reliable measurement of social communication change remains a major challenge in autism research. The Brief Observation of Social Communication Change (BOSCC) was developed to detect subtle changes in communication. This rapid review synthesised current evidence on the BOSCC’s responsiveness, validity, and suitability as a clinical trial endpoint. Systematic searches of PubMed, PsycINFO, CINAHL, and Web of Science identified 19 eligible studies ( n = 789). Within-group meta-analyses estimated pre–post standardised mean change (Hedges’ g ) for BOSCC and ADOS (Autism Diagnostic Observation Schedule) outcomes, using random-effect (RE) models. The BOSCC total score for intervention arms showed a moderate, significant change ( g = −0.32, 95% confidence interval [CI] = [−0.42, −0.22]), with a smaller, non-significant change in control arms ( g = −0.15). The Social Communication subscale yielded consistent effects on the intervention arm ( g = −0.34, 95% CI = [−0.49, −0.19]), indicating sensitivity to improvements in reciprocal interaction. The restricted and repetitive behaviour (RRB) subscale also showed a moderate significant effect on the intervention arm but with wide confidence inte…"
+    },
+    {
+      "id": "10.1177/13623613261475023",
+      "title": "English-Language Autism Terminology Preferences of Autistic People and their Parents in the United States: Clustering Illuminates Diverse Views",
+      "authors": [
+        "Patrick Dwyer",
+        "Zachary J. Williams",
+        "Jennifer E. Magnuson",
+        "Tiffany G. Woynaroski"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261475023",
+      "url": "https://doi.org/10.1177/13623613261475023",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Autism terminology preferences are the subject of considerable debate and various studies, the results of which sometimes conflict. This study examined diversity in terminology preferences in a U.S. sample of 3,181 non-autistic parents and 2,098 autistic people (including 451 autistic parents). The study also examined a particularly wide range of language issues: participants rated terms for autism, possible subgroups within autism, autistic people, autism likelihood, and autistic characteristics. Non-autistic parents’, autistic parents’, and autistic non-parents’ terminology ratings differed, but generally modestly. Using clustering to explore response patterns revealed greater variability. Almost half of the participants were grouped in the Open Cluster, characterised by liking or neutrality towards most terms. Others were grouped in the Identity-First Cluster, characterised by support for identity-first language, strong opposition to terms for possible autism subgroups, and rejection of many pathologising terms. Other participants were in the Person-First Cluster, characterised by support for person-first language, yet still some scepticism towards terms for possible autism subg…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261474929",
+      "title": "Age at Autism Diagnosis in the Norwegian Mother, Father, and Child Cohort Study (MoBa): Exploring the Association With Family Well-Being",
+      "authors": [
+        "Bernt Damian Glaser",
+        "Meseret Mamo Bazezew",
+        "Daniela Bragantini",
+        "Laura Elizabeth Hegemann",
+        "Stian Orm",
+        "Morgan James Morgan",
+        "Somer L. Bishop",
+        "Stian Barbo Valand",
+        "Laurie John Hannigan",
+        "Alexandra Havdahl"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261474929",
+      "url": "https://doi.org/10.1177/13623613261474929",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication"
+      ],
+      "abstract": "For many autistic individuals, close family members represent a crucial source of support throughout their lifetime. Early autism diagnosis is thought to benefit both autistic individuals and their family members by facilitating early access to services and information. However, little research has empirically studied the relationship between age at diagnosis and well-being among autistic individuals and their family members. In this study, we examined predictors of age at autism diagnosis and its relationship with family well-being using the population-based Norwegian Mother, Father, and Child Cohort Study (MoBa). We found that the most important factors associated with a later age at diagnosis were fewer social communication difficulties at age three, fewer maternal concerns about development in early childhood, absence of a co-occurring intellectual disability diagnosis, female sex, and having older siblings. While a later age at diagnosis was associated with higher well-being for mothers and children during childhood, it was associated with lower well-being for children during adolescence. All associations were substantially attenuated after adjustment for various clinical, dem…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261476381",
+      "title": "Addressing Common Problems in Autism Research: Cohort Development and Sample Description for a Participatory, Real-World, Longitudinal Study of Outcomes in Autistic Adults",
+      "authors": [
+        "Christina Nicolaidis",
+        "Ian Moura",
+        "Mary Baker-Ericzén",
+        "Mirah Scharer",
+        "Joelle Maslak",
+        "Rachel Kripke-Ludwig",
+        "Willi Horner-Johnson",
+        "Julia Love",
+        "Dora M. Raymaker",
+        "Andrea Joyce",
+        "Shannon des Roches Rosa",
+        "Grace A. Herbert",
+        "Julie Lounds Taylor",
+        "Liu-Qin Yang",
+        "Katherine McDonald",
+        "Zack Siddeek",
+        "Steven K. Kapp",
+        "Emanuel Frowner",
+        "Ivanova Smith",
+        "Anna Furra Wallington",
+        "K. J. Flores",
+        "Noah Kaufman",
+        "Clarissa Kripke",
+        "Joseph Vera",
+        "Vivian D. Grillo",
+        "Finn Gardiner"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261476381",
+      "url": "https://doi.org/10.1177/13623613261476381",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "tags": [
+        "participatory"
+      ],
+      "abstract": "Adult autism services research is plagued by methodological challenges, including difficulty obtaining representative or heterogeneous samples and a frequent mismatch between experimental methodologies and real-world settings. The Academic Autism Spectrum Partnership in Research and Education (AASPIRE) Outcomes Project used a community-based participatory research (CBPR) approach to (a) create the AASPIRE Measurement Toolkit – a set of self- and caregiver-reported accessible outcome measures to evaluate health and social services and (b) explore factors predicting changes in outcomes. We previously used a CBPR-nested Delphi process to identify high-priority outcomes and adapted or created instruments to measure them. We conducted a longitudinal survey to validate these measures in a pragmatic sample of autistic adults with subcohorts from two health care systems, two disability service systems, and the larger autistic community in the United States. This article (a) describes our study methods and the sample’s baseline characteristics and (b) compares characteristics among participants in the separate subcohorts and sites. We collected baseline data from 870 participants. Follow-up…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478882",
+      "title": "Challenges in Independent Living for Middle-Aged Autistic Adults in China: A Qualitative Study",
+      "authors": [
+        "Xi Wang",
+        "Lihua Zhou"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261478882",
+      "url": "https://doi.org/10.1177/13623613261478882",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Emergency care"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "As the first cohort of formally diagnosed autistic individuals in China enters later life, the disruption of premature old-age care among middle-aged autistic adults—while they strive for independent living in old age—has emerged as an urgent public health issue. This study employed an exploratory qualitative design. Data collection methods included 34 semi-structured interviews and participant observation. Analysis revealed that premature care disruption unfolds through three sequential stages. First, while families still provided care, three resource deficits undermined independent aging for middle-aged autistic adults: lack of labor insurance, depleted household savings, and reduced care support in single-parent structures. Second, when family care capacity ruptured, reliance on institutional care was accompanied by multiple systemic limitations, including age-based exclusion and services that eroded rather than supported independent living. Third, families explored charitable trusts as an emerging strategy, yet these remained accessible primarily to middle-income households and left critical gaps in legal protection, asset management, and long-term social support. Middle-aged a…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478883",
+      "title": "“There’s No Greater Feeling”: Empowerment and Achievement Through Neurodivergent Co-Design",
+      "authors": [
+        "Noah Glaser",
+        "Nigel Newbutt"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261478883",
+      "url": "https://doi.org/10.1177/13623613261478883",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Employment"
+      ],
+      "tags": [
+        "communication",
+        "lived experience",
+        "participatory"
+      ],
+      "abstract": "Extended reality (XR) technologies, including virtual reality (VR), have long been investigated as tools to support autistic and other neurodivergent individuals, yet much of this work has prioritized researcher-defined outcomes over the lived experiences of neurodivergent users. Participatory and co-design approaches offer a means to address this gap, but limited research documents how neurodivergent adults experience authentic involvement in XR development. This study examines the experiences of neurodivergent co-designers engaged in the collaborative creation of uSucceed, a VR cybersecurity learning environment. Five neurodivergent adults employed as paid members of a university-based development lab participated in semi-structured interviews focused on expectations, learning, design responsibilities, collaboration, and perceived impact. Using a grounded theory approach, analysis involved iterative coding, constant comparison, and axial mapping of relationships among design practices, experiences, and outcomes. Co-designers reported substantial growth in technical skills such as Unity development, C# scripting, debugging, and animation, alongside gains in communication, persiste…"
+    },
+    {
+      "id": "10.1177/13623613261472147",
+      "title": "Linking Emotion Dysregulation to Autistic Traits Across Neurodiverse Samples",
+      "authors": [
+        "Rachel G. McDonald",
+        "Mary Isaac Cargill",
+        "Emily Lynch",
+        "Sadaf Khawar",
+        "Caroline Freden",
+        "Erin Kang"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261472147",
+      "url": "https://doi.org/10.1177/13623613261472147",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Emergency care",
+        "Mental health"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Emotion dysregulation (ED) is defined as difficulty regulating emotions in response to activating situations, and subsequent difficulty choosing an environmentally appropriate strategy to modulate one’s emotions. Despite ED being identified as a transdiagnostic construct, little research has examined the links to constructs like social communication and interaction (SCI) and restricted and repetitive behaviors (RRBs). SCIs and RRBs are core components of neurodevelopmental conditions like autism, as well as other mental health conditions more broadly. This article sought to examine the effects of emotional dysphoria and emotional reactivity on SCI and RRBs. Caregivers of 99 youth (64 autistic) ages 6 to 17 completed questionnaires about their child’s ED, SCI, and RRBs. Path models were used to examine ED’s impact on SCI difficulties and RRBs. Results suggest that both SCI and RRBs are affected by ED dysphoria and reactivity, with some differences across autistic and non-autistic groups. These findings can inform treatments for medication management and intervention planning for different profiles of ED in both autistic and non-autistic youth. Lay Abstract Many youth experience stru…"
+    },
+    {
+      "id": "10.1177/13623613261480175",
+      "title": "Whose Outcomes Count? Rethinking Measurement in Global Autism Research",
+      "authors": [
+        "Shoba S. Meera",
+        "Mirko Uljarević",
+        "Rosa A. Hoekstra"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261480175",
+      "url": "https://doi.org/10.1177/13623613261480175",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261476379",
+      "title": "The Impact of “Harmful Behaviours” on Parents of Autistic Children",
+      "authors": [
+        "Melanie Heyworth",
+        "Diana Weiting Tan",
+        "Elizabeth Pellicano"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261476379",
+      "url": "https://doi.org/10.1177/13623613261476379",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "In existing literature, an Autistic child’s “externalising behaviour” (e.g., aggression, defiance) is often associated with poor parental mental health outcomes. Yet few studies have considered the extent and nature of the impact of a child’s harmful behaviours (physical harm to self, others, and property) on parents qualitatively. Here, we examined how Autistic and non-autistic parents conceptualise their Autistic children’s harmful behaviours, and the impact of such behaviours on parents. We analysed 39 Autistic and non-autistic parent interviews using reflexive thematic analysis, from which we identified four themes. Theme 1 encompassed parents’ experiences of their children’s harmful behaviours. Theme 2 captured parents’ explanations for their children’s harmful behaviours, which they understood as indicating intense distress. In Theme 3, parents reflected on their responses to periods of crisis, during which they prioritised safety but acknowledged a systemic lack of support hindered their efforts. Finally, Theme 4 describes the detrimental impacts on parent mental health, including feelings of helplessness, grief, guilt, and fear for the future. We show that it is imperative…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261472929",
+      "title": "A Reliable Effect of Alexithymia, but Not Autism, on Placebo Hypoalgesia",
+      "authors": [
+        "Eri Ichijo",
+        "Michel-Pierre Coll",
+        "Caroline Catmur",
+        "Geoffrey Bird"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261472929",
+      "url": "https://doi.org/10.1177/13623613261472929",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Perception of pain can be altered by one’s expectations of that pain, producing well-known phenomena such as placebo effects. It has been suggested that perceptual inference functions differently in autism, with perception weighted towards bottom-up sensory evidence rather than top-down expectations. This account would predict reduced placebo effects in autism. However, research also indicates that atypical interoception (perception of bodily sensations) in autism may be better explained by co-occurring alexithymia. This latter finding suggests that any differences in perceptual inference in autism, at least within the interoceptive domain, may be a product of co-occurring alexithymia. We conducted a study in London and Oxford, England, using a placebo hypoalgesia paradigm to assess perceptual inferences in autism and alexithymia. This paradigm permits manipulation of expectations (concerning the magnitude of pain relief) while measuring individual differences in the perception of stimuli (perceived pain). We investigated whether the magnitude of the placebo effect could be explained by autistic and/or alexithymic traits. Ninety-six adults, including autistic people ( n = 28), alex…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261477806",
+      "title": "Short Report: Divergent Sleep–Wake Regularity in U.S. Children With Autism Spectrum Disorder: Bedtime vs Wake-up Regularity",
+      "authors": [
+        "Chia-Shuan Chang",
+        "Chun-Ji Lin"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261477806",
+      "url": "https://doi.org/10.1177/13623613261477806",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Sleep–wake regularity is an emerging dimension of sleep health, yet its association with autism spectrum disorder (ASD) remains understudied in nationally representative samples, particularly across distinct components of sleep timing. Using parent-reported data from 11,462 U.S. children aged 5–17 years in the 2022 and 2024 National Health Interview Survey, this study examined associations between ASD diagnosis and irregular bedtime and wake-up timing, including differences by age group. Multivariable logistic regression models were adjusted for sociodemographic characteristics, family context, daytime fatigue, and mental health indicators, with survey weights applied to account for the complex sampling design. In pooled analyses, ASD was associated with lower odds of irregular bedtime (adjusted odds ratio [aOR] = 0.64, 95% CI: 0.43–0.95) but higher odds of irregular wake-up times (aOR = 1.60, 95% CI: 1.01–2.56). Age-stratified analyses showed that the association with irregular wake-up timing remained in children (aOR = 2.27, 95% CI: 1.14–4.51) but not in adolescents, while no association was observed for bedtime in either age group. As one of the first nationally representative a…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613261469913",
+      "title": "Common and Differing Elements Across Caregiver-Mediated Social Communication Programs Supporting Autistic Children: A Scoping Review With Content Analysis",
+      "authors": [
+        "Vipula Rajesh Kumar",
+        "Lauren Choi",
+        "Janis Oram",
+        "Amanda Binns"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261469913",
+      "url": "https://doi.org/10.1177/13623613261469913",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Caregiver-mediated interventions are widely used to support social communication development in young autistic children. While many such interventions are evidence-informed, limited information exists about their shared and unique elements, making it challenging for caregivers and clinicians to tailor program selection to individual needs and preferences—an essential part of personalized care in autism. This scoping review with content analysis examined 18 commercially available, caregiver-mediated social communication interventions to identify similarities and differences in child skills targeted and caregiver-coached strategies. Data were extracted from program manuals, fidelity tools, published literature, and program websites for eight developmental social pragmatic (DSP) programs and 10 naturalistic developmental behavioral interventions (NDBIs). Programs varied in scope, with some supporting a broad range of child skills and others focusing on specific areas. Across all programs, 70 caregiver-coached strategies were identified, and then thematically grouped into eight categories aligned with the developmental skills the strategies aim to support. Although some strategies were…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261470856",
+      "title": "Understanding Autism Through Indigenous Relational Ecologies: A Phenomenographic Exploratory Study With Potawatomi Participants",
+      "authors": [
+        "Jessica C. Kitchens",
+        "Donna Wake"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261470856",
+      "url": "https://doi.org/10.1177/13623613261470856",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Autism is commonly conceptualized in research, policy, and clinical contexts as an individual condition defined by diagnostic criteria and functional impairment. While these frameworks shape access to services, they often obscure relational, cultural, and contextual meanings of autism, particularly within Indigenous communities. This article reports findings from an exploratory phenomenographic study examining how autism is understood among five Citizen Potawatomi Nation participants. Guided by Indigenous Knowledge Systems, decolonial leadership, relational epistemologies, and a neurodiversity-affirming paradigm, the study examined qualitative variation in meaning-making rather than consensus or generalizability. Semi-structured interviews were conducted with Autistic adults, parents of Autistic children, and a tribal Knowledge Keeper. Analysis followed Åkerlind’s interpretive phenomenographic approach, resulting in five categories of description illustrating coexisting understandings of autism: system-managed difference, intergenerational family patterning, natural human variation, relational identity and belonging, and spiritual gift with purpose. These categories were organized…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261469915",
+      "title": "Facilitating Autism Service Navigation, Parenting, and Self-Care Within a Community-Based Organization: A Pilot Feasibility Study With Culturally and Linguistically Diverse Families",
+      "authors": [
+        "Shana M. Attar",
+        "Hannah Benavidez",
+        "Carol Gicheru",
+        "Colleen Alabi",
+        "Risho Sapano",
+        "Wendy L. Stone"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261469915",
+      "url": "https://doi.org/10.1177/13623613261469915",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Health care and early education systems are common entry points for autism identification and specialized services. However, culturally and linguistically diverse families are less likely to experience timely or positive interactions within these systems. This pilot feasibility study examined implementation outcomes of using non-specialist providers (NSPs) within a community-based non-profit organization to support early service navigation while also promoting caregiver use of evidence-based parenting and self-care strategies. Six multilingual NSPs completed a web-based training and delivered a four-session program, the Family Care Project, to 35 families of children aged 16 months to 5 years for whom there were developmental concerns. Implementation outcomes were assessed using Proctor’s taxonomy, including acceptability, feasibility, appropriateness, adoption, penetration, and sustainability. All families completed all four sessions within 5 weeks. NSPs reported high acceptability, feasibility, and appropriateness of the training and caregiver-facing materials; adoption was high, with 95% of planned module content delivered. At the 5-month follow-up, NSPs reported continued progr…"
+    },
+    {
+      "id": "10.1177/13623613261472991",
+      "title": "Health Care Transition Experiences for Rural and Urban Autistic Adolescents and Young Adults: A Qualitative Analysis",
+      "authors": [
+        "E Zhang",
+        "Makenna Snyder",
+        "Wafaa Alduraidi",
+        "Spencer Hunley",
+        "Kristin Sohl",
+        "Nancy Cheak-Zamora",
+        "Eve-Lynn Nelson"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261472991",
+      "url": "https://doi.org/10.1177/13623613261472991",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Health care transition (HCT) is underexplored among autistic adolescents and young adults (AYAs). We explored autistic AYAs’ HCT experiences through virtual semi-structured interviews with 19 participants (mean age = 21.4 years; range = 15–25). Data were analyzed using reflexive thematic analysis and interpreted through self-determination theory (SDT). Participants described HCT as marked by increased expectations for independent health care management without commensurate preparation, relational continuity, or structural support. Findings were organized around SDT domains of competence, autonomy, and relatedness, which were interconnected. Gaps in competence constrained autonomy and contributed to stress and care avoidance. Autonomy was negotiated and situational, often supported through ongoing caregiver involvement rather than full independence. Relatedness was undermined by fragmented care, limited continuity, and experiences of being dismissed by providers. Structural factors (transportation, insurance acceptance, provider availability, and rurality) shaped when and how these psychological needs could be met, amplifying transition-related challenges. Autistic AYAs want to take…"
+    },
+    {
+      "id": "10.1177/13623613261472939",
+      "title": "The Use of the Clinical Global Impressions Scale in Psychosocial Interventions for Autism Characteristics: A Systematic Review",
+      "authors": [
+        "Magdalena Glod",
+        "Victoria Grahame",
+        "Jacqui Rodgers"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261472939",
+      "url": "https://doi.org/10.1177/13623613261472939",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "The increase in intervention diversity to improve core difficulties in autism has resulted in the development and proliferation of a variety of measures to assess change. The Clinical Global Impressions (CGI) scale has been recommended for use in pharmacological autism clinical trials to monitor individuals’ progress. No specific recommendations have been made for an outcome measure for psychosocial interventions. This review aimed to evaluate available evidence of a use of the CGI scale as an outcome measure in psychosocial interventions for autism characteristics. A systematic search of electronic databases identified 22 primary studies utilising the CGI scale to evaluate change across a range of social, communication and behavioural interventions for autistic people. The lack of consistency in the use of the measure was evident. This applied to the variety of constructs being measured, inconsistent application and scoring methods, which all limited the CGI scale’s reliability and validity. Despite the widespread use of the CGI scale in psychosocial clinical trials for autistic people, the lack of standardisation hampers conclusions regarding the evidence of its effectiveness in…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261471572",
+      "title": "Special Interests in Autism: Functions, Benefits, and Challenges",
+      "authors": [
+        "Mareike Bayer",
+        "Isabel Dziobek"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261471572",
+      "url": "https://doi.org/10.1177/13623613261471572",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Mental health"
+      ],
+      "abstract": "Special interests are a highly prevalent feature of autism spectrum conditions (ASC) and have long been described primarily from a deficit-oriented perspective. More recent work has pointed to their potential as psychological resources, yet systematic evidence and direct comparisons with non-autistic groups remain limited. The present study examined the significance of special interests for well-being, self-related aspects and emotion regulation in autistic adults, as well as negative consequences and stigma. Furthermore, we directly compared the likelihood of engaging in special interests versus seeking social contact across a range of emotional contexts. A total of 182 participants (60 autistic and 122 non-autistic) completed an online survey on multiple aspects of their (special) interests and measures of social anxiety and self-esteem. Autistic individuals reported a stronger role of special interests in emotion regulation and as a source of learning and knowledge, while also experiencing greater stigma and negative consequences compared with non-autistic participants. Autistic participants further showed a higher likelihood of relying on their interests as a coping strategy in…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261470852",
+      "title": "Embedding Child-Centred Information in Developmental Care Pathways for Autistic Children: A Response to Albin et al.",
+      "authors": [
+        "Liping Yang"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261470852",
+      "url": "https://doi.org/10.1177/13623613261470852",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261464209",
+      "title": "Overall Weak Association Between Gastrointestinal Symptoms and Psychological, Autism, and Demographic Variables in Autistic Children",
+      "authors": [
+        "Eliana Rosenthal",
+        "Daniel A. Waschbusch",
+        "Susan D. Mayes"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261464209",
+      "url": "https://doi.org/10.1177/13623613261464209",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Our study determined psychological, autism trait, somatic, and demographic variables associated with maternal ratings of stomachaches, constipation, diarrhea, and bowel incontinence in autistic children. Mothers of 1,093 autistic children rated their children on the Pediatric Behavior Scale. In regression analyses, the somatic symptom score (i.e., headaches, other aches/pains excluding stomachaches, complains of feeling sick) was the strongest predictor of stomachaches, constipation, and diarrhea. Scores on the other variables (autism severity, externalizing symptoms, internalizing symptoms, autism traits, sleep problems, demographics) each contributed less than 2% more to explained variance. Decreasing age and decreasing IQ were predictors of bowel incontinence. Only 1 of the 30 significant correlations between GI symptoms and the independent variables was large (stomachaches and other somatic symptoms), one was medium (stomachaches and sadness), and four were small to medium (stomachaches and anxiety and increasing age; bowel incontinence and decreasing age and decreasing IQ). The association between GI problems and psychopathology, autism symptoms, and demographics is weak. Find…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261469916",
+      "title": "Sense of Coherence and the Relation to Autistic Traits in Autistic Adults",
+      "authors": [
+        "Britta Westerberg",
+        "Susanne Bejerot",
+        "Ann Langius-Eklöf",
+        "Fredrik Holländare"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-01",
+      "doi": "10.1177/13623613261469916",
+      "url": "https://doi.org/10.1177/13623613261469916",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "abstract": "Sense of coherence reflects the ability to comprehend and interpret one’s environment as coherent and to experience life as manageable and meaningful. Sense of coherence is predictive of quality of life in several populations, but this relation has not been investigated among autistic individuals. Even though autistic individuals often describe difficulties perceiving the world in a coherent way, the sense of coherence concept is relatively unexplored in autism. The aim of this study was to explore the relationship between autistic traits, sense of coherence and quality of life in autistic individuals in Sweden. A total of 81 adults with autism completed questionnaires covering their sense of coherence, quality of life and autistic traits. The results showed that sense of coherence predicted quality of life and that autistic traits predicted sense of coherence levels in our sample. Based on the results, we suggest that sense of coherence may be important for the understanding of autistic functioning and that sense of coherence is essential for quality of life in this group. The study contributes to the understanding of autistic functioning and adds useful knowledge for the developm…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1177/10870547261463814",
       "title": "ADHD Individuals’ Positivity About Their Condition Varies by Their Levels of Hyperactivity/Impulsivity Versus Inattention Symptoms",
       "authors": [
@@ -125,6 +661,49 @@
         "Mental health"
       ],
       "abstract": "Objective: Research suggests there is a higher prevalence of anxiety in individuals with ADHD compared to those without ADHD. However, estimated prevalence rates vary greatly due to differences in methodologies used across studies. This study is the first meta-analysis investigating differences in anxiety measure scores between adults with and without ADHD, and possible moderators of this effect. Method: Our analysis included 58 studies that compared anxiety scores in adults with/without ADHD ( N = 18,821; k = 112). Results: The average effect size (Hedges’s g ) of anxiety scores in those with ADHD relative to controls was 0.77 ( SE = 0.066); a medium effect. The only significant moderator was the type of comparison group used, with comparisons to non-clinical control groups ( g = 0.954, SE = 0.08) yielding significantly larger effects than comparisons to clinical control groups ( g = 0.437, SE = 0.09). None of the other moderator variables examined (Method of characterising ADHD, Anxiety Measure Type, Anxiety Measure Focus, Age or Gender) moderated the effect. There was some evidence of publication bias, therefore results should be interpreted with this in mind. Conclusion: Overal…"
+    },
+    {
+      "id": "10.1177/13623613261489306",
+      "title": "‘For the First Time, I Felt Seen’: Understanding What Helps Autistic Emerging Adults Feel Safe and Included on Social Media",
+      "authors": [
+        "Asha Dawson",
+        "Alexandra Street",
+        "Rebecca L. Flower"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-30",
+      "doi": "10.1177/13623613261489306",
+      "url": "https://doi.org/10.1177/13623613261489306",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Social media is a prominent part of everyday life and is used regularly to connect users with a diverse network of content and people from around the world. Research on social media among autistic individuals has largely focused on online risks (e.g., cyberbullying) among children and adolescents, with limited attention to the perspectives of autistic emerging adults (i.e., aged 18–29), particularly regarding social media safety and inclusion. The aim of this qualitative study was to understand what helps autistic emerging adults feel safe and included on social media, focusing on their lived experience and recommendations for improvement. Data was collected from 50 autistic emerging adults ( M age = 24.57, SD = 3.01) through an online open-ended survey. Using reflexive thematic analysis, we generated three key themes: (a) Welcomed by a community of allies, (b) Curating my experience and (c) Communicating in ways that work for me. The findings offer insight into the features and strategies used by autistic emerging adults to feel safe and included when using social media, and provides practical recommendations to foster a safer and more inclusive online environment for neurodiverge…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10882-026-10096-2",
+      "title": "Parenting Resilience Predicts Psychological Distress and Social Isolation Among Mothers of Individuals with Autism Spectrum Disorder in Japan",
+      "authors": [
+        "Kai Nagase",
+        "Kenji Tsunoda",
+        "Kumi Fujita"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-30",
+      "doi": "10.1007/s10882-026-10096-2",
+      "url": "https://doi.org/10.1007/s10882-026-10096-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1108/aia-07-2026-0103",
@@ -179,6 +758,46 @@
       ],
       "abstract": "Depression remains underdiagnosed in non- and minimally speaking (NMS) autistic adults, despite caregiver concerns suggesting high rates of mood-related difficulties, as such this study evaluates the validity, reliability, and feasibility of three established caregiver-report depression measures (Anxiety, Depression, and Mood Scale-ADAMS; Glasgow Depression Scale–Caregiver Supplement-GDS-CS; Mood, Interest, and Pleasure Questionnaire-MIPQ) with 160 caregivers of NMS autistic adults. Participants completed surveys, and a subset engaged in cognitive interviews to assess content validity and usability. Psychometric analyses included confirmatory factor analyses, internal consistency estimation, and exploratory cut-off scores based on parent-reported concern about depression. Results indicated that the GDS-CS had the strongest support, showing acceptable model fit, fair reliability, and high caregiver acceptability. The ADAMS also demonstrated strong psychometric properties and feasibility, with the added benefit of capturing related symptoms such as anxiety. The MIPQ, while designed for individuals with limited language, showed poor model fit and lower caregiver usability. Findings su…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2737775",
+      "title": "Accessible autism screening in children: a pilot study of markerless gait analysis from ordinary walking videos",
+      "authors": [
+        "Ziteng Wang",
+        "Sinan Onal",
+        "Prashanna Pandit",
+        "Allison Gladfelter",
+        "Milijana Buac"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-29",
+      "doi": "10.1080/20473869.2026.2737775",
+      "url": "https://doi.org/10.1080/20473869.2026.2737775",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/10883576261484922",
+      "title": "Increasing Self-Feeding Using Spatial Fading and Error Correction",
+      "authors": [
+        "Meara X. H. McMahon",
+        "Kavya Kandarpa",
+        "Tyler-Curtis C. Elliott",
+        "Mackenzie A. Riley",
+        "Caitlin E. Schaefer",
+        "Hallie M. Smith"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-09-29",
+      "doi": "10.1177/10883576261484922",
+      "url": "https://doi.org/10.1177/10883576261484922",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Children on the autism spectrum are more likely than neurotypical children to experience co-occurring feeding problems and may require individualized interventions to increase age-appropriate self-feeding skills. Few studies have evaluated errorless learning strategies (e.g., backward chaining, graduated guidance) to improve self-feeding for children on the autism spectrum and assess whether this response maintains over time. In the current study, researchers used spatial fading and error correction to increase self-feeding for three children in a variety of applied settings. Results suggest that self-feeding increased and was maintained over time using iterations with and without nonremoval of the spoon and cup."
     },
     {
       "id": "10.1007/s10803-026-07548-1",
@@ -1043,44 +1662,6 @@
         "sensory"
       ],
       "abstract": "Adult autism assessments prioritise clinician observations and developmental history, whereas many adults understand autism through lived experience. Within this tension, factors influencing high endorsement of autistic traits remain unclear. We analysed 245 consecutive NHS first adult autism assessments (median age = 33 years, 52% female), including Social Responsiveness Scale-2 (SRS‑2), Generalised Anxiety Disorder-7 (GAD‑7), Patient Health Questionnaire-9 (PHQ‑9) and Adverse Childhood Experiences (ACE) questionnaire. Although internalising symptoms and childhood adversity were common, neither was significantly associated with clinic-diagnosed autism (CA; 56.7%, n = 141). We defined ‘experienced autism’ (EA) as moderate or above scores on both SRS‑2 domains. Thirty‑five per cent of EA adults (64/181) did not meet clinical diagnostic thresholds. Linear models adjusted for sex closely associated EA with elevated internalising symptoms (GAD‑7 and PHQ‑9) regardless of CA (all p ⩽ .002). Cumulative ACE scores did not distinguish EA/CA groups but were independently associated with female sex ( p = .012). Exploratory multinomial analyses suggested that childhood sensory overwhelm and in…"
-    },
-    {
-      "id": "10.1177/13623613261471808",
-      "title": "Rapid Review of the Brief Observation of Social Communication Change (BOSCC) Shows It Can Detect Behavioural Changes in Social Communication in Autism",
-      "authors": [
-        "Claire Howlin",
-        "Anna Kovalova",
-        "Artur Jaschke",
-        "David M Greenberg",
-        "Beth Mason",
-        "Irene Pallás-Ferrer",
-        "Eve Merriam",
-        "Catherine Brushwood",
-        "Jonathan Pool",
-        "Carrie Allison",
-        "Helen Odell-Miller",
-        "Karen Hayden",
-        "Carmel Simone Moore",
-        "Rebecca Atkinson",
-        "Ramarni Treyvone Wilfred",
-        "Simon Baron-Cohen"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-22",
-      "doi": "10.1177/13623613261471808",
-      "url": "https://doi.org/10.1177/13623613261471808",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Reliable measurement of social communication change remains a major challenge in autism research. The Brief Observation of Social Communication Change (BOSCC) was developed to detect subtle changes in communication. This rapid review synthesised current evidence on the BOSCC’s responsiveness, validity, and suitability as a clinical trial endpoint. Systematic searches of PubMed, PsycINFO, CINAHL, and Web of Science identified 19 eligible studies ( n = 789). Within-group meta-analyses estimated pre–post standardised mean change (Hedges’ g ) for BOSCC and ADOS (Autism Diagnostic Observation Schedule) outcomes, using random-effect (RE) models. The BOSCC total score for intervention arms showed a moderate, significant change ( g = −0.32, 95% confidence interval [CI] = [−0.42, −0.22]), with a smaller, non-significant change in control arms ( g = −0.15). The Social Communication subscale yielded consistent effects on the intervention arm ( g = −0.34, 95% CI = [−0.49, −0.19]), indicating sensitivity to improvements in reciprocal interaction. The restricted and repetitive behaviour (RRB) subscale also showed a moderate significant effect on the intervention arm but with wide confidence inte…"
     },
     {
       "id": "10.1177/25739581261490537",
@@ -2653,6 +3234,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -2677,26 +3278,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -4548,32 +5129,6 @@
       "abstract": "Abstract Purpose Autism is both a developmental and heterogeneous condition, with individual variation in the timing and shape of autistic symptom trajectories over time, as recognised by the concept of ‘chronogeneity’. Prospective infant autism family history studies are well-suited to examining developmental trajectory variability, a key aspect of autism trait heterogeneity. Methods We examined autistic trait trajectories in a large sample of infants with autism and/or ADHD family history ( N = 384) followed from infancy to mid-childhood. Using group-based multi-trajectory modelling, we identified classes with distinct trajectories across three autism trait measures taken at six, five, and four timepoints, respectively, between 5 months and 9 years. Results A 5-class solution provided the best fit. Three classes included 50–75% children meeting autism diagnostic criteria at 3 years or mid-childhood, with distinct differences in timing, onset, and developmental patterns of autistic traits. Two classes were predominantly typically developing, with one characterised as ‘slow starters’. Background characteristics including autism/ADHD family history, sex, maternal education, and hous…"
     },
     {
-      "id": "10.1177/13623613261475023",
-      "title": "English-Language Autism Terminology Preferences of Autistic People and their Parents in the United States: Clustering Illuminates Diverse Views",
-      "authors": [
-        "Patrick Dwyer",
-        "Zachary J. Williams",
-        "Jennifer E. Magnuson",
-        "Tiffany G. Woynaroski"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-25",
-      "doi": "10.1177/13623613261475023",
-      "url": "https://doi.org/10.1177/13623613261475023",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Autism terminology preferences are the subject of considerable debate and various studies, the results of which sometimes conflict. This study examined diversity in terminology preferences in a U.S. sample of 3,181 non-autistic parents and 2,098 autistic people (including 451 autistic parents). The study also examined a particularly wide range of language issues: participants rated terms for autism, possible subgroups within autism, autistic people, autism likelihood, and autistic characteristics. Non-autistic parents’, autistic parents’, and autistic non-parents’ terminology ratings differed, but generally modestly. Using clustering to explore response patterns revealed greater variability. Almost half of the participants were grouped in the Open Cluster, characterised by liking or neutrality towards most terms. Others were grouped in the Identity-First Cluster, characterised by support for identity-first language, strong opposition to terms for possible autism subgroups, and rejection of many pathologising terms. Other participants were in the Person-First Cluster, characterised by support for person-first language, yet still some scepticism towards terms for possible autism subg…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10870547261478340",
       "title": "Visual Function and Potential Neurodevelopmental Ocular Markers in ADHD: A Systematic Review and Meta-Analysis",
       "authors": [
@@ -4783,140 +5338,6 @@
       ],
       "abstract": "ABSTRACT Autism spectrum disorder (ASD) is a lifelong neurodevelopmental condition associated with significant challenges in daily functioning and well‐being. Caregivers often experience substantial psychological and physical burden. However, comprehensive synthesis of quality of life (QoL) outcomes for both individuals with ASD and their caregivers remains limited. This study evaluated QoL in individuals with ASD and their caregivers and examined key psychological, social, and economic determinants. A systematic review and meta‐analysis were conducted following PRISMA guidelines (PROSPERO: CRD42024538872). PubMed, Scopus, Embase, PsycINFO, and preprint repositories were searched for studies published between January 2013 and July 2025. Eligible studies assessed QoL using validated instruments in individuals with ASD aged ≤ 19 years and/or their caregivers. Random‐effects meta‐analysis was used to estimate pooled mean differences. Of 14,368 records identified, 216 studies were included. Quantitative meta‐analyses included up to 173 studies, depending on the outcome and availability of comparable data. Individuals with ASD scored 21.7 points lower than peers (95% CI: −26.9 to −16.5;…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/13623613261474929",
-      "title": "Age at Autism Diagnosis in the Norwegian Mother, Father, and Child Cohort Study (MoBa): Exploring the Association With Family Well-Being",
-      "authors": [
-        "Bernt Damian Glaser",
-        "Meseret Mamo Bazezew",
-        "Daniela Bragantini",
-        "Laura Elizabeth Hegemann",
-        "Stian Orm",
-        "Morgan James Morgan",
-        "Somer L. Bishop",
-        "Stian Barbo Valand",
-        "Laurie John Hannigan",
-        "Alexandra Havdahl"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-22",
-      "doi": "10.1177/13623613261474929",
-      "url": "https://doi.org/10.1177/13623613261474929",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "communication"
-      ],
-      "abstract": "For many autistic individuals, close family members represent a crucial source of support throughout their lifetime. Early autism diagnosis is thought to benefit both autistic individuals and their family members by facilitating early access to services and information. However, little research has empirically studied the relationship between age at diagnosis and well-being among autistic individuals and their family members. In this study, we examined predictors of age at autism diagnosis and its relationship with family well-being using the population-based Norwegian Mother, Father, and Child Cohort Study (MoBa). We found that the most important factors associated with a later age at diagnosis were fewer social communication difficulties at age three, fewer maternal concerns about development in early childhood, absence of a co-occurring intellectual disability diagnosis, female sex, and having older siblings. While a later age at diagnosis was associated with higher well-being for mothers and children during childhood, it was associated with lower well-being for children during adolescence. All associations were substantially attenuated after adjustment for various clinical, dem…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261476381",
-      "title": "Addressing Common Problems in Autism Research: Cohort Development and Sample Description for a Participatory, Real-World, Longitudinal Study of Outcomes in Autistic Adults",
-      "authors": [
-        "Christina Nicolaidis",
-        "Ian Moura",
-        "Mary Baker-Ericzén",
-        "Mirah Scharer",
-        "Joelle Maslak",
-        "Rachel Kripke-Ludwig",
-        "Willi Horner-Johnson",
-        "Julia Love",
-        "Dora M. Raymaker",
-        "Andrea Joyce",
-        "Shannon des Roches Rosa",
-        "Grace A. Herbert",
-        "Julie Lounds Taylor",
-        "Liu-Qin Yang",
-        "Katherine McDonald",
-        "Zack Siddeek",
-        "Steven K. Kapp",
-        "Emanuel Frowner",
-        "Ivanova Smith",
-        "Anna Furra Wallington",
-        "K. J. Flores",
-        "Noah Kaufman",
-        "Clarissa Kripke",
-        "Joseph Vera",
-        "Vivian D. Grillo",
-        "Finn Gardiner"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-22",
-      "doi": "10.1177/13623613261476381",
-      "url": "https://doi.org/10.1177/13623613261476381",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "tags": [
-        "participatory"
-      ],
-      "abstract": "Adult autism services research is plagued by methodological challenges, including difficulty obtaining representative or heterogeneous samples and a frequent mismatch between experimental methodologies and real-world settings. The Academic Autism Spectrum Partnership in Research and Education (AASPIRE) Outcomes Project used a community-based participatory research (CBPR) approach to (a) create the AASPIRE Measurement Toolkit – a set of self- and caregiver-reported accessible outcome measures to evaluate health and social services and (b) explore factors predicting changes in outcomes. We previously used a CBPR-nested Delphi process to identify high-priority outcomes and adapted or created instruments to measure them. We conducted a longitudinal survey to validate these measures in a pragmatic sample of autistic adults with subcohorts from two health care systems, two disability service systems, and the larger autistic community in the United States. This article (a) describes our study methods and the sample’s baseline characteristics and (b) compares characteristics among participants in the separate subcohorts and sites. We collected baseline data from 870 participants. Follow-up…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478882",
-      "title": "Challenges in Independent Living for Middle-Aged Autistic Adults in China: A Qualitative Study",
-      "authors": [
-        "Xi Wang",
-        "Lihua Zhou"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-22",
-      "doi": "10.1177/13623613261478882",
-      "url": "https://doi.org/10.1177/13623613261478882",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Emergency care"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "As the first cohort of formally diagnosed autistic individuals in China enters later life, the disruption of premature old-age care among middle-aged autistic adults—while they strive for independent living in old age—has emerged as an urgent public health issue. This study employed an exploratory qualitative design. Data collection methods included 34 semi-structured interviews and participant observation. Analysis revealed that premature care disruption unfolds through three sequential stages. First, while families still provided care, three resource deficits undermined independent aging for middle-aged autistic adults: lack of labor insurance, depleted household savings, and reduced care support in single-parent structures. Second, when family care capacity ruptured, reliance on institutional care was accompanied by multiple systemic limitations, including age-based exclusion and services that eroded rather than supported independent living. Third, families explored charitable trusts as an emerging strategy, yet these remained accessible primarily to middle-income households and left critical gaps in legal protection, asset management, and long-term social support. Middle-aged a…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478883",
-      "title": "“There’s No Greater Feeling”: Empowerment and Achievement Through Neurodivergent Co-Design",
-      "authors": [
-        "Noah Glaser",
-        "Nigel Newbutt"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-22",
-      "doi": "10.1177/13623613261478883",
-      "url": "https://doi.org/10.1177/13623613261478883",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education",
-        "Employment"
-      ],
-      "tags": [
-        "communication",
-        "lived experience",
-        "participatory"
-      ],
-      "abstract": "Extended reality (XR) technologies, including virtual reality (VR), have long been investigated as tools to support autistic and other neurodivergent individuals, yet much of this work has prioritized researcher-defined outcomes over the lived experiences of neurodivergent users. Participatory and co-design approaches offer a means to address this gap, but limited research documents how neurodivergent adults experience authentic involvement in XR development. This study examines the experiences of neurodivergent co-designers engaged in the collaborative creation of uSucceed, a VR cybersecurity learning environment. Five neurodivergent adults employed as paid members of a university-based development lab participated in semi-structured interviews focused on expectations, learning, design responsibilities, collaboration, and perceived impact. Using a grounded theory approach, analysis involved iterative coding, constant comparison, and axial mapping of relationships among design practices, experiences, and outcomes. Co-designers reported substantial growth in technical skills such as Unity development, C# scripting, debugging, and animation, alongside gains in communication, persiste…"
     },
     {
       "id": "10.1177/25739581261473460",
@@ -5266,52 +5687,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261472147",
-      "title": "Linking Emotion Dysregulation to Autistic Traits Across Neurodiverse Samples",
-      "authors": [
-        "Rachel G. McDonald",
-        "Mary Isaac Cargill",
-        "Emily Lynch",
-        "Sadaf Khawar",
-        "Caroline Freden",
-        "Erin Kang"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-20",
-      "doi": "10.1177/13623613261472147",
-      "url": "https://doi.org/10.1177/13623613261472147",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Emergency care",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Emotion dysregulation (ED) is defined as difficulty regulating emotions in response to activating situations, and subsequent difficulty choosing an environmentally appropriate strategy to modulate one’s emotions. Despite ED being identified as a transdiagnostic construct, little research has examined the links to constructs like social communication and interaction (SCI) and restricted and repetitive behaviors (RRBs). SCIs and RRBs are core components of neurodevelopmental conditions like autism, as well as other mental health conditions more broadly. This article sought to examine the effects of emotional dysphoria and emotional reactivity on SCI and RRBs. Caregivers of 99 youth (64 autistic) ages 6 to 17 completed questionnaires about their child’s ED, SCI, and RRBs. Path models were used to examine ED’s impact on SCI difficulties and RRBs. Results suggest that both SCI and RRBs are affected by ED dysphoria and reactivity, with some differences across autistic and non-autistic groups. These findings can inform treatments for medication management and intervention planning for different profiles of ED in both autistic and non-autistic youth. Lay Abstract Many youth experience stru…"
-    },
-    {
-      "id": "10.1177/13623613261480175",
-      "title": "Whose Outcomes Count? Rethinking Measurement in Global Autism Research",
-      "authors": [
-        "Shoba S. Meera",
-        "Mirko Uljarević",
-        "Rosa A. Hoekstra"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-20",
-      "doi": "10.1177/13623613261480175",
-      "url": "https://doi.org/10.1177/13623613261480175",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
       "id": "10.1108/aia-01-2026-0001",
       "title": "A short report on neurodevelopmental conditions in individuals with zoophilia",
       "authors": [
@@ -5364,31 +5739,6 @@
         "service improvement"
       ],
       "abstract": "Objectives: It remains unclear how much parents with ADHD benefit from standard parenting interventions such as behavioral parent training (BPT). Our objective was to systematically review the literature on BPT aimed at adults with ADHD. As few studies with this focus were identified, we exploratively broadened our scope to quantitatively combine and qualitatively analyze studies of behavioral parenting interventions reporting parental ADHD characteristics. Method: A systematic review was conducted of studies evaluating BPT for (targeting) parents with ADHD. The broader literature was explored through meta-regressions and qualitative content analysis. Results: In the systematic review, five studies focusing on parents with ADHD were identified, including two randomized controlled trials. These studies used different strategies to facilitate parents’ BPT implementation: treating the parents’ ADHD or adapting the BPT itself for adults with ADHD. The number of studies was too small to meta-analyze but narratively suggested that BPT delivered with consideration of parental ADHD functioning and needs can be associated with, for example, increased positive parenting skills. None of our m…"
-    },
-    {
-      "id": "10.1177/13623613261476379",
-      "title": "The Impact of “Harmful Behaviours” on Parents of Autistic Children",
-      "authors": [
-        "Melanie Heyworth",
-        "Diana Weiting Tan",
-        "Elizabeth Pellicano"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-19",
-      "doi": "10.1177/13623613261476379",
-      "url": "https://doi.org/10.1177/13623613261476379",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "In existing literature, an Autistic child’s “externalising behaviour” (e.g., aggression, defiance) is often associated with poor parental mental health outcomes. Yet few studies have considered the extent and nature of the impact of a child’s harmful behaviours (physical harm to self, others, and property) on parents qualitatively. Here, we examined how Autistic and non-autistic parents conceptualise their Autistic children’s harmful behaviours, and the impact of such behaviours on parents. We analysed 39 Autistic and non-autistic parent interviews using reflexive thematic analysis, from which we identified four themes. Theme 1 encompassed parents’ experiences of their children’s harmful behaviours. Theme 2 captured parents’ explanations for their children’s harmful behaviours, which they understood as indicating intense distress. In Theme 3, parents reflected on their responses to periods of crisis, during which they prioritised safety but acknowledged a systemic lack of support hindered their efforts. Finally, Theme 4 describes the detrimental impacts on parent mental health, including feelings of helplessness, grief, guilt, and fear for the future. We show that it is imperative…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00589-3",
@@ -5713,32 +6063,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1177/13623613261472929",
-      "title": "A Reliable Effect of Alexithymia, but Not Autism, on Placebo Hypoalgesia",
-      "authors": [
-        "Eri Ichijo",
-        "Michel-Pierre Coll",
-        "Caroline Catmur",
-        "Geoffrey Bird"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-16",
-      "doi": "10.1177/13623613261472929",
-      "url": "https://doi.org/10.1177/13623613261472929",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "Perception of pain can be altered by one’s expectations of that pain, producing well-known phenomena such as placebo effects. It has been suggested that perceptual inference functions differently in autism, with perception weighted towards bottom-up sensory evidence rather than top-down expectations. This account would predict reduced placebo effects in autism. However, research also indicates that atypical interoception (perception of bodily sensations) in autism may be better explained by co-occurring alexithymia. This latter finding suggests that any differences in perceptual inference in autism, at least within the interoceptive domain, may be a product of co-occurring alexithymia. We conducted a study in London and Oxford, England, using a placebo hypoalgesia paradigm to assess perceptual inferences in autism and alexithymia. This paradigm permits manipulation of expectations (concerning the magnitude of pain relief) while measuring individual differences in the perception of stimuli (perceived pain). We investigated whether the magnitude of the placebo effect could be explained by autistic and/or alexithymic traits. Ninety-six adults, including autistic people ( n = 28), alex…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07442-w",
       "title": "Differences in Community Recognition of Autism Between Special Education and Clinicians: Insights From Public Health Surveillance in Arizona",
       "authors": [
@@ -5895,30 +6219,6 @@
       "abstract": "Purpose This study explores the mental health experiences and therapeutic needs of autistic adolescents in the context of the COVID-19 pandemic, with particular attention to their perspectives on counselling and therapy. This research aims to address the limited representation of autistic adolescents’ voices in mental health research and to better understand how pandemic-related disruptions affected wellbeing. A further aim is to explore adolescents’ perceptions of therapeutic support and the potential relevance of nondirective therapeutic approaches. By foregrounding autistic adolescents’ experiences, the study seeks to inform the development of more responsive, neurodiversity-affirming mental health support and contribute to improving therapeutic provision for this population. Design/methodology/approach A sequential explanatory mixed-methods design was used. In phase one, an online survey was completed by 32 autistic adolescents aged 13–17. The survey explored mental health experiences, access to support and the perceived impact of COVID-19. Quantitative data were analysed using descriptive statistics and inferential analysis. In phase two, an online focus group with seven autis…"
     },
     {
-      "id": "10.1177/13623613261477806",
-      "title": "Short Report: Divergent Sleep–Wake Regularity in U.S. Children With Autism Spectrum Disorder: Bedtime vs Wake-up Regularity",
-      "authors": [
-        "Chia-Shuan Chang",
-        "Chun-Ji Lin"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-13",
-      "doi": "10.1177/13623613261477806",
-      "url": "https://doi.org/10.1177/13623613261477806",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Sleep–wake regularity is an emerging dimension of sleep health, yet its association with autism spectrum disorder (ASD) remains understudied in nationally representative samples, particularly across distinct components of sleep timing. Using parent-reported data from 11,462 U.S. children aged 5–17 years in the 2022 and 2024 National Health Interview Survey, this study examined associations between ASD diagnosis and irregular bedtime and wake-up timing, including differences by age group. Multivariable logistic regression models were adjusted for sociodemographic characteristics, family context, daytime fatigue, and mental health indicators, with survey weights applied to account for the complex sampling design. In pooled analyses, ASD was associated with lower odds of irregular bedtime (adjusted odds ratio [aOR] = 0.64, 95% CI: 0.43–0.95) but higher odds of irregular wake-up times (aOR = 1.60, 95% CI: 1.01–2.56). Age-stratified analyses showed that the association with irregular wake-up timing remained in children (aOR = 2.27, 95% CI: 1.14–4.51) but not in adolescents, while no association was observed for bedtime in either age group. As one of the first nationally representative a…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1002/aur.70342",
       "title": "Characterization of Anticholinergic Medication Use and Its Associations With Everyday Memory Problems and Cognitive Decline in Autistic Adults With Higher Support Needs",
       "authors": [
@@ -5998,32 +6298,6 @@
       ]
     },
     {
-      "id": "10.1177/13623613261469913",
-      "title": "Common and Differing Elements Across Caregiver-Mediated Social Communication Programs Supporting Autistic Children: A Scoping Review With Content Analysis",
-      "authors": [
-        "Vipula Rajesh Kumar",
-        "Lauren Choi",
-        "Janis Oram",
-        "Amanda Binns"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-12",
-      "doi": "10.1177/13623613261469913",
-      "url": "https://doi.org/10.1177/13623613261469913",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Caregiver-mediated interventions are widely used to support social communication development in young autistic children. While many such interventions are evidence-informed, limited information exists about their shared and unique elements, making it challenging for caregivers and clinicians to tailor program selection to individual needs and preferences—an essential part of personalized care in autism. This scoping review with content analysis examined 18 commercially available, caregiver-mediated social communication interventions to identify similarities and differences in child skills targeted and caregiver-coached strategies. Data were extracted from program manuals, fidelity tools, published literature, and program websites for eight developmental social pragmatic (DSP) programs and 10 naturalistic developmental behavioral interventions (NDBIs). Programs varied in scope, with some supporting a broad range of child skills and others focusing on specific areas. Across all programs, 70 caregiver-coached strategies were identified, and then thematically grouped into eight categories aligned with the developmental skills the strategies aim to support. Although some strategies were…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261474938",
       "title": "From Waiting to Action: Why the Autism Field Must Embrace Efficient Service Delivery Models for Diagnostic Assessment",
       "authors": [
@@ -6052,32 +6326,6 @@
         "access"
       ],
       "abstract": "Waiting lists for an autism evaluation delay timely diagnosis and entry into autism-specific early intervention. To solve this crisis, our field must increase capacity by embracing efficient diagnostic processes. Traditional diagnostic pathways involve complex evaluations and rely on a highly trained but limited pool of specialists, which elongate wait times. Evidence suggests that emerging approaches, including telehealth assessments, primary care diagnosis, and tiered models, reduce barriers. We guide readers through five core issues critical to updating the standard of care for early autism assessment: (1) What are the consequences of maintaining the status quo? (2) What do families prioritize? (3) What evidence supports efficient diagnostic models? (4) What are the consequences of reducing accuracy? and (5) What level of assessment depth is needed to inform action? Our team contends that the critical advantages of adopting efficient service delivery models far outweigh the disadvantages. Collaboration across disciplines, and trust in families’ insights, will help build capacity. We conclude with actionable recommendations for clinicians and policymakers in support of adopting t…"
-    },
-    {
-      "id": "10.1177/13623613261470856",
-      "title": "Understanding Autism Through Indigenous Relational Ecologies: A Phenomenographic Exploratory Study With Potawatomi Participants",
-      "authors": [
-        "Jessica C. Kitchens",
-        "Donna Wake"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-12",
-      "doi": "10.1177/13623613261470856",
-      "url": "https://doi.org/10.1177/13623613261470856",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Autism is commonly conceptualized in research, policy, and clinical contexts as an individual condition defined by diagnostic criteria and functional impairment. While these frameworks shape access to services, they often obscure relational, cultural, and contextual meanings of autism, particularly within Indigenous communities. This article reports findings from an exploratory phenomenographic study examining how autism is understood among five Citizen Potawatomi Nation participants. Guided by Indigenous Knowledge Systems, decolonial leadership, relational epistemologies, and a neurodiversity-affirming paradigm, the study examined qualitative variation in meaning-making rather than consensus or generalizability. Semi-structured interviews were conducted with Autistic adults, parents of Autistic children, and a tribal Knowledge Keeper. Analysis followed Åkerlind’s interpretive phenomenographic approach, resulting in five categories of description illustrating coexisting understandings of autism: system-managed difference, intergenerational family patterning, natural human variation, relational identity and belonging, and spiritual gift with purpose. These categories were organized…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10870547261478353",
@@ -6122,34 +6370,6 @@
         "Healthcare"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/13623613261469915",
-      "title": "Facilitating Autism Service Navigation, Parenting, and Self-Care Within a Community-Based Organization: A Pilot Feasibility Study With Culturally and Linguistically Diverse Families",
-      "authors": [
-        "Shana M. Attar",
-        "Hannah Benavidez",
-        "Carol Gicheru",
-        "Colleen Alabi",
-        "Risho Sapano",
-        "Wendy L. Stone"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-11",
-      "doi": "10.1177/13623613261469915",
-      "url": "https://doi.org/10.1177/13623613261469915",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "Health care and early education systems are common entry points for autism identification and specialized services. However, culturally and linguistically diverse families are less likely to experience timely or positive interactions within these systems. This pilot feasibility study examined implementation outcomes of using non-specialist providers (NSPs) within a community-based non-profit organization to support early service navigation while also promoting caregiver use of evidence-based parenting and self-care strategies. Six multilingual NSPs completed a web-based training and delivered a four-session program, the Family Care Project, to 35 families of children aged 16 months to 5 years for whom there were developmental concerns. Implementation outcomes were assessed using Proctor’s taxonomy, including acceptability, feasibility, appropriateness, adoption, penetration, and sustainability. All families completed all four sessions within 5 weeks. NSPs reported high acceptability, feasibility, and appropriateness of the training and caregiver-facing materials; adoption was high, with 95% of planned module content delivered. At the 5-month follow-up, NSPs reported continued progr…"
     },
     {
       "id": "10.1007/s10803-026-07480-4",
@@ -6225,60 +6445,6 @@
         "Mental health"
       ],
       "abstract": "Background: Autistic young adults face elevated risks for depression, and emerging evidence indicates that some engage in substance use. Residential status and social satisfaction may be related to these outcomes, yet little research has examined their interplay in autistic populations. Methods: We used baseline data from 267 autistic young adults aged 18–24 ( M = 21.56; SD = 1.76). Participants were predominantly female (65.63%), non-Hispanic White (75%), and enrolled in school (68.76%). Participants reported their current residential status, mental health, and substance use, and completed measures of social and role functioning, social satisfaction, and demographic characteristics. A unified mediation model tested whether social satisfaction mediated associations between residential status and (1) depression, (2) alcohol use, and (3) cannabis use, adjusting for relevant covariates. Results: Living alone, compared with living with a parental figure, was associated with greater social satisfaction, which in turn predicted fewer depression symptoms. In contrast, living alone or with friends or roommates was directly associated with elevated alcohol and cannabis use but showed no ind…"
-    },
-    {
-      "id": "10.1177/13623613261472991",
-      "title": "Health Care Transition Experiences for Rural and Urban Autistic Adolescents and Young Adults: A Qualitative Analysis",
-      "authors": [
-        "E Zhang",
-        "Makenna Snyder",
-        "Wafaa Alduraidi",
-        "Spencer Hunley",
-        "Kristin Sohl",
-        "Nancy Cheak-Zamora",
-        "Eve-Lynn Nelson"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-09",
-      "doi": "10.1177/13623613261472991",
-      "url": "https://doi.org/10.1177/13623613261472991",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Health care transition (HCT) is underexplored among autistic adolescents and young adults (AYAs). We explored autistic AYAs’ HCT experiences through virtual semi-structured interviews with 19 participants (mean age = 21.4 years; range = 15–25). Data were analyzed using reflexive thematic analysis and interpreted through self-determination theory (SDT). Participants described HCT as marked by increased expectations for independent health care management without commensurate preparation, relational continuity, or structural support. Findings were organized around SDT domains of competence, autonomy, and relatedness, which were interconnected. Gaps in competence constrained autonomy and contributed to stress and care avoidance. Autonomy was negotiated and situational, often supported through ongoing caregiver involvement rather than full independence. Relatedness was undermined by fragmented care, limited continuity, and experiences of being dismissed by providers. Structural factors (transportation, insurance acceptance, provider availability, and rurality) shaped when and how these psychological needs could be met, amplifying transition-related challenges. Autistic AYAs want to take…"
-    },
-    {
-      "id": "10.1177/13623613261472939",
-      "title": "The Use of the Clinical Global Impressions Scale in Psychosocial Interventions for Autism Characteristics: A Systematic Review",
-      "authors": [
-        "Magdalena Glod",
-        "Victoria Grahame",
-        "Jacqui Rodgers"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-09",
-      "doi": "10.1177/13623613261472939",
-      "url": "https://doi.org/10.1177/13623613261472939",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "The increase in intervention diversity to improve core difficulties in autism has resulted in the development and proliferation of a variety of measures to assess change. The Clinical Global Impressions (CGI) scale has been recommended for use in pharmacological autism clinical trials to monitor individuals’ progress. No specific recommendations have been made for an outcome measure for psychosocial interventions. This review aimed to evaluate available evidence of a use of the CGI scale as an outcome measure in psychosocial interventions for autism characteristics. A systematic search of electronic databases identified 22 primary studies utilising the CGI scale to evaluate change across a range of social, communication and behavioural interventions for autistic people. The lack of consistency in the use of the measure was evident. This applied to the variety of constructs being measured, inconsistent application and scoring methods, which all limited the CGI scale’s reliability and validity. Despite the widespread use of the CGI scale in psychosocial clinical trials for autistic people, the lack of standardisation hampers conclusions regarding the evidence of its effectiveness in…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1080/20473869.2026.2713160",
@@ -6435,44 +6601,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1177/13623613261471572",
-      "title": "Special Interests in Autism: Functions, Benefits, and Challenges",
-      "authors": [
-        "Mareike Bayer",
-        "Isabel Dziobek"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-06",
-      "doi": "10.1177/13623613261471572",
-      "url": "https://doi.org/10.1177/13623613261471572",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Mental health"
-      ],
-      "abstract": "Special interests are a highly prevalent feature of autism spectrum conditions (ASC) and have long been described primarily from a deficit-oriented perspective. More recent work has pointed to their potential as psychological resources, yet systematic evidence and direct comparisons with non-autistic groups remain limited. The present study examined the significance of special interests for well-being, self-related aspects and emotion regulation in autistic adults, as well as negative consequences and stigma. Furthermore, we directly compared the likelihood of engaging in special interests versus seeking social contact across a range of emotional contexts. A total of 182 participants (60 autistic and 122 non-autistic) completed an online survey on multiple aspects of their (special) interests and measures of social anxiety and self-esteem. Autistic individuals reported a stronger role of special interests in emotion regulation and as a source of learning and knowledge, while also experiencing greater stigma and negative consequences compared with non-autistic participants. Autistic participants further showed a higher likelihood of relying on their interests as a coping strategy in…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261470852",
-      "title": "Embedding Child-Centred Information in Developmental Care Pathways for Autistic Children: A Response to Albin et al.",
-      "authors": [
-        "Liping Yang"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-06",
-      "doi": "10.1177/13623613261470852",
-      "url": "https://doi.org/10.1177/13623613261470852",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1080/20473869.2026.2710252",
       "title": "Block building training enhances visual perspective taking in autistic children",
       "authors": [
@@ -6561,28 +6689,6 @@
         "ADHD"
       ],
       "abstract": "Purpose: To estimate attention-deficit/hyperactivity disorder (ADHD) prevalence across gender identity, transgender status, and sexual identity using whole-population linked data in Aotearoa New Zealand (NZ). Methods: A nationwide cohort study using the 2023 NZ Census linked to administrative health data within Stats NZ’s Integrated Data Infrastructure. Individuals aged 5 to 24 years were included. ADHD was identified from lifetime diagnosis and treatment records. Modified Poisson regression models estimated adjusted incident rate ratios (IRRs) by gender, transgender status, and sexual identity. Results: Among 1,266,456 individuals, 43,095 (3.4%) had ADHD. ADHD prevalence was higher among those identifying with another gender (10.3%) than males (4.6%) or females (2.0%), and among transgender (9.9%) than non-transgender individuals (3.4%). Among those aged 15 to 24 years, ADHD prevalence was higher in non-heterosexual (8.0%) than heterosexual individuals (3.6%). Adjusted analyses showed similarly elevated rates. Conclusion: ADHD prevalence was substantially higher among gender-diverse, transgender, and sexual diverse populations, highlighting the need for inclusive and equitable ass…"
-    },
-    {
-      "id": "10.1177/13623613261464209",
-      "title": "Overall Weak Association Between Gastrointestinal Symptoms and Psychological, Autism, and Demographic Variables in Autistic Children",
-      "authors": [
-        "Eliana Rosenthal",
-        "Daniel A. Waschbusch",
-        "Susan D. Mayes"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-05",
-      "doi": "10.1177/13623613261464209",
-      "url": "https://doi.org/10.1177/13623613261464209",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Our study determined psychological, autism trait, somatic, and demographic variables associated with maternal ratings of stomachaches, constipation, diarrhea, and bowel incontinence in autistic children. Mothers of 1,093 autistic children rated their children on the Pediatric Behavior Scale. In regression analyses, the somatic symptom score (i.e., headaches, other aches/pains excluding stomachaches, complains of feeling sick) was the strongest predictor of stomachaches, constipation, and diarrhea. Scores on the other variables (autism severity, externalizing symptoms, internalizing symptoms, autism traits, sleep problems, demographics) each contributed less than 2% more to explained variance. Decreasing age and decreasing IQ were predictors of bowel incontinence. Only 1 of the 30 significant correlations between GI symptoms and the independent variables was large (stomachaches and other somatic symptoms), one was medium (stomachaches and sadness), and four were small to medium (stomachaches and anxiety and increasing age; bowel incontinence and decreasing age and decreasing IQ). The association between GI problems and psychopathology, autism symptoms, and demographics is weak. Find…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/25739581261474754",
@@ -7626,29 +7732,6 @@
         "sensory"
       ],
       "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) often experience co‐occurring psychiatric conditions, such as anxiety and attention‐deficit/hyperactivity disorder (ADHD), which significantly impair daily functioning. However, the underlying mechanisms linking these conditions to core ASD features remain poorly understood. This study examined relationships between anxiety, ADHD symptoms, and multi‐domain neurocognitive abilities in a clinic‐based sample of 701 Chinese children with ASD (mean age 8 years, 13.4% female), using the Hong Kong version of the Penn Computerized Neurocognitive Battery. Initial correlations revealed negative associations between cognitive performance and ADHD symptoms, but no direct links with anxiety. Ordinal regression demonstrated that poorer executive function (EF) independently predicted greater ADHD severity along a continuum from no ADHD to subclinical features to co‐occurring ADHD, in a dose‐dependent manner, even after controlling for core autism symptoms, other cognitive domains, and full‐scale IQ. Moderation analyses showed that stronger EF specifically buffered the associations between sensory hyper‐responsiveness/sensory‐seeking and anxiet…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/13623613261469916",
-      "title": "Sense of Coherence and the Relation to Autistic Traits in Autistic Adults",
-      "authors": [
-        "Britta Westerberg",
-        "Susanne Bejerot",
-        "Ann Langius-Eklöf",
-        "Fredrik Holländare"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-31",
-      "doi": "10.1177/13623613261469916",
-      "url": "https://doi.org/10.1177/13623613261469916",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Sense of coherence reflects the ability to comprehend and interpret one’s environment as coherent and to experience life as manageable and meaningful. Sense of coherence is predictive of quality of life in several populations, but this relation has not been investigated among autistic individuals. Even though autistic individuals often describe difficulties perceiving the world in a coherent way, the sense of coherence concept is relatively unexplored in autism. The aim of this study was to explore the relationship between autistic traits, sense of coherence and quality of life in autistic individuals in Sweden. A total of 81 adults with autism completed questionnaires covering their sense of coherence, quality of life and autistic traits. The results showed that sense of coherence predicted quality of life and that autistic traits predicted sense of coherence levels in our sample. Based on the results, we suggest that sense of coherence may be important for the understanding of autistic functioning and that sense of coherence is essential for quality of life in this group. The study contributes to the understanding of autistic functioning and adds useful knowledge for the developm…",
       "framing": "Mixed or transitional framing"
     },
     {
@@ -9853,39 +9936,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/13623613261442618",
-      "title": "Assess the Fidelity, Validity and Responsiveness of the Brief Observation of Social Communication Change (BOSCC) to Measure Changes in the Social Interactions of Preschool Children With Autism Spectrum Disorder",
-      "authors": [
-        "Agathe Jay",
-        "Lucie Jurek",
-        "Riham Hamadeh",
-        "Marie-Joelle Oreve",
-        "Carmen M. Schröder",
-        "Veronique Delvenne",
-        "Sandrine Sonie",
-        "Bruno Falissard",
-        "Olivia Febvey-Combes",
-        "Mario Speranza",
-        "Marie-Maude Geoffray"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261442618",
-      "url": "https://doi.org/10.1177/13623613261442618",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Accurately measuring changes in core autism symptoms following early intervention is challenging. The Brief Observation of Social Communication Change (BOSCC) is a promising tool for assessing social interactions in preschoolers with autism spectrum disorder (ASD). However, data on its responsiveness remain limited, warranting validation to support its use in evaluating treatment-related changes. This study aimed to assess the reliability, validity, and sensitivity to change of the BOSCC based on international recommendations from the COSMIN expert group. The BOSCC was rated using 414 video observations from a large multicenter randomized controlled trial including 177 preschoolers with ASD between 19 and 36 months. Videos were coded using the original BOSCC protocol by trained, blinded raters. Analyses addressed reliability, structural and convergent validity, and responsiveness over a 2-year follow-up. Interrater, intrarater, and test–retest reliability were consistently high, with good internal consistency (Cronbach’s α = 0.88–0.98). Factor analysis supported a three-factor structure. Convergent validity was modest with Autism Diagnostic Observation Scale (ADOS) change scores (r…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1002/aur.70263",
       "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
       "authors": [
@@ -9994,34 +10044,6 @@
         "Employment"
       ],
       "abstract": "ABSTRACT Many autistic individuals with average or higher cognitive abilities (also referred to as intelligence quotient; IQ) exhibit weaker than expected daily living skills (DLS). However, existing evidence is primarily cross‐sectional. This study examined: (1) how IQ‐DLS discrepancies develop from early childhood through early adulthood, (2) whether childhood factors (e.g., autism features, non‐verbal IQ) predict these developmental pathways, and (3) how IQ‐DLS discrepancy trajectories relate to adult experiences (e.g., employment, well‐being, relationships). Analyses included 92 individuals from the Longitudinal Study of Autism with average or better IQ and repeated assessments of IQ and DLS from ages 2–25 years. Developmental patterns in IQ‐DLS discrepancy scores were identified using group‐based trajectory modeling. Two trajectory groups were identified: IQ = DLS (commensurate cognitive and daily living skills) and IQ &gt; DLS (weaker DLS than expected for IQ). Most participants had commensurate IQ and DLS across development. When discrepancies emerged, they did so gradually, becoming apparent by mid‐childhood. White participants were more likely to be in the IQ &gt; DLS grou…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70287",
-      "title": "Beyond the Outburst: Charting a New Frontier for Understanding and Treating Irritability in Autistic Adults",
-      "authors": [
-        "Hsiang‐Yuan Lin",
-        "Arthur N. Westover",
-        "Amy S. F. Lutz",
-        "Manish K. Jha"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70287",
-      "url": "https://doi.org/10.1002/aur.70287",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Irritability is a prevalent and impairing feature associated with autism, yet remains poorly understood, particularly in adults. Drawing heavily on insights translated from pediatric and transdiagnostic literatures, we propose that irritability in autistic individuals often reflects a psychophysiological stress or threat response, rooted in a vulnerable neurobiology (e.g., sensory sensitivities, intolerance of uncertainty), but may also stem from intrinsic neurobiological dysregulation independent of environmental triggers. The current treatment paradigm for autistic adults, largely extrapolated from pediatric antipsychotic trials, leaves these adults critically underserved due to a lack of evidence‐based treatments, clinical trials, or validated tools to measure their internal experience. This viewpoint deconstructs irritability, differentiating its affective nature from aggression, and highlights heterogeneity across the lifespan and support needs. We critique the limitations of current assessment methods and recommend a shift toward a multi‐modal strategy integrating self‐report (when feasible) with objective, physiologically‐informed tools (e.g., wearable biosensors) a…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -12097,69 +12119,6 @@
       "tags": [
         "sensory"
       ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s40489-026-00559-9",
-      "title": "School-Based and Emotion-Focused Interventions for Youth with Autism Spectrum Disorder: A Systematic Review and Narrative Synthesis",
-      "authors": [
-        "Melissa T. Fernandez",
-        "Justin Moase",
-        "Ingrid E. Sladeczek"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1007/s40489-026-00559-9",
-      "url": "https://doi.org/10.1007/s40489-026-00559-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2679068",
-      "title": "Inclusion of autistic learners with a significant intellectual disability in general education classrooms alongside peers",
-      "authors": [
-        "Elizabeth Flanagan",
-        "Laura Gormley",
-        "Joseph Travers"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1080/20473869.2026.2679068",
-      "url": "https://doi.org/10.1080/20473869.2026.2679068",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
-    },
-    {
-      "id": "10.1007/s10882-026-10073-9",
-      "title": "Preliminary Evaluation of an Intervention to Rapidly Strengthen Generalized Imitation in Young Autistic Children",
-      "authors": [
-        "Meghan A. Deshais",
-        "Debra Paone",
-        "Stephanie M. Ortiz"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-01",
-      "doi": "10.1007/s10882-026-10073-9",
-      "url": "https://doi.org/10.1007/s10882-026-10073-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Imitation deficits in young autistic children are well-documented. Strengthening generalized imitation in this population is a primary goal of early intervention. In this study, an intervention designed to rapidly strengthen generalized imitation was evaluated with two young autistic children. The intervention entailed simultaneously teaching three different model types (object, gross motor, and vocal imitation) using evidence-based instructional procedures with frequent tests for generalized imitation via novel probes. Outcomes from this preliminary evaluation suggest the intervention may be capable of rapidly strengthening this repertoire in some autistic children.",
       "framing": "Neurodiversity-informed"
     }
   ]
