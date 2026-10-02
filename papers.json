@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:19:35Z",
+  "generated_at": "2026-10-02T12:38:29Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -74,6 +74,31 @@
         "Quality of life"
       ],
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
+    {
+      "id": "10.1108/aia-03-2026-0036",
+      "title": "Delayed autism recognition in an autistic woman: camouflaging, diagnostic overshadowing and contextual vulnerability",
+      "authors": [
+        "Karol Gutiérrez-Ruiz",
+        "Prisca Espinosa Acevedo"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-10-05",
+      "doi": "10.1108/aia-03-2026-0036",
+      "url": "https://doi.org/10.1108/aia-03-2026-0036",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "lived experience",
+        "service improvement"
+      ],
+      "abstract": "Purpose This study aims to examine how camouflaging and diagnostic overshadowing contributed to delayed autism recognition in an autistic woman, and how adversity complicated the clinical pathway and case formulation. Design/methodology/approach The authors conducted an instrumental single-case study using a qualitatively driven embedded mixed-methods design in a private clinical practice setting. Data sources included documentary history, collateral developmental information, descriptive self-report measures (Empathy Quotient and Multidimensional Assessment of Interoceptive Awareness) and an in-depth semistructured interview analyzed using the framework method. Qualitative and descriptive clinical data were integrated through narrative synthesis and a joint display. Findings Three interrelated processes characterized the delayed pathway: prolonged help-seeking organized around prior psychiatric diagnoses and low autism suspicion; camouflaging strategies that reduced clinical detectability despite substantial subjective cost; and adversity-related experiences that intensified internalizing distress and reinforced non-neurodevelopmental interpretations. The participant also presente…"
     },
     {
       "id": "10.1007/s10803-026-07556-1",
@@ -3269,6 +3294,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -3293,26 +3338,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -5846,6 +5871,24 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -5865,24 +5908,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -9873,54 +9898,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261448948",
-      "title": "How Do Speech-Language Pathology Social Communication Interventions Incorporate the Strengths and Perspectives of Autistic Children and Their Families: A Scoping Review",
-      "authors": [
-        "Maya Albin",
-        "Peter Rosenbaum",
-        "Eniola Bode-Akinboye",
-        "Yani Hamdani",
-        "Michelle Phoenix"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261448948",
-      "url": "https://doi.org/10.1177/13623613261448948",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Purpose: It is important to understand how social communication interventions for autistic people align with neurodiversity-affirming approaches, including strength-based and family-centered care principles. In this scoping review, we explored how the strengths and perspectives of autistic children and their families are included in speech-language pathology social communication interventions. We searched OVID Medline, Embase, PsycINFO, and Web of Science databases, used supplementary search methods, and conducted a gray literature search. Data were extracted using the Population, Concept, and Context framework for scoping reviews. Major findings: 26 articles were included in our analysis. Most studies described only deficits associated with autism. Most studies explicitly reported parents’ perspectives on intervention goals, activities, or outcome measures; children’s perspectives were rarely included. Most speech-language pathology documents from the gray literature recommended strength-based, and family-centered service delivery. Conclusion: Strength-based and family-centered values have been recommended in speech-language pathology practice for decades yet were not consistently…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261445631",
-      "title": "Social Motivation in Autism Spectrum Disorder: A Mixed-Methods Exploration Using Eye-Tracking, Behavioral Tasks, Self- and Parent-Reports, and Qualitative Insights",
-      "authors": [
-        "Jiaxi Li",
-        "Kathy Kar-man Shum"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261445631",
-      "url": "https://doi.org/10.1177/13623613261445631",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Social motivation diminishment is a core autism feature, yet prior research has been inconsistent, focusing on single dimensions and overlooking heterogeneity in motivational expressions among autistic individuals. This mixed-methods study compared social motivation in 104 individuals with autism (male: 74, M age = 18.55 years) and 192 non-autistic peers (male: 101, M age = 16.65 years), using eye-tracking and behavioral tasks, self-/parent-reports, and qualitative analysis of open-ended responses. Quantitative analyses revealed autistic participants had lower self-determined motivation, driven by reduced intrinsic motivation and identified regulation. Parent-report results corroborated lower perceived social motivation in the autistic group. The eye-tracking task showed decreased orientation to social stimuli, and behavioral task indicated reduced willingness to exert effort for social rewards, with no significant associations with age or autistic trait. Qualitative data highlighted that despite challenges, many autistic participants valued friendship and sought connection through shared activities, often preferring compact, stable social networks. The group-level quantitative fin…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1002/aur.70263",
       "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
       "authors": [
@@ -11990,73 +11967,6 @@
         "Communication"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07382-5",
-      "title": "Addressing Social Skills in Autistic Children: Feasibility and Parental Insights on Hanen’s More Than Words",
-      "authors": [
-        "Adel Mohamadzade",
-        "Saeid Hassanzadeh",
-        "Salar Faramarzi",
-        "Mohsen Shokoohi-Yekta"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-03",
-      "doi": "10.1007/s10803-026-07382-5",
-      "url": "https://doi.org/10.1007/s10803-026-07382-5",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07386-1",
-      "title": "Sleep Disturbances Differentially Associated With First and Second Language Receptive Vocabulary in Autistic Children",
-      "authors": [
-        "Caicai Zhang",
-        "Lu Li",
-        "Ruofan Wu",
-        "Haoyan Ge"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-03",
-      "doi": "10.1007/s10803-026-07386-1",
-      "url": "https://doi.org/10.1007/s10803-026-07386-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-07-2025-0068",
-      "title": "The utility of multi-informant approaches when working with autistic adults",
-      "authors": [
-        "Olivia F. Ward",
-        "Theodore S. Tomeny",
-        "Ariel Pliskin",
-        "Eileen T. Crehan"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-06-03",
-      "doi": "10.1108/aia-07-2025-0068",
-      "url": "https://doi.org/10.1108/aia-07-2025-0068",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Purpose With a growing focus on autism in adulthood, reexamining how and from whom information is collected is critical to ensure autistic adults receive adequate and appropriate care across the lifespan. Accessibility to autism assessments, services for co-occurring mental health conditions, and identifying service needs in adulthood is challenging. Mental health outcomes for autistic adults remain relatively poor compared to nonautistic peers. Increased incorporation of autistic self-report will ensure researchers and clinicians capture the profiles, concerns and needs of autistic individuals from their perspective. However, reliance on a single reporter, regardless of diagnosis or condition, comes with limitations. Using multi-informant approaches provides additional information through examining convergence and discrepancy between informants. Design/methodology/approach This viewpoint paper aims to consider the use of multi-informant approaches, as they pertain to autistic adults through a neurodiversity-affirming framework from the perspective of researchers, clinicians, family members of autistic adults, and autistic self-advocates. Drawing on discrepancy research, adult diag…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
