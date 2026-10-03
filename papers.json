@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:38:29Z",
+  "generated_at": "2026-10-03T11:41:55Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -99,6 +99,106 @@
         "service improvement"
       ],
       "abstract": "Purpose This study aims to examine how camouflaging and diagnostic overshadowing contributed to delayed autism recognition in an autistic woman, and how adversity complicated the clinical pathway and case formulation. Design/methodology/approach The authors conducted an instrumental single-case study using a qualitatively driven embedded mixed-methods design in a private clinical practice setting. Data sources included documentary history, collateral developmental information, descriptive self-report measures (Empathy Quotient and Multidimensional Assessment of Interoceptive Awareness) and an in-depth semistructured interview analyzed using the framework method. Qualitative and descriptive clinical data were integrated through narrative synthesis and a joint display. Findings Three interrelated processes characterized the delayed pathway: prolonged help-seeking organized around prior psychiatric diagnoses and low autism suspicion; camouflaging strategies that reduced clinical detectability despite substantial subjective cost; and adversity-related experiences that intensified internalizing distress and reinforced non-neurodevelopmental interpretations. The participant also presente…"
+    },
+    {
+      "id": "10.1007/s10803-026-07558-z",
+      "title": "Beyond Food Selectivity: Feeding Problems, Nutritional Status, and Parental Quality of Life in Autism Spectrum Disorder",
+      "authors": [
+        "Gül Eda Kılınç Tulum",
+        "Yasemin Açar Kuru",
+        "Aliye Özenoğlu"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-03",
+      "doi": "10.1007/s10803-026-07558-z",
+      "url": "https://doi.org/10.1007/s10803-026-07558-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07543-6",
+      "title": "Early-Life Feeding Behavior and Sensory Processing in Autism Spectrum Disorder: A Systematic Review and Meta-Analysis",
+      "authors": [
+        "Krisztina Szalkay",
+        "Dorottya Gergő",
+        "Tamás Kói",
+        "Dorottya Kenesei",
+        "Klementina Ocskay",
+        "Miklós Garami",
+        "Péter Hegyi",
+        "Rita Nagy",
+        "Kinga Farkas"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-03",
+      "doi": "10.1007/s10803-026-07543-6",
+      "url": "https://doi.org/10.1007/s10803-026-07543-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Abstract Purpose Autism Spectrum Disorder (ASD) affects around 2.8% of the population, yet early diagnosis remains challenging and may delay beneficial interventions. Atypical sensory processing and feeding difficulties are frequently reported in ASD and have been discussed as early behavioral correlates. We conducted a systematic review and meta-analysis to examine associations between these features and to delineate behavioral patterns that may support early developmental assessment. Methods Studies published until November 15, 2023, were included if they assessed feeding behavior alongside sensory processing or multisensory integration. Articles without original data were excluded. Risk of bias was evaluated using the QUIPS tool, and the protocol was registered in PROSPERO (CRD42023483136). We searched PubMed, Cochrane, Embase, and Scopus. For continuous outcomes, we calculated mean differences (MDs), standardized mean differences (SMDs) and pooled correlation coefficients. Results A total of 46 studies met the inclusion criteria, of which 17 contributed to meta-analysis. Children with ASD showed more frequent and severe mealtime behavioral problems than neurotypical peers, with…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07502-1",
+      "title": "Parenting Experience and Family Dynamics Among Parents of Children With Neurodevelopmental Disorders: A Cross-Sectional Study",
+      "authors": [
+        "Xiaoli Liao",
+        "Wei He",
+        "Hao Xie",
+        "Xingxing Liu",
+        "Zhihui Chen",
+        "Xiang Lei"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-03",
+      "doi": "10.1007/s10803-026-07502-1",
+      "url": "https://doi.org/10.1007/s10803-026-07502-1",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261486061",
+      "title": "Autism and Homelessness: Risk and Protective Factors in a Bayesian Analysis of Autistic Characteristics",
+      "authors": [
+        "Elizabeth Jane Osborn",
+        "Robyn Louise Young",
+        "Nathan Weber",
+        "Belinda Fuss"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-02",
+      "doi": "10.1177/13623613261486061",
+      "url": "https://doi.org/10.1177/13623613261486061",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Autistic individuals are overrepresented in homeless populations, yet mechanisms driving this association remain unclear, particularly in the context of diagnostic access and structural inequities. We surveyed 333 adults in Australia, assessing autistic traits (Autism-Spectrum Quotient [AQ]-50), homelessness risk factors, adaptive functioning and social support. Bayesian hierarchical logistic regression models were used to estimate associations. Associations between autistic traits and homelessness probability differed according to diagnostic status. Among participants without a formal diagnosis, higher AQ-50 scores were associated with greater estimated homelessness probability, although uncertainty remained; this association was attenuated among formally diagnosed participants. Structural risk factors were credibly associated with higher homelessness probability, whereas mental health-related risk factors showed a positive posterior estimate with greater uncertainty. Interaction effects involving socioeconomic status and social support suggested that associations between autistic traits and homelessness varied according to broader social context. Bayesian mediation analyses explo…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07556-1",
@@ -5871,24 +5971,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -5908,6 +5990,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -9869,35 +9969,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261435249",
-      "title": "‘My Answers Don’t Fit Your Options’: Measuring Self-Harm With Autistic People Using the Self-Injurious Thoughts and Behaviours Interview (SITBI)",
-      "authors": [
-        "Isabel Gordon",
-        "Mirabel Pelton",
-        "Jane Goodwin",
-        "Ruby Herrington",
-        "Jacqui Rodgers",
-        "Sarah Cassidy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261435249",
-      "url": "https://doi.org/10.1177/13623613261435249",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Autistic people are a high-risk group for suicide, and self-harm is one of the strongest predictors of death by suicide among autistic people. There are no validated measures to assess self-harm with or without suicidal intent among autistic people. We aimed to describe the challenges reported by autistic people when completing the Self-Injurious Thoughts and Behaviours Interview (SITBI) and researchers’ experiences of supporting them. We undertook thematic analysis of feasibility interview transcripts from a pilot randomised controlled trial of autism-adapted safety plans carried out in the United Kingdom. One theme, ‘Reaching an authentic answer’ overarched three subthemes: ‘Conceptualising suicidal plans’; ‘Defining parameters of suicidal thoughts’; and ‘Capturing self-harm’. Researchers validated autistic experience and developed trusting partnership with participants to overcome ambiguous language and a lack of valid response options. Data were gathered on an opportunistic basis, rather than with this intended purpose, meaning this may not constitute an exhaustive survey of this issue. Researchers can support autistic people to report self-harm using the SITBI and other measur…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70263",
       "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
       "authors": [
@@ -11852,121 +11923,6 @@
       "domains": [
         "Healthcare"
       ]
-    },
-    {
-      "id": "10.1007/s10803-026-07370-9",
-      "title": "Preliminary Evidence for Differentiating Functional Performance in Preschool Children on the Autism Spectrum Using the Basic Activities of Daily Living Evaluation—Preschool Version",
-      "authors": [
-        "Sabina Barrios-Fernández",
-        "Diana Salas-Gómez",
-        "Dulce Romero-Ayuso",
-        "Margarita Gozalo-Delgado"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-04",
-      "doi": "10.1007/s10803-026-07370-9",
-      "url": "https://doi.org/10.1007/s10803-026-07370-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Abstract Purpose The ability to perform basic activities of daily living is a core component of child development and participation. Despite its relevance, the availability of tools to assess these activities in preschoolers on the autism spectrum remains limited, particularly in the Spanish context. This study examined the psychometric properties and explored preliminary reference thresholds for interpreting functional performance of the Basic Activities of Daily Living Evaluation – Preschool Version (BADL-P) , a culturally relevant and context-sensitive tool. Methods A total of 281 children (241 from the general population and 40 on the autism spectrum), aged 3–6 years, participated. The BADL-P Includes Four Scales Eating, Personal Hygiene, Dressing, and Daily Functioning (executive functioning during daily activities), comprising 84 items. Group differences, internal consistency, inter-scale correlations, and receiver operating characteristic (ROC) analyses were conducted to assess the instrument's discriminative validity as a measure of functional performance in preschool children, and to explore normative reference thresholds for differentiating between groups. Results Signifi…"
-    },
-    {
-      "id": "10.1007/s10803-026-07376-3",
-      "title": "Autism and ADHD Strengths and Needs in a Nutshell – Parental Evaluation of a Digital ICF-Based Assessment Summary Report",
-      "authors": [
-        "John Hasslinger",
-        "Lovisa Alehagen",
-        "Karolina Bilir",
-        "Sven Bölte"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-04",
-      "doi": "10.1007/s10803-026-07376-3",
-      "url": "https://doi.org/10.1007/s10803-026-07376-3",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Returning results from psychological assessments is increasingly viewed as an ethical duty and a way to strengthen engagement and trust. The WHO International Classification of Functioning, Disability and Health (ICF) offers a framework to describe functioning across strengths, challenges, and contextual facilitators/barriers. Although ICF-based approaches map functioning in autism and ADHD, their use for individualized feedback to caregivers is underexamined. We evaluated caregivers’ perceptions of a digital summary report derived from a proxy-rated ICF-based assessment for children and adolescents with autism and/or ADHD. Methods A multiple-methods survey was sent to 707 caregivers from a prior ICF Core Sets study; 357 provided valid responses. Items covered perceived accuracy, changes in awareness and agency, and perceived usefulness in healthcare, education, and social services. Quantitative data were analysed with nonparametric statistics; qualitative responses were thematically categorized. Results Caregivers rated the report accurate for their child’s strengths (91.3%) and challenges (92.2%). About half reported increased awareness of strengths (49.9%), chal…"
-    },
-    {
-      "id": "10.1080/20473869.2026.2677756",
-      "title": "Factors associated with literacy outcomes in individuals with Down syndrome or autism spectrum disorder: an analytical cross-sectional study in Espírito Santo, Brazil",
-      "authors": [
-        "Eliana Caus Sampaio",
-        "Roseli Aparecida Francelin Romero"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-04",
-      "doi": "10.1080/20473869.2026.2677756",
-      "url": "https://doi.org/10.1080/20473869.2026.2677756",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2679723",
-      "title": "Teaching responsive communication strategies to mothers of non-speaking autistic children",
-      "authors": [
-        "Siobhan Gardiner",
-        "Chris Bowden",
-        "Hannah Waddington"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-04",
-      "doi": "10.1080/20473869.2026.2679723",
-      "url": "https://doi.org/10.1080/20473869.2026.2679723",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2026.2671191",
-      "title": "Generative AI in art therapy for children with autism spectrum disorder: enhancing emotional expression and social cognition through multimodal interaction",
-      "authors": [
-        "Ziming Li",
-        "Jiangfeng Wang",
-        "Ping Jiang",
-        "Bingxue Fei",
-        "Chaoxin Lin",
-        "Chenkai Zhou"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-04",
-      "doi": "10.1080/20473869.2026.2671191",
-      "url": "https://doi.org/10.1080/20473869.2026.2671191",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
