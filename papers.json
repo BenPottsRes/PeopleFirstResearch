@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:43:49Z",
+  "generated_at": "2026-10-06T13:21:29Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -74,6 +74,30 @@
         "Quality of life"
       ],
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
+    {
+      "id": "10.1108/aia-03-2026-0032",
+      "title": "Social determinants of autism spectrum disorder diagnosis timing in Saudi Arabia: a socioecological perspective",
+      "authors": [
+        "Othman A. Alasmari"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-10-08",
+      "doi": "10.1108/aia-03-2026-0032",
+      "url": "https://doi.org/10.1108/aia-03-2026-0032",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Purpose This study aims to examine factors associated with age at Autism Spectrum Disorder (ASD) diagnosis in Saudi Arabia using the Socioecological Model as a guiding framework. Design/methodology/approach A cross-sectional quantitative design was used with parent-reported data from an online non-probability sample of 356 parents and primary caregivers of children formally diagnosed with ASD. Age at diagnosis was measured in ordered categories and examined in relation to access to diagnostic services, combined parental educational level, prior parental knowledge of ASD, geographic region and child gender. Spearman correlation, Kruskal–Wallis testing and adjusted ordinal logistic regression were used. Findings Most children were diagnosed between 3 and &amp;lt; 6 years, while a notable proportion were diagnosed between 6 and &amp;lt; 9 years. Access to diagnostic services was the only factor significantly associated with diagnostic timing in both bivariate and adjusted analyses, with better access linked to earlier diagnosis. This study did not detect statistically significant associations for parental education, prior parental knowledge, child gender or geographic region, although…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07559-y",
@@ -6143,6 +6167,24 @@
       "framing": "Person-first language used"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -6162,24 +6204,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -12056,25 +12080,6 @@
         "Education"
       ],
       "abstract": "Abstract The purpose of this study was to investigate the effectiveness of a video modeling–based intervention package for teaching physically active cooperative playground games to preschool children diagnosed with autism spectrum disorder (ASD). Specifically, this study examined whether the intervention package improved the game performance of three preschool-aged children with ASD. A multiple probe design across participants was employed to assess the effects of the intervention on two traditional playground singing games (i.e., Kutu Kutu Pense and Benim Bir Atım Var). Participants were three preschool children with ASD (two boys and one girl), aged 4–5 years, recruited from an inclusive preschool. The dependent variable was the number of correct task-analysis steps performed during game play while the song/chanted rhyme was ongoing. The independent variable was a teacher-created video modeling–based intervention package that featured age-matched peer models and included visual supports, prompting, and reinforcement. Results indicated that all three children increased the number of correct steps for each game after the intervention package was introduced. Furthermore, during the…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2683890",
-      "title": "The intervention effects on facial expression recognition in children with autism spectrum disorder: a meta-analysis of single-subject design studies",
-      "authors": [
-        "Zhi Wang",
-        "Shuyuan Chen",
-        "Baoxin Feng",
-        "Zhe Chen"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-07",
-      "doi": "10.1080/20473869.2026.2683890",
-      "url": "https://doi.org/10.1080/20473869.2026.2683890",
-      "neurotype": [
-        "Autism"
-      ],
       "framing": "Mixed or transitional framing"
     }
   ]
