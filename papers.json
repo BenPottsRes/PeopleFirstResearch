@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:21:29Z",
+  "generated_at": "2026-10-07T13:27:41Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -98,6 +98,137 @@
       ],
       "abstract": "Purpose This study aims to examine factors associated with age at Autism Spectrum Disorder (ASD) diagnosis in Saudi Arabia using the Socioecological Model as a guiding framework. Design/methodology/approach A cross-sectional quantitative design was used with parent-reported data from an online non-probability sample of 356 parents and primary caregivers of children formally diagnosed with ASD. Age at diagnosis was measured in ordered categories and examined in relation to access to diagnostic services, combined parental educational level, prior parental knowledge of ASD, geographic region and child gender. Spearman correlation, Kruskal–Wallis testing and adjusted ordinal logistic regression were used. Findings Most children were diagnosed between 3 and &amp;lt; 6 years, while a notable proportion were diagnosed between 6 and &amp;lt; 9 years. Access to diagnostic services was the only factor significantly associated with diagnostic timing in both bivariate and adjusted analyses, with better access linked to earlier diagnosis. This study did not detect statistically significant associations for parental education, prior parental knowledge, child gender or geographic region, although…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1108/aia-12-2025-0127",
+      "title": "Step-by-step program: mentalization-based intervention for autistic children and their families",
+      "authors": [
+        "Ilenia Gori",
+        "Carles Testor Perez",
+        "Norka T. Malberg",
+        "Anderson Sydney",
+        "Denis Sukhodolsky"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-10-08",
+      "doi": "10.1108/aia-12-2025-0127",
+      "url": "https://doi.org/10.1108/aia-12-2025-0127",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) presents challenges for public health systems due to its heterogeneity and complexity. The Step-by-Step Program was developed as an innovative, community-based mentalization-based intervention for autistic children aged 5–7 and their families. This study aims to evaluate the feasibility of implementing this program within existing systems of care and to examine its preliminary effects. Design/methodology/approach An open trial was conducted with 16 autistic children and their families who participated in the Step-by-Step Program, a two-year intervention integrating weekly group therapy for children with alternating multi-family and parent sessions. Outcome measures included standardized assessments of child emotional and behavioral functioning, autism symptom profiles and parental satisfaction. Data were collected at baseline, midpoint, endpoint and one-year follow-up. Findings Findings indicated high feasibility, treatment adherence and strong family satisfaction ratings. Children demonstrated significant improvements in social communication, symbolic play, flexibility and emotional/behavioral regulation. These gains were not only maintained…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07516-9",
+      "title": "Infant Attention to Eyes Versus Mouth Varies With Mouth Movement Speed, Family History of Autism and Language Development",
+      "authors": [
+        "Mary Agyapong",
+        "Luke Mason",
+        "Jannath Begum Ali",
+        "Mark H. Johnson",
+        "Tony Charman",
+        "Emily J. H. Jones",
+        "Tessel Bazelmans",
+        "Leila Dafner",
+        "Mutluhan Ersoy",
+        "Teodora Gliga",
+        "Amy Goodwin",
+        "Rianne Haartsen",
+        "Hanna Halkola",
+        "Alexandra Hendry",
+        "Rebecca Holman",
+        "Sarah Kalwarowsky",
+        "Anna Kolesnik",
+        "Sarah Lloyd-Fox",
+        "Nisha Narvekar",
+        "Greg Pasco",
+        "Laura Pirazzoli",
+        "Chloë Taylor"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-07",
+      "doi": "10.1007/s10803-026-07516-9",
+      "url": "https://doi.org/10.1007/s10803-026-07516-9",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose Patterns of visual attention to faces are mixed in infants with a family history of autism relative to controls. Attention deficit hyperactivity disorder (ADHD) often co-occurs with autism and could represent one source of variance in findings. Heterogeneity in language skills may represent another source of variance. We investigated longitudinal patterns of attention to eyes and mouths in infants with and without an elevated familial likelihood (EL) of autism and/or ADHD, and examined associations with language development. Methods The sample included 160 infants (EL-autism = 79, EL-ADHD = 31, EL-autism+ADHD = 21, Typical Likelihood (TL) of autism and/or ADHD = 29). We measured eye-to-mouth looking ratios of 5, 10 and 14 month olds who viewed pairs of faces with mouths moving at low (1 Hz), medium (6 Hz) and high (10 Hz/15 Hz) temporal frequency. Language skills were measured throughout infancy and at 36 months. Results Eye looking (relative to mouth) decreased as a function of age and was reduced for speech-like frequencies (6 Hz) compared to slower frequencies. Infants with EL-autism looked more to the eyes than TL infants, but this effect was attenuated in the…"
+    },
+    {
+      "id": "10.1007/s10803-026-07561-4",
+      "title": "The Functional Application of Episodic Foresight in Autistic Children",
+      "authors": [
+        "Serene Jiu Swan Chua",
+        "Gill Terrett",
+        "Sarah P. Coundouris",
+        "Peter G. Rendell",
+        "Thomas Suddendorf",
+        "Julie D. Henry"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-07",
+      "doi": "10.1007/s10803-026-07561-4",
+      "url": "https://doi.org/10.1007/s10803-026-07561-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Challenges in daily living skills are well documented in autism spectrum disorder (ASD), even for those with preserved intellectual function. Since episodic foresight is critical to act with the future in mind, this study provides the first test of whether autistic children exhibit differences on a behavioral test of this capacity, and if so, whether these variations might be related to broader cognitive abilities involving executive control and/or retrospective memory. Methods Forty autistic children with no intellectual impairment (IQ &gt; 80) aged 8–12 years and 55-age and IQmatched non-autistic controls completed a measure that met strict criteria for demonstrating episodic foresight, the child variant of Virtual-Week Episodic Foresight. This measure requires children to identify a problem, self-generate a resolution, and execute the appropriate future-directed intention. They also completed standardized tests of executive control (Trail Making Test and Color-Word Interference Test) and retrospective memory (delayed recall). Results The two groups did not differ in their capacity to take appropriate steps in the present in anticipation of potential future probl…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70374",
+      "title": "Self‐ and Caregiver‐Reported Choice‐Making in Autistic Adults: Development and Validation of the\n                    <scp>AASPIRE</scp>\n                    –Choices and Decisions Scale",
+      "authors": [
+        "So Yoon Kim",
+        "Kristen Gillespie‐Lynch",
+        "Steven K. Kapp",
+        "Liu‐Qin Yang",
+        "Anna “Furra” Wallington",
+        "Dora M. Raymaker",
+        "Ian Moura",
+        "Katherine McDonald",
+        "Joelle Maslak",
+        "Rachel Kripke‐Ludwig",
+        "Andrea Joyce",
+        "Willi Horner‐Johnson",
+        "Emanuel Frowner",
+        "Mary Baker‐Ericzén",
+        "Christina Nicolaidis"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-10-06",
+      "doi": "10.1002/aur.70374",
+      "url": "https://doi.org/10.1002/aur.70374",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "participatory"
+      ],
+      "abstract": "ABSTRACT Self‐determination has been assessed as an internal psychological construct. External factors may also affect self‐determination, but opportunities to make choices and decisions remain understudied. We developed and evaluated the AASPIRE‐Choices and Decisions Scale (AASPIRE‐CDS), a new measure of autistic adults' opportunities to make choices and decisions, using a community‐based participatory approach. We created and refined the AASPIRE‐CDS through an iterative process. Data from the AASPIRE Outcomes Project included 839 autistic adults participating through direct report, direct‐report caregiver‐supported, and caregiver report (CR). Exploratory and confirmatory analyses supported a unidimensional structure. Measurement invariance analyses supported configural, metric, and partial scalar invariance across report type without CR, and across living status, with and without CR. The AASPIRE‐CDS showed high internal consistency, test–retest reliability, and preliminary responsiveness to change over time. Convergent validity analyses showed that higher AASPIRE‐CDS scores were associated with greater self‐determination and communication fluency, more independent living, and few…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07559-y",
@@ -6167,24 +6298,6 @@
       "framing": "Person-first language used"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -6204,6 +6317,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -10111,60 +10242,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261451897",
-      "title": "Inferring Thoughts by and of Individuals With and Without Autism: An Empathic Accuracy Study",
-      "authors": [
-        "Hannah De Laet",
-        "Annabel D. Nijhof",
-        "Jan R. Wiersema"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261451897",
-      "url": "https://doi.org/10.1177/13623613261451897",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "While prevailing theories suggest social interaction difficulties are inherent to autism, the theory of the double empathy problem (DEP) proposes these difficulties arise from a mismatch between different neurotypes. The theory predicts more challenging communication between individuals with and without autism, but better communication among individuals with autism. While individuals with autism indeed report better communication, experimental studies testing the theory are largely lacking. In this study, 106 adults (55 with autism) completed an empathic accuracy task in which they watched video clips of an interaction between an individual with and without autism and inferred the individuals’ thoughts. Contrary to our hypothesis, adults with autism were not better at estimating the thoughts of other adults with autism. Instead, they were generally less accurate than adults without autism. Individuals with autism were also perceived as more difficult to estimate. In conclusion, this study did not find support for the DEP theory. Further research is needed to understand the reported ease of communication among individuals with autism. Lay abstract Autism is associated with social in…",
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1177/13623613261447926",
-      "title": "Exploring Patterns of Self-Harm in Autistic Adults Using the Card Sort Task for Self-Harm",
-      "authors": [
-        "Mirabel Pelton",
-        "Victoria Newell",
-        "Blandine French",
-        "Ruth Wadman",
-        "Ellen Townsend",
-        "Sarah Cassidy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1177/13623613261447926",
-      "url": "https://doi.org/10.1177/13623613261447926",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Autistic adults self-harm more often than non-autistic adults, but there are no tools to assess patterns of self-harm in autistic people. This study aimed to (1) review the accessibility of a novel visual task – the Card Sort Task for Self-Harm (CaTS) – to explore self-harm with autistic adults and (2) to pilot the CaTS to identify proximal and distal contributing factors leading to self-harm and experiences following self-harm. First, autistic adults ( n = 5) with lived experience of self-harm reviewed the CaTS for clarity and accessibility. Second, we undertook a pilot administration of the CaTS and used sequence analysis to explore significant transitions between factors before and after self-harm. Participants ( n = 29, autistic or possibly autistic, female = 82%, mean age = 41.62) selected, on average, 42 cards to describe self-harm. Most frequently selected cards described agitation ( n = 25), mental pain ( n = 22) and depression ( n = 22), while most infrequently collected cards included being in a gang and talking to a teacher ( n = 0). Agitation and acting on impulse preceded self-harm. Feeling better, worse, exhausted and hopeless followed self-harm. Improving emotion reg…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1002/aur.70263",
       "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
       "authors": [
@@ -10226,32 +10303,6 @@
       ],
       "abstract": "ABSTRACT While repetitive movements are recognized as a diagnostic hallmark of Autism Spectrum Disorder (ASD) in frameworks such as the DSM and ICD, other motor disturbances, including gait atypicalities and postural control difficulties, have historically been overlooked or framed as secondary comorbidities. This discrepancy persists despite growing evidence that motor signs in ASD are fundamental rather than incidental. Some of these motor and gait signs may be discernable early and could potentially forecast subsequent communication outcomes in certain cohorts. The current focus on observable behaviors in diagnostic systems may thus benefit from integration of motor dimensions, which could enhance early identification and support tailored interventions. Available experimental and clinical findings converge to indicate that motor dysfunctions in ASD are neither epiphenomena nor peripheral. They map onto cerebellar and basal ganglia dysfunction, impaired multisensory integration, and disrupted emotion–motor coupling that may impact cognitive and social outcomes. Future directions must go beyond the current phenotypical characterization of ASD. Motor screening could be integrated i…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70264",
-      "title": "Conceptualizing Functioning Levels of Theory of Mind Ability and Performance in Preschool to School‐Aged Autistic and Neurotypical Children",
-      "authors": [
-        "Shih‐Chieh Lee",
-        "Chien‐Yu Huang",
-        "Tzu‐Yun Huang",
-        "Wei‐Chun Hsu",
-        "Cian‐Ya Lan",
-        "Kuan‐Lin Chen"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70264",
-      "url": "https://doi.org/10.1002/aur.70264",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT Autistic children often show reduced theory of mind (ToM). However, existing ToM measures neither sufficiently distinguish ToM ability from performance nor interpret both scores effectively, limiting their interpretability and clinical utility. To resolve these limitations, we characterized the measurement‐based functioning levels and correspondence between ToM ability and performance among preschool to school‐aged children. Data from 288 autistic and 168 neurotypical children were analyzed using a multidimensional Rasch model. The functioning levels and correspondence were established using expected responses across statistically distinguishable ToM levels. The results revealed three levels of ToM ability—Early (failure on all items), Basic (success on desire‐based emotion), and Advanced (success on all items)—and five levels of ToM performance: Pre‐ToM (understanding needs and wants), Emerging (simple emotion recognition), Transition (first‐order false belief), Premature (contextual understanding), and Mature (pragmatic understanding). Importantly, while ToM performance tended to improve with ToM ability, only 20% of the items were comparable with neurotypical children.…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07401-5",
@@ -12060,27 +12111,6 @@
       "domains": [
         "Mental health"
       ]
-    },
-    {
-      "id": "10.1007/s10882-026-10074-8",
-      "title": "The Effectiveness of Video Modeling on Teaching Physically Active Cooperative Play to Children with Autism Spectrum Disorder",
-      "authors": [
-        "Satı Ergin",
-        "Onur Emre Kocaoz"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-08",
-      "doi": "10.1007/s10882-026-10074-8",
-      "url": "https://doi.org/10.1007/s10882-026-10074-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Abstract The purpose of this study was to investigate the effectiveness of a video modeling–based intervention package for teaching physically active cooperative playground games to preschool children diagnosed with autism spectrum disorder (ASD). Specifically, this study examined whether the intervention package improved the game performance of three preschool-aged children with ASD. A multiple probe design across participants was employed to assess the effects of the intervention on two traditional playground singing games (i.e., Kutu Kutu Pense and Benim Bir Atım Var). Participants were three preschool children with ASD (two boys and one girl), aged 4–5 years, recruited from an inclusive preschool. The dependent variable was the number of correct task-analysis steps performed during game play while the song/chanted rhyme was ongoing. The independent variable was a teacher-created video modeling–based intervention package that featured age-matched peer models and included visual supports, prompting, and reinforcement. Results indicated that all three children increased the number of correct steps for each game after the intervention package was introduced. Furthermore, during the…",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
