@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:32:57Z",
+  "generated_at": "2026-10-09T13:20:22Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -76,6 +76,24 @@
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
     },
     {
+      "id": "10.1007/s10882-026-10098-0",
+      "title": "Effects of Exercise Interventions on Social Functioning in Children and Adolescents with Autism Spectrum Disorder: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
+      "authors": [
+        "Zhicong Tai",
+        "Denise Koh",
+        "Lizhong Tan"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-10-09",
+      "doi": "10.1007/s10882-026-10098-0",
+      "url": "https://doi.org/10.1007/s10882-026-10098-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-026-07529-4",
       "title": "Cerebellar Crus I and Crus II Structure and Excitation/Inhibition Balance in Autism Spectrum Disorder",
       "authors": [
@@ -96,6 +114,47 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261489841",
+      "title": "Invisible Needs and Uneven Recognition: A National FOI Study of Autism Support Across Diagnostic Stages in U.K. Universities",
+      "authors": [
+        "Karen Cross",
+        "Fiona Knott",
+        "Alana I. James"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-08",
+      "doi": "10.1177/13623613261489841",
+      "url": "https://doi.org/10.1177/13623613261489841",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "This study investigates how universities in the United Kingdom identify and support autistic students across three groups (diagnosed, seeking diagnosis, self-identifying without wishing to pursue a diagnosis). In addition, it examines communication practices and interim adjustments. Freedom of Information (FOI) request questionnaires, issued under Freedom of Information Act (FOIA) 2000 and FOI (Scotland) Act 2002, were submitted to 142 publicly funded U.K. universities, generating 125 valid responses (88%). The 77-item FOI questionnaire comprised multiple-choice and open-text items. Data were analysed descriptively and using qualitative content analysis. Results revealed 50% of institutions reported data on formally diagnosed autistic students, 16% on students seeking diagnosis and 7% on students who self-identify without wishing to pursue diagnosis. Only 2% of universities reported formal policy guiding disability staff when responding to undiagnosed autistic students. The findings suggested that institutional practices varied across universities and by diagnostic group. Staff judgement and discretion mostly determined availability of support and adjustments. Support was frequentl…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261491788",
+      "title": "Beyond Integration: Reflections on Educational Inclusion in Chile",
+      "authors": [
+        "Alejandro Wasiliew"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-08",
+      "doi": "10.1177/13623613261491788",
+      "url": "https://doi.org/10.1177/13623613261491788",
+      "neurotype": [
+        "Autism"
+      ]
     },
     {
       "id": "10.1177/25739581261495703",
@@ -3903,6 +3962,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -3927,26 +4006,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
