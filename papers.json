@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:34:51Z",
+  "generated_at": "2026-10-11T12:53:13Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -74,6 +74,33 @@
         "Quality of life"
       ],
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
+    {
+      "id": "10.1007/s10803-026-07540-9",
+      "title": "Effects of Incorporating Horses into Occupational Therapy on Adrenocortical and Sympathetic Nervous System Reactivity and Regulation in Autistic Children: A Randomized Controlled Trial",
+      "authors": [
+        "Ellen M. Rankins",
+        "Stephen Aichele",
+        "Douglas A. Granger",
+        "Susan Hepburn",
+        "Robin Gabriels",
+        "Arlene A. Schmid",
+        "B. Caitlin Peters"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-10",
+      "doi": "10.1007/s10803-026-07540-9",
+      "url": "https://doi.org/10.1007/s10803-026-07540-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment",
+        "Healthcare"
+      ],
+      "abstract": "Abstract Purpose The study prospectively investigated adrenocortical and autonomic nervous system reactivity and regulation as autistic children participated in a randomized controlled trial of occupational therapy in an equine environment (OT-Equine). Methods Autistic children ( n = 72, ages 6–11 yrs) were randomly assigned for 10 weeks to OT-Equine or clinic-based occupational therapy (OT-Clinic). Saliva samples (later assayed for cortisol and alpha-amylase, [sAA]) were collected before (pre-session), during (within-session), immediately after (post-session), and 20-minutes after (post-session + 20) each 1-hour weekly session. Data were analyzed with a generalized linear mixed-effects model. Results Across the 10 sessions, pre-session sAA significantly increased ( exp(b) = 1.02 per week, p &lt; 0.05). Within sessions, sAA increased ( exp(b) = 1.22; p &lt; 0.01) during therapy and recovered post-session + 20. Group differences in sAA changes were non-significant. By contrast, pre-session cortisol concentrations were stable across the 10-weeks ( exp(b) = 1.01; p &gt; 0.05). Within session, however, cortisol concentrations decreased from pre- to post- and post-session + 20, with gre…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/25739581261495704",
@@ -4022,26 +4049,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -4066,6 +4073,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -6577,26 +6604,6 @@
       ],
       "abstract": "Purpose Despite formal inclusion mandates, autistic children in stratified educational systems continue to face systematic barriers to meaningful school participation. This study aims to examine how parents of autistic children in Bavaria, Germany, experience these barriers and what conditions, when present, make a difference. Design/methodology/approach Reflexive thematic analysis (Braun and Clarke, 2021) of 492 free-text survey responses from 529 Bavarian parents, integrating accounts collected at school entry and across the broader educational trajectory. Analysis was supported by MAXQDA Analytics Pro. Findings Six themes emerged: systematic school rejection and structural mismatch; educational outcomes as a lottery of the individual teacher; the school aide as institutional gatekeeper; compounding parental advocacy burden; the child behind the data; and enabling conditions alongside calls for systemic reform. Across all themes, a consistent pattern emerges: families do not merely experience institutional failure; they absorb it, compensating through sustained advocacy labour for what schools do not provide. Research limitations/implications Findings reflect parental perspective…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/1034912x.2026.2678842",
-      "title": "Culturally Adapted Online Physical Activity Intervention for South Korean Immigrant Parents of Adult Children with Autism Spectrum Disorders",
-      "authors": [
-        "Seo Hee Lee",
-        "Seung Yeon Park"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/1034912x.2026.2678842",
-      "url": "https://doi.org/10.1080/1034912x.2026.2678842",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Person-first language used"
     },
     {
       "id": "10.1080/20473869.2026.2718189",
@@ -12161,73 +12168,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/1034912x.2026.2678833",
-      "title": "Evaluation of the Relevance and Effective Implementation of Pedagogical Practices for Students on the Autism Spectrum at University",
-      "authors": [
-        "Florian Laronze",
-        "Bernard N’kaoua"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2026,
-      "published_date": "2026-06-12",
-      "doi": "10.1080/1034912x.2026.2678833",
-      "url": "https://doi.org/10.1080/1034912x.2026.2678833",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ]
-    },
-    {
-      "id": "10.1080/20473869.2026.2675032",
-      "title": "Autism, affiliate stigma and psychological distress among Italian parents: exploring the mediating role of self-compassion",
-      "authors": [
-        "Loredana Benedetto",
-        "Maria Marafioti",
-        "Alessia Niosi",
-        "Simone Rollo"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-12",
-      "doi": "10.1080/20473869.2026.2675032",
-      "url": "https://doi.org/10.1080/20473869.2026.2675032",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1108/aia-01-2026-0003",
-      "title": "“I’m hoping the environment is supportive”: a qualitative analysis of environmental influences on the well-being of autistic young people",
-      "authors": [
-        "Emma Resendes",
-        "Jessica Klein",
-        "Marina Charalampopoulou",
-        "Jonathan A. Weiss"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-06-12",
-      "doi": "10.1108/aia-01-2026-0003",
-      "url": "https://doi.org/10.1108/aia-01-2026-0003",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Purpose Positive well-being is often understood as resulting from a combination of individual strengths and physical, social and psychological environmental characteristics. Limited research has explored the impact of environmental factors that promote high levels of well-being from autistic youth perspectives. The current study aims to identify the environmental characteristics that support well-being among autistic youth. Design/methodology/approach The current study used secondary data from a study of therapeutic photography with autistic youth. Participants aged 16–25 (n = 20) captured photos of environments that supported their well-being, reflected on each photo and participated in a qualitative interview. Data were analysed thematically within a social constructionist framework, supplemented by qualitative photo analysis. Findings Seven resulting themes emerged. Thriving is found within environments that enable self-determination, identity affirmation and reflectivity; provide an optimal level of challenge and sensory comfort; and present opportunities to pursue interpersonal connection and personal interests. Originality/value The results of the current study emphasise the…"
     }
   ]
 }
