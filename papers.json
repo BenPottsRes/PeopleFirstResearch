@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:29:45Z",
+  "generated_at": "2026-10-13T14:14:58Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -74,6 +74,203 @@
         "Quality of life"
       ],
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
+    {
+      "id": "10.1108/aia-03-2026-0033",
+      "title": "Understanding how age and gender influence academic, social and lifestyle barriers for autistic people",
+      "authors": [
+        "Hiba Khurshid",
+        "Erin McKay",
+        "Damian Anderson",
+        "Delvin Varghese",
+        "Thuy-Trang Vu",
+        "Levin Kuhlmann"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-10-14",
+      "doi": "10.1108/aia-03-2026-0033",
+      "url": "https://doi.org/10.1108/aia-03-2026-0033",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Purpose Autistic people experience academic, vocational, social, lifestyle and independence barriers. Understanding how these barriers differ across demographic groups is essential for designing targeted supports and interventions. This study aims to investigate the influence of age and gender on the types and frequency of barriers reported by autistic individuals. Design/methodology/approach Survey data were collected from 158 autistic participants, who reported on 40 barriers across three domains: academic and career challenges, social interactions and relationships and lifestyle and independence. A 2 × 5 independent measures factorial ANOVA was conducted to examine the effects of gender, age and their interaction on the number of barriers reported within each domain. Findings No significant differences were found in the number of barriers endorsed based on gender, age or their interaction for academic and career domain barriers. However, significant main effects of gender were identified for social and lifestyle barriers, with females reporting more barriers than males in both domains (social: p = 0.035; lifestyle: p = 0.002). Barrier frequencies by gender and age group were als…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07560-5",
+      "title": "Comparison of Eating Behaviours, Anthropometric Measures, and Malnutrition Risk in Children With Autism Spectrum Disorder and Other Developmental Disabilities",
+      "authors": [
+        "Özge Esgin",
+        "Ceren Ari-Arat",
+        "Gulsum Yilmaz",
+        "Aysun Hamitoglu"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-13",
+      "doi": "10.1007/s10803-026-07560-5",
+      "url": "https://doi.org/10.1007/s10803-026-07560-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07569-w",
+      "title": "Enhancing Attention and Executive Function in Children With Autism Spectrum Disorder: A Randomized Controlled Trial of a 12-Week Multimodal Art Intervention",
+      "authors": [
+        "Qi-Fan Wu",
+        "Jia-Qi Du"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-13",
+      "doi": "10.1007/s10803-026-07569-w",
+      "url": "https://doi.org/10.1007/s10803-026-07569-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s40489-026-00599-1",
+      "title": "Differences in State vs. Trait Anxiety in Children and Adolescents with Autism Spectrum Disorder: A Systematic Review",
+      "authors": [
+        "Kimberly S. Ellison",
+        "Antonio F. Pagán",
+        "Daniel D. Flint",
+        "Thompson E. Davis III"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-13",
+      "doi": "10.1007/s40489-026-00599-1",
+      "url": "https://doi.org/10.1007/s40489-026-00599-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s40489-026-00603-8",
+      "title": "AI-Based Interventions for Functional Outcomes in Children and Adolescents with Autism Spectrum Disorder: A Systematic Review of Recent Evidence",
+      "authors": [
+        "Yusuke Matsuura",
+        "Alex Seiji Anderson",
+        "Casey Lion",
+        "Emily Myers",
+        "Frederick Shic"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-13",
+      "doi": "10.1007/s40489-026-00603-8",
+      "url": "https://doi.org/10.1007/s40489-026-00603-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07564-1",
+      "title": "Enhancing Peer-Directed Social Communication in Autistic Children Using Video Visual Scene Displays",
+      "authors": [
+        "Avinash Mishra",
+        "Jasmine Wang",
+        "Lindsay Scott"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-12",
+      "doi": "10.1007/s10803-026-07564-1",
+      "url": "https://doi.org/10.1007/s10803-026-07564-1",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07571-2",
+      "title": "Diagnostic Agreement of a Structured Telehealth Adult Autism Assessment",
+      "authors": [
+        "Eileen Crehan",
+        "Kelly Whaling",
+        "Hannah Jones",
+        "Jacqueline Shinall",
+        "Rachel Loftin"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-12",
+      "doi": "10.1007/s10803-026-07571-2",
+      "url": "https://doi.org/10.1007/s10803-026-07571-2",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07552-5",
+      "title": "Scalp Topography of Event-Related Potentials Reveals Differences in Audiovisual Speech Processing in Autistic and Non-Autistic Children",
+      "authors": [
+        "Kacie Dunham-Carr",
+        "Jacob I. Feldman",
+        "David M. Simon",
+        "Mark T. Wallace",
+        "Micah M. Murray",
+        "Tiffany G. Woynaroski"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-12",
+      "doi": "10.1007/s10803-026-07552-5",
+      "url": "https://doi.org/10.1007/s10803-026-07552-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Employment"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose In our prior work, conventional event-related potential (ERP) responses to audiovisual versus auditory-only speech were found to explain variance in language abilities in autistic and non-autistic children but failed to differentiate autistic children from non-autistic children. This study extends previous ERP analyses of responses to audiovisual versus auditory-only speech in autistic and non-autistic school-aged children to investigate group and condition differences in the strength and topography of the ERP based on data-driven, reference-independent metrics that overcome limitations of conventional ERP analyses. Methods Extant ERP data from 50 5-12-year-old children (25 per group, matched at the group level on age and sex assigned at birth) recorded during a passive task of listening and watching videos of auditory-only and audiovisual speech syllables were analyzed for differences in ERP strength and topography, quantified via global field power (GFP) and global map dissimilarity (GMD), respectively. Results GFP was significantly reduced for audiovisual compared to auditory-only speech at 245–275 ms post-stimulus. Groups differed in GMD of the ERPs reflecting…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07531-w",
+      "title": "Challenges in Accommodating Talker Variability in Lexical Tone Perception Among Autistic Adults: Implications for Talker Adaptation",
+      "authors": [
+        "Zixuan Wu",
+        "Carol K. S. To"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-12",
+      "doi": "10.1007/s10803-026-07531-w",
+      "url": "https://doi.org/10.1007/s10803-026-07531-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Purpose Successful speech perception requires listeners to accommodate acoustic variability arising both across talkers and within a single talker. This challenge is especially pronounced in tone languages, where fundamental frequency (F0) simultaneously encodes lexical meaning and talker identity. The present study investigated how between-talker and within-talker variability affects lexical tone perception in Cantonese-speaking adults with and without autism spectrum disorder (ASD). Methods Twenty-five adults with ASD and 25 neurotypical (NT) controls completed a speeded word identification task involving minimal word pairs differentiated by level tones. Between-talker variability was manipulated by presenting words produced by either a single talker or multiple talkers, and within-talker variability was manipulated by using either a single exemplar or multiple exemplars from each talker. Performance was assessed using identification accuracy, response time (RT), and a composite efficiency measure. Results Both groups demonstrated reliable processing costs associated with between-talker variability, reflected in lower accuracy, longer RTs, and reduced efficiency, with no…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/25739581261496119",
@@ -8230,36 +8427,6 @@
         "access"
       ],
       "abstract": "Promoting access to effective depression treatment represents a crucial opportunity to mitigate increased suicide risk. We examined treatment trajectories for 8- to 29-year-old autistic enrollees of Medicaid, the U.S. safety net insurance program, with a new claim for major depressive disorder (MDD; N = 44,074). Using group-based trajectory modeling, we identified groups with similar probabilities of receiving psychotherapy or antidepressants in the 5 months following their new MDD claim – a period of acute treatment need. We also examined odds of trajectory group membership by demographic factors and co-occurring intellectual disability (ID) using multinomial logistic regression. Trajectory modeling suggested existence of four treatment trajectories: no/limited treatment (39%), gradual treatment decline (21%), late treatment initiation (14%), and continuous treatment (25%). Adjusted odds of continuous treatment, relative to no/limited treatment, were lower for Black enrollees (odds ratio [OR]: 0.63, 95% confidence interval [CI]: [0.59, 0.68]), Hispanic enrollees (OR: 0.58, 95% CI: [0.54, 0.62]), and those with co-occurring ID (OR: 0.84, 95% CI: [0.79, 0.89]), and highest for 8- to…"
-    },
-    {
-      "id": "10.1177/13623613261457948",
-      "title": "Towards Neurodiversity-Affirming, Co-Produced Competence Frameworks in Psychotherapy: An Autistic-Led Call to Action",
-      "authors": [
-        "Laurence Cobbaert",
-        "Marie Camin",
-        "Kai Schweizer",
-        "Steven K. Kapp",
-        "Lumen Gorrie",
-        "Ellen Maloney",
-        "Amanda Moses",
-        "Kai S. Thomas",
-        "Korey Baruta",
-        "Esther Fidock",
-        "Dawn-Joy Leong",
-        "Margo White",
-        "Georgia Pavlopoulou"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261457948",
-      "url": "https://doi.org/10.1177/13623613261457948",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "participatory"
-      ]
     },
     {
       "id": "10.1177/10870547261474901",
