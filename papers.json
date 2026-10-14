@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:14:58Z",
+  "generated_at": "2026-10-14T11:57:01Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -76,6 +76,68 @@
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
     },
     {
+      "id": "10.1177/13623613261489847",
+      "title": "Disparities in Social Determinants of Health and Health Outcomes Among Autistic Individuals Without Intellectual Disability in Middle-to-Late Adulthood",
+      "authors": [
+        "Zhen Wu",
+        "Yiwei Pu",
+        "Wei Zhou",
+        "Like Huang",
+        "Lingli Zhang",
+        "Can Hou",
+        "Viktor H. Ahlqvist",
+        "Jiong Li",
+        "Wenchong Du",
+        "Tai Ren",
+        "Fei Li"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-14",
+      "doi": "10.1177/13623613261489847",
+      "url": "https://doi.org/10.1177/13623613261489847",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health"
+      ],
+      "abstract": "Autism is increasingly recognized across the lifespan, yet little is known about how structural social disadvantage contributes to long-term health risks among autistic adults in middle and later adulthood. Participants were identified from the UK Biobank study, comprising 576 autistic adults with no intellectual disability and an average of 15.2 years of education, and 5,760 controls matched on age, sex, residing area, race, and educational attainment. Social determinants of health (SDH) were assessed using a composite score calculated from 12 indicators that characterized economic, health care, neighborhood, and social domains. Mediation analysis was performed to estimate the extent to which SDH disparities mediated the elevated mortality and chronic disease risks among autistic adults. The study sample was 66.4% male and had a mean age of 51.6 years ( SD , 8.03). Autistic adults had worse SDH levels across almost all dimensions. These disparities mediated 39% of the elevated mortality risk. In addition, autistic adults showed increased incidence of cardiovascular disease, dementia, hypertension, type 2 diabetes, depression, and anxiety, with SDH disparities mediating 17% to 38%…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261489842",
+      "title": "Commentary: A Neurodiversity-Affirming Framework for Evaluating Autism Support Research",
+      "authors": [
+        "Phoebe Jordan",
+        "Jessica Tupou",
+        "Matt Hammond",
+        "Mirko Uljarević",
+        "Lee Patrick",
+        "Hannah Waddington"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-14",
+      "doi": "10.1177/13623613261489842",
+      "url": "https://doi.org/10.1177/13623613261489842",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "sensory"
+      ],
+      "abstract": "Despite growing interest in neurodiversity-affirming research, many studies examining interventions, practices, or services designed to support autistic individuals in daily life and well-being still prioritise reducing autistic traits over well-being and autonomy. However, there are currently no universally accepted definitions or frameworks for appraising the extent to which specific support programmes align with neurodiversity-affirming principles. This commentary introduces a five-principle framework developed through systematic appraisal of the literature and collaboration with autistic, clinical and academic contributors. The framework assesses the following aspects of autism support studies: (a) strengths-based focus, (b) support for self-determination and autonomy, (c) adaptation of the environment and upskilling others, (d) diverse communication methods and (e) respect for sensory and processing differences. This preliminary framework may offer a transparent method for evaluating alignment with principles drawn from neurodiversity scholarship and social/interactional models of disability and guiding ethical, inclusive practice. Potential applications include its use in rev…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1108/aia-03-2026-0033",
       "title": "Understanding how age and gender influence academic, social and lifestyle barriers for autistic people",
       "authors": [
@@ -140,6 +202,32 @@
       "framing": "Mixed or transitional framing"
     },
     {
+      "id": "10.1177/25739581261497840",
+      "title": "Purposeless? Says Who? A Scoping Review of Potential Functions of Stimming in Autistic Adults",
+      "authors": [
+        "Marie Camin",
+        "Kristelle Hudry",
+        "Rachel Jellett",
+        "Rebecca L. Flower"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-10-13",
+      "doi": "10.1177/25739581261497840",
+      "url": "https://doi.org/10.1177/25739581261497840",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: While the Autistic community widely perceives stimming—or repetitive behaviors—as serving a self-regulatory function, it is unclear whether the academic literature aligns with this perspective. Academic sources have sometimes framed stimming negatively (e.g., as purposeless or in need of suppression), though empirical support for this remains unclear. Clarifying the potential functions of stimming has practical implications for Autistic people, including for clinical practice. Methods: We conducted a scoping review of the published literature on stimming in Autistic adults between 2013 and 2024 to identify potential functions of stimming and examine how it has been conceptualized in the literature to date, using search terms such as “stimming” and “repetitive behaviors.” A comprehensive search yielded nine studies which met eligibility criteria and were retained for data charting. Results: The nine retained studies, predominantly from the United Kingdom, variously utilized quantitative, qualitative, and mixed-methods designs. The studies highlighted the self-regulatory or positive role of stimming for Autistic adults. However, only two studies explicitly set out to inve…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s40489-026-00599-1",
       "title": "Differences in State vs. Trait Anxiety in Children and Adolescents with Autism Spectrum Disorder: A Systematic Review",
       "authors": [
@@ -180,6 +268,32 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s40489-026-00598-2",
+      "title": "Therapist-Led Gross Motor Interventions and Multiple Outcomes in Autism: A Systematic Review and Quality Assessment",
+      "authors": [
+        "Paula Araya",
+        "Lisa Underwood",
+        "Karen Waldie",
+        "Katrina Phillips"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-13",
+      "doi": "10.1007/s40489-026-00598-2",
+      "url": "https://doi.org/10.1007/s40489-026-00598-2",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract This systematic review aims to assess the quality of evidence on gross motor skills interventions for autistic children aged 2–8 years. The review followed PRISMA guidelines. The Reichow framework was chosen to assess research quality due to its suitability for autism intervention research and its applicability to both group-design and single-case investigations. The review included seven studies involving 52 autistic children aged three to seven years. The studies found improvements in academic engagement, reduced stereotypic behaviour, improved task engagement, peer interaction, and functional communication. However, no study met the criteria for “established” or “promising” evidence-based procedures due to lack of blind raters, inadequate intervention fidelity assessments procedures, small sample sizes, insufficient experimental control and social validity, limiting the protocols’ generalization, reliability and applicability. While therapist-led gross motor interventions demonstrated preliminary positive indicator in other developmental domains for autistic children, the current evidence is insufficient to support their widespread endorsement as evidence-based practice…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07564-1",
@@ -3354,6 +3468,25 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -3380,25 +3513,6 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
-    },
-    {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -6865,24 +6979,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -6902,6 +6998,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -10777,45 +10891,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1002/aur.70292",
-      "title": "“People Think I'm a Fraud”: A Shared Autistic Experience Across Vastly Different Profiles",
-      "authors": [
-        "Mary Doherty"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70292",
-      "url": "https://doi.org/10.1002/aur.70292",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1002/aur.70293",
-      "title": "Motor Disorders in Autism: From Comorbidity to Core Criterion",
-      "authors": [
-        "Mohamed Jaber"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70293",
-      "url": "https://doi.org/10.1002/aur.70293",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT While repetitive movements are recognized as a diagnostic hallmark of Autism Spectrum Disorder (ASD) in frameworks such as the DSM and ICD, other motor disturbances, including gait atypicalities and postural control difficulties, have historically been overlooked or framed as secondary comorbidities. This discrepancy persists despite growing evidence that motor signs in ASD are fundamental rather than incidental. Some of these motor and gait signs may be discernable early and could potentially forecast subsequent communication outcomes in certain cohorts. The current focus on observable behaviors in diagnostic systems may thus benefit from integration of motor dimensions, which could enhance early identification and support tailored interventions. Available experimental and clinical findings converge to indicate that motor dysfunctions in ASD are neither epiphenomena nor peripheral. They map onto cerebellar and basal ganglia dysfunction, impaired multisensory integration, and disrupted emotion–motor coupling that may impact cognitive and social outcomes. Future directions must go beyond the current phenotypical characterization of ASD. Motor screening could be integrated i…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1007/s10803-026-07401-5",
       "title": "An Analysis of the Psychometric Properties of the Pediatric Inventory for Parents: Short Form Among Caregivers of Children Diagnosed With Autism Spectrum Disorder",
       "authors": [
@@ -12228,41 +12303,6 @@
         "Healthcare"
       ],
       "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) has been associated with comorbid conditions, especially psychiatric comorbidities. On the other hand, getting an ADHD diagnosis has been linked to children’s relative age. The aim of this study was to describe diagnostic patterns of ADHD patients of all ages, and to compare comorbidity and birth month between ADHD patients and matched controls. Methods: This nationwide study cohort included incident ADHD patients with records of ADHD medication and/or ADHD diagnosis in Finland during 2015 to 2020, and with no such records during 2010 to 2014. Four controls were matched with each patient based on age, gender, and place of residence. Results: Altogether 66,146 incident ADHD patients and 256,270 matched controls were identified, and their average follow-up time was 3.5 years. Mean age at the first ADHD diagnosis was 15.9 years for males and 22.3 for females. Prior to being diagnosed with ADHD, patients visited health care remarkably more often than controls. Comorbid diagnoses were the most prevalent at index date, and compared to controls, the prevalence of these comorbidities within 3 years preceding the index date increas…"
-    },
-    {
-      "id": "10.1080/20473869.2026.2683886",
-      "title": "Autism spectrum disorder in Williams syndrome: a case report highlighting diagnostic complexity",
-      "authors": [
-        "Michelle Yetman",
-        "Adam Blancher",
-        "Michael McGill"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-15",
-      "doi": "10.1080/20473869.2026.2683886",
-      "url": "https://doi.org/10.1080/20473869.2026.2683886",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2679066",
-      "title": "The effects of incidental teaching in Azerbaijan to promote self-initiation of children with autism spectrum disorder",
-      "authors": [
-        "Gila Safarova",
-        "Serife Yucesoy-Ozkan"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-15",
-      "doi": "10.1080/20473869.2026.2679066",
-      "url": "https://doi.org/10.1080/20473869.2026.2679066",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
