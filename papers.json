@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:57:01Z",
+  "generated_at": "2026-10-15T11:32:35Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -76,6 +76,35 @@
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
     },
     {
+      "id": "10.1177/13623613261495493",
+      "title": "Ethical Considerations in Community-Based Intervention Research in Low-Income, High-Stigma Settings: Reflections from the SPARK Project in Ethiopia and Kenya",
+      "authors": [
+        "Tsegereda Haile Kifle",
+        "Mekdes Demissie",
+        "Vibian Angwenyi",
+        "Hanna Negussie",
+        "Brenda Nzioka",
+        "Melissa Washington-Nortey",
+        "Tigist Eshetu",
+        "Medhanit Getachew",
+        "Eva Mwangome",
+        "Nancy Githinji",
+        "Fikirte Girma",
+        "Charles R. Newton",
+        "Charlotte Hanlon",
+        "Amina Abubakar",
+        "Rosa A. Hoekstra"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-15",
+      "doi": "10.1177/13623613261495493",
+      "url": "https://doi.org/10.1177/13623613261495493",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1177/13623613261489847",
       "title": "Disparities in Social Determinants of Health and Health Outcomes Among Autistic Individuals Without Intellectual Disability in Middle-to-Late Adulthood",
       "authors": [
@@ -138,6 +167,31 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1007/s40489-026-00601-w",
+      "title": "A Systematic Review of Reading Comprehension Assessment and Intervention in Minimally and Nonspeaking Autistic Children",
+      "authors": [
+        "Grace Clark",
+        "Madison Skibicki",
+        "Gabriella Pesantes"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-14",
+      "doi": "10.1007/s40489-026-00601-w",
+      "url": "https://doi.org/10.1007/s40489-026-00601-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Up to 25% of autistic individuals are minimally or nonspeaking and need or use augmentative and alternative communication (AAC). While literacy instruction for this group is increasing, limited research has examined their reading comprehension. This systematic review examined assessment and intervention practices targeting reading comprehension in autistic children who need or use AAC. A May 2025 search of five databases yielded 586 articles, of which 6 studies met inclusion criteria. Studies were included if they featured autistic participants under 18 who were minimally or nonspeaking and addressed reading comprehension beyond single-word decoding. Findings varied widely in participant profiles, comprehension targets, and methodological rigor. There is a critical need for innovative and accessible research to assess and support reading comprehension in nonspeaking autistic children who need or use AAC.",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1108/aia-03-2026-0033",
       "title": "Understanding how age and gender influence academic, social and lifestyle barriers for autistic people",
       "authors": [
@@ -164,6 +218,32 @@
       ],
       "abstract": "Purpose Autistic people experience academic, vocational, social, lifestyle and independence barriers. Understanding how these barriers differ across demographic groups is essential for designing targeted supports and interventions. This study aims to investigate the influence of age and gender on the types and frequency of barriers reported by autistic individuals. Design/methodology/approach Survey data were collected from 158 autistic participants, who reported on 40 barriers across three domains: academic and career challenges, social interactions and relationships and lifestyle and independence. A 2 × 5 independent measures factorial ANOVA was conducted to examine the effects of gender, age and their interaction on the number of barriers reported within each domain. Findings No significant differences were found in the number of barriers endorsed based on gender, age or their interaction for academic and career domain barriers. However, significant main effects of gender were identified for social and lifestyle barriers, with females reporting more barriers than males in both domains (social: p = 0.035; lifestyle: p = 0.002). Barrier frequencies by gender and age group were als…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261493758",
+      "title": "The Effect of Stimulant Medications on Symptom and Treatment Outcomes in Adults With Comorbid Attention-Deficit/Hyperactivity and Substance Use Disorder: A Systematic Review and Meta-Analysis",
+      "authors": [
+        "Madeline B. Benz",
+        "Katherine Rieke",
+        "Yuliia Sereda",
+        "Htun Ja Mai",
+        "James L. Rudolph",
+        "Rachel E. Dew",
+        "Jennifer M. Primack",
+        "John E. McGeary",
+        "Taylor Rickard",
+        "Thomas A. Trikalinos",
+        "Eric Jutkowitz"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-10-14",
+      "doi": "10.1177/10870547261493758",
+      "url": "https://doi.org/10.1177/10870547261493758",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Objective Symptoms of Attention-Deficit/Hyperactivity Disorder (ADHD) are increasingly recognized among adults and frequently co-occur with substance use disorders (SUD). Changing guidelines and complexity of treatment merit a review of approaches for managing this diagnostic overlap among adults. Methods We conducted a systematic review for randomized controlled trials (RCT) and nonrandomized comparative studies (NRCS) focused on the benefits and harms of non-stimulant/nonpharmacological ADHD treatment compared to psychostimulant medications for those with comorbid ADHD and SUD by searching: Medline (via PubMed), Embase, and PsycINFO from inception to December 14, 2023, the Cochrane library from inception to January 30, 2024, and ClinicalTrials.gov from inception to February 23, 2024. After screening, evidence from eligible studies was qualitatively and quantitatively synthesized by a multidisciplinary team of researchers and clinicians. Results Of 6,419 unique records screened, six RCTs and one NRCS were eligible for review, analyzing a total of N = 662 people. There was no evidence of differences in ADHD treatment adherence, substance use, SUD symptom change, or substance abstin…"
     },
     {
       "id": "10.1007/s10803-026-07560-5",
@@ -4422,6 +4502,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-09-03",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -4446,26 +4546,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-03",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/25739581261482021",
@@ -6979,6 +7059,24 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -6998,24 +7096,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -8461,86 +8541,6 @@
         "lived experience"
       ],
       "abstract": "Pediatric primary care practitioners (PCPs) are not typically trained to conduct autism assessments, contributing to delayed autism diagnosis in the United States. From February to September 2024, PCPs in Portland, Oregon, were trained to conduct standardized autism assessments with young children, based on similar U.S.-based training models. This training consisted of an asynchronous online autism course sponsored by the American Academy of Pediatrics; a 2-day, in-person workshop on diagnostic assessment; and eight posttraining community learning sessions. Twenty-four PCPs were trained to conduct autism assessments with children using the Modified Checklist for Autism in Toddlers, the Screening Tool for Autism in Toddlers and Young Children, and a parent interview based on the Diagnostic and Statistical Manual of Mental Disorders (5th ed.; DSM-5 ). A pilot trial of this program was conducted to examine its feasibility, acceptability, and initial outcomes related to self-reported PCP autism assessment knowledge and self-efficacy, as well as the number and characteristics of patients assessed. The program demonstrated high feasibility and acceptability. PCPs showed statistically sig…"
-    },
-    {
-      "id": "10.1177/13623613261433106",
-      "title": "Acceptability and Implementation of a Primary Care Health Check for Autistic People: Findings From Evaluation Questionnaires and Interviews",
-      "authors": [
-        "Hannah Merrick",
-        "Helen Taylor",
-        "Barry Ingham",
-        "Tracy Finch",
-        "Sarah Al-Ashmori",
-        "Ruby Herrington",
-        "Clare Scarlett",
-        "Carole Buckley",
-        "Sally-Ann Cooper",
-        "Cristina Fernandez-Garcia",
-        "Shona Haining",
-        "Rhianna Lees",
-        "Nicholas Lennox",
-        "Sebastian Moss",
-        "Tim Nicholls",
-        "Christina Nicolaidis",
-        "Malcolm Osborne",
-        "Dora M Raymaker",
-        "Tomos Robinson",
-        "Anna Urbanowicz",
-        "James MS Wason",
-        "Colin Wilson",
-        "Jeremy R Parr"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261433106",
-      "url": "https://doi.org/10.1177/13623613261433106",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "lived experience",
-        "service improvement"
-      ],
-      "abstract": "Autistic people experience higher rates of physical and mental health conditions and face barriers to accessing healthcare. This study evaluated the acceptability and implementation of a co-designed primary care health check for autistic people (18 years+), delivered within a randomised controlled trial in Northern England investigating clinical and cost-effectiveness. Following health checks, all autistic people, carers/supporters, and clinicians were invited to complete evaluation questionnaires and a subset invited for an interview. Eighty-one autistic people, 11 carers/supporters, and 18 clinicians returned questionnaires and were descriptively analysed; 44 participants were interviewed. Findings demonstrated that the pre-appointment questionnaire and health check appointment were reported to be acceptable, valued and beneficial by all groups. Carers/supporters reported positive impacts of their role in reducing anxiety and supporting communication. Interview analysis, informed by Normalisation Process Theory, highlighted important factors to consider for implementation of the health check at scale. This included the importance of providing clear guidance and resources ahead of…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261453106",
-      "title": "Therapy and Antidepressant Use in 8- to 29-Year-Old Autistic Medicaid Enrollees With Depression",
-      "authors": [
-        "Meghan E. Carey",
-        "Laura Graham Holmes",
-        "Lindsay L. Shea",
-        "David S. Mandell",
-        "Diana Schendel",
-        "Brian K. Lee",
-        "Kristen Lyall"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261453106",
-      "url": "https://doi.org/10.1177/13623613261453106",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Promoting access to effective depression treatment represents a crucial opportunity to mitigate increased suicide risk. We examined treatment trajectories for 8- to 29-year-old autistic enrollees of Medicaid, the U.S. safety net insurance program, with a new claim for major depressive disorder (MDD; N = 44,074). Using group-based trajectory modeling, we identified groups with similar probabilities of receiving psychotherapy or antidepressants in the 5 months following their new MDD claim – a period of acute treatment need. We also examined odds of trajectory group membership by demographic factors and co-occurring intellectual disability (ID) using multinomial logistic regression. Trajectory modeling suggested existence of four treatment trajectories: no/limited treatment (39%), gradual treatment decline (21%), late treatment initiation (14%), and continuous treatment (25%). Adjusted odds of continuous treatment, relative to no/limited treatment, were lower for Black enrollees (odds ratio [OR]: 0.63, 95% confidence interval [CI]: [0.59, 0.68]), Hispanic enrollees (OR: 0.58, 95% CI: [0.54, 0.62]), and those with co-occurring ID (OR: 0.84, 95% CI: [0.79, 0.89]), and highest for 8- to…"
     },
     {
       "id": "10.1177/10870547261474901",
@@ -10867,30 +10867,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70263",
-      "title": "The Network Model of Mentalization, Social Vulnerability, and the Self in Autism: A Comparison With Neurotypical Adults",
-      "authors": [
-        "Szilárd Holka",
-        "Dániel Sörnyei",
-        "Ágota Vass",
-        "Levente Rónai",
-        "Kinga Farkas"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-07-01",
-      "doi": "10.1002/aur.70263",
-      "url": "https://doi.org/10.1002/aur.70263",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "ABSTRACT Autism spectrum disorder (ASD) is characterized by alterations in social understanding and self‐related experience that overlap with broader dimensions of psychosocial vulnerability. These domains are tightly interconnected, motivating the use of analytic approaches that can capture their organization as complex associations rather than as isolated dimensions. We applied network analysis to autistic adults ( N = 156) and demographically matched neurotypical controls ( N = 454). Gaussian graphical models were estimated using sum scores of psychosocial constructs, and networks were compared using centrality metrics and the network comparison test. Compared to neurotypical participants, autistic individuals showed higher levels of psychosocial difficulties and lower global network strength. Mentalization emerged as a central node in both groups, while autistic traits were more central in the neurotypical network and trait anxiety showed relatively higher centrality in the ASD network. These findings suggest that psychosocial vulnerability in autism is characterized by a distinct and less integrated network organization, with mentalization playing a central role across groups…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1007/s10803-026-07401-5",
       "title": "An Analysis of the Psychometric Properties of the Pediatric Inventory for Parents: Short Form Among Caregivers of Children Diagnosed With Autism Spectrum Disorder",
       "authors": [
@@ -12176,133 +12152,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1177/25739581261456241",
-      "title": "Autism Through an Autistic Lens: A Photovoice Exploration of Autistic Adults’ Experiences in Navigating Perceived and Internalized Stigma",
-      "authors": [
-        "Sarah Dantas",
-        "Catherine Grainger",
-        "Monique Botha",
-        "Eva Rafetseder",
-        "Carol Jasper"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-06-16",
-      "doi": "10.1177/25739581261456241",
-      "url": "https://doi.org/10.1177/25739581261456241",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Internalized stigma happens when people incorporate negative stereotypes into their self-concept. In research, some autistic people have shown internalized stigma, which has been associated with heightened psychological distress. Aligned with autistic people’s research priorities, this study investigated the impact of stigma and internalized stigma on autistic people’s lives and identities. Methods: We used the photovoice method, where people communicate their lived experience by taking photographs, and techniques of Interpretive Phenomenological Analysis, which focuses on in-depth individual narratives. Findings: Our findings emphasize the relational nature of stigma, highlighting autistic people’s resourcefulness in responding to and managing stigma in complex and context-sensitive ways. Autistic participants also drew on their focused interests and creative expression to actively resist and counter experiences of stigma. Conclusion: Future research should focus on targeting stigma among non-autistic people, and in exploring autistic people’s focused interests and creativity as a potential avenue for improving their well-being and fostering a positive identity.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261460811",
-      "title": "Geographic Inequities in Physical Health and Neurodiversity-Affirming Practices for Autistic Adolescents and Young Adults in Saudi Arabia: A Post-Pandemic Study",
-      "authors": [
-        "Ali Fahad Aldakhil",
-        "Faris Algahtani"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-06-16",
-      "doi": "10.1177/25739581261460811",
-      "url": "https://doi.org/10.1177/25739581261460811",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Background: Autistic adolescents and young adults experience high rates of co-occurring physical health challenges, particularly sleep disturbances and gastrointestinal (GI) symptoms, which likely reflect underlying structural barriers to timely and appropriate healthcare. In countries with urban and remote service gaps, such as Saudi Arabia, these inequities are more visible in the post-pandemic context. Neurodiversity-affirming approaches emphasize modifiable systems, accessibility, and supportive environments that can promote more equitable healthcare experiences; however, evidence applying this lens to physical health inequities in the Arab region remains limited. Methods: We conducted a cross-sectional survey of 198 primary caregivers of autistic adolescents and young adults (aged 13–25 years) living in urban (61%) and remote (39%) regions of Saudi Arabia. Caregivers completed measures of sleep disturbance (using age-specific instruments), GI symptom severity, healthcare access barriers, autism traits, neurodiversity-affirming practices, and digital health utilization. Analyses included group comparisons, hierarchical and multivariate regression, and mediation and moderation m…"
-    },
-    {
-      "id": "10.1177/25739581261457551",
-      "title": "The Contribution of Invalidation on Suicidality as Reported by Autistic Adults: A Qualitative Content Analysis",
-      "authors": [
-        "Lisa Morgan",
-        "Julia Heinly",
-        "Ember Venkatesh",
-        "Savannah Bowers",
-        "Clare Harrop"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-06-16",
-      "doi": "10.1177/25739581261457551",
-      "url": "https://doi.org/10.1177/25739581261457551",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Background: Autistic people experience a higher rate of suicidal thoughts and behaviors (STBs) than the general population and the autism community has identified suicide prevention research, including risk factors, as a priority. One risk factor may be experiencing invalidation (i.e., dismissal or minimization of one’s thoughts, feelings, behaviors, or experiences). However, no studies have asked autistic people about the perceived impact of invalidation on their suicidality. As autistic people report widespread invalidation, including of their diagnosis and characteristics, the relationship between invalidation and STBs in this population deserves exploration. Methods: 106 autistic adults ( M age = 38.8, SD age = 11.1) with a history of suicidality completed an online survey that asked if experiencing invalidation had contributed to STBs and, if yes, to describe the invalidation. Qualitative content analysis was used to summarize open-ended responses. Results: 92% of respondents reported invalidation as a contributor to STBs. A range of sources were reported, most frequently parents or other family members (50%), health care providers (32%), and friends or peers (24%). The most c…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10882-026-10079-3",
-      "title": "Informing Cultural Adaptations to Advocacy Programs for Spanish and English-speaking Families of Autistic Youth",
-      "authors": [
-        "Ana Lucia Hincapie",
-        "Ximena Palacios Zimmermann",
-        "Stephanie Chavez",
-        "Meghan Burke",
-        "Leann Smith Dawalt",
-        "Julie Lounds Taylor"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-16",
-      "doi": "10.1007/s10882-026-10079-3",
-      "url": "https://doi.org/10.1007/s10882-026-10079-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Abstract Navigating adult disability services can be challenging for families of autistic youth. Barriers to service access are compounded among Spanish-speaking families of autistic youth, as many resources, applications, and information are unavailable in Spanish. Family-centered advocacy programs, including Advocacy for Supports to Improve Service Transitions (ASSIST) and Apoyando a nuestros hijo/a con la Transición de la secundaria a la vida adulta (ASISTIR), were created to help families gain knowledge and skills to access adult disability services. Yet, it is unclear whether such programs should offer differentiated content tailored to the unique barriers faced by English- and Spanish-speaking families. To that end, the purpose of this study was to compare the frequency and types of questions participants asked during ASSIST (offered only in English) and ASISTIR (offered only in Spanish). Accordingly, we analyzed the recordings from two ASSIST cohorts and two ASISTIR cohorts (collectively, 32 sessions, reflecting 64 h of recordings). Overall, there were no significant differences in the overall number of questions asked during the programs. However, ASISTIR participants asked…"
-    },
-    {
-      "id": "10.1177/10870547261451069",
-      "title": "ADHD Diagnosis Patterns: Comorbidities and the Impact of Relative Age on Diagnosis Likelihood",
-      "authors": [
-        "Elisa Westman",
-        "Tuire Prami",
-        "Alvar Kallio",
-        "Ilona Iso-Mustajärvi",
-        "Essi J. Peltonen",
-        "Joel Jukka",
-        "Paavo Raittinen",
-        "Maarit J. Korhonen",
-        "Anita Puustjärvi",
-        "Sami Leppämäki"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-06-16",
-      "doi": "10.1177/10870547261451069",
-      "url": "https://doi.org/10.1177/10870547261451069",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) has been associated with comorbid conditions, especially psychiatric comorbidities. On the other hand, getting an ADHD diagnosis has been linked to children’s relative age. The aim of this study was to describe diagnostic patterns of ADHD patients of all ages, and to compare comorbidity and birth month between ADHD patients and matched controls. Methods: This nationwide study cohort included incident ADHD patients with records of ADHD medication and/or ADHD diagnosis in Finland during 2015 to 2020, and with no such records during 2010 to 2014. Four controls were matched with each patient based on age, gender, and place of residence. Results: Altogether 66,146 incident ADHD patients and 256,270 matched controls were identified, and their average follow-up time was 3.5 years. Mean age at the first ADHD diagnosis was 15.9 years for males and 22.3 for females. Prior to being diagnosed with ADHD, patients visited health care remarkably more often than controls. Comorbid diagnoses were the most prevalent at index date, and compared to controls, the prevalence of these comorbidities within 3 years preceding the index date increas…"
     }
   ]
 }
