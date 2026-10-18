@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:47:19Z",
+  "generated_at": "2026-10-18T11:09:20Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -181,6 +181,100 @@
         "access"
       ],
       "abstract": "Individuals with developmental disabilities often struggle to learn hygiene skills, which can lower their quality of life. Video prompting (VP) is an evidence-based practice used to teach skills to individuals with disabilities. This article extends the current literature on VP interventions by focusing on teaching hygiene skills. It investigates the efficacy, social validity, and level of independence of using VP via a multiple-baseline across behaviors research design. Three junior high school–age participants with developmental disabilities were given a VP intervention on an iPad to improve hygiene skills. Skills taught included teeth brushing, teeth flossing, face washing, and eye makeup application. All three participants reached and maintained mastery of each target skill. Social validity data indicated that using VP interventions was socially acceptable. Not every participant was able to access the VP intervention independently. VP is a viable intervention to teach hygiene skills to individuals with developmental disabilities."
+    },
+    {
+      "id": "10.1177/10870547261492120",
+      "title": "Extended-Release Guanfacine Hydrochloride is Safe and Effective as Mono- and Adjunctive Therapy in Children and Adolescents with ADHD: A Naturalistic, Multi-Center, Patient-Reported Outcome Measures–Based Study",
+      "authors": [
+        "Meryem Ozlem Kutuk",
+        "Ali Evren Tufan",
+        "Fethiye Kilicaslan",
+        "Neslihan Tastepe",
+        "Yasemin Imrek",
+        "Oznur Adiguzel Akman",
+        "Sevay Alsen Guney",
+        "Huseyin Burak Baykara",
+        "Fadime Bayraktar",
+        "Aynur Akay Pekcanlar",
+        "Gulenay Korkmaz",
+        "Seda Ozcan",
+        "Nazlı Burcu Ozbaran",
+        "Gülen Guler Aksu",
+        "Fevziye Toros",
+        "Aylin Deniz Uzun Cakir",
+        "Burak Cakir",
+        "Merve Koksal",
+        "Hansa Betul Oz",
+        "Aziz Kara",
+        "Yekta Ozkan",
+        "Cagla Celikkol Sadic",
+        "Hacer Gizem Gercek",
+        "Berna Polat Tuysuz",
+        "Ayse Nur Kilic Guder",
+        "Caner Mutlu",
+        "Safak Eray Camli",
+        "Serkan Turan",
+        "Bedia Sultan Onal",
+        "Gulsum Yitik Tonkaz",
+        "Cansu Cobanoglu Osmanli",
+        "Berkan Sahin",
+        "Hatice Unver",
+        "Ugur Tekeoglu",
+        "Yuksel Sumeyra Naralan",
+        "Bürge Kabukcu Basay",
+        "Omer Basay",
+        "Ahmet Buber",
+        "Muhammed Furkan Tanir",
+        "Ahmet Sefa Gumussoy",
+        "Irem Damla Cimen",
+        "Ozlem Yildiz Gundogdu",
+        "Esen Yildirim Demirdogen",
+        "Abdullah Bozkurt",
+        "Mehmet Akif Akinci",
+        "Burcin Seyda Buran",
+        "Gonca Ozyurt",
+        "Veysel Ozdag",
+        "Nilfer Sahin",
+        "Duygu Karagoz",
+        "Bahadir Turan",
+        "Esra Hosoglu",
+        "Ifakat Sule Korkmaz",
+        "Yagmur Gunduz Cilci",
+        "Erman Esnafoglu",
+        "Esra Nazli Ikiz",
+        "Fatma Subasi Turgut",
+        "Masum Ozturk",
+        "Hakan Kayis",
+        "Fatma Benk Durmus",
+        "Semiha Comertoglu Arslan",
+        "Hatice Altun",
+        "Hakan Ogutlu",
+        "Sibelnur Avcil",
+        "Berrin Bilgic",
+        "Mustafa Dincer",
+        "Neslisah Gur Kurcaloglu",
+        "Leyla Bozatli",
+        "Hasan Cem Aykutlu",
+        "Gunay Budagova",
+        "Cilem Bilginer",
+        "Mehmet Akif Cansiz",
+        "Hasan Kandemir",
+        "Cem Gokcen",
+        "Neslihan Inal",
+        "Eyup Sabri Ercan"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-10-17",
+      "doi": "10.1177/10870547261492120",
+      "url": "https://doi.org/10.1177/10870547261492120",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Aims: Attention-deficit hyperactivity disorder (ADHD) is characterized by impairing and age-inappropriate inattention, hyperactivity, and impulsivity. Extended-release guanfacine hydrochloride (GXR) is a selective α2A-adrenergic agonist approved as mono- and adjunctive therapy to psychostimulant medications for ADHD. This multicenter retrospective study aimed to assess patients with ADHD initiating treatment with GXR as mono- and adjunctive therapy in a non-Western, real-world clinical setting. Methods: The study was designed as a naturalistic, Patient-Reported Outcome Measures (PROMs)-based, clinic-based, multi-center study; thirty-two child and adolescent psychiatry clinics from 26 cities located in seven geographical regions of Türkiye were included. Clinicians evaluated ADHD symptom severity at baseline and at the end of the 6th month with Clinical Global Impressions (CGI)-Severity, Improvement, and Adverse Effect scales while parents evaluated symptoms with the DSM-IV-Based Screening Scale for Disruptive Behavior Disorders. Adverse effects after GXR treatment were determined from patient records. Dose equivalents for stimulants, antidepressants, antipsychotics, and mood stabil…"
     },
     {
       "id": "10.1007/s10803-026-07567-y",
@@ -9064,66 +9158,6 @@
       "framing": "Medical or diagnostic framing"
     },
     {
-      "id": "10.1002/aur.70294",
-      "title": "Personalized Lifespan Approach to Autism Assessment: A Clinical and System Framework for Developmentally Informed Assessment Across the Life‐Course",
-      "authors": [
-        "Melanie Penner",
-        "Rebecca McNally Keehn"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1002/aur.70294",
-      "url": "https://doi.org/10.1002/aur.70294",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "ABSTRACT The increasing prevalence of autism has led to considerable system challenges as specialist‐driven approaches have struggled to keep pace. Recent research has challenged status quo models by demonstrating that community‐based pediatric clinicians can accurately diagnose autism in young children. This research provides an opportunity to further expand capacity of community systems to conduct developmentally relevant, context‐specific assessments of autistic people over their lifespan. In this Commentary, we propose a personalized lifespan approach to autism assessment as a precision care and system organization framework that considers the ongoing and evolving needs of autistic people and aligns the necessary expertise and resources to provide focused assessment when it is most informative. This framework consists of three key principles: (1) assessment is not a one‐time, one‐size‐fits‐all event; instead, assessment continues across the lifespan; (2) assessments should generate information that is relevant to the individual's current needs and life stage; and (3) wherever possible, community‐based expertise should be engaged to promote the right assessment at the right time…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70296",
-      "title": "The Unique Roles of Executive Function in Co‐Occurring Psychopathologies in Autism",
-      "authors": [
-        "Shing‐Him Ng",
-        "Jet Leung",
-        "Keith Chun Lok Lee",
-        "Angela Man Wai Lam",
-        "Isaac Ho Wai Wong",
-        "Sze‐Mai Ng",
-        "Maciej Gabrysiak",
-        "Petrina Yau Pok Lau",
-        "Sandra Sau Man Chan",
-        "Tyler M. Moore",
-        "Kosha Ruparel",
-        "Raquel E. Gur",
-        "Ruben C. Gur",
-        "Oscar Wing Ho Wong"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1002/aur.70296",
-      "url": "https://doi.org/10.1002/aur.70296",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) often experience co‐occurring psychiatric conditions, such as anxiety and attention‐deficit/hyperactivity disorder (ADHD), which significantly impair daily functioning. However, the underlying mechanisms linking these conditions to core ASD features remain poorly understood. This study examined relationships between anxiety, ADHD symptoms, and multi‐domain neurocognitive abilities in a clinic‐based sample of 701 Chinese children with ASD (mean age 8 years, 13.4% female), using the Hong Kong version of the Penn Computerized Neurocognitive Battery. Initial correlations revealed negative associations between cognitive performance and ADHD symptoms, but no direct links with anxiety. Ordinal regression demonstrated that poorer executive function (EF) independently predicted greater ADHD severity along a continuum from no ADHD to subclinical features to co‐occurring ADHD, in a dose‐dependent manner, even after controlling for core autism symptoms, other cognitive domains, and full‐scale IQ. Moderation analyses showed that stronger EF specifically buffered the associations between sensory hyper‐responsiveness/sensory‐seeking and anxiet…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1177/25739581261473056",
       "title": "How Psychologists Identify Depressive Symptoms in Autistic Adults: DSM-5-TR Criteria and Autism-Informed Indicators",
       "authors": [
@@ -12000,56 +12034,6 @@
         "communication"
       ],
       "abstract": "Abstract Neurodevelopment is a dynamic process involving genetic and environmental factors that influence motor, cognitive (e.g., learning, communication), social, adaptive, emotional, and behavioural domains. This systematic review and meta-analysis aimed to estimate the prevalence of NDDs among preschool children of migrants and refugees in high-income Western countries. Five databases, including Medline, Embase, Scopus, CINAHL, and PsycINFO, were searched for eligible studies from inception until October 1, 2025. Three reviewers independently screened and selected studies, extracted data, and assessed the methodological quality. We have used Stata to estimate the weighted pooled prevalence of autism from crosssectional and cohort study data using random-effects meta-analysis with (I²/Q&gt;50%) for heterogeneity. Out of 6772 records, nine met the eligibility criteria. Reported prevalence estimates varied across NDDs. Prevalence ranges among migrant/refugee preschoolers were: motor/coordination 4.6–29.8%; speech/language 5.8–18.2%; impaired vision/hearing 19.8% (Boys: 17.1%, Girls: 22.5%); intellectual disability (ID) 0.8–7.4%. The weighted pooled prevalence of autism was 28% (95%…"
-    },
-    {
-      "id": "10.1007/s10803-026-07388-z",
-      "title": "Investigating the Effects of Video-Enhanced Activity Schedules on Preacademic Skills for Young Children With Autism",
-      "authors": [
-        "John J. Augustine",
-        "Rose A. Osnaya",
-        "Timothy J. Lewis",
-        "Madison H. Imler-Brandt",
-        "Angus Kittelman",
-        "David Beversdorf"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-19",
-      "doi": "10.1007/s10803-026-07388-z",
-      "url": "https://doi.org/10.1007/s10803-026-07388-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "Abstract Purpose The purpose of this study was to evaluate the effects of a clinician-implemented video-enhanced activity schedule and an embedded Premack contingency on on-task behavior, independent task completion, and challenging behavior for preschool-aged children with ASD. Method Participants included four preschool-aged children with ASD and four registered behavior technicians in one clinic. The study utilized a concurrent multiple baseline across participants design to evaluate the effects of the video-enhanced activity schedule on child on-task behavior, independence, and challenging behavior. Results Results indicated a functional relation between the implementation of the intervention and an increase in on-task behavior and independence; however, the results suggest a functional relation was inconclusive for reductions of challenging behavior. Social validity results indicated that participants perceived the intervention to be socially valid for instructional contexts. Conclusions Study findings suggest that video-enhanced activity schedules may be an effective instructional modification for increasing on-task behavior and independence for young children with ASD. Impli…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07393-2",
-      "title": "Teaching Theory of Mind Skills to Individuals with Autism Spectrum Disorder: A Systematic Review and Meta-analysis",
-      "authors": [
-        "Betül Kat Şen",
-        "Aydan Aydın"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-19",
-      "doi": "10.1007/s10803-026-07393-2",
-      "url": "https://doi.org/10.1007/s10803-026-07393-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Abstract Purpose In this study, we examined the effectiveness of Theory of Mind (ToM) intervention programs on the ToM skills of individuals with Autism Spectrum Disorder (ASD) through a systematic review and meta-analysis. Methods A comprehensive search was conducted in Web of Science, Scopus, EBSCO ERIC, Academic Search Complete, PubMed, ProQuest, and the Türkiye Council of Higher Education Thesis Center, completed on January 5, 2024. Studies were included if published in English or Turkish, involved participants with ASD, implemented interventions targeting ToM, used at least one ToM assessment tool, employed a randomized controlled trial (RCT) or quasi-experimental design, and provided sufficient data for meta-analysis. Methodological quality was evaluated using What Works Clearinghouse (WWC) standards. The meta-analysis used a fixed-effects model with Hedges’ g in Comprehensive Meta-Analysis Software 4. Results We identified 20 studies ( n = 924) meeting the inclusion criteria, of which 15 were included in the meta-analysis. Most interventions targeted understanding first- and second-order false beliefs and frequently used role-play and picture-based storytelling techniques. T…",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
