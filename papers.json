@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:09:20Z",
+  "generated_at": "2026-10-19T13:20:24Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -74,6 +74,34 @@
         "Quality of life"
       ],
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
+    {
+      "id": "10.1108/aia-05-2026-0057",
+      "title": "The power of a label: how an autism diagnosis shapes preschool teachers’ assessment of behaviour",
+      "authors": [
+        "Maja Cepanec",
+        "Sanja Šimleša",
+        "Stela Zidar"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-10-20",
+      "doi": "10.1108/aia-05-2026-0057",
+      "url": "https://doi.org/10.1108/aia-05-2026-0057",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "disclosure",
+        "sensory"
+      ],
+      "abstract": "Purpose This study aims to examine whether informing preschool teachers that a child has an autism spectrum disorder (ASD) diagnosis changes how they evaluate that child’s behaviour and which types of behaviour are most sensitive to such disclosure. Design/methodology/approach In Zagreb, Croatia, 105 mainstream preschool teachers formed an informed (n = 57) and an uninformed (n = 48) group. Both read six identical written vignettes describing a preschool boy: two social communication behaviours, two restricted and repetitive behaviours and two neutral behaviours. Versions differed only in the diagnostic information. Teachers rated each vignette on a five-point positivity scale within five seconds. Groups were compared using Mann–Whitney U tests with bootstrapped effect sizes and open-ended responses from the informed group were analysed thematically. Findings Compared with uninformed teachers, informed teachers rated social withdrawal (r = 0.28), sensory hyperreactivity (r = 0.47) and socially inappropriate reactions (r = 0.78) significantly more positively. No differences emerged for insistence on sameness or for the neutral behaviours, indicating that the disclosure effect was se…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/13623613261490599",
@@ -11981,59 +12009,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07397-y",
-      "title": "How Contact Experience Shapes Peer’s Attitudes: Investigating Typically Developing Children’s Attitudes Toward Autistic Typically Developing Siblings in Inclusive Education",
-      "authors": [
-        "Qi Wang",
-        "Kaiyun Li",
-        "Yan Wang",
-        "Yongxia Chen",
-        "Li Li",
-        "Yuqian Hou",
-        "Fanlu Jia"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-20",
-      "doi": "10.1007/s10803-026-07397-y",
-      "url": "https://doi.org/10.1007/s10803-026-07397-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ]
-    },
-    {
-      "id": "10.1007/s40489-026-00571-z",
-      "title": "Prevalence of Neurodevelopmental Disorders Among Preschool Children of Migrants and Refugees in High-Income Western Countries: A Systematic Review and Meta-analysis",
-      "authors": [
-        "Kh Shafiur Rahaman",
-        "Caroline Mills",
-        "Resom Berhe Gebremariam",
-        "James Rufus John",
-        "Mythily Subramanium",
-        "Kanchana Ekanayake",
-        "Valsamma Eapen",
-        "Amit Arora"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-20",
-      "doi": "10.1007/s40489-026-00571-z",
-      "url": "https://doi.org/10.1007/s40489-026-00571-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Neurodevelopment is a dynamic process involving genetic and environmental factors that influence motor, cognitive (e.g., learning, communication), social, adaptive, emotional, and behavioural domains. This systematic review and meta-analysis aimed to estimate the prevalence of NDDs among preschool children of migrants and refugees in high-income Western countries. Five databases, including Medline, Embase, Scopus, CINAHL, and PsycINFO, were searched for eligible studies from inception until October 1, 2025. Three reviewers independently screened and selected studies, extracted data, and assessed the methodological quality. We have used Stata to estimate the weighted pooled prevalence of autism from crosssectional and cohort study data using random-effects meta-analysis with (I²/Q&gt;50%) for heterogeneity. Out of 6772 records, nine met the eligibility criteria. Reported prevalence estimates varied across NDDs. Prevalence ranges among migrant/refugee preschoolers were: motor/coordination 4.6–29.8%; speech/language 5.8–18.2%; impaired vision/hearing 19.8% (Boys: 17.1%, Girls: 22.5%); intellectual disability (ID) 0.8–7.4%. The weighted pooled prevalence of autism was 28% (95%…"
     }
   ]
 }
