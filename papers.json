@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:40:52Z",
+  "generated_at": "2026-10-21T11:52:17Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -76,6 +76,105 @@
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
     },
     {
+      "id": "10.1108/aia-06-2026-0081",
+      "title": "Modeling the dynamics of time series search interest in autism with implications for public policies",
+      "authors": [
+        "Ana Beatriz Ramos da Silva",
+        "Thyago Nepomuceno",
+        "Silvio Fernando Alves Xavier Junior"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-10-23",
+      "doi": "10.1108/aia-06-2026-0081",
+      "url": "https://doi.org/10.1108/aia-06-2026-0081",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Purpose This study aims to examine and forecast the temporal behavior of Google search interest for the term “autism” in Brazil. The purpose of this study is to investigate the temporal dynamics of public attention and evaluate whether these dynamics can inform the planning of communication and inclusion policies. By linking digital attention patterns to policy timing, territorial outreach and inclusive public communication, the paper contributes to evidence-based strategies for autism awareness and social inclusion. Design/methodology/approach Monthly Google Trends data for Brazil were analyzed using time series forecasting models, including ARIMA, additive and multiplicative Holt–Winters specifications and additive and multiplicative Prophet models. The methodological procedure considered logarithmic transformation, stationarity assessment, differencing where required, residual diagnostics, information criteria and forecast accuracy indicators. The mathematical formulations of the models were retained to clarify the meaning of the stochastic process, smoothing components, seasonal effects and forecast errors. Findings The results indicate a marked seasonal pattern, with recurrent…"
+    },
+    {
+      "id": "10.1177/25739581261497850",
+      "title": "Obesity Management in Autistic Adults: Toward a Neurodiversity-Informed Approach",
+      "authors": [
+        "Nikhil Rao",
+        "Alexandra Wadford"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-10-21",
+      "doi": "10.1177/25739581261497850",
+      "url": "https://doi.org/10.1177/25739581261497850",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "Autistic adults experience substantially higher rates of obesity compared with neurotypical peers, contributing to markedly increased all-cause mortality. Despite these disparities being independent of intellectual ability, gender, or support needs, existing literature disproportionately concentrates on children and/or individuals with intellectual disability. Consequently, obesity management in autistic adults as a whole remains an under-addressed topic. This clinical review explores the intersection of autism and obesity through a biological, pharmacologic, and experiential lens. We review neuropsychiatric factors that influence eating and physical activity, including sensory processing differences, executive dysfunction, and stress response. We also examine physiological differences relevant to obesity risk, including circadian differences, gut microbiome, and inflammation. In addressing intervention, we highlight high-prevalence co-occurring conditions, including sleep disorders, gastrointestinal disorders, allergies/asthma, and hypermobility syndromes, as modifiable obesity risk factors. Given high rates of psychotropic use in autistic adults, we discuss their role in both obe…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1108/aia-06-2026-0091",
+      "title": "Rethinking autism: parental narratives on diagnosis, stigma and neurodiversity",
+      "authors": [
+        "Bilal Hamamra",
+        "Fayez Mahamid",
+        "Nancy Zabadi",
+        "Dana Bdier"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-10-21",
+      "doi": "10.1108/aia-06-2026-0091",
+      "url": "https://doi.org/10.1108/aia-06-2026-0091",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aimed to examine the lived experiences of parents raising autistic children, focusing on diagnostic challenges, social stigma and the tension between medical and social disability models. Design/methodology/approach Through semi-structured interviews with 40 parents from specialized support centers, the authors explore how early recognition difficulties, masking behaviors and gendered experiences shape caregiving practices. Findings Findings reveal that parents experience significant emotional distress during diagnosis, compounded by societal judgment and pressure to conform. Research limitations/implications Despite these challenges, the parents’ words emphasize emerging strengths and a call to reconceptualize autism within a neurodiversity framework. This study demonstrates that integrating clinical indicators with familial experiences is essential for refining diagnostic protocols and support systems. Implications for clinical practice, policy reform and research underscore the need for inclusive approaches that view autistic traits as natural variations rather than deficits, urging revisions in practice, policy and community support. Social implications Beyon…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1186/s13229-026-00746-9",
+      "title": "Atypical cross-modal calibration of sensory evidence in autism",
+      "authors": [
+        "Inbar Leon",
+        "Hagit Hel-Or",
+        "Bat-Sheva Hadad"
+      ],
+      "journal": "Molecular Autism",
+      "year": 2026,
+      "published_date": "2026-10-21",
+      "doi": "10.1186/s13229-026-00746-9",
+      "url": "https://doi.org/10.1186/s13229-026-00746-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ]
+    },
+    {
       "id": "10.1108/aia-05-2026-0057",
       "title": "The power of a label: how an autism diagnosis shapes preschool teachers’ assessment of behaviour",
       "authors": [
@@ -102,6 +201,32 @@
       ],
       "abstract": "Purpose This study aims to examine whether informing preschool teachers that a child has an autism spectrum disorder (ASD) diagnosis changes how they evaluate that child’s behaviour and which types of behaviour are most sensitive to such disclosure. Design/methodology/approach In Zagreb, Croatia, 105 mainstream preschool teachers formed an informed (n = 57) and an uninformed (n = 48) group. Both read six identical written vignettes describing a preschool boy: two social communication behaviours, two restricted and repetitive behaviours and two neutral behaviours. Versions differed only in the diagnostic information. Teachers rated each vignette on a five-point positivity scale within five seconds. Groups were compared using Mann–Whitney U tests with bootstrapped effect sizes and open-ended responses from the informed group were analysed thematically. Findings Compared with uninformed teachers, informed teachers rated social withdrawal (r = 0.28), sensory hyperreactivity (r = 0.47) and socially inappropriate reactions (r = 0.78) significantly more positively. No differences emerged for insistence on sameness or for the neutral behaviours, indicating that the disclosure effect was se…",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10870547261494991",
+      "title": "Acceptability and Experience of Cognitive Behavioural Therapy for Adult ADHD: A Systematic Review With Narrative Synthesis",
+      "authors": [
+        "Roksana Sobolak",
+        "Beth Aho",
+        "Myra S. Hunter",
+        "Juliet L. H. Foster",
+        "Eleanor J. Dommett"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-10-20",
+      "doi": "10.1177/10870547261494991",
+      "url": "https://doi.org/10.1177/10870547261494991",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Objectives: Cognitive behavioural therapy (CBT) is a first-line psychosocial treatment for adults with attention deficit hyperactivity disorder (ADHD). While its clinical efficacy has been the focus of considerable research, the acceptability of CBT for ADHD remains under-studied. This is a critical gap, as core ADHD deficits may impact on acceptability and, therefore, utility. This review evaluates CBT acceptability for adults with ADHD using the Theoretical Framework of Acceptability (TFA). Method: Five databases (Scopus, PubMed, MEDLINE, Web of Science and PsycINFO) were systematically searched in February 2026. Twenty-one studies including randomised controlled trials, pilot, feasibility, qualitative and mixed-methods studies, were included. Data were integrated and mapped to the seven TFA domains. Results: Across studies, CBT acceptability in adults with ADHD most strongly explored the domains of affective attitude, intervention coherence, perceived effectiveness and self-efficacy. Acceptability was driven by skills training, psychoeducation, therapeutic support, accountability strategies, individualisation and diverse materials. Burden was linked to homework, cognitive load a…"
     },
     {
       "id": "10.1177/13623613261490599",
@@ -4318,25 +4443,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -4363,6 +4469,25 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
+    },
+    {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -6119,34 +6244,6 @@
       "abstract": "Objective: This study aims to investigate the relationship between children’s multilingualism, immigration background, and their attention difficulties, as well as the prevalence of ADHD diagnoses. Methods: Questionnaire data on 70,102 children from the Norwegian Mother, Father and Child Cohort Study (MoBa), including parental ratings of attention difficulties (Child Behavior Checklist, Parent/Teacher Rating Scale for Disruptive Behavior Disorders) and multilingual language use, was linked with registry data from the Norwegian Patient Registry concerning ADHD diagnoses. Results: Our findings indicate that multilingual children exhibited higher ratings of attention difficulties compared to their monolingual peers. However, the prevalence of ADHD diagnoses did not show significant differences based on multilingualism or parental language background. Nevertheless, there are indications that children with mothers from North Africa, the Middle East, Southeast Asia, East Asia, and Oceania may be at risk of being underdiagnosed for ADHD in Norway. In addition, girls whose mothers spoke a native language other than Norwegian were diagnosed with ADHD significantly later than girls with nati…"
     },
     {
-      "id": "10.1177/10870547261456912",
-      "title": "Students’ Experiences of Living with ADHD at University: A Meta-Ethnography",
-      "authors": [
-        "Maree Mestichelli",
-        "Elisa Pepall",
-        "Thuy Tran",
-        "Mandy Stanley",
-        "Amy Cairns",
-        "Therese A. O’Sullivan"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/10870547261456912",
-      "url": "https://doi.org/10.1177/10870547261456912",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Quality of life"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "While the prevalence of attention deficit hyperactivity disorder (ADHD) among university students varies depending on the population studied, it has been estimated at approximately 16%. University students with ADHD may find that the condition affects their academic performance, social interactions, and well-being. This meta-ethnographic review synthesizes findings from 25 qualitative studies to explore the lived experiences of university students with ADHD. The studies, published between 2000 and 2023, were predominantly conducted in the United States with sample sizes ranging from 4 to 135 students. Students came from a broad range of academic disciplines and included undergraduates, recent graduates, and attendees of various post-secondary institutions. Findings show that difficulties with organization, time management, and maintaining focus during lectures or while completing assignments are common struggles. These students also face challenges transitioning into university life, particularly in terms of academic expectations and social participation. Whilst universities often provide accommodations such as extended test times, these supports are often too generic and insuffici…"
-    },
-    {
       "id": "10.1002/aur.70302",
       "title": "Mortality and Antidepressants Among Individuals With Autism Spectrum Disorder: A Population‐Based Cohort Study",
       "authors": [
@@ -7607,24 +7704,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -7644,6 +7723,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -11923,74 +12020,6 @@
       ],
       "abstract": "We reassert the Double Empathy Problem (DEP) as a sociological account of autistic-non-autistic (and more broadly, between individuals with differing dispositions) interaction, rather than a social-cognitive theory of autism. The DEP reframes communicative breakdowns as relational rather than solely due to autistic deficits, countering harmful deficit-based theories of autism that rest on weak evidence. Evaluating the DEP solely through positivist social-cognitive frameworks risks undermining the DEP’s original epistemological stance as a sociological and critical lens. We clarify the probabilistic framing of the DEP to emphasize that misunderstandings between autistic and non-autistic people shift with context and power. This framing invites applied inquiry into methods for increasing mutual understanding. Importantly, there is growing evidence in favor of such a probabilistic DEP, whereas there are serious validity and evidentiary concerns surrounding traditional deficit-based social-cognitive theories. By centering autistic perspectives, we argue that the DEP can promote ethical research agendas that integrate rigorous, context-sensitive methods to advance a relational, power-aw…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07404-2",
-      "title": "A Multimodal Investigation of Flexibility and Socialization in Autistic Children With and Without ADHD",
-      "authors": [
-        "Fiona Journal",
-        "Michel Godel",
-        "Nada Kojovic",
-        "Kenza Latrèche",
-        "Maude Schneider",
-        "Marie Schaer"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-22",
-      "doi": "10.1007/s10803-026-07404-2",
-      "url": "https://doi.org/10.1007/s10803-026-07404-2",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose This study investigated the multiple components of flexibility in autistic children with and without co-occurring ADHD, and their associations with social functioning. We aimed to determine ADHD co-occurence influence on flexibility profiles and the links between flexibility and social outcomes. Method 124 children aged 6–12 years were drawn from the Geneva Autism Cohort. Flexibility was assessed across three domains: restricted and repetitive behaviors (RRBs; EC2R), daily behavioral flexibility (BRIEF-2), and cognitive flexibility (MTT and IED: CANTAB, and CST: Early Years Toolbox). Socialization skills were measured using the Vineland-II. Group comparisons and correlation analyses were conducted across three groups: typically developing (TD), autism (ASD), and autism with co-occurring ADHD (ASD + ADHD). Results Both ASD and ASD + ADHD groups showed higher levels of RRBs compared to TD, with no difference between ASD and ASD + ADHD. Daily and cognitive flexibility difficulties were more pronounced in ASD + ADHD, particularly on tasks involving time pressure or implicit learning. BRIEF scores correlated strongly with RRBs in both ASD groups, while links with task-b…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10882-026-10078-4",
-      "title": "Expansion of Autism Spectrum Disorder: Characteristics of Broader Autism Phenotype and its Relationship with Family Members",
-      "authors": [
-        "Fu Qiang Qiao",
-        "Xiao Ying Zhou",
-        "Huan Dong Zhang"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-22",
-      "doi": "10.1007/s10882-026-10078-4",
-      "url": "https://doi.org/10.1007/s10882-026-10078-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1108/aia-02-2026-0013",
-      "title": "Gender-specific aspects of diagnosing autism in girls: a qualitative study of parent and professional perspectives",
-      "authors": [
-        "Michal Vostrý",
-        "Anna Meierová",
-        "Barbora Lanková",
-        "Ladislav Zilcher",
-        "Ilona Pešatová"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-06-22",
-      "doi": "10.1108/aia-02-2026-0013",
-      "url": "https://doi.org/10.1108/aia-02-2026-0013",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Purpose The purpose of this study is to gain a deeper understanding of the diagnostic process of autism spectrum disorders (ASD) in girls from the perspectives of parents and professionals. It seeks to identify factors that facilitate or hinder diagnosis and to describe the role of gender expectations and symptom camouflaging in clinical practice. The broader literature on autistic girls and women is used to contextualise the empirical findings, but the study itself is based on parent and professional accounts rather than direct accounts from autistic girls or women. Design/methodology/approach This study uses a qualitative research design based on nine semi-structured interviews with three parents of girls with ASD, four special educators and two psychologists. Data were analysed using grounded theory procedures, including open, axial and selective coding, to capture the complexity of the diagnostic process. Findings The findings reveal a “systemic invisibility” of autism in girls, resulting from an interplay of individual adaptive strategies (camouflaging), gender-insensitive diagnostic frameworks, the inherent complexity of autism assessment and systemic fragmentation. Results i…",
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
