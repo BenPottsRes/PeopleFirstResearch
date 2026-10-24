@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:41:55Z",
+  "generated_at": "2026-10-24T11:03:58Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -749,6 +749,36 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07533-8",
+      "title": "Understanding Healthcare Access for Autistic Children in the UK: Perspectives From Parents and Healthcare Professionals",
+      "authors": [
+        "Tonia T. Babalola",
+        "Rebecca Moss",
+        "Lucy Dipper",
+        "Nicola Botting"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-23",
+      "doi": "10.1007/s10803-026-07533-8",
+      "url": "https://doi.org/10.1007/s10803-026-07533-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Access to healthcare for autistic children remains challenging, with previous qualitative and quantitative research identifying barriers across individual, provider, and system levels. This study used qualitative interviews to explore parents’/carers’ and healthcare professionals’ perspectives on healthcare accessibility for autistic children in the UK, with particular attention to barriers, facilitators, and areas of convergence and divergence between the two groups. Methods A phenomenologically informed qualitative approach was employed. Semi-structured interviews were conducted online with 12 parents/carers of autistic children and eight healthcare professionals, including general practitioners, nurses, and speech and language therapists. Participants were recruited through survey follow-up, social media, and snowball sampling. Data were analysed using inductive, phenomenologically informed reflexive thematic analysis, with NVivo 14 used to manage the data. Results Four themes were identified across the parent/carer and healthcare professional datasets: knowledge and training, reasonable adjustments, communication, and system-level barriers. Both groups recognis…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1080/20473869.2026.2743728",
       "title": "Fostering healthy relationships: exploring perspectives on sexual health and education among autistic adolescents and their parents",
       "authors": [
@@ -835,6 +865,33 @@
         "communication"
       ],
       "abstract": "Purpose This study aims to examine and forecast the temporal behavior of Google search interest for the term “autism” in Brazil. The purpose of this study is to investigate the temporal dynamics of public attention and evaluate whether these dynamics can inform the planning of communication and inclusion policies. By linking digital attention patterns to policy timing, territorial outreach and inclusive public communication, the paper contributes to evidence-based strategies for autism awareness and social inclusion. Design/methodology/approach Monthly Google Trends data for Brazil were analyzed using time series forecasting models, including ARIMA, additive and multiplicative Holt–Winters specifications and additive and multiplicative Prophet models. The methodological procedure considered logarithmic transformation, stationarity assessment, differencing where required, residual diagnostics, information criteria and forecast accuracy indicators. The mathematical formulations of the models were retained to clarify the meaning of the stochastic process, smoothing components, seasonal effects and forecast errors. Findings The results indicate a marked seasonal pattern, with recurrent…"
+    },
+    {
+      "id": "10.1002/aur.70384",
+      "title": "Psychological and Neurodevelopmental Correlates of Extreme Demand Avoidance in a Clinical Sample, an Exploratory Study",
+      "authors": [
+        "Oliver Lack",
+        "Matthew J. Hollocks",
+        "Gillian Baird",
+        "Ann Ozsivadjian",
+        "Michael Absoud",
+        "Francesca Happé",
+        "Emily Simonoff"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-10-23",
+      "doi": "10.1002/aur.70384",
+      "url": "https://doi.org/10.1002/aur.70384",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "abstract": "ABSTRACT Extreme/pathological demand avoidance (EDA) is a behavioral profile characterized by the avoidance of everyday demands, with significant impact on the individuals and those around them. Little is understood regarding the correlates and drivers of EDA; understanding these better may lead to targeted interventions and support strategies. Cross‐sectional data from parent‐rated measures were analyzed for 63 children referred to a specialist neurodevelopmental clinic in the United Kingdom. The relationship between EDA traits and a number of psychological (intolerance of uncertainty, anxiety, emotional dysregulation [reactivity and dysphoria], cognitive inflexibility, alexithymia [i.e., difficulty identifying emotions]), and neurodevelopmental (autistic and ADHD) traits was tested. No differences in EDA traits were found by diagnostic group (autistic vs. not‐autistic) or gender (male and female). Across the whole sample, EDA traits were negatively correlated with age and positively correlated with emotional dysregulation reactivity, ADHD traits, cognitive inflexibility, intolerance of uncertainty and alexithymia. EDA was not associated with autistic traits or anxiety. Path model…"
     },
     {
       "id": "10.1007/s10803-026-07539-2",
@@ -8096,6 +8153,24 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -8115,24 +8190,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -9315,30 +9372,6 @@
         "Autism"
       ],
       "abstract": "Atypical gaze patterns are consistently reported in autism, reflecting differences in social attention and interest. Gaze-tracking paradigms provide an objective way to quantify these differences and may serve as early indicators of autism. This diagnostic test accuracy systematic review and meta-analysis evaluated the performance of eye-tracking-based gaze measures in children. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses of Diagnostic Test Accuracy (PRISMA-DTA) guidance, studies published between 2015 and 2025 that compared gaze-tracking paradigms with standardized autism diagnoses were synthesized. Pooled diagnostic odds ratio (DOR), sensitivity, and specificity were estimated using random-effects and hierarchical summary receiver operating characteristic models. Risk of bias was assessed with QUADAS-2 and funnel plots. Seventeen studies ( n = 4,256) from six countries met the inclusion criteria. Tasks included social-geometric preference, motherese-nonsocial speech, and visual-orienting paradigms analyzed with rule-based or machine-learning methods. The pooled area under the hierarchical summary receiver operating characteristic curve (HSROC AUC)…"
-    },
-    {
-      "id": "10.1177/13623613261451898",
-      "title": "“I Accept Them, They Accept Me, We Enjoy Our Time Together”: Autistic Adults’ Preferences and Perceptions of Relationships With Other Autistic People",
-      "authors": [
-        "Hannah Minnell",
-        "Hannah Waddington",
-        "Phoebe Jordan",
-        "Beth Noble",
-        "Chris J. Bowden"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261451898",
-      "url": "https://doi.org/10.1177/13623613261451898",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ],
-      "abstract": "Autistic adults may have distinct relationship preferences and perceptions compared to non-autistic individuals. The Double Empathy Problem suggests that autistic people often experience greater mutual understanding and connection when interacting with other autistic individuals. While some research has examined these relationships, few studies have focused on a range of relationship types. This study aimed to address this gap by qualitatively exploring how autistic adults prefer and perceive their relationships with other autistic people across friendships, romantic relationships, mentoring/support, employment, and volunteering relationships. We surveyed autistic adults living in Australia and New Zealand to better understand their preferences and perceptions regarding these relationships. Written responses from 142 participants were analysed using a reflexive thematic analysis framework. Many autistic adults valued intersubjectivity, mutual understanding, and acceptance in their relationships with other autistic individuals. Within these relationships, they could be authentic and unmask; however, they also had to consider and balance their relational capacity. In addition, some p…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10870547261474901",
