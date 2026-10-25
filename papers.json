@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:03:58Z",
+  "generated_at": "2026-10-25T11:33:41Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -440,26 +440,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-11-01",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -484,6 +464,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/13623613261480174",
@@ -706,6 +706,50 @@
         "Quality of life"
       ],
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
+    {
+      "id": "10.1177/10883576261493051",
+      "title": "Relationship Between Self-Determination and Academic Achievement for Autistic High School Students",
+      "authors": [
+        "Delia D. D. Kan",
+        "Jian Ming Ng"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-10-25",
+      "doi": "10.1177/10883576261493051",
+      "url": "https://doi.org/10.1177/10883576261493051",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Employment"
+      ],
+      "abstract": "Academic achievement is a key predictor for positive life outcomes and a critical factor for accessing postsecondary education and employment opportunities. However, autistic adolescents may struggle academically and fail to achieve their desired outcomes after leaving school. Self-determination has been identified as a promising positive predictor of academic achievement for students with disabilities, and we extend our investigation to examine its impact in the autistic adolescent population in this study. We utilized secondary data from the Center on Secondary Education for Students with Autism Spectrum Disorder and employed multilevel modeling to address the nested structure of students within schools. Results suggested no clear association between self-determination and grade point average (GPA), unlike past studies that found a positive association between self-determination and academic achievement. Complexities surrounding GPA may account for differences in association observed. More research is needed to identify supportive factors for academic achievement in autistic high school students.",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613261480394",
+      "title": "Parkinsonism Co-occurrence Among Older Autistic Adults, Adults With Intellectual Disability, and a Control Sample of Adults in National Health Care Claims Data",
+      "authors": [
+        "Gregory L. Wallace",
+        "Claire B. Klein",
+        "Sha Tao",
+        "Meghan E. Carey",
+        "Lindsay Shea",
+        "Laura G. Klinger"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-24",
+      "doi": "10.1177/13623613261480394",
+      "url": "https://doi.org/10.1177/13623613261480394",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Emerging evidence suggests that Parkinson’s Disease (PD)-related conditions (i.e., parkinsonism) co-occur more commonly with autism than in the general population. However, prior prevalence-based studies did not account for the influence of antipsychotic usage, which is linked to secondary parkinsonism as a possible side effect, or co-occurring intellectual disability (ID). In addition, no study of incidence rates of parkinsonism among older autistic adults has been completed to date. Prevalence and incidence were examined among 56,970,786 45+ year old persons across four groups (autism only, ID only, autism + ID, and control sample) utilizing U.S.-based, individually linked Medicaid and Medicare health care claims data from 2017 to 2019. Compared with the control sample (1.57%), highly elevated prevalence of co-occurring PD-related diagnoses was found across groups (autism only: 3.83%; ID only: 4.32%; autism + ID: 4.86%). This elevation in prevalence persisted after the exclusion of individuals prescribed antipsychotic medications. Whether examining broader or narrower (excluding secondary) parkinsonism, the age-standardized incidence or risk of newly documented co-occurring parki…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07587-8",
@@ -1430,25 +1474,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -1467,6 +1492,25 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
+    },
+    {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -11884,135 +11928,6 @@
       "tags": [
         "lived experience"
       ]
-    },
-    {
-      "id": "10.1007/s10803-026-07400-6",
-      "title": "Truly Sorry? Effects of Diagnostic Information on an Autistic Defendant’s Perceived Remorse, Honesty, and Guilt",
-      "authors": [
-        "Kayla A. Bird",
-        "Karen L. Salekin"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-26",
-      "doi": "10.1007/s10803-026-07400-6",
-      "url": "https://doi.org/10.1007/s10803-026-07400-6",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07413-1",
-      "title": "Association Between Autism Severity, Parental Stress, and Parenting Styles in Indian Families of Children With Autism Spectrum Disorder: A Cross-Sectional Study",
-      "authors": [
-        "Indumathi Ravichandran",
-        "Kannapiran Rethinem Thiruvengadam",
-        "Ajeethkumar Ramadass"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-26",
-      "doi": "10.1007/s10803-026-07413-1",
-      "url": "https://doi.org/10.1007/s10803-026-07413-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07399-w",
-      "title": "Enhancing Service Providers’ Fidelity of Functional Behavior Assessment Implementation for Individuals With Autism Spectrum Disorder in Saudi Arabia",
-      "authors": [
-        "Hissah Hajaj Alanazi"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-26",
-      "doi": "10.1007/s10803-026-07399-w",
-      "url": "https://doi.org/10.1007/s10803-026-07399-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07411-3",
-      "title": "Exploring the Action–Perception Loop in Children Born Very Preterm: Associations Between Biological Motion Perception, Motor Coordination, and Behavioral Outcomes",
-      "authors": [
-        "Martin Johansson",
-        "Cecilia Montgomery",
-        "Ylva Fredriksson Kaul",
-        "Lena Hellström-Westas",
-        "Olga Kochukhova"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-26",
-      "doi": "10.1007/s10803-026-07411-3",
-      "url": "https://doi.org/10.1007/s10803-026-07411-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment",
-        "Service design"
-      ],
-      "tags": [
-        "service improvement"
-      ],
-      "abstract": "Abstract Purpose Children born very preterm (VPT &lt; 32 weeks’ gestation) are at elevated risk for neurodevelopmental difficulties, including social functioning, motor coordination, and perceptual processing, domains that also show overlap with autism-related profiles. Biological motion (BM) perception, which supports the extraction of social information from movement, may represent one important pathway through which early motor and perceptual functioning relate to later socio-emotional development. Methods We examined BM perception, motor coordination, and behavioral outcome in 64 VPT and 31 full-term (FT) (mean age = 12 years). BM perception was measured via eye-tracking, recording time to detect point-light walkers under low- and high-noise conditions. Motor skills were evaluated with the Movement Assessment Battery for Children–2nd Edition, and behavioral outcome with the Child Behavior Checklist. Results Children born VPT showed lower BM perception, poorer motor coordination, and more internalizing and social difficulties than FT peers. In the VPT group, poorer motor coordination was linked to reduced social competence and more internalizing symptoms, while lower BM percepti…"
-    },
-    {
-      "id": "10.1080/20473869.2026.2666653",
-      "title": "Communication skills of primary school students diagnosed with autism spectrum disorder: the impact of socially oriented awareness training",
-      "authors": [
-        "Zhibek Nigmatullina",
-        "Aida Nurbekova",
-        "Nadezhda Zhiyenbayeva",
-        "Dinara Sadirbekova"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-26",
-      "doi": "10.1080/20473869.2026.2666653",
-      "url": "https://doi.org/10.1080/20473869.2026.2666653",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2690624",
-      "title": "Visual attention in children with autism spectrum disorder: the role of protagonist positioning in picture books",
-      "authors": [
-        "Xiang Lian",
-        "Xuelian Li"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-26",
-      "doi": "10.1080/20473869.2026.2690624",
-      "url": "https://doi.org/10.1080/20473869.2026.2690624",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
