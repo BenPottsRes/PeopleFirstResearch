@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:33:41Z",
+  "generated_at": "2026-10-26T13:08:17Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -706,6 +706,75 @@
         "Quality of life"
       ],
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
+    {
+      "id": "10.1007/s10803-026-07488-w",
+      "title": "Potential for Life Skills Growth in Adults With Profound Autism",
+      "authors": [
+        "Elaine B. Clarke",
+        "Melanie Wellmann",
+        "John Kubis-Badilla",
+        "Catherine Lord",
+        "Vanessa H. Bal"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-26",
+      "doi": "10.1007/s10803-026-07488-w",
+      "url": "https://doi.org/10.1007/s10803-026-07488-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Research on autistic adults has expanded rapidly in recent years. However, few studies focus on adults with profound autism, despite this subgroup having substantial support needs across the life course. Daily living skills (DLS)—including personal care, household chores, and community tasks—are closely tied to independence and service needs in adulthood. The current study applied an item-level coding framework to informant-report DLS data to identify intervention targets for this population. Method Parents and staff members of 36 autistic adults (m age = 35.23 [5.31], 19.4% female, 77% White) who met profound criteria (m verbal IQ = 19.56 [13.17] m nonverbal IQ = 25.0 [19.14]) completed the Vineland adaptive behavior scales, third edition (VABS-3) caregiver interview. A coding scheme developed by Teh and colleagues (2023) was applied to DLS items scored as “never or seldom” completed independently to characterize why skills were not achieved. Results Patterns of reasons why skills were not achieved differed significantly across DLS domains (i.e., Personal, Domestic, Community; χ 2 (10) = 137.99, p &lt; .001). Domestic skills were significantly more likely to be ra…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261494970",
+      "title": "Training Physicians to Prevent Diversion of Stimulant Medication for Attention-Deficit/Hyperactivity Disorder: A Cluster-Randomized Controlled Trial in Pediatric Primary Care",
+      "authors": [
+        "Brooke S. G. Molina",
+        "Heidi L. Kipp",
+        "Sarah L. Pedersen",
+        "David J. Kolko",
+        "Rachel A. Lindstrom",
+        "Daniel J. Bauer",
+        "Andrea L. Howard",
+        "Heather M. Joseph"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-10-26",
+      "doi": "10.1177/10870547261494970",
+      "url": "https://doi.org/10.1177/10870547261494970",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Objectives Evidence-based methods to deter the misuse of stimulant medications for attention-deficit/hyperactivity disorder (ADHD) are lacking. Diversion is the most common means by which stimulants are obtained for non-medical use and prevention should begin early. The current study is the first randomized controlled trial testing whether brief training of pediatricians in Stimulant Diversion Prevention (SDP) can reduce diversion by their adolescent patients with ADHD. Methods A cluster-randomized controlled trial was conducted across seven pediatric practices in the U.S. (ClinicalTrials.gov NCT03080259). A detailed description of the study protocol is provided as well as results for pre-registered primary and secondary outcomes. Results Thirty-two prescribing providers, 357 adolescent patients, and one parent or guardian for each patient participated. Three practices were randomly assigned to training, and four waves of electronic surveys were administered to all participants (at baseline and 6-, 12-, and 18-months post-training) with high retention (e.g., 89%–97% of providers, 92%–96% of patients). Methods for recruitment and retention and provider and staff training were succes…"
+    },
+    {
+      "id": "10.1177/13623613261490600",
+      "title": "The Big Move: Predictors of Residential Status and Age at Leaving the Family Home in Adults With Neurodevelopmental Disabilities",
+      "authors": [
+        "Hannah Singer",
+        "Elaine B. Clarke",
+        "Catherine Lord"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-10-25",
+      "doi": "10.1177/13623613261490600",
+      "url": "https://doi.org/10.1177/13623613261490600",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Living arrangements play essential roles in the lives of adults with autism and neurodevelopmental disabilities (NDDs). Many individuals with NDDs face challenges transitioning from the family home to long-term independent or supported living arrangements, but few studies have examined the ages at which residential transitions may occur within NDD adulthood, nor how residential transition ages differ by co-occurring intellectual disability (ID) status. This study examined predictors of residential status and residential transition ages among 134 American adults (52% with ID) diagnosed with NDDs, primarily autism, in childhood. Kaplan–Meier survival analyses revealed 37% of participants with ID moved from the family home by their mid-30s (predominantly to supported living), compared to 69% without ID (predominantly to independent living). Cox models indicated higher family income and irritability (behavioral difficulties) predicted earlier-aged transitions among participants with ID; these effects were stronger at younger ages. For participants without ID, greater autistic behaviors predicted later-aged transitions; these effects strengthened with age. Findings point to potential “w…",
+      "framing": "Person-first language used"
     },
     {
       "id": "10.1177/10883576261493051",
@@ -5310,25 +5379,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -5355,6 +5405,25 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
+    },
+    {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -11799,135 +11868,6 @@
         "Autism"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-026-07420-2",
-      "title": "How Autism and Sex Influence Perspective-Taking in Pragmatic Inferences",
-      "authors": [
-        "Anna Teresa Porrini",
-        "Jessica Goulston",
-        "Alexandra Perovic",
-        "Nausicaa Pouscoulous"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-27",
-      "doi": "10.1007/s10803-026-07420-2",
-      "url": "https://doi.org/10.1007/s10803-026-07420-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose Despite difficulties with pragmatic inferences which require perspective-taking, autistic individuals often perform similarly to non-autistic peers on scalar implicatures tasks. Prior studies often used artificial tasks lacking a rich communicative context, or clear interlocutor, potentially misrepresenting autistic performance. They have also underrepresented females, who may outperform males on pragmatic measures. This study aims to address both limitations. Methods 52 autistic and 52 non-autistic adults (balanced for sex) completed an implicature priming task with both lexical (e.g. interpreting “John ate some of the cookies” as “some but not all”) and ad-hoc scalar implicatures (e.g., “the bowl with an apple” meaning “only an apple” when another bowl contains an apple and an orange). This task was an online card-selection game with clues either provided by a cooperative and knowledgeable “interlocutor” or simply appearing on the screen. Results Reliable priming effects occurred across groups and implicature types, showing that autistic adults, like non-autistic adults, flexibly interpret scalar terms in context. Speaker presence interacted with sex: while autis…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07428-8",
-      "title": "Who Shapes National Autism Guidance? A Cross-National Comparison of Autism Guideline Development, Representation, and Implementation",
-      "authors": [
-        "Caleb P. Hwang",
-        "Roald A. Øien",
-        "Fred R. Volkmar"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-06-27",
-      "doi": "10.1007/s10803-026-07428-8",
-      "url": "https://doi.org/10.1007/s10803-026-07428-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Quality of life",
-        "Service design"
-      ],
-      "tags": [
-        "lived experience",
-        "participatory",
-        "service improvement"
-      ],
-      "abstract": "Abstract Purpose National autism guidance increasingly shapes diagnostic practices and service pathways, yet comparative research has focused primarily on clinical content and methodological quality rather than the governance structures through which guidance is produced. We argue that differences in autism guidance are influenced not only by clinical recommendations but also by governance structure, lived-experience participation, and implementation architecture. This study examines how autism guidance is commissioned, who participates in development, and how guideline processes are linked to implementation across six countries: Australia, England, Norway, Scotland, Sweden, and the United States. Methods Using qualitative comparative document analysis, publicly available guideline documents and associated methodological materials were examined to assess each country’s guideline authority, document function and scope, procedural transparency, lived-experience participation, implementation linkages, and relationship to broader national autism strategy. Participation was categorized along a spectrum from consultation to representation to co-production. Results The analysis reveals su…"
-    },
-    {
-      "id": "10.1177/25739581261464925",
-      "title": "“It’s a Balancing Act”: Autistic Fathers Navigating Parenting in Everyday Life",
-      "authors": [
-        "Chris Edwards",
-        "Abigail M.A. Love",
-        "Ru Ying Cai",
-        "Kees-jan Archbald",
-        "Dean Dickson",
-        "Sean Hynes",
-        "Abel Trindade",
-        "Sarah Edwards",
-        "Bronwyn Leigh",
-        "Vicki Gibbs"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-06-27",
-      "doi": "10.1177/25739581261464925",
-      "url": "https://doi.org/10.1177/25739581261464925",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience",
-        "participatory"
-      ],
-      "abstract": "Background: Researchers increasingly recognize Autistic parents as an important source of insight into Autistic adulthood and family life, yet the perspectives of Autistic people who identify as fathers remain almost entirely absent from research. Fathers have distinct experiences, and the absence of their stories and perspectives limits understanding of Autistic parenting more broadly. Our study addressed this gap by exploring how Autistic fathers understand and experience parenting. Methods: We co-produced the study with four Autistic fathers who contributed to design, interview development, and analysis. Nineteen Autistic fathers took part in semi-structured interviews, either spoken or written, depending on their preference. We analyzed the data using reflexive thematic analysis informed by constructionist and participatory research principles. Results: Our analysis generated five themes: (1) Finding joy and meaning in everyday moments , which captured the emotional rewards of fatherhood; (2) becoming myself through fatherhood , describing how parenting strengthened self-understanding and Autistic identity; (3) walking the tightrope of family life , reflecting the effort of bal…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261463939",
-      "title": "“It’s the Wild West Out There”: Autistic Adults’ Experiences of Seeking Connection Through Dating Apps",
-      "authors": [
-        "Vicki Gibbs",
-        "Chris Edwards",
-        "Ru Ying Cai",
-        "Abigail M.A. Love",
-        "Amy Pearson"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-06-27",
-      "doi": "10.1177/25739581261463939",
-      "url": "https://doi.org/10.1177/25739581261463939",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "access",
-        "lived experience"
-      ],
-      "abstract": "Background: Autistic adults often encounter barriers in initiating and sustaining romantic relationships, including fewer opportunities to meet partners, elevated social anxiety, and increased vulnerability to rejection or victimization compared with non-autistic people. Digital platforms may offer novel pathways for connection, yet little is known about how autistic users navigate online dating. Methods: As part of a larger mixed-methods project, we conducted 20 in-depth interviews with autistic adults (aged 23–54; eight men, 11 women, one nonbinary) who had used dating apps to explore their lived experiences of these platforms. A mixed autistic and non-autistic research team performed reflexive thematic analysis through coding and theme development. Results: We developed four major themes through reflexive engagement with participants’ accounts: (1) Dating apps expand social connections: Apps broadened social circles, reduced in-person pressures, and supported active screening for compatibility. (2) Making connections online can come with a cost : Participants described online dating as draining, exhausting, and sometimes harmful due to manipulation, ghosting, and stigma. (3) Dis…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2026.2692511",
-      "title": "How is self-determination expressed by autistic youth? A qualitative approach of parents’ perspectives using Causal Agency Theory",
-      "authors": [
-        "Clara Andrés-Gárriz",
-        "Carmen Gándara Rossi",
-        "Ana Casas",
-        "Sergi Fàbregues",
-        "Sheida Raley",
-        "Cristina Mumbardó-Adam"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-06-27",
-      "doi": "10.1080/20473869.2026.2692511",
-      "url": "https://doi.org/10.1080/20473869.2026.2692511",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ]
     }
   ]
 }
