@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:58:54Z",
+  "generated_at": "2026-10-31T12:35:08Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -23,6 +23,72 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261475724",
+      "title": "Emotional Dysregulation, Emotional Lability, Emotional Impulsiveness and Emotion in Adults with ADHD: Do All Scales Define the Same Concept?",
+      "authors": [
+        "Anna Lisa Christen",
+        "Esther Sobanski",
+        "Hannes Bitto",
+        "Beatrice Abt-Mörstedt",
+        "Rolf-Dieter Stieglitz",
+        "Salvatore Corbisiero"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-12-01",
+      "doi": "10.1177/10870547261475724",
+      "url": "https://doi.org/10.1177/10870547261475724",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Education",
+        "Emergency care",
+        "Mental health"
+      ],
+      "abstract": "Background: Various studies highlight emotional symptoms as a crucial component of ADHD in adulthood, suggesting independent diagnostic approaches that incorporate patients’ emotional experiences into the assessment. However, the emotional symptomatology appears to be defined differently within the disorder’s different constructs: Emotional Dysregulation (ED), Emotional Lability (EL), Emotional Impulsiveness (EI) and Emotion (E). Hence, the question arises: Do these symptom domains represent the same psychopathological spectrum? Method: A total of 1240 adults seeking diagnostic evaluation at the ADHD specialist consultation in two different clinics (University Psychiatric Clinics (UPK) in Basel and Central Institute of Mental Health in Mannheim) were examined, whereas 611 participants were diagnosed with ADHD. They were further assessed in regard of their emotional symptoms using the following scales: ED, EL, EI and E. Additionally, affective lability was measured as a control using the Affective Lability Scale (ALS-18). Results and discussion: The convergent and construct validity using correlations and principal component analysis (PCA) revealed that individuals with ADHD experie…"
+    },
+    {
+      "id": "10.1177/10870547261478353",
+      "title": "ADHD Symptoms, Maladaptive Schemas, and Dysfunctional Automatic Thoughts: Exploring Theorized Relationships in Emerging Adults",
+      "authors": [
+        "Christie T. Pickel",
+        "Brian T. Wymbs"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-12-01",
+      "doi": "10.1177/10870547261478353",
+      "url": "https://doi.org/10.1177/10870547261478353",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
+    },
+    {
+      "id": "10.1177/10870547261468105",
+      "title": "A Mixed Methods Study of Treatment Acceptability and Intervention Preference Among College Students with ADHD",
+      "authors": [
+        "Erin L. Girio-Herrera",
+        "Minha Asif"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-12-01",
+      "doi": "10.1177/10870547261468105",
+      "url": "https://doi.org/10.1177/10870547261468105",
+      "neurotype": [
+        "ADHD"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
     },
     {
       "id": "10.1007/s10803-026-07530-x",
@@ -708,6 +774,91 @@
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
     },
     {
+      "id": "10.1007/s10803-026-07549-0",
+      "title": "Improving Student-Teacher Relationships for Autistic Children: Pilot Randomized Controlled Trial of a Professional Development Program",
+      "authors": [
+        "J. Blacher",
+        "A. Eisenhower",
+        "Y. Bolourian",
+        "N. Hamsho",
+        "M. Ledoux Galligan"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-31",
+      "doi": "10.1007/s10803-026-07549-0",
+      "url": "https://doi.org/10.1007/s10803-026-07549-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Abstract Purpose While most autistic students are placed in general education classrooms, the majority of general education teachers report a lack of autism training. We examined the feasibility and efficacy of Smooth Sailing, a relationship-focused, neurodiversity-affirming, professional development (PD) program, in a small, randomized controlled trial. Methods Participants were 32 general education teachers (kindergarten - 2nd grade) and their autistic students (one per teacher), randomly assigned to intervention or control groups. Teachers and caregivers completed measures at Time 1, Time 2, Time 3, and at the two-month follow-up. The intervention included structured, asynchronous modules, coaching (via Zoom), and in-vivo learning activities. Social validity was also examined throughout. Results Regarding efficacy, the program had medium to large effects on teacher-reported student-teacher relationship quality (d=0.79), teachers’ autism knowledge and self-efficacy (ds=1.49, 1.50), and caregiver-teacher relationship quality (d=0.54). Effects on child emotional-behavioral, social, and academic adjustment were medium to large (ds=0.63, 0.42, and 0.91). Outcomes were generally susta…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07599-4",
+      "title": "A Cross-Sectional Study of Vocabulary and Listening Comprehension in Turkish-Speaking Preschoolers Aged 62–84 Months With and Without Autism Spectrum Disorder",
+      "authors": [
+        "Hilal Gengeç",
+        "Merih Toker"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-31",
+      "doi": "10.1007/s10803-026-07599-4",
+      "url": "https://doi.org/10.1007/s10803-026-07599-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07583-y",
+      "title": "Improving Descriptive Diagnostics of Autism in People With Moderate or Severe Intellectual Disabilities: A Qualitative Participatory Study",
+      "authors": [
+        "Annelies de Bildt",
+        "Josien Jonker",
+        "Nicole Damen",
+        "Manna A. Alma"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-31",
+      "doi": "10.1007/s10803-026-07583-y",
+      "url": "https://doi.org/10.1007/s10803-026-07583-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience",
+        "participatory"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07585-w",
+      "title": "The Differential Role of Executive Functions in Reading Fluency in Children With Reading Difficulties, Children With Autism and Typically Developing Children",
+      "authors": [
+        "Tzipi Horowitz-Kraus",
+        "Stewart H. Mostofsky",
+        "Alyssa Deronda",
+        "Deana Crocetti",
+        "Bradley L. Schlaggar",
+        "Rola Farah",
+        "Keri S. Rosch"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-31",
+      "doi": "10.1007/s10803-026-07585-w",
+      "url": "https://doi.org/10.1007/s10803-026-07585-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Person-first language used"
+    },
+    {
       "id": "10.1177/25739581261497065",
       "title": "Decoding the Unsaid: Social Opacity, Autism, and AI as Accessibility Infrastructure",
       "authors": [
@@ -725,6 +876,24 @@
         "Employment"
       ],
       "abstract": "This conceptual article proposes an environmental framework for understanding social difficulty in autistic adulthood, one that complements rather than replaces existing cognitive accounts. Many autistic adults face employment instability, health care avoidance, relationship rupture, and chronic burnout; predominant frameworks have located these difficulties within the individual in cognitive or communicative differences understood to reduce social success. I argue that a meaningful portion of this difficulty may instead arise from environments that depend structurally on hidden, unstated norms—a condition I term social opacity. I introduce the norm accessibility gap, decomposed into two independently variable environmental dimensions—norm implicitness and explicit scaffolding—in a way that identifies concrete targets for intervention. Drawing on the social model of disability, the double empathy problem, and neurodiversity scholarship, I argue that social difficulty is in part relational and ecological. Against this backdrop, I propose that Artificial Intelligence (AI) systems may eventually function as social accessibility infrastructure—carefully distinguished from individual as…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2752060",
+      "title": "Perspectives on the evidence on bullying and cyberbullying in autistic students: beyond prevalence estimates",
+      "authors": [
+        "Suman Khanna",
+        "Uzma Abbass",
+        "Mahapara Abbass"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-10-30",
+      "doi": "10.1080/20473869.2026.2752060",
+      "url": "https://doi.org/10.1080/20473869.2026.2752060",
+      "neurotype": [
+        "Autism"
+      ],
       "framing": "Neurodiversity-informed"
     },
     {
@@ -6057,25 +6226,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -6102,6 +6252,25 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
+    },
+    {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -7477,35 +7646,6 @@
       ]
     },
     {
-      "id": "10.1177/13623613261455374",
-      "title": "Extent and Rigor of Cultural Adaptations in Social Communication Interventions for Autistic Children and Adolescents: A Systematic Review",
-      "authors": [
-        "Vipula Rajesh Kumar",
-        "Aditi Iyer",
-        "Theresa Pham",
-        "Marie Y. Savundranayagam",
-        "Sheila T. Moodie",
-        "Janis Oram"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/13623613261455374",
-      "url": "https://doi.org/10.1177/13623613261455374",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Social communication interventions to support autistic people are primarily developed and tested in Western countries with predominantly White, English-speaking participants. Although numerous frameworks have been developed to adapt these interventions for diverse ethnocultural groups, the quality of these adaptations is not well understood. This review used the Cultural Adaptation Checklist (CAC) to appraise the quality of cultural adaptations of social communication interventions for autistic children and adolescents. Searches across eight databases identified 16 studies involving 474 participants. Included studies reflected seven different culturally adapted interventions delivered across 12 countries in 11 languages. The methodological quality of the studies was assessed using QualSyst, and data were analyzed through narrative synthesis. All studies demonstrated at least adequate methodological quality, but only three reported using a specific framework to guide their cultural adaptations. The extent of adaptations varied, with fulfillment of CAC items across studies ranging from 44% to 91%. This review highlights the need for more comprehensively reported cultural adaptations…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581261478008",
       "title": "“A Delightful Embodiment of Dichotomies”: A Qualitative Exploration of Self-Concept and Identity Among Autistic and Non-Autistic People",
       "authors": [
@@ -8411,32 +8551,6 @@
       "abstract": "Purpose: Attention-deficit/hyperactivity disorder (ADHD) has been associated with ocular and visual abnormalities, although findings across studies remain inconsistent. This systematic review and meta-analysis aimed to quantify differences in structural and functional ocular parameters between individuals with ADHD and healthy controls. Materials and Methods: PubMed, Web of Science, and Scopus were searched for cross-sectional and cohort studies evaluating ocular or visual parameters in children, adolescents, or adults with ADHD. The review was conducted in accordance with PRISMA guidance, informed by AMSTAR 2 methodological standards, and registered in PROSPERO (CRD420251090876). Eligible outcomes included visual acuity, refraction, ocular biometry, retinal structure, accommodative and binocular function, contrast sensitivity, color perception, and pupillary measures. Pooled mean differences ( MD s) or standardized mean differences (SMDs) with 95% confidence intervals (CIs) were calculated using fixed- or random-effects models, as appropriate. Results: Twenty-seven studies including 888 participants with ADHD and 1,172 controls were included, of which 21 contributed to the quantit…"
     },
     {
-      "id": "10.1177/10870547261475724",
-      "title": "Emotional Dysregulation, Emotional Lability, Emotional Impulsiveness and Emotion in Adults with ADHD: Do All Scales Define the Same Concept?",
-      "authors": [
-        "Anna Lisa Christen",
-        "Esther Sobanski",
-        "Hannes Bitto",
-        "Beatrice Abt-Mörstedt",
-        "Rolf-Dieter Stieglitz",
-        "Salvatore Corbisiero"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-08-25",
-      "doi": "10.1177/10870547261475724",
-      "url": "https://doi.org/10.1177/10870547261475724",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education",
-        "Emergency care",
-        "Mental health"
-      ],
-      "abstract": "Background: Various studies highlight emotional symptoms as a crucial component of ADHD in adulthood, suggesting independent diagnostic approaches that incorporate patients’ emotional experiences into the assessment. However, the emotional symptomatology appears to be defined differently within the disorder’s different constructs: Emotional Dysregulation (ED), Emotional Lability (EL), Emotional Impulsiveness (EI) and Emotion (E). Hence, the question arises: Do these symptom domains represent the same psychopathological spectrum? Method: A total of 1240 adults seeking diagnostic evaluation at the ADHD specialist consultation in two different clinics (University Psychiatric Clinics (UPK) in Basel and Central Institute of Mental Health in Mannheim) were examined, whereas 611 participants were diagnosed with ADHD. They were further assessed in regard of their emotional symptoms using the following scales: ED, EL, EI and E. Additionally, affective lability was measured as a control using the Affective Lability Scale (ALS-18). Results and discussion: The convergent and construct validity using correlations and principal component analysis (PCA) revealed that individuals with ADHD experie…"
-    },
-    {
       "id": "10.1007/s10803-026-07498-8",
       "title": "Identifying Distinct Depression Trajectories in Korean Parents of Individuals With Intellectual Disability or Autism Spectrum Disorder: A Growth Mixture Modeling Analysis",
       "authors": [
@@ -9312,26 +9426,6 @@
       ]
     },
     {
-      "id": "10.1177/10870547261478353",
-      "title": "ADHD Symptoms, Maladaptive Schemas, and Dysfunctional Automatic Thoughts: Exploring Theorized Relationships in Emerging Adults",
-      "authors": [
-        "Christie T. Pickel",
-        "Brian T. Wymbs"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-08-12",
-      "doi": "10.1177/10870547261478353",
-      "url": "https://doi.org/10.1177/10870547261478353",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
-    },
-    {
       "id": "10.1007/s10803-026-07483-1",
       "title": "Gender-Based Differences in Autism Spectrum Disorder: Evidence From an Indian Clinical Cohort",
       "authors": [
@@ -10067,57 +10161,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261457949",
-      "title": "Specialist Resource Centres as Protective Microsystems: A Qualitative Comparative Case Study of Autistic Pupils’ Experiences in Mainstream Secondary Schools",
-      "authors": [
-        "Alice Boddy",
-        "Anna Cook"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261457949",
-      "url": "https://doi.org/10.1177/13623613261457949",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools face significant barriers to academic progress, social engagement, and mental wellbeing, with parents consistently reporting that their children’s autism-related needs are not being met. This qualitative comparative case study examined what shapes the educational experiences of autistic pupils in secondary schools with Specialist Resource Centres (SRCs) versus comparable mainstream settings without specialist provision. Using Bronfenbrenner’s ecological systems framework, the study explored how multiple layers of influence – ranging from classroom practices to societal attitudes – interact to support or undermine inclusion. Data were collected across seven secondary schools (five SRC schools, two mainstream schools without SRCs) in South-East England via interviews with pupils, parents, and staff. Findings revealed that SRCs functioned as protective microsystems, providing predictable environments, visible support, and trusted relationships that buffered pupils from sensory and social demands. Key protective features included consistent staffing, flexible policies, and normalised support-seeking. However, systemic challenges – includi…"
-    },
-    {
-      "id": "10.1177/13623613261458864",
-      "title": "Cognitive Emotion Regulation, Peer Victimisation, and Stress Reactivity as Multidimensional Pathways to Suicidality and Self-Harm in Autistic Individuals Without Intellectual Disability",
-      "authors": [
-        "Giuseppe Alessio Carbone",
-        "Laura Nigro",
-        "Laura Ilen",
-        "Clémence Feller",
-        "Julie Husmann",
-        "Maude Schneider"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261458864",
-      "url": "https://doi.org/10.1177/13623613261458864",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Autistic individuals without intellectual disabilities show high rates of suicidal thoughts and behaviours (STBs); however, the processes underlying this vulnerability remain still unclear and understudied. This study examined STBs within a multidimensional framework integrating intrapersonal, interpersonal, and environmental factors. Eighty-four autistic adolescents and young adults (aged 12–32 years) were included. Overall, 36.9% of participants reported suicidal ideation, 27.4% reported self-harm, and 42.9% endorsed at least one indicator of STBs. Regression analyses reported that peer victimisation was associated with both suicidal ideation and self-harm, while self-harm also showed a specific association with cognitive emotion regulation strategy. Two canonical correlation analyses were performed, including maladaptive and adaptive cognitive emotion regulation strategies. A positive canonical correlation emerged between maladaptive strategies and the STBs domain, whereas a negative canonical correlation was observed between adaptive strategies and the same outcome. Finally, as a sensitivity analysis, a moderation model examined whether perceived stress reactivity influenced th…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10870547261474901",
       "title": "Sex Differences in the Age at First Health Service Use for ADHD Among Australian Children",
       "authors": [
@@ -10233,29 +10276,6 @@
         "Autism"
       ],
       "abstract": "ABSTRACT Autistic children exhibit developmental differences in theory of mind (ToM), which is associated with social impairment. While numerous interventions have targeted other ToM precursor skills, few studies have explored the effect of visual perspective taking (VPT) training on ToM. The present study aims to investigate the effectiveness of VPT training on ToM in autistic children. Sixty‐six autistic children were initially recruited and randomly assigned to three groups. Forty‐eight children (mean age = 5.75 years) completed the study and were included in the final analyses, comprising the VPT training group ( n = 16), thought‐bubble training group ( n = 16), and control group ( n = 16). Each training comprised 12 sessions of 30 min. Both the VPT and thought‐bubble training groups demonstrated significant improvements in VPT and ToM compared to the control group. The present study is the first to directly examine the effectiveness of VPT training using table blocks in enhancing ToM performance in autistic children, thereby providing a novel approach for ToM development.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70301",
-      "title": "Seeing the Child Within: A Randomized Controlled Trial of Reflective Functioning Intervention for Parents of Autistic Children",
-      "authors": [
-        "Yael Enav",
-        "Natalia Kirsman",
-        "Dana Erhard Weiss",
-        "Yael Mayer"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1002/aur.70301",
-      "url": "https://doi.org/10.1002/aur.70301",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "ABSTRACT Parents of autistic children often face elevated emotional demands and challenges in interpreting their child's inner experience. Parental reflective functioning (PRF), the capacity to understand behavior in terms of underlying mental states, is considered a key mechanism in fostering emotionally attuned and adaptive caregiving. Despite its importance, few interventions directly target PRF, and fewer still have tested brief, group‐based formats designed for broad accessibility. We conducted a randomized controlled trial to evaluate a brief, virtual PRF intervention delivered via Zoom to 249 parents of autistic children. Participants were randomly assigned to either an intervention group ( n = 129) or a waitlist control group ( n = 130), and completed assessments at baseline and postintervention. PRF was measured using a standardized interview, while self‐report questionnaires assessed parenting self‐efficacy, beliefs about emotional malleability, depressive symptoms, and child adaptive functioning. Generalized estimating equations revealed significant time‐by‐group interactions favoring the intervention group across several outcomes. Relative to controls, intervention part…",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -11093,26 +11113,6 @@
       ],
       "abstract": "Purpose For people with autism spectrum disorder (ASD) or ASD traits, it is known to be difficult to take turns in conversation and maintain relationships. To address this, the authors provide online Social Skills Training (SST), a type of interpersonal skills training, to adults with ASD who have difficulty communicating. The SST program includes listening to individual goals and a speech activity where participants share their personal experiences with adolescents. This study aims to explore changes in communication skills, self-esteem and progress toward individual communication goals associated with participation in this online SST. Design/methodology/approach Participants included five men diagnosed with ASD or showing tendencies of the condition. They completed social skills and self-esteem scales before and after the intervention. Individual goal performance was assessed at three points: pre-, mid- and postintervention. An open-ended questionnaire was administered during the final session to explore the reasons behind participants’ self-assessments. Findings This online SST program suggested no change in self-esteem, but improvements in self-control and the regulation of int…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1177/10870547261468105",
-      "title": "A Mixed Methods Study of Treatment Acceptability and Intervention Preference Among College Students with ADHD",
-      "authors": [
-        "Erin L. Girio-Herrera",
-        "Minha Asif"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-22",
-      "doi": "10.1177/10870547261468105",
-      "url": "https://doi.org/10.1177/10870547261468105",
-      "neurotype": [
-        "ADHD"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
     },
     {
       "id": "10.1007/s10803-026-07457-3",
@@ -12142,115 +12142,6 @@
         "sensory"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07415-z",
-      "title": "Motor Competence and Physical Fitness in Children and Adolescents With ADHD: A Comparative Study with Typically Developing Peers",
-      "authors": [
-        "Nerea Blanco Martínez",
-        "Rocío Carballo-Afonso",
-        "Alberto González Campo",
-        "Carlos Ayán-Pérez"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-02",
-      "doi": "10.1007/s10803-026-07415-z",
-      "url": "https://doi.org/10.1007/s10803-026-07415-z",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Abstract Purpose Children and adolescents with ADHD often experience motor coordination challenges that can interfere with the acquisition of fundamental skills such as running, jumping, or balancing. These limitations may affect their daily functioning and overall physical development, although previous findings in this area remain inconsistent. Therefore, this study aimed to compare motor competence and physical fitness between children and adolescents with ADHD and their typically developing peers, while also examining age-related differences. Methods Participants were recruited from the same school in Spain. ADHD diagnoses were established according to DSM-5 criteria, and inclusion was based on cognitive and health suitability. Motor competence was evaluated using the MABC-2 battery, which classifies performance into red, amber, or green zones based on standard scores and percentiles. Physical fitness was assessed through selected EUROFIT tests, including the 10 × 5 shuttle run, standing broad jump, and Sit &amp; Reach. Results Children with ADHD showed lower motor competence compared to their typically developing peers. This difference was particularly evident in balance among…"
-    },
-    {
-      "id": "10.1007/s10803-026-07423-z",
-      "title": "Assessing Camouflaging in Adolescence: Psychometric Evaluation of the German Camouflaging Autistic Traits Questionnaire (CAT-Q/DE)",
-      "authors": [
-        "Johannes Boettcher",
-        "Holger Zapf",
-        "Anne Daubmann",
-        "Benno Schimmelmann",
-        "Carola Bindt",
-        "Sarah Hohmann",
-        "Jan Micheel"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-02",
-      "doi": "10.1007/s10803-026-07423-z",
-      "url": "https://doi.org/10.1007/s10803-026-07423-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Purpose Camouflaging refers to compensatory strategies used to conceal autistic traits and has been shown to negatively affect the mental health of autistic individuals. As no German instrument currently exists to measure camouflaging, this study aimed to validate a German translation of the Camouflaging Autistic Traits Questionnaire (CAT-Q/DE) in autistic and non-autistic adolescents. Methods Confirmatory factor analyses tested the original three-factor CAT-Q model in German adolescents (N = 164 autistic, N = 482 non-autistic) using self- and parent-report data. Measurement invariance, rater agreement, test–retest reliability, and convergent validity were evaluated. Results The three-factor structure was confirmed, and scalar measurement invariance was fully established for sex and age group in both self- and parent-reports. CAT-Q/DE scores were higher in the autism sample than the non-autism sample, with gender differences observed only in the autism group, where females scored higher than males. CAT-Q/DE scores showed moderate to strong associations with anxiety, depression, and stress. Test–retest reliability was moderate in the non-autism sample. Rater agreement was m…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07383-4",
-      "title": "Behavior Regulation Abilities in Children With Prader-Willi Syndrome and Their Impact on Daily Life: At the Crossroads of Cognitive and Emotional Development",
-      "authors": [
-        "Nawelle Famelart",
-        "A. M. Camblats",
-        "J. Cortadellas",
-        "M. Valette",
-        "C. Brochado",
-        "S. Faye",
-        "C. Molinas",
-        "M. Glattard",
-        "J. Maire",
-        "S. Çabal",
-        "G. Diene",
-        "M. Tauber",
-        "V. Postal"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-02",
-      "doi": "10.1007/s10803-026-07383-4",
-      "url": "https://doi.org/10.1007/s10803-026-07383-4",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1186/s13229-026-00725-0",
-      "title": "Who benefits most? A randomized controlled trial for Parent-implemented social communication intervention for chinese-speaking autistic preschoolers",
-      "authors": [
-        "Li Wang",
-        "Yujia Shi",
-        "Hon-Cheong So",
-        "Hoyee W. Hirai",
-        "Xin Qi",
-        "Carol K. S. To",
-        "Florrie Fei-Yin NG",
-        "Patrick C. M. Wong"
-      ],
-      "journal": "Molecular Autism",
-      "year": 2026,
-      "published_date": "2026-07-02",
-      "doi": "10.1186/s13229-026-00725-0",
-      "url": "https://doi.org/10.1186/s13229-026-00725-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "communication"
-      ],
-      "abstract": "Abstract Background Parent-implemented interventions (PIIs) are well established for improving developmental outcomes in autistic children. As evidence has accumulated, the field has increasingly shifted toward understanding for whom, and through which delivery formats PIIs can be most effectively implemented. These questions are pressing in non-Western contexts, where access to professional services is limited and culturally appropriate interventions are needed. This RCT, one of the largest of its kind in China, addressed this gap by comparing two scalable delivery formats (speech-language therapist [SLT]-led online groups vs. flexible Self-study format) of a culturally adapted social communication program and examining differential intervention responses and sustained engagement. Methods A total of 112 Chinese-speaking autistic children aged 24–60 months with limited spontaneous expressive language were randomized to a 20-week SLT-led or Self-study intervention. Autism severity, social functioning, and language skills were assessed at baseline, post-intervention, and 12 months after baseline. Parental stress, parenting sense of competence, and strategy use were also measured. Chi…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
