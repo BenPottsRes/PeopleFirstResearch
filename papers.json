@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:27:59Z",
+  "generated_at": "2026-11-02T15:58:41Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -700,6 +700,29 @@
       ],
       "abstract": "Participatory research offers a promising means to understand how autistic children and young people (CYP) can be supported and to co-create services or resources that meet their needs. While widely valued, evidence on the most effective ways to meaningfully engage autistic CYP, and on whether and how findings reach educators, is limited. This systematic review narratively synthesises studies reporting the use of school-based participatory research with autistic CYP and reports the approaches, methods, and outcomes of such projects. Initial searches across five databases yielded 1,515 results. After removal of duplicates, 493 studies were screened by abstract and title, and full-text screening was conducted on studies ( n = 48) that appeared to meet the inclusion criteria. Studies that met pre-identified eligibility criteria ( n = 22), and studies identified through backward citation ( n = 2), were included. Creative idea generation, tangible methods, and visual methods are particularly effective for engaging this demographic. However, it was difficult to determine broader implications for schools, as few researchers reported sharing findings with educators. Findings highlight the…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1080/20473869.2026.2754948",
+      "title": "Wearable sensors and artificial intelligence in autism spectrum disorder: a systematic review of detection, monitoring, and behavioral assessment applications",
+      "authors": [
+        "Fazila Akter",
+        "Manisha Das",
+        "Moustaq Karim Khan Rony",
+        "Salma Akhter",
+        "Mst. Atika Akhter",
+        "Sabrina Momota Saima",
+        "Jeba Sultana",
+        "Most. Tahmina Khatun"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1080/20473869.2026.2754948",
+      "url": "https://doi.org/10.1080/20473869.2026.2754948",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1177/10870547261478344",
@@ -4474,28 +4497,6 @@
         "lived experience"
       ],
       "abstract": "Objective: Positive attitudes toward one’s clinical condition may contribute to resilience and well-being. Although qualitative studies suggest that individuals with attention-deficit/hyperactivity disorder (ADHD) may perceive positive aspects of their condition, no quantitative measure has been available to assess these attitudes. This study aimed to develop a self-report measure of positive attitudes toward ADHD and examine their associations with ADHD symptom dimensions. Method: Across three independent adult samples, participants completed measures assessing ADHD symptom frequency and attitudes toward their own ADHD. Positive attitudes were assessed using the newly developed Positive Attitudes Toward ADHD Scale (PATAS), which demonstrated high test–retest reliability (r = .89). The samples included participants from two language groups and an international sample spanning 24 countries. Results: Greater frequency of hyperactive/impulsive symptoms was consistently associated with more positive attitudes toward ADHD across all three samples. Inattention symptoms showed a tendency toward a negative association with positive attitudes, although this pattern was not consistent across…"
-    },
-    {
-      "id": "10.1177/10870547261459712",
-      "title": "Symptoms of Anxiety in Adults with ADHD: A Systematic Review and Meta-Analysis of Case-Control Studies",
-      "authors": [
-        "Jessica I. Hoskins",
-        "Debbie Gooch",
-        "Katie A. Gilligan-Lee"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-10-01",
-      "doi": "10.1177/10870547261459712",
-      "url": "https://doi.org/10.1177/10870547261459712",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Objective: Research suggests there is a higher prevalence of anxiety in individuals with ADHD compared to those without ADHD. However, estimated prevalence rates vary greatly due to differences in methodologies used across studies. This study is the first meta-analysis investigating differences in anxiety measure scores between adults with and without ADHD, and possible moderators of this effect. Method: Our analysis included 58 studies that compared anxiety scores in adults with/without ADHD ( N = 18,821; k = 112). Results: The average effect size (Hedges’s g ) of anxiety scores in those with ADHD relative to controls was 0.77 ( SE = 0.066); a medium effect. The only significant moderator was the type of comparison group used, with comparisons to non-clinical control groups ( g = 0.954, SE = 0.08) yielding significantly larger effects than comparisons to clinical control groups ( g = 0.437, SE = 0.09). None of the other moderator variables examined (Method of characterising ADHD, Anxiety Measure Type, Anxiety Measure Focus, Age or Gender) moderated the effect. There was some evidence of publication bias, therefore results should be interpreted with this in mind. Conclusion: Overal…"
     },
     {
       "id": "10.1002/aur.70350",
@@ -9058,6 +9059,24 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -9077,24 +9096,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
