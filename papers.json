@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:18:30Z",
+  "generated_at": "2026-11-04T14:35:29Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -91,6 +91,126 @@
       "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
     },
     {
+      "id": "10.1007/s10803-026-07601-z",
+      "title": "Quality and Reliability of YouTube Videos as a Source of Information Regarding Early Signs of Autism Spectrum Disorder",
+      "authors": [
+        "Kadriye Ozyazici",
+        "Sibel Aydin",
+        "Oguz Emre",
+        "Eren Can"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-04",
+      "doi": "10.1007/s10803-026-07601-z",
+      "url": "https://doi.org/10.1007/s10803-026-07601-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07536-5",
+      "title": "Examining the Active Ingredients of Consultation: Effects of Discrete Consultation Components on Implementation Outcomes for an Autism Intervention in a Community Mental Health System",
+      "authors": [
+        "Diondra Straiton-Webster",
+        "Mariola Moeyaert",
+        "Jessie Greatorex",
+        "Alyssa Ewell",
+        "Brooke Ingersoll"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-04",
+      "doi": "10.1007/s10803-026-07536-5",
+      "url": "https://doi.org/10.1007/s10803-026-07536-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Abstract Purpose We examined the extent to which group consultation training activities (i.e., case support, skill rehearsal via role play, and performance feedback using videotapes) were associated with improvements in clinician fidelity (i.e., manual adherence and competence) and case penetration (i.e., proportion of eligible clients receiving the intervention) for a caregiver coaching intervention for autism (Project ImPACT) in a community mental health system. Methods We observed twenty clinicians across six agencies, scoring clinician fidelity from videotapes of 154 telehealth sessions with 21 families of Medicaid-enrolled autistic children. We utilized two-level multilevel models to examine (a) the effect of discrete consultation components on manual adherence and five caregiver coaching domains, and (b) the effect of group consultation on case penetration. Results None of the consultation components were associated with changes in manual adherence. Competency scores for reflective coaching skills in the Performance Feedback phase were 0.32 points higher than those in the Baseline phase, t (62.12) = 2.65, p = .01. No other consultation components were associated with changes…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07604-w",
+      "title": "“Do You Need Something or Am I Just Listening to You?”: A Qualitative Content Analysis of Prosody-Related Social Communication Challenges in Autistic Young Adults",
+      "authors": [
+        "Christina Layton",
+        "Rachel Rivera",
+        "Chigusa Kurumada",
+        "Paul Allen",
+        "Loisa Bennetto"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-04",
+      "doi": "10.1007/s10803-026-07604-w",
+      "url": "https://doi.org/10.1007/s10803-026-07604-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ]
+    },
+    {
+      "id": "10.1007/s40489-026-00602-9",
+      "title": "Parenting School-Aged Autistic Children: A Systematic Review",
+      "authors": [
+        "Sara Passarini",
+        "E. Fucà",
+        "D. Menghini",
+        "S. Vicari",
+        "S. Pirchio"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-04",
+      "doi": "10.1007/s40489-026-00602-9",
+      "url": "https://doi.org/10.1007/s40489-026-00602-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00605-6",
+      "title": "Meta-analysis of Longitudinal Total Brain Volume Trajectories in Autism",
+      "authors": [
+        "Sarah A. Ashley",
+        "Kate Merritt",
+        "Pilar A. Letrondo",
+        "Pedro L. Laguna",
+        "Emily Hedges",
+        "Matthew J. Kempton",
+        "Abraham Reichenberg",
+        "Anthony S. David"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-04",
+      "doi": "10.1007/s40489-026-00605-6",
+      "url": "https://doi.org/10.1007/s40489-026-00605-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Abstract Early brain overgrowth is well-documented in autism spectrum disorder (ASD); however, longitudinal brain development has not been systematically charted. We performed a meta-analysis of longitudinal total brain volume (TBV) trajectories in ASD compared to controls, including 6 studies, 453 ASD and 3,510 controls aged 6 months to 18 years. Cross-sectional TBV was larger in ASD than controls (Hedges’ g = 0.22, p = 0.014). Meta-regressions showed larger TBV was specific to early childhood, with reduced TBV in late adolescence in ASD (F(2, 13) = 37.51, b=-0.06, p &lt;0.001). Longitudinally, TBV growth was reduced over time in ASD versus controls (g=-0.09, p = 0.06). In summary, TBV alterations in ASD are age dependent, it remains unclear whether alterations persist into adulthood due to a lack of studies beyond age 18.",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1007/s10803-026-07591-y",
       "title": "Testing an AI-Driven Sound Management Technology for Autistic Individuals With Decreased Sound Tolerance in Virtual Reality Environments",
       "authors": [
@@ -109,6 +229,68 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261495453",
+      "title": "Reduced Positive Bias in Autistic Adults’ Intelligence Self-Assessments",
+      "authors": [
+        "Erik Van der Burg",
+        "Robert M. Jertberg",
+        "Hilde M. Geurts",
+        "Bhismadev Chakrabarti",
+        "Sander Begeer"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-03",
+      "doi": "10.1177/13623613261495453",
+      "url": "https://doi.org/10.1177/13623613261495453",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Judging one’s own cognitive ability is a core aspect of self-reflection, yet most people overestimate their intelligence. We investigated whether autistic ( n = 284, 18–77 years old) and non-autistic ( n = 63, 18–76 years old) adults differ in this bias. Participants, all naïve to prior IQ testing, completed a brief online cognitive test and provided self-estimates of intelligence. Across groups, self-estimates modestly correlated with test scores ( r = .33). Nearly all non-autistic participants (93.6%) overestimated their ability, whereas autistic participants were more divided: 75.7% overestimated and 24.3% underestimated, yielding a weaker positivity bias overall. This suggests two distinct forms of inaccuracy: a systematic positivity bias in non-autistic individuals versus more variable, sometimes unduly negative self-views in autistic individuals. These could be shaped by stereotypes or social experiences and/or a result of general metacognitive imprecision. These findings highlight both reduced ego-enhancing bias and an overlooked vulnerability, offering a nuanced view of autistic self-perception. Lay Abstract Understanding how people judge their own intelligence can tell us…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261498497",
+      "title": "Parenting Autistic Adolescents Among Palestinian Citizens of Israel: A Reflexive Thematic Analysis",
+      "authors": [
+        "Lameess Khaled Habiballah",
+        "Ahmad Abu-Akel"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-03",
+      "doi": "10.1177/13623613261498497",
+      "url": "https://doi.org/10.1177/13623613261498497",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Adolescence represents a critical developmental transition for Autistic youth, yet limited research has examined how minoritized families experience parenting during this period within mainstream educational settings. This qualitative study explored how Palestinian parents who are citizens of Israel understood and experienced raising Autistic adolescents at the intersection of developmental transition, religious meaning-making, and broader social and structural conditions. Semi-structured interviews were conducted in Arabic with 33 parents (28 mothers and five fathers) of Autistic adolescents aged 13 to 16 years enrolled in mainstream middle schools. Transcripts were analyzed using reflexive thematic analysis. Four interrelated themes were generated: (a) living in persistent vigilance; (b) balancing protection and autonomy; (c) negotiating stigma and belonging; and (d) reconstructing parental identity. The findings suggest that caregiving demands extended beyond autism-related support needs and were also shaped by institutional inequality, social judgment, and contested belonging. Parenting was experienced as a socially embedded process rather than as a series of isolated stressors…"
+    },
+    {
+      "id": "10.1177/10870547261501381",
+      "title": "Treatment Preferences in Attention Deficit Hyperactivity Disorder: A Systematic Review of Discrete Choice Experiment and Best-Worst Scaling Studies",
+      "authors": [
+        "Ruihao Zhang",
+        "Yan Li",
+        "Mengru Zhan",
+        "Chenhui Tian",
+        "Tiantian Tao",
+        "Pingyu Chen"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-11-03",
+      "doi": "10.1177/10870547261501381",
+      "url": "https://doi.org/10.1177/10870547261501381",
+      "neurotype": [
+        "ADHD"
+      ],
+      "abstract": "Background: Attention deficit hyperactivity disorder (ADHD) is a prevalent neurodevelopmental disorder that affects both children and adults, impacting academic, social, and emotional functioning. Medication adherence remains a significant challenge in ADHD treatment. Discrete choice experiments (DCE) and best-worst scaling (BWS) are increasingly used to assess treatment preferences, yet their application to ADHD treatment is underexplored. Objectives: This systematic review aims to evaluate treatment preferences among ADHD caregivers and adult patients, assess methodological limitations, and identify research gaps in existing literature grounded in DCE and BWS methodologies. Methods: A systematic search was conducted across PubMed, Web of Science, and other databases from database inception to June 1, 2025. Studies using DCE, BWS, or conjoint analysis methods to assess ADHD treatment preferences were included. Data extraction focused on study characteristics, participant profiles, and preference outcomes, and quality was assessed using the PREFS framework. Results: Fifteen studies were included, with a predominant focus on medication attributes. The most important attributes ident…"
     },
     {
       "id": "10.1002/aur.70385",
@@ -556,26 +738,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-11-01",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -600,6 +762,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/13623613261480174",
@@ -2463,25 +2645,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -2500,6 +2663,25 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
+    },
+    {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -9109,6 +9291,24 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -9128,24 +9328,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -10304,29 +10486,6 @@
         "Autism"
       ],
       "abstract": "ABSTRACT The present study examined how the frequency and impact of autism traits were associated with parent‐reported family experience, with differential consideration of parental experience and overall family life. Prior research has found an association between autism traits and family functioning; however, less is known about how the impact and frequency of these traits influence family experience. We analyzed data from families of 206 young autistic children (144 boys and 62 girls), aged 2–7, using the Autism Impact Measure (AIM) and the Autism Family Experience Questionnaire (AFEQ). Hierarchical regression analysis showed that the impact of autistic traits was significantly associated with parent experience scores and that the frequency of autistic traits was significantly associated with family life scores in the first‐year post‐diagnosis. Neither child age nor gender was significantly associated with parent experience or family life. This study highlights the importance of tailoring post‐diagnosis family supports to the child's specific features and calls attention to areas for future investigation on this topic, including the exploration of longitudinal trends or demograp…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70309",
-      "title": "Visual Perspective Taking Training Improves Theory of Mind in Autistic Children",
-      "authors": [
-        "Mi Tian",
-        "Shiyue Cao",
-        "Xin Li",
-        "Wenyu Xia",
-        "Him Cheung",
-        "Xuezhen Xiao",
-        "Tianrui Luo"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1002/aur.70309",
-      "url": "https://doi.org/10.1002/aur.70309",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Autistic children exhibit developmental differences in theory of mind (ToM), which is associated with social impairment. While numerous interventions have targeted other ToM precursor skills, few studies have explored the effect of visual perspective taking (VPT) training on ToM. The present study aims to investigate the effectiveness of VPT training on ToM in autistic children. Sixty‐six autistic children were initially recruited and randomly assigned to three groups. Forty‐eight children (mean age = 5.75 years) completed the study and were included in the final analyses, comprising the VPT training group ( n = 16), thought‐bubble training group ( n = 16), and control group ( n = 16). Each training comprised 12 sessions of 30 min. Both the VPT and thought‐bubble training groups demonstrated significant improvements in VPT and ToM compared to the control group. The present study is the first to directly examine the effectiveness of VPT training using table blocks in enhancing ToM performance in autistic children, thereby providing a novel approach for ToM development.",
       "framing": "Neurodiversity-informed"
     },
     {
@@ -12046,131 +12205,6 @@
       ],
       "abstract": "Purpose The study aims to pursue the following objectives: assess the level of distinct latent profiles of emotional well-being among primary school children with autism in Calabar metropolis, examine how family structure (single-parent, nuclear, extended) predicts emotional well-being and investigate how family functioning (including emotional responsiveness, conflict resolution and cohesion) predicts emotional well-being in children with autism spectrum disorder. Design/methodology/approach The research employed a cross-sectional correlational design to investigate the influence of family context on the emotional well-being of primary school pupils with autism in Calabar Education Zone. A total of 192 caregiver–child pairs participated, identified through documented DSM-5 diagnoses and supplementary screening with the childhood autism spectrum test. Emotional well-being was measured using the strengths and difficulties questionnaire, while family functioning was assessed with the McMaster family assessment device. Latent profile analysis was used to classify emotional well-being patterns. Generalized linear mixed models tested family structure and hierarchical regression examined…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07396-z",
-      "title": "The Effect of Participation in the Let’s Play Program on Autistic Children’s Engagement and Caregiver Well-Being: A Randomized Controlled Trial",
-      "authors": [
-        "Ashley E. Hinten",
-        "Philip Schluter",
-        "Cathy Andrew",
-        "Caroline Donovan",
-        "Isabel Jameson",
-        "Phoebe Jordan",
-        "Ann-Marie Kennedy",
-        "Selina Muralitharan",
-        "Jenna van Deurs",
-        "Lauren van Noorden",
-        "Jake Payton",
-        "Bella Rothwell",
-        "Laurie McLay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-06",
-      "doi": "10.1007/s10803-026-07396-z",
-      "url": "https://doi.org/10.1007/s10803-026-07396-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Abstract Purpose In Aotearoa New Zealand (NZ), families face persistent barriers to accessing evidence-based early support for Autistic children. This randomized controlled trial (RCT) evaluated the effectiveness of Let’s Play; a bespoke, caregiver-mediated early support program for Autistic children and their caregivers. Methods This single-blind (rater) RCT included 91 parent-child dyads, randomly assigned to the Let’s Play program (active support; AS [ n = 45]) or a waitlist control (WLC; n = 46). Participants were caregivers of children aged 0 to 5 years with a formal diagnosis or characteristics of autism. Let’s Play was delivered over 9 weeks via group workshops and in-home coaching. Primary child and caregiver outcomes, assessed at baseline, post-support, and 6-month follow-up, included parent-child engagement and parental stress, respectively. Results Children showed descriptive evidence of improvement in caregiver-child engagement, health-related quality of life and behaviour from baseline to post-support. Improvement in parental stress, depression and anxiety symptoms, and self-perceived parenting competence were also evident, across timepoints. However, there were no sig…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07421-1",
-      "title": "Trends in Self-Reported Autism Among Adults in England: Analysis of a Repeated Cross-Sectional Patient Survey Series of 5,999,433 Adults",
-      "authors": [
-        "Samuel J. Tromans",
-        "Zoe L. Morgan",
-        "Benjamin Brewer",
-        "Rachel Williams",
-        "Traolach S. Brugha",
-        "Sally McManus"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-06",
-      "doi": "10.1007/s10803-026-07421-1",
-      "url": "https://doi.org/10.1007/s10803-026-07421-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07431-z",
-      "title": "Developmental Trajectories in Young Autistic Children Receiving Parent-Mediated Intervention Through In-Person and Telehealth Service Delivery Models: A Naturalistic, Nonrandomized Clinical Study",
-      "authors": [
-        "Ali Naderi Malek",
-        "Patricia A. Prelock",
-        "Nasrin Shahouzaei"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-06",
-      "doi": "10.1007/s10803-026-07431-z",
-      "url": "https://doi.org/10.1007/s10803-026-07431-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07425-x",
-      "title": "Sentiment and Topic Analysis of Autism Spectrum Disorder Discussions on Chinese Social Media: Evidence From Bilibili and Rednote",
-      "authors": [
-        "Baixue Gao",
-        "Yunlong Xie",
-        "Hongyu Li",
-        "Wen He"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-06",
-      "doi": "10.1007/s10803-026-07425-x",
-      "url": "https://doi.org/10.1007/s10803-026-07425-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10870547261465052",
-      "title": "Variation in Rates of ADHD Diagnoses Across Public Schools in Arkansas",
-      "authors": [
-        "Xueying Ma",
-        "Gwendolyn M. Lawson",
-        "Joe Sundell",
-        "Bradley C. Martin",
-        "Shahed Md Abu Sufian",
-        "Joseph W. Thompson",
-        "John Mick Tilford",
-        "Michael R. Thomsen"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-06",
-      "doi": "10.1177/10870547261465052",
-      "url": "https://doi.org/10.1177/10870547261465052",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Objectives: This study characterized variation in rates of new medical diagnoses of ADHD among kindergartners and identified factors associated with diagnosis rates. Methods: This study analyzed 87,383 kindergartners who were not diagnosed with ADHD prior to kindergarten who attended at least one of 490 elementary schools in Arkansas. The study examined five kindergarten cohorts from the 2015/16 to 2019/20 academic years, assessing school-level variation in ADHD diagnosis rates. Schools were categorized by quintiles of their ADHD diagnosis rates. A mixed-effects logistic regression model was used to examine individual-level factors associated with new ADHD diagnosis. Results: Diagnosis rates varied 570% across school quintiles. Schools with higher rates of ADHD diagnoses served a higher percentage of African American children, children from lower-income families, and children living in neighborhoods with lower Child Opportunity Index (COI) scores. Results of an individual-level logistic regression analysis indicated children in census tracts with very high or high social and economic COI scores had lower odds of having new ADHD diagnoses compared to those from very low COI neighbor…"
     }
   ]
 }
