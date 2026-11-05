@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:35:29Z",
+  "generated_at": "2026-11-05T14:41:44Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -23,6 +23,49 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10883576261484922",
+      "title": "Increasing Self-Feeding Using Spatial Fading and Error Correction",
+      "authors": [
+        "Meara X. H. McMahon",
+        "Kavya Kandarpa",
+        "Tyler-Curtis C. Elliott",
+        "Mackenzie A. Riley",
+        "Caitlin E. Schaefer",
+        "Hallie M. Smith"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-12-01",
+      "doi": "10.1177/10883576261484922",
+      "url": "https://doi.org/10.1177/10883576261484922",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Children on the autism spectrum are more likely than neurotypical children to experience co-occurring feeding problems and may require individualized interventions to increase age-appropriate self-feeding skills. Few studies have evaluated errorless learning strategies (e.g., backward chaining, graduated guidance) to improve self-feeding for children on the autism spectrum and assess whether this response maintains over time. In the current study, researchers used spatial fading and error correction to increase self-feeding for three U.S. children in a variety of applied settings. Results suggest that self-feeding increased and was maintained over time using iterations with and without nonremoval of the spoon and cup."
+    },
+    {
+      "id": "10.1177/10883576261484925",
+      "title": "Developing SMART Goals With Autistic Young Adults: Results From the\n                    <i>Launching!</i>\n                    to Adulthood Therapy Programs",
+      "authors": [
+        "Antonio F. Pagán",
+        "Grace Sattem",
+        "Katherine Maurano",
+        "Linda Hernandez",
+        "Katherine A. Loveland",
+        "Ron Acierno"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-12-01",
+      "doi": "10.1177/10883576261484925",
+      "url": "https://doi.org/10.1177/10883576261484925",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "The transition to adulthood poses distinct challenges for young adults with autism spectrum disorder (ASD), especially in executive functioning (EF) and goal-setting. This study evaluated a culturally adapted, 12-week intervention using the SMART goal framework with military-dependent and Latino young adults with ASD in the U.S. state of Texas. The program aimed to assess goal quality, examine EF’s impact on goal specificity, and explore the role of personal values in achieving goals. Participants connected culturally significant values—such as family, health, and resilience—with aspirations, emphasizing the need for tailored approaches. Military-dependent participants focused on independence and Latino participants prioritized community. EF challenges influenced goal achievability, with the SMART framework providing an effective structure. Findings suggest integrating self-determination theory (SDT) to enhance autonomy, competence, and motivation. These results inform educators on supporting goal-setting and easing transitions to adulthood for diverse ASD populations, highlighting the critical role of culturally sensitive strategies.",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/10870547261475724",
@@ -89,6 +132,77 @@
         "lived experience"
       ],
       "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
+    },
+    {
+      "id": "10.1007/s10803-026-07579-8",
+      "title": "Distinct Subgroups Emerge in Autistic Males and Females: Insights Into Sex Differences From a Large-Scale Nationwide Cohort",
+      "authors": [
+        "Emily Landau",
+        "Ericka L. Wodka"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07579-8",
+      "url": "https://doi.org/10.1007/s10803-026-07579-8",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07590-z",
+      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
+      "authors": [
+        "Abdullah Ahmed Almulla",
+        "Mohamad Ahmad Saleem Khasawneh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07590-z",
+      "url": "https://doi.org/10.1007/s10803-026-07590-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s40489-026-00604-7",
+      "title": "Diagnostic Accuracy of the Autism-Spectrum Quotient: A Brief Systematic Review and Meta-Analysis",
+      "authors": [
+        "Alexander C. Wilson"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s40489-026-00604-7",
+      "url": "https://doi.org/10.1007/s40489-026-00604-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Abstract The Autism-Spectrum Quotient (AQ) is widely used to assess autistic traits and is recommended in clinical guidelines to screen for and assess autism in adults. However, evidence for its accuracy largely comes from case–control studies, which tend to overestimate diagnostic performance. This systematic review and meta-analysis (1) evaluated how well the AQ predicts autism diagnostic status in adults, (2) calculated pooled sensitivity and specificity of the AQ, and (3) considered number of false positives and false negatives across different prevalence levels. Eligible studies needed to administer the AQ prior to a diagnostic assessment to confirm diagnostic status. Twelve studies were synthesised, with up to 2536 people included in each analysis. Random effects meta-analysis estimated pooled area under the curve (AUC) values, and bivariate random effects models pooled sensitivity and specificity. Predictive values were calculated across prevalence rates from 10% to 70%. The pooled AUC was 0.65 (95% CI 0.58–0.71), indicating limited discrimination. Sensitivity was moderate to high, but specificity was consistently low. False positives outnumbered true positives unless autism…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2740093",
+      "title": "Comparing individual and group modalities of a parent training program for caregivers of autistic children in Argentina: a mixed-methods study",
+      "authors": [
+        "Adriana Kaori Terol",
+        "Luisa Manzone",
+        "Eduardo Yespica",
+        "Sandy Magaña"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1080/20473869.2026.2740093",
+      "url": "https://doi.org/10.1080/20473869.2026.2740093",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07601-z",
@@ -162,6 +276,33 @@
         "communication",
         "lived experience"
       ]
+    },
+    {
+      "id": "10.1177/13623613261502179",
+      "title": "Autism Stigma, Camouflaging and Burnout: A Three Circles Model of Imbalance",
+      "authors": [
+        "Lachlan Greig",
+        "Sarah P. Coundouris",
+        "James N. Kirby",
+        "Julie D. Henry"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-04",
+      "doi": "10.1177/13623613261502179",
+      "url": "https://doi.org/10.1177/13623613261502179",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health",
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Autistic camouflaging, suppressing authenticity to avoid discrimination, is linked to negative mental health outcomes, yet its emotional mechanisms remain poorly understood. Using the tripartite model of emotion regulation, we examined whether an imbalance of high threat, high drive and low soothe is linked to camouflaging and constitutes a pathway from internalised autism stigma to autistic burnout. Autistic adults ( N = 191; 53.4% formally diagnosed, 46.6% self-identified) completed measures of stigma, tripartite systems, camouflaging and burnout. All pre-registered predictions were supported. Internalised stigma was strongly, positively associated with burnout ( r = .47) and tripartite imbalance was moderately, positively related to camouflaging ( r = .32). Serial mediation revealed a significant indirect pathway: internalised stigma was associated with greater threat/drive dominance, in turn with increased camouflaging, and ultimately higher burnout (β = 0.02, 95% confidence interval [CI] [0.01, 0.04], p = .008). Importantly, the direct effect of stigma on burnout remained substantial, independent of both mediators (β = 0.37, 95% CI [0.26, 0.48], p &lt; .001). These findings pr…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00602-9",
@@ -4702,35 +4843,6 @@
       "framing": "Mixed or transitional framing"
     },
     {
-      "id": "10.1177/10870547261463814",
-      "title": "ADHD Individuals’ Positivity About Their Condition Varies by Their Levels of Hyperactivity/Impulsivity Versus Inattention Symptoms",
-      "authors": [
-        "Gili Katabi",
-        "Merav Huss",
-        "Steve Lukito",
-        "Tycho J. Dekkers",
-        "Edmund Sonuga-Barke",
-        "Nitzan Shahar"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-10-01",
-      "doi": "10.1177/10870547261463814",
-      "url": "https://doi.org/10.1177/10870547261463814",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare"
-      ],
-      "tags": [
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Objective: Positive attitudes toward one’s clinical condition may contribute to resilience and well-being. Although qualitative studies suggest that individuals with attention-deficit/hyperactivity disorder (ADHD) may perceive positive aspects of their condition, no quantitative measure has been available to assess these attitudes. This study aimed to develop a self-report measure of positive attitudes toward ADHD and examine their associations with ADHD symptom dimensions. Method: Across three independent adult samples, participants completed measures assessing ADHD symptom frequency and attitudes toward their own ADHD. Positive attitudes were assessed using the newly developed Positive Attitudes Toward ADHD Scale (PATAS), which demonstrated high test–retest reliability (r = .89). The samples included participants from two language groups and an international sample spanning 24 countries. Results: Greater frequency of hyperactive/impulsive symptoms was consistently associated with more positive attitudes toward ADHD across all three samples. Inattention symptoms showed a tendency toward a negative association with positive attitudes, although this pattern was not consistent across…"
-    },
-    {
       "id": "10.1002/aur.70350",
       "title": "Predictors of Change in Severity of Self‐Injurious Behaviors in Preschool‐Aged Autistic Children",
       "authors": [
@@ -5089,27 +5201,6 @@
       "neurotype": [
         "Autism"
       ]
-    },
-    {
-      "id": "10.1177/10883576261484922",
-      "title": "Increasing Self-Feeding Using Spatial Fading and Error Correction",
-      "authors": [
-        "Meara X. H. McMahon",
-        "Kavya Kandarpa",
-        "Tyler-Curtis C. Elliott",
-        "Mackenzie A. Riley",
-        "Caitlin E. Schaefer",
-        "Hallie M. Smith"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-09-29",
-      "doi": "10.1177/10883576261484922",
-      "url": "https://doi.org/10.1177/10883576261484922",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Children on the autism spectrum are more likely than neurotypical children to experience co-occurring feeding problems and may require individualized interventions to increase age-appropriate self-feeding skills. Few studies have evaluated errorless learning strategies (e.g., backward chaining, graduated guidance) to improve self-feeding for children on the autism spectrum and assess whether this response maintains over time. In the current study, researchers used spatial fading and error correction to increase self-feeding for three children in a variety of applied settings. Results suggest that self-feeding increased and was maintained over time using iterations with and without nonremoval of the spoon and cup."
     },
     {
       "id": "10.1007/s10803-026-07548-1",
@@ -5569,28 +5660,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1177/10883576261484925",
-      "title": "Developing SMART Goals With Autistic Young Adults: Results From the\n                    <i>Launching!</i>\n                    to Adulthood Therapy Programs",
-      "authors": [
-        "Antonio F. Pagán",
-        "Grace Sattem",
-        "Katherine Maurano",
-        "Linda Hernandez",
-        "Katherine A. Loveland",
-        "Ron Acierno"
-      ],
-      "journal": "Focus on Autism and Other Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-09-25",
-      "doi": "10.1177/10883576261484925",
-      "url": "https://doi.org/10.1177/10883576261484925",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "The transition to adulthood poses distinct challenges for young adults with autism spectrum disorder (ASD), especially in executive functioning (EF) and goal-setting. This study evaluated a culturally adapted, 12-week intervention using the SMART goal framework with military-dependent and Latino young adults with ASD. The program aimed to assess goal quality, examine EF’s impact on goal specificity, and explore the role of personal values in achieving goals. Participants connected culturally significant values—such as family, health, and resilience—with aspirations, emphasizing the need for tailored approaches. Military-dependent participants focused on independence and Latino participants prioritized community. EF challenges influenced goal achievability, with the SMART framework providing an effective structure. Findings suggest integrating self-determination theory (SDT) to enhance autonomy, competence, and motivation. These results inform educators on supporting goal-setting and easing transitions to adulthood for diverse ASD populations, highlighting the critical role of culturally sensitive strategies.",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1108/aia-03-2026-0030",
@@ -9291,24 +9360,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -9328,6 +9379,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -10368,32 +10437,6 @@
       "abstract": "International research suggests there is a common intersection between Autism and sexual and gender diversity. However, there is limited data estimating the whole-of-population prevalence of this association, both abroad and in Aotearoa New Zealand (NZ). Utilising NZ’s Integrated Data Infrastructure, a research database containing linked administrative and survey data, we conducted a nationwide cohort study of those in the age range 5–24 years for whom Census 2023 records existed. From a study population of 1,266,453 young people, 1.5% were identified as Autistic. After adjustment for demographic measures, we found significantly higher rates of Autism among sexually- and gender-diverse young people than among their heterosexual and cisgender peers. This included for those identifying with a gender outside of the male/female binary (3.9%) compared to both males (2.3%; 1.7 times as high) and females (0.7%; 5.8 times as high), transgender people (4.0%) compared to cisgender people (1.5%; 2.9 times as high), and non-heterosexuals (2.2%) compared to heterosexuals (1.4%; 1.8 times as high). Lay Abstract International research suggests there is a common overlap between Autism and sexual a…"
     },
     {
-      "id": "10.1177/13623613261460931",
-      "title": "The Views of Autistic Adults on Early Autism Interventions: A Mixed-Methods Systematic Literature Review",
-      "authors": [
-        "Elizaveta Nosova",
-        "Alexandra Sturrock",
-        "Neil Humphrey",
-        "Kathy Leadbitter"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261460931",
-      "url": "https://doi.org/10.1177/13623613261460931",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "For many years, early autism interventions were developed without the involvement of autistic people. This review explores the views and experiences of autistic adults regarding psychosocial/educational interventions for young autistic children. Four databases (Web of Science Core Collection, Education Resource Information Centre, Education Database and PsycINFO) were searched; 19 studies were identified. Quality appraisal was performed using the Quality Assessment with Diverse Studies tool. Qualitative data were analysed using thematic synthesis. Quantitative data were analysed using descriptive narrative synthesis, including textual description, tabulation and a visual representation. Five themes were developed among studies with qualitative data: Hear the child’s voice, Let the child be a child, Celebrate autistic lives, Understand autistic challenge s and, finally, a cross-cutting theme, Damage done , on negative experiences of autistic people who underwent early interventions. In studies with quantitative data, autistic people endorsed well-being, adult support/accessibility and reducing harmful behaviours, and did not endorse outcomes related to reducing autism traits. We con…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/10870547261474901",
       "title": "Sex Differences in the Age at First Health Service Use for ADHD Among Australian Children",
       "authors": [
@@ -10441,51 +10484,6 @@
         "Healthcare"
       ],
       "abstract": "ABSTRACT The prevalence of substance use disorders (SUD) among autistic people is substantial and growing. This unaddressed public health challenge is particularly important given the lack of knowledge about SUD service needs among people on the spectrum. This paper presents the first national‐level study of SUD‐related clinical outcomes and service use among US‐based autistic Medicaid enrollees with SUD ( N = 50,487) compared to matched neurotypical enrollees with SUD ( N = 151,461). The analyses reveal that overdose, hospitalizations, and some polysubstance use risks are elevated among autistic people with SUD compared to neurotypical SUD patients. Analyses also suggest that autistic people with SUD use fewer SUD services compared to their neurotypical counterparts. Results highlight the need for integrative, evidence‐based autism‐tailored SUD service solutions.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70303",
-      "title": "Short Report: An Examination of Children's Autism Traits and Their Association With Family Experience",
-      "authors": [
-        "Ella C. Brouwer",
-        "Melissa Susko",
-        "Charee Botha",
-        "Amedeo D'Angiulli",
-        "Eric Duku",
-        "Ana Hanlon‐Dearman",
-        "Vivian Lee",
-        "Elyse Rosa",
-        "Lonnie Zwaigenbaum",
-        "Teresa Bennett",
-        "Yun‐Ju Chen",
-        "Briano De Rezze",
-        "Irene Drmic",
-        "Julia Frei",
-        "Katholiki Georgiades",
-        "Anna Kata",
-        "Olaf Kraus De Camargo",
-        "Sherry Fournier",
-        "Stephen Gentles",
-        "Judah Koller",
-        "Jonathan Lai",
-        "Patrick McPhee",
-        "Ronit Mesterman",
-        "Caroline Roncadin",
-        "Peter Rosenbaum",
-        "Deepa Singal",
-        "Elisabeth Trinari",
-        "Stelios Georgiades",
-        "Elizabeth Kelley"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1002/aur.70303",
-      "url": "https://doi.org/10.1002/aur.70303",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT The present study examined how the frequency and impact of autism traits were associated with parent‐reported family experience, with differential consideration of parental experience and overall family life. Prior research has found an association between autism traits and family functioning; however, less is known about how the impact and frequency of these traits influence family experience. We analyzed data from families of 206 young autistic children (144 boys and 62 girls), aged 2–7, using the Autism Impact Measure (AIM) and the Autism Family Experience Questionnaire (AFEQ). Hierarchical regression analysis showed that the impact of autistic traits was significantly associated with parent experience scores and that the frequency of autistic traits was significantly associated with family life scores in the first‐year post‐diagnosis. Neither child age nor gender was significantly associated with parent experience or family life. This study highlights the importance of tailoring post‐diagnosis family supports to the child's specific features and calls attention to areas for future investigation on this topic, including the exploration of longitudinal trends or demograp…",
       "framing": "Neurodiversity-informed"
     },
     {
