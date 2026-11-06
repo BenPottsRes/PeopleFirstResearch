@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:41:44Z",
+  "generated_at": "2026-11-06T14:18:59Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -134,6 +134,116 @@
       "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
     },
     {
+      "id": "10.1007/s10803-026-07589-6",
+      "title": "Evaluation of Context-Specific Early Identification of Autism Models Involving Multiple Stakeholders: Examples From Three Areas of England",
+      "authors": [
+        "Rebecca Jefferson",
+        "Reihaneh Farzinnia",
+        "Lily Verity",
+        "Freddie Jones",
+        "Rai Fayette",
+        "Pam Qualter",
+        "Kevin Woods",
+        "Caroline Bond"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-06",
+      "doi": "10.1007/s10803-026-07589-6",
+      "url": "https://doi.org/10.1007/s10803-026-07589-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Demand for autism assessment has increased substantially in recent years, while diagnostic capacity has not kept pace. As a result, alternative approaches to early screening and support for children with social communication difficulties are required. Method We conducted a convergent mixed-methods multiple case study evaluating three locally developed, school-based early identification models for autism in England. The models were responsive to local priorities and involved collaboration between education and health professionals, schools, families and children. Quantitative referral and diagnostic outcome data were analysed alongside qualitative data from focus groups and interviews with education and health professionals. Results Across the three cases, stakeholders perceived the models positively, particularly in relation to improved inter-professional collaboration, earlier access to support, and professional learning within schools, although concerns were raised in one area regarding potential over-identification. Involvement of school staff was viewed as essential, enhancing understanding of autism and confidence in working with families. Follow-up interviews…"
+    },
+    {
+      "id": "10.1007/s10882-026-10105-4",
+      "title": "Evaluating the Efficacy of a School-Home Communication Intervention for Families of Children with Autism",
+      "authors": [
+        "Chak Li",
+        "Meghan Burke"
+      ],
+      "journal": "Journal of Developmental and Physical Disabilities",
+      "year": 2026,
+      "published_date": "2026-11-06",
+      "doi": "10.1007/s10882-026-10105-4",
+      "url": "https://doi.org/10.1007/s10882-026-10105-4",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "communication",
+        "service improvement"
+      ],
+      "abstract": "Abstract Effective school-home communication is vital for families of children with autism, yet many families report suboptimal communication with schools, leading to conflicts and poor educational outcomes. This study aimed to evaluate the efficacy of the School-Home Alliance for Relationship Enhancement (SHARE) intervention in improving school-home communication and family-professional partnerships among families of children with autism. A convenience sample of 19 families of children with autism from diverse geographical regions was recruited. Findings suggest that SHARE was effective in enhancing school-home communication satisfaction and quality. Given its promising efficacy and scalability, the SHARE intervention has potential for implementation in family-centered training programs and school-based initiatives. Future research should focus on strategies to evaluate the intervention with educator participants and assess long-term impacts on family-professional partnerships.",
+      "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1002/aur.70386",
+      "title": "Quantifying the Impact of Social Cues and Focused‐Interest Objects on Joint Attention in Autistic Children via Eye‐Tracking",
+      "authors": [
+        "Adoración Antolí",
+        "Cristina López‐Soler",
+        "Carolina Pérez‐Dueñas",
+        "José Juan Cañas",
+        "Fátima Cuadrado",
+        "R. Ignacio Madrid",
+        "Purificación Checa",
+        "Julia Vacas"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-11-06",
+      "doi": "10.1002/aur.70386",
+      "url": "https://doi.org/10.1002/aur.70386",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "ABSTRACT Joint attention is a core social‐communication process that is affected in autistic children and may be key for early identification and targeted intervention. In this eye‐tracking study, we examine how social cues and focused‐interest objects modulate visual attention during joint attention tasks in autistic children and typically developing (TD) peers. Sixty‐six children (33 autistic: M = 51.88 months, SD = 13.38; 33 TD: M = 53.54 months, SD = 8.64) completed a visual preference task in which a model used gaze and pointing gestures directed toward or away from objects related or unrelated to focused interests. We analyzed static measures of attention allocation, including total fixation duration on the model and the object, and a dynamic measure of gaze transitions between them as an index of attentional coordination across the triadic elements involved in joint attention. Results indicated that autistic children showed reduced fixation duration on the model and made fewer gaze transitions than TD children. Across groups, focused‐interest objects reduced attention to the model, reflecting increased competition between social and object‐based information. Importantly, sen…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07582-z",
+      "title": "Awareness and Inclusion of Neurodiversity in the Healthcare Systems of Five Arab Countries: A Scoping Review",
+      "authors": [
+        "Tahani H. Saleh",
+        "M. Walid Qoronfleh",
+        "Sawsan G. A. A. Mohammed"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07582-z",
+      "url": "https://doi.org/10.1007/s10803-026-07582-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07579-8",
       "title": "Distinct Subgroups Emerge in Autistic Males and Females: Insights Into Sex Differences From a Large-Scale Nationwide Cohort",
       "authors": [
@@ -163,6 +273,25 @@
       "url": "https://doi.org/10.1007/s10803-026-07590-z",
       "neurotype": [
         "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07607-7",
+      "title": "Socioeconomic Hardship and Cumulative Adverse Experiences in Relation to Anxiety and Depression in Autistic Children: Exploring the Role of Physical Activity",
+      "authors": [
+        "Youngjun Lee"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07607-7",
+      "url": "https://doi.org/10.1007/s10803-026-07607-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
       ],
       "framing": "Neurodiversity-informed"
     },
@@ -2786,6 +2915,25 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -2804,25 +2952,6 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
-    },
-    {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -6528,6 +6657,25 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -6554,25 +6702,6 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
-    },
-    {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -10413,30 +10542,6 @@
       ]
     },
     {
-      "id": "10.1177/13623613261460933",
-      "title": "Intersections of Autism and Sexual and Gender Diversity Among Young People in New Zealand",
-      "authors": [
-        "Brodie Fraser",
-        "Sujata Saha",
-        "Mary Buchanan",
-        "Sheree Gibb",
-        "Ruth Monk",
-        "Laurie K. McLay",
-        "Phoebe Jean Campbell",
-        "Jordan Rogers",
-        "Nicholas James Bowden"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-08-01",
-      "doi": "10.1177/13623613261460933",
-      "url": "https://doi.org/10.1177/13623613261460933",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "International research suggests there is a common intersection between Autism and sexual and gender diversity. However, there is limited data estimating the whole-of-population prevalence of this association, both abroad and in Aotearoa New Zealand (NZ). Utilising NZ’s Integrated Data Infrastructure, a research database containing linked administrative and survey data, we conducted a nationwide cohort study of those in the age range 5–24 years for whom Census 2023 records existed. From a study population of 1,266,453 young people, 1.5% were identified as Autistic. After adjustment for demographic measures, we found significantly higher rates of Autism among sexually- and gender-diverse young people than among their heterosexual and cisgender peers. This included for those identifying with a gender outside of the male/female binary (3.9%) compared to both males (2.3%; 1.7 times as high) and females (0.7%; 5.8 times as high), transgender people (4.0%) compared to cisgender people (1.5%; 2.9 times as high), and non-heterosexuals (2.2%) compared to heterosexuals (1.4%; 1.8 times as high). Lay Abstract International research suggests there is a common overlap between Autism and sexual a…"
-    },
-    {
       "id": "10.1177/10870547261474901",
       "title": "Sex Differences in the Age at First Health Service Use for ADHD Among Australian Children",
       "authors": [
@@ -12112,97 +12217,6 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07407-z",
-      "title": "Psychological Flexibility, Community Resilience, and Distress in Parents of Children With Autism and Typical Development During Wartime",
-      "authors": [
-        "Shlomit Shnitzer-Meirovich",
-        "Shani Aviad",
-        "Ayelet Gur"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-08",
-      "doi": "10.1007/s10803-026-07407-z",
-      "url": "https://doi.org/10.1007/s10803-026-07407-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Purpose Parents face heightened stress during emergencies and wartime, with those raising children with autism spectrum disorder (ASD) encountering especially intensified challenges. Psychological and social resources such as psychological flexibility and community resilience (CR) may buffer against distress, yet little is known about their role under extreme conditions. This study examined differences in psychological flexibility, CR, and psychological distress (depression, anxiety, and stress) between parents of children with ASD and parents of typically developing (TD) children during the Israel–Gaza “Swords of Iron” War. Methods A total of 166 Israeli parents participated, including 80 of children with ASD and 86 of TD children, recruited online through purposive sampling. Results Results indicated that parents of children with ASD reported lower psychological flexibility and CR compared to TD parents, but groups did not differ significantly in overall distress. Moderation analysis showed that group status moderated the link between CR and distress, with CR more strongly associated with lower distress among parents of children with ASD. Conclusions These findings under…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s40489-026-00575-9",
-      "title": "A Meta-Analysis of Parental Self-Efficacy in Parents of Autistic and Non-Autistic Youth",
-      "authors": [
-        "Rita Abdel-Baki",
-        "Olivia Dobson",
-        "Ella Rigby",
-        "Kristel Thomassin"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-08",
-      "doi": "10.1007/s40489-026-00575-9",
-      "url": "https://doi.org/10.1007/s40489-026-00575-9",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1080/1034912x.2026.2700539",
-      "title": "Children with ASD in Regular Classroom: How Do Teachers Value and Use Inclusive Educational Practices in Northwest China",
-      "authors": [
-        "Zibin Wang",
-        "Sha Shen",
-        "Tianqi Tang"
-      ],
-      "journal": "International Journal of Disability, Development and Education",
-      "year": 2026,
-      "published_date": "2026-07-08",
-      "doi": "10.1080/1034912x.2026.2700539",
-      "url": "https://doi.org/10.1080/1034912x.2026.2700539",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1108/aia-09-2025-0098",
-      "title": "Influence of family structure and functioning on emotional well-being of primary school pupils with autism spectrum disorder in Calabar-Education-Zone, Nigeria",
-      "authors": [
-        "Michael Okaba Ataben",
-        "Lazarus Ishifundi Udie",
-        "Emmanuel Ahueansebhor",
-        "Victor Bassey Akpan",
-        "Martina Ongbonya Ntino",
-        "Musa Moses Egaga",
-        "Akomaye Agwu Undie",
-        "Joseph Bassey Offiong",
-        "Godian Patrick Okenjom",
-        "Emmanuel Acha Onigah",
-        "Stephen Ushie Akpa"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-07-08",
-      "doi": "10.1108/aia-09-2025-0098",
-      "url": "https://doi.org/10.1108/aia-09-2025-0098",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Purpose The study aims to pursue the following objectives: assess the level of distinct latent profiles of emotional well-being among primary school children with autism in Calabar metropolis, examine how family structure (single-parent, nuclear, extended) predicts emotional well-being and investigate how family functioning (including emotional responsiveness, conflict resolution and cohesion) predicts emotional well-being in children with autism spectrum disorder. Design/methodology/approach The research employed a cross-sectional correlational design to investigate the influence of family context on the emotional well-being of primary school pupils with autism in Calabar Education Zone. A total of 192 caregiver–child pairs participated, identified through documented DSM-5 diagnoses and supplementary screening with the childhood autism spectrum test. Emotional well-being was measured using the strengths and difficulties questionnaire, while family functioning was assessed with the McMaster family assessment device. Latent profile analysis was used to classify emotional well-being patterns. Generalized linear mixed models tested family structure and hierarchical regression examined…",
-      "framing": "Mixed or transitional framing"
     }
   ]
 }
