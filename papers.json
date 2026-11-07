@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:18:59Z",
+  "generated_at": "2026-11-07T13:04:53Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -134,6 +134,25 @@
       "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
     },
     {
+      "id": "10.1007/s10803-026-07606-8",
+      "title": "Burnout Among Professionals in ABA-Based Services in Brazil",
+      "authors": [
+        "Cláudio Sarilho",
+        "Thiago Vinicius Monteleone",
+        "Brandon M. Franklin",
+        "Bruna Campos de Sena",
+        "Julia Alves Marques das Neves"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-07",
+      "doi": "10.1007/s10803-026-07606-8",
+      "url": "https://doi.org/10.1007/s10803-026-07606-8",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07589-6",
       "title": "Evaluation of Context-Specific Early Identification of Autism Models Involving Multiple Stakeholders: Examples From Three Areas of England",
       "authors": [
@@ -192,6 +211,24 @@
       ],
       "abstract": "Abstract Effective school-home communication is vital for families of children with autism, yet many families report suboptimal communication with schools, leading to conflicts and poor educational outcomes. This study aimed to evaluate the efficacy of the School-Home Alliance for Relationship Enhancement (SHARE) intervention in improving school-home communication and family-professional partnerships among families of children with autism. A convenience sample of 19 families of children with autism from diverse geographical regions was recruited. Findings suggest that SHARE was effective in enhancing school-home communication satisfaction and quality. Given its promising efficacy and scalability, the SHARE intervention has potential for implementation in family-centered training programs and school-based initiatives. Future research should focus on strategies to evaluate the intervention with educator participants and assess long-term impacts on family-professional partnerships.",
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1177/10883576261497593",
+      "title": "Measures, Frequently Used Tasks and Adaptations in Assessing Executive Functions in Children and Adolescents With Autism Spectrum Disorder: A Systematic Review",
+      "authors": [
+        "Evangelia Georgoula",
+        "Eleni Koustriava"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-11-06",
+      "doi": "10.1177/10883576261497593",
+      "url": "https://doi.org/10.1177/10883576261497593",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Executive functions (EFs), including working memory, attention, inhibition and cognitive flexibility, are critical for adaptive behaviour and often impaired in individuals with autism spectrum disorder (ASD). This systematic review synthesises findings from 398 articles, following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, to examine EF measures in children and adolescents with ASD. Working memory was the most frequently assessed domain, with tasks such as Digit Span, Cambridge Neuropsychological Test Automated Battery (CANTAB) Spatial Working Memory and Corsi Block commonly employed. Tasks for cognitive flexibility (e.g., Wisconsin Card Sorting Test [WCST]) and inhibition (e.g., Go/No-Go) were also prevalent, but detailed metric reporting (e.g., stimulus duration, response time) was generally lacking across EF measures. The review highlights the need for standardised reporting and individualised approaches to improve cross-study comparability and validity. These findings can guide the selection of robust EF measures and inform tailored ASD interventions in future research.",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1002/aur.70386",
@@ -9489,6 +9526,24 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -9508,24 +9563,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -12161,62 +12198,6 @@
         "Autism"
       ],
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07432-y",
-      "title": "A Systematic Review of Pathological Demand Avoidance (PDA): A Veritable Diagnosis or a Case of Circular Logic?",
-      "authors": [
-        "Dylan Company",
-        "Joe Anthony Rotella"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-09",
-      "doi": "10.1007/s10803-026-07432-y",
-      "url": "https://doi.org/10.1007/s10803-026-07432-y",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07419-9",
-      "title": "Psychometric Evaluation of the Spanish 10-Item Autism Spectrum Quotient Children’s Questionnaire in a Sample of Ecuadorian Children",
-      "authors": [
-        "Sueny Paloma Lima dos Santos",
-        "Darío Javier Guerrero-Vaca",
-        "Andrés Fernando Vinueza-Veloz",
-        "Jhia Navarrete-Veloz",
-        "Tannia Valeria Carpio-Arias",
-        "María Fernanda Vinueza-Veloz"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-09",
-      "doi": "10.1007/s10803-026-07419-9",
-      "url": "https://doi.org/10.1007/s10803-026-07419-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose The 10-item Autism Spectrum Quotient (AQ-10) is widely used as a brief screening tool for autism spectrum disorder (ASD). Its psychometric properties have not been examined in Spanish-speaking South American populations. This study evaluated the reliability, dimensionality, item functioning, and scalability of the parent-report Spanish AQ-10. Methods Data were drawn from Proyecto Guagua, a community-based study in Ecuador. An age-appropriate subsample of 295 children (ages 5–11 years) was assessed using the parent-report Spanish AQ-10. Reliability was assessed with Kuder-Richardson-20 (KR-20), standardized α and tetrachoric α. Dimensionality was examined using exploratory factor analysis (EFA) and confirmatory factor analysis (CFA). Item discrimination and difficulty were evaluated using exploratory item response theory (IRT), and scalability was assessed using Mokken scaling. Results Internal consistency was modest under binary scoring (KR-20 = 0.49; standardized α = 0.54) but improved when tetrachoric correlations were used (α = 0.73). CFA indicated suboptimal fit for a one-factor model. Item 2 consistently displayed negative discrimination (-0.104) and negligibl…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1080/20473869.2026.2690623",
-      "title": "Mapping the landscape of joint attention assessment in autism spectrum disorder: a systematic review of tools, techniques, and gaps",
-      "authors": [
-        "Saeid Sadeghi",
-        "Marziyeh Rahimi",
-        "Robyn Young"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-07-09",
-      "doi": "10.1080/20473869.2026.2690623",
-      "url": "https://doi.org/10.1080/20473869.2026.2690623",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     }
   ]
 }
