@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:29:22Z",
+  "generated_at": "2026-11-09T16:24:27Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -132,6 +132,23 @@
         "lived experience"
       ],
       "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
+    },
+    {
+      "id": "10.1007/s40489-026-00607-4",
+      "title": "Correction to: The Effectiveness of Dialogic Reading for Children with Disabilities: A Meta-Analysis of Single-Case Experimental Studies",
+      "authors": [
+        "Semra Omak",
+        "Emrah Gulboy",
+        "Uygar Bayrakdar"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-09",
+      "doi": "10.1007/s40489-026-00607-4",
+      "url": "https://doi.org/10.1007/s40489-026-00607-4",
+      "neurotype": [
+        "Autism"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07606-8",
@@ -2952,6 +2969,25 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -2970,25 +3006,6 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
-    },
-    {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -9526,24 +9543,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -9563,6 +9562,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -11981,111 +11998,6 @@
       ],
       "abstract": "Abstract Purpose Adaptive educational technologies are increasingly used to support emotional engagement in students with autism spectrum disorder (ASD), yet their overall effectiveness remains uncertain. This meta-analysis aimed to estimate the impact of adaptive technologies on emotional engagement outcomes and to examine methodological and study-level moderators. Methods Fourteen independent samples from 14 studies published between 2011 and 2024 were included, comprising 524 participants aged 4–17 years ( M age = 10.6, SD = 2.9; 21.7% female). Results Random-effects models with restricted maximum-likelihood (REML) estimation were used to calculate pooled effect sizes. The overall pooled effect size was Hedges’ g = 0.47 (95% CI 0.36–0.58), reflecting a moderate positive effect of adaptive technologies on emotional engagement. Significant heterogeneity was observed (I 2 = 69.22%), and moderator analyses indicated that intervention type (e.g., VR/AR vs. gamified or tablet-based platforms) significantly influenced outcomes ( p = .049). Effect sizes were highest for VR/AR-based tools ( g = 0.53). No significant differences emerged by age, geographical region, or study design. Studie…",
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07434-w",
-      "title": "Using Behavioral Skills Training to Teach Caregivers to Implement Mand Training With Their Children With Autism Spectrum Disorders: A Systematic Review of the Single Case Research",
-      "authors": [
-        "Miguel E. Ampuero",
-        "Savannah J. Courtenay"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-11",
-      "doi": "10.1007/s10803-026-07434-w",
-      "url": "https://doi.org/10.1007/s10803-026-07434-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Abstract Purpose This review investigated the efficacy of behavioral skills training (BST) when training caregivers to teach mand skills to their children with autism. Additionally, this review evaluated aspects of BST to increase its efficacy and time efficiency. This review addressed five questions: (1) what are the effects of BST when teaching caregivers to implement procedures to teach manding skills to their children with autism? (2) do caregiver-implemented procedures produce maintenance and generalization of communicative responses by their children? (3) what are the effects of booster training? (4) what is the BST training time or sessions to mastery reported across studies to reach optimal performance by caregivers? and (5) what are the settings in which BST training was delivered to caregivers? Method Using academic databases (PsychINFO, ERIC), this review assessed peer-reviewed articles that evaluated BST to train caregivers to implement communication procedures using single-case designs. The initial search resulted in 1,394 articles. Results 14 studies met inclusion criteria in this review. Conclusion Results suggested the efficacy of BST procedures during the training…",
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1007/s10803-026-07409-x",
-      "title": "Unmasking: A Mixed-Methods Study of Autistic College Students’ Efforts to Stop Masking/Camouflaging",
-      "authors": [
-        "Deanna L. Durben"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-11",
-      "doi": "10.1007/s10803-026-07409-x",
-      "url": "https://doi.org/10.1007/s10803-026-07409-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Autistic individuals often mask/camouflage to conceal their autistic traits, but this practice is stressful and damaging to mental health. Unmasking, a newly identified phenomenon, is the deliberate effort to stop masking and reclaim a more authentic self-presentation. This study is the first to examine autistic people’s experiences with unmasking and its mental health implications. Methods Interviews ( n = 14) and surveys ( n = 214) examined autistic college students’ understanding of unmasking, experiences and motivations, and impacts on mental health. Results The majority of participants in both samples had heard of unmasking, and half had tried it. Interviewees showed substantial variation in ability and willingness to unmask. Unmasking was difficult-to-impossible when masking was highly ingrained, as deconstructing masking repertoires and rediscovering their “true selves” was challenging. Unmasking relieved stress from masking and increased authenticity, but also created worries that revealing a more autistic self-presentation would garner social backlash, unless supported by friends or other unmaskers. Survey respondents’ unmasking frequency was overall low,…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261462070",
-      "title": "Defining Autistic Flourishing: Exploring Lived Experiences through a Neurodivergent Lens",
-      "authors": [
-        "Åsa Hedlund",
-        "Therese Lindström",
-        "Sven Bölte",
-        "Melissa H. Black",
-        "Tatja Hirvikoski",
-        "Kajsa Isakson",
-        "Danielle Unéus",
-        "Cecilia Ingard",
-        "Jonas Wik",
-        "Hanna Bertilsdotter Rosqvist"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-07-11",
-      "doi": "10.1177/25739581261462070",
-      "url": "https://doi.org/10.1177/25739581261462070",
-      "neurotype": [
-        "Autism"
-      ],
-      "tags": [
-        "lived experience",
-        "participatory"
-      ],
-      "abstract": "Background: Autism has historically been conceptualized in ways that exclude the possibility of flourishing or a “good life.” However, shifts in our understanding of autism, alongside a more recent discourse driven primarily by the voices of autistic people, have highlighted that many autistic people can flourish according to their subjectively determined standards. The application of neuronormative ideas of what it means to live a good life is increasingly challenged. This study, led by neurodivergent researchers, examines autistic flourishing from the perspective of autistic adults. Methods: This co-produced phenomenological study sought to explore autistic perspectives on flourishing. We interviewed a total of 29 autistic adults one to four times each, either through focus groups, individual oral interviews, or written responses. We analyzed the interview data using qualitative reflexive thematic analysis. Results: Participants described their definitions of flourishing, both short and long terms. They included personal growth, connection, and self-determination, as well as opportunities for experiencing pleasure. Based on the insights of autistic adults, we understand autistic…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/25739581261462082",
-      "title": "Validating the Academic Learning Experiences Questionnaire: Microtransitions, Sensory Reactivity, and Cognitive-Attentional Dimensions in Autistic University Students",
-      "authors": [
-        "Sophie Anns",
-        "Clare Davis",
-        "Jess Millington",
-        "Jenny Terry"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-07-11",
-      "doi": "10.1177/25739581261462082",
-      "url": "https://doi.org/10.1177/25739581261462082",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Sensory environment"
-      ],
-      "tags": [
-        "access",
-        "sensory"
-      ],
-      "abstract": "Background: The number of autistic students entering higher education (HE) has increased, yet many continue to face systemic barriers that can hinder their academic success. Despite their unique cognitive strengths, such as hyperfocus, attention to detail, and strong analytical skills, many autistic students report challenges with academic learning experiences. This study aimed to develop and validate the Academic Learning Experiences Questionnaire (ALEQ), a tool designed to assess specific learning experiences and inform autism-inclusive educational practices. Methods: We cocreated the ALEQ with autistic and nonautistic students to assess learning experiences across five academic contexts: small and large group teaching, examinations, coursework, and self-directed study. A total of 829 university students (formally diagnosed autistic: n = 106; self-diagnosed autistic: n = 112; nonautistic: n = 611) completed an online survey comprising the ALEQ and an autism screening measure (Social Responsiveness Scale-2). To establish the ALEQ’s psychometric properties, we conducted exploratory and confirmatory factor analyses and tested for measurement invariance between the autistic and nonau…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
