@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:24:27Z",
+  "generated_at": "2026-11-10T14:56:14Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -132,6 +132,131 @@
         "lived experience"
       ],
       "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
+    },
+    {
+      "id": "10.1007/s10803-026-07594-9",
+      "title": "Do Autistic Children Have Empathy? Perspectives From Non-Autistic Perceivers and the Role of Their Understanding About Autism",
+      "authors": [
+        "Wing-Chee So",
+        "Xiao-Han Li"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-10",
+      "doi": "10.1007/s10803-026-07594-9",
+      "url": "https://doi.org/10.1007/s10803-026-07594-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "abstract": "Abstract Purpose In contrast to the deficit-based approach, the double empathy problem (DEP) theory asserts that empathy functions bidirectionally, with interaction challenges stemming from differing expectations across individuals. This study aimed to examine how non-autistic individuals interpret the reactions of autistic and non-autistic children. Methods We provided 61 non-autistic adult perceivers with 301 transcripts of speech substance from 82 autistic and non-autistic children, who answered questions evaluating cognitive empathy, affective empathy, and proposed responses across various emotional states. Adult perceivers rated children’s responses on a scale of 1–5 (from lowest to highest) about the child’s ability to understand emotions, empathize with those emotions, and suggest suitable prosocial responses. Their understanding of autism, autism-related traits, and previous interactions with autistic individuals were also examined. Results Our findings indicated adults assigned lower ratings to the empathetic responses of autistic children compared to those of non-autistic children. Individuals with a deeper understanding of autism, grounded in the medical paradigm, demons…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07600-0",
+      "title": "Gesture, Not Speech, Distinguishes Autistic and Neurotypical Children’s Narratives Across Toy and Human Listener Contexts",
+      "authors": [
+        "Armita Ghobadi",
+        "Stephanie Durrleman"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-10",
+      "doi": "10.1007/s10803-026-07600-0",
+      "url": "https://doi.org/10.1007/s10803-026-07600-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Abstract Purpose Toy- and play-based interactions are used in developmental, educational, and clinical settings to promote engagement and reduce social demands. Whether autistic and neurotypical children adapt speech and gesture across listener contexts remains unclear. We examined multimodal narratives addressed to toy or human listeners by diagnosis. Methods Fifty-two children (28 autistic: Mage = 106.50 months, SD = 30.88; 24 neurotypical: Mage = 85.04 months, SD = 28.25) completed a task based on the ADOS-2 Monkey Story. Speech and gesture amount, diversity, and complexity were analyzed using negative binomial and linear regression with robust standard errors, controlling for age and nonverbal IQ. Results Neither diagnosis nor listener type predicted speech production. Age was associated with greater lexical diversity but not speech amount or mean utterance length. In the human-listener condition, autistic children produced more complex gesture–speech combinations than neurotypical children. Gesture amount showed a trend-level diagnosis effect ( p = 0.053), whereas gesture diversity did not differ reliably. Among autistic children, listener type was unrelated to speech or gestu…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07603-x",
+      "title": "Pilot Randomized Trial Testing the Feasibility and Outcomes of a Paraprofessional-Delivered After-School Social Intervention for Autistic Children",
+      "authors": [
+        "Christopher Lopata",
+        "Marcus L Thomeer",
+        "Jonathan D Rodgers",
+        "James P Donnelly"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-10",
+      "doi": "10.1007/s10803-026-07603-x",
+      "url": "https://doi.org/10.1007/s10803-026-07603-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07596-7",
+      "title": "When Eating Organizes the Day: Food Chronocare Among Socioeconomically Vulnerable Families of Children and Adolescents With Autism and Other Neurodevelopmental Conditions in Northeastern Brazil",
+      "authors": [
+        "Paula Celly Aguiar Santos",
+        "Maycon da Silva Lidio",
+        "Heewon L. Gray",
+        "Maria da Conceição dos Santos Oliveira Cunha",
+        "Kellen Cristina da Silva Gasque",
+        "Márcio Flávio Moura de Araújo"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-10",
+      "doi": "10.1007/s10803-026-07596-7",
+      "url": "https://doi.org/10.1007/s10803-026-07596-7",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Sensory environment"
+      ],
+      "tags": [
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Abstract Purpose To understand, within the analytical scope of this article, how parents and caregivers organize and interpret the eating rhythms of children and adolescents with autism spectrum disorder (ASD) and/or attention-deficit/hyperactivity disorder (ADHD) in relation to sleep, school, medication, behavior, sensory needs, and food selectivity. Methods An explanatory sequential mixed methods study was conducted in three municipalities in northeastern Brazil. The quantitative phase included 128 families of children and adolescents with ASD and/or ADHD, including co-occurring conditions. The qualitative phase included interviews with 35 parents or primary caregivers representing 37 children and adolescents, analyzed through an interpretive thematic approach. Findings were integrated to examine convergences, complementarities, and mixed-methods interpretations. Results Ninety-four participants (73.4%) presented four or more of eight caregiver-reported food selectivity manifestations. A higher manifestation burden was associated with the need for help or supervision during meals (adjusted prevalence ratio [aPR] = 1.43; 95% confidence interval [CI]: 1.10–1.87), sleep difficulties…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261500520",
+      "title": "Autism Diagnoses Before and After Pregnancy: A Retrospective Population-Based Cohort Study in Ontario, Canada",
+      "authors": [
+        "Hilary K. Brown",
+        "Yona Lunsky",
+        "Anne Berndl",
+        "Aditi Patrikar",
+        "Yani Hamdani",
+        "Meng-Chuan Lai",
+        "Natasha R. Saunders",
+        "Ami Tint",
+        "Jonathan A. Weiss",
+        "Simone N. Vigod",
+        "Monika Mitra"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-10",
+      "doi": "10.1177/13623613261500520",
+      "url": "https://doi.org/10.1177/13623613261500520",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Few studies have examined the reproductive health of autistic girls and women. We undertook a descriptive retrospective population-based cohort study in Ontario, Canada, 2004 to 2023. Among first pregnancies, we (a) estimated the proportion occurring in autistic individuals, (b) examined the distribution of autism diagnoses before, during and after pregnancy and (c) described the preconception characteristics of childbearing autistic individuals based on timing of diagnosis. Autism was identified using a validated algorithm before, during and after pregnancy, the latter until 2024. Preconception socio-demographic and clinical characteristics were compared in each autism diagnosis timing group with nonautistic individuals using descriptive statistics. There were 1,148,470 first pregnancies, of which 1,086 (0.09%) were to autistic individuals. Among autistic individuals, 64.3% had their first diagnosis recorded before conception, 3.3% during pregnancy and 32.4% after delivery. Compared with nonautistic individuals, autistic individuals, regardless of the timing of diagnosis, were younger and more likely to live in low-income neighbourhoods, be long-term Canadian residents and experie…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s40489-026-00607-4",
@@ -314,6 +439,23 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07590-z",
+      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
+      "authors": [
+        "Abdullah Ahmed Almulla",
+        "Mohamad Ahmad Saleem Khasawneh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07590-z",
+      "url": "https://doi.org/10.1007/s10803-026-07590-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07607-7",
       "title": "Socioeconomic Hardship and Cumulative Adverse Experiences in Relation to Anxiety and Depression in Autistic Children: Exploring the Role of Physical Activity",
       "authors": [
@@ -329,23 +471,6 @@
       ],
       "domains": [
         "Mental health"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07590-z",
-      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
-      "authors": [
-        "Abdullah Ahmed Almulla",
-        "Mohamad Ahmad Saleem Khasawneh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-11-05",
-      "doi": "10.1007/s10803-026-07590-z",
-      "url": "https://doi.org/10.1007/s10803-026-07590-z",
-      "neurotype": [
-        "Autism"
       ],
       "framing": "Neurodiversity-informed"
     },
@@ -9543,6 +9668,24 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -9562,24 +9705,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
