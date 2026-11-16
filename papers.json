@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:57:49Z",
+  "generated_at": "2026-11-16T15:50:50Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -132,6 +132,199 @@
         "lived experience"
       ],
       "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
+    },
+    {
+      "id": "10.1007/s10803-026-07617-5",
+      "title": "The Feasibility, Acceptability, and Preliminary Efficacy of Self-Help Mindful Parenting Intervention for Mothers of Children With Autism Spectrum Disorder and Developmental Delay in China: A Multicenter Feasibility Trial",
+      "authors": [
+        "Xunqi Zhang",
+        "Pingping Lyu",
+        "Naixue Cui"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1007/s10803-026-07617-5",
+      "url": "https://doi.org/10.1007/s10803-026-07617-5",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1007/s10803-026-07615-7",
+      "title": "Perceived Health in Mothers of Children With Neuropsychiatric Conditions: The Role of PTSS From Child-Related Trauma",
+      "authors": [
+        "Yael Lahav",
+        "Anat Shalev",
+        "Lee Gafter"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1007/s10803-026-07615-7",
+      "url": "https://doi.org/10.1007/s10803-026-07615-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07612-w",
+      "title": "Validation and Likelihood-Ratio Calibration of the Italian Ritvo Autism Asperger Diagnostic Scale–Revised (RAADS-R)",
+      "authors": [
+        "Carla Tortora",
+        "Marta Panzeri",
+        "Lucia Ronconi",
+        "Arianna Gasparini",
+        "Davide Moscone",
+        "David Vagni"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1007/s10803-026-07612-w",
+      "url": "https://doi.org/10.1007/s10803-026-07612-w",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1177/13623613261498478",
+      "title": "Everyday Sensory Experiences of Autistic University Students in Australia: An Experience Sampling Approach",
+      "authors": [
+        "Patrick Dwyer",
+        "Laura T. Broadbent",
+        "Max Bower",
+        "Sarah Curtis",
+        "Caden Hariz",
+        "Keira Plozza",
+        "Elizabeth Briese",
+        "Katy Unwin"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1177/13623613261498478",
+      "url": "https://doi.org/10.1177/13623613261498478",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Sensory environment",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Sensory differences and discomfort are significant on-campus barriers for many autistic postsecondary students, but we know relatively little about what makes sensory environments accessible or inaccessible for autistic students. In this study, 19 autistic university students in Australia answered experience sampling questions thrice daily for 2 weeks. Quantitative sensory comfort ratings were significantly poorer when participants reported states of greater anxiety, irritability, emotional reactivity and exhaustion. Participants also reported more quantitative sensory discomfort when open-ended answers described feeling tired/exhausted, anxious or stressed/overwhelmed, rather than feeling relaxed/good. Our study cannot resolve the causality of these relationships. Notably, however, between-person trait differences in anxiety, irritability and exhaustion were not statistically related to sensory comfort. Qualitative-quantitative triangulation suggested that participants experienced less sensory comfort: in open-access spaces (notably, on campus, travelling and shopping) compared to closed-access spaces (notably, at home); to high-intensity (e.g., loud) than low-intensity (e.g., qui…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261500528",
+      "title": "Data Sharing in Autism Research: Case Studies From the United States and the United Kingdom and Recommendations for Practice",
+      "authors": [
+        "Aimee Grant",
+        "Rebecca Ellis",
+        "Harriet Axbey",
+        "Ami Nisa",
+        "Krysia Emily Waldock",
+        "Amy Brown",
+        "Katherine E. McDonald",
+        "Kelly B. Beck",
+        "Maya Sabatello",
+        "Ian Moura",
+        "Anne V. Kirby",
+        "Elizabeth Rutenberg",
+        "Kaitlyn E. Breitenfeldt",
+        "Kathryn Williams",
+        "Monique Craine",
+        "Abigail Wilkins",
+        "Selena Caemawr",
+        "Willow Holloway",
+        "Madeleine Sinfield",
+        "Kay Ribbons-Steen",
+        "Dora M. Raymaker",
+        "Rachel Kripke-Ludwig",
+        "Mary Baker-Ericzén",
+        "Joseph Vera",
+        "Christina Nicolaidis"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1177/13623613261500528",
+      "url": "https://doi.org/10.1177/13623613261500528",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience",
+        "participatory"
+      ],
+      "abstract": "Data sharing has become common in Autism research. In the context of a history of eugenics, additional risks are present, including re-identification, misinterpretation and deficit-framing of Autism. We, a group of community members and researchers, aimed to (a) describe our ‘opt-in’ data-sharing approach in two Community-Based Participatory Research studies based in the United States (AASPIRE Outcomes Project) and the United Kingdom (Autism from Menstruation to Menopause; AM2M), (b) report on how many people opted to data share and (c) co-develop recommendations for ethical data sharing in Autism research. In the AASPIRE Outcomes Project, 680 of 870 (78.2%) participants opted to share quantitative survey data, with no differences by demographic, disability, or health characteristics. In AM2M, 36 of 100 (36.0%) participants opted to share longitudinal qualitative data, with significant variation when controlling for family-wise error rate by menopause status ( p = .007). We provide recommendations for ethical data sharing in Autism research, directed at governments, policy makers, research funders, data repositories, ethics boards and researchers. We favour approaches that centre a…"
+    },
+    {
+      "id": "10.1177/13623613261502235",
+      "title": "Preliminary Investigation of Workplace Predictors of Job Turnover Among Autistic Adults: A 12-Month Follow-Up Study",
+      "authors": [
+        "Julie Lounds Taylor",
+        "Carly Moser",
+        "Eman Durrani",
+        "Timothy J. Vogus",
+        "Leann Smith DaWalt"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1177/13623613261502235",
+      "url": "https://doi.org/10.1177/13623613261502235",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Employment"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Though the difficulties faced by autistic adults in obtaining employment are well-documented, little is known about job retention in this group. The present study fills this gap by examining the frequency of job turnover over 12 months for autistic adults with community employment and investigating work- and workplace-related predictors of turnover. Two waves of data, separated by 12 months, were collected from 83 autistic adults as part of a larger longitudinal study. Information about current community employment and changes in employment since Wave 1 was collected via interview. Surveys at Wave 1 included measures of perceived workplace climate and job satisfaction. Bivariate logistic regression models were used to examine whether job satisfaction, perceived workplace climate, or structural aspects of jobs (hours, pay) at Wave 1 predicted turnover. Just over one-third (37%) of participants experienced turnover in their primary job during this period. A less positive workplace climate and lower satisfaction with pay and opportunities for promotion predicted a higher likelihood of turnover. Results suggest that a supportive workplace climate, as well as pay and opportunities for p…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261507530",
+      "title": "Preliminary Development and Psychometric Properties of the Index of Neurodiversity-Affirming Psychological Practice",
+      "authors": [
+        "Simon M. Bury",
+        "Mirko Uljarević",
+        "Charlotte O’Brien",
+        "Darren Hedley",
+        "Rebecca L. Flower",
+        "Rachel Jellett"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1177/25739581261507530",
+      "url": "https://doi.org/10.1177/25739581261507530",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Background: Autistic adults frequently report negative experiences in mental health services. Neurodiversity-affirming practice has emerged as a framework for providing respectful, lived-experience-informed, and client-centered psychological care. However, no validated client-report measure of neurodiversity-affirming psychological practice currently exists, limiting the evaluation of this approach. In this study, we developed and examined the preliminary psychometric properties of a new measure, the Index of Neurodiversity-Affirming Psychological Practice (iNAPP). Methods: In line with the Patient-Reported Outcomes Measurement Information System measure development principles, we derived iNAPP items from a prior Delphi study involving Autistic adults, Autistic psychologists, and non-autistic psychologists. Measure development included consultation with an Autistic advisory panel, cognitive interviews with Autistic adults ( n = 6), pilot testing ( n = 40), and large-scale validation with Autistic adults currently engaged in psychological therapy ( n = 373). Results: We used Exploratory Structural Equation Modeling to evaluate the factor structure. The final model demonstrated excel…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/25739581261506010",
@@ -1518,6 +1711,26 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
+    },
+    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -1542,26 +1755,6 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-11-01",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/13623613261480174",
