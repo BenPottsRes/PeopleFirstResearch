@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:04:08Z",
+  "generated_at": "2026-11-18T15:41:57Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -134,6 +134,53 @@
       "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
     },
     {
+      "id": "10.1007/s10803-026-07576-x",
+      "title": "Limited Efficacy of Cannabidiol on Adaptive Functioning in Boys with Profound Autism",
+      "authors": [
+        "Hannah Oppenheim",
+        "Anya Umlauf",
+        "David Grelotti",
+        "Igor Grant",
+        "Doris Trauner"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-18",
+      "doi": "10.1007/s10803-026-07576-x",
+      "url": "https://doi.org/10.1007/s10803-026-07576-x",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose This study examined the effect of cannabidiol (CBD) on adaptive functioning in boys with autism and severe cognitive and behavioral challenges using the Vineland Adaptive Behavior Scales, Third Edition (VABS-3). Methods Primary outcome measures for a randomized, double-blind study of purified CBD and placebo are available online (Trauner et al., 2025). We now present results of a secondary outcome measure of adaptive functioning in a longitudinal design before and after treatment with CBD or placebo. Raw scores were analyzed after noting a floor effect of standard scores. Results No significant differences in adaptive functioning, except for motor skills, were found between CBD- and placebo-treated participants after 8 weeks of treatment. When compared to its immediate pre-treatment baseline, CBD (but not placebo) was associated with improvement in raw scores for Receptive and Written communication and showed near-significant improvement in Expressive Communication and Personal Skills. When compared to its immediate pre-treatment baseline, placebo was associated with improvement in Community and worsening of Motor Skills raw scores. There was a significant differen…"
+    },
+    {
+      "id": "10.1080/20473869.2026.2764315",
+      "title": "A behavior-analytic sexuality education intervention for adolescents and a young adult with autism spectrum disorder: a multiple-baseline single-case experimental study",
+      "authors": [
+        "Georgios Gkogkos",
+        "Petros Galanis",
+        "Angeliki Gena"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-11-18",
+      "doi": "10.1080/20473869.2026.2764315",
+      "url": "https://doi.org/10.1080/20473869.2026.2764315",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1007/s10803-026-07608-6",
       "title": "Growing Through Challenge: Attitudes Towards Autism Mediate the Li​nk Between Caregiving Strain and Personal Growth in Mother​s",
       "authors": [
@@ -266,41 +313,6 @@
       ]
     },
     {
-      "id": "10.1177/13623613261498478",
-      "title": "Everyday Sensory Experiences of Autistic University Students in Australia: An Experience Sampling Approach",
-      "authors": [
-        "Patrick Dwyer",
-        "Laura T. Broadbent",
-        "Max Bower",
-        "Sarah Curtis",
-        "Caden Hariz",
-        "Keira Plozza",
-        "Elizabeth Briese",
-        "Katy Unwin"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-11-16",
-      "doi": "10.1177/13623613261498478",
-      "url": "https://doi.org/10.1177/13623613261498478",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Mental health",
-        "Sensory environment",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Sensory differences and discomfort are significant on-campus barriers for many autistic postsecondary students, but we know relatively little about what makes sensory environments accessible or inaccessible for autistic students. In this study, 19 autistic university students in Australia answered experience sampling questions thrice daily for 2 weeks. Quantitative sensory comfort ratings were significantly poorer when participants reported states of greater anxiety, irritability, emotional reactivity and exhaustion. Participants also reported more quantitative sensory discomfort when open-ended answers described feeling tired/exhausted, anxious or stressed/overwhelmed, rather than feeling relaxed/good. Our study cannot resolve the causality of these relationships. Notably, however, between-person trait differences in anxiety, irritability and exhaustion were not statistically related to sensory comfort. Qualitative-quantitative triangulation suggested that participants experienced less sensory comfort: in open-access spaces (notably, on campus, travelling and shopping) compared to closed-access spaces (notably, at home); to high-intensity (e.g., loud) than low-intensity (e.g., qui…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/13623613261500528",
       "title": "Data Sharing in Autism Research: Case Studies From the United States and the United Kingdom and Recommendations for Practice",
       "authors": [
@@ -343,6 +355,41 @@
         "participatory"
       ],
       "abstract": "Data sharing has become common in Autism research. In the context of a history of eugenics, additional risks are present, including re-identification, misinterpretation and deficit-framing of Autism. We, a group of community members and researchers, aimed to (a) describe our ‘opt-in’ data-sharing approach in two Community-Based Participatory Research studies based in the United States (AASPIRE Outcomes Project) and the United Kingdom (Autism from Menstruation to Menopause; AM2M), (b) report on how many people opted to data share and (c) co-develop recommendations for ethical data sharing in Autism research. In the AASPIRE Outcomes Project, 680 of 870 (78.2%) participants opted to share quantitative survey data, with no differences by demographic, disability, or health characteristics. In AM2M, 36 of 100 (36.0%) participants opted to share longitudinal qualitative data, with significant variation when controlling for family-wise error rate by menopause status ( p = .007). We provide recommendations for ethical data sharing in Autism research, directed at governments, policy makers, research funders, data repositories, ethics boards and researchers. We favour approaches that centre a…"
+    },
+    {
+      "id": "10.1177/13623613261498478",
+      "title": "Everyday Sensory Experiences of Autistic University Students in Australia: An Experience Sampling Approach",
+      "authors": [
+        "Patrick Dwyer",
+        "Laura T. Broadbent",
+        "Max Bower",
+        "Sarah Curtis",
+        "Caden Hariz",
+        "Keira Plozza",
+        "Elizabeth Briese",
+        "Katy Unwin"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1177/13623613261498478",
+      "url": "https://doi.org/10.1177/13623613261498478",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Sensory environment",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Sensory differences and discomfort are significant on-campus barriers for many autistic postsecondary students, but we know relatively little about what makes sensory environments accessible or inaccessible for autistic students. In this study, 19 autistic university students in Australia answered experience sampling questions thrice daily for 2 weeks. Quantitative sensory comfort ratings were significantly poorer when participants reported states of greater anxiety, irritability, emotional reactivity and exhaustion. Participants also reported more quantitative sensory discomfort when open-ended answers described feeling tired/exhausted, anxious or stressed/overwhelmed, rather than feeling relaxed/good. Our study cannot resolve the causality of these relationships. Notably, however, between-person trait differences in anxiety, irritability and exhaustion were not statistically related to sensory comfort. Qualitative-quantitative triangulation suggested that participants experienced less sensory comfort: in open-access spaces (notably, on campus, travelling and shopping) compared to closed-access spaces (notably, at home); to high-intensity (e.g., loud) than low-intensity (e.g., qui…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261502235",
@@ -1121,23 +1168,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07590-z",
-      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
-      "authors": [
-        "Abdullah Ahmed Almulla",
-        "Mohamad Ahmad Saleem Khasawneh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-11-05",
-      "doi": "10.1007/s10803-026-07590-z",
-      "url": "https://doi.org/10.1007/s10803-026-07590-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07607-7",
       "title": "Socioeconomic Hardship and Cumulative Adverse Experiences in Relation to Anxiety and Depression in Autistic Children: Exploring the Role of Physical Activity",
       "authors": [
@@ -1153,6 +1183,23 @@
       ],
       "domains": [
         "Mental health"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07590-z",
+      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
+      "authors": [
+        "Abdullah Ahmed Almulla",
+        "Mohamad Ahmad Saleem Khasawneh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07590-z",
+      "url": "https://doi.org/10.1007/s10803-026-07590-z",
+      "neurotype": [
+        "Autism"
       ],
       "framing": "Neurodiversity-informed"
     },
@@ -1508,29 +1555,6 @@
         "Autism"
       ],
       "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07445-7",
-      "title": "Correction: Antipsychotic Drug Prescriptions for Transition-Age Youth on the Autism Spectrum",
-      "authors": [
-        "Teal W. Benevides",
-        "Jessica Rast",
-        "Brian Lee",
-        "Kristy Anderson",
-        "Jonas Ventimiglia",
-        "Jennifer E. Jaremski",
-        "Jennifer Poon",
-        "Edward S. Brodkin",
-        "Lindsay Shea"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-11-01",
-      "doi": "10.1007/s10803-026-07445-7",
-      "url": "https://doi.org/10.1007/s10803-026-07445-7",
-      "neurotype": [
-        "Autism"
-      ]
     },
     {
       "id": "10.1177/13623613261493269",
@@ -2158,6 +2182,213 @@
         "Quality of life"
       ],
       "abstract": "Introduction: Many parents of children with attention-deficit/hyperactivity disorder (ADHD) experience mental health challenges that may hinder engagement in behavioral parent training. This pilot randomized trial evaluated the feasibility and acceptability, and explored preliminary parent-related outcomes, of Parental Friendship Coaching+ (PFC+). PFC+ is an engagement-enhanced adaptation of Parental Friendship Coaching (PFC) for parents with elevated ADHD and/or depressive symptoms raising children with ADHD and peer difficulties. PFC trains parents to support their child’s friendships through social coaching. Method: Thirty-three Canadian parents ( M age = 38.9 years; 97% mothers) were randomized to 6 weeks of PFC+ ( n = 18) or waitlist control ( n = 15). Afterward, control parents received PFC+, while PFC+ parents entered naturalistic follow-up. PFC+ included participation-enhancing adaptations (e.g., one-time workshop, flexible coaching, online delivery) and connection-promoting adaptations (e.g., extended intake, treatment menu, peer-pairing). Results: On primary outcomes of treatment engagement, session completion was 97%, homework adherence averaged 81%, and alliance ratings…"
+    },
+    {
+      "id": "10.1002/aur.70378",
+      "title": "Characterizing Autism Phenotype Onset in the Electronic Health Records to Enable Age‐Specific Screening",
+      "authors": [
+        "Fangyi Chen",
+        "Jerard Kneifati‐Hayek",
+        "Charlotte Zelin",
+        "Da Wu",
+        "Quan M. Nguyen",
+        "Casey N. Ta",
+        "Cong Liu",
+        "Kai Wang",
+        "Wendy K. Chung",
+        "Chunhua Weng"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1002/aur.70378",
+      "url": "https://doi.org/10.1002/aur.70378",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Healthcare",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Autism exhibits substantial phenotypic heterogeneity, yet age‐dependent variation in phenotypic profiles and onset timing remains poorly understood. We aimed to characterize stage‐specific phenotypes and temporal onset patterns of autism using longitudinal electronic health records (EHRs). We analyzed EHR data from Columbia University Irving Medical Center. Autism cases were stratified by age at diagnosis. Phenotype enrichment analyses were performed using chi‐square and Fisher's exact tests to identify phenotypes overrepresented in autism cases compared with matched controls, and temporal patterns of phenotype onset were subsequently evaluated to identify stage‐specific clinical signatures and provide insight into differences between early‐ and late‐diagnosed individuals. Among 4818 cases and 1433 phenotypes, 195 and 155 were enriched in toddlerhood and adolescence groups. Early diagnosed individuals exhibited a higher prevalence of sensory‐related conditions, greater exposure to maternal and perinatal complications than their matched controls (all ORs &gt; 1; p &lt; 0.01), and earlier onset of neurologic features, including coordination abnormalities and convulsions, com…"
+    },
+    {
+      "id": "10.1002/aur.70376",
+      "title": "Screening Without Access: The Missing Companion to Neurodevelopmental Waiting‐Time Targets",
+      "authors": [
+        "Yana Lobo da Rosa Pallaoro",
+        "Katherine Tramontin",
+        "Yasmin Lopes",
+        "Muriel Terra Pizzutti dos Santos",
+        "Vitória Vicenzi",
+        "Ana Beatriz Aydar Nogueira Cervantes Santos"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1002/aur.70376",
+      "url": "https://doi.org/10.1002/aur.70376",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ]
+    },
+    {
+      "id": "10.1002/aur.70374",
+      "title": "Self‐ and Caregiver‐Reported Choice‐Making in Autistic Adults: Development and Validation of the\n                    <scp>AASPIRE</scp>\n                    –Choices and Decisions Scale",
+      "authors": [
+        "So Yoon Kim",
+        "Kristen Gillespie‐Lynch",
+        "Steven K. Kapp",
+        "Liu‐Qin Yang",
+        "Anna “Furra” Wallington",
+        "Dora M. Raymaker",
+        "Ian Moura",
+        "Katherine McDonald",
+        "Joelle Maslak",
+        "Rachel Kripke‐Ludwig",
+        "Andrea Joyce",
+        "Willi Horner‐Johnson",
+        "Emanuel Frowner",
+        "Mary Baker‐Ericzén",
+        "Christina Nicolaidis"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1002/aur.70374",
+      "url": "https://doi.org/10.1002/aur.70374",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "communication",
+        "participatory"
+      ],
+      "abstract": "ABSTRACT Self‐determination has been assessed as an internal psychological construct. External factors may also affect self‐determination, but opportunities to make choices and decisions remain understudied. We developed and evaluated the AASPIRE‐Choices and Decisions Scale (AASPIRE‐CDS), a new measure of autistic adults' opportunities to make choices and decisions, using a community‐based participatory approach. We created and refined the AASPIRE‐CDS through an iterative process. Data from the AASPIRE Outcomes Project included 839 autistic adults participating through direct report, direct‐report caregiver‐supported, and caregiver report (CR). Exploratory and confirmatory analyses supported a unidimensional structure. Measurement invariance analyses supported configural, metric, and partial scalar invariance across report type without CR, and across living status, with and without CR. The AASPIRE‐CDS showed high internal consistency, test–retest reliability, and preliminary responsiveness to change over time. Convergent validity analyses showed that higher AASPIRE‐CDS scores were associated with greater self‐determination and communication fluency, more independent living, and few…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70372",
+      "title": "Sensory Processing, Executive Functions, and Adaptive Behavior in Preschool and School‐Age Autistic Children: The Role of Intellectual Functioning",
+      "authors": [
+        "Marinella Zingale",
+        "Francesco Domenico Di Blasi",
+        "Santina Città",
+        "Serafino Buono",
+        "Raffaele Ferri"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1002/aur.70372",
+      "url": "https://doi.org/10.1002/aur.70372",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Sensory environment"
+      ],
+      "tags": [
+        "sensory"
+      ],
+      "abstract": "ABSTRACT Sensory processing differences in autism spectrum disorder are core features often linked to executive dysfunction and reduced adaptive behavior. However, the extent to which executive functioning (EF) explains the relationship between sensory processing and adaptive behavior beyond intellectual functioning remains unclear. This study examined relationships among sensory processing, executive functioning, adaptive behavior, and IQ in 200 autistic children divided into preschool ( n = 90) and school‐age ( n = 110) cohorts. Caregivers completed the Sensory Processing Measure, the Behavior Rating Inventory of Executive Function, and the Adaptive Behavior Assessment System‐II. Multivariate analyses revealed significant main effects of developmental stage and IQ level on sensory profiles, with IQ showing the largest effect ( η 2 p = 0.202). While sensory difficulties consistently correlated with executive dysfunctions and lower adaptive functioning, multigroup structural equation modeling demonstrated that EF did not mediate the link between sensory processing and adaptive behavior after controlling for IQ ( p &gt; 0.05). Instead, IQ emerged as the primary direct predictor of d…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1002/aur.70370",
+      "title": "Recent Non‐Suicidal Self‐Injury in Autistic Adolescents and Adults: Characteristics, Clinical Correlates and Suicidal Thoughts and Behaviors",
+      "authors": [
+        "Safaa Eldeeb",
+        "Ligia Antezana",
+        "Caitlin M. Conner",
+        "Kelly B. Beck",
+        "Sarah E. Victor",
+        "Aliona Tsypes",
+        "Lori N. Scott",
+        "Carla A. Mazefsky"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1002/aur.70370",
+      "url": "https://doi.org/10.1002/aur.70370",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Non‐suicidal self‐injury (NSSI) is prevalent among autistic adolescents and adults, yet research on its clinical characteristics, functions, and association with suicidal thoughts and behaviors (STBs) in this population remains limited. This study compared these domains between autistic adolescents and adults with and without recent NSSI. 520 autistic adolescents and adults (260 with recent (past 6 months) NSSI; 260 age‐ and sex‐matched without recent NSSI group) completed measures of NSSI characteristics and functions, STBs, mental health, and autistic traits. Group comparisons were conducted with Benjamini‐Hochberg correction for multiple comparisons. The recent‐NSSI group demonstrated poorer psychological quality of life, lower self‐compassion, greater depression and anxiety, elevated autistic traits, and greater alexithymia and camouflaging than the no‐recent‐NSSI group. Lifetime passive suicidal thoughts, active suicidal thoughts, and suicide attempts were over four, five, and three times more likely in the recent‐NSSI group, respectively. All 36 participants who reported a recent suicide attempt occurred exclusively in the recent‐NSSI group. Regarding NSSI phenomenol…"
+    },
+    {
+      "id": "10.1002/aur.70366",
+      "title": "Sleep and Awake Bruxism in Children With Autism Spectrum Disorder: Associations With Sleep Indicators and Caregiver Mental Health",
+      "authors": [
+        "Thays Flavia Assis de Oliveira Melo",
+        "Marcela Carla Pereira do Nascimento",
+        "Ana Laura Vilela de Carvalho",
+        "Bruna Lopes Donato",
+        "Priscila Prosini",
+        "Mônica Vilela Heimer"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1002/aur.70366",
+      "url": "https://doi.org/10.1002/aur.70366",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare",
+        "Mental health",
+        "Quality of life"
+      ],
+      "abstract": "ABSTRACT Bruxism, a centrally mediated masticatory muscle activity, is highly prevalent in children with autism spectrum disorder (ASD), a population where research remains limited despite the condition's impact on sleep and quality of life. This study aimed to investigate the frequency of sleep and awake bruxism in children with ASD and analyze their associations with sleep indicators and caregiver mental health. This cross‐sectional study included 146 participants (4–18 years old) divided into two groups: 73 with an ASD diagnosis and 73 without ASD. Data were collected from questionnaires administered to caregivers (sociodemographic data, Sleep Disturbance Scale for Children [SDSC], and Depression, Anxiety, Stress Scale [DASS‐21]) and from children's clinical oral examinations. Clinically based sleep bruxism was more frequent in children with ASD, while awake bruxism predominated in the neurotypical group. Caregivers, mostly women, reported significantly higher levels of anxiety and depression in the ASD group ( p &lt; 0.05). In the ASD group, higher frequencies of sleep bruxism were observed among children with sleep‐onset and maintenance difficulties and among those whose careg…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1002/aur.70361",
+      "title": "Interval‐Based Aerobic Exercise and Behavioral Intervention for Sleep Disturbances in Children With Autism Spectrum Disorder: A Randomized Controlled Trial",
+      "authors": [
+        "Pin‐Tzu Lu",
+        "Chieh‐Yu Yang",
+        "Fang‐Yi Huang",
+        "Ying‐Chun Chen",
+        "Jung‐Chi Chang",
+        "Pou‐Leng Cheong",
+        "Yen‐Tzu Wu"
+      ],
+      "journal": "Autism Research",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1002/aur.70361",
+      "url": "https://doi.org/10.1002/aur.70361",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "abstract": "ABSTRACT Sleep disturbances affect 40%–80% of children with autism spectrum disorder (ASD) and are associated with impaired attention and daytime functioning. We conducted a preliminary randomized controlled trial to evaluate the effects of a short‐term interval‐based aerobic exercise combined with parent behavioral education (IAE–PBE) program on sleep and related outcomes in children with ASD and sleep disturbances. Twenty‐eight children were randomly assigned to either the IAE–PBE group or the parent behavioral education (PBE)‐only group for a 2‐week intervention. Sleep was assessed using actigraphy, and attention was evaluated using age‐appropriate Conners' Continuous Performance Tests. The primary outcome was sleep efficiency. Secondary outcomes included caregiver‐reported sleep disturbances, attention, autism‐related symptoms, and adaptive behavior. Compared with the PBE‐only group, the IAE–PBE group showed greater improvement in sleep efficiency (group × time interaction, p = 0.035; within‐group p = 0.026, Hedges' g = 0.89). Significant group × time interactions were also found for caregiver‐reported sleep disturbances ( p = 0.003) and perseverative responses on the attention…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07549-0",
@@ -3776,25 +4007,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -3813,6 +4025,25 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
+    },
+    {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -4448,39 +4679,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70378",
-      "title": "Characterizing Autism Phenotype Onset in the Electronic Health Records to Enable Age‐Specific Screening",
-      "authors": [
-        "Fangyi Chen",
-        "Jerard Kneifati‐Hayek",
-        "Charlotte Zelin",
-        "Da Wu",
-        "Quan M. Nguyen",
-        "Casey N. Ta",
-        "Cong Liu",
-        "Kai Wang",
-        "Wendy K. Chung",
-        "Chunhua Weng"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-10-11",
-      "doi": "10.1002/aur.70378",
-      "url": "https://doi.org/10.1002/aur.70378",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Autism exhibits substantial phenotypic heterogeneity, yet age‐dependent variation in phenotypic profiles and onset timing remains poorly understood. We aimed to characterize stage‐specific phenotypes and temporal onset patterns of autism using longitudinal electronic health records (EHRs). We analyzed EHR data from Columbia University Irving Medical Center. Autism cases were stratified by age at diagnosis. Phenotype enrichment analyses were performed using chi‐square and Fisher's exact tests to identify phenotypes overrepresented in autism cases compared with matched controls, and temporal patterns of phenotype onset were subsequently evaluated to identify stage‐specific clinical signatures and provide insight into differences between early‐ and late‐diagnosed individuals. Among 4818 cases and 1433 phenotypes, 195 and 155 were enriched in toddlerhood and adolescence groups. Early diagnosed individuals exhibited a higher prevalence of sensory‐related conditions, greater exposure to maternal and perinatal complications than their matched controls (all ORs &gt; 1; p &lt; 0.01), and earlier onset of neurologic features, including coordination abnormalities and convulsions, com…"
-    },
-    {
       "id": "10.1007/s10803-026-07540-9",
       "title": "Effects of Incorporating Horses into Occupational Therapy on Adrenocortical and Sympathetic Nervous System Reactivity and Regulation in Autistic Children: A Randomized Controlled Trial",
       "authors": [
@@ -4876,70 +5074,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70376",
-      "title": "Screening Without Access: The Missing Companion to Neurodevelopmental Waiting‐Time Targets",
-      "authors": [
-        "Yana Lobo da Rosa Pallaoro",
-        "Katherine Tramontin",
-        "Yasmin Lopes",
-        "Muriel Terra Pizzutti dos Santos",
-        "Vitória Vicenzi",
-        "Ana Beatriz Aydar Nogueira Cervantes Santos"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-10-07",
-      "doi": "10.1002/aur.70376",
-      "url": "https://doi.org/10.1002/aur.70376",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ]
-    },
-    {
-      "id": "10.1002/aur.70374",
-      "title": "Self‐ and Caregiver‐Reported Choice‐Making in Autistic Adults: Development and Validation of the\n                    <scp>AASPIRE</scp>\n                    –Choices and Decisions Scale",
-      "authors": [
-        "So Yoon Kim",
-        "Kristen Gillespie‐Lynch",
-        "Steven K. Kapp",
-        "Liu‐Qin Yang",
-        "Anna “Furra” Wallington",
-        "Dora M. Raymaker",
-        "Ian Moura",
-        "Katherine McDonald",
-        "Joelle Maslak",
-        "Rachel Kripke‐Ludwig",
-        "Andrea Joyce",
-        "Willi Horner‐Johnson",
-        "Emanuel Frowner",
-        "Mary Baker‐Ericzén",
-        "Christina Nicolaidis"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-10-06",
-      "doi": "10.1002/aur.70374",
-      "url": "https://doi.org/10.1002/aur.70374",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication",
-        "participatory"
-      ],
-      "abstract": "ABSTRACT Self‐determination has been assessed as an internal psychological construct. External factors may also affect self‐determination, but opportunities to make choices and decisions remain understudied. We developed and evaluated the AASPIRE‐Choices and Decisions Scale (AASPIRE‐CDS), a new measure of autistic adults' opportunities to make choices and decisions, using a community‐based participatory approach. We created and refined the AASPIRE‐CDS through an iterative process. Data from the AASPIRE Outcomes Project included 839 autistic adults participating through direct report, direct‐report caregiver‐supported, and caregiver report (CR). Exploratory and confirmatory analyses supported a unidimensional structure. Measurement invariance analyses supported configural, metric, and partial scalar invariance across report type without CR, and across living status, with and without CR. The AASPIRE‐CDS showed high internal consistency, test–retest reliability, and preliminary responsiveness to change over time. Convergent validity analyses showed that higher AASPIRE‐CDS scores were associated with greater self‐determination and communication fluency, more independent living, and few…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07559-y",
       "title": "The Associated Factors of Parenting Stress Among Caregivers of Children With Autism Spectrum Disorders in Lianyungang, Eastern China: A Cross-Sectional Study",
       "authors": [
@@ -5107,34 +5241,6 @@
         "Autism"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1002/aur.70372",
-      "title": "Sensory Processing, Executive Functions, and Adaptive Behavior in Preschool and School‐Age Autistic Children: The Role of Intellectual Functioning",
-      "authors": [
-        "Marinella Zingale",
-        "Francesco Domenico Di Blasi",
-        "Santina Città",
-        "Serafino Buono",
-        "Raffaele Ferri"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-10-04",
-      "doi": "10.1002/aur.70372",
-      "url": "https://doi.org/10.1002/aur.70372",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Sensory processing differences in autism spectrum disorder are core features often linked to executive dysfunction and reduced adaptive behavior. However, the extent to which executive functioning (EF) explains the relationship between sensory processing and adaptive behavior beyond intellectual functioning remains unclear. This study examined relationships among sensory processing, executive functioning, adaptive behavior, and IQ in 200 autistic children divided into preschool ( n = 90) and school‐age ( n = 110) cohorts. Caregivers completed the Sensory Processing Measure, the Behavior Rating Inventory of Executive Function, and the Adaptive Behavior Assessment System‐II. Multivariate analyses revealed significant main effects of developmental stage and IQ level on sensory profiles, with IQ showing the largest effect ( η 2 p = 0.202). While sensory difficulties consistently correlated with executive dysfunctions and lower adaptive functioning, multigroup structural equation modeling demonstrated that EF did not mediate the link between sensory processing and adaptive behavior after controlling for IQ ( p &gt; 0.05). Instead, IQ emerged as the primary direct predictor of d…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07558-z",
@@ -7112,34 +7218,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70370",
-      "title": "Recent Non‐Suicidal Self‐Injury in Autistic Adolescents and Adults: Characteristics, Clinical Correlates and Suicidal Thoughts and Behaviors",
-      "authors": [
-        "Safaa Eldeeb",
-        "Ligia Antezana",
-        "Caitlin M. Conner",
-        "Kelly B. Beck",
-        "Sarah E. Victor",
-        "Aliona Tsypes",
-        "Lori N. Scott",
-        "Carla A. Mazefsky"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-09-21",
-      "doi": "10.1002/aur.70370",
-      "url": "https://doi.org/10.1002/aur.70370",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "ABSTRACT Non‐suicidal self‐injury (NSSI) is prevalent among autistic adolescents and adults, yet research on its clinical characteristics, functions, and association with suicidal thoughts and behaviors (STBs) in this population remains limited. This study compared these domains between autistic adolescents and adults with and without recent NSSI. 520 autistic adolescents and adults (260 with recent (past 6 months) NSSI; 260 age‐ and sex‐matched without recent NSSI group) completed measures of NSSI characteristics and functions, STBs, mental health, and autistic traits. Group comparisons were conducted with Benjamini‐Hochberg correction for multiple comparisons. The recent‐NSSI group demonstrated poorer psychological quality of life, lower self‐compassion, greater depression and anxiety, elevated autistic traits, and greater alexithymia and camouflaging than the no‐recent‐NSSI group. Lifetime passive suicidal thoughts, active suicidal thoughts, and suicide attempts were over four, five, and three times more likely in the recent‐NSSI group, respectively. All 36 participants who reported a recent suicide attempt occurred exclusively in the recent‐NSSI group. Regarding NSSI phenomenol…"
-    },
-    {
       "id": "10.1080/20473869.2026.2733843",
       "title": "Stakeholder perspectives on artificial intelligence–enabled social robots to support social communication in students with autism and other developmental disabilities",
       "authors": [
@@ -7818,33 +7896,6 @@
       ],
       "abstract": "Abstract Purpose Autistic people are likely to encounter first responders, which frequently results in ineffective or even harmful experiences for autistic people. Trainings have been developed to improve first responders’ efficacy with responding to situations involving autistic people and their families. The present study examines the impact of professional and personal characteristics on participants’ confidence, self-efficacy, and knowledge in providing first response to autistic people following an autism training. Methods This study examined pre- and post- training measures completed by participants compared baseline, outcome, and change scores across participant groups, identifying the influence of professional role, personal relationships, and other demographic characteristics on training gains. Results Findings show that, regardless of professional role and personal relationship status, participants improved across outcomes following the training. Law enforcement officers entered training with higher self-efficacy and saw less improvement overall. Those with a close and a distal personal relationship showed higher baseline confidence and self-efficacy, and participants wit…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70366",
-      "title": "Sleep and Awake Bruxism in Children With Autism Spectrum Disorder: Associations With Sleep Indicators and Caregiver Mental Health",
-      "authors": [
-        "Thays Flavia Assis de Oliveira Melo",
-        "Marcela Carla Pereira do Nascimento",
-        "Ana Laura Vilela de Carvalho",
-        "Bruna Lopes Donato",
-        "Priscila Prosini",
-        "Mônica Vilela Heimer"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-09-11",
-      "doi": "10.1002/aur.70366",
-      "url": "https://doi.org/10.1002/aur.70366",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "ABSTRACT Bruxism, a centrally mediated masticatory muscle activity, is highly prevalent in children with autism spectrum disorder (ASD), a population where research remains limited despite the condition's impact on sleep and quality of life. This study aimed to investigate the frequency of sleep and awake bruxism in children with ASD and analyze their associations with sleep indicators and caregiver mental health. This cross‐sectional study included 146 participants (4–18 years old) divided into two groups: 73 with an ASD diagnosis and 73 without ASD. Data were collected from questionnaires administered to caregivers (sociodemographic data, Sleep Disturbance Scale for Children [SDSC], and Depression, Anxiety, Stress Scale [DASS‐21]) and from children's clinical oral examinations. Clinically based sleep bruxism was more frequent in children with ASD, while awake bruxism predominated in the neurotypical group. Caregivers, mostly women, reported significantly higher levels of anxiety and depression in the ASD group ( p &lt; 0.05). In the ASD group, higher frequencies of sleep bruxism were observed among children with sleep‐onset and maintenance difficulties and among those whose careg…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s40489-026-00590-w",
@@ -9280,33 +9331,6 @@
         "service improvement"
       ],
       "abstract": "Purpose: Behavioral Parent Training (BPT) is a front-line intervention for childhood ADHD, yet its effectiveness is reduced in families where parents also experience ADHD. Prior research suggests this attenuation stems from reduced BPT skill use among parents with ADHD symptoms. Beyond simply recognizing its occurrence, identifying the factors that contribute to poor skill use is essential for enhancing BPT effectiveness among parents with ADHD symptoms. The current study is the first, to our knowledge, to qualitatively examine barriers to BPT skill use in multiplex ADHD families. Methods: Parents with ADHD symptoms who recently completed a BPT program ( n = 16) and BPT clinicians ( n = 4) participated in focus groups or interviews. Qualitative data were analyzed to identify common and impairing barriers to consistent skill implementation at home. Results: Four primary themes emerged: (a) executive functioning and ADHD symptoms; (b) intervention fit (e.g., fast pace, poor skill understanding); (c) emotion regulation and motivation; and (d) child and family factors (e.g., multiple children, family communication). Conclusions: Findings highlight the unique cognitive, emotional, and c…"
-    },
-    {
-      "id": "10.1002/aur.70361",
-      "title": "Interval‐Based Aerobic Exercise and Behavioral Intervention for Sleep Disturbances in Children With Autism Spectrum Disorder: A Randomized Controlled Trial",
-      "authors": [
-        "Pin‐Tzu Lu",
-        "Chieh‐Yu Yang",
-        "Fang‐Yi Huang",
-        "Ying‐Chun Chen",
-        "Jung‐Chi Chang",
-        "Pou‐Leng Cheong",
-        "Yen‐Tzu Wu"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-08-30",
-      "doi": "10.1002/aur.70361",
-      "url": "https://doi.org/10.1002/aur.70361",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "abstract": "ABSTRACT Sleep disturbances affect 40%–80% of children with autism spectrum disorder (ASD) and are associated with impaired attention and daytime functioning. We conducted a preliminary randomized controlled trial to evaluate the effects of a short‐term interval‐based aerobic exercise combined with parent behavioral education (IAE–PBE) program on sleep and related outcomes in children with ASD and sleep disturbances. Twenty‐eight children were randomly assigned to either the IAE–PBE group or the parent behavioral education (PBE)‐only group for a 2‐week intervention. Sleep was assessed using actigraphy, and attention was evaluated using age‐appropriate Conners' Continuous Performance Tests. The primary outcome was sleep efficiency. Secondary outcomes included caregiver‐reported sleep disturbances, attention, autism‐related symptoms, and adaptive behavior. Compared with the PBE‐only group, the IAE–PBE group showed greater improvement in sleep efficiency (group × time interaction, p = 0.035; within‐group p = 0.026, Hedges' g = 0.89). Significant group × time interactions were also found for caregiver‐reported sleep disturbances ( p = 0.003) and perseverative responses on the attention…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07507-w",
@@ -12320,62 +12344,6 @@
       ],
       "abstract": "Abstract Background Autism spectrum disorder (ASD) affects social interaction, communication and behavioural flexibility. Recent theories grounded in the Bayesian Brain Framework propose that autistic individuals process environmental uncertainty differently, overweighting volatility when updating predictions about the world. However, the robustness of these predictive processing differences and their relevance to core symptoms remains unclear. Methods Lawson and colleagues [1] reported a tendency to overestimate environmental volatility in autistic adults based on belief states extracted using a Hierarchical Gaussian Filter. We extended their paradigm to a domain central to the autistic experience: rather than distinguishing houses from faces, participants detected valence in emotional facial expressions. Preregistered hypotheses were evaluated using Bayesian linear mixed models based on data of 22 autistic and 22 non-autistic participants. Results Despite using an identical computational model to extract belief states, we did not find robust differences between autistic and non-autistic adults, though autistic participants showed a non-credible trend towards increased processing…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07443-9",
-      "title": "Differential Effects of Object Colour Variation on Word Learning in Autistic and Neurotypical Children",
-      "authors": [
-        "Sophie Lund",
-        "Padraic Monaghan",
-        "Calum Hartley"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-20",
-      "doi": "10.1007/s10803-026-07443-9",
-      "url": "https://doi.org/10.1007/s10803-026-07443-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose For neurotypical children, accurate generalisation of newly learnt object names is facilitated by ‘desirable difficulty’ during initial referent selection; holding colour constant across competitors strengthens encoding of the intended referent’s category-defining shape. We investigated whether variability in colour at referent selection similarly influences novel label generalisation in vocabulary-delayed autistic children – a population potentially characterised by differences in shape encoding. Methods Thirty-two autistic ( M age = 116.63 months) and 32 neurotypical ( M age = 56.72 months) children matched on receptive vocabulary (autistic M age equivalent = 67.78 months; neurotypical M age equivalent = 68.25 months) used a touchscreen computer to disambiguate new noun-object mappings with objects of the same or different colours. Children were then tested on their retention and shape-based generalisation after a 5-minute delay. Results Neurotypical children’s generalisation was significantly more accurate - and only above-chance - in the same colour condition. Conversely, autistic children displayed similar above-chance generalisation accuracy in both the same…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07441-x",
-      "title": "Comprehensive Evaluation of TMJ Dysfunction, Postural Control, and Adaptive Skills in Individuals With Autism Spectrum Disorder",
-      "authors": [
-        "Simay Tepik Gürbüz",
-        "Meral Sertel"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-20",
-      "doi": "10.1007/s10803-026-07441-x",
-      "url": "https://doi.org/10.1007/s10803-026-07441-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07447-5",
-      "title": "Dropout From Exercise Interventions in Autistic Youth: A Systematic Review and Meta-analysis",
-      "authors": [
-        "Tine Van Damme",
-        "Isabel Zwahlen",
-        "Jênifer de Oliveira",
-        "Esther Meers",
-        "Felipe Barreto Schuch",
-        "Davy Vancampfort"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-20",
-      "doi": "10.1007/s10803-026-07447-5",
-      "url": "https://doi.org/10.1007/s10803-026-07447-5",
-      "neurotype": [
-        "Autism"
-      ]
     }
   ]
 }
