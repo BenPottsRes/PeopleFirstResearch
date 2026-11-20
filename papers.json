@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:46:35Z",
+  "generated_at": "2026-11-20T15:29:10Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -114,24 +114,38 @@
       "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
     },
     {
-      "id": "10.1177/10870547261468105",
-      "title": "A Mixed Methods Study of Treatment Acceptability and Intervention Preference Among College Students with ADHD",
+      "id": "10.1108/aia-07-2026-0101",
+      "title": "An individualised approach to autism and criminal intent",
       "authors": [
-        "Erin L. Girio-Herrera",
-        "Minha Asif"
+        "Jonathan DeRight"
       ],
-      "journal": "Journal of Attention Disorders",
+      "journal": "Advances in Autism",
       "year": 2026,
-      "published_date": "2026-12-01",
-      "doi": "10.1177/10870547261468105",
-      "url": "https://doi.org/10.1177/10870547261468105",
+      "published_date": "2026-11-23",
+      "doi": "10.1108/aia-07-2026-0101",
+      "url": "https://doi.org/10.1108/aia-07-2026-0101",
       "neurotype": [
-        "ADHD"
+        "Autism"
       ],
-      "tags": [
-        "lived experience"
+      "abstract": "Purpose This paper aims to examine how autism spectrum disorder (ASD) is treated in forensic evaluations of criminal intent and proposes an individualised, functional standard for weighing ASD-related evidence. Design/methodology/approach The paper synthesises recent empirical literature on ASD and social cognition, emotional regulation, adaptive functioning, suggestibility and threat perception and examines Virginia’s evidentiary statute on ASD and specific intent as an illustration of an individualised functional legal framework. Findings Diagnosis alone provides insufficient information about criminal intent. Autism-related differences in social cognition, emotional regulation and adaptive functioning are heterogeneous and only loosely tied to diagnostic status, so forensic relevance depends on documented, individualised impairment rather than the presence of an ASD diagnosis. Originality/value The paper integrates findings on theory of mind and criminal-intent recognition and on adaptive functioning in forensic ASD samples, with Virginia’s statutory framework to propose an individualised functional approach evaluators can apply directly to casework.",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261504080",
+      "title": "Investigation Into the Validity of the Neurodiversity Attitudes Questionnaire in the South African Context",
+      "authors": [
+        "Quinnlyn van Staden",
+        "Nicola Taylor"
       ],
-      "abstract": "Objective: Accommodations are the most common support for college students with ADHD; however, they are not a treatment and emerging evidence suggests they may not lead to performance improvement. As evidence accumulates for efficacious treatments for college students with ADHD it is increasingly important to assess their intervention preferences and treatment acceptability. Method: This mixed methods study was conducted in the context of a needs assessment of college students with ADHD conducted by advanced undergraduate service learning students. A diverse sample of 40 college students with ADHD completed the Abbreviated Acceptability Rating Profile (AARP) to rate the acceptability of treatment components with accumulating evidence of efficacy among college students with ADHD and completed a semi-structured interview to report preferences for campus intervention. Results: All treatment components met at least the minimum threshold of acceptability. Significant differences emerged such that the behavioral component was rated significantly higher than cognitive, medication, psychoeducation, and emotional but was not significantly different than organizational. Emotional was signifi…"
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-20",
+      "doi": "10.1177/13623613261504080",
+      "url": "https://doi.org/10.1177/13623613261504080",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "The Neurodiversity Attitudes Questionnaire (NDAQ) is a newly developed measure of individuals’ attitudes towards neurodiversity. The researchers set out to replicate the results of the original study and validate the NDAQ for use in the South African context. Data were collected from 379 South African employees using a quantitative, cross-sectional research design. Exploratory structural equation modelling and confirmatory factor analysis were conducted in order to evaluate the factorial validity of the NDAQ. The results indicated that the original five-factor structure of the NDAQ could not be replicated in the South African context, and the researchers were unable to derive a model that accurately reflected the theoretical structure of the assessment. The study highlights the challenges of measuring attitudes towards neurodiversity and the limitations of applying internationally developed instruments across cultures without local validation. By reporting negative findings, the results from this study help counter publication bias and strengthen the transparency and integrity of research on measurement validation. Lay Abstract The Neurodiversity Attitudes Questionnaire (NDAQ) is a…"
     },
     {
       "id": "10.1007/s10803-026-07602-y",
@@ -208,6 +222,33 @@
       "abstract": "Persistent school absence (missing &gt;10% of school sessions) may negatively affect educational and well-being outcomes. Autistic pupils are disproportionately absent from school, yet little is known about whether this differs across sexes. We addressed this gap by examining persistent school absence across autistic girls, autistic boys and pupils without special educational needs (SEN). Through a Freedom of Information request, we obtained available annual attendance data for all state-funded primary and secondary mainstream schools in England from 2016/2017 to 2022/2023, comprising approximately five to six million pupils annually. Attendance data were disaggregated by sex, school type and primary SEN. We explored persistent absence using pairwise z-tests of proportions and chi-square tests of independence. Among secondary school pupils, autistic girls had higher rates of persistent absence relative to autistic boys and pupils without SEN, and this difference widened following the COVID-19 pandemic. Among primary school pupils, autistic girls were more persistently absent compared with girls and boys with no SEN and autistic boys post-pandemic. Thus, persistent absence dispariti…"
     },
     {
+      "id": "10.1177/13623613261503619",
+      "title": "Navigating the Storm: Understanding the Support Needs of Parents of Children With Autism Amid the Iran–U.S.–Israel Conflict",
+      "authors": [
+        "Sayyed Ali Samadi",
+        "Shahnaz Bakhshalizadeh Moradi",
+        "Mehdi Fouladgar",
+        "Atefeh Moradi",
+        "Fatemeh Moradi"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-19",
+      "doi": "10.1177/13623613261503619",
+      "url": "https://doi.org/10.1177/13623613261503619",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "The Iran–U.S.–Israel war has imposed unprecedented stress on Iranian families raising children with autism spectrum disorder (ASD). This study explored parents’ lived experiences, support needs and coping across three provinces with varying war exposure. Convergent mixed-methods design. Semi-structured interviews with 36 parents (34 mothers) of children with ASD from Isfahan ( n = 10), Tabriz ( n = 16) and Rafsanjan ( n = 10). Conventional qualitative content analysis was used. Quantitative data included war exposure and logistic regression predicting willingness to return to autism centres. Six themes emerged: disrupted routines/child regression (91.7%), parental stress/financial collapse (100%), ineffective online therapy (83.3%), demand for safe in-person respite (91.7%), direct trauma exposure (47.2% within 1 km of strike) and ambivalence about returning. High-intensity zones (Isfahan + Tabriz) showed lower return willingness than Rafsanjan (42.3% vs. 80%, p &lt; .01). Logistic regression found Rafsanjan residence increased return likelihood (odds ratio [OR] = 6.5, p = .03), whereas ASD level 3 (OR = 0.18, p = .04) and direct explosion exposure (OR = 0.09, p = .01) reduced it.…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1177/13623613261500525",
       "title": "Psychometric Evaluation of the Korean Camouflaging Autistic Traits Questionnaire: Evidence of Measurement Invariance and Sex-Related Camouflaging Patterns",
       "authors": [
@@ -271,6 +312,28 @@
       ],
       "abstract": "Background: Autistic people are disproportionately impacted by health and well-being difficulties, with current health services not always being individualized to their specific needs. Self-compassion is emerging as one potential tool that could support the well-being of autistic people, but given this is an emerging area, a review of existing literature on this topic is needed. Method: This systematic scoping review aimed to determine what is known about self-compassion in autistic adults. A systematic search identified 431 articles, 11 of which met the inclusion criteria. All studies were published after 2020 and involved participants who were over the age of 18 years. Seven of the studies utilized quantitative methodologies, two studies utilized qualitative methodologies, and one used a convergent mixed-methods design. Participants were mainly female. Results: Multiple studies found a significant relationship between higher autistic traits and lower levels of self-compassion. Self-compassion was lower for autistic people who identified as a woman, were diagnosed in adulthood, and were older. Higher self-compassion was correlated with positive psychological well-being, lower depr…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10870547261503639",
+      "title": "Exploring the Intraindividual Context of ADHD: A Scoping Review of Personal Factors Using WHO’s ICF Framework",
+      "authors": [
+        "Jacintha Tieskens",
+        "Melissa H. Black",
+        "Emma Asp",
+        "Sven Bölte"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-11-19",
+      "doi": "10.1177/10870547261503639",
+      "url": "https://doi.org/10.1177/10870547261503639",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "abstract": "Background: Individuals diagnosed with ADHD vary widely in the challenges they encounter and their daily functioning. Diagnostic criteria fail to capture this complexity, and a holistic understanding requires moving beyond symptoms to consider the interaction between individual characteristics and environmental influences. WHO’s International Classification of Functioning, Disability, and Health (ICF) provides a comprehensive biopsychosocial framework, understanding “functioning” as the interplay between the individual’s (dis)abilities and the contexts in which they occur. Although tailored ICF Core Sets for ADHD have been developed, an important contextual component, personal factors, has been neglected so far. Personal factors form the intraindividual context influencing how individuals function and interact with the world. They include factors such as identity, beliefs and attitudes. Here we aim to identify personal factors that are relevant to individuals diagnosed with ADHD. Method: We conducted a scoping review embedded in the ICF framework to explore personal factors relevant to functioning in ADHD identified in the extant literature. A total of 20 articles were included and…"
     },
     {
       "id": "10.1007/s10803-026-07576-x",
@@ -1307,23 +1370,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07590-z",
-      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
-      "authors": [
-        "Abdullah Ahmed Almulla",
-        "Mohamad Ahmad Saleem Khasawneh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-11-05",
-      "doi": "10.1007/s10803-026-07590-z",
-      "url": "https://doi.org/10.1007/s10803-026-07590-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07607-7",
       "title": "Socioeconomic Hardship and Cumulative Adverse Experiences in Relation to Anxiety and Depression in Autistic Children: Exploring the Role of Physical Activity",
       "authors": [
@@ -1339,6 +1385,23 @@
       ],
       "domains": [
         "Mental health"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07590-z",
+      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
+      "authors": [
+        "Abdullah Ahmed Almulla",
+        "Mohamad Ahmad Saleem Khasawneh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07590-z",
+      "url": "https://doi.org/10.1007/s10803-026-07590-z",
+      "neurotype": [
+        "Autism"
       ],
       "framing": "Neurodiversity-informed"
     },
@@ -2032,26 +2095,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-11-01",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -2076,6 +2119,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/13623613261480174",
@@ -8952,62 +9015,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261464200",
-      "title": "Preliminary Reliability and Validity of the M-CHAT-S, a New Autism Screening Tool for School-Aged Children",
-      "authors": [
-        "Ashley de Marchena",
-        "Andrea T. Wieckowski",
-        "Alexia F. Dickerson",
-        "Hunter S. Cheng",
-        "Georgina Perez Liz",
-        "Ashley Dubin",
-        "Giacomo Vivanti",
-        "Marianne Barton",
-        "Deborah Fein",
-        "Diana L. Robins"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/13623613261464200",
-      "url": "https://doi.org/10.1177/13623613261464200",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare",
-        "Service design"
-      ],
-      "tags": [
-        "access"
-      ],
-      "abstract": "Identifying autism early is critical for ensuring timely access to appropriate educational and clinical supports. Current autism screening practices primarily focus on toddlers; universal practices for identifying the substantial portion of autistic children who arrive at school age without a diagnosis are lacking. This study evaluates the preliminary reliability and validity of the Modified Checklist for Autism in Toddlers–School Age version (M-CHAT-S), a novel screener designed for early school-age children, with separate versions for verbally fluent and minimally verbal children. A total of 165 caregivers and 107 educators completed the M-CHAT-S, along with the Social Responsiveness Scale, Second Edition (SRS-2), to test convergent validity, and the Child Behavior Checklist (CBCL), to test discriminant validity. Findings demonstrate strong internal consistency across versions (Cronbach’s α = .79–.92) and robust construct validity. Children with preexisting autism diagnoses scored higher on the M-CHAT-S than nonautistic children. Both test–retest reliability and interrater reliability were in the moderate range. Despite these limitations, the M-CHAT-S demonstrates promise as a sc…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261464659",
-      "title": "Examining the Roles of Retrieval Practice and Post-Retrieval Feedback in Learning Among Autistic Adults",
-      "authors": [
-        "Brianna E. Cairney",
-        "Eileen Haebig",
-        "Heather D. Lucas"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/13623613261464659",
-      "url": "https://doi.org/10.1177/13623613261464659",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare"
-      ],
-      "abstract": "Retrieval practice enhances learning and is most effective when feedback is provided. Despite robust evidence that retrieval practice and post-retrieval feedback benefit numerous clinical populations, these techniques have not been studied in autism. In two experiments, we measured retrieval practice and post-retrieval feedback effects on associative memory in autistic and non-autistic adults residing in the United States. Participants attempted to memorize semantically unrelated word pairs, which were then reviewed during a practice phase consisting of retrieval practice with and without feedback. In Experiment 1, word pairs were presented to participants (40 autistic; 40 non-autistic) auditorily. In Experiment 2, stimuli were presented visually and restudy trials were added to the practice phase. Additionally, feedback for retrieval practice trials was manipulated between-subjects (80 participants per group) and a four-alternative recognition test was used in the practice phase. In both experiments, the testing phase consisted of cued recall. Both experiments yielded benefits of feedback following initial retrieval practice across groups. In addition, Experiment 2 demonstrated th…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581261478008",
       "title": "“A Delightful Embodiment of Dichotomies”: A Qualitative Exploration of Self-Concept and Identity Among Autistic and Non-Autistic People",
       "authors": [
@@ -12163,76 +12170,6 @@
       "domains": [
         "Mental health"
       ],
-      "framing": "Mixed or transitional framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07453-7",
-      "title": "Double Disadvantage? Wellbeing Among Vietnamese Migrant Parents of Autistic Children",
-      "authors": [
-        "Kate Pham Nguyen",
-        "Laura Pecora",
-        "Merrilyn Hooley",
-        "Mark A. Stokes"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-22",
-      "doi": "10.1007/s10803-026-07453-7",
-      "url": "https://doi.org/10.1007/s10803-026-07453-7",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "Abstract Background Culturally and linguistically diverse (CALD) parents of autistic children typically report poorer mental health, yet their subjective wellbeing (SWB) remains poorly understood. This study examined SWB among Vietnamese migrants (VM), one of Australia’s more socioeconomically disadvantaged CALD groups, focusing on those raising autistic children, and compared them with general population (GP) parents. Procedure Participants were 487 Australian-residing parents ( M age = 40.0, SD = 7.12, 71.9% female, 136 having an autistic child), including 197 VM parents. SWB was measured first, followed by mental health and demographic information, using an anonymous online survey available in English or Vietnamese. Hierarchical regression tested whether being VM, having an autistic child, or their interaction predicted SWB, controlling for income. Results Having an autistic child was associated with lower SWB ( b = −4.59, SE = 1.97, t = −2.23, p = .020) while being VM alone predicted higher SWB ( b = 3.71, SE = 1.62, t = 2.29, p = .022). However, their interaction was significant and negative ( b = −7.68, SE = 3.00, t = −2.56, p= .011), indicating that VM parents of autistic ch…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1080/20473869.2026.2699870",
-      "title": "Effectiveness of group-based early start Denver Model for autistic children with intellectual disability from culturally and linguistically diverse backgrounds",
-      "authors": [
-        "Ifrah Abdullahi",
-        "Cheryl Dissanayake"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-07-22",
-      "doi": "10.1080/20473869.2026.2699870",
-      "url": "https://doi.org/10.1080/20473869.2026.2699870",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1108/aia-11-2025-0119",
-      "title": "Online social skills training using speech activities for adults with autism spectrum disorder or traits: an exploratory pilot study",
-      "authors": [
-        "Sayaka Shoji",
-        "Aakari Iitsuka",
-        "Maria Fana",
-        "Keiko Kumagai",
-        "Jun Yaeda"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-07-22",
-      "doi": "10.1108/aia-11-2025-0119",
-      "url": "https://doi.org/10.1108/aia-11-2025-0119",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Quality of life"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Purpose For people with autism spectrum disorder (ASD) or ASD traits, it is known to be difficult to take turns in conversation and maintain relationships. To address this, the authors provide online Social Skills Training (SST), a type of interpersonal skills training, to adults with ASD who have difficulty communicating. The SST program includes listening to individual goals and a speech activity where participants share their personal experiences with adolescents. This study aims to explore changes in communication skills, self-esteem and progress toward individual communication goals associated with participation in this online SST. Design/methodology/approach Participants included five men diagnosed with ASD or showing tendencies of the condition. They completed social skills and self-esteem scales before and after the intervention. Individual goal performance was assessed at three points: pre-, mid- and postintervention. An open-ended questionnaire was administered during the final session to explore the reasons behind participants’ self-assessments. Findings This online SST program suggested no change in self-esteem, but improvements in self-control and the regulation of int…",
       "framing": "Mixed or transitional framing"
     }
   ]
