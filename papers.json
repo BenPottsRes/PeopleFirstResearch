@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:41:29Z",
+  "generated_at": "2026-11-22T14:37:24Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -4605,6 +4605,25 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -4623,25 +4642,6 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
-    },
-    {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -10211,24 +10211,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -10248,6 +10230,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -11724,119 +11724,6 @@
         "Communication"
       ],
       "abstract": "Background: Youth with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience delays in obtaining their driver’s license relative to their same-aged peers. However, despite these delays, there is no evidence of improved driving outcomes for these youth. Additionally, graduated driver’s licensing laws typically terminate around the age of 18, giving some youth less structure prior to independently transitioning to the road. To date, no study has examined the cognitive and parenting factors that are related to delays in licensure for adolescents with ADHD within the context of an intervention (i.e., Supporting a Teen’s Effective Entry to the Roadway; STEER). The current study utilized logistic regression analyses to determine if teen cognitive functioning, parenting, and the intervention were related to licensure status at 12-month follow-up. Method: Baseline cognition (i.e., reaction time variability, working memory, inhibitory control), baseline parental monitoring, baseline negative parenting, and licensure status were collected on 172 adolescents with ADHD enrolled in a randomized, controlled trial. Results: There was a significant interaction between react…"
-    },
-    {
-      "id": "10.1007/s10803-026-07458-2",
-      "title": "Norms of Conversation: Autistic and Neurotypical Judgments of Conversational Coherence",
-      "authors": [
-        "Zuriñe Ábalos",
-        "Agustín Vicente"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-24",
-      "doi": "10.1007/s10803-026-07458-2",
-      "url": "https://doi.org/10.1007/s10803-026-07458-2",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Abstract Purpose Challenges in conversational topic management have been widely reported in autistic individuals, sometimes leading to negative social judgments. Such challenges could stem from differences in conversational norms implicitly endorsed across neurotypes. This study investigated whether autistic and neurotypical adults differ in their judgments of conversational coherence, specifically regarding different types of topic shifts. Methods We collected data from 49 Spanish-speaking autistic adults aged 18–53 years ( M = 31.2, SD = 8.7) without intellectual disability, and compared their judgments with those of 96 neurotypical adults from a previous study (age: M = 35.5, SD = 9.9). Participants read anonymized transcripts of child-adult conversations and were asked to rate the naturalness of the child’s utterance (containing either a topic shift or a contingent response) using a seven-point Likert scale. The materials were identical to those used in a previous study with neurotypical adults. Results Autistic and neurotypical adults shared a similar implicit understanding of conversational coherence. Both groups evaluated different types of topic shifts in broadly comparable…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07459-1",
-      "title": "Systematic Review of the Efficacy of Parent-Mediated Interventions in Reducing Problem Behaviours Shown by Autistic Adolescents",
-      "authors": [
-        "Arush Goel",
-        "Hiran Thabrew",
-        "Trecia Wouldes",
-        "Zhaoyang Xie"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-24",
-      "doi": "10.1007/s10803-026-07459-1",
-      "url": "https://doi.org/10.1007/s10803-026-07459-1",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ],
-      "abstract": "Abstract Purpose Problem behaviours exacerbate the challenges associated with the core characteristics of autism during adolescence. Parenting interventions have demonstrated efficacy in addressing such behavioural challenges in younger autistic individuals, however, their evidence for autistic adolescents is sparse, particularly in low-income settings. Methods This systematic review narratively synthesised studies outlining parenting interventions targeting problem behaviours in autistic adolescents. Results Seven studies were included with three providing comparable quantitatively data for their efficacy in improving problem behaviours. Five out of seven studies reported positive evidence on reducing problem behaviours. Characteristics including fewer sessions, instructional mode of intervention delivery and use of behavioural management skills were most commonly shared among statistically significant studies. Parenting interventions had a positive effect on adaptive behaviours for children, and improved parent wellbeing and knowledge. The overall satisfaction with interventions was high, however, only one study was conducted in a lower- and middle-income country. Conclusion The…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07460-8",
-      "title": "Social Anxiety, Social Avoidance, Self-Esteem, and Loneliness: The Role of Class Type for Autistic Adolescents",
-      "authors": [
-        "Anat Kasirer",
-        "Meirav Kammay",
-        "Shlomit Shnitzer-Meirovich"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-24",
-      "doi": "10.1007/s10803-026-07460-8",
-      "url": "https://doi.org/10.1007/s10803-026-07460-8",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07448-4",
-      "title": "PTR-YC in Action: Child, Parent, and Family Outcomes of a Challenging Behavior Management Program in Real-World Public Early Intervention Settings",
-      "authors": [
-        "Mélina Rivard",
-        "Catherine Mello",
-        "Christine Lefebvre",
-        "Diane Morin",
-        "Patrick Coulombe",
-        "Zakaria Mestari",
-        "Jacques Forget"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-24",
-      "doi": "10.1007/s10803-026-07448-4",
-      "url": "https://doi.org/10.1007/s10803-026-07448-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health",
-        "Quality of life"
-      ],
-      "abstract": "Abstract Purpose The aim of this study was to determine the efficacy of the Prevent-Teach-Reinforce for Young Children (PTR-YC) as implemented within public early behavioral intervention (EBI) for children with autism or intellectual disability. Several adjustments to the research design and to training and intervention protocols were made in response to organizational constraints, the COVID-19 several waves and families’ needs within this real-world intervention context. Methods EBI educators were trained in the PTR-YC program, which they then applied with the parents of a child in their caseload who presented challenging behavior. Parent-practitioner intervention teams were divided in two cohorts according to their readiness to apply the program. Parents evaluated their chid’s challenging behavior, their parenting stress levels, caregiving strain, and sense of competence, as well as their family’s quality of life before and after program application, as well as the acceptability of the program after its application. Results Frequency of children’s aggressive behavior, decreased significantly after program application, but not self-injurious, stereotyped or overall challenging beh…",
-      "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1108/aia-07-2025-0079",
-      "title": "Anxiety responses and autism: the role of sensitivity to change",
-      "authors": [
-        "Lucía Torices Callejo",
-        "Miguel Ángel Pérez Nieto"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-07-24",
-      "doi": "10.1108/aia-07-2025-0079",
-      "url": "https://doi.org/10.1108/aia-07-2025-0079",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Healthcare",
-        "Mental health"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Purpose This study aims to examine how elevated autistic traits relate to different anxiety response systems in a non-clinical adult sample. Specifically, it explored whether particular dimensions of the autistic trait profile were differentially associated with cognitive, physiological and motor manifestations of anxiety within a dimensional and neurodiversity-informed framework. Design/methodology/approach A total of 117 adults (45 men, 38.5%; 72 women, 61.5%), aged 18–84 years (M = 34.14, SD = 13.45), completed the abridged version of the Inventory of Situations and Responses of Anxiety (ISRA-B) and the Autism Spectrum Quotient (AQ-50). Correlational analyses and multiple linear regression models were conducted to examine associations and predictors of overall anxiety, its cognitive, physiological and motor components and anxiety across specific situational domains, with age and gender included as covariates. Findings Sensitivity to change emerged as the most consistent predictor, significantly predicting overall anxiety as well as its cognitive, physiological and motor dimensions and anxiety in test, interpersonal, phobic and daily situations. Communication-related autistic tra…"
     }
   ]
 }
