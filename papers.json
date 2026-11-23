@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:37:24Z",
+  "generated_at": "2026-11-23T18:13:06Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -591,6 +591,118 @@
       "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
     },
     {
+      "id": "10.1007/s10803-026-07610-y",
+      "title": "Opening the Door to Autism Detection in Childcare Settings: A Qualitative Study of Childcare Centers, Directors, Teachers and Parents",
+      "authors": [
+        "Elizabeth McGhee Hassrick",
+        "Emmanuel Koku",
+        "Autumn Austin",
+        "Erika Frick",
+        "Katherine Moorcones",
+        "Kassidy Mann",
+        "Georgina Perez Liz",
+        "Erin McNamara Horvat",
+        "Diana L. Robins",
+        "Andrea Trubanova Wieckowski"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-23",
+      "doi": "10.1007/s10803-026-07610-y",
+      "url": "https://doi.org/10.1007/s10803-026-07610-y",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Quality of life"
+      ],
+      "tags": [
+        "communication",
+        "lived experience"
+      ],
+      "abstract": "Abstract Purpose Early autism detection and intervention improve developmental outcomes. Expanding screening to childcare settings may enhance early identification; however, societal stigma around autism can affect participation in autism screening. Little is known about how caregiver, teacher, and director interactions influence stigma and screening efforts. Methods Using the extended case method, we deductively identified theories about autism stigma and organizational processes to guide staff training, interview guide questions, and qualitative analysis. We conduct 22 semi-structured interviews with childcare directors (n = 5), teachers (n = 8) and caregivers of children enrolled in childcare centers (n = 9), as well as field observations (n = 15) of childcare interactions to investigate interactions in childcare settings. Results We found a communication triad. Communication between teachers and caregivers rarely includes discussion about autism or developmental delays. Communication between teachers and center directors involved considerable problem-solving efforts to ‘open the door’ to screening and services, including teacher observations and assessment, director leadership,…"
+    },
+    {
+      "id": "10.1007/s10803-026-07623-7",
+      "title": "Whole-Brain Dynamics and Cognitive Flexibility in Level 1 ASD: An HMM-Based Approach",
+      "authors": [
+        "Zenghe Yue",
+        "Xinyue Xu",
+        "Qian Li",
+        "Luyang Guan",
+        "Anqi Huang",
+        "Jinyi Zhu",
+        "Kaiyan Gan",
+        "Shengjian Yin",
+        "Hui Fang",
+        "Xiaoyan Ke"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-23",
+      "doi": "10.1007/s10803-026-07623-7",
+      "url": "https://doi.org/10.1007/s10803-026-07623-7",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/25739581261510252",
+      "title": "Negotiating Self-Determination: Autistic Students’ Experiences in Higher Education",
+      "authors": [
+        "Izaskun Álvarez-Aguado",
+        "Vanessa Vega",
+        "Miguel Roselló-Peñaloza",
+        "Jennifer Figueroa-Figueroa",
+        "Leyre Álvarez Aguado",
+        "Rodrigo Arriagada-Chinchón",
+        "Herbert Spencer",
+        "Félix González-Carrasco"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-11-23",
+      "doi": "10.1177/25739581261510252",
+      "url": "https://doi.org/10.1177/25739581261510252",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "tags": [
+        "access",
+        "lived experience"
+      ],
+      "abstract": "Background: Research consistently links self-determination with positive educational, psychosocial, and transition outcomes for autistic students. However, most existing research has examined self-determination through standardized measures, behavioral outcomes, or evaluations of support interventions, while we know comparatively little about how autistic students themselves understand and experience self-determination in everyday university life. This study explored how autistic students understand and experience self-determination and how university environments shape their opportunities to exercise it. Methods: We used a qualitative exploratory design and conducted semi-structured interviews with 101 autistic undergraduate and postgraduate students from two Chilean universities. Causal Agency Theory informed the interview guide, which explored participants’ experiences of agency, choice, decision-making, barriers, and supports. We analyzed the interviews using reflexive thematic analysis. Results: We generated five interrelated themes. Participants described self-determination through opportunities to negotiate academic choices, recognition of their preferences and ways of parti…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/25739581261509828",
+      "title": "The Effects of Conscious Camouflaging on First Impressions and Autism Identification of Autistic Adults",
+      "authors": [
+        "Danny Dunn",
+        "Sarah J. Foster",
+        "Siddhi Patel",
+        "Rachel Calderon",
+        "Robert A. Ackerman",
+        "Noah J. Sasson"
+      ],
+      "journal": "Autism in Adulthood",
+      "year": 2026,
+      "published_date": "2026-11-23",
+      "doi": "10.1177/25739581261509828",
+      "url": "https://doi.org/10.1177/25739581261509828",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Background: Many autistic adults seek to improve their social experiences and reduce stigma by consciously and unconsciously camouflaging their autistic traits and adopting more non-autistic behaviors and expressions. Although the widespread adoption of camouflaging behaviors among autistic adults suggests that it enhances how they are perceived and helps them avoid being detected as autistic, researchers have not empirically examined the efficacy of camouflaging on these outcomes. Method: We video recorded 24 autistic adults introducing themselves under two conditions: (a) once while camouflaging to the best of their abilities and (b) once while acting more authentically. They also described their specific camouflaging strategies. Four hundred ninety-seven adult observers viewed these autistic adults in both conditions, provided first impressions, and reported whether they thought the person was autistic. Results: Findings indicated that observers rated autistic adults more favorably on first impressions overall when they were camouflaging compared with when they were acting authentically. At the item level, camouflaging was associated with lower perceived awkwardness and higher p…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1108/aia-07-2026-0101",
       "title": "An individualised approach to autism and criminal intent",
       "authors": [
@@ -606,6 +718,113 @@
       ],
       "abstract": "Purpose This paper aims to examine how autism spectrum disorder (ASD) is treated in forensic evaluations of criminal intent and proposes an individualised, functional standard for weighing ASD-related evidence. Design/methodology/approach The paper synthesises recent empirical literature on ASD and social cognition, emotional regulation, adaptive functioning, suggestibility and threat perception and examines Virginia’s evidentiary statute on ASD and specific intent as an illustration of an individualised functional legal framework. Findings Diagnosis alone provides insufficient information about criminal intent. Autism-related differences in social cognition, emotional regulation and adaptive functioning are heterogeneous and only loosely tied to diagnostic status, so forensic relevance depends on documented, individualised impairment rather than the presence of an ASD diagnosis. Originality/value The paper integrates findings on theory of mind and criminal-intent recognition and on adaptive functioning in forensic ASD samples, with Virginia’s statutory framework to propose an individualised functional approach evaluators can apply directly to casework.",
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10870547261507025",
+      "title": "Factors Associated With Suicidal Spectrum Behaviours in Women With ADHD: A Systematic Review",
+      "authors": [
+        "Tamara Hamilton",
+        "Bernadette Johnston",
+        "Emma Nicholson"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-11-23",
+      "doi": "10.1177/10870547261507025",
+      "url": "https://doi.org/10.1177/10870547261507025",
+      "neurotype": [
+        "ADHD",
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ],
+      "abstract": "Background: ADHD is a common neurodevelopmental disorder characterised by impaired impulsivity, hyperactivity and inattention. Adult females with ADHD are at heightened risk of engaging in suicidal spectrum behaviours (SSBs), including self-harm, suicidal ideation and attempts. However, there is limited knowledge of the factors that are associated with SSBs in adulthood. Aims: This systematic review sought to identify factors associated with SSBs in women with ADHD. Method: A search was conducted using PsycINFO, PubMed, CINAHL, Scopus and Web of Science databases. Studies with data concerning factors involved in SSBs in females with ADHD over 16 years old were included. The literature search identified 1,661 articles for screening, of which 16 were included in the final review. Results: The results demonstrated several individual and environmental risk factors associated with the heightened risk of SSBs in women with ADHD, including ADHD subtype, severity, persistence, executive functioning (EF) and response inhibition (RI), comorbidities such as depression and ASD, and childhood and familial factors, such as maltreatment, peer victimisation and parenting factors. Discussion: Inter…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261502233",
+      "title": "Consistent Across Studies, Divergent Across Outcomes: A Three-Level Meta-Analysis of Animal-Assisted Interventions for Autism Spectrum Disorder",
+      "authors": [
+        "Yaoqi Hou",
+        "Zhicheng Deng",
+        "Shenning Zhou",
+        "Yan Wang",
+        "Xiangqin Song"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-22",
+      "doi": "10.1177/13623613261502233",
+      "url": "https://doi.org/10.1177/13623613261502233",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Sensory environment"
+      ],
+      "tags": [
+        "communication",
+        "sensory"
+      ],
+      "abstract": "Animal-assisted interventions (AAI) have gained attention as complementary approaches for autistic individuals, yet overall efficacy and moderator influences remain unclear. PubMed, Embase, Web of Science, and Cochrane Central Register of Controlled Trials were searched through March 2026 for controlled trials reporting behavioral outcomes in autism spectrum disorder. A three-level model accounted for dependent effect sizes nested within studies. Subgroup analyses, meta-regression, publication bias, and Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) certainty assessments were conducted. Seventeen studies (159 effect sizes; 677 unique participants ) entered the meta-analysis. The overall effect was small but significant ( g = 0.275, 95% confidence interval [CI] [0.153, 0.397], p &lt; .001), with heterogeneity entirely within studies ( I 2 _Level 2 = 32.2%, I 2 _Level 3 = 0%). Social functioning ( g = 0.337) was most consistently supported; communication ( g = 0.597) and sensory outcomes ( g = 0.590) showed the largest effects. No moderator predicted effect variation. Publication bias was not detected. Randomized controlled trial evidence was rated low ce…",
+      "framing": "Mixed or transitional framing"
+    },
+    {
+      "id": "10.1177/13623613261503630",
+      "title": "Emotion Regulation Processes in Daily Life Among Autistic and Non-Autistic Adults",
+      "authors": [
+        "Heejoo Kim",
+        "Sunkyung Yoon"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-22",
+      "doi": "10.1177/13623613261503630",
+      "url": "https://doi.org/10.1177/13623613261503630",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Service design"
+      ],
+      "tags": [
+        "service improvement"
+      ],
+      "abstract": "Guided by the Extended Process Model of Emotion Regulation, this study examined differences and similarities between autistic and non-autistic adults in three stages of emotion regulation (ER) processes in daily life: ER identification (i.e., ER attempts and the affective threshold for ER attempts), ER selection (i.e., strategy use, ER-context sensitivity, and ER repertoire), and ER implementation (i.e., the effect of strategies on subsequent affect). Using ecological momentary assessment, 23 autistic and 27 non-autistic adults reported five surveys a day over 7 days. At each prompt, participants reported their current affect, ER attempts, use of strategies (i.e., social sharing, suppression, acceptance, savoring, reappraisal, distraction), and whether they were in a social context. Results showed that, compared to non-autistic adults, autistic adults used social sharing significantly less frequently and exhibited reduced sensitivity to social context when engaging in it. Finally, social sharing and savoring predicted subsequent affect improvement in both groups. These findings revealed that autism-related differences in ER are primarily observed in the social realm, highlighting t…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/10883576261509204",
+      "title": "Enhancing Positive Parenting for Young Children With Autism: Evaluating the Impact of Group Parent Training",
+      "authors": [
+        "Zachary C. LaBrot",
+        "Sara Kupzyk",
+        "Claudia Abril-Ochoa",
+        "Abigail Lawson",
+        "Heather J. Anderson-Piles",
+        "Sarah Butt",
+        "Faith Hamilton",
+        "Emily Maxime"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-11-22",
+      "doi": "10.1177/10883576261509204",
+      "url": "https://doi.org/10.1177/10883576261509204",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "tags": [
+        "access",
+        "communication"
+      ],
+      "abstract": "Young children diagnosed with autism spectrum disorder often have difficulties with social communication, which can result in challenges within parent–child relationships. Behavioral skills training to teach parent-facilitated interventions has been found to be effective for improving a variety of outcomes for children with autism. However, a common barrier families face is extended waiting periods for services, which can result in increases in behaviors of concern. One approach to help overcome extended waiting periods for services is group-based behavioral skills training. Utilizing a multiple probe design, this southeastern U.S. study evaluated the effectiveness of group-based behavioral skills training for improving three parents’ positive interaction skills (i.e., descriptions, reflections, imitations, and praise), the child-directed components of parent–child interaction therapy, for children with autism. The frequency of parents’ use of positive interaction skills and children’s social engagement with their parent was collected. Results indicated improved positive interaction skills and increased child social engagement, with both outcomes maintained between 2 weeks and 2 mo…",
+      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1007/s10803-026-07614-8",
@@ -1906,6 +2125,23 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07590-z",
+      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
+      "authors": [
+        "Abdullah Ahmed Almulla",
+        "Mohamad Ahmad Saleem Khasawneh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07590-z",
+      "url": "https://doi.org/10.1007/s10803-026-07590-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07607-7",
       "title": "Socioeconomic Hardship and Cumulative Adverse Experiences in Relation to Anxiety and Depression in Autistic Children: Exploring the Role of Physical Activity",
       "authors": [
@@ -1921,23 +2157,6 @@
       ],
       "domains": [
         "Mental health"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07590-z",
-      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
-      "authors": [
-        "Abdullah Ahmed Almulla",
-        "Mohamad Ahmad Saleem Khasawneh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-11-05",
-      "doi": "10.1007/s10803-026-07590-z",
-      "url": "https://doi.org/10.1007/s10803-026-07590-z",
-      "neurotype": [
-        "Autism"
       ],
       "framing": "Neurodiversity-informed"
     },
@@ -4605,25 +4824,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -4642,6 +4842,25 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
+    },
+    {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -9179,69 +9398,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1002/aur.70318",
-      "title": "Through Parents' Eyes: Perspectives on Child Development and Family Experience During\n                    <scp>ESDM</scp>\n                    Intervention",
-      "authors": [
-        "Kenza Latrèche",
-        "Fiona Journal",
-        "Michel Godel",
-        "Martina Franchini",
-        "Nada Kojovic",
-        "David Cimasoni",
-        "Marcin Czajkowski",
-        "Lucie Delieutraz",
-        "Chloé Laubu",
-        "Marie Schaer"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1002/aur.70318",
-      "url": "https://doi.org/10.1002/aur.70318",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Early intensive intervention for autistic children aims to support developmental progress in social and communication domains. Although outcomes are typically assessed using standardized measures of child development, parental perspectives during early intervention remain largely understudied. Here, we examined parental perceptions after 6 months of intensive Early Start Denver Model (ESDM) intervention. Participants were parents of 104 autistic children aged 1.3–3.5 years enrolled in an individualized therapist‐delivered ESDM intervention following diagnosis confirmation. Child development was assessed at entry (baseline) and 6 months later (follow‐up). At follow‐up, parents completed an 18‐item questionnaire capturing their perceptions of child progress across twelve domains as well as changes in parenting skills, personal well‐being, and family life. Descriptive analyses, item‐level correlations, and principal component analysis (PCA) were conducted to identify underlying components. Parents generally indicated improvements across all domains, with aggravation rarely reported. PCA revealed three intercorrelated components (Social Communication, Nonverbal Social Engageme…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70317",
-      "title": "Development and Validation of a\n                    <scp>Japanese</scp>\n                    Version of the Sensory Experience Questionnaire (\n                    <scp>SEQ</scp>\n                    ) 3.0: Structural Differences of Sensory Features Across Autistic Children",
-      "authors": [
-        "Takeshi Atsumi",
-        "Haruka Ito",
-        "Akane Shinjo",
-        "Tomoe Fukutomi",
-        "Yasuo Terao",
-        "Masakazu Ide",
-        "Kanae Matsushima"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1002/aur.70317",
-      "url": "https://doi.org/10.1002/aur.70317",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Healthcare",
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT People with autism spectrum disorder (ASD) often have unique sensory experiences. For both research and clinical purposes, tools that measure sensory features in autism are valuable; however, a gold‐standard tool does not yet exist. The Sensory Experience Questionnaire (SEQ) 3.0 is a well‐established caregiver‐/parent‐report questionnaire for autistic children and other neurodivergent individuals. This study aimed to develop and psychometrically validate the Japanese version of the SEQ 3.0 (SEQ‐J). After validation, we examined the differences in sensory response patterns among children with ASD, those with other neurodevelopmental conditions, and typically developing (TD) children to determine whether the SEQ assesses ASD‐specific sensory features. We recruited 154 children with ASD (44 with attention‐deficit hyperactivity disorder [ADHD] and 66 with other conditions) and 156 TD children, aged 6–12 years. Confirmatory factor analyses revealed an acceptable model fit for four content factors (sensory hyper‐ and hyporesponsiveness, sensory interests, repetitive and seeking behaviors, and enhanced perception) and six method factors (five sensory modalities and social context…",
-      "framing": "Mixed or transitional framing"
-    },
-    {
       "id": "10.1177/10870547261483443",
       "title": "Barriers Associated With the Implementation of Homework in Behavioral Parent Training Among Parents With ADHD Symptoms",
       "authors": [
@@ -11616,114 +11772,6 @@
         "ADHD"
       ],
       "abstract": "Purpose: To assess the bioequivalence of once-daily clonidine extended-release (XR) oral suspension (OS) to twice-daily clonidine XR tablets (TABs), which are approved for attention-deficit/hyperactivity disorder (ADHD). Methods: Study 1 ( n = 20) evaluated an equivalent daily dose of clonidine XR OS versus TABs and clonidine XR OS under fed versus fasted conditions. Outcomes included the maximum plasma concentration (C max ), the area under the analyte versus time curve (AUC) from 0 to the last analyte concentration (AUC t ) and to infinity (AUC inf ), and the half-life (T half ). Study 2 ( n = 19) evaluated AUC, C max , and the minimum concentration (C min ) at steady state (SS). The ratios of geometric means and corresponding 90% CIs of pharmacokinetic parameters for each treatment were compared to the US Food and Drug Administration definition of bioequivalence (80%–125%). Results: In Study 1 (mean [ SD ] age, 42 [11] years; 30% female; 10% Asian, 25% Black or African American, 5% Multiracial, 60% White; 40% Hispanic or Latino), the ratios (90% CIs) of clonidine XR OS to TABs were within the bioequivalence range accepted by the FDA for C max (95.6 [89.8, 101.8]), AUC t (97.2 [9…"
-    },
-    {
-      "id": "10.1007/s10803-026-07435-9",
-      "title": "Exercise as an Adjunctive Lifestyle Intervention for Psychiatric Comorbidities in Autism Spectrum Disorder",
-      "authors": [
-        "Emmanuela Ojoagefu Egwu",
-        "Emmanuel Kodizuru Chukwuemeka",
-        "Tejiri Napoleon",
-        "Temitomi Jane Oyedele",
-        "Oluwasijibomi Ogheneruona Davies",
-        "Ucheobi Nonso Christopher",
-        "Adeyemi Owoseni Solomon",
-        "Chinazaekpere Blessing Onwurah",
-        "Amaechi Emmanuel Obodoeze",
-        "Evelyn Faith Ogungbemi",
-        "Onubogu Nwamaka Chizaram",
-        "Ishaq Oyeshina Sanusi",
-        "Deborah Akinrinde",
-        "Angel Clement"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-25",
-      "doi": "10.1007/s10803-026-07435-9",
-      "url": "https://doi.org/10.1007/s10803-026-07435-9",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07449-3",
-      "title": "Caregiver Strain and Quality of Life in Parents of Offspring With Intellectual and Developmental Disabilities: Moderating Effects of Caregiver Age and Mutuality",
-      "authors": [
-        "E. Virginia Sticinski",
-        "Valerie A. Earnshaw",
-        "Steven Eidelman",
-        "Allison Karpyn",
-        "Sheau C. Chai"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-25",
-      "doi": "10.1007/s10803-026-07449-3",
-      "url": "https://doi.org/10.1007/s10803-026-07449-3",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Quality of life"
-      ]
-    },
-    {
-      "id": "10.1007/s40489-026-00581-x",
-      "title": "Stress Factors in Parents of Autistic Children: An Umbrella Review",
-      "authors": [
-        "Kim J.M. Tönis",
-        "Constance H.C. Drossaert",
-        "Peter M. ten Klooster",
-        "Julie Segers",
-        "Wouter G. Staal",
-        "Marie Schaer",
-        "Ernst T. Bohlmeijer"
-      ],
-      "journal": "Review Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-25",
-      "doi": "10.1007/s40489-026-00581-x",
-      "url": "https://doi.org/10.1007/s40489-026-00581-x",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Abstract Parents of autistic children are more prone to high levels of stress in their daily lives. This umbrella review synthesises evidence from 41 reviews on stressors parents face at micro-, meso-, and macrolevels. At microlevel, common stressors included children’s distress behaviours, autism characteristics, child-parent dependency, and parent’s worries and characteristics. At mesolevel, financial, marital, sibling, and community issues (e.g., stigmatisation, social isolation, and lack of social support) were frequent, while macrolevel stressors involved healthcare, education, and other support services. These findings highlight the need for an integrated approach to support parents, more attention to under-researched groups (e.g., fathers and parents of autistic daughters), and longitudinal research on parental stress over time.",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547261470140",
-      "title": "The Examination of Factors Contributing to Delays in Obtaining a Driver’s License for Youth With Attention-Deficit/Hyperactivity Disorder",
-      "authors": [
-        "Morgan L. Jusko",
-        "Michelle G. Bubnik-Harrison",
-        "Nicholas Albino",
-        "Larry W. Hawk",
-        "Stefany Coxe",
-        "Nicole K. Schatz",
-        "Karen L. Hulme",
-        "Rebecca K. Vujnovic",
-        "Kevin F. Hulme",
-        "William E. Pelham",
-        "Gregory A. Fabiano"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-25",
-      "doi": "10.1177/10870547261470140",
-      "url": "https://doi.org/10.1177/10870547261470140",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "abstract": "Background: Youth with attention-deficit/hyperactivity disorder (ADHD) are more likely to experience delays in obtaining their driver’s license relative to their same-aged peers. However, despite these delays, there is no evidence of improved driving outcomes for these youth. Additionally, graduated driver’s licensing laws typically terminate around the age of 18, giving some youth less structure prior to independently transitioning to the road. To date, no study has examined the cognitive and parenting factors that are related to delays in licensure for adolescents with ADHD within the context of an intervention (i.e., Supporting a Teen’s Effective Entry to the Roadway; STEER). The current study utilized logistic regression analyses to determine if teen cognitive functioning, parenting, and the intervention were related to licensure status at 12-month follow-up. Method: Baseline cognition (i.e., reaction time variability, working memory, inhibitory control), baseline parental monitoring, baseline negative parenting, and licensure status were collected on 172 adolescents with ADHD enrolled in a randomized, controlled trial. Results: There was a significant interaction between react…"
     }
   ]
 }
