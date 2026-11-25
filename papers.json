@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:48:41Z",
+  "generated_at": "2026-11-25T17:15:41Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -589,6 +589,107 @@
         "Mental health"
       ],
       "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
+    },
+    {
+      "id": "10.1108/aia-05-2026-0072",
+      "title": "Scale for autism in females (SAF): a diagnostic interview for the female phenotype",
+      "authors": [
+        "Janice Puder",
+        "Courteney Johnson",
+        "Eric Chen",
+        "Lori Wolff"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-11-26",
+      "doi": "10.1108/aia-05-2026-0072",
+      "url": "https://doi.org/10.1108/aia-05-2026-0072",
+      "neurotype": [
+        "Autism"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Purpose This study aimed to develop preliminary validity evidence for the Scale for Autism in Females (SAF), a semi-structured diagnostic interview designed to capture the often-overlooked presentation of autism in girls. For decades, autism assessment has been shaped primarily by male-centered diagnostic frameworks, contributing to the under-recognition of many females. Using a Delphi-style expert review process, experienced clinicians evaluated the SAF across three rounds of review. Findings provided initial evidence of face and content validity and informed revisions to strengthen the scale. As an early-stage instrument, the SAF represents a first step toward more inclusive, gender informed assessment practices. Design/methodology/approach This study used a qualitative Delphi-style design to support the initial development and preliminary validation of the SAF, a clinician-guided semi-structured diagnostic interview designed to assess the female autism phenotype. Twenty-eight experienced clinicians with expertise in autism diagnosis participated in 3 rounds of structured expert review. Using the Content Analysis and Evaluation Protocol rubric, participants evaluated each item’s…"
+    },
+    {
+      "id": "10.1007/s10803-026-07632-6",
+      "title": "Preventive Healthcare Utilization Among Children With Mental, Behavioral, and Developmental Disorders (MBDDs) in the United States",
+      "authors": [
+        "Satish K. Kedia",
+        "Asos Mahmood",
+        "Coree Entwistle",
+        "Hassan Arshad",
+        "Shreya Sirohi",
+        "Xichen Mou",
+        "Patrick J. Dillon"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-25",
+      "doi": "10.1007/s10803-026-07632-6",
+      "url": "https://doi.org/10.1007/s10803-026-07632-6",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Healthcare"
+      ],
+      "abstract": "Abstract Purpose To examine preventive healthcare utilization (PHU) by caregiver-reported mental, behavioral, and developmental disorders (MBDDs) diagnosis status and factors associated with PHU among U.S. children with a reported diagnosis. Methods We conducted a cross-sectional analysis of pooled 2020–2023 National Survey of Children’s Health data for 165,065 U.S. children aged 3–17 years. Guided by Andersen’s Behavioral Model, survey-weighted multivariable logistic regression estimated adjusted odds ratios (aORs) and 95% confidence intervals (CIs) for past-year preventive checkups in the overall sample and among children with MBDDs. Results Children with MBDDs had higher odds of PHU compared to those without MBDDs (aOR = 1.70; 95% CI: 1.58–1.82). In both models, older age and lower household educational attainment were associated with lower odds of PHU; caregiver emotional support and a usual source of healthcare/advice were associated with higher odds. Uninsured children had lower odds of PHU than those with adequate insurance. Among children with MBDDs, good caregiver mental or emotional health was associated with higher odds of PHU (aOR = 1.23; 95% CI: 1.01–1.50). Sensitivity…"
+    },
+    {
+      "id": "10.1007/s10803-026-07595-8",
+      "title": "Listening to Contextual Language Embedded in Immersive Virtual Reality: Findings in Typically Developing Children and Children With Neurodevelopmental Disorders",
+      "authors": [
+        "Satu Paavola",
+        "Minna Laakso",
+        "Satu Saalasti"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-25",
+      "doi": "10.1007/s10803-026-07595-8",
+      "url": "https://doi.org/10.1007/s10803-026-07595-8",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education"
+      ],
+      "tags": [
+        "communication"
+      ],
+      "abstract": "Abstract Purpose To date, there is a significant gap in scholarly research on spoken language comprehension in social contexts by children with neurodevelopmental disorders (NDDs). This study uses immersive virtual reality (IVR) to create social contexts for examining language comprehension. We study how children’s assessed language comprehension skills are related to performance in IVR and how NDD children perform compared with typically developing (TD) children. Methods Our IVR environment (ViRe School) provides visual support for attending heard contextual language and measures the duration of performance during attendance. The participants were early elementary students with NDD ( N = 5) and with TD ( N = 25). We studied the associations between IVR performance, the standardized test and parental questionnaire results using correlations and linear mixed models. Results TD children performed the tasks generally faster than NDD children. In TD children, better phonological working memory was significantly associated with shorter task duration ( p &lt; 0.001), and parental evaluation of better verbal communication skills with shorter duration of deviations during heard speech ( p…"
+    },
+    {
+      "id": "10.1177/10870547261507785",
+      "title": "Meeting the Behavioral Support Needs of Young Underserved Brazilian Families of Children With ADHD Symptoms Via WhatsApp",
+      "authors": [
+        "Camila Bernardes",
+        "Patricia Bado",
+        "Raquel Quimas Molina da Costa",
+        "Maria Luiza Mezavilla",
+        "Paulo Mattos",
+        "Gail Tripp",
+        "Emi Furukawa"
+      ],
+      "journal": "Journal of Attention Disorders",
+      "year": 2026,
+      "published_date": "2026-11-25",
+      "doi": "10.1177/10870547261507785",
+      "url": "https://doi.org/10.1177/10870547261507785",
+      "neurotype": [
+        "ADHD"
+      ],
+      "domains": [
+        "Healthcare",
+        "Service design"
+      ],
+      "tags": [
+        "access"
+      ],
+      "abstract": "Introduction: Accessible, high-quality behavioral healthcare for children is limited worldwide, especially in low- and middle-income countries, including Brazil. Behavioral parent training (BPT) is a recommended form of non-pharmacological treatment for children with mild to moderate ADHD. In Brazil, very few families of children with ADHD have access to BPT, with only a small percentage of healthcare professionals trained in behavioral techniques. In response to this need, we are developing a mobile health (mHealth) behavioral support intervention for caregivers. The first pilot module, the focus of the current study, introduces behavioral strategies for supporting children through everyday transitions, a common problem for many families, employing educational videos and daily text messages. Here, we evaluate the feasibility, acceptability, and preliminary efficacy of this pilot module. Methods: Two proof-of-concept, single group, pre-post studies were conducted. Study 1 included the caregivers ( n = 42) of children meeting the DSM-5 diagnostic criteria for ADHD, with caregiver-reported difficulties during everyday transitions. Wizard-of-Oz methodology was used to deliver the inte…"
     },
     {
       "id": "10.1007/s10803-026-07618-4",
@@ -1345,6 +1446,41 @@
       ]
     },
     {
+      "id": "10.1177/13623613261498478",
+      "title": "Everyday Sensory Experiences of Autistic University Students in Australia: An Experience Sampling Approach",
+      "authors": [
+        "Patrick Dwyer",
+        "Laura T. Broadbent",
+        "Max Bower",
+        "Sarah Curtis",
+        "Caden Hariz",
+        "Keira Plozza",
+        "Elizabeth Briese",
+        "Katy Unwin"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-16",
+      "doi": "10.1177/13623613261498478",
+      "url": "https://doi.org/10.1177/13623613261498478",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education",
+        "Mental health",
+        "Sensory environment",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "lived experience",
+        "sensory"
+      ],
+      "abstract": "Sensory differences and discomfort are significant on-campus barriers for many autistic postsecondary students, but we know relatively little about what makes sensory environments accessible or inaccessible for autistic students. In this study, 19 autistic university students in Australia answered experience sampling questions thrice daily for 2 weeks. Quantitative sensory comfort ratings were significantly poorer when participants reported states of greater anxiety, irritability, emotional reactivity and exhaustion. Participants also reported more quantitative sensory discomfort when open-ended answers described feeling tired/exhausted, anxious or stressed/overwhelmed, rather than feeling relaxed/good. Our study cannot resolve the causality of these relationships. Notably, however, between-person trait differences in anxiety, irritability and exhaustion were not statistically related to sensory comfort. Qualitative-quantitative triangulation suggested that participants experienced less sensory comfort: in open-access spaces (notably, on campus, travelling and shopping) compared to closed-access spaces (notably, at home); to high-intensity (e.g., loud) than low-intensity (e.g., qui…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1177/13623613261500528",
       "title": "Data Sharing in Autism Research: Case Studies From the United States and the United Kingdom and Recommendations for Practice",
       "authors": [
@@ -1387,41 +1523,6 @@
         "participatory"
       ],
       "abstract": "Data sharing has become common in Autism research. In the context of a history of eugenics, additional risks are present, including re-identification, misinterpretation and deficit-framing of Autism. We, a group of community members and researchers, aimed to (a) describe our ‘opt-in’ data-sharing approach in two Community-Based Participatory Research studies based in the United States (AASPIRE Outcomes Project) and the United Kingdom (Autism from Menstruation to Menopause; AM2M), (b) report on how many people opted to data share and (c) co-develop recommendations for ethical data sharing in Autism research. In the AASPIRE Outcomes Project, 680 of 870 (78.2%) participants opted to share quantitative survey data, with no differences by demographic, disability, or health characteristics. In AM2M, 36 of 100 (36.0%) participants opted to share longitudinal qualitative data, with significant variation when controlling for family-wise error rate by menopause status ( p = .007). We provide recommendations for ethical data sharing in Autism research, directed at governments, policy makers, research funders, data repositories, ethics boards and researchers. We favour approaches that centre a…"
-    },
-    {
-      "id": "10.1177/13623613261498478",
-      "title": "Everyday Sensory Experiences of Autistic University Students in Australia: An Experience Sampling Approach",
-      "authors": [
-        "Patrick Dwyer",
-        "Laura T. Broadbent",
-        "Max Bower",
-        "Sarah Curtis",
-        "Caden Hariz",
-        "Keira Plozza",
-        "Elizabeth Briese",
-        "Katy Unwin"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-11-16",
-      "doi": "10.1177/13623613261498478",
-      "url": "https://doi.org/10.1177/13623613261498478",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education",
-        "Mental health",
-        "Sensory environment",
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "lived experience",
-        "sensory"
-      ],
-      "abstract": "Sensory differences and discomfort are significant on-campus barriers for many autistic postsecondary students, but we know relatively little about what makes sensory environments accessible or inaccessible for autistic students. In this study, 19 autistic university students in Australia answered experience sampling questions thrice daily for 2 weeks. Quantitative sensory comfort ratings were significantly poorer when participants reported states of greater anxiety, irritability, emotional reactivity and exhaustion. Participants also reported more quantitative sensory discomfort when open-ended answers described feeling tired/exhausted, anxious or stressed/overwhelmed, rather than feeling relaxed/good. Our study cannot resolve the causality of these relationships. Notably, however, between-person trait differences in anxiety, irritability and exhaustion were not statistically related to sensory comfort. Qualitative-quantitative triangulation suggested that participants experienced less sensory comfort: in open-access spaces (notably, on campus, travelling and shopping) compared to closed-access spaces (notably, at home); to high-intensity (e.g., loud) than low-intensity (e.g., qui…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/13623613261502235",
@@ -2200,23 +2301,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07590-z",
-      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
-      "authors": [
-        "Abdullah Ahmed Almulla",
-        "Mohamad Ahmad Saleem Khasawneh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-11-05",
-      "doi": "10.1007/s10803-026-07590-z",
-      "url": "https://doi.org/10.1007/s10803-026-07590-z",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1007/s10803-026-07607-7",
       "title": "Socioeconomic Hardship and Cumulative Adverse Experiences in Relation to Anxiety and Depression in Autistic Children: Exploring the Role of Physical Activity",
       "authors": [
@@ -2232,6 +2316,23 @@
       ],
       "domains": [
         "Mental health"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1007/s10803-026-07590-z",
+      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
+      "authors": [
+        "Abdullah Ahmed Almulla",
+        "Mohamad Ahmad Saleem Khasawneh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07590-z",
+      "url": "https://doi.org/10.1007/s10803-026-07590-z",
+      "neurotype": [
+        "Autism"
       ],
       "framing": "Neurodiversity-informed"
     },
@@ -4899,6 +5000,25 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -4917,25 +5037,6 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
-    },
-    {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -9107,34 +9208,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261469910",
-      "title": "Scaling Up Caregiver Support for Autism in Public Health Care: Adoption, Implementation Pace and Sustainability of a Train-the-Trainer Model for the WHO Caregiver Skills Training in Italy",
-      "authors": [
-        "Erica Salomone",
-        "Giulia de Leonardis",
-        "Camilla Ferrante",
-        "Francesca Startari",
-        "Letizia Gila",
-        "Maria Luisa Scattoni"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/13623613261469910",
-      "url": "https://doi.org/10.1177/13623613261469910",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Service design"
-      ],
-      "tags": [
-        "access",
-        "service improvement"
-      ],
-      "abstract": "Train-the-Trainer (TTT) models can scale parent-mediated interventions (PMIs) in public health care, yet evidence on large-scale implementation remains limited. This study reports the implementation of an adapted TTT model for the WHO Caregiver Skills Training (CST) within the Italian National Health Service, evaluating adoption, acceptability, feasibility and sustainability. Twenty-eight clinicians from 10 Regions undertook the four-phase TTT. A mixed-methods design combined surveys with focus groups, analyzed using the Consolidated Framework for Implementation Research (CFIR). Twenty trainees (71%) qualified as Master Trainers (MTs), and 17 of these (85%) trained facilitators; 60% of MTs achieved full fidelity within the expected timeline. Satisfaction ratings were high, whereas feasibility ratings were mid-range. Implementation inhibitors clustered in the CFIR Inner setting (available resources, leadership engagement), Outer setting (lack of formal recognition), and Process (training model’s intensity structure) domains. Accelerators included Characteristics of individuals (motivation, readiness to change), Intervention characteristics (responsiveness to families’ needs, accessi…"
-    },
-    {
       "id": "10.1177/25739581261478008",
       "title": "“A Delightful Embodiment of Dichotomies”: A Qualitative Exploration of Self-Concept and Identity Among Autistic and Non-Autistic People",
       "authors": [
@@ -9413,30 +9486,6 @@
       ],
       "abstract": "ABSTRACT Youth with autism spectrum disorder or attention‐deficit/hyperactivity disorder (ADHD) may face barriers to sexual and reproductive health (SRH) services. Yet, data on preventive SRH service use remain limited, especially digital care. This population‐based registry study investigated whether patterns of SRH service use differed by digital versus in‐person care among 12–22‐year‐olds in Stockholm County (2018–2022). Among 454,405 youth (48.6% female; mean age 16 years), 11,850 were autistic, 31,144 had ADHD, and 9126 had both conditions; the majority of SRH contacts were in‐person visits. ADHD youth had higher adjusted Odds Ratios [aOR] of in‐person (females: 2.02 [95% CI, 1.93–2.11]; males, 1.46 [1.39–1.54]) and digital visits (females, 1.21 [1.14–1.29]; males, 1.26 [1.05–1.52]) than control peers. Autistic youth had lower aOR of in‐person (females, 0.67 [0.63–0.72]; males, 0.45 [0.40–0.51]) and digital visits (females, 0.79 [0.71–0.89]; males, 0.79 [0.54–1.15]). Intensity of use (incidence rate ratios) was higher among ADHD youth but similar among autistic females compared with control peers. Autistic females were more likely to consult physicians but less likely to see m…",
       "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1002/aur.70321",
-      "title": "Socioeconomic Status and Quantity of Shared Book Reading, But Not Screen Time, are Positively Associated With Language Skills in a Nationally Representative Sample of Autistic Children",
-      "authors": [
-        "M. Pecukonis",
-        "A. Geffin"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1002/aur.70321",
-      "url": "https://doi.org/10.1002/aur.70321",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "ABSTRACT Studies have shown that both distal and proximal environmental factors influence language development in neurotypical children. More specifically, higher socioeconomic status (SES) and more frequent shared book reading have been linked to higher language skills in neurotypical children, while higher screen time has been linked to lower language skills. However, little research has focused on understanding how the environment shapes language development in autistic children, who often experience challenges using and/or understanding spoken language. The present study used data from the 2018–2022 United States National Survey of Children's Health to investigate the associations between SES, quantity of shared book reading and screen time experienced at home, and expressive and receptive language skills in a nationally representative sample of two to five year old autistic children. Structural equation modeling revealed that autistic children from higher SES households, and who experienced shared book reading more frequently at home, had higher expressive and receptive language skills. Shared book reading also mediated the association between SES and children's language skill…",
-      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10870547261483443",
@@ -10408,6 +10457,24 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -10427,24 +10494,6 @@
         "Education"
       ],
       "framing": "Person-first language used"
-    },
-    {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1080/20473869.2026.2692513",
@@ -11728,70 +11777,6 @@
         "lived experience"
       ],
       "abstract": "Purpose This study examines whether early indicators of emerging special educational needs and disabilities (SEND) vulnerability are observable within routine school experience prior to crisis-level participation breakdown, and how such signals are interpreted within school systems. Drawing on retrospective case analysis, it explores the timing, character and organisational interpretation of early warning signs embedded within apparently successful participation. This study aims to deepen understanding of how hidden vulnerability develops over time and to inform earlier, more responsive approaches to identification and support in mainstream education. Design/methodology/approach This study uses a retrospective qualitative case-based design, drawing on anonymised assessment material generated through routine professional practice. Four cases of pupils aged 12–15, whose participation in mainstream education deteriorated to school refusal or withdrawal, were purposively selected. Data sources included semi-structured parental interviews and school documentation. These were analysed using cross-case reflexive thematic analysis to reconstruct participation trajectories and identify earl…"
-    },
-    {
-      "id": "10.1177/25739581261473988",
-      "title": "Beyond “Misleading”: Rethinking the Evaluation of Autism and ADHD Social Media Content",
-      "authors": [
-        "Alvin van Asselt",
-        "Larissa Venema-Avezaat",
-        "Desiree Reekers",
-        "Yvonne Ras",
-        "Yvette Roke"
-      ],
-      "journal": "Autism in Adulthood",
-      "year": 2026,
-      "published_date": "2026-07-27",
-      "doi": "10.1177/25739581261473988",
-      "url": "https://doi.org/10.1177/25739581261473988",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10882-026-10086-4",
-      "title": "‘You’re Not Taking Us Down Duchenne!’ Seeing, Valuing, and Supporting the Resilience of Mothers of Children Living With Duchenne Muscular Dystrophy Through Positive Psychology Interventions",
-      "authors": [
-        "Janet Hoskin",
-        "Jo Finch",
-        "Chloe Geagan"
-      ],
-      "journal": "Journal of Developmental and Physical Disabilities",
-      "year": 2026,
-      "published_date": "2026-07-27",
-      "doi": "10.1007/s10882-026-10086-4",
-      "url": "https://doi.org/10.1007/s10882-026-10086-4",
-      "neurotype": [
-        "ADHD",
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ],
-      "abstract": "Abstract Mothers of young people with the rare, genetic, life-shortening condition Duchenne Muscular Dystrophy (DMD), face multiple challenges and pressures. DMD is characterised by progressive muscle degeneration affecting skeletal, respiratory and cardiac muscles. Many young people lose ambulation during adolescence and may require ventilatory support as respiratory muscle weakness progresses (Birnkrant et al., 2018). DMD can also be associated with other conditions, such as Autism Spectrum Condition, Attention Deficit and Hyperactivity Disorder, dyslexia and poor mental health. Whilst life expectancy has improved, given the rarity and everyday impacts of the condition on individuals and their families, the stress of caring for a young person with DMD can be significant. Not least, the wide range of medical and social care professionals involved, the ongoing struggle to secure care and appropriate resources, and the impact of living in an ableist society. This article documents findings from a small-scale pilot intervention with mothers of children with DMD, informed by positive psychology, which aimed to explore their understanding and embodiment of resilience. The study found t…"
-    },
-    {
-      "id": "10.1177/10870547261469625",
-      "title": "Exploring Women’s Experiences of a Late ADHD Diagnosis: Unveiling a Personal Superpower Through Reflexive Thematic Analysis",
-      "authors": [
-        "Tracy Kelly",
-        "Brandon May",
-        "Cody Normitta Porter",
-        "Marek Palace"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-27",
-      "doi": "10.1177/10870547261469625",
-      "url": "https://doi.org/10.1177/10870547261469625",
-      "neurotype": [
-        "ADHD"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Objective: Attention-deficit/hyperactivity disorder (ADHD) remains underdiagnosed in women, with many receiving a diagnosis later in life. This qualitative study explored the lived experiences of women who received an ADHD diagnosis in adulthood, addressing a limited gap in the current literature. Method: Twelve women aged 45 to 58 participated in semi-structured interviews, which were analysed using reflexive thematic analysis. Results: Three key themes were identified: Discovering ADHD: Revealing the Hidden Struggles , Battling the Emotional Storms of ADHD , and Living with ADHD . Participants described years of misdiagnosis, internalised stigma, and emotional dysregulation, often compounded by hormonal fluctuations that impacted symptom severity and medication efficacy. Despite these challenges, many women reframed aspects of their ADHD, particularly hyperfocus, as a functional strength and described their diagnosis as profoundly validating. Conclusion: The study highlights the need for improved gender-sensitive diagnostic practices, clinician awareness of ADHD symptom presentation across the female lifespan, and tailored treatment approaches that account for hormonal changes. F…"
     }
   ]
 }
