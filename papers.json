@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:56:31Z",
+  "generated_at": "2026-11-27T16:42:07Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -589,6 +589,59 @@
         "Mental health"
       ],
       "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
+    },
+    {
+      "id": "10.1007/s10803-026-07634-4",
+      "title": "Just Because ​You Have Special Needs Doesn’t Mean Everyone Is the Same: Family Perspectives on Autism and Bilingualism in Singapore",
+      "authors": [
+        "Nataly Lim",
+        "Veryne Wong",
+        "Thahirah Binte Kamarudin"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-27",
+      "doi": "10.1007/s10803-026-07634-4",
+      "url": "https://doi.org/10.1007/s10803-026-07634-4",
+      "neurotype": [
+        "Autism"
+      ]
+    },
+    {
+      "id": "10.1007/s10803-026-07620-w",
+      "title": "Hepatitis B Surface Antibody Seronegativity in Youth With ASD and Severe Behaviors: a Retrospective Tertiary Neurobehavioral Cohort",
+      "authors": [
+        "Jennifer Klein",
+        "Lee Wachtel",
+        "John Michael Falligant"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-27",
+      "doi": "10.1007/s10803-026-07620-w",
+      "url": "https://doi.org/10.1007/s10803-026-07620-w",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/10883576261509185",
+      "title": "Resilience in Parents of Autistic Individuals: Scale Development, Validation, and Reliability",
+      "authors": [
+        "Sinem Kars",
+        "Meral Huri"
+      ],
+      "journal": "Focus on Autism and Other Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-11-27",
+      "doi": "10.1177/10883576261509185",
+      "url": "https://doi.org/10.1177/10883576261509185",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Parents of autistic individuals face various challenges that may influence their psychological resilience. Although resilience is increasingly recognized as essential for supporting parental well-being and effective caregiving, few psychometrically robust tools exist to assess it. This study aimed to develop and validate the Resilience Scale for Parents of Autistic Individuals (RSP-A) and to examine differences in parental resilience across autistic child age groups. Using a cross-sectional design, construct validity was evaluated through exploratory and confirmatory factor analyses, and reliability was assessed with Cronbach’s alpha and test–retest methods. The content validity index was high (.954). Analyses supported a 19-item, five-factor structure with excellent reliability (Cronbach’s α = .994; intraclass correlation coefficient = .993). Parents of toddlers reported lower social support, while those of toddler-aged children demonstrated higher family functioning than parents of teenagers. The RSP-A appears to be a valid, reliable, and time-efficient tool for researchers and clinicians.",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1007/s10803-026-07621-9",
@@ -2412,6 +2465,23 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07590-z",
+      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
+      "authors": [
+        "Abdullah Ahmed Almulla",
+        "Mohamad Ahmad Saleem Khasawneh"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-05",
+      "doi": "10.1007/s10803-026-07590-z",
+      "url": "https://doi.org/10.1007/s10803-026-07590-z",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Neurodiversity-informed"
+    },
+    {
       "id": "10.1007/s10803-026-07607-7",
       "title": "Socioeconomic Hardship and Cumulative Adverse Experiences in Relation to Anxiety and Depression in Autistic Children: Exploring the Role of Physical Activity",
       "authors": [
@@ -2427,23 +2497,6 @@
       ],
       "domains": [
         "Mental health"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07590-z",
-      "title": "Digital Masking Profiles and Academic Self-Concept Among Gifted Autistic Students and Students With Learning Difficulties: A Two-Wave Person-Centered Study",
-      "authors": [
-        "Abdullah Ahmed Almulla",
-        "Mohamad Ahmad Saleem Khasawneh"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-11-05",
-      "doi": "10.1007/s10803-026-07590-z",
-      "url": "https://doi.org/10.1007/s10803-026-07590-z",
-      "neurotype": [
-        "Autism"
       ],
       "framing": "Neurodiversity-informed"
     },
@@ -5111,6 +5164,25 @@
       ]
     },
     {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
+    },
+    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -5129,25 +5201,6 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
-    },
-    {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -8337,25 +8390,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -8382,6 +8416,25 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
+    },
+    {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -9209,60 +9262,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261466305",
-      "title": "“Everyone Has a Different Body Constitution”: An Interpretative Phenomenological Analysis of the Experiences of Social Interaction and Related Supports in Chinese Autistic Postsecondary Students",
-      "authors": [
-        "Annabel Shin Ling Tong",
-        "Gary Yu Hin Lam"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/13623613261466305",
-      "url": "https://doi.org/10.1177/13623613261466305",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Education"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Little research has investigated how autistic individuals make sense of their experiences with socializing and interacting with others in postsecondary education. Autistic students are also dissatisfied with insufficient social interventions and the lack of autistic input in the design of such support. This study investigated the lived experiences of social interaction and related support in autistic postsecondary students. We conducted interviews with eight Chinese autistic students currently enrolled in a university or college in Hong Kong. Analysis using an interpretative phenomenological analysis approach identified four themes, including (1) their attempts and motivation to connect and socialize, which was often felt ineffective and exhausting; (2) the internal negotiation and delicate balance between masking and unmasking; (3) the crucial role of both formal and informal supports in coping with social and emotional challenges; and (4) social support and interventions needed to include diverse strategies ranging from skills building to neurodiversity-informed practices that respond to individual preferences and contexts. This study reveals cultural nuances in social preference…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/13623613261470850",
-      "title": "Communicating About Sexuality in Autism: Experiences of Primary Caregivers",
-      "authors": [
-        "Tatiane Geralda André",
-        "Milena de Lucca",
-        "María Dolores Gil-Llario",
-        "Lucila Castanheira Nascimento"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/13623613261470850",
-      "url": "https://doi.org/10.1177/13623613261470850",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "tags": [
-        "access",
-        "communication",
-        "lived experience"
-      ],
-      "abstract": "Sexuality is a fundamental part of human development and should be addressed in its physical, emotional, and social dimensions. However, when it involves autistic children and adolescents, the topic remains marked by taboos, silence, and misinformation, especially within families. To understand the experiences of caregivers of autistic children and adolescents in Brazil and Spain regarding communication about sexuality, a qualitative narrative study was carried out based on Bronfenbrenner’s Bioecological Theory. The research was conducted in Brazil and Spain. In Brazil, participants were recruited in person and remotely; in Spain, recruitment occurred online with academic and social media support. Data were collected through in-depth interviews and field notes using a semi-structured script. Inductive thematic analysis was used to identify recurring patterns. Nineteen caregivers participated, mostly mothers. Two narrative syntheses emerged: (a) “ Breaking the Silence ,” showing how family silences, trauma, lack of knowledge, and autism-related challenges create emotional and cognitive barriers; and (b) “ Navigating Fragilities, Improvisations, and Discoveries ,” illustrating daily…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581261478008",
       "title": "“A Delightful Embodiment of Dichotomies”: A Qualitative Exploration of Self-Concept and Identity Among Autistic and Non-Autistic People",
       "authors": [
@@ -9486,31 +9485,6 @@
         "Autism"
       ],
       "abstract": "ABSTRACT Families of children with neurodisabilities often face significant child behavioral challenges that can affect overall family functioning and well‐being. This randomized controlled trial (RCT) used family resilience theory as the investigative framework to examine the impact of an online parenting program designed to address child behavioral challenges. Parents of children with a range of neurodisabilities were randomized into three groups: a self‐directed online parenting program, the same program with coaching support, and a control group. Family well‐being was measured using the SCORE‐15 at baseline, 5, and 10 months. The primary analysis included a per‐protocol sample comprising self‐directed participants who completed ≥ 8 of 12 modules, coached participants who completed ≥ 8 modules and ≥ 8 coaching sessions, and all control‐group participants. Linear mixed models (LMMs) were used to analyze the repeated measures data, followed by standard linear regression models to assess the average intervention effect at each time point. Clinically significant changes were calculated via the reliable change index (RCI). Of the 454 families randomized, 422 participants had at least…"
-    },
-    {
-      "id": "10.1002/aur.70327",
-      "title": "Adaptive Functioning, Sensory Processing, and Behavioral Problems in Autistic Children: The Moderating Role of Gender",
-      "authors": [
-        "Cory Shulman",
-        "Danielle Bitton",
-        "Zili Nir"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1002/aur.70327",
-      "url": "https://doi.org/10.1002/aur.70327",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Sensory environment"
-      ],
-      "tags": [
-        "sensory"
-      ],
-      "abstract": "ABSTRACT Children with autism spectrum disorder (ASD) frequently experience elevated emotional and behavioral difficulties, yet factors associated with variability remain incompletely understood. Adaptive functioning and sensory processing differences have been linked to behavioral problems, but little is known about whether associations differ between boys and girls. This study examined relationships between adaptive functioning, sensory processing, and behavioral problems in children with ASD, focusing on gender as a moderator. The purposive sampling included 110 autistic children ( M age = 85.61 months, SD = 31.51; 50 boys and 60 girls) and their primary caregivers. Adaptive functioning was assessed using the Vineland Adaptive Behavior Scales –Third Edition, sensory processing using the Short Sensory Profile , and behavioral problems using the C hild Behavior Checklist . Gender differences were examined with Mann–Whitney tests, associations with Spearman's correlations, and moderation analyses using PROCESS with bootstrap resampling. Girls demonstrated higher internalizing and externalizing behavioral problems than boys, whereas boys showed greater sensory processing differences…",
-      "framing": "Mixed or transitional framing"
     },
     {
       "id": "10.1177/10870547261483443",
@@ -11575,141 +11549,6 @@
         "Education"
       ],
       "abstract": "Objective: The goal of this study was to (a) identify which dimensions of emotion dysregulation (i.e., emotion recognition/understanding, emotion regulation, emotion reactivity/lability, callous-unemotional behaviors) are most strongly associated with peer functioning for young children with ADHD only and with comorbid disruptive behavior disorders (ADHD + DBD) as compared to typically developing (TD) children and (b) assess whether improvements in children’s peer functioning are linked to changes in emotion regulation. Method: The sample included 323 children (68.7% boys; M age = 5.47, SD = 0.77, 81.4% Hispanic) with ADHD only ( n = 46), ADHD + DBD ( n = 129), and TD ( n = 148). Domains of emotion dysregulation were measured via parent/teacher report and behavioral observation. Peer functioning was examined via teacher report and sociometric measures administered in a summer camp setting. Results: Analyses of Covariance revealed significant differences in peer functioning and emotion dysregulation across diagnostic groups (Cohen’s d range from = −0.47 to 0.39). Multiple linear regressions indicated significant associations between all subdomains of emotion dysregulation and peer f…"
-    },
-    {
-      "id": "10.1007/s10803-026-07446-6",
-      "title": "Feasibility and Effectiveness of the WHO Caregiver Skills Training Program in South Korea: Adaptation to an Online Video-Based Coaching Model",
-      "authors": [
-        "Seong-Jin Oh",
-        "Won-Jae Lim",
-        "Eun-Chung Lim",
-        "In-Young Sung",
-        "Seok-Yeon Ji",
-        "Lee-Kyung Kim",
-        "Yeni Kim"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-29",
-      "doi": "10.1007/s10803-026-07446-6",
-      "url": "https://doi.org/10.1007/s10803-026-07446-6",
-      "neurotype": [
-        "Autism"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07468-0",
-      "title": "Project SEARCH Staff Perspectives on Using Virtual Reality to Support Workplace Conversations: A Brief Report",
-      "authors": [
-        "Ty B. Tucker",
-        "Kari Sherwood",
-        "Connie Sung",
-        "Matthew J. Smith"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-29",
-      "doi": "10.1007/s10803-026-07468-0",
-      "url": "https://doi.org/10.1007/s10803-026-07468-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment"
-      ]
-    },
-    {
-      "id": "10.1007/s10803-026-07440-y",
-      "title": "Everyday Social Interaction Mediates the Relation Between Autistic Children’s Theory of Mind and Parental Stress",
-      "authors": [
-        "Yun-Ling Chen",
-        "Yen-Ting Yu",
-        "Yu-Wen Su",
-        "Kuan-Lin Chen"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-29",
-      "doi": "10.1007/s10803-026-07440-y",
-      "url": "https://doi.org/10.1007/s10803-026-07440-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Mental health"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07450-w",
-      "title": "“Agarro Lo Mejor de Dos Mundos”: Transfronteriza Mothers of Autistic Children as Nepantleras in a Rural U.S./Mexico Border",
-      "authors": [
-        "Ana D. Dueñas",
-        "Fernanda A. Castellon",
-        "Karely Valdez-Lopez",
-        "Carmen Orendain-Soto",
-        "Karen Kuperman"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-29",
-      "doi": "10.1007/s10803-026-07450-w",
-      "url": "https://doi.org/10.1007/s10803-026-07450-w",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07456-4",
-      "title": "Vaccine Hesitancy in Autism Spectrum Disorder: A Systematic Review With Meta-Analyses",
-      "authors": [
-        "Buğra Taygun Gülle",
-        "Ayşe Rumeysa Doğruyol",
-        "Meryem Merve Ören Çelik"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-29",
-      "doi": "10.1007/s10803-026-07456-4",
-      "url": "https://doi.org/10.1007/s10803-026-07456-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
-      "id": "10.1007/s10803-026-07424-y",
-      "title": "Over-Represented and Under-Served: Autistic Children and Young People Seeking Help for Suicidal Crisis in a UK Emergency Department",
-      "authors": [
-        "Emma Ashworth",
-        "Pooja Saini",
-        "Claire Hanlon",
-        "Anna Hunt",
-        "Molly McCarthy",
-        "Sio Wynne",
-        "Vivienne Crosbie",
-        "Lucy Bray",
-        "David Moore",
-        "Abigail Knight",
-        "Georgia Pavlopoulou"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-29",
-      "doi": "10.1007/s10803-026-07424-y",
-      "url": "https://doi.org/10.1007/s10803-026-07424-y",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Emergency care",
-        "Healthcare",
-        "Mental health"
-      ],
-      "abstract": "Abstract Purpose Hospital Emergency Departments are increasingly playing a role in the care of young people experiencing suicidal crisis. Autistic young people, who already experience elevated rates of suicidal thoughts and death by suicide, may face particular difficulties in such environments. Methods This retrospective medical records review explored patterns of Emergency Department attendance for suicidal crisis among young people (aged 8–16 years) attending a UK paediatric hospital between 2019 and 2021. Anonymised clinical records from 338 young people were analysed using descriptive and exploratory statistics. Results 35.8% of attendees were autistic and 62.0% of those were female. Autistic young people were attending at significantly younger ages than non-autistic young people, and were significantly more likely to be known to mental health services and to have attended the Emergency Department previously for suicide ideation. Conclusion Findings indicate that autistic young people, and in particular autistic females, were over-represented in crisis presentations, despite previous attempts to seek help. Further research is needed to understand what could help prevent autist…",
-      "framing": "Neurodiversity-informed"
     }
   ]
 }
