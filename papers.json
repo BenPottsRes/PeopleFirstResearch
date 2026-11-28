@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:42:07Z",
+  "generated_at": "2026-11-28T15:33:48Z",
   "source_summary": "Updated daily from Crossref using a journal watchlist plus person-focused filters, plus optional cross-domain keyword queries",
   "schema_version": "1.0",
   "papers": [
@@ -591,6 +591,23 @@
       "abstract": "Objective: Cognitive-behavioral therapy (CBT) for attention-deficit/hyperactivity disorder (ADHD) in adults emphasize the role of dysfunctional cognitions in reinforcing and exacerbating distress and impairment. However, research supporting theorized connections between ADHD symptoms, maladaptive schemas, negative automatic thoughts (NAT; e.g., “I’m stupid”; “It’s pointless”), overly-positive avoidant thoughts (OPAT; e.g., “I have plenty of time—I’ll do it later”), and impairment is limited. Methods: The current study sought to evaluate the cognitive behavioral framework for adult ADHD in a community sample of 141 emerging adults ( M age = 19.84; 85.5% White; 72.1% female; 20% reported ADHD diagnosis), while controlling for relevant covariates (age, sex, and self-reported symptoms of anxiety and depression). Hierarchical stepwise regressions were used to test theorized relationships between ADHD symptoms, maladaptive schemas, and dysfunctional automatic thoughts, and examine how each of these are related to impairment. Results: ADHD symptoms and two maladaptive schemas (Insufficient Self-Control and Dependence/Incompetence) jointly predicted OPAT: ADHD symptoms and Insufficient Sel…"
     },
     {
+      "id": "10.1007/s40489-026-00610-9",
+      "title": "Evaluating Embedded Instruction as an Evidence-Based Practice for Children with Autism Spectrum Disorder: A Systematic Review and Meta-Analysis",
+      "authors": [
+        "Salih Rakap",
+        "Emrah Gulboy"
+      ],
+      "journal": "Review Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-11-28",
+      "doi": "10.1007/s40489-026-00610-9",
+      "url": "https://doi.org/10.1007/s40489-026-00610-9",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Mixed or transitional framing"
+    },
+    {
       "id": "10.1007/s10803-026-07634-4",
       "title": "Just Because ​You Have Special Needs Doesn’t Mean Everyone Is the Same: Family Perspectives on Autism and Bilingualism in Singapore",
       "authors": [
@@ -624,6 +641,91 @@
         "Autism"
       ],
       "framing": "Medical or diagnostic framing"
+    },
+    {
+      "id": "10.1177/13623613261506040",
+      "title": "A Qualitative Study of the Value and Impact of Autistic-Delivered Peer Support",
+      "authors": [
+        "Wei Song",
+        "Liza Tomczuk",
+        "Jordan Gifford",
+        "Katy Kaplan",
+        "Gregory Bannett",
+        "Annemarie Clarke",
+        "Stacy Nonnemacher",
+        "Lindsay Shea",
+        "Mark S. Salzer"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-27",
+      "doi": "10.1177/13623613261506040",
+      "url": "https://doi.org/10.1177/13623613261506040",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Quality of life"
+      ],
+      "tags": [
+        "lived experience"
+      ],
+      "abstract": "Autistic young adults often experience unmet support needs as they navigate increased independence and community participation. Autistic-delivered peer support offers a distinctive approach by combining individualized support with shared lived experience; however, relatively little is known about how autistic adults experience and value this form of support. This qualitative study involves participants who were autistic young adults aged 18 to 30 enrolled in a larger randomized study of a community-based autistic-delivered peer support intervention. Seventeen intervention participants completed semi-structured interviews approximately 3 months after enrollment. Interview data were analyzed using thematic analysis incorporating deductive and inductive approaches. Six themes characterized the perceived value of receiving support from autistic peers: being one’s authentic self, receiving autistic-informed advice grounded in mutual understanding, experiencing connection and shared experiences, promoting self-determination, learning from different autistic experiences, and feeling inspired. Participants also described varied forms of valuable support provided by peer specialists, includ…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261504956",
+      "title": "Intensive Support Needs Among Autistic Children in the United States",
+      "authors": [
+        "Philip H. Smith",
+        "Jason C. Kim",
+        "Marisa A. Patti",
+        "Kristen Lyall",
+        "Lindsay L. Shea",
+        "Giacomo Vivanti",
+        "Diana E. Schendel"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-27",
+      "doi": "10.1177/13623613261504956",
+      "url": "https://doi.org/10.1177/13623613261504956",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication",
+        "Education",
+        "Service design"
+      ],
+      "tags": [
+        "access",
+        "communication"
+      ],
+      "abstract": "Supporting autistic youth with intensive support needs (ISN) in one or more service domains (i.e., disability services, health care, social services) is critical for implementing equitable policies and programs. Previous approaches have focused on intellectual disability (ID) or spoken language support needs (SS) and may overlook autistic youth with ISN in other domains. We analyzed data from children aged 2 to 17 years in the U.S. National Survey of Children’s Health (NSCH, 2019–2023; n = 197,326 non-autistic and n = 6,652 autistic children), identifying five ISN domains: ID; speech; medical complexity (MC); socioeconomic; and mental/behavioral health. We examined prevalence and overlap across ISN domains and associations with specific support needs across day-to-day settings and experiences (health care/service access; family; peer relationships; school; childhood adversity). Two-thirds of autistic children had ISN in ⩾ 1 domain; one-third in ⩾ 2 domains. Nearly half of children whose caregivers rated their autism as “mild” had ISN in at least one domain. All ISN domains were independently associated with specific support needs. ISN domain count showed a dose-response relationshi…",
+      "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261504947",
+      "title": "What Predicts Adaptive Functioning in the First Year After Autism Diagnosis? A Prospective Study of RRBs, Developmental Level, and Family Accommodation",
+      "authors": [
+        "Tamar Matz Vaisman",
+        "Mohamed Tarabeih",
+        "Judah Koller"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-27",
+      "doi": "10.1177/13623613261504947",
+      "url": "https://doi.org/10.1177/13623613261504947",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Communication"
+      ],
+      "abstract": "Adaptive functioning is a key everyday outcome for autistic preschoolers, but the family processes that may shape it are poorly understood. We examined child and family predictors of adaptive functioning over the first year following autism diagnosis, with attention to restricted and repetitive behaviors (RRBs), developmental quotient (DQ), and parental accommodation. Fifty-seven families of autistic children (mean age 39 months at diagnosis) were assessed at three time points across 1 year, with mothers and fathers independently reporting accommodation. Linear mixed models indicated that higher Repetitive Behavior Scale, Revised (RBS-R) scores and lower DQ predicted poorer adaptive functioning, with a significant RBS-R by DQ interaction such that the negative association was stronger among children with higher DQ. However, this interaction was not significant in a sensitivity analysis that omitted the accommodation predictors and retained more participants, so it should be considered preliminary. Parental accommodation did not directly predict adaptive functioning. Mothers and fathers showed comparable mean levels and stability of accommodation. Findings suggest that early adaptiv…",
+      "framing": "Neurodiversity-informed"
     },
     {
       "id": "10.1177/10883576261509185",
@@ -3190,26 +3292,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261478886",
-      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
-      "authors": [
-        "Anna Cook",
-        "Alice Boddy"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-11-01",
-      "doi": "10.1177/13623613261478886",
-      "url": "https://doi.org/10.1177/13623613261478886",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
-    },
-    {
       "id": "10.1177/13623613261478892",
       "title": "Oscillatory Traveling Waves During Visual Entrainment in Autistic and Non-Autistic Adults",
       "authors": [
@@ -3234,6 +3316,26 @@
       ],
       "abstract": "Neural oscillations and traveling waves play a crucial role in cognition. In scalp electroencephalography (EEG), waves typically travel along the anterior-posterior axis: forward waves (occipital-to-frontal) predominate during sensory stimulation, while backward waves (frontal-to-occipital) emerge during rest and top-down modulation. Within the predictive coding framework, backward waves reflect predictive signals, whereas forward waves convey sensory processes and prediction errors. In this study, we investigated traveling wave dynamics during a visual entrainment task in non-autistic and autistic adults. Our results show an increase in backward waves during rhythmic visual stimulation in the non-autistic group, consistent with enhanced top-down predictions. Notably, we observed the opposite pattern in the autism group, characterized by a pronounced increase in forward waves at the entrained frequency (ω 2 = 0.132). These results align with predictive coding accounts of autistic perception, which hypothesize a difference in balance between predictions and sensory evidence. Specifically, an increase in forward waves may reflect a bias toward sensory signaling over predictive feedba…",
       "framing": "Neurodiversity-informed"
+    },
+    {
+      "id": "10.1177/13623613261478886",
+      "title": "Building Teacher Capacity for Inclusive Practice With Autistic Pupils: A Mixed-Methods Study of Self-Efficacy, Training, Attitudes, and School Context",
+      "authors": [
+        "Anna Cook",
+        "Alice Boddy"
+      ],
+      "journal": "Autism",
+      "year": 2026,
+      "published_date": "2026-11-01",
+      "doi": "10.1177/13623613261478886",
+      "url": "https://doi.org/10.1177/13623613261478886",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Education"
+      ],
+      "abstract": "Autistic pupils in mainstream secondary schools often experience unmet needs, yet limited research has examined the combined influence of multiple theoretically relevant predictors of teachers’ self-efficacy and intentions to implement inclusive practice for autistic pupils. This mixed-methods study surveyed 126 staff from six secondary schools, assessing autism-specific training, perceived inclusiveness of the school environment, experience with autistic pupils, neurodiversity-affirming attitudes, personal connection to autism, and staff role. Teacher self-efficacy and intentions for inclusive practice were measured using adapted scales, and hierarchical multiple regression identified significant predictors. Autism-specific training, perceived quality of the inclusive environment, years of experience with autistic pupils, classroom teacher role, and neurodiversity-affirming attitudes predicted higher self-efficacy. Together, these explained 42.1% of the variance. Intentions for inclusive practice were predicted by neurodiversity-affirming attitudes and training, explaining 27.5% of the variance. Thematic analysis of open-text responses revealed practical adjustments including clea…"
     },
     {
       "id": "10.1177/13623613261480174",
@@ -5164,25 +5266,6 @@
       ]
     },
     {
-      "id": "10.1007/s10803-026-07557-0",
-      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
-      "authors": [
-        "E. Cuni",
-        "M. Cantero-García"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-10-16",
-      "doi": "10.1007/s10803-026-07557-0",
-      "url": "https://doi.org/10.1007/s10803-026-07557-0",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Mental health"
-      ]
-    },
-    {
       "id": "10.1007/s10803-026-07580-1",
       "title": "Cyber Dependent Crime May Be Predicted by Autism Diagnosis but Not Autistic Traits",
       "authors": [
@@ -5201,6 +5284,25 @@
         "disclosure"
       ],
       "abstract": "Abstract Purpose Previous research has produced mixed findings on the question of whether autism or the degree of autistic traits influence the prevalence of cybercrime. Our objective was to resolve some of these inconsistencies by investigating the relationships between autism diagnosis, autistic traits, advanced computer skills and different types of cybercrime in adults. Methods Autistic ( N = 138) and non-autistic ( N = 206) adults completed (a) the 50-item Autism Spectrum Quotient to assess degree of autistic traits, (b) the Cyber-Dependent Crime Questionnaire and the Cyber Crime Index to measure the prevalence of cyber-dependent and cyber-enabled crime, and (c) the LiES and the BIDR-16 to permit control for any tendency of participants to lie and provide socially desirable responses. Participants who endorsed any engagement in cybercrime also described the activity to ensure that any disclosure of cybercrime was in fact criminal activity. Results Autism diagnosis, but not autistic traits, was a significant predictor of cyber-dependent crime. However, this relationship was not mediated by advanced digital skills or theory of mind. Furthermore, neither autism diagnosis nor auti…"
+    },
+    {
+      "id": "10.1007/s10803-026-07557-0",
+      "title": "Autistic Masking and Mental Health Outcomes in Autistic Women: A Systematic Review (2015–2025)",
+      "authors": [
+        "E. Cuni",
+        "M. Cantero-García"
+      ],
+      "journal": "Journal of Autism and Developmental Disorders",
+      "year": 2026,
+      "published_date": "2026-10-16",
+      "doi": "10.1007/s10803-026-07557-0",
+      "url": "https://doi.org/10.1007/s10803-026-07557-0",
+      "neurotype": [
+        "Autism"
+      ],
+      "domains": [
+        "Mental health"
+      ]
     },
     {
       "id": "10.1007/s10803-026-07581-0",
@@ -8390,6 +8492,25 @@
       "framing": "Neurodiversity-informed"
     },
     {
+      "id": "10.1108/aia-01-2026-0006",
+      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
+      "authors": [
+        "Ola Khalid Alsalmi",
+        "Ruth D. Taylor",
+        "Steven Jones"
+      ],
+      "journal": "Advances in Autism",
+      "year": 2026,
+      "published_date": "2026-09-14",
+      "doi": "10.1108/aia-01-2026-0006",
+      "url": "https://doi.org/10.1108/aia-01-2026-0006",
+      "neurotype": [
+        "Autism"
+      ],
+      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
+      "framing": "Medical or diagnostic framing"
+    },
+    {
       "id": "10.1108/aia-06-2026-0082",
       "title": "Co-existing autism and personality disorder needs in adult inpatient services: prevalence and demographic profiling",
       "authors": [
@@ -8416,25 +8537,6 @@
         "access"
       ],
       "abstract": "Purpose Evidence suggests a complex relationship between autism and personality disorder, including overlap and co-occurrence of symptomology and aetiology. Yet, missed and misdiagnosis remain key challenges, particularly within secure care. This study aims to profile those with and without co-existing autism and personality disorder diagnoses, for the purpose of identifying potential disparities in care and ensuring access to holistic care pathways and better outcomes. Design/methodology/approach A retrospective file review of data was conducted to ascertain the prevalence of autism and personality disorder diagnoses, independently and concurrently, in 226 service users admitted to inpatient mental health services. Findings Overall, 9.7% of participants were autistic with a co-occurring personality disorder diagnosis. Participants more commonly had a personality disorder diagnosis without autism (29.2%), autism without a personality disorder diagnosis (16.4%), or neither diagnosis (44.7%). Gender was predictive of diagnostic group, with females more commonly having a personality disorder diagnosis (65.2% vs 20.1%) or co-existing diagnoses (15.2% vs 7.8%). Males were more commonly…"
-    },
-    {
-      "id": "10.1108/aia-01-2026-0006",
-      "title": "Diagnostic stability of autism spectrum disorder across the lifespan: systematic review and meta-analysis",
-      "authors": [
-        "Ola Khalid Alsalmi",
-        "Ruth D. Taylor",
-        "Steven Jones"
-      ],
-      "journal": "Advances in Autism",
-      "year": 2026,
-      "published_date": "2026-09-14",
-      "doi": "10.1108/aia-01-2026-0006",
-      "url": "https://doi.org/10.1108/aia-01-2026-0006",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "Purpose Autism spectrum disorder (ASD) is a neurodevelopmental disorder with highly variable presentation, developmental trajectories and outcomes. While traditionally considered a lifelong condition, recent evidence suggests that the diagnostic status may evolve over time in certain individuals. The aim of this systematic review with meta-analysis is to investigate long-term stability of ASD diagnosis at different developmental periods, considering the impact of diagnostic instruments, duration of follow-up and characteristics of individuals. Design/methodology/approach A systematic search following PRISMA 2020 guidelines using MEDLINE, PsycINFO and CINAHL. Studies included were longitudinal in design, published from 2014, with a follow-up period of 24 months or longer and had defined diagnostic criteria applied at both baseline and follow-up. Nine eligible studies (n = 4,436) were identified, and the pooled estimates of diagnostic stability were derived from the fixed- and random-effects models. Subgroup analyses assessed differences by follow-up, approach to diagnosis and age at diagnosis to age at follow-up. Findings Diagnostic stability estimates varied widely, with a pooled p…",
-      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07489-9",
@@ -9236,32 +9338,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1177/13623613261470855",
-      "title": "A Systematic Review and Quality Appraisal of AI-Augmented Intervention Studies for Autistic Individuals",
-      "authors": [
-        "Yusuf Akemoğlu",
-        "Emily Brooke Roberts",
-        "Jinjun Xiong"
-      ],
-      "journal": "Autism",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1177/13623613261470855",
-      "url": "https://doi.org/10.1177/13623613261470855",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Communication",
-        "Quality of life"
-      ],
-      "tags": [
-        "communication"
-      ],
-      "abstract": "Artificial intelligence (AI) has been increasingly integrated into autism interventions to support personalization and scalability; however, the strength of empirical evidence supporting these approaches remains unclear. In this systematic review, we synthesized and critically appraised experimental studies evaluating AI-based interventions for autistic individuals with a specific focus on intervention outcomes and methodological rigor. Following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines and a preregistered PROSPERO protocol, we searched databases and identified 13 eligible studies, including randomized controlled trials, quasi-experimental group designs, and single-case experimental designs. Reviewed studies targeted social engagement, communication, emotion recognition, empathy, adaptive participation, and symbolic play and predominantly employed human-in-the-loop models involving parents, educators, or clinicians. Methodological quality was evaluated using design-appropriate quality indicators and What Works Clearinghouse (WWC) standards. Although most studies reported positive short-term effects on participant-level outcomes, ri…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
       "id": "10.1177/25739581261478008",
       "title": "“A Delightful Embodiment of Dichotomies”: A Qualitative Exploration of Self-Concept and Identity Among Autistic and Non-Autistic People",
       "authors": [
@@ -9461,30 +9537,6 @@
       ],
       "abstract": "ABSTRACT The ability to detect recurring temporal co‐occurrence, or temporal correlation, of sensory events is fundamental for organizing perceptual input into coherent representations. Although past work has revealed differences across several aspects of temporal processing in autism, it is unknown whether autistic and non‐autistic individuals differ in the key computation of correlation detection. Here, we examined this question in the visual domain using an online task. A total of 143 age‐ and sex‐matched adults (73 autistic, 70 non‐autistic) viewed sequences in which three visual elements stochastically alternated between bright and dark states. Two of these were disks, and the third was a surrounding annulus. Participants indicated which of the two disks co‐occurred more reliably with the annulus. Accuracy increased systematically with correlation strength in both groups, but there were no significant group differences and no negative association between performance and autistic trait scores when controlling for nonverbal IQ. These findings suggest that visual correlation detection, under the conditions tested here, is preserved in autistic adults. This points to a key aspect…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1002/aur.70334",
-      "title": "The Effect of Online Parent Training With and Without Coaching Support on the Well‐Being of Families of Children With Neurodisabilities: A Randomized Controlled Trial",
-      "authors": [
-        "Jeffrey McCrossin",
-        "Ali Filali‐Mouhim",
-        "Michael Ungar",
-        "Karen McEwan",
-        "Kathleen O'Grady",
-        "Donna Thomson",
-        "Patricia Lingley‐Pottie",
-        "Patrick McGrath",
-        "Lucyna M. Lach"
-      ],
-      "journal": "Autism Research",
-      "year": 2026,
-      "published_date": "2026-09-01",
-      "doi": "10.1002/aur.70334",
-      "url": "https://doi.org/10.1002/aur.70334",
-      "neurotype": [
-        "Autism"
-      ],
-      "abstract": "ABSTRACT Families of children with neurodisabilities often face significant child behavioral challenges that can affect overall family functioning and well‐being. This randomized controlled trial (RCT) used family resilience theory as the investigative framework to examine the impact of an online parenting program designed to address child behavioral challenges. Parents of children with a range of neurodisabilities were randomized into three groups: a self‐directed online parenting program, the same program with coaching support, and a control group. Family well‐being was measured using the SCORE‐15 at baseline, 5, and 10 months. The primary analysis included a per‐protocol sample comprising self‐directed participants who completed ≥ 8 of 12 modules, coached participants who completed ≥ 8 modules and ≥ 8 coaching sessions, and all control‐group participants. Linear mixed models (LMMs) were used to analyze the repeated measures data, followed by standard linear regression models to assess the average intervention effect at each time point. Clinically significant changes were calculated via the reliable change index (RCI). Of the 454 families randomized, 422 participants had at least…"
     },
     {
       "id": "10.1177/10870547261483443",
@@ -10456,24 +10508,6 @@
       "framing": "Neurodiversity-informed"
     },
     {
-      "id": "10.1080/20473869.2026.2718189",
-      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
-      "authors": [
-        "Bilgihan Bikmazer",
-        "Oğuzhan Koyuncu",
-        "Elif Yilmaz Güleç"
-      ],
-      "journal": "International Journal of Developmental Disabilities",
-      "year": 2026,
-      "published_date": "2026-08-18",
-      "doi": "10.1080/20473869.2026.2718189",
-      "url": "https://doi.org/10.1080/20473869.2026.2718189",
-      "neurotype": [
-        "Autism"
-      ],
-      "framing": "Medical or diagnostic framing"
-    },
-    {
       "id": "10.1080/20473869.2026.2718177",
       "title": "Digital technology empowerment for preschool teachers in inclusive kindergartens: effects on teacher attitudes and social skills development in children with autism",
       "authors": [
@@ -10493,6 +10527,24 @@
         "Education"
       ],
       "framing": "Person-first language used"
+    },
+    {
+      "id": "10.1080/20473869.2026.2718189",
+      "title": "Biallelic TCF20 variants with a co-occurring PRKN microdeletion in two siblings with autism spectrum disorder: a case report",
+      "authors": [
+        "Bilgihan Bikmazer",
+        "Oğuzhan Koyuncu",
+        "Elif Yilmaz Güleç"
+      ],
+      "journal": "International Journal of Developmental Disabilities",
+      "year": 2026,
+      "published_date": "2026-08-18",
+      "doi": "10.1080/20473869.2026.2718189",
+      "url": "https://doi.org/10.1080/20473869.2026.2718189",
+      "neurotype": [
+        "Autism"
+      ],
+      "framing": "Medical or diagnostic framing"
     },
     {
       "id": "10.1007/s10803-026-07497-9",
@@ -11498,57 +11550,6 @@
       ],
       "abstract": "Background: Autistic adults experience depression at higher rates than non-autistic adults, yet there is limited evidence describing how psychologists identify depressive symptoms in this group. Autism-related characteristics may influence how autistic adults express and describe depressive experiences, and how psychologists interpret them in relation to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision ( DSM-5-TR ) criteria. This study examined how psychologists identify depressive symptoms in autistic adults, including how they interpret DSM-5-TR criteria and what additional indicators they consider. Methods: We conducted an exploratory qualitative study using semi-structured interviews with 20 psychologists experienced in providing psychological care to autistic adults, from October 2024 to January 2025. Using direct content analysis, we coded responses to DSM-5-TR depressive symptom criteria and used inductive coding to identify additional indicators. Results: Psychologists described DSM-5-TR criteria as a guiding framework but emphasized that their clinical usefulness depended on autism-informed interpretation in relation to baseline prese…",
       "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1007/s10803-026-07464-4",
-      "title": "“Support Me to Take the Steps I Need, to Live the Life I Want, in Ways That Work for Me”: Perspectives of Autistic Adolescents on What is Important for Their Quality of Life",
-      "authors": [
-        "Kathryn Ambrose",
-        "Kate Simpson",
-        "Elizabeth Pellicano",
-        "Melanie Heyworth",
-        "Jacquiline den Houting",
-        "Janneke Roth",
-        "Dawn Adams"
-      ],
-      "journal": "Journal of Autism and Developmental Disorders",
-      "year": 2026,
-      "published_date": "2026-07-30",
-      "doi": "10.1007/s10803-026-07464-4",
-      "url": "https://doi.org/10.1007/s10803-026-07464-4",
-      "neurotype": [
-        "Autism"
-      ],
-      "domains": [
-        "Employment",
-        "Quality of life"
-      ],
-      "tags": [
-        "lived experience"
-      ],
-      "abstract": "Abstract Purpose Quality of life (QoL) is a subjective construct, influenced by an individual’s values, priorities and goals, yet little research considers the views of Autistic people regarding what is important for living a ‘good life’. This study addresses the question: “What do Autistic adolescents describe is important for them to live a ‘good life’?”. Methods 42 Autistic adolescents aged 10–17 years (52.4% girls, 45.2% boys, 2.4% non-binary gender) shared their views about what is important for their QoL through written or spoken responses in either a survey or interview. Autistic adolescents were recruited via social media advertisements directed towards parents. Results We identified five themes reflecting the priorities of Autistic adolescents: being understood and accepted, connecting deeply with others, engaging in strengths and passions to experience achievement and develop self-worth, having agency to manage their own needs, and being consulted and listened to. These themes highlight specific aspects within the broad concept of QoL that are most important for Autistic adolescents. Conclusion This study adds to the conceptualisation of QoL for Autistic children and adol…",
-      "framing": "Neurodiversity-informed"
-    },
-    {
-      "id": "10.1177/10870547261469627",
-      "title": "Peer Functioning Among Children With ADHD in Early Childhood: The Role of Emotion Dysregulation",
-      "authors": [
-        "Eva L. Goldhagen",
-        "Anthony S. Dick",
-        "Paulo A. Graziano"
-      ],
-      "journal": "Journal of Attention Disorders",
-      "year": 2026,
-      "published_date": "2026-07-30",
-      "doi": "10.1177/10870547261469627",
-      "url": "https://doi.org/10.1177/10870547261469627",
-      "neurotype": [
-        "ADHD"
-      ],
-      "domains": [
-        "Education"
-      ],
-      "abstract": "Objective: The goal of this study was to (a) identify which dimensions of emotion dysregulation (i.e., emotion recognition/understanding, emotion regulation, emotion reactivity/lability, callous-unemotional behaviors) are most strongly associated with peer functioning for young children with ADHD only and with comorbid disruptive behavior disorders (ADHD + DBD) as compared to typically developing (TD) children and (b) assess whether improvements in children’s peer functioning are linked to changes in emotion regulation. Method: The sample included 323 children (68.7% boys; M age = 5.47, SD = 0.77, 81.4% Hispanic) with ADHD only ( n = 46), ADHD + DBD ( n = 129), and TD ( n = 148). Domains of emotion dysregulation were measured via parent/teacher report and behavioral observation. Peer functioning was examined via teacher report and sociometric measures administered in a summer camp setting. Results: Analyses of Covariance revealed significant differences in peer functioning and emotion dysregulation across diagnostic groups (Cohen’s d range from = −0.47 to 0.39). Multiple linear regressions indicated significant associations between all subdomains of emotion dysregulation and peer f…"
     }
   ]
 }
